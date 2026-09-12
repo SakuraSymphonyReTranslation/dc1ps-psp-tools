@@ -200,31 +200,36 @@ Cukup klik dua kali file **`run_menu.bat`** di folder utama:
 
 ---
 
-## 🌸 Status Kelengkapan Rute Heroine (14 Tab Scene Replay)
+## 🌸 Status Kelengkapan Rute Heroine (D.C.P.S. Plus Situation)
 
-Menu *Scene Replay* pada game *D.C. Plus Communication / Plus Situation* memiliki **14 Tab Rute** (13 Heroine + 1 Tab `etc`). Dari total **892 scene** di dalam game PSP (`NPJH50731`), sebanyak **721 scene (80.8%)** telah berhasil diterjemahkan secara hybrid (Arkanos FanTL + MangaGamer Official).
+**D.C.P.S. ～ダ・カーポ～ プラスシチュエーション ポータブル** (`NPJH50731` / `ULJM05718`) adalah visual novel versi konsol **All-Age (Semua Umur / CERO C)** untuk Sony PlayStation Portable (PSP).
 
-Berikut rincian kelengkapan masing-masing rute heroine:
+Berbeda dengan versi PC yang memiliki konten dewasa (18+), di dalam **Plus Situation** seluruh skenario disajikan khusus dalam format **All-Age**: adegan intim diganti total dengan adegan romantis ramah semua umur (*SFW wholesome romance*), ditambah event kehidupan sekolah baru, serta 6 heroine baru yang diperkenalkan pada versi konsol.
 
-| No | Tab Heroine (di Game) | Total Scene PSP | Terjemah Saat Ini | Status Kelengkapan | Keterangan Sumber |
-|:---:|---|:---:|:---:|:---:|---|
-| 1 | **Asakura Nemu** (朝倉 音夢) | 114 scene | 109 (95.6%) | ⚠️ Kurang 5 scene | MangaGamer (101) + FanTL (8) |
-| 2 | **Yoshino Sakura** (芳乃 さくら) | 94 scene | 91 (96.8%) | ⚠️ Kurang 3 scene | MangaGamer (79) + FanTL (12) |
-| 3 | **Shirakawa Kotori** (白河 ことり) | 91 scene | 89 (97.8%) | ⚠️ Kurang 2 scene | FanTL Arkanos (89) |
-| 4 | **Amakase Miharu** (天枷 美春) | 57 scene | 50 (87.7%) | ⚠️ Kurang 7 scene | FanTL (26) + MangaGamer (24) |
-| 5 | **Mizukoshi Moe** (水越 萌) | 41 scene | 39 (95.1%) | ⚠️ Kurang 2 scene | MangaGamer (39) |
-| 6 | **Mizukoshi Mako** (水越 眞子) | 21 scene | 17 (81.0%) | ⚠️ Kurang 4 scene | MangaGamer (16) + FanTL (1) |
-| 7 | **Tsukishiro Alice** (月城 アリス) | 40 scene | **40 (100%)** | ✅ **LENGKAP** | FanTL Arkanos (40) |
-| 8 | **Saitama Nanako** (彩珠 ななこ) | 29 scene | **4 (13.8%)** | ❌ **KURANG 25 SCENE** | Rute PS2/PSP belum selesai di FanTL |
-| 9 | **Konomiya Tamaki** (胡ノ宮 環) | 44 scene | **44 (100%)** | ✅ **LENGKAP** | FanTL (43) + MangaGamer (1) |
-| 10 | **Murasaki Izumiko** (紫 和泉子) | 9 scene | **0 (0.0%)** | ❌ **BELUM ADA (0%)** | 9 scene eksklusif belum terjemah |
-| 11 | **Kudou Kanae** (工藤 叶) | 17 scene | **17 (100%)** | ✅ **LENGKAP** | FanTL Arkanos (17) |
-| 12 | **Sagisawa Yoriko** (鷺澤 頼子) | 51 scene | **51 (100%)** | ✅ **LENGKAP** | MangaGamer (51) |
-| 13 | **Kiryuu Kasumi** (霧羽 香澄) | 5 scene | **3 (60.0%)** | ⚠️ **KURANG 2 SCENE** | Ending & Epilog belum ada |
-| 14 | **etc** (Common / Lain-lain) | 279 scene | 167 (59.9%) | ⚠️ Kurang 112 scene | Scene umum / side event |
-| | **TOTAL KESELURUHAN** | **892 scene** | **721 scene (80.8%)** | ⚠️ **Sisa 171 scene** | |
+Menu *Scene Replay* pada **D.C.P.S. Plus Situation** terbagi menjadi **14 Tab Rute** (13 Heroine + 1 Tab `etc`). Dari total **892 scene skrip All-Age** di dalam game, sebanyak **721 scene (80.8%)** saat ini telah siap dimainkan:
 
-> **Catatan Teknis**: Karakter **Izumiko**, **Nanako**, dan **Kasumi** adalah rute baru yang ditambahkan di rilis konsol PS2/PSP. MangaGamer hanya menerjemahkan 7 heroine orisinal PC 2002, sedangkan proyek FanTL Arkanos belum sempat menyelesaikan ketiga rute ini sebelum ditinggalkan. Anda dapat mengecek kelengkapan kapan saja dengan menjalankan:
+| No | Tab Heroine (di Menu Replay D.C.P.S.) | Kategori Karakter | Total Scene All-Age | Terjemah Saat Ini | Status Kelengkapan | Keterangan Skenario Plus Situation |
+|:---:|---|---|:---:|:---:|:---:|---|
+| 1 | **Asakura Nemu** (朝倉 音夢) | Heroine Utama | 114 scene | 109 (95.6%) | ⚠️ Sisa 5 scene | Skenario romansa sekolah & keluarga (SFW) |
+| 2 | **Yoshino Sakura** (芳乃 さくら) | Heroine Utama | 94 scene | 91 (96.8%) | ⚠️ Sisa 3 scene | Skenario pohon sakura abadi (SFW) |
+| 3 | **Shirakawa Kotori** (白河 ことり) | Heroine Utama | 91 scene | 89 (97.8%) | ⚠️ Sisa 2 scene | Skenario idola sekolah & musik (SFW) |
+| 4 | **Amakase Miharu** (天枷 美春) | Heroine Utama | 57 scene | 50 (87.7%) | ⚠️ Sisa 7 scene | Skenario adik kelas & robot Android (SFW) |
+| 5 | **Mizukoshi Moe** (水越 萌) | Heroine Utama | 41 scene | 39 (95.1%) | ⚠️ Sisa 2 scene | Skenario kakak Mizukoshi & xilofon (SFW) |
+| 6 | **Mizukoshi Mako** (水越 眞子) | Heroine Utama | 21 scene | 17 (81.0%) | ⚠️ Sisa 4 scene | Skenario teman masa kecil tomboy (SFW) |
+| 7 | **Sagisawa Yoriko** (鷺澤 頼子) | Heroine Pendukung | 51 scene | **51 (100%)** | ✅ **LENGKAP** | Skenario gadis kucing & pelayan (SFW) |
+| 8 | **Tsukishiro Alice** (月城 アリス) | Heroine Baru Konsol | 40 scene | **40 (100%)** | ✅ **LENGKAP** | Skenario pesulap sirkus & boneka (All-Age) |
+| 9 | **Konomiya Tamaki** (胡ノ宮 環) | Heroine Baru Konsol | 44 scene | **44 (100%)** | ✅ **LENGKAP** | Skenario gadis kuil miko & tunangan (All-Age) |
+| 10 | **Kudou Kanae** (工藤 叶) | Heroine Baru Konsol | 17 scene | **17 (100%)** | ✅ **LENGKAP** | Skenario teman sekelas & rahasia kembar (All-Age) |
+| 11 | **Saitama Nanako** (彩珠 ななこ) | Heroine Baru Konsol | 29 scene | **4 (13.8%)** | ❌ **Sisa 25 scene** | Skenario gadis ceria berkacamata (All-Age) |
+| 12 | **Murasaki Izumiko** (紫 和泉子) | Heroine Baru Konsol | 9 scene | **0 (0.0%)** | ❌ **Sisa 9 scene** | Skenario alien berkostum beruang (All-Age) |
+| 13 | **Kiryuu Kasumi** (霧羽 香澄) | Heroine Baru Konsol | 5 scene | **3 (60.0%)** | ⚠️ **Sisa 2 scene** | Skenario gadis arwah penasaran (All-Age) |
+| 14 | **etc** (Common & Event Sekolah) | Rute Umum & Sub-Event | 279 scene | 167 (59.9%) | ⚠️ Sisa 112 scene | Prolog, interaksi sekolah, komedi Suginami |
+| | **TOTAL KESELURUHAN D.C.P.S.** | | **892 scene** | **721 scene (80.8%)** | ⚠️ **Sisa 171 scene** | Seluruhnya skenario All-Age konsol PSP |
+
+> **Catatan Alur Terjemahan Skenario Plus Situation**:
+> 171 scene All-Age konsol yang belum diterjemahkan (termasuk rute **Nanako**, **Izumiko**, dan ending **Kasumi**) adalah naskah murni buatan Circus khusus untuk rilis konsol *Plus Situation*. Teks Jepang aslinya telah diekstrak lengkap di `analysis/dc1_script.json` dan siap diterjemahkan langsung ke **Bahasa Indonesia** melalui folder `translations/id/sheets/`.
+> 
+> Untuk memverifikasi kembali status kelengkapan scene kapan saja:
 > ```bash
 > python analysis/check_heroine_completion.py
 > ```
