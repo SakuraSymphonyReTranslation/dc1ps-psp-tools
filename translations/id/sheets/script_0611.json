@@ -1,0 +1,599 @@
+{
+  "scene": "script_0611.obj",
+  "dialogues": [
+    {
+      "offset": 179,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "４月７日。",
+      "en": "April 7th.",
+      "text": "April 7th."
+    },
+    {
+      "offset": 194,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "窓の外を眺めながら、ついに迎えてしまった日\n付を確認した。",
+      "en": "I checked the date again as I looked out the window.",
+      "text": "I checked the date again as I looked out the window."
+    },
+    {
+      "offset": 258,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 277,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「入学式か」",
+      "en": "\"The first day of school.\"",
+      "text": "\"The first day of school.\""
+    },
+    {
+      "offset": 296,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ベッドから離れて軽く背伸びする。",
+      "en": "I walked away from my bed and stretched.",
+      "text": "I walked away from my bed and stretched."
+    },
+    {
+      "offset": 333,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "体調はあまり良くない。なんとなく微熱がある\nような感じだ。",
+      "en": "I don't feel well. I feel like I have a slight fever.",
+      "text": "I don't feel well. I feel like I have a slight fever."
+    },
+    {
+      "offset": 395,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もう１度窓の外を眺めて、音夢の部屋に向かう。",
+      "en": "I looked out the window once again, and went to Nemu's room.",
+      "text": "I looked out the window once again, and went to Nemu's room."
+    },
+    {
+      "offset": 482,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「けほっ……こほん……」",
+      "en": "\"Cough...... cough......\"",
+      "text": "\"Cough...... cough......\""
+    },
+    {
+      "offset": 513,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「音夢？」",
+      "en": "\"Nemu?\"",
+      "text": "\"Nemu?\""
+    },
+    {
+      "offset": 563,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「っ……兄さん」",
+      "en": "\"Niisan......\"",
+      "text": "\"Niisan......\""
+    },
+    {
+      "offset": 586,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "上半身を起こして、音夢がぼーっとした顔で俺\nを見上げる。",
+      "en": "She sat up on the bed and looked at me, spaced out.",
+      "text": "She sat up on the bed and looked at me, spaced out."
+    },
+    {
+      "offset": 648,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「風邪か？」",
+      "en": "\"A cold?\"",
+      "text": "\"A cold?\""
+    },
+    {
+      "offset": 695,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「う……うん。ごめん兄さん、ちょっと起きら\n　れそうにない」",
+      "en": "\"I guess...... Sorry, niisan, I can't get up.\"",
+      "text": "\"I guess...... Sorry, niisan, I can't get up.\""
+    },
+    {
+      "offset": 761,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんとなく。",
+      "en": "It made me feel......",
+      "text": "It made me feel......"
+    },
+    {
+      "offset": 778,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛ひきょう／卑怯｝なことに、音夢の進学の話を切り出さずに\n済むのかと安堵してしまう。",
+      "en": "I felt relieved, because I thought maybe I didn't have to\ntell her that she can't go back to school anymore.",
+      "text": "I felt relieved, because I thought maybe I didn't have to\ntell her that she can't go back to school anymore."
+    },
+    {
+      "offset": 868,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まぁ、今日は入学式だけだから、無理して出\n　なくてもいいって」",
+      "en": "\"Well, it's only the first day of school, so you don't have\nto go.\"",
+      "text": "\"Well, it's only the first day of school, so you don't have\nto go.\""
+    },
+    {
+      "offset": 966,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うん。でも、こういうのは一生に一度しかな\n　いからもったいないよね」",
+      "en": "\"Yeah. But the first day of high school only happens only\nonce in a lifetime, and I'm going to miss that.\"",
+      "text": "\"Yeah. But the first day of high school only happens only\nonce in a lifetime, and I'm going to miss that.\""
+    },
+    {
+      "offset": 1042,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……まぁな」",
+      "en": "\"Yeah......\"",
+      "text": "\"Yeah......\""
+    },
+    {
+      "offset": 1091,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、そうだ、全然関係ないんだけどさ、私が\n　どうして風紀委員をやってるか話したっけ？」",
+      "en": "\"By the way, have I ever told you why I'm involved with the\nschool committee?\"",
+      "text": "\"By the way, have I ever told you why I'm involved with the\nschool committee?\""
+    },
+    {
+      "offset": 1185,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "唐突に、音夢が手を合わせて微笑む。",
+      "en": "Nemu put her hands together and smiled.",
+      "text": "Nemu put her hands together and smiled."
+    },
+    {
+      "offset": 1226,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや」",
+      "en": "\"No.\"",
+      "text": "\"No.\""
+    },
+    {
+      "offset": 1252,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「えへへへ……知りたい？」",
+      "en": "\"Teehee...... Do you want to know?\"",
+      "text": "\"Teehee...... Do you want to know?\""
+    },
+    {
+      "offset": 1285,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――話してもいい？",
+      "en": "---- Can I tell you?",
+      "text": "---- Can I tell you?"
+    },
+    {
+      "offset": 1310,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あぁ」",
+      "en": "\"Sure.\"",
+      "text": "\"Sure.\""
+    },
+    {
+      "offset": 1336,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うん。あのね、私はお祭りが大好きなんだよ。\n　兄さんや杉並くんよりも好きだと思う」",
+      "en": "\"I love festivals and parties. I think I like them more than\nyou or Suginami.\"",
+      "text": "\"I love festivals and parties. I think I like them more than\nyou or Suginami.\""
+    },
+    {
+      "offset": 1437,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「みんなが楽しそうに笑っていて、幸せそうで、\n　仲良くしている姿がすごく好きなの」",
+      "en": "\"I love to see everyone so happy and smiling.\"",
+      "text": "\"I love to see everyone so happy and smiling.\""
+    },
+    {
+      "offset": 1536,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だからね。そういう何気ない笑顔をこっそり\n　と守れる仕事がしたかったんだ」",
+      "en": "\"That's why I wanted to join the school committee, so that I\ncan plan them and make sure everybody has a good time.\"",
+      "text": "\"That's why I wanted to join the school committee, so that I\ncan plan them and make sure everybody has a good time.\""
+    },
+    {
+      "offset": 1618,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まるで子供を見守る母親のように、音夢が嬉し\nそうに笑う。",
+      "en": "Nemu smiled like a mother who's looking at her child.",
+      "text": "Nemu smiled like a mother who's looking at her child."
+    },
+    {
+      "offset": 1680,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そっか」",
+      "en": "\"I see.\"",
+      "text": "\"I see.\""
+    },
+    {
+      "offset": 1697,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだか涙腺がおかしい。",
+      "en": "My tear duct's acting weird.",
+      "text": "My tear duct's acting weird."
+    },
+    {
+      "offset": 1726,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目の奥がジンジンと熱をもってきてしまう。",
+      "en": "The back of my eyes are heating up and aching.",
+      "text": "The back of my eyes are heating up and aching."
+    },
+    {
+      "offset": 1801,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だからね……だから」",
+      "en": "\"So...... that's why.\"",
+      "text": "\"So...... that's why.\""
+    },
+    {
+      "offset": 1858,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「今日は私のこと忘れて、いっぱい楽しんでき\n　てね兄さん」",
+      "en": "\"I want you to have fun and don't worry about me. Okay?\"",
+      "text": "\"I want you to have fun and don't worry about me. Okay?\""
+    },
+    {
+      "offset": 1922,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ……その」",
+      "en": "\"Mm...... well.\"",
+      "text": "\"Mm...... well.\""
+    },
+    {
+      "offset": 1943,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんと言うのか、似合わないくらいうろたえて\nしまう。",
+      "en": "I couldn't remain calm.",
+      "text": "I couldn't remain calm."
+    },
+    {
+      "offset": 2029,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さん……」",
+      "en": "\"Niisan......\"",
+      "text": "\"Niisan......\""
+    },
+    {
+      "offset": 2050,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そっ、と音夢の手が伸びてきて、俺の頬をなで\nる。",
+      "en": "Nemu soothed my cheek with her hand.",
+      "text": "Nemu soothed my cheek with her hand."
+    },
+    {
+      "offset": 2102,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "完全な不意打ちだった。",
+      "en": "\"Niisan...... don't look like that. Today's a new\nbeginning.\"",
+      "text": "\"Niisan...... don't look like that. Today's a new\nbeginning.\""
+    },
+    {
+      "offset": 2159,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さん……そんな顔しないで。今日は始まり\n　なんだよ」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2221,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"Now, go on.\"",
+      "text": "\"Now, go on.\""
+    },
+    {
+      "offset": 2251,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いってらっしゃい」",
+      "en": "\"Mm...... I'll see you later.\"",
+      "text": "\"Mm...... I'll see you later.\""
+    },
+    {
+      "offset": 2278,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の触れた部分が熱かった。",
+      "en": "We kissed gently.",
+      "text": "We kissed gently."
+    },
+    {
+      "offset": 2311,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "波紋が広がるように。",
+      "en": "I haven't felt the soft lips and slender shoulders and her\nwarms for a while.",
+      "text": "I haven't felt the soft lips and slender shoulders and her\nwarms for a while."
+    },
+    {
+      "offset": 2336,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そこから全身へと、音夢のぬくもりが伝わって\nいく。",
+      "en": "Then I realized I wasn't supposed to touch her......",
+      "text": "Then I realized I wasn't supposed to touch her......"
+    },
+    {
+      "offset": 2390,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頭の芯がぼうっとする。",
+      "en": "It was really important, but it felt like a war in a foreign\ncountry which you can only watch on the news in TV.",
+      "text": "It was really important, but it felt like a war in a foreign\ncountry which you can only watch on the news in TV."
+    },
+    {
+      "offset": 2417,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何も考えられない。",
+      "en": "\"Mm...... That is it.\"",
+      "text": "\"Mm...... That is it.\""
+    },
+    {
+      "offset": 2440,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何も考えたくない。",
+      "en": "\"Okay......\"",
+      "text": "\"Okay......\""
+    },
+    {
+      "offset": 2463,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "このまま──。",
+      "en": "And we saw a cherry blossom fell on us.",
+      "text": "And we saw a cherry blossom fell on us."
+    },
+    {
+      "offset": 2482,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "伸ばしている手を握りしめて。",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 2515,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "強く引き寄せて。",
+      "en": "\"Where did that come from?\"",
+      "text": "\"Where did that come from?\""
+    },
+    {
+      "offset": 2536,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思いっきり抱きしめてしまいたかった。",
+      "en": "We looked at each other and looked at the ceiling.",
+      "text": "We looked at each other and looked at the ceiling."
+    },
+    {
+      "offset": 2577,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "壊れたってかまわない。これぐらいのことで壊\nれてしまうのなら、全然かまわない。",
+      "en": "Of course there isn't a cherry tree growing on the ceiling.",
+      "text": "Of course there isn't a cherry tree growing on the ceiling."
+    },
+    {
+      "offset": 2659,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "強い──。",
+      "en": "\"You know. I think this come out from our lips.\"",
+      "text": "\"You know. I think this come out from our lips.\""
+    },
+    {
+      "offset": 2674,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とても強い誘惑だった。",
+      "en": "She clapped her hand and smiled.",
+      "text": "She clapped her hand and smiled."
+    },
+    {
+      "offset": 2701,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だけど──。",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 2720,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（駄目なんだ。……それだけは駄目なんだ）",
+      "en": "\"I think it came out from where we kissed.\"",
+      "text": "\"I think it came out from where we kissed.\""
+    },
+    {
+      "offset": 2767,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当に音夢を失ってしまうわけにはいかないか\nら。",
+      "en": "\"It's not a Japanese sweet, you know?\"",
+      "text": "\"It's not a Japanese sweet, you know?\""
+    },
+    {
+      "offset": 2819,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ここで誘惑に負けて、感情に流されてしまって、\nいいわけなんてなかったから。",
+      "en": "And then, I realized being able to create Japanese sweets is\nmore absurd than what she said.",
+      "text": "And then, I realized being able to create Japanese sweets is\nmore absurd than what she said."
+    },
+    {
+      "offset": 2897,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "でも……それでも、理性で歯止めがきく感情じゃ\nなかったから。",
+      "en": "\"Japanese sweets? Isn't this so romantic? Our kisses can\ncreate a cherry blossoms.\"",
+      "text": "\"Japanese sweets? Isn't this so romantic? Our kisses can\ncreate a cherry blossoms.\""
+    },
+    {
+      "offset": 2961,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "せめてこれぐらいは──。",
+      "en": "\"Yeah, yeah......\"",
+      "text": "\"Yeah, yeah......\""
+    },
+    {
+      "offset": 2990,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の手にそっと触れ、握る。",
+      "en": "\"Oh, you have to go, you'll be late.\"",
+      "text": "\"Oh, you have to go, you'll be late.\""
+    },
+    {
+      "offset": 3025,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「………………」",
+      "en": "\"Don't push my forehead!\"",
+      "text": "\"Don't push my forehead!\""
+    },
+    {
+      "offset": 3048,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……行って来る」",
+      "en": "\"I'm paying you back.\"",
+      "text": "\"I'm paying you back.\""
+    },
+    {
+      "offset": 3084,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……行ってらっしゃい兄さん」",
+      "en": "Nemu's pale finger touched my lip.",
+      "text": "Nemu's pale finger touched my lip."
+    },
+    {
+      "offset": 3121,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ああ……。",
+      "en": "\"I'll see you later, niisan.\"",
+      "text": "\"I'll see you later, niisan.\""
+    },
+    {
+      "offset": 3136,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まったくもって、嫌になるくらい──。",
+      "en": "We both embraced, happy to be close together and said\ngoodbye.",
+      "text": "We both embraced, happy to be close together and said\ngoodbye."
+    },
+    {
+      "offset": 3177,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は音夢が好きなんだ。",
+      "en": "I really, truly ----",
+      "text": "I really, truly ----"
+    },
+    {
+      "offset": 3204,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の手を離して、逃げていく体温に、俺はそ\nう確信した。",
+      "en": "love Nemu a lot.",
+      "text": "love Nemu a lot."
+    },
+    {
+      "offset": 3379,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆いってらっしゃい◆",
+      "en": "◆See you later◆",
+      "text": "◆See you later◆"
+    },
+    {
+      "offset": 3428,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ついに迎えてしまった入学式の日。体調の崩れ\nた音夢を察して俺も休もうとしたのだが、どう\nしても行って欲しいとせがまれる。",
+      "en": "It was finally the first day of school. I thought about\nskipping school to be with Nemu who still wasn't feeling\nwell, but she said she wants me to go.",
+      "text": "It was finally the first day of school. I thought about\nskipping school to be with Nemu who still wasn't feeling\nwell, but she said she wants me to go."
+    },
+    {
+      "offset": 3551,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "兄さんに思い出を作ってきて欲しいと――自分\nの代わりにと。",
+      "en": "She wants me to have good memories of school for her since\nshe can't have them.",
+      "text": "She wants me to have good memories of school for her since\nshe can't have them."
+    },
+    {
+      "offset": 3613,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さすがの俺も、仕方なく家を出ることにした。",
+      "en": "So I decided to go because she said so.",
+      "text": "So I decided to go because she said so."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "474": "Nemu",
+    "555": "Nemu",
+    "687": "Nemu",
+    "958": "Nemu",
+    "1083": "Nemu",
+    "1244": "Nemu",
+    "1328": "Nemu",
+    "1429": "Nemu",
+    "1528": "Nemu",
+    "1793": "Nemu",
+    "1850": "Nemu",
+    "2021": "Nemu",
+    "2151": "Nemu",
+    "2243": "Nemu",
+    "3076": "Nemu"
+  }
+}

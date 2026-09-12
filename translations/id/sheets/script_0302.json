@@ -1,0 +1,39 @@
+{
+  "scene": "script_0302.obj",
+  "dialogues": [
+    {
+      "offset": 131,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふぅ……目覚ましもセットしたし、眠るか」",
+      "en": "\"Hoo... alarm clock set, now to sleep.\"",
+      "text": "\"Hoo... alarm clock set, now to sleep.\""
+    },
+    {
+      "offset": 180,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は布団に潜り込むと、目を｛つむ／瞑｝り暗闇へと沈ん\nでいった……。",
+      "en": "I crept under the covers, and let the darkness overtake\nme...",
+      "text": "I crept under the covers, and let the darkness overtake\nme..."
+    },
+    {
+      "offset": 444,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆セット完了◆",
+      "en": "◆Setting Complete◆",
+      "text": "◆Setting Complete◆"
+    },
+    {
+      "offset": 487,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目覚ましもセットしたし、さて寝ますかね。",
+      "en": "After setting the alarm clock, I fell asleep.",
+      "text": "After setting the alarm clock, I fell asleep."
+    }
+  ],
+  "choices": [],
+  "names": {}
+}

@@ -1,0 +1,556 @@
+{
+  "scene": "script_0398.obj",
+  "dialogues": [
+    {
+      "offset": 249,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「まっ」",
+      "en": "\"Wha...\"",
+      "text": "\"Wha...\""
+    },
+    {
+      "offset": 264,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の顔を見るなり、音夢が奇妙な声をあげる。",
+      "en": "Nemu let out a strange sound as she saw me walk down the\nstairs.",
+      "text": "Nemu let out a strange sound as she saw me walk down the\nstairs."
+    },
+    {
+      "offset": 313,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どうかしたか？」",
+      "en": "\"What's up?\"",
+      "text": "\"What's up?\""
+    },
+    {
+      "offset": 369,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 388,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「おい、音夢？　ねじでも切れたか？」",
+      "en": "\"Oy, Nemu? Something wrong?\"",
+      "text": "\"Oy, Nemu? Something wrong?\""
+    },
+    {
+      "offset": 431,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目の前で、手をぱたぱた振ってやる。",
+      "en": "Nemu was pinching her wrist with her other hand.",
+      "text": "Nemu was pinching her wrist with her other hand."
+    },
+    {
+      "offset": 483,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さん……どうしたの？」",
+      "en": "\"Brother... what happened?\"",
+      "text": "\"Brother... what happened?\""
+    },
+    {
+      "offset": 516,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「どうしたの？　はお前の方だ」",
+      "en": "\"What happened? That's what I should be asking.\"",
+      "text": "\"What happened? That's what I should be asking.\""
+    },
+    {
+      "offset": 581,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「昨日、あれ程言ったじゃないですか。兄さん\n　は、もう春休みに入ってるって」",
+      "en": "\"I told you yesterday, didn't I? That it's spring break\nalready...\"",
+      "text": "\"I told you yesterday, didn't I? That it's spring break\nalready...\""
+    },
+    {
+      "offset": 663,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言いつつ、ちょこんとテーブルに着く。見ると、\n俺の分の朝食は用意されていない。",
+      "en": "As we were speaking, I reached the table. Looks like she\ndidn't bother preparing my half of breakfast.",
+      "text": "As we were speaking, I reached the table. Looks like she\ndidn't bother preparing my half of breakfast."
+    },
+    {
+      "offset": 775,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「それとも、普通に早起き？　豚でも降らした\n　いんですか？」",
+      "en": "\"And you're still waking up at a normal hour? Shouldn't you\nbe sleeping like a pig by now?\"",
+      "text": "\"And you're still waking up at a normal hour? Shouldn't you\nbe sleeping like a pig by now?\""
+    },
+    {
+      "offset": 841,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ああ、いいな。豚汁、カツ丼、のぶ太くん」",
+      "en": "\"Ahh, that would be good. Mud baths, Katsu-don, and\nNobuta-kun.\"",
+      "text": "\"Ahh, that would be good. Mud baths, Katsu-don, and\nNobuta-kun.\""
+    },
+    {
+      "offset": 890,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の前に置いてあるトーストをかっさらう。",
+      "en": "I took the piece of toast in front of Nemu.",
+      "text": "I took the piece of toast in front of Nemu."
+    },
+    {
+      "offset": 939,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あのな、音夢。かったるいから一言で言うけ\n　ど」",
+      "en": "\"Anyway, Nemu. I forgot to tell you something.\"",
+      "text": "\"Anyway, Nemu. I forgot to tell you something.\""
+    },
+    {
+      "offset": 995,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あっという間にパンを消費して、音夢のカップ\nを手に取った。",
+      "en": "After wolfing down the bread in one bite, I took Nemu's cup\nas well.",
+      "text": "After wolfing down the bread in one bite, I took Nemu's cup\nas well."
+    },
+    {
+      "offset": 1059,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺にも、仕事が出来たんだ」",
+      "en": "\"I've found work to do.\"",
+      "text": "\"I've found work to do.\""
+    },
+    {
+      "offset": 1100,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 1130,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「卒パの？」",
+      "en": "\"For the graduation party?\"",
+      "text": "\"For the graduation party?\""
+    },
+    {
+      "offset": 1149,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「少なくとも、マグロ漁船には乗らない」",
+      "en": "\"Let's just say it's not as a fisherman's assistant.\"",
+      "text": "\"Let's just say it's not as a fisherman's assistant.\""
+    },
+    {
+      "offset": 1194,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "飲み干したカップをテーブルに置く。",
+      "en": "I gulped down the cup's contents and place it back onto the\ntable.",
+      "text": "I gulped down the cup's contents and place it back onto the\ntable."
+    },
+    {
+      "offset": 1263,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……杉並君とつるんで、何か悪さするつもり\n　じゃないでしょうね？」",
+      "en": "\"...What did Suginami-kun have to go through to get you to\ndo this?\"",
+      "text": "\"...What did Suginami-kun have to go through to get you to\ndo this?\""
+    },
+    {
+      "offset": 1337,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あんな阿呆とつるむくらいなら、フラフープ\n　で一人寂しく腰でも振っていたほうがマシだ」",
+      "en": "\"I always try my best not to involve myself with that\nsimpleton at all costs.\"",
+      "text": "\"I always try my best not to involve myself with that\nsimpleton at all costs.\""
+    },
+    {
+      "offset": 1431,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「で、音夢」",
+      "en": "\"And also.\"",
+      "text": "\"And also.\""
+    },
+    {
+      "offset": 1478,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「何？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 1493,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "空になったカップの底を覗き込んで、音夢が寂\nしげにため息をついた。",
+      "en": "Peering at the now-empty cup, Nemu let out a loud sigh.",
+      "text": "Peering at the now-empty cup, Nemu let out a loud sigh."
+    },
+    {
+      "offset": 1565,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「紙を何枚かと、セロテープ、それから、赤い\n　マジックを貸してくれ」",
+      "en": "\"Can you lend me a few sheets of paper, some cellophone\ntape, and a few red magic markers?\"",
+      "text": "\"Can you lend me a few sheets of paper, some cellophone\ntape, and a few red magic markers?\""
+    },
+    {
+      "offset": 1698,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「よっしゃ。だいたいこんなもんだな」",
+      "en": "\"Alright, this should be enough.\"",
+      "text": "\"Alright, this should be enough.\""
+    },
+    {
+      "offset": 1741,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "３歩下がり、腰に手を当て、自分の仕事ぶりに\n満足を覚える。",
+      "en": "I took three steps out of the convenience store, holding my\nmasterpieces at my hip.",
+      "text": "I took three steps out of the convenience store, holding my\nmasterpieces at my hip."
+    },
+    {
+      "offset": 1803,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この結界を突破出来る奴は、コンビニで値切り\n交渉を始めるくらいの強者だけだろう。",
+      "en": "I had to haggle strongly to get a good price for these\nitems.",
+      "text": "I had to haggle strongly to get a good price for these\nitems."
+    },
+    {
+      "offset": 1889,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はっはっは！　これで、心おきなく練習して\n　もらえるぜっ！！」",
+      "en": "\"Hah hah hah! With this, practice can go smoothly!\"",
+      "text": "\"Hah hah hah! With this, practice can go smoothly!\""
+    },
+    {
+      "offset": 1972,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「おはよ〜……なに高笑いしてるんですか」",
+      "en": "\"Good morning~... what's with that vaguely evil laughter?\"",
+      "text": "\"Good morning~... what's with that vaguely evil laughter?\""
+    },
+    {
+      "offset": 2019,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「おう、おはよっす」",
+      "en": "\"Ohh, good morning.\"",
+      "text": "\"Ohh, good morning.\""
+    },
+    {
+      "offset": 2086,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「出来たマネージャーさんですね♪　アーティ\n　ストの到着を待ってるなんて」",
+      "en": "\"Ooh, not only a good manager, but an artist as well♪\"",
+      "text": "\"Ooh, not only a good manager, but an artist as well♪\""
+    },
+    {
+      "offset": 2166,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぐっと親指を突き立てる。",
+      "en": "Kotori gave me the thumbs-up.",
+      "text": "Kotori gave me the thumbs-up."
+    },
+    {
+      "offset": 2197,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ああ。俺って、もしかしたら向いてるのかも。\n　こんなマメな事するくらいだし」",
+      "en": "\"Ahh. T'is the first time I've done such honest, devoted\nwork.\"",
+      "text": "\"Ahh. T'is the first time I've done such honest, devoted\nwork.\""
+    },
+    {
+      "offset": 2281,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「かったるいかったるいとばかり言ってきた今\n　までの人生が、まるきり嘘みたいだぜ……」",
+      "en": "\"The days where I'd just write this off as troublesome seem\nlike a lie now...\"",
+      "text": "\"The days where I'd just write this off as troublesome seem\nlike a lie now...\""
+    },
+    {
+      "offset": 2373,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふははっ！　さらば、かったるい人生の俺！」",
+      "en": "\"Fuhaha! Farewell, my troubled previous life!\"",
+      "text": "\"Fuhaha! Farewell, my troubled previous life!\""
+    },
+    {
+      "offset": 2454,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……マメ？」",
+      "en": "\"...Honest?\"",
+      "text": "\"...Honest?\""
+    },
+    {
+      "offset": 2475,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "くいっとあごを動かし、俺の労作へと注意を促\nす。",
+      "en": "Putting her hand to her chin, she studied my the fruits of\nmy arduous labour carefully.",
+      "text": "Putting her hand to her chin, she studied my the fruits of\nmy arduous labour carefully."
+    },
+    {
+      "offset": 2542,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ん？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 2587,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「うぇ……？」",
+      "en": "\"Uh...?\"",
+      "text": "\"Uh...?\""
+    },
+    {
+      "offset": 2608,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「どうだ、ことり！　これなら、誰も入ってこ\n　れないぜ！」",
+      "en": "\"How's that, Kotori! With this, no one would dare enter!\"",
+      "text": "\"How's that, Kotori! With this, no one would dare enter!\""
+    },
+    {
+      "offset": 2702,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2721,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ん？　どうかしたか？」",
+      "en": "\"Hm? What's wrong?\"",
+      "text": "\"Hm? What's wrong?\""
+    },
+    {
+      "offset": 2752,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "称賛の歓声が沸きあがるかと思いきや、ことり\nは固まってしまっている。",
+      "en": "Despite my proclamation of victory, Kotori was still staring\nstone-cold at my handiwork.",
+      "text": "Despite my proclamation of victory, Kotori was still staring\nstone-cold at my handiwork."
+    },
+    {
+      "offset": 2879,
+      "speaker": "Tomo-chan",
+      "speaker_jp": "ともちゃん",
+      "jp": "「おはようございます」",
+      "en": "\"Good morning.\"",
+      "text": "\"Good morning.\""
+    },
+    {
+      "offset": 2923,
+      "speaker": "Mik-kun",
+      "speaker_jp": "みっくん",
+      "jp": "「おはようです〜」",
+      "en": "\"Morning~\"",
+      "text": "\"Morning~\""
+    },
+    {
+      "offset": 2948,
+      "speaker": "Mik-kun",
+      "speaker_jp": "みっくん",
+      "jp": "「ああ、ふたりともおは──」",
+      "en": "\"Ah, good mo--\"",
+      "text": "\"Ah, good mo--\""
+    },
+    {
+      "offset": 2983,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりと同じく固まってしまったふたりに、言\n葉が止まった。",
+      "en": "Just like Kotori, the two of them immediately froze.",
+      "text": "Just like Kotori, the two of them immediately froze."
+    },
+    {
+      "offset": 3047,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あの……ドカシマシタ？」",
+      "en": "\"Uhm... is... something... wrong?\"",
+      "text": "\"Uhm... is... something... wrong?\""
+    },
+    {
+      "offset": 3118,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「は……あはは……朝倉君」",
+      "en": "\"Ha... ahaha... Asakura-kun...\"",
+      "text": "\"Ha... ahaha... Asakura-kun...\""
+    },
+    {
+      "offset": 3151,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ん？」",
+      "en": "\"Eh?\"",
+      "text": "\"Eh?\""
+    },
+    {
+      "offset": 3179,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「確かに、｛・・・・・・／誰も入れない｝よね」",
+      "en": "\"You're right... no one can enter.\"",
+      "text": "\"You're right... no one can enter.\""
+    },
+    {
+      "offset": 3245,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ギャラリーばっかりじゃなくて、私達も……」",
+      "en": "\"None of the gallery... and not even us...\"",
+      "text": "\"None of the gallery... and not even us...\""
+    },
+    {
+      "offset": 3296,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりの指が、空中に四角を描く。ドアの枠に、\nそのまま沿うような形で……。",
+      "en": "Kotori painted a square in the air using her finger, in the\nexact shape of the door.",
+      "text": "Kotori painted a square in the air using her finger, in the\nexact shape of the door."
+    },
+    {
+      "offset": 3374,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しっかりと──俺によって──密閉されたドア\nが無言の圧力を醸し出していた。",
+      "en": "I looked at the airtight door I had just made.",
+      "text": "I looked at the airtight door I had just made."
+    },
+    {
+      "offset": 3454,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3473,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "………。",
+      "en": ".........",
+      "text": "........."
+    },
+    {
+      "offset": 3486,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 3497,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…。",
+      "en": "...",
+      "text": "..."
+    },
+    {
+      "offset": 3508,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「かったるい……」",
+      "en": "\"So troublesome...\"",
+      "text": "\"So troublesome...\""
+    },
+    {
+      "offset": 3651,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆ギャラリー締め出し◆",
+      "en": "◆Shutting Down the Gallery◆",
+      "text": "◆Shutting Down the Gallery◆"
+    },
+    {
+      "offset": 3706,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢から必要なブツを借りて、俺は学園へと急\nいだ。",
+      "en": "Borrowing some stuff from Nemu and stopping by the\nconvenience store on the way, I rushed to school.",
+      "text": "Borrowing some stuff from Nemu and stopping by the\nconvenience store on the way, I rushed to school."
+    },
+    {
+      "offset": 3783,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、働く。",
+      "en": "My work started now.",
+      "text": "My work started now."
+    },
+    {
+      "offset": 3802,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やって来たことり達の賞賛の声があがるかと思\nいきや、しかし……。",
+      "en": "I thought I'd get praises when Kotori and her friends\narrived. However....",
+      "text": "I thought I'd get praises when Kotori and her friends\narrived. However...."
+    },
+    {
+      "offset": 3870,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふさいだ扉は、ギャラリーだけでなく、俺達ま\nでも入れないのだった。",
+      "en": "I had done the job so well that not only anyone else, but\nourselves as well, couldn't get in.",
+      "text": "I had done the job so well that not only anyone else, but\nourselves as well, couldn't get in."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "241": "Nemu",
+    "361": "Nemu",
+    "475": "Nemu",
+    "573": "Nemu",
+    "767": "Nemu",
+    "1092": "Nemu",
+    "1122": "Nemu",
+    "1255": "Nemu",
+    "1470": "Nemu",
+    "1962": "Kotori",
+    "2076": "Kotori",
+    "2444": "Kotori",
+    "2532": "Kotori",
+    "2577": "Kotori",
+    "2692": "Kotori",
+    "2865": "Tomo-chan",
+    "2911": "Mik-kun",
+    "3108": "Kotori",
+    "3169": "Kotori",
+    "3235": "Kotori"
+  }
+}

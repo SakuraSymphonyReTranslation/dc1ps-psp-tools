@@ -1,0 +1,746 @@
+{
+  "scene": "script_0475.obj",
+  "dialogues": [
+    {
+      "offset": 189,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まあ、来るなとは言われなかったし、別にい\n　いよな」",
+      "en": "\"Well, I didn't say I was coming, but it should be alright.\"",
+      "text": "\"Well, I didn't say I was coming, but it should be alright.\""
+    },
+    {
+      "offset": 249,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日こそは俺の看病｛コスモ／小宇宙｝を爆発させるべく、\n白河家へとやって来た。",
+      "en": "Once again, I was visitng Kotori's house to look after her.",
+      "text": "Once again, I was visitng Kotori's house to look after her."
+    },
+    {
+      "offset": 331,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "人差し指をピンと立てる。インターホンを押す\n指にも力が入るってものだ。",
+      "en": "I press my index finger onto the interphone button.",
+      "text": "I press my index finger onto the interphone button."
+    },
+    {
+      "offset": 410,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――ピンポーン",
+      "en": "--*Ding dong*",
+      "text": "--*Ding dong*"
+    },
+    {
+      "offset": 429,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音も違って聞こえるぜ！",
+      "en": "I heard a different sound.",
+      "text": "I heard a different sound."
+    },
+    {
+      "offset": 473,
+      "speaker": "???",
+      "speaker_jp": "？？？",
+      "jp": "『はい』",
+      "en": "\"Yes?\"",
+      "text": "\"Yes?\""
+    },
+    {
+      "offset": 488,
+      "speaker": "???",
+      "speaker_jp": "？？？",
+      "jp": "「あ、朝倉だけど」",
+      "en": "\"I, it's Asakura.\"",
+      "text": "\"I, it's Asakura.\""
+    },
+    {
+      "offset": 526,
+      "speaker": "???",
+      "speaker_jp": "？？？",
+      "jp": "『あ、朝倉君ですね。ちょっと待ってください』",
+      "en": "\"Ah, it's you. Hold on a second.\"",
+      "text": "\"Ah, it's you. Hold on a second.\""
+    },
+    {
+      "offset": 577,
+      "speaker": "???",
+      "speaker_jp": "？？？",
+      "jp": "「…………？　何だか、声が違うような？　ま\n　さか、風邪のせいで……？」",
+      "en": "\"......? Her voice sounds different? Don't tell me the\ncold's returned...\"",
+      "text": "\"......? Her voice sounds different? Don't tell me the\ncold's returned...\""
+    },
+    {
+      "offset": 655,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ドアが開く。不安は一瞬にして杞憂に終わり、\nコスモも一緒にしぼんだ。",
+      "en": "The door opened. My short moment of anxiety ended once I saw\nthe face behind the door.",
+      "text": "The door opened. My short moment of anxiety ended once I saw\nthe face behind the door."
+    },
+    {
+      "offset": 751,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ああ、みっくんだったのね」",
+      "en": "\"Ahh, it's you, Mik-kun.\"",
+      "text": "\"Ahh, it's you, Mik-kun.\""
+    },
+    {
+      "offset": 801,
+      "speaker": "Mik-kun",
+      "speaker_jp": "みっくん",
+      "jp": "「お見舞い、ですよね？」",
+      "en": "\"You're visiting Kotori?\"",
+      "text": "\"You're visiting Kotori?\""
+    },
+    {
+      "offset": 832,
+      "speaker": "Mik-kun",
+      "speaker_jp": "みっくん",
+      "jp": "「うん」",
+      "en": "\"Yeah.\"",
+      "text": "\"Yeah.\""
+    },
+    {
+      "offset": 862,
+      "speaker": "Mik-kun",
+      "speaker_jp": "みっくん",
+      "jp": "「お邪魔虫はさっさと退散しようと思ったんで\n　すけど……ちょっと、事態が紛糾しちゃいま\n　して」",
+      "en": "\"Hmm, Tomo-chan and I would normally leave now if that's the\ncase... but the situation's a bit more complicated.\"",
+      "text": "\"Hmm, Tomo-chan and I would normally leave now if that's the\ncase... but the situation's a bit more complicated.\""
+    },
+    {
+      "offset": 963,
+      "speaker": "Mik-kun",
+      "speaker_jp": "みっくん",
+      "jp": "「え？　何、それ？」",
+      "en": "\"Eh? What did you say?\"",
+      "text": "\"Eh? What did you say?\""
+    },
+    {
+      "offset": 1005,
+      "speaker": "Mik-kun",
+      "speaker_jp": "みっくん",
+      "jp": "「とにかく、上がってください」",
+      "en": "\"In any case, come upstairs.\"",
+      "text": "\"In any case, come upstairs.\""
+    },
+    {
+      "offset": 1110,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「いらっしゃい。朝倉君」",
+      "en": "\"Welcome, Asakura-kun!\"",
+      "text": "\"Welcome, Asakura-kun!\""
+    },
+    {
+      "offset": 1156,
+      "speaker": "Mik-kun",
+      "speaker_jp": "みっくん",
+      "jp": "「……何で、寝てるの？」",
+      "en": "\"...Are you trying to sleep?\"",
+      "text": "\"...Are you trying to sleep?\""
+    },
+    {
+      "offset": 1221,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「だって、パジャマ姿は恥ずかしいもん」",
+      "en": "\"Letting him see me in my pajamas is embarassing...\"",
+      "text": "\"Letting him see me in my pajamas is embarassing...\""
+    },
+    {
+      "offset": 1266,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりの台詞に、みっくんとともちゃんは、や\nれやれと首を振った。",
+      "en": "At Kotori's line, both Tomo-chan and Mik-kun started shaking\ntheir heads.",
+      "text": "At Kotori's line, both Tomo-chan and Mik-kun started shaking\ntheir heads."
+    },
+    {
+      "offset": 1336,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「何か、事態が紛糾しているとか言ってたんだ\n　けど、それって？」",
+      "en": "\"Anyway, what kind of circumstances were you talking about\nearlier?",
+      "text": "\"Anyway, what kind of circumstances were you talking about\nearlier?"
+    },
+    {
+      "offset": 1406,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "３人に等分に｛たず／訊｝ねる。と、ともちゃんが、テー\nブルから何かを手に取った。",
+      "en": "I asked the three of them. Tomo-chan pointed to the table.",
+      "text": "I asked the three of them. Tomo-chan pointed to the table."
+    },
+    {
+      "offset": 1492,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「それは……服？」",
+      "en": "\"That's... clothes?\"",
+      "text": "\"That's... clothes?\""
+    },
+    {
+      "offset": 1534,
+      "speaker": "Tomo-chan",
+      "speaker_jp": "ともちゃん",
+      "jp": "「そうなんです……これで、ちょっと揉めてま\n　して」",
+      "en": "\"Yeah... we're sort of arguing about this.\"",
+      "text": "\"Yeah... we're sort of arguing about this.\""
+    },
+    {
+      "offset": 1626,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「聞いてくださいよ〜。ふたりともひどいんで\n　すよ〜」",
+      "en": "\"Listen to me~ These two are horrible~\"",
+      "text": "\"Listen to me~ These two are horrible~\""
+    },
+    {
+      "offset": 1703,
+      "speaker": "Tomo-chan",
+      "speaker_jp": "ともちゃん",
+      "jp": "「ことりがケチンボなんだよ」",
+      "en": "\"You're the unhelpful one.\"",
+      "text": "\"You're the unhelpful one.\""
+    },
+    {
+      "offset": 1751,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そんな事ないと思うけどなあ……」",
+      "en": "\"I don't think that's true...\"",
+      "text": "\"I don't think that's true...\""
+    },
+    {
+      "offset": 1826,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「まあ、きっと、朝倉君なら分かってくれます\n　よ」",
+      "en": "\"Well, I'm sure he'll understand.\"",
+      "text": "\"Well, I'm sure he'll understand.\""
+    },
+    {
+      "offset": 1882,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「とにかく、話ってのを聞きましょか」",
+      "en": "\"I might, once you tell me what's going on.\"",
+      "text": "\"I might, once you tell me what's going on.\""
+    },
+    {
+      "offset": 1951,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "………。",
+      "en": ".........",
+      "text": "........."
+    },
+    {
+      "offset": 1964,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 1975,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…。",
+      "en": "...",
+      "text": "..."
+    },
+    {
+      "offset": 2007,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なるほど……また手芸部か」",
+      "en": "\"I see... the handicrafts club again.\"",
+      "text": "\"I see... the handicrafts club again.\""
+    },
+    {
+      "offset": 2076,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そうです。まぁた手芸部なんです」",
+      "en": "\"Yes, the handicrafts club agaaain.\"",
+      "text": "\"Yes, the handicrafts club agaaain.\""
+    },
+    {
+      "offset": 2117,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "クリスマスパーティーの時、ミスコンだなんて\nいうヌルイ企画を催した、あの、手芸部である。",
+      "en": "The same handicrafts club that came up with the idea of a\nMiss Kazami Academy contest in the first place.",
+      "text": "The same handicrafts club that came up with the idea of a\nMiss Kazami Academy contest in the first place."
+    },
+    {
+      "offset": 2211,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ステージ衣装を貸してやるから、コンテスト\n　に出場しろ……ねえ」",
+      "en": "\"So they lent you a costume, and want you to participate in\nthe contest using it...?\"",
+      "text": "\"So they lent you a costume, and want you to participate in\nthe contest using it...?\""
+    },
+    {
+      "offset": 2283,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なにか、借金の｛かた／形｝に娘を差し出せ、みたいな\n　話だな」",
+      "en": "\"In other words, they basically want to advertise their\nhandiwork...\"",
+      "text": "\"In other words, they basically want to advertise their\nhandiwork...\""
+    },
+    {
+      "offset": 2387,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そう、朝倉君もそう思いますよねえ」",
+      "en": "\"Yes, that's what I think too.\"",
+      "text": "\"Yes, that's what I think too.\""
+    },
+    {
+      "offset": 2430,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "我が意を得たりと、ことりが笑う。",
+      "en": "Kotori smiled, finding an ally.",
+      "text": "Kotori smiled, finding an ally."
+    },
+    {
+      "offset": 2484,
+      "speaker": "Mik-kun",
+      "speaker_jp": "みっくん",
+      "jp": "「そんな、人聞きの悪い。いいじゃないですか、\n　減る物じゃないんだから」",
+      "en": "\"They've not been very popular lately, so they need this to\nincrease it.\"",
+      "text": "\"They've not been very popular lately, so they need this to\nincrease it.\""
+    },
+    {
+      "offset": 2562,
+      "speaker": "Mik-kun",
+      "speaker_jp": "みっくん",
+      "jp": "「……ま、その点はノーコメントという事で」",
+      "en": "\"...No comment.\"",
+      "text": "\"...No comment.\""
+    },
+    {
+      "offset": 2611,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "逃げを打ちつつ、テーブルの服を改めて見遣る。\nそれは、見るからに浮世離れしたドレスだ。",
+      "en": "Running away from the argument, I looked over the dress,\nfrom the previous Christmas. It seemed to be from the Edo\nperiod.",
+      "text": "Running away from the argument, I looked over the dress,\nfrom the previous Christmas. It seemed to be from the Edo\nperiod."
+    },
+    {
+      "offset": 2703,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふむ……」",
+      "en": "\"Hm...\"",
+      "text": "\"Hm...\""
+    },
+    {
+      "offset": 2722,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "浮世離れってのは、別の言葉で言えば、祭り向\nきって事だ。",
+      "en": "Or to it say it another way, it's one of those dresses you'd\nfind worn in festivals.",
+      "text": "Or to it say it another way, it's one of those dresses you'd\nfind worn in festivals."
+    },
+    {
+      "offset": 2782,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そしてもちろん、卒業パーティーってのは、風\n見学園のひとつの祭りだった。",
+      "en": "Basically, specially made for the a party.",
+      "text": "Basically, specially made for the a party."
+    },
+    {
+      "offset": 2858,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "学生服姿のボーカリストってのも、確かに、締\nまらないかもしれないな……。",
+      "en": "I guess it might be more fitting for a vocalist than a\nschool uniform...",
+      "text": "I guess it might be more fitting for a vocalist than a\nschool uniform..."
+    },
+    {
+      "offset": 2970,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ふたりとも、私に内緒で勝手に約束しちゃう\n　んだもの……ひどいなあ」",
+      "en": "\"These two promised on my behalf without even telling me...\nthey're horrible.\"",
+      "text": "\"These two promised on my behalf without even telling me...\nthey're horrible.\""
+    },
+    {
+      "offset": 3046,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "苦笑混じりに呟く。そうでなくとも、ことりに\nは、クリスマスの時の記憶があるのだろう。",
+      "en": "A bitter smile was mixed with her words. No doubt she was\nremembering what happened last Christmas.",
+      "text": "A bitter smile was mixed with her words. No doubt she was\nremembering what happened last Christmas."
+    },
+    {
+      "offset": 3153,
+      "speaker": "Tomo-chan",
+      "speaker_jp": "ともちゃん",
+      "jp": "「でもぉ、３人分用意してくれるからって。お\n　得でしょ？　だから……」",
+      "en": "\"But a lot of people worked hard on this. And you gain\nsomething as well, right?...\"",
+      "text": "\"But a lot of people worked hard on this. And you gain\nsomething as well, right?...\""
+    },
+    {
+      "offset": 3242,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「う〜……」",
+      "en": "\"Uu~...\"",
+      "text": "\"Uu~...\""
+    },
+    {
+      "offset": 3274,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「でも、コンテストに出るのは私だし……」",
+      "en": "\"But why choose me for the contest...\"",
+      "text": "\"But why choose me for the contest...\""
+    },
+    {
+      "offset": 3336,
+      "speaker": "Mik-kun",
+      "speaker_jp": "みっくん",
+      "jp": "「まあ、ほら、そこはアレ、ことりって人気あ\n　るから」",
+      "en": "\"Well, you are just the most popular girl in school...\"",
+      "text": "\"Well, you are just the most popular girl in school...\""
+    },
+    {
+      "offset": 3409,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「うう、もてる女はツライっすな」",
+      "en": "\"Being popular isn't a bed of roses, you know.\"",
+      "text": "\"Being popular isn't a bed of roses, you know.\""
+    },
+    {
+      "offset": 3463,
+      "speaker": "Mik-kun",
+      "speaker_jp": "みっくん",
+      "jp": "「もてないよりはツラクないって」",
+      "en": "\"Certainly no worse than being treated badly.\"",
+      "text": "\"Certainly no worse than being treated badly.\""
+    },
+    {
+      "offset": 3502,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "みっくんがぱたぱたと手を振る。ことりはくすっ\nと笑った。",
+      "en": "Mik-kun clapped her hands together, and Kotori suddenly had\nan uncharacteristically evil smile on her face.",
+      "text": "Mik-kun clapped her hands together, and Kotori suddenly had\nan uncharacteristically evil smile on her face."
+    },
+    {
+      "offset": 3598,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そんな事言って、お兄ちゃんさん以外には、\n　興味なんてないんでしょ？」",
+      "en": "Speaking of that, how has your beloved brother been treating\nyou lately?\"",
+      "text": "Speaking of that, how has your beloved brother been treating\nyou lately?\""
+    },
+    {
+      "offset": 3691,
+      "speaker": "Mik-kun",
+      "speaker_jp": "みっくん",
+      "jp": "「うえ？　や、やだなあ、これまた人聞きの悪\n　い……」",
+      "en": "\"Wahh? D, don't start talking about that...\"",
+      "text": "\"Wahh? D, don't start talking about that...\""
+    },
+    {
+      "offset": 3751,
+      "speaker": "Mik-kun",
+      "speaker_jp": "みっくん",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3770,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何やら、身につまされる話やね。",
+      "en": "I don't think I want to know what's going on.",
+      "text": "I don't think I want to know what's going on."
+    },
+    {
+      "offset": 3841,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ねえ、朝倉君。どうしましょうか？」",
+      "en": "\"Hey, Asakura-kun. What do you think?\"",
+      "text": "\"Hey, Asakura-kun. What do you think?\""
+    },
+    {
+      "offset": 3884,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "テーブルとことりとに何度か視線を往復させて、\n俺は言った。",
+      "en": "Looking at the table and at Kotori a few times, I said.",
+      "text": "Looking at the table and at Kotori a few times, I said."
+    },
+    {
+      "offset": 3948,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……いいんじゃないかな、と俺は思うけど」",
+      "en": "\"...Doesn't sound too bad to me.\"",
+      "text": "\"...Doesn't sound too bad to me.\""
+    },
+    {
+      "offset": 4031,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「う……マジですか」",
+      "en": "\"Uu... you're serious?\"",
+      "text": "\"Uu... you're serious?\""
+    },
+    {
+      "offset": 4058,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「てか、その服って、着てみるとどんな感じな\n　の？　あんまり変だったら、そりゃ、止した\n　方がいいと思うけど」",
+      "en": "\"There's no harm in at least trying it, right? If you really\ndon't like it, you can just stop.\"",
+      "text": "\"There's no harm in at least trying it, right? If you really\ndon't like it, you can just stop.\""
+    },
+    {
+      "offset": 4190,
+      "speaker": "Tomo-chan",
+      "speaker_jp": "ともちゃん",
+      "jp": "「ことり、朝倉君に見せてあげれば？」",
+      "en": "\"Kotori, why not let Asakura-kun see it on you?\"",
+      "text": "\"Kotori, why not let Asakura-kun see it on you?\""
+    },
+    {
+      "offset": 4246,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「う？　だ、駄目っすよ、そんな。恥ずかしい」",
+      "en": "\"Wha? I, I can't, that's embarassing...\"",
+      "text": "\"Wha? I, I can't, that's embarassing...\""
+    },
+    {
+      "offset": 4297,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "よよよ、と毛布を引っ張り上げると、顔を隠し\nてしまった。",
+      "en": "She pulled the blankets over her head to hide her face.",
+      "text": "She pulled the blankets over her head to hide her face."
+    },
+    {
+      "offset": 4359,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……スケスケシースルーとか？」",
+      "en": "\"...Is it a sexy see-through?\"",
+      "text": "\"...Is it a sexy see-through?\""
+    },
+    {
+      "offset": 4411,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……私を学園の勇者にして、どうするんです\n　か」",
+      "en": "\"...What should the heroine of the school do now...\"",
+      "text": "\"...What should the heroine of the school do now...\""
+    },
+    {
+      "offset": 4467,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「まあ、確かに。新聞報道されるレベルだな」",
+      "en": "\"I bet the newspapers would have stories about it even.\"",
+      "text": "\"I bet the newspapers would have stories about it even.\""
+    },
+    {
+      "offset": 4529,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ふう……分かりました。分かりましたよぅ」",
+      "en": "\"Huu... I got it, I got it.\"",
+      "text": "\"Huu... I got it, I got it.\""
+    },
+    {
+      "offset": 4591,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「コンテストには、出る事にします。……私ひ\n　とりが｛ひとみごくう／人身御供｝となれば良いのよね。あふん\n　……」",
+      "en": "\"I'd enter the contest, and be the human sacrifice for you\nguys.\"",
+      "text": "\"I'd enter the contest, and be the human sacrifice for you\nguys.\""
+    },
+    {
+      "offset": 4727,
+      "speaker": "Tomo-chan",
+      "speaker_jp": "ともちゃん",
+      "jp": "「ありがとね、ことり」",
+      "en": "\"Thanks, Kotori!\"",
+      "text": "\"Thanks, Kotori!\""
+    },
+    {
+      "offset": 4771,
+      "speaker": "Mik-kun",
+      "speaker_jp": "みっくん",
+      "jp": "「うんうん、それでこそ」",
+      "en": "\"Yeah, thank you!\"",
+      "text": "\"Yeah, thank you!\""
+    },
+    {
+      "offset": 4802,
+      "speaker": "Mik-kun",
+      "speaker_jp": "みっくん",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 4821,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やっぱり３人は仲がいいんだろう。紛糾してい\nた｛・・・／らしい｝事態は、笑顔に収束した。",
+      "en": "Those three really are close. Even after an argument (...of\nsorts), they still ended with smiles all around.",
+      "text": "Those three really are close. Even after an argument (...of\nsorts), they still ended with smiles all around."
+    },
+    {
+      "offset": 4915,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（手芸部が用意した衣装か……。どんなんだろ\n　うな？）",
+      "en": "\"(The dress the handicraft club is preparing... I wonder how\nit'd look on her?)\"",
+      "text": "\"(The dress the handicraft club is preparing... I wonder how\nit'd look on her?)\""
+    },
+    {
+      "offset": 4975,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "明後日がぐっと楽しみになってしまう俺であっ\nた。",
+      "en": "I'd be able to find out and enjoy the day after tomorrow,\napparently.",
+      "text": "I'd be able to find out and enjoy the day after tomorrow,\napparently."
+    },
+    {
+      "offset": 5053,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その後、お茶なんぞを飲んだりして、楽しい時\n間を過ごした。",
+      "en": "After that, we drank some tea and chatted the rest of the\nday away.",
+      "text": "After that, we drank some tea and chatted the rest of the\nday away."
+    },
+    {
+      "offset": 5115,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "………。",
+      "en": ".........",
+      "text": "........."
+    },
+    {
+      "offset": 5128,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 5139,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…。",
+      "en": "...",
+      "text": "..."
+    },
+    {
+      "offset": 5148,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "結局また、看病もへったくれもなかったな……。",
+      "en": "In the end, there was no real reason to come today either...",
+      "text": "In the end, there was no real reason to come today either..."
+    },
+    {
+      "offset": 5301,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆ことりの看病２◆",
+      "en": "◆Looking After Kotori 2◆",
+      "text": "◆Looking After Kotori 2◆"
+    },
+    {
+      "offset": 5348,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "看病｛コスモ／小宇宙｝を爆発させるべく、再び白河家へと\nやって来た俺。",
+      "en": "Once again, I returned to the home of the Shirakawas.",
+      "text": "Once again, I returned to the home of the Shirakawas."
+    },
+    {
+      "offset": 5422,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、先客が居た。ともちゃんとみっくんだ。",
+      "en": "However, there were visitors ahead of me: Mik-kun and\nTomo-chan.",
+      "text": "However, there were visitors ahead of me: Mik-kun and\nTomo-chan."
+    },
+    {
+      "offset": 5483,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "彼女たちは、卒業パーティーについて相談して\nいたらしい。つまり、手芸部から餌としてちら\nつかされたドレスをどうするか、だ。",
+      "en": "The three of them were discussing about the graduation\nparty. Apparently the handicraft club was using the dress as\nbait for Kotori to advertise it.",
+      "text": "The three of them were discussing about the graduation\nparty. Apparently the handicraft club was using the dress as\nbait for Kotori to advertise it."
+    },
+    {
+      "offset": 5629,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何だかんだで、結局ことりは手芸部のコンテス\nトに出る事に決まり、ドレスがゲット出来る事\nになったのだった。",
+      "en": "In the end, Kotori decided to participate in the Miss Kazami\nAcademy Contest after all.",
+      "text": "In the end, Kotori decided to participate in the Miss Kazami\nAcademy Contest after all."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "463": "???",
+    "516": "???",
+    "789": "Mik-kun",
+    "850": "Mik-kun",
+    "993": "Mik-kun",
+    "1100": "Kotori",
+    "1144": "Mik-kun",
+    "1211": "Kotori",
+    "1520": "Tomo-chan",
+    "1616": "Kotori",
+    "1689": "Tomo-chan",
+    "1741": "Kotori",
+    "1816": "Kotori",
+    "2066": "Kotori",
+    "2377": "Kotori",
+    "2472": "Mik-kun",
+    "2960": "Kotori",
+    "3139": "Tomo-chan",
+    "3232": "Kotori",
+    "3264": "Kotori",
+    "3324": "Mik-kun",
+    "3399": "Kotori",
+    "3451": "Mik-kun",
+    "3588": "Kotori",
+    "3679": "Mik-kun",
+    "3831": "Kotori",
+    "4021": "Kotori",
+    "4176": "Tomo-chan",
+    "4236": "Kotori",
+    "4401": "Kotori",
+    "4519": "Kotori",
+    "4581": "Kotori",
+    "4713": "Tomo-chan",
+    "4759": "Mik-kun"
+  }
+}

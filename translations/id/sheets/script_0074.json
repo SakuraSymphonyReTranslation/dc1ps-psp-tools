@@ -1,0 +1,611 @@
+{
+  "scene": "script_0074.obj",
+  "dialogues": [
+    {
+      "offset": 163,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さてと、メシメシ……」",
+      "en": "\"Time for food...\"",
+      "text": "\"Time for food...\""
+    },
+    {
+      "offset": 194,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "パンをお手玉のように放り投げながら、どこで\n食べようかと考える。教室か、屋上か、それと\nも中庭か……。",
+      "en": "With packet bread in hand, I start thinking about where to\neat. The classroom, the roof... the courtyard, maybe?",
+      "text": "With packet bread in hand, I start thinking about where to\neat. The classroom, the roof... the courtyard, maybe?"
+    },
+    {
+      "offset": 301,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「うん？　あの帽子は、ことりか？」",
+      "en": "\"Huh? That hat, is it Kotori?\"",
+      "text": "\"Huh? That hat, is it Kotori?\""
+    },
+    {
+      "offset": 342,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "校門に向かって、てくてくと歩く姿がある……\nと言うか、あの帽子は目立つよな……。",
+      "en": "A figure was trudging slowly out of school through the\nschool gates... That hat really makes her stand out...",
+      "text": "A figure was trudging slowly out of school through the\nschool gates... That hat really makes her stand out..."
+    },
+    {
+      "offset": 428,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あら？」",
+      "en": "\"Eh?\"",
+      "text": "\"Eh?\""
+    },
+    {
+      "offset": 445,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昼を食べる場所──ベンチとか──を探してい\nるのかと思ったが、そのまま校門から出ようと\nする。",
+      "en": "Instead of searching for a lunchtime spot --a bench-- she\nlooked like she was leaving the school premises.",
+      "text": "Instead of searching for a lunchtime spot --a bench-- she\nlooked like she was leaving the school premises."
+    },
+    {
+      "offset": 542,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "気になった俺は、追いかける事にした。間に合\nうだろうか？",
+      "en": "A little worried, I started chasing her. Would I be able to\ncatch her?",
+      "text": "A little worried, I started chasing her. Would I be able to\ncatch her?"
+    },
+    {
+      "offset": 649,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おーい！　ことり！」",
+      "en": "\"Heeeey! Kotori!\"",
+      "text": "\"Heeeey! Kotori!\""
+    },
+    {
+      "offset": 678,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "呼びかけながら、ダッシュする。",
+      "en": "I yelled at her while dashing.",
+      "text": "I yelled at her while dashing."
+    },
+    {
+      "offset": 755,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………？　ああ、朝倉君」",
+      "en": "\"......? Aah, Asakura-kun.\"",
+      "text": "\"......? Aah, Asakura-kun.\""
+    },
+    {
+      "offset": 790,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「サボりか？　校門から堂々ってのは、さすが\n　にマズイんじゃないかな？」",
+      "en": "\"Skipping class? Just walking out of school like that will\nmean trouble, won't it?\"",
+      "text": "\"Skipping class? Just walking out of school like that will\nmean trouble, won't it?\""
+    },
+    {
+      "offset": 898,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「サボりじゃないですよ」",
+      "en": "\"I'm not playing truant.\"",
+      "text": "\"I'm not playing truant.\""
+    },
+    {
+      "offset": 929,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "苦笑しつつ、小さく手を振った。",
+      "en": "Kotori smiled slightly, and waved my remark off with her\nhand.",
+      "text": "Kotori smiled slightly, and waved my remark off with her\nhand."
+    },
+    {
+      "offset": 996,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「立派な早退です……ちょっと、頭痛がして」",
+      "en": "\"I got permission to leave... I have a headache.\"",
+      "text": "\"I got permission to leave... I have a headache.\""
+    },
+    {
+      "offset": 1075,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「我慢出来そうにないんですよ……早退とかは、\n　ほんとは良くないんですけど」",
+      "en": "\"I tried to ignore it, but it just kept getting worse,\nso...\"",
+      "text": "\"I tried to ignore it, but it just kept getting worse,\nso...\""
+    },
+    {
+      "offset": 1157,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "額を押さえ、顔をしかめる。言われてみると、\n顔色も良くない。",
+      "en": "She placed a hand on her forehead, with a frowning face. Now\nthat she says it, her face doesn't look good.",
+      "text": "She placed a hand on her forehead, with a frowning face. Now\nthat she says it, her face doesn't look good."
+    },
+    {
+      "offset": 1223,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「頭痛、か」",
+      "en": "A headache, huh...\"",
+      "text": "A headache, huh...\""
+    },
+    {
+      "offset": 1242,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "不肖の妹が病弱なせいか、どうもこの手の事は\n気に掛かってしまう。",
+      "en": "Having such an anaemic sister, I always worry about things\nlike this.",
+      "text": "Having such an anaemic sister, I always worry about things\nlike this."
+    },
+    {
+      "offset": 1312,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「今から帰るって事は、昼飯とかは？」",
+      "en": "\"If you're leaving now, what about your lunch?\"",
+      "text": "\"If you're leaving now, what about your lunch?\""
+    },
+    {
+      "offset": 1385,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ご飯ですか？　食欲がないのって、お得なダ\n　イエットですよね」",
+      "en": "\"Lunch? I don't have much of an appetite, so I might as well\ngo on a bit of a diet.\"",
+      "text": "\"Lunch? I don't have much of an appetite, so I might as well\ngo on a bit of a diet.\""
+    },
+    {
+      "offset": 1455,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「でも、なんか腹に入れといた方がいいと思う\n　よ？　お菓子とかなら、食べられる？」",
+      "en": "\"But it'd be better to have something in your stomach, at\nleast... would you eat a pastry?\"",
+      "text": "\"But it'd be better to have something in your stomach, at\nleast... would you eat a pastry?\""
+    },
+    {
+      "offset": 1556,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「え？　そうですね……」",
+      "en": "\"Eh? Uhm, yes...\"",
+      "text": "\"Eh? Uhm, yes...\""
+    },
+    {
+      "offset": 1587,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちょこんと首を傾げる。",
+      "en": "Kotori tilted her neck in puzzlement.",
+      "text": "Kotori tilted her neck in puzzlement."
+    },
+    {
+      "offset": 1614,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ともかく、嫌そうには見えないので、俺は｛・・／出す｝\n事にした。",
+      "en": "In any case, she doesn't look like she'd dislike it, so I\ncan make one come out.",
+      "text": "In any case, she doesn't look like she'd dislike it, so I\ncan make one come out."
+    },
+    {
+      "offset": 1682,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "背中に手を回して、どら焼きをイメージする。",
+      "en": "I place a hand behind my back, and start visualizing a\ndorayaki.",
+      "text": "I place a hand behind my back, and start visualizing a\ndorayaki."
+    },
+    {
+      "offset": 1731,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さっき、購買で買ったんだ。良かったら食っ\n　てくれ……って、包装開けちゃったけどな」",
+      "en": "\"I bought this earlier, so please eat it... um, although I\nalready removed the packaging.\"",
+      "text": "\"I bought this earlier, so please eat it... um, although I\nalready removed the packaging.\""
+    },
+    {
+      "offset": 1853,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「わあ、どうも」",
+      "en": "\"Wow, thank you!\"",
+      "text": "\"Wow, thank you!\""
+    },
+    {
+      "offset": 1876,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "受け取り、早速口にする。何だか子供みたいで\n微笑ましい。",
+      "en": "After receiving it, she promptly put it into her mouth. She\nthen gave a childlike smile.",
+      "text": "After receiving it, she promptly put it into her mouth. She\nthen gave a childlike smile."
+    },
+    {
+      "offset": 1968,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「でも……」",
+      "en": "\"But...\"",
+      "text": "\"But...\""
+    },
+    {
+      "offset": 1987,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "口をもぐもぐやりながら、俺の顔をじっと見つ\nめてきた。",
+      "en": "Her mouth emitting light chewing noises, she looked at me.",
+      "text": "Her mouth emitting light chewing noises, she looked at me."
+    },
+    {
+      "offset": 2047,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん？　汚くはないぞ」",
+      "en": "\"Hm? It's not dirty, don't worry.\"",
+      "text": "\"Hm? It's not dirty, don't worry.\""
+    },
+    {
+      "offset": 2089,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ううん、そうじゃなくて……う〜ん、頭痛い\n　し、ま、いいか……」",
+      "en": "\"No, that's not it... uhm, about the headache... well, it\ndoesn't matter anyway.\"",
+      "text": "\"No, that's not it... uhm, about the headache... well, it\ndoesn't matter anyway.\""
+    },
+    {
+      "offset": 2161,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………？」",
+      "en": "\"......?\"",
+      "text": "\"......?\""
+    },
+    {
+      "offset": 2182,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛いぶか／訝｝しげにしていたのが、一人で納得してしまっ\nた。",
+      "en": "Only one person here understood her weird speech then--\nmaybe zero.",
+      "text": "Only one person here understood her weird speech then--\nmaybe zero."
+    },
+    {
+      "offset": 2278,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「それじゃ、帰りますね。どら焼き、ごちそう\n　さまです」",
+      "en": "\"Anyway, I better go home. Thank you for the dorayaki!\"",
+      "text": "\"Anyway, I better go home. Thank you for the dorayaki!\""
+    },
+    {
+      "offset": 2340,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「おう。お大事に」",
+      "en": "\"Alright, take care.\"",
+      "text": "\"Alright, take care.\""
+    },
+    {
+      "offset": 2382,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ふう……ぶっ倒れる前に、バイバイ出来て良\n　かった。空腹時のアレはきつい……」",
+      "en": "\"Hoo... good thing she's gone now, that was close.\"",
+      "text": "\"Hoo... good thing she's gone now, that was close.\""
+    },
+    {
+      "offset": 2468,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ポケットからパンを取り出す。",
+      "en": "I take out the bread from my pocket.",
+      "text": "I take out the bread from my pocket."
+    },
+    {
+      "offset": 2514,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「何がきついんです？」",
+      "en": "\"What was close?\"",
+      "text": "\"What was close?\""
+    },
+    {
+      "offset": 2543,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「んなの、決まってるだろ？　和菓子を……」",
+      "en": "\"Isn't it obvious? Making wagashis...\"",
+      "text": "\"Isn't it obvious? Making wagashis...\""
+    },
+    {
+      "offset": 2603,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「和菓子を？」",
+      "en": "\"Making wagashis?\"",
+      "text": "\"Making wagashis?\""
+    },
+    {
+      "offset": 2624,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「……ってなに言わせるんだ美春！」",
+      "en": "\"...what are you trying to say, Miharu!\"",
+      "text": "\"...what are you trying to say, Miharu!\""
+    },
+    {
+      "offset": 2665,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の隣にぴょこっと立ち尽くす美春のほっぺた\nを引っ張った。",
+      "en": "I pinched her cheek, then pulled her away into a more\nprivate place.",
+      "text": "I pinched her cheek, then pulled her away into a more\nprivate place."
+    },
+    {
+      "offset": 2767,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「痛いですよ〜、朝倉先輩〜！」",
+      "en": "\"That huuuurts!\"",
+      "text": "\"That huuuurts!\""
+    },
+    {
+      "offset": 2804,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の手から逃れた美春が、非難がましい目で俺\nを見る。",
+      "en": "Miharu managed to escape from my hand, and glared at me.",
+      "text": "Miharu managed to escape from my hand, and glared at me."
+    },
+    {
+      "offset": 2873,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「うぅ。美春はなにも言わせてませんよぅ」",
+      "en": "\"Uu, I wasn't trying to say anything!\"",
+      "text": "\"Uu, I wasn't trying to say anything!\""
+    },
+    {
+      "offset": 2920,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「いや、お前は｛アイエムエフ／ＩＭＦ｝並の狡猾さで俺の秘密を\n　暴こうとしたぞ」",
+      "en": "\"I see, you're using the IMF to try and find out all my\nsecrets! How devious!\"",
+      "text": "\"I see, you're using the IMF to try and find out all my\nsecrets! How devious!\""
+    },
+    {
+      "offset": 3034,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「どんな狡猾さですか、それは。だいたい美春\n　は、朝倉先輩の秘密なんて知りたくもないで\n　すよ」",
+      "en": "\"Who's devious? Besides, I don't really care to know any of\nyour dirty secrets.\"",
+      "text": "\"Who's devious? Besides, I don't really care to know any of\nyour dirty secrets.\""
+    },
+    {
+      "offset": 3135,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「……そうはっきり言われると傷つくんだが」",
+      "en": "\"...Your words wound me greatly.\"",
+      "text": "\"...Your words wound me greatly.\""
+    },
+    {
+      "offset": 3195,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「白河先輩、帰っちゃったんですねぇ」",
+      "en": "\"Shirakawa-senpai went back early, didn't she...\"",
+      "text": "\"Shirakawa-senpai went back early, didn't she...\""
+    },
+    {
+      "offset": 3238,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ハートブレイク中な俺を無視して、桜並木の向\nこうに消えつつあることりを見る美春。",
+      "en": "Ignoring my heartbreak, Miharu gazed at the Sakura Avenue\nwhich Kotori eventually disappeared into.",
+      "text": "Ignoring my heartbreak, Miharu gazed at the Sakura Avenue\nwhich Kotori eventually disappeared into."
+    },
+    {
+      "offset": 3324,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「家でゆっくり休めば治るだろ」",
+      "en": "\"She'd be able to recover much faster by resting at home.\"",
+      "text": "\"She'd be able to recover much faster by resting at home.\""
+    },
+    {
+      "offset": 3361,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺もしばらくことりの後ろ姿を見送った後、背\n中を向けた。",
+      "en": "After some time looking at Kotori's disappearing figure, I\nturn my back on the Sakura Avenue.",
+      "text": "After some time looking at Kotori's disappearing figure, I\nturn my back on the Sakura Avenue."
+    },
+    {
+      "offset": 3423,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さて、飯でも食うか」",
+      "en": "\"Alright, time for lunch!\"",
+      "text": "\"Alright, time for lunch!\""
+    },
+    {
+      "offset": 3463,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「そうですね」",
+      "en": "\"Yes it is!\"",
+      "text": "\"Yes it is!\""
+    },
+    {
+      "offset": 3484,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の横に美春がついてくる。",
+      "en": "Miharu was at my side, following me.",
+      "text": "Miharu was at my side, following me."
+    },
+    {
+      "offset": 3517,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……ちょっと待て」",
+      "en": "\"...Wait a minute.\"",
+      "text": "\"...Wait a minute.\""
+    },
+    {
+      "offset": 3555,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「はい？　どうかしましたか、朝倉先輩？」",
+      "en": "\"Yes? What's wrong, Asakura-senpai?\"",
+      "text": "\"Yes? What's wrong, Asakura-senpai?\""
+    },
+    {
+      "offset": 3602,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「どうしてお前がついてくるんだ？」",
+      "en": "\"Why are you coming with me?\"",
+      "text": "\"Why are you coming with me?\""
+    },
+    {
+      "offset": 3654,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「決まってるじゃないですか。今日は朝倉先輩\n　とお昼ご飯を食べようと思って来たんですよ」",
+      "en": "\"Isn't it obvious? We're having lunch together this\nafternoon.\"",
+      "text": "\"Isn't it obvious? We're having lunch together this\nafternoon.\""
+    },
+    {
+      "offset": 3748,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「決まってないと思うが……。というか、初耳\n　だぞ？」",
+      "en": "\"That's not obvious... in fact, it's the first I've heard of\nit.\"",
+      "text": "\"That's not obvious... in fact, it's the first I've heard of\nit.\""
+    },
+    {
+      "offset": 3819,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あれ？　そうでしたっけ？」",
+      "en": "\"Huh? Really?\"",
+      "text": "\"Huh? Really?\""
+    },
+    {
+      "offset": 3854,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "小首を傾げる美春。",
+      "en": "Miharu tilted her head slightly.",
+      "text": "Miharu tilted her head slightly."
+    },
+    {
+      "offset": 3890,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「じゃあ、今言ったので問題なしです！」",
+      "en": "\"Then I might as well just say it now!\"",
+      "text": "\"Then I might as well just say it now!\""
+    },
+    {
+      "offset": 3946,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「一緒にご飯食べましょう、朝倉先輩！」",
+      "en": "\"Please eat lunch with me, Asakura-senpai!\"",
+      "text": "\"Please eat lunch with me, Asakura-senpai!\""
+    },
+    {
+      "offset": 3991,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は──",
+      "en": "I--",
+      "text": "I--"
+    },
+    {
+      "offset": 4207,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆ことりの早退◆",
+      "en": "◆Kotori's Early Departure◆",
+      "text": "◆Kotori's Early Departure◆"
+    },
+    {
+      "offset": 4256,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "中庭を校門に向かうことりを見かけた。",
+      "en": "I saw Kotori leave the school through the gate at the\ncourtyard.",
+      "text": "I saw Kotori leave the school through the gate at the\ncourtyard."
+    },
+    {
+      "offset": 4320,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛き／訊｝くと、頭痛がするので早退するという。",
+      "en": "From my inquiry, I found out that she was leaving school\nearly due to a headache.",
+      "text": "From my inquiry, I found out that she was leaving school\nearly due to a headache."
+    },
+    {
+      "offset": 4371,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "帰ったことりを心配していると、美春がやって\nきて、一緒に昼食を食べようと言ってきた。",
+      "en": "While worrying about the departing Kotori, Miharu came and\ninvited me to eat lunch with her.",
+      "text": "While worrying about the departing Kotori, Miharu came and\ninvited me to eat lunch with her."
+    },
+    {
+      "offset": 4459,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さて、どうする？",
+      "en": "Now, what should I do?",
+      "text": "Now, what should I do?"
+    }
+  ],
+  "choices": [
+    {
+      "offset": 4014,
+      "jp": "〇孤高に生きる男だ",
+      "en": "○...am a man of solitude.",
+      "text": "○...am a man of solitude."
+    },
+    {
+      "offset": 4041,
+      "jp": "〇好意を無駄にしない男だ",
+      "en": "○...am a man who accepts goodwill.",
+      "text": "○...am a man who accepts goodwill."
+    }
+  ],
+  "names": {
+    "745": "Kotori",
+    "888": "Kotori",
+    "986": "Kotori",
+    "1065": "Kotori",
+    "1375": "Kotori",
+    "1546": "Kotori",
+    "1843": "Kotori",
+    "1958": "Kotori",
+    "2079": "Kotori",
+    "2268": "Kotori",
+    "2506": "Miharu",
+    "2595": "Miharu",
+    "2759": "Miharu",
+    "2865": "Miharu",
+    "3026": "Miharu",
+    "3187": "Miharu",
+    "3455": "Miharu",
+    "3547": "Miharu",
+    "3646": "Miharu",
+    "3811": "Miharu",
+    "3882": "Miharu",
+    "3938": "Miharu"
+  }
+}

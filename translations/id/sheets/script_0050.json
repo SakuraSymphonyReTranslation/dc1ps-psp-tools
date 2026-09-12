@@ -1,0 +1,638 @@
+{
+  "scene": "script_0050.obj",
+  "dialogues": [
+    {
+      "offset": 163,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 182,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんとなく、どんどんと姿を消していくクラス\nメートを眺めながら考える。",
+      "en": "I was thinking as I saw my classmates leaving the school.",
+      "text": "I was thinking as I saw my classmates leaving the school."
+    },
+    {
+      "offset": 256,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やはり、家には帰りたくないな。",
+      "en": "I don't really want to go home.",
+      "text": "I don't really want to go home."
+    },
+    {
+      "offset": 291,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "帰ればたぶん……いや、間違いなく、さくらに\n襲撃されるだろう。",
+      "en": "If I go home, I'll probably...... no, definitely be attacked\nby Sakura.",
+      "text": "If I go home, I'll probably...... no, definitely be attacked\nby Sakura."
+    },
+    {
+      "offset": 357,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まぁ、帰りを遅くしたところで、どのみち会う\nことにはなるのだろうが、人には誰しも現実逃\n避したくなる時がある。",
+      "en": "Even if I go home later I'll see her anyway, but I just want\nto escape from that reality for a while.",
+      "text": "Even if I go home later I'll see her anyway, but I just want\nto escape from that reality for a while."
+    },
+    {
+      "offset": 472,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「学園をぶらついて、時間をつぶすか」",
+      "en": "\"I'm just going to walk around the school and kill some\ntime.\"",
+      "text": "\"I'm just going to walk around the school and kill some\ntime.\""
+    },
+    {
+      "offset": 515,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そのまま帰れるよう、鞄を持って廊下に出る。",
+      "en": "I held my bag and went out to the hallway.",
+      "text": "I held my bag and went out to the hallway."
+    },
+    {
+      "offset": 585,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "探検家になったつもりで、辺りをのんびり眺め\nながら歩く。",
+      "en": "I walked slowly, observing the surroundings as if I was an\nexplorer.",
+      "text": "I walked slowly, observing the surroundings as if I was an\nexplorer."
+    },
+    {
+      "offset": 645,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それなりに掃除の行き届いた、しかし隅々は汚\nれている廊下。",
+      "en": "The hallways were clean enough, but some parts were dirty.",
+      "text": "The hallways were clean enough, but some parts were dirty."
+    },
+    {
+      "offset": 707,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何故か、異様に｛・・・・／テカテカ｝と光る段を避け、階段\nを下りる。",
+      "en": "I went down the stairs, skipping a few steps.",
+      "text": "I went down the stairs, skipping a few steps."
+    },
+    {
+      "offset": 779,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "１階の教室では、女子が掃除をするなか、男子\nがホウキを振り回し野球を楽しんでいる。",
+      "en": "In one of the classrooms on the first floor, I see some boys\nplaying baseball using a broom as a bat, while some girls\nare sweeping the floor.",
+      "text": "In one of the classrooms on the first floor, I see some boys\nplaying baseball using a broom as a bat, while some girls\nare sweeping the floor."
+    },
+    {
+      "offset": 865,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本校に行くため、間にある特別教室棟を抜ける。",
+      "en": "I walked through the middle building in order to get to the\nmain campus.",
+      "text": "I walked through the middle building in order to get to the\nmain campus."
+    },
+    {
+      "offset": 914,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "途中、杉並を愛してやまない生活指導の講師に、\nデートに誘われるが、偽情報を流してやり過ご\nした。",
+      "en": "On my way, one teacher came up to me to try to get some\ninside information about Suginami's bad behavior, but I\nmanaged to escape by giving out false information.",
+      "text": "On my way, one teacher came up to me to try to get some\ninside information about Suginami's bad behavior, but I\nmanaged to escape by giving out false information."
+    },
+    {
+      "offset": 1015,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺のタイプじゃないからな」",
+      "en": "\"I don't want to be a snitch.\"",
+      "text": "\"I don't want to be a snitch.\""
+    },
+    {
+      "offset": 1083,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「うむ……視線を感じる」",
+      "en": "\"Hmm...... I feel someone staring at me.\"",
+      "text": "\"Hmm...... I feel someone staring at me.\""
+    },
+    {
+      "offset": 1114,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんとなく踏み入ってしまった本校校舎だが、\n付属の制服を着ていると嫌でも目立つ。",
+      "en": "My school uniform makes me stand out on the main campus.",
+      "text": "My school uniform makes me stand out on the main campus."
+    },
+    {
+      "offset": 1198,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ここには、ホウキを振り回している輩はいない。\n｛・・／僅か｝の女子が、掃除に励んでいた。",
+      "en": "I don't see anyone playing with a broom in this building. A\nfew girls are working hard to clean the school.",
+      "text": "I don't see anyone playing with a broom in this building. A\nfew girls are working hard to clean the school."
+    },
+    {
+      "offset": 1290,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "造りは同じでも、向こうとは雰囲気が違う。",
+      "en": "This was supposed to be the same building, but the\natmosphere felt different here.",
+      "text": "This was supposed to be the same building, but the\natmosphere felt different here."
+    },
+    {
+      "offset": 1337,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（まあ、あと二ヶ月もしないうちに、こっちの\n　校舎に通うことになるんだけど……）",
+      "en": "----Bump.",
+      "text": "----Bump."
+    },
+    {
+      "offset": 1423,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その下見と思えば、この散歩も有意義なものと\n言える。",
+      "en": "Suddenly, I felt a light pressure on my back.",
+      "text": "Suddenly, I felt a light pressure on my back."
+    },
+    {
+      "offset": 1479,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、なかば強引に自分を納得させたところで、\n後ろを振り返る。",
+      "en": "When I turned my neck and looked back, I saw a girl with a\nponytail. She was wearing a white bow that stood up.",
+      "text": "When I turned my neck and looked back, I saw a girl with a\nponytail. She was wearing a white bow that stood up."
+    },
+    {
+      "offset": 1545,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、いつまでついてくるんだ？　美春」",
+      "en": "It feels like this girl's pressing her body against my\nback......",
+      "text": "It feels like this girl's pressing her body against my\nback......"
+    },
+    {
+      "offset": 1590,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "忍者のように壁に張り付こうとしていた美春が\n苦笑いを浮かべる。",
+      "en": "For some reason, she kept on pushing me.",
+      "text": "For some reason, she kept on pushing me."
+    },
+    {
+      "offset": 1758,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺と同じく、美春の制服も付属のものだ。本校\nの校舎で目立たないわけがない。",
+      "en": "\"......Does she want to move forward or something?\"",
+      "text": "\"......Does she want to move forward or something?\""
+    },
+    {
+      "offset": 1836,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "気づいていないのは、俺を追うのに一生懸命で\n周囲に目が配れなかった美春本人ぐらいのもの\nだろう。",
+      "en": "Even a robot could do a better job avoiding obstacles.",
+      "text": "Even a robot could do a better job avoiding obstacles."
+    },
+    {
+      "offset": 1937,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺の後を尾けさせたのは誰の差し金なんだ？\n　風紀委員か、それとも音夢の指示なのか？」",
+      "en": "When I moved my body and tried to let her go past......",
+      "text": "When I moved my body and tried to let her go past......"
+    },
+    {
+      "offset": 2096,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "えへへへと美春が舌を出す。",
+      "en": "----Thud!",
+      "text": "----Thud!"
+    },
+    {
+      "offset": 2129,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ほう」",
+      "en": "She fell onto the floor without guarding herself with her\nhands.",
+      "text": "She fell onto the floor without guarding herself with her\nhands."
+    },
+    {
+      "offset": 2356,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛ひつけとうぞくあらためかた／火付盗賊改方｝の密偵より目ざといじゃないか。",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 2435,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "つーか、俺ってほとんど犯罪者扱いだな。風紀\n委員のブラックリストに顔写真付きで載ってる\nんじゃないかとすら思えてくる。",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 2558,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ただ散歩をしていただけなんだが……」",
+      "en": "\"Are you all right?\"",
+      "text": "\"Are you all right?\""
+    },
+    {
+      "offset": 2666,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こいつ、本気で俺が何かしでかすと思ってたな。",
+      "en": "She slammed her face on the floor without a single scream. I\nwas worried, and I shook her body.",
+      "text": "She slammed her face on the floor without a single scream. I\nwas worried, and I shook her body."
+    },
+    {
+      "offset": 2717,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「何か期待していたんなら、ご期待に応えてやっ\n　てもいいんだが……」",
+      "en": "\"Ha...... hah......\"",
+      "text": "\"Ha...... hah......\""
+    },
+    {
+      "offset": 2791,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "慌てて、美春がぷるぷると首を横に振る。",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2942,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春が懇願するように、両手を胸の前で組み合\nわせる。",
+      "en": "\"It's her......\"",
+      "text": "\"It's her......\""
+    },
+    {
+      "offset": 3000,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（さて、どうしようかな）",
+      "en": "The girl woke up with a big stretch and a yawn. It was\nMoe-sempai......",
+      "text": "The girl woke up with a big stretch and a yawn. It was\nMoe-sempai......"
+    },
+    {
+      "offset": 3895,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「ふぁ……はぁぁ……」",
+      "en": "\"Hello, Asakura-kun.\"",
+      "text": "\"Hello, Asakura-kun.\""
+    },
+    {
+      "offset": 3972,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "大きな｛あくび／欠伸｝をしながら、倒れていた女の子……\n萌先輩が起き上がる。",
+      "en": "\"H, Hi......\"",
+      "text": "\"H, Hi......\""
+    },
+    {
+      "offset": 4156,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ドキリとするような素直な笑みに、顔についた\n埃までもが可愛く見える。",
+      "en": "Her pure smile made even the dust on her face look cute.",
+      "text": "Her pure smile made even the dust on her face look cute."
+    },
+    {
+      "offset": 4256,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「どうも、ありがとうございました」",
+      "en": "\"Thank you very much.\"",
+      "text": "\"Thank you very much.\""
+    },
+    {
+      "offset": 4297,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "深々と、萌先輩が頭を下げる。",
+      "en": "Moe-sempai politely bowed at me.",
+      "text": "Moe-sempai politely bowed at me."
+    },
+    {
+      "offset": 4332,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「へ？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 4347,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんのことか分からず、呆けた返事を返す。",
+      "en": "I asked her, not knowing what she was thanking me for.",
+      "text": "I asked her, not knowing what she was thanking me for."
+    },
+    {
+      "offset": 4403,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「こんな所で寝ていたら、風邪を引いてしまう\n　ところでした」",
+      "en": "\"I was going to catch a cold, sleeping here.\"",
+      "text": "\"I was going to catch a cold, sleeping here.\""
+    },
+    {
+      "offset": 4478,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「それに、皆さんの通行の邪魔になってしまい\n　ましたね」",
+      "en": "\"Also, I was going to be in everyone's way.\"",
+      "text": "\"Also, I was going to be in everyone's way.\""
+    },
+    {
+      "offset": 4540,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言って、周囲にぺこぺこと頭を下げた。",
+      "en": "She also bowed at everyone else around us.",
+      "text": "She also bowed at everyone else around us."
+    },
+    {
+      "offset": 4696,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「どうも」",
+      "en": "\"But it's strange...... Why did I fall asleep in a place\nlike this?\"",
+      "text": "\"But it's strange...... Why did I fall asleep in a place\nlike this?\""
+    },
+    {
+      "offset": 4777,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春も何となく会釈を返す。",
+      "en": "Moe-sempai tilted her headwith a wondering expression.",
+      "text": "Moe-sempai tilted her headwith a wondering expression."
+    },
+    {
+      "offset": 4912,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩は不思議そうに小首を傾げる。",
+      "en": "\"......Umm, is your face okay?\"",
+      "text": "\"......Umm, is your face okay?\""
+    },
+    {
+      "offset": 5024,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「えっ？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 5067,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「そう言えば……なんとなく、ヒリヒリします」",
+      "en": "\"It does...... kind of hurt.\"",
+      "text": "\"It does...... kind of hurt.\""
+    },
+    {
+      "offset": 5118,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今まで気づかなかったのか、今更ながらに、頬\nを｛さす／擦｝っている。",
+      "en": "She finally realized that she was in pain, and she rubbed\nher cheek.",
+      "text": "She finally realized that she was in pain, and she rubbed\nher cheek."
+    },
+    {
+      "offset": 5201,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「それに……なんだか、埃もついているみたい\n　です」",
+      "en": "\"......And I have some dust on my face too.\"",
+      "text": "\"......And I have some dust on my face too.\""
+    },
+    {
+      "offset": 5259,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "擦った手を見て、ゆっくりした手つきで、顔に\nついた埃を取り除いている。",
+      "en": "She looked at her dusty hand and slowly started to wipe her\nface.",
+      "text": "She looked at her dusty hand and slowly started to wipe her\nface."
+    },
+    {
+      "offset": 5335,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「転んで、顔を打ちつけてたから……」",
+      "en": "\"You fell and hit your face on the floor......\"",
+      "text": "\"You fell and hit your face on the floor......\""
+    },
+    {
+      "offset": 5404,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はぁ……そうだったんですか。ダメですね、\n　私ったら、ほんとドジで」",
+      "en": "\"Oh...... is that true? Shame on me......\"",
+      "text": "\"Oh...... is that true? Shame on me......\""
+    },
+    {
+      "offset": 5506,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「やっぱり、眠りながら歩くのって、危険なん\n　でしょうか？」",
+      "en": "\"I guess it's dangerous to walk sleepwalk, huh?\"",
+      "text": "\"I guess it's dangerous to walk sleepwalk, huh?\""
+    },
+    {
+      "offset": 5572,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何故か困った顔をする萌先輩。",
+      "en": "She spoke with a concerned look.",
+      "text": "She spoke with a concerned look."
+    },
+    {
+      "offset": 5607,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……って言うか、よく寝ながら歩けますね」",
+      "en": "\"......I mean, how can you walk while you sleep?\"",
+      "text": "\"......I mean, how can you walk while you sleep?\""
+    },
+    {
+      "offset": 5682,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「ええ、簡単ですから」",
+      "en": "\"It's easy.\"",
+      "text": "\"It's easy.\""
+    },
+    {
+      "offset": 5747,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺と美春が、互いに無言で顔を見合わせる。",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 5820,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「……あの、何か私、変なことを言いましたで\n　しょうか？」",
+      "en": "\"......Umm, did I just say something weird?\"",
+      "text": "\"......Umm, did I just say something weird?\""
+    },
+    {
+      "offset": 5884,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "黙っている俺達に、困惑げな表情を浮かべる。",
+      "en": "As I remained silent, she asked me with a confused face.",
+      "text": "As I remained silent, she asked me with a confused face."
+    },
+    {
+      "offset": 5933,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや、ちょっと軽い｛めまい／眩暈｝が……」",
+      "en": "\"No, I just felt light headed...... It's amazing how you can\nmove while sleeping.\"",
+      "text": "\"No, I just felt light headed...... It's amazing how you can\nmove while sleeping.\""
+    },
+    {
+      "offset": 6047,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あははは、と美春がぎこちない笑い声で賛同す\nる。",
+      "en": "It is indeed mysterious.",
+      "text": "It is indeed mysterious."
+    },
+    {
+      "offset": 6118,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「それにしても、萌先輩、よく寝てるのに身体\n　が動きますね？」",
+      "en": "\"I don't need to use my brain for something that my body\nremembers.\"",
+      "text": "\"I don't need to use my brain for something that my body\nremembers.\""
+    },
+    {
+      "offset": 6186,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それが不思議だ。",
+      "en": "\"......Huh?\"",
+      "text": "\"......Huh?\""
+    },
+    {
+      "offset": 6235,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「身体が覚えていることに、頭は必要ありませ\n　んから」",
+      "en": "\"I mean, a body can remember certain movements, right?\"",
+      "text": "\"I mean, a body can remember certain movements, right?\""
+    },
+    {
+      "offset": 6295,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「……は？」",
+      "en": "\"Yeah...... I guess......\"",
+      "text": "\"Yeah...... I guess......\""
+    },
+    {
+      "offset": 6453,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何か……言葉の意味を逸脱している気がするん\nですけど……。",
+      "en": "I think she's taking that phrase the wrong way......",
+      "text": "I think she's taking that phrase the wrong way......"
+    },
+    {
+      "offset": 6515,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――っていうか、｛きわ／究｝めてる？",
+      "en": "...She's really strange.",
+      "text": "...She's really strange."
+    },
+    {
+      "offset": 6584,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「じゃあ、私はこれで失礼しますね」",
+      "en": "\"Well, I should go now.\"",
+      "text": "\"Well, I should go now.\""
+    },
+    {
+      "offset": 6647,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言って、萌先輩は｛・・・・・／目を瞑って｝、行ってしまっ\nた……。",
+      "en": "She spokeand left with her eyes closed again......",
+      "text": "She spokeand left with her eyes closed again......"
+    },
+    {
+      "offset": 6910,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆身体が自然に動く◆",
+      "en": "◆The body remembers the movement◆",
+      "text": "◆The body remembers the movement◆"
+    },
+    {
+      "offset": 6977,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "廊下を歩いていたら萌先輩に後ろから追突され\nたんだけど……よく寝ながら歩けると思う。",
+      "en": "When I was walking down the hallway, Moe-sempai bumped into\nme...... How could she walk while sleeping?",
+      "text": "When I was walking down the hallway, Moe-sempai bumped into\nme...... How could she walk while sleeping?"
+    },
+    {
+      "offset": 7065,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "簡単だと先輩は言っていたけど、そんなはずは\nない。",
+      "en": "She said it was easy to do, but I don't believe it.",
+      "text": "She said it was easy to do, but I don't believe it."
+    },
+    {
+      "offset": 7119,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『身体が自然に動く』という萌先輩はやはり万\n物を超越しているとしか思えない……。",
+      "en": "Moe said that the body remembers certain movements, but I\nthink she's nothing but a strange person......",
+      "text": "Moe said that the body remembers certain movements, but I\nthink she's nothing but a strange person......"
+    }
+  ],
+  "choices": [],
+  "names": {
+    "3889": "Moe",
+    "4250": "Moe",
+    "4397": "Moe",
+    "4472": "Moe",
+    "4690": "Moe",
+    "5018": "Moe",
+    "5061": "Moe",
+    "5195": "Moe",
+    "5398": "Moe",
+    "5500": "Moe",
+    "5676": "Moe",
+    "5814": "Moe",
+    "6229": "Moe",
+    "6578": "Moe"
+  }
+}

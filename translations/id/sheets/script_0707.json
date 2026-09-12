@@ -1,0 +1,787 @@
+{
+  "scene": "script_0707.obj",
+  "dialogues": [
+    {
+      "offset": 231,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "I get out of bed while stretching.",
+      "text": "I get out of bed while stretching."
+    },
+    {
+      "offset": 250,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"I guess I just woke up when you came to wake me up.\"",
+      "text": "\"I guess I just woke up when you came to wake me up.\""
+    },
+    {
+      "offset": 269,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……おはよ」",
+      "en": "I yawn and murmur, not to her but to myself. Then, she\nshakes her head from side to side.",
+      "text": "I yawn and murmur, not to her but to myself. Then, she\nshakes her head from side to side."
+    },
+    {
+      "offset": 318,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「おはようございます……」",
+      "en": "\"No, that's not what happened......\"",
+      "text": "\"No, that's not what happened......\""
+    },
+    {
+      "offset": 351,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目を開くと、何の前触れもなく、そこには頼子\nさんの顔が。驚きにしばらく固まってしまった。",
+      "en": "\"Really? So you tried to wake me up but I didn't wake up for\na long time?\"",
+      "text": "\"Really? So you tried to wake me up but I didn't wake up for\na long time?\""
+    },
+    {
+      "offset": 445,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん、んん〜……」",
+      "en": "It can happen. I can hang onto my sleep tightly like a beast\nwon't let go of meat.",
+      "text": "It can happen. I can hang onto my sleep tightly like a beast\nwon't let go of meat."
+    },
+    {
+      "offset": 470,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぐっと伸びをしつつベッドから起きあがる。",
+      "en": "But she shakes her head from side to side again.",
+      "text": "But she shakes her head from side to side again."
+    },
+    {
+      "offset": 517,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「起こしに来たら、丁度目が覚めたのかな」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 564,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あくびをしながら、頼子さんにというよりは、\n独り言のように呟く。と、彼女は首を振った。",
+      "en": "I have a big question mark on my face, then......",
+      "text": "I have a big question mark on my face, then......"
+    },
+    {
+      "offset": 793,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "野獣のように眠りをぼりぼり｛むさぼ／貪｝っていたのかも。\n俺ならあり得る。",
+      "en": "Beep-beep-beep-beep-beep!",
+      "text": "Beep-beep-beep-beep-beep!"
+    },
+    {
+      "offset": 871,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、それにも首を振った。",
+      "en": "\"Oh.\"",
+      "text": "\"Oh.\""
+    },
+    {
+      "offset": 906,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん？」",
+      "en": "As I turn off the alarm, Yoriko-san says,",
+      "text": "As I turn off the alarm, Yoriko-san says,"
+    },
+    {
+      "offset": 921,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "顔に疑問符を浮かべてしまう。と──。",
+      "en": "\"Ah...... I was waiting 'till it went off.\"",
+      "text": "\"Ah...... I was waiting 'till it went off.\""
+    },
+    {
+      "offset": 967,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ジリリリリ！",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 986,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「よっと」",
+      "en": "Her face turns red. Now I have two big question marks on my\nface.",
+      "text": "Her face turns red. Now I have two big question marks on my\nface."
+    },
+    {
+      "offset": 1005,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が音をストップさせるのと同時に、頼子さん\nは言った。",
+      "en": "\"Huh? Huh?\"",
+      "text": "\"Huh? Huh?\""
+    },
+    {
+      "offset": 1093,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あの……それまでは、待っていようと思った\n　んです」",
+      "en": "\"I mean......\"",
+      "text": "\"I mean......\""
+    },
+    {
+      "offset": 1153,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「何が？」",
+      "en": "\"I was watching...... you sleep.\"",
+      "text": "\"I was watching...... you sleep.\""
+    },
+    {
+      "offset": 1198,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「……朝倉さんを、起こすのをです……」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1243,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何故か、頬を赤らめる。疑問符が二つに増える。",
+      "en": "\"Watching me?\"",
+      "text": "\"Watching me?\""
+    },
+    {
+      "offset": 1294,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん？　ん？」",
+      "en": "She hesitantly nods. ......She's squirming.",
+      "text": "She hesitantly nods. ......She's squirming."
+    },
+    {
+      "offset": 1326,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「その……」",
+      "en": "\"......You have poor taste. I could understand if you want\nto watch a celebrity's sleeping face, but me?\"",
+      "text": "\"......You have poor taste. I could understand if you want\nto watch a celebrity's sleeping face, but me?\""
+    },
+    {
+      "offset": 1356,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「寝顔を……見てました」",
+      "en": "\"I have good taste.\"",
+      "text": "\"I have good taste.\""
+    },
+    {
+      "offset": 1387,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「…………」",
+      "en": "\"Then, you have poor eyesight.\"",
+      "text": "\"Then, you have poor eyesight.\""
+    },
+    {
+      "offset": 1406,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「俺の？」",
+      "en": "\"My eyes are good.\"",
+      "text": "\"My eyes are good.\""
+    },
+    {
+      "offset": 1423,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もじもじしながら、こくんと頷く。……器用な\n動きだな。",
+      "en": "\"Hmm......\"",
+      "text": "\"Hmm......\""
+    },
+    {
+      "offset": 1483,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……そりゃあ、趣味が悪いな。どこぞの名画\n　ならともかく、俺の顔じゃあね」",
+      "en": "I'm about to criticize her beauty sense next, but I don't\nbecause I don't want to hear her say yes this time...",
+      "text": "I'm about to criticize her beauty sense next, but I don't\nbecause I don't want to hear her say yes this time..."
+    },
+    {
+      "offset": 1593,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「そんなことありませんよ……」",
+      "en": "\"I'll make breakfast soon.\"",
+      "text": "\"I'll make breakfast soon.\""
+    },
+    {
+      "offset": 1630,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「じゃ、目が悪いんだ」",
+      "en": "\"Yeah.\"",
+      "text": "\"Yeah.\""
+    },
+    {
+      "offset": 1731,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "じゃ、美意識かなと思いつつも、それは口にし\nない。言ってて泣きそうになるからな。",
+      "en": "\"Well......\"",
+      "text": "\"Well......\""
+    },
+    {
+      "offset": 1935,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "制服に着替えつつ、ふと疑問に思った。",
+      "en": "While I change into my school uniform, I'm thinking.",
+      "text": "While I change into my school uniform, I'm thinking."
+    },
+    {
+      "offset": 1978,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そもそも、何で俺の寝顔なんぞ見てたんだろ\n　うな？」",
+      "en": "\"Why was she watching my sleeping face anyway?\"",
+      "text": "\"Why was she watching my sleeping face anyway?\""
+    },
+    {
+      "offset": 2038,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2057,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「照れるじゃねえか、こんちきしょうめ」",
+      "en": "\"Man, I'm blushing......\"",
+      "text": "\"Man, I'm blushing......\""
+    },
+    {
+      "offset": 2167,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「じゃ、行ってきま〜す」",
+      "en": "\"I'm leaving.\"",
+      "text": "\"I'm leaving.\""
+    },
+    {
+      "offset": 2226,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「行ってらっしゃい」",
+      "en": "\"Have a nice day.\"",
+      "text": "\"Have a nice day.\""
+    },
+    {
+      "offset": 2294,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「さて……と」",
+      "en": "\"Okay......\"",
+      "text": "\"Okay......\""
+    },
+    {
+      "offset": 2315,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "寂しげな笑顔に送り出され、学園へと向かう。",
+      "en": "She sends me off with a sad smile, and I start to walk to\nschool.",
+      "text": "She sends me off with a sad smile, and I start to walk to\nschool."
+    },
+    {
+      "offset": 2417,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "相変わらず天井が抜けたように桜が降る中を、\nいつものごとく学生達がぞろりと歩いている。",
+      "en": "As usual, students are walking to school through falling\npetals of cherry blossoms.",
+      "text": "As usual, students are walking to school through falling\npetals of cherry blossoms."
+    },
+    {
+      "offset": 2507,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、当然のように、俺の隣には誰も居ない。",
+      "en": "And as usual, I don't have anyone next to me.",
+      "text": "And as usual, I don't have anyone next to me."
+    },
+    {
+      "offset": 2558,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふむ……日常の光景ってやつだよな」",
+      "en": "\"This is called an ordinary sight.\"",
+      "text": "\"This is called an ordinary sight.\""
+    },
+    {
+      "offset": 2601,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見慣れた道を、見慣れた制服が行く中で、俺は\n一人てくてくやっている。",
+      "en": "I'm walking alone along the familiar road with students\nwearing the familiar school uniforms.",
+      "text": "I'm walking alone along the familiar road with students\nwearing the familiar school uniforms."
+    },
+    {
+      "offset": 2673,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あんな夢を見たせいで、つい自分の足が着いて\nいる地を確認したくなってしまったのだ。",
+      "en": "Since I had that dream last night, I want to check if my\nfeet are definitely touching the ground.",
+      "text": "Since I had that dream last night, I want to check if my\nfeet are definitely touching the ground."
+    },
+    {
+      "offset": 2761,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……不毛の土地だ」",
+      "en": "\"......Dead soil.\"",
+      "text": "\"......Dead soil.\""
+    },
+    {
+      "offset": 2788,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ペンペン草一本生えていないという事実に、割\nと切なくなってしまう。",
+      "en": "There isn't even a weed growing on this road, and that fact\nmakes me feel a bit lonely.",
+      "text": "There isn't even a weed growing on this road, and that fact\nmakes me feel a bit lonely."
+    },
+    {
+      "offset": 2860,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「くぅ……こんな学園生活に誰がした」",
+      "en": "\"Who made my school life so miserable?\"",
+      "text": "\"Who made my school life so miserable?\""
+    },
+    {
+      "offset": 2936,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「いようっ、やっぱり今朝も、財布落としたよ\n　うな顔だなっ、朝倉」",
+      "en": "\"Hey! Why do you always look sad in the morning? You look\nlike you lost your wallet or something.\"",
+      "text": "\"Hey! Why do you always look sad in the morning? You look\nlike you lost your wallet or something.\""
+    },
+    {
+      "offset": 3008,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3027,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「あーあー。うんうん。ペンペン草」",
+      "en": "\"Yeah, yeah. Yes, yes. Weed, weed.\"",
+      "text": "\"Yeah, yeah. Yes, yes. Weed, weed.\""
+    },
+    {
+      "offset": 3096,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「肩を叩きつつ意味不明な単語。金属片でも、\n　埋め込まれたか？」",
+      "en": "\"What are you talking about......? Were you abducted by\naliens and now you have a piece of metal in your brain?\"",
+      "text": "\"What are you talking about......? Were you abducted by\naliens and now you have a piece of metal in your brain?\""
+    },
+    {
+      "offset": 3166,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「知るか」",
+      "en": "\"How would I know that?\"",
+      "text": "\"How would I know that?\""
+    },
+    {
+      "offset": 3183,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月とスッポンどころか、月とカメムシくらいの\n差があるが、杉並が横に並ぶ。",
+      "en": "It's as different as night and day, but Suginami's walking\nnext to me now.",
+      "text": "It's as different as night and day, but Suginami's walking\nnext to me now."
+    },
+    {
+      "offset": 3289,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「今日は、お前に報告があってな」",
+      "en": "\"Today I have something to tell you.\"",
+      "text": "\"Today I have something to tell you.\""
+    },
+    {
+      "offset": 3328,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「あん？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 3356,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「水越をプロレスに誘ってみたぞ」",
+      "en": "\"I asked Mako if she wanted to go watch a pro wrestling\nmatch with me.\"",
+      "text": "\"I asked Mako if she wanted to go watch a pro wrestling\nmatch with me.\""
+    },
+    {
+      "offset": 3395,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「おう。どうだった？」",
+      "en": "\"Oh, what did she say?\"",
+      "text": "\"Oh, what did she say?\""
+    },
+    {
+      "offset": 3452,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ナノ１秒ほどで却下された」",
+      "en": "\"She told me no in a second.\"",
+      "text": "\"She told me no in a second.\""
+    },
+    {
+      "offset": 3487,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……ほう」",
+      "en": "\"......Oh.\"",
+      "text": "\"......Oh.\""
+    },
+    {
+      "offset": 3506,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "笑っていいのやらどうなのやら、判断に苦しむ\nところではあるな……。",
+      "en": "I don't know if I should have laughed or not.",
+      "text": "I don't know if I should have laughed or not."
+    },
+    {
+      "offset": 3606,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「予想以上にガードが堅いな。どうやら多少、\n　作戦変更をせねばならんようだ」",
+      "en": "\"Then, ask her if she wants to go to watch a movie.\nAnyway......\"",
+      "text": "\"Then, ask her if she wants to go to watch a movie.\nAnyway......\""
+    },
+    {
+      "offset": 3688,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「まあ、だったら、今度は無難に映画にでも誘っ\n　てみろよ。ところで……」",
+      "en": "\"Do you like our school?\"",
+      "text": "\"Do you like our school?\""
+    },
+    {
+      "offset": 3766,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「おまえ、学園に通うのは好きか？」",
+      "en": "\"Yes? I don't hate it.\"",
+      "text": "\"Yes? I don't hate it.\""
+    },
+    {
+      "offset": 3818,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「うん？　まあ、嫌いではないが」",
+      "en": "\"You don't hate it......\"",
+      "text": "\"You don't hate it......\""
+    },
+    {
+      "offset": 3886,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "当たり障りのない答えだ。だが、そんなものか\nもしれない。",
+      "en": "That's a generic answer, and maybe that's the best answer as\nwell.",
+      "text": "That's a generic answer, and maybe that's the best answer as\nwell."
+    },
+    {
+      "offset": 3946,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "例えばの話だけど、と俺は先を続けた。",
+      "en": "I ask him more with an example.",
+      "text": "I ask him more with an example."
+    },
+    {
+      "offset": 3989,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おまえが病気か何かで１ヶ月休んだとする。\n　１ヶ月ぶりの登校をどう感じると思う？」",
+      "en": "\"For example, if you missed school for a month because you\ngot sick, how do you think you'd feel when you go back to\nschool after a month?\"",
+      "text": "\"For example, if you missed school for a month because you\ngot sick, how do you think you'd feel when you go back to\nschool after a month?\""
+    },
+    {
+      "offset": 4107,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……そりゃ、嬉しいだろ。決まってる」",
+      "en": "\"......Of course I'd be happy.\"",
+      "text": "\"......Of course I'd be happy.\""
+    },
+    {
+      "offset": 4152,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 4182,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「おい、何の話だ？」",
+      "en": "\"What are you talking about?\"",
+      "text": "\"What are you talking about?\""
+    },
+    {
+      "offset": 4209,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「何だろうなあ」",
+      "en": "\"I don't know.\"",
+      "text": "\"I don't know.\""
+    },
+    {
+      "offset": 4244,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "遠くを眺めつつ、すっとぼける。ぐいぐいと、\n我が｛まなびや／学舎｝が近づいてくる。",
+      "en": "I look into the distance and play dumb. We're getting closer\nto school.",
+      "text": "I look into the distance and play dumb. We're getting closer\nto school."
+    },
+    {
+      "offset": 4330,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "これまで、学園ってのは“当たり前”だと思っ\nていた。",
+      "en": "To me, it was a given that everybody goes to school.",
+      "text": "To me, it was a given that everybody goes to school."
+    },
+    {
+      "offset": 4386,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "当たり前のようにそこにあって、当たり前のよ\nうにそこへ通う。",
+      "en": "There's a school, and students go there as a matter of\ncourse.",
+      "text": "There's a school, and students go there as a matter of\ncourse."
+    },
+    {
+      "offset": 4450,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "けれど、それが当たり前じゃないって人が居る\nのも、これまた｛しか／然｝りってなものなのだ。",
+      "en": "But it's not a given for some people, and that's all too\nreal as well.",
+      "text": "But it's not a given for some people, and that's all too\nreal as well."
+    },
+    {
+      "offset": 4546,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（頼子さん……もしかして、自分も行きたいの\n　かな……）",
+      "en": "(Yoriko-san...... I wonder if she wants to go to school as\nwell......)",
+      "text": "(Yoriko-san...... I wonder if she wants to go to school as\nwell......)"
+    },
+    {
+      "offset": 4608,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（だから、寂しげな顔で送り出す……？）",
+      "en": "(Is that why she looks sad when she sends me off...?)",
+      "text": "(Is that why she looks sad when she sends me off...?)"
+    },
+    {
+      "offset": 4653,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、頼子さんは外に出る事に恐怖を感じて\nいる。昨夜の拒絶からすれば、それはかなり強\nいみたいだ。",
+      "en": "But she's scared of going outside. From the way she reacted\nlast night, I can tell she really hates to go outside.",
+      "text": "But she's scared of going outside. From the way she reacted\nlast night, I can tell she really hates to go outside."
+    },
+    {
+      "offset": 4756,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな彼女が、一体どうしたら……？",
+      "en": "Is there any way she can go to school......?",
+      "text": "Is there any way she can go to school......?"
+    },
+    {
+      "offset": 4797,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（……通信教育？　いや、それはまた別だよな）",
+      "en": "\"......Online study? No, it's different......\"",
+      "text": "\"......Online study? No, it's different......\""
+    },
+    {
+      "offset": 4859,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「何、ぶつぶつ呟きながら歩いてるんだ。不気\n　味すぎるぞ」",
+      "en": "\"You're usually weird, but today you're very weird. If you\nfeel bad about making me ask Mako to a pro wrestler match,\nyou don't have to worry.\"",
+      "text": "\"You're usually weird, but today you're very weird. If you\nfeel bad about making me ask Mako to a pro wrestler match,\nyou don't have to worry.\""
+    },
+    {
+      "offset": 5049,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、このままずっと考えても頼子さんのこと\nはすぐに決着がつきそうもないから、仕方なく\n杉並の話に付き合うことにする。",
+      "en": "\"......I appreciate it.\"",
+      "text": "\"......I appreciate it.\""
+    },
+    {
+      "offset": 5172,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で？　新たな候補地はどうするんだ？　それ\n　とも、諦めるか？」",
+      "en": "\"So? Where are you going to ask her out next? Or are you\ngonna give up?\"",
+      "text": "\"So? Where are you going to ask her out next? Or are you\ngonna give up?\""
+    },
+    {
+      "offset": 5275,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ふっ、その点は抜かりはない」",
+      "en": "\"Ha, don't worry about that.\"",
+      "text": "\"Ha, don't worry about that.\""
+    },
+    {
+      "offset": 5312,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しゃきーん、と笑顔を浮かべる。",
+      "en": "He gives a big shining smile.",
+      "text": "He gives a big shining smile."
+    },
+    {
+      "offset": 5360,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「今日はな、俺が｛こんい／懇意｝にしているサークルに誘っ\n　てみようと思っている」",
+      "en": "\"Today, I'm gonna ask to take her out to a channeling\ninvestigation club that I always go to.\"",
+      "text": "\"Today, I'm gonna ask to take her out to a channeling\ninvestigation club that I always go to.\""
+    },
+    {
+      "offset": 5448,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「サークル？」",
+      "en": "\"She will cheer up once she touches the energy of the\nuniverse.\"",
+      "text": "\"She will cheer up once she touches the energy of the\nuniverse.\""
+    },
+    {
+      "offset": 5469,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何やら不吉な予感がして、思わず聞き返してし\nまった。",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 5647,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まっはっはと脳天気に笑う杉並に、俺はしみじ\nみと言った。",
+      "en": "He's laughing optimistically, so I tell him,",
+      "text": "He's laughing optimistically, so I tell him,"
+    },
+    {
+      "offset": 5709,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「杉並よ。……それだけは、止めておけ」",
+      "en": "\"Suginami...... Please promise me you wouldn't do that.\"",
+      "text": "\"Suginami...... Please promise me you wouldn't do that.\""
+    },
+    {
+      "offset": 5880,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆寝顔◆",
+      "en": "◆Junichi◆",
+      "text": "◆Junichi◆"
+    },
+    {
+      "offset": 5921,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつもの朝。目覚めると頼子さんがいて、寝顔\nを見てましたなんていわれちゃったりして……。",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 6013,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだか照れてしまうよな……。",
+      "en": "\"......Good morning.\"",
+      "text": "\"......Good morning.\""
+    },
+    {
+      "offset": 6079,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "家を出て学校に向かう途中、杉並に出会う。",
+      "en": "\"Good morning......\"",
+      "text": "\"Good morning......\""
+    },
+    {
+      "offset": 6124,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつものように、二人でくだらないことを話し\nながらも俺は考えていた。",
+      "en": "When I open my eyes, Yoriko-san's face is unexpectedly\nthere.",
+      "text": "When I open my eyes, Yoriko-san's face is unexpectedly\nthere."
+    },
+    {
+      "offset": 6196,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうしたら頼子さんを外に連れ出してあげられ\nるのだろうか……と",
+      "en": "\"Mmm, mmm......\"",
+      "text": "\"Mmm, mmm......\""
+    }
+  ],
+  "choices": [],
+  "names": {
+    "310": "Yoriko",
+    "1085": "Yoriko",
+    "1190": "Yoriko",
+    "1318": "Yoriko",
+    "1348": "Yoriko",
+    "1585": "Yoriko",
+    "2218": "Yoriko",
+    "2928": "Suginami",
+    "3088": "Suginami",
+    "3281": "Suginami",
+    "3348": "Suginami",
+    "3444": "Suginami",
+    "3598": "Suginami",
+    "3810": "Suginami",
+    "4099": "Suginami",
+    "4174": "Suginami",
+    "4851": "Suginami",
+    "5267": "Suginami",
+    "5352": "Suginami"
+  }
+}

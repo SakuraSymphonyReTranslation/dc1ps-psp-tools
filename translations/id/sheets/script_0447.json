@@ -1,0 +1,935 @@
+{
+  "scene": "script_0447.obj",
+  "dialogues": [
+    {
+      "offset": 212,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ごちそうさまでした」",
+      "en": "\"I'm done, thank you.\"",
+      "text": "\"I'm done, thank you.\""
+    },
+    {
+      "offset": 241,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「食った食った」",
+      "en": "\"I ate a lot.\"",
+      "text": "\"I ate a lot.\""
+    },
+    {
+      "offset": 275,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「えへへへ。お寿司なんて久しぶりに食べた\n　ね♪」",
+      "en": "\"Teehee. It's been a while since we ate sushi.\"",
+      "text": "\"Teehee. It's been a while since we ate sushi.\""
+    },
+    {
+      "offset": 331,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "合わせていた手を離して、音夢が小さく微笑む。",
+      "en": "Pushing her plate away, Nemu smiles quietly.",
+      "text": "Pushing her plate away, Nemu smiles quietly."
+    },
+    {
+      "offset": 382,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まぁな」",
+      "en": "\"That's right.\"",
+      "text": "\"That's right.\""
+    },
+    {
+      "offset": 399,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ソファーに深くもたれかかりながら俺も頷く。",
+      "en": "I nod, and kick back on the couch.",
+      "text": "I nod, and kick back on the couch."
+    },
+    {
+      "offset": 448,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「って、お前はほとんど食べてないぞ」",
+      "en": "\"Well, you didn't eat much, though.\"",
+      "text": "\"Well, you didn't eat much, though.\""
+    },
+    {
+      "offset": 519,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ん、そうかな？」",
+      "en": "\"Hm, do you think so?\"",
+      "text": "\"Hm, do you think so?\""
+    },
+    {
+      "offset": 544,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「半人前も食べれてないだろう」",
+      "en": "\"You didn't eat even half of it.\"",
+      "text": "\"You didn't eat even half of it.\""
+    },
+    {
+      "offset": 609,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「お腹はすいてたんだけどね」",
+      "en": "\"I was very hungry, though.\"",
+      "text": "\"I was very hungry, though.\""
+    },
+    {
+      "offset": 644,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "嘘とかそんな感じではなく、音夢も他意はない\nと小首をかしげる。",
+      "en": "Nemu replies sincerely with a nod.",
+      "text": "Nemu replies sincerely with a nod."
+    },
+    {
+      "offset": 740,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ま、久しぶりに兄さんとご飯が食べれて、心\n　が幸せいっぱいと言うことで」",
+      "en": "\"I guess I'm so happy since it's been a while since we ate\ntogether, niisan.\"",
+      "text": "\"I guess I'm so happy since it's been a while since we ate\ntogether, niisan.\""
+    },
+    {
+      "offset": 820,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "後頭部に手を当てて、音夢が小首をかしげる。",
+      "en": "Nemu cocks her head, resting it on her hand.",
+      "text": "Nemu cocks her head, resting it on her hand."
+    },
+    {
+      "offset": 869,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……あっそ」",
+      "en": "\"I see...\"",
+      "text": "\"I see...\""
+    },
+    {
+      "offset": 918,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「な、なによその目は！？」",
+      "en": "\"Wha-what is that look?\"",
+      "text": "\"Wha-what is that look?\""
+    },
+    {
+      "offset": 951,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だから、照れるなら言うなよ」",
+      "en": "\"Don't say things like that if you're going to feel\nembarrassed.\"",
+      "text": "\"Don't say things like that if you're going to feel\nembarrassed.\""
+    },
+    {
+      "offset": 988,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ソファーに深く座り込んで、ほぅ、とため息を\nつく。",
+      "en": "I breathe a sigh, sitting deep on the couch.",
+      "text": "I breathe a sigh, sitting deep on the couch."
+    },
+    {
+      "offset": 1044,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「久しぶりって、しかも１日だけだろうが……」",
+      "en": "\"It's been a while? Come on! It's been only one day.\"",
+      "text": "\"It's been a while? Come on! It's been only one day.\""
+    },
+    {
+      "offset": 1123,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、うん……ごめんね兄さん」",
+      "en": "\"Oh, yeah... sorry, niisan.\"",
+      "text": "\"Oh, yeah... sorry, niisan.\""
+    },
+    {
+      "offset": 1172,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "寿司の盆を洗おうというのか、音夢が立ち上がっ\nて台所へ向かう。",
+      "en": "Nemu stands up and walks to the kitchen to wash the sushi\ntray.",
+      "text": "Nemu stands up and walks to the kitchen to wash the sushi\ntray."
+    },
+    {
+      "offset": 1240,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なにがだ？」",
+      "en": "\"For what?\"",
+      "text": "\"For what?\""
+    },
+    {
+      "offset": 1261,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "顔は向けずその背中に声をかける。",
+      "en": "I ask when she's already turned her back to me.",
+      "text": "I ask when she's already turned her back to me."
+    },
+    {
+      "offset": 1311,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「えっ？　あ、うんん。なんでもないの」",
+      "en": "\"What? Oh, nothing.\"",
+      "text": "\"What? Oh, nothing.\""
+    },
+    {
+      "offset": 1356,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………？」",
+      "en": "\"...............?\"",
+      "text": "\"...............?\""
+    },
+    {
+      "offset": 1410,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「で、さくらちゃんとなに話してたの？」",
+      "en": "\"So, what did you talk about with Sakura?\"",
+      "text": "\"So, what did you talk about with Sakura?\""
+    },
+    {
+      "offset": 1455,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いや、寝てただけだけど」",
+      "en": "\"Well, actually all we did was sleep.\"",
+      "text": "\"Well, actually all we did was sleep.\""
+    },
+    {
+      "offset": 1516,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「――っ！？」",
+      "en": "\".........!?\"",
+      "text": "\".........!?\""
+    },
+    {
+      "offset": 1549,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ガタタタッ、と。",
+      "en": "Thud, clatter.",
+      "text": "Thud, clatter."
+    },
+    {
+      "offset": 1572,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんだ！？」",
+      "en": "\"What happened?\"",
+      "text": "\"What happened?\""
+    },
+    {
+      "offset": 1604,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「痛たたたた……」",
+      "en": "\"Ouch...\"",
+      "text": "\"Ouch...\""
+    },
+    {
+      "offset": 1629,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "身体を丸めて音夢が座り込んでいる。",
+      "en": "Nemu squats down, curling up in pain.",
+      "text": "Nemu squats down, curling up in pain."
+    },
+    {
+      "offset": 1670,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おい、大丈夫か！？」",
+      "en": "\"Hey, are you okay?\"",
+      "text": "\"Hey, are you okay?\""
+    },
+    {
+      "offset": 1710,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さ〜ん……お盆を足の指に落したよぉ」",
+      "en": "\"Ow, niisan... I dropped the tray on my toes.\"",
+      "text": "\"Ow, niisan... I dropped the tray on my toes.\""
+    },
+    {
+      "offset": 1757,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1776,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ドジ」",
+      "en": "\"What a klutz!\"",
+      "text": "\"What a klutz!\""
+    },
+    {
+      "offset": 1802,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、兄さんのせいなのに、どうしてそういう\n　ことを言うかな！？」",
+      "en": "\"Oh, it's your fault. How can you say that?\"",
+      "text": "\"Oh, it's your fault. How can you say that?\""
+    },
+    {
+      "offset": 1874,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なにが俺のせいなんだよ……」",
+      "en": "\"Why is it my fault?\"",
+      "text": "\"Why is it my fault?\""
+    },
+    {
+      "offset": 1922,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「それは……う〜」",
+      "en": "\"Because... Uh...\"",
+      "text": "\"Because... Uh...\""
+    },
+    {
+      "offset": 1947,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "指を口に当てて、恨みがましく音夢がうなる。",
+      "en": "Nemu groans resentfully, putting her finger on her mouth.",
+      "text": "Nemu groans resentfully, putting her finger on her mouth."
+    },
+    {
+      "offset": 1996,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんだよ一体」",
+      "en": "\"Because what?\"",
+      "text": "\"Because what?\""
+    },
+    {
+      "offset": 2030,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なんでもないで――」",
+      "en": "\"Nothing...\"",
+      "text": "\"Nothing...\""
+    },
+    {
+      "offset": 2064,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ルルルルル――",
+      "en": "Ring! Ring!",
+      "text": "Ring! Ring!"
+    },
+    {
+      "offset": 2083,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ん。",
+      "en": "Hm.",
+      "text": "Hm."
+    },
+    {
+      "offset": 2105,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「私が出る――っく？」",
+      "en": "\"I'll get it.\"",
+      "text": "\"I'll get it.\""
+    },
+    {
+      "offset": 2134,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "立ち上がろうとした音夢の額に手を当てる。",
+      "en": "I put my hand on her forehead as she's getting up.",
+      "text": "I put my hand on her forehead as she's getting up."
+    },
+    {
+      "offset": 2181,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「足を打ったんだろ？　そこで大人しくしてろ」",
+      "en": "\"Your toes are hurting, right? Stay still.\"",
+      "text": "\"Your toes are hurting, right? Stay still.\""
+    },
+    {
+      "offset": 2243,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「う、うん……」",
+      "en": "\"Yeah...\"",
+      "text": "\"Yeah...\""
+    },
+    {
+      "offset": 2266,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もじもじ、と音夢が組んでうつむく。",
+      "en": "Nemu faces downward.",
+      "text": "Nemu faces downward."
+    },
+    {
+      "offset": 2312,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はい、朝倉です」",
+      "en": "\"Hello, this is the Asakura residence.\"",
+      "text": "\"Hello, this is the Asakura residence.\""
+    },
+    {
+      "offset": 2337,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "テレビの音量を消して受話器をとる。",
+      "en": "I answer the phone while turning the volume down on the TV.",
+      "text": "I answer the phone while turning the volume down on the TV."
+    },
+    {
+      "offset": 2389,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "『あ、あ、朝倉先輩、音夢先輩いますか！？』",
+      "en": "\"Oh, uh... Asakura-sempai, can I talk to Nemu-sempai?\"",
+      "text": "\"Oh, uh... Asakura-sempai, can I talk to Nemu-sempai?\""
+    },
+    {
+      "offset": 2438,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「美春か？　なに慌ててるんだお前」",
+      "en": "\"Hi Miharu. What's going on?\"",
+      "text": "\"Hi Miharu. What's going on?\""
+    },
+    {
+      "offset": 2490,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "『いいから早くしてください！』",
+      "en": "\"Let me talk to Nemu-sempai now, please!\"",
+      "text": "\"Let me talk to Nemu-sempai now, please!\""
+    },
+    {
+      "offset": 2527,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「っ、分かったよ。音夢、美春から」",
+      "en": "\"Okay. Nemu, it's Miharu for you.\"",
+      "text": "\"Okay. Nemu, it's Miharu for you.\""
+    },
+    {
+      "offset": 2568,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "大きな声に耳をおさえて、音夢に受話器を掲げ\nた。",
+      "en": "I recoil from the loud voice and pass the phone to Nemu.",
+      "text": "I recoil from the loud voice and pass the phone to Nemu."
+    },
+    {
+      "offset": 2633,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、どうしたの美春……え」",
+      "en": "\"Oh, what's up, Miharu?\"",
+      "text": "\"Oh, what's up, Miharu?\""
+    },
+    {
+      "offset": 2668,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………？」",
+      "en": "\"...............?\"",
+      "text": "\"...............?\""
+    },
+    {
+      "offset": 2700,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「嘘……うん……うん」",
+      "en": "\"You're kidding me... Yes, uh-huh...\"",
+      "text": "\"You're kidding me... Yes, uh-huh...\""
+    },
+    {
+      "offset": 2729,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何気なく見ていただけなのだが、音夢の顔がす\nぐに曇る。",
+      "en": "I see Nemu's expression has turned to a frown.",
+      "text": "I see Nemu's expression has turned to a frown."
+    },
+    {
+      "offset": 2800,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「分かった。それでユリは大丈夫だって？　う\n　ん……そっか。うん分かった。明日の会議で\n　ね」",
+      "en": "\"I see. So, is Yuri okay now? Uh-huh... I see. Okay, I got\nit. See you at the meeting tomorrow.\"",
+      "text": "\"I see. So, is Yuri okay now? Uh-huh... I see. Okay, I got\nit. See you at the meeting tomorrow.\""
+    },
+    {
+      "offset": 2899,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ため息をついて受話器がおりる。",
+      "en": "She hangs up the phone with a sigh.",
+      "text": "She hangs up the phone with a sigh."
+    },
+    {
+      "offset": 2936,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どうした？」",
+      "en": "\"What happened?\"",
+      "text": "\"What happened?\""
+    },
+    {
+      "offset": 2990,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え……あ、委員会の子が事故にあったって」",
+      "en": "\"Well, one of the committee members was in an accident.\"",
+      "text": "\"Well, one of the committee members was in an accident.\""
+    },
+    {
+      "offset": 3039,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「大丈夫だったのか？」",
+      "en": "\"Was she okay?\"",
+      "text": "\"Was she okay?\""
+    },
+    {
+      "offset": 3096,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うん。大きな怪我ではないって……でも、ま\n　だ意識が戻ってないんだって」",
+      "en": "\"Yeah. She wasn't seriously injured, but she's still\nunconscious.\"",
+      "text": "\"Yeah. She wasn't seriously injured, but she's still\nunconscious.\""
+    },
+    {
+      "offset": 3176,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「交通事故？」",
+      "en": "\"Was it a traffic accident?\"",
+      "text": "\"Was it a traffic accident?\""
+    },
+    {
+      "offset": 3225,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うんん。それが、桜の枝が落ちてきて頭を打っ\n　たらしいの」",
+      "en": "\"Nope. Apparently a branch of a cherry tree fell on her\nhead.\"",
+      "text": "\"Nope. Apparently a branch of a cherry tree fell on her\nhead.\""
+    },
+    {
+      "offset": 3291,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「は？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 3334,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あぁ、まぁ、そのまんまの意味だと思うけど」",
+      "en": "\"Well, that's what she said.\"",
+      "text": "\"Well, that's what she said.\""
+    },
+    {
+      "offset": 3385,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ソファーに座って音夢がため息をつく。",
+      "en": "Nemu gives a sigh as she sits on the couch.",
+      "text": "Nemu gives a sigh as she sits on the couch."
+    },
+    {
+      "offset": 3439,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「バイトからの帰り道に。あ、他にも人がいた\n　から本当に事故だって」",
+      "en": "\"It happened on the way home from her part time job. Oh,\nthere was another person with her, so it really was an\naccident.\"",
+      "text": "\"It happened on the way home from her part time job. Oh,\nthere was another person with her, so it really was an\naccident.\""
+    },
+    {
+      "offset": 3513,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……運が悪いな」",
+      "en": "\"What bad luck.\"",
+      "text": "\"What bad luck.\""
+    },
+    {
+      "offset": 3538,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こう言ってはなんだが、ちと緊張に欠ける事故\nだろう。",
+      "en": "I don't wanna say this, but she could've been more careful.",
+      "text": "I don't wanna say this, but she could've been more careful."
+    },
+    {
+      "offset": 3607,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そうだね。でも、委員会もそうだけどバイト\n　も大変だろうな」",
+      "en": "\"You're right. The committee must be upset, as well as the\npeople at her work.\"",
+      "text": "\"You're right. The committee must be upset, as well as the\npeople at her work.\""
+    },
+    {
+      "offset": 3675,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「バイト？」",
+      "en": "\"Work?\"",
+      "text": "\"Work?\""
+    },
+    {
+      "offset": 3722,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、ほら、人が抜けると、バイトのシフトを\n　調整しなきゃいけないでしょ？　うちもそう\n　だから」",
+      "en": "\"Well, you know if there's one person missing, you have to\nadjust the shift rota? We have to do the same thing in the\ncommittee.\"",
+      "text": "\"Well, you know if there's one person missing, you have to\nadjust the shift rota? We have to do the same thing in the\ncommittee.\""
+    },
+    {
+      "offset": 3825,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「卒業式の管理か」",
+      "en": "\"Are you talking about the preparation for the graduation\nceremony?\"",
+      "text": "\"Are you talking about the preparation for the graduation\nceremony?\""
+    },
+    {
+      "offset": 3878,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うん……あ〜、ただでさえ人が足りないのに\n　……」",
+      "en": "\"Yes. Oh dear... We didn't have enough people to begin\nwith.\"",
+      "text": "\"Yes. Oh dear... We didn't have enough people to begin\nwith.\""
+    },
+    {
+      "offset": 3936,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「お前、そんなところまで気を遣ってると、す\n　ぐに頭がオーバーヒートするぞ」",
+      "en": "\"Don't worry too much, or your head will explode.\"",
+      "text": "\"Don't worry too much, or your head will explode.\""
+    },
+    {
+      "offset": 4046,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ほっといてよ」",
+      "en": "\"Leave me alone.\"",
+      "text": "\"Leave me alone.\""
+    },
+    {
+      "offset": 4069,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……かったる」",
+      "en": "\"What a pain in the neck!\"",
+      "text": "\"What a pain in the neck!\""
+    },
+    {
+      "offset": 4092,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "話は打ち切りといつもの呟き。",
+      "en": "She changes the topic, and I mutter in my usual way.",
+      "text": "She changes the topic, and I mutter in my usual way."
+    },
+    {
+      "offset": 4127,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、なんの話だっけ？」",
+      "en": "\"So, what were we talking about?\"",
+      "text": "\"So, what were we talking about?\""
+    },
+    {
+      "offset": 4186,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 4201,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、そう、さくらだ」",
+      "en": "\"Oh yeah, about Sakura.\"",
+      "text": "\"Oh yeah, about Sakura.\""
+    },
+    {
+      "offset": 4230,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "テレビの音を元に戻しながら頷く。",
+      "en": "I nod as I turn the volume back on the TV.",
+      "text": "I nod as I turn the volume back on the TV."
+    },
+    {
+      "offset": 4280,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……あ、もう別にいいよ」",
+      "en": "\"Well, it doesn't matter.\"",
+      "text": "\"Well, it doesn't matter.\""
+    },
+    {
+      "offset": 4313,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 4328,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "立ち上がった音夢を見上げる。",
+      "en": "Nemu gets up, and I look up at her.",
+      "text": "Nemu gets up, and I look up at her."
+    },
+    {
+      "offset": 4391,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さんにそんな甲斐性ないだろうしね」",
+      "en": "\"I know you're a good-for-nothing, anyway.\"",
+      "text": "\"I know you're a good-for-nothing, anyway.\""
+    },
+    {
+      "offset": 4436,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なんだそれ？」",
+      "en": "\"What do you mean by that?\"",
+      "text": "\"What do you mean by that?\""
+    },
+    {
+      "offset": 4487,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「さぁ？　じゃあ、私お風呂に入ってくるよ」",
+      "en": "\"I wonder? Now, I'm going to take a bath.\"",
+      "text": "\"I wonder? Now, I'm going to take a bath.\""
+    },
+    {
+      "offset": 4536,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふふん、と笑って音夢が首をかしげる。",
+      "en": "Nemu tilts her head and grins.",
+      "text": "Nemu tilts her head and grins."
+    },
+    {
+      "offset": 4579,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「嫌な仕草」",
+      "en": "\"What a nasty gesture!\"",
+      "text": "\"What a nasty gesture!\""
+    },
+    {
+      "offset": 4609,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さんの妹ですから」",
+      "en": "\"It's because I'm your sister.\"",
+      "text": "\"It's because I'm your sister.\""
+    },
+    {
+      "offset": 4638,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "精一杯の反撃もあっさりと流される。",
+      "en": "She effortlessly deflects my best counterattack.",
+      "text": "She effortlessly deflects my best counterattack."
+    },
+    {
+      "offset": 4691,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「音夢」",
+      "en": "\"Nemu.\"",
+      "text": "\"Nemu.\""
+    },
+    {
+      "offset": 4706,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "扉を開けて廊下に出ようとした音夢に呼びかけ\nる。",
+      "en": "I call her as she's in the doorway to the hall.",
+      "text": "I call her as she's in the doorway to the hall."
+    },
+    {
+      "offset": 4793,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だから、なんですか？」",
+      "en": "\"So, what do you want?\"",
+      "text": "\"So, what do you want?\""
+    },
+    {
+      "offset": 4824,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「お風呂一緒に入ろうか？」",
+      "en": "\"Do you want to take a bath together?\"",
+      "text": "\"Do you want to take a bath together?\""
+    },
+    {
+      "offset": 4885,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「な！？　な、なな、なに――っきゃ！！」",
+      "en": "\"What? What did you say? Yoww!!\"",
+      "text": "\"What? What did you say? Yoww!!\""
+    },
+    {
+      "offset": 4944,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "バタンと扉が閉まろうとして、ガツン、と音を\nたてる。",
+      "en": "I heard the noise when the door was about to close.",
+      "text": "I heard the noise when the door was about to close."
+    },
+    {
+      "offset": 5013,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「痛っ――指挟んだ〜！！」",
+      "en": "\"Ouch!! I jammed my finger!!\"",
+      "text": "\"Ouch!! I jammed my finger!!\""
+    },
+    {
+      "offset": 5046,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ふふふふふ……」",
+      "en": "\"Hahaha...\"",
+      "text": "\"Hahaha...\""
+    },
+    {
+      "offset": 5071,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "小さく笑いながら、天井を見上げる。",
+      "en": "I look up at the ceiling laughing quietly.",
+      "text": "I look up at the ceiling laughing quietly."
+    },
+    {
+      "offset": 5112,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ〜あ、めんどうなこった」",
+      "en": "\"What a pain in the neck!\"",
+      "text": "\"What a pain in the neck!\""
+    },
+    {
+      "offset": 5147,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "夏や冬に比べてなにもない春休みだが、まぁまぁ\n順風満帆だった。",
+      "en": "Spring break is monotonous compared to the summer and winter\nbreak, but I can say it's been fun so far.",
+      "text": "Spring break is monotonous compared to the summer and winter\nbreak, but I can say it's been fun so far."
+    },
+    {
+      "offset": 5317,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆不穏な電話◆",
+      "en": "◆Disturbing telephone call◆",
+      "text": "◆Disturbing telephone call◆"
+    },
+    {
+      "offset": 5362,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "久しぶりな感もある音夢との食事を終えたとき、\n家の電話が鳴る。",
+      "en": "After we finished dinner, there was a phone call.",
+      "text": "After we finished dinner, there was a phone call."
+    },
+    {
+      "offset": 5428,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんでも、音夢と同じ風紀委員の女子学生が、\n折れた桜の枝で頭に怪我をしたとか。",
+      "en": "A girl in the discipline committee that Nemu belongs to had\nan accident, a branch of a cherry tree fell on her head.",
+      "text": "A girl in the discipline committee that Nemu belongs to had\nan accident, a branch of a cherry tree fell on her head."
+    },
+    {
+      "offset": 5510,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな不思議な事故もあるもんだなぁ、と申し\n訳ないが思わずにはいられなかった。",
+      "en": "I couldn't help thinking how rare it is to be in that kind\nof an accident.",
+      "text": "I couldn't help thinking how rare it is to be in that kind\nof an accident."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "204": "Nemu",
+    "267": "Nemu",
+    "511": "Nemu",
+    "601": "Nemu",
+    "732": "Nemu",
+    "910": "Nemu",
+    "1115": "Nemu",
+    "1303": "Nemu",
+    "1402": "Nemu",
+    "1508": "Nemu",
+    "1596": "Nemu",
+    "1702": "Nemu",
+    "1794": "Nemu",
+    "1914": "Nemu",
+    "2022": "Nemu",
+    "2097": "Nemu",
+    "2235": "Nemu",
+    "2381": "Miharu",
+    "2482": "Miharu",
+    "2625": "Nemu",
+    "2692": "Nemu",
+    "2792": "Nemu",
+    "2982": "Nemu",
+    "3088": "Nemu",
+    "3217": "Nemu",
+    "3326": "Nemu",
+    "3431": "Nemu",
+    "3599": "Nemu",
+    "3714": "Nemu",
+    "3870": "Nemu",
+    "4038": "Nemu",
+    "4178": "Nemu",
+    "4272": "Nemu",
+    "4383": "Nemu",
+    "4479": "Nemu",
+    "4601": "Nemu",
+    "4785": "Nemu",
+    "4877": "Nemu",
+    "5005": "Nemu"
+  }
+}

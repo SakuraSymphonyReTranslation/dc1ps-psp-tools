@@ -1,0 +1,1388 @@
+{
+  "scene": "script_0167.obj",
+  "dialogues": [
+    {
+      "offset": 185,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふあ〜」",
+      "en": "\"Fuwaaah~\"",
+      "text": "\"Fuwaaah~\""
+    },
+    {
+      "offset": 202,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あくびをかみ殺しつつ、教室に入る。",
+      "en": "I entered the classroom, trying to stifle my yawn.",
+      "text": "I entered the classroom, trying to stifle my yawn."
+    },
+    {
+      "offset": 241,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "泣こうがわめこうが、今日はテスト当日だった。",
+      "en": "Cry or scream however much I want, today's the day of the\nexams.",
+      "text": "Cry or scream however much I want, today's the day of the\nexams."
+    },
+    {
+      "offset": 292,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（ま、何とかなるだろ）",
+      "en": "\"(I'd make it somehow.)\"",
+      "text": "\"(I'd make it somehow.)\""
+    },
+    {
+      "offset": 321,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……たぶん。だけど。",
+      "en": "...Or something. Although.",
+      "text": "...Or something. Although."
+    },
+    {
+      "offset": 346,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "テスト勉強はあまりしてないが、普段、ちゃん\nと授業は受けているし。睡眠学習という画期的\nな方法で。",
+      "en": "Even though it seems like I haven't prepared for the exams,\nthe true effectiveness of my sleepstudying will be shown\nnow.",
+      "text": "Even though it seems like I haven't prepared for the exams,\nthe true effectiveness of my sleepstudying will be shown\nnow."
+    },
+    {
+      "offset": 458,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「おはようございます、朝倉様」",
+      "en": "\"Good morning, Asakura-sama.\"",
+      "text": "\"Good morning, Asakura-sama.\""
+    },
+    {
+      "offset": 495,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "朝から風のように爽やかな声が響く。",
+      "en": "A voice as refreshing as the morning breeze floated to my\nears.",
+      "text": "A voice as refreshing as the morning breeze floated to my\nears."
+    },
+    {
+      "offset": 561,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "振り返ると、環が柔らかい笑みを浮かべていた。",
+      "en": "I turned around to find Tamaki, a gentle smile on her face.",
+      "text": "I turned around to find Tamaki, a gentle smile on her face."
+    },
+    {
+      "offset": 612,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おっす」",
+      "en": "\"Mornin'.\"",
+      "text": "\"Mornin'.\""
+    },
+    {
+      "offset": 638,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「今日は早いんですね」",
+      "en": "\"You're quite early today.\"",
+      "text": "\"You're quite early today.\""
+    },
+    {
+      "offset": 667,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「一応、テストだからな。遅刻するわけにはい\n　かんだろ」",
+      "en": "\"It's the day of the exams. I can't be late.\"",
+      "text": "\"It's the day of the exams. I can't be late.\""
+    },
+    {
+      "offset": 729,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「まあ、遅刻した方がよかったかもしれんがな」",
+      "en": "\"...Although it might be for the best, if I was.\"",
+      "text": "\"...Although it might be for the best, if I was.\""
+    },
+    {
+      "offset": 806,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「どうしてですか？」",
+      "en": "\"Why would that be?\"",
+      "text": "\"Why would that be?\""
+    },
+    {
+      "offset": 833,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「中途半端な点数を取るより、いっそテストを\n　受けずにおいて、追試に勝負をかけるという\n　方法がある」",
+      "en": "\"You can choose to take the supplementary exam instead if\nyou have a good reason to be late.\"",
+      "text": "\"You can choose to take the supplementary exam instead if\nyou have a good reason to be late.\""
+    },
+    {
+      "offset": 966,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「それは何だかどっちもどっちのような気がし\n　ます」",
+      "en": "\"It sounds like you had trouble picking which to do.\"",
+      "text": "\"It sounds like you had trouble picking which to do.\""
+    },
+    {
+      "offset": 1024,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「かも知れん」",
+      "en": "\"Perhaps.\"",
+      "text": "\"Perhaps.\""
+    },
+    {
+      "offset": 1045,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環の苦笑に、俺も苦笑で応えた。",
+      "en": "I replied her vague insinuation with vagueness myself.",
+      "text": "I replied her vague insinuation with vagueness myself."
+    },
+    {
+      "offset": 1082,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ちなみに、環はテスト勉強したのか？」",
+      "en": "\"What about you? You've prepared well?\"",
+      "text": "\"What about you? You've prepared well?\""
+    },
+    {
+      "offset": 1153,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ええ、まあ。それなりにですけど」",
+      "en": "\"Yes, you might say so.\"",
+      "text": "\"Yes, you might say so.\""
+    },
+    {
+      "offset": 1194,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「それなり……って割には、えらく余裕たっぷ\n　りに見えるがな……」",
+      "en": "\"You might say so... you sound awfully confident, don't\nyou.\"",
+      "text": "\"You might say so... you sound awfully confident, don't\nyou.\""
+    },
+    {
+      "offset": 1292,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そうですか？」",
+      "en": "\"I do?\"",
+      "text": "\"I do?\""
+    },
+    {
+      "offset": 1315,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "不思議そうに小首を傾げる環だったが、やはり\nその表情からは勉強したものだけが見せる独特\nの自信が溢れている。",
+      "en": "She tilted her head to the side in puzzlement. These\ninnocent ones are always the ones who know the best ways.",
+      "text": "She tilted her head to the side in puzzlement. These\ninnocent ones are always the ones who know the best ways."
+    },
+    {
+      "offset": 1426,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "むむむ。こやつ、相当できるな……。",
+      "en": "Mmm, this could be useful...",
+      "text": "Mmm, this could be useful..."
+    },
+    {
+      "offset": 1467,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どんなテスト勉強したんだ？　秘策があるん\n　なら、是非教えてくれ」",
+      "en": "\"How do you study for the exams? You have some secret\nmethod, don't you?\"",
+      "text": "\"How do you study for the exams? You have some secret\nmethod, don't you?\""
+    },
+    {
+      "offset": 1567,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「秘策……なんでしょうか？」",
+      "en": "\"Secret... method?\"",
+      "text": "\"Secret... method?\""
+    },
+    {
+      "offset": 1611,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「教科書の全てを暗記しているんです」",
+      "en": "\"I just memorize the contents of the textbook.\"",
+      "text": "\"I just memorize the contents of the textbook.\""
+    },
+    {
+      "offset": 1654,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「……は？」",
+      "en": "\"...Huh?\"",
+      "text": "\"...Huh?\""
+    },
+    {
+      "offset": 1673,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わず間抜けな声を出してしまった。",
+      "en": "My voice came out sounding incredibly stupid.",
+      "text": "My voice came out sounding incredibly stupid."
+    },
+    {
+      "offset": 1714,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ちょっ……ちょっと待ってくれ。全部って、\n　……丸暗記か？」",
+      "en": "\"H... hold up. You completely... memorize... everything?\"",
+      "text": "\"H... hold up. You completely... memorize... everything?\""
+    },
+    {
+      "offset": 1808,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「はい」",
+      "en": "\"Correct.\"",
+      "text": "\"Correct.\""
+    },
+    {
+      "offset": 1823,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "にっこりと微笑む環。",
+      "en": "She gave me a big smile.",
+      "text": "She gave me a big smile."
+    },
+    {
+      "offset": 1848,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いや、そんなに爽やかに微笑まれても。",
+      "en": "Ugh, that kind of smile at this time of the day will\nbrighten my mood!",
+      "text": "Ugh, that kind of smile at this time of the day will\nbrighten my mood!"
+    },
+    {
+      "offset": 1889,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "確かにそうすればテストは確実だろうけど……。",
+      "en": "I guess that's the one surefire way of doing well for\ntests...",
+      "text": "I guess that's the one surefire way of doing well for\ntests..."
+    },
+    {
+      "offset": 1940,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そんなことできるのか？」",
+      "en": "\"You can really do that?\"",
+      "text": "\"You can really do that?\""
+    },
+    {
+      "offset": 1999,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ええ」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 2014,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環にとってはたぶん普通の、だけど、俺には余\n裕の笑みにしか見えない笑顔を浮かべて答える。",
+      "en": "Tamaki smiled again, treating it as if it's the most normal\nthing in the world to do.",
+      "text": "Tamaki smiled again, treating it as if it's the most normal\nthing in the world to do."
+    },
+    {
+      "offset": 2134,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「祝詞なんかを覚える感じでやるんです」",
+      "en": "\"It is quite similar to the memorization of the Shinto\nritual prayers.\"",
+      "text": "\"It is quite similar to the memorization of the Shinto\nritual prayers.\""
+    },
+    {
+      "offset": 2179,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「祝詞……はあああああ、なるほど！」",
+      "en": "\"Prayers.... Haaaaaaaah, I see!\"",
+      "text": "\"Prayers.... Haaaaaaaah, I see!\""
+    },
+    {
+      "offset": 2222,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は今っ。",
+      "en": "Now,",
+      "text": "Now,"
+    },
+    {
+      "offset": 2237,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "モーレツに感心しているぅっ！",
+      "en": "My admiration knows no bounds!",
+      "text": "My admiration knows no bounds!"
+    },
+    {
+      "offset": 2270,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "巫女ってすごい。",
+      "en": "Miko are really amazing.",
+      "text": "Miko are really amazing."
+    },
+    {
+      "offset": 2291,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さすがは神の使いだぜ！",
+      "en": "They aren't God's messengers for nothing!",
+      "text": "They aren't God's messengers for nothing!"
+    },
+    {
+      "offset": 2320,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……って、本当かよ」",
+      "en": "\"...So, it's really true?\"",
+      "text": "\"...So, it's really true?\""
+    },
+    {
+      "offset": 2375,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「本当ですよ」",
+      "en": "\"It's true.\"",
+      "text": "\"It's true.\""
+    },
+    {
+      "offset": 2396,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「よし、じゃあ試しに問題出すぞ」",
+      "en": "\"Alright, then I'd test you a little.\"",
+      "text": "\"Alright, then I'd test you a little.\""
+    },
+    {
+      "offset": 2452,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環の言葉を信じていない訳じゃないけど、ああ\nも断言されると、こちらとしても確かめたくな\nる。",
+      "en": "Not that I don't believe her, but the way she pronounces\nsuch a thing with such confidence... I have to confirm it.",
+      "text": "Not that I don't believe her, but the way she pronounces\nsuch a thing with such confidence... I have to confirm it."
+    },
+    {
+      "offset": 2547,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は机の中にしまいっぱなしだった教科書を取\nり出して、適当なページを開いた。",
+      "en": "I took several textbooks from under my desk and plopped them\non top, flipping to a suitable page.",
+      "text": "I took several textbooks from under my desk and plopped them\non top, flipping to a suitable page."
+    },
+    {
+      "offset": 2629,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「じゃ、まずは歴史からだ」",
+      "en": "\"Let's start with history.\"",
+      "text": "\"Let's start with history.\""
+    },
+    {
+      "offset": 2688,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「はい」",
+      "en": "\"Okay.\"",
+      "text": "\"Okay.\""
+    },
+    {
+      "offset": 2703,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環が少しだけ緊張した面もちになる。",
+      "en": "A bit of tension crept into her face.",
+      "text": "A bit of tension crept into her face."
+    },
+    {
+      "offset": 2744,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「天台宗の高僧、慈覚大師円仁によって、東北\n　に弘台寿院というお寺が開かれたが、これは\n　後の何というお寺か」",
+      "en": "\"The high priest of the Tendai sect, Ennin, opened a temple\nin the far northeast of Japan. What was the temple called?\"",
+      "text": "\"The high priest of the Tendai sect, Ennin, opened a temple\nin the far northeast of Japan. What was the temple called?\""
+    },
+    {
+      "offset": 2885,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「平泉の中尊寺です」",
+      "en": "\"Hiraizumi no Chuusonji.\"",
+      "text": "\"Hiraizumi no Chuusonji.\""
+    },
+    {
+      "offset": 2912,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ファイナルアンサー？」",
+      "en": "\"Is that your final answer?\"",
+      "text": "\"Is that your final answer?\""
+    },
+    {
+      "offset": 2969,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ええ、ファイナルアンサーです」",
+      "en": "\"Yes, that is my final answer.\"",
+      "text": "\"Yes, that is my final answer.\""
+    },
+    {
+      "offset": 3008,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まるでテレビ番組のように、俺はじっくりと間\nを置く。",
+      "en": "Just like the TV show, I paused shortly before delivering\nthe verdict.",
+      "text": "Just like the TV show, I paused shortly before delivering\nthe verdict."
+    },
+    {
+      "offset": 3081,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自信が漂っていた環の表情に、ほんの少しだけ\nかげりが見えた瞬間。",
+      "en": "Long enough for me to see the sheer confidence that she\npossessed.",
+      "text": "Long enough for me to see the sheer confidence that she\npossessed."
+    },
+    {
+      "offset": 3151,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「──正解！」",
+      "en": "\"--Correct!\"",
+      "text": "\"--Correct!\""
+    },
+    {
+      "offset": 3198,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「……ほっ」",
+      "en": "\"...Whew.\"",
+      "text": "\"...Whew.\""
+    },
+    {
+      "offset": 3217,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環がほっと胸を撫で下ろした。",
+      "en": "Tamaki patted her chest in relief.",
+      "text": "Tamaki patted her chest in relief."
+    },
+    {
+      "offset": 3269,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「たまたまこの答えを知っていたという可能性\n　もあるよな」",
+      "en": "\"There's every chance that you could've just remembered this\nquestion, eh?\"",
+      "text": "\"There's every chance that you could've just remembered this\nquestion, eh?\""
+    },
+    {
+      "offset": 3342,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「じゃあ、次の問題を出してください」",
+      "en": "\"If you think so, please move on to the next question.\"",
+      "text": "\"If you think so, please move on to the next question.\""
+    },
+    {
+      "offset": 3385,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "正解した自信からか、さっきまであった揺らぎ\nが環から消えている。",
+      "en": "With the confidence back in her after her correct answer,\nher previous trembling had vanished.",
+      "text": "With the confidence back in her after her correct answer,\nher previous trembling had vanished."
+    },
+    {
+      "offset": 3453,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ほんのりと頬を上気させて、｛りん／凛｝と澄んだ、気持\nちいいくらい真っ直ぐな瞳で俺を見つめてくる。",
+      "en": "Instead, her cheeks were slightly flushed from the\nexcitement, with those limpid eyes staring straight at me...",
+      "text": "Instead, her cheeks were slightly flushed from the\nexcitement, with those limpid eyes staring straight at me..."
+    },
+    {
+      "offset": 3555,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わず、見とれてしまいそうだ。",
+      "en": "I was entranced by them.",
+      "text": "I was entranced by them."
+    },
+    {
+      "offset": 3590,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺がぼうっと環を見ていると。",
+      "en": "All I could do was to stare back at them.",
+      "text": "All I could do was to stare back at them."
+    },
+    {
+      "offset": 3651,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「朝倉様？」",
+      "en": "\"Asakura-sama?\"",
+      "text": "\"Asakura-sama?\""
+    },
+    {
+      "offset": 3670,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環が小首を傾げて、俺の顔を覗き込んできた。",
+      "en": "Tamaki become puzzled, peering closer into my face.",
+      "text": "Tamaki become puzzled, peering closer into my face."
+    },
+    {
+      "offset": 3745,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「どうかなさったんですか？」",
+      "en": "\"Is something wrong?\"",
+      "text": "\"Is something wrong?\""
+    },
+    {
+      "offset": 3780,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「あー、いや。なんでもないぞ。うん」",
+      "en": "\"Ahh, n, nothing, nothing's wrong.\"",
+      "text": "\"Ahh, n, nothing, nothing's wrong.\""
+    },
+    {
+      "offset": 3840,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "近づいてきた環から何とも言えない甘い匂いが\nして、さらに胸がドキドキする。",
+      "en": "The closer she got, the more of her sweet scent I could\nsmell, which drove my heart even faster.",
+      "text": "The closer she got, the more of her sweet scent I could\nsmell, which drove my heart even faster."
+    },
+    {
+      "offset": 3918,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はそれを誤魔化すように、教科書に視線を落\nとした。",
+      "en": "I quickly distracted myself by returning my gaze to the\ntextbook.",
+      "text": "I quickly distracted myself by returning my gaze to the\ntextbook."
+    },
+    {
+      "offset": 3976,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「じゃ……じゃあもう一問だ」",
+      "en": "\"Then... another question.\"",
+      "text": "\"Then... another question.\""
+    },
+    {
+      "offset": 4020,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「はい」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 4035,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「小説『蒲団』は、誰が作者で、何派に属する\n　か？」",
+      "en": "\"Who is the author of the book \"Futon\", and what genre is\nit?\"",
+      "text": "\"Who is the author of the book \"Futon\", and what genre is\nit?\""
+    },
+    {
+      "offset": 4119,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「田山花袋作で、自然主義派ですね」",
+      "en": "\"The author is Tayama Katai, and it is under the naturalism\ngenre.\"",
+      "text": "\"The author is Tayama Katai, and it is under the naturalism\ngenre.\""
+    },
+    {
+      "offset": 4160,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……正解だ。",
+      "en": "...Correct.",
+      "text": "...Correct."
+    },
+    {
+      "offset": 4196,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「次。印象派について説明せよ」",
+      "en": "\"Next... explain about impressionists.\"",
+      "text": "\"Next... explain about impressionists.\""
+    },
+    {
+      "offset": 4259,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「フランスで起こった芸術運動で、自然の与え\n　る瞬間的印象を表現することが大切だとする\n　主義のこと」",
+      "en": "\"It is an art style orginating from France. It focuses on\nsudden impressions from the brain to create pieces of art.\"",
+      "text": "\"It is an art style orginating from France. It focuses on\nsudden impressions from the brain to create pieces of art.\""
+    },
+    {
+      "offset": 4366,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「…………正解だ」",
+      "en": "\"...Correct.\"",
+      "text": "\"...Correct.\""
+    },
+    {
+      "offset": 4417,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「よかった……」",
+      "en": "\"That's good...\"",
+      "text": "\"That's good...\""
+    },
+    {
+      "offset": 4440,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が出した問題を全て答えることが出来たから\nだろう。環が本当に嬉しそうに笑っている。",
+      "en": "Every question I threw at her, was answered impeccably. She\nseemed really happy at her work.",
+      "text": "Every question I threw at her, was answered impeccably. She\nseemed really happy at her work."
+    },
+    {
+      "offset": 4528,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "心なしか、背後に後光さえ差して見える環を呆\n然と見つめながら。",
+      "en": "It was the first time I'd seen her smile so brightly,\nunrestrained.",
+      "text": "It was the first time I'd seen her smile so brightly,\nunrestrained."
+    },
+    {
+      "offset": 4596,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「うーん、本当に覚えているとは。すごいな、\n　環は」",
+      "en": "\"Hmm, you really did memorize everything. That's amazing.\"",
+      "text": "\"Hmm, you really did memorize everything. That's amazing.\""
+    },
+    {
+      "offset": 4680,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そんなことありません。要領がよくないから、\n　そのまま覚えているだけで」",
+      "en": "\"It isn't really... if you can memorize the general points,\nit's easier to remember everything.\"",
+      "text": "\"It isn't really... if you can memorize the general points,\nit's easier to remember everything.\""
+    },
+    {
+      "offset": 4760,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は遠慮がちに微笑んでみせる。",
+      "en": "Tamaki abashedly smiled in her reply.",
+      "text": "Tamaki abashedly smiled in her reply."
+    },
+    {
+      "offset": 4797,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「でも、結果的にそれが成績に結びついてるん\n　だ。スゴイことじゃないか」",
+      "en": "\"Doing that still pretty much confirms a good score. It's\namazing.\"",
+      "text": "\"Doing that still pretty much confirms a good score. It's\namazing.\""
+    },
+    {
+      "offset": 4875,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺には、丸暗記なんて真似は到底出来ないよ」",
+      "en": "\"I couldn't possibly indiscriminately memorize everything\nlike that.\"",
+      "text": "\"I couldn't possibly indiscriminately memorize everything\nlike that.\""
+    },
+    {
+      "offset": 4926,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "祝詞のように、といっても、その祝詞自体を覚\nえてること自体が俺からすればすごい。",
+      "en": "The fact that she can memorize all those ritual prayers is\nalready several steps above me.",
+      "text": "The fact that she can memorize all those ritual prayers is\nalready several steps above me."
+    },
+    {
+      "offset": 5021,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そんなことないですよ。何度も読んでいれば、\n　なんとなく頭に入ってくるものです」",
+      "en": "\"That's not true. The more times you read the textbook, the\neasier it is to remember what you read.\"",
+      "text": "\"That's not true. The more times you read the textbook, the\neasier it is to remember what you read.\""
+    },
+    {
+      "offset": 5109,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「うーん」",
+      "en": "\"Hrm.\"",
+      "text": "\"Hrm.\""
+    },
+    {
+      "offset": 5135,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「音で覚えるんですよ」",
+      "en": "\"Even the sound of the pages being flipped.\"",
+      "text": "\"Even the sound of the pages being flipped.\""
+    },
+    {
+      "offset": 5164,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「余計に難しそうだな」",
+      "en": "\"That's way too difficult.\"",
+      "text": "\"That's way too difficult.\""
+    },
+    {
+      "offset": 5193,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "つまりは、耳で聞いて、感覚で覚えろってこと\nなんだろうけど、それができれば、苦労はしな\nいな。",
+      "en": "If I had such a brilliant memory that could recall the sound\nof pages being flipped, I wouldn't be worrying now.",
+      "text": "If I had such a brilliant memory that could recall the sound\nof pages being flipped, I wouldn't be worrying now."
+    },
+    {
+      "offset": 5318,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「これから『初恋』を覚えようと思うんですけ\n　ど……」",
+      "en": "\"I was thinking of memorizing \"First Love\" that way, now...\"",
+      "text": "\"I was thinking of memorizing \"First Love\" that way, now...\""
+    },
+    {
+      "offset": 5378,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「は、『初恋』？　教科書に載ってたヤツ？」",
+      "en": "\"Huh, \"First Love\"? That poem mentioned in the textbook?\"",
+      "text": "\"Huh, \"First Love\"? That poem mentioned in the textbook?\""
+    },
+    {
+      "offset": 5436,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「はい」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 5451,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そういえば、詩の一部を空欄にして、それを埋\nめる問題を出すって言ってたよな。",
+      "en": "That reminded me, it was said that there'd be a question\nwhere you'd have to recite an entire verse from a poem...",
+      "text": "That reminded me, it was said that there'd be a question\nwhere you'd have to recite an entire verse from a poem..."
+    },
+    {
+      "offset": 5533,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「やばい。俺、全然やってないぞ」",
+      "en": "\"Gah, I definitely can't do that...\"",
+      "text": "\"Gah, I definitely can't do that...\""
+    },
+    {
+      "offset": 5598,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「朝倉様」",
+      "en": "\"Asakura-sama.\"",
+      "text": "\"Asakura-sama.\""
+    },
+    {
+      "offset": 5615,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少しだけ、思い詰めたような、そんな表情を浮\nかべて。",
+      "en": "She paused for a little, and spoke after some thought.",
+      "text": "She paused for a little, and spoke after some thought."
+    },
+    {
+      "offset": 5699,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「……わたくしと、一緒に覚えますか？」",
+      "en": "\"...Would you like to memorize it with me?\"",
+      "text": "\"...Would you like to memorize it with me?\""
+    },
+    {
+      "offset": 5744,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ほんとか？」",
+      "en": "\"You mean it?\"",
+      "text": "\"You mean it?\""
+    },
+    {
+      "offset": 5791,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「はい」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 5806,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ああ、暗記の女王様がついていてくれるなら、\n　俺も覚えられるかも……」",
+      "en": "\"Ahhh, with the Goddess of Recollection guiding me, I might\njust be able to...\"",
+      "text": "\"Ahhh, with the Goddess of Recollection guiding me, I might\njust be able to...\""
+    },
+    {
+      "offset": 5893,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「七五調だから、覚えやすいと思いますよ」",
+      "en": "\"We'd learn sentence by sentence.\"",
+      "text": "\"We'd learn sentence by sentence.\""
+    },
+    {
+      "offset": 5940,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言う環は、何だか嬉しそうに見えた。",
+      "en": "Her words were tinged with joy.",
+      "text": "Her words were tinged with joy."
+    },
+    {
+      "offset": 6011,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「じゃあ、行きますよ」",
+      "en": "\"Shall we begin?\"",
+      "text": "\"Shall we begin?\""
+    },
+    {
+      "offset": 6040,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「よっしゃ」",
+      "en": "\"Yes ma'am!\"",
+      "text": "\"Yes ma'am!\""
+    },
+    {
+      "offset": 6059,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "気合入れていくぞ！",
+      "en": "Time to get fired up!",
+      "text": "Time to get fired up!"
+    },
+    {
+      "offset": 6110,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「『まだあげ初めし前髪の……』」",
+      "en": "\"Like the beginning of the forelocks...\"",
+      "text": "\"Like the beginning of the forelocks...\""
+    },
+    {
+      "offset": 6149,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「『まだあげ初めし前髪の……』」",
+      "en": "\"Like the beginning of the forelocks...\"",
+      "text": "\"Like the beginning of the forelocks...\""
+    },
+    {
+      "offset": 6188,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環の後に続いて、俺も暗唱しながら。",
+      "en": "I repeated after Tamaki.",
+      "text": "I repeated after Tamaki."
+    },
+    {
+      "offset": 6229,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（いつも何気なく聴いているけど、環の声って、\n　何か癒されるよな……）",
+      "en": "\"(No matter how many times I hear it, I can't get over the\ncomfort I feel from her voice...)\"",
+      "text": "\"(No matter how many times I hear it, I can't get over the\ncomfort I feel from her voice...)\""
+    },
+    {
+      "offset": 6305,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はそう思った。",
+      "en": "I truly thought that.",
+      "text": "I truly thought that."
+    },
+    {
+      "offset": 6326,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やっぱり、巫女って人に安らぎを与えるものな\nのかな。",
+      "en": "People generally look to Miko for assurance, guidance, and a\nsense of safety...",
+      "text": "People generally look to Miko for assurance, guidance, and a\nsense of safety..."
+    },
+    {
+      "offset": 6382,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それとも、環が持っている性格なのかな？",
+      "en": "Is that the trait that Tamaki possesses, as well?",
+      "text": "Is that the trait that Tamaki possesses, as well?"
+    },
+    {
+      "offset": 6425,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "奇怪な行動も多いけど……。",
+      "en": "Her behaviour may be strange at times...",
+      "text": "Her behaviour may be strange at times..."
+    },
+    {
+      "offset": 6456,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "可愛いと思う。",
+      "en": "But it adds to her cuteness as well.",
+      "text": "But it adds to her cuteness as well."
+    },
+    {
+      "offset": 6475,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環って、不思議だよなあ……。",
+      "en": "She's a mysterious one...",
+      "text": "She's a mysterious one..."
+    },
+    {
+      "offset": 6508,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんて。考えながら暗唱していたら、内容が全\nく頭に入っていなかった。",
+      "en": "Man. Thinking so much while reciting, I'm not remembering\nanything at all.",
+      "text": "Man. Thinking so much while reciting, I'm not remembering\nanything at all."
+    },
+    {
+      "offset": 6608,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「『問ひたまふこそこひしけれ』」",
+      "en": "\"Meek as a lamb, I ask of you.\"",
+      "text": "\"Meek as a lamb, I ask of you.\""
+    },
+    {
+      "offset": 6647,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「『そこのけそこのけおうまがとおる』」",
+      "en": "\"Something as a something, I ask of something.\"",
+      "text": "\"Something as a something, I ask of something.\""
+    },
+    {
+      "offset": 6692,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環が首を傾げる。",
+      "en": "Tamaki shook her head.",
+      "text": "Tamaki shook her head."
+    },
+    {
+      "offset": 6713,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ごめんな、俺には暗記は無理のようです。",
+      "en": "Sorry for having a crappy memory.",
+      "text": "Sorry for having a crappy memory."
+    },
+    {
+      "offset": 6784,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「……朝倉様、朝倉様の初恋はいつでしたか？」",
+      "en": "\"...Asakura-sama, when did you encounter your first feelings\nof love?\"",
+      "text": "\"...Asakura-sama, when did you encounter your first feelings\nof love?\""
+    },
+    {
+      "offset": 6835,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "不意に。",
+      "en": "Right out of the blue.",
+      "text": "Right out of the blue."
+    },
+    {
+      "offset": 6848,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環が質問を振ってくる。",
+      "en": "Tamaki threw that question at me from nowhere.",
+      "text": "Tamaki threw that question at me from nowhere."
+    },
+    {
+      "offset": 6877,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「初恋？」",
+      "en": "\"My first love?\"",
+      "text": "\"My first love?\""
+    },
+    {
+      "offset": 6920,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「……はい」",
+      "en": "\"...Yes.\"",
+      "text": "\"...Yes.\""
+    },
+    {
+      "offset": 6939,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そうだなぁ……。俺はあまりよく覚えてない\n　な」",
+      "en": "\"Well... I don't really remember...\"",
+      "text": "\"Well... I don't really remember...\""
+    },
+    {
+      "offset": 6995,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もちろん、小さいときに女の子に『好きかも』っ\nて気持ちを抱いたことはあるけど、今思えば友\n情の延長だったんじゃないか、とも思う。",
+      "en": "When I was small, I used to think everything I felt for\ngirls was love... but now, I feel it's more like an\nextension of friendship.",
+      "text": "When I was small, I used to think everything I felt for\ngirls was love... but now, I feel it's more like an\nextension of friendship."
+    },
+    {
+      "offset": 7126,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当に心から、誰かが好きで、その人のことが\n忘れられない、というのとは違っていたから。",
+      "en": "It's different from really having someone you love, someone\nyou can't stop thinking of, someone always in your heart.",
+      "text": "It's different from really having someone you love, someone\nyou can't stop thinking of, someone always in your heart."
+    },
+    {
+      "offset": 7244,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 7272,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「初めて恋した時のドキドキって、きっと何年\n　経っても薄れないんでしょうね」",
+      "en": "\"The feelings you get from your first love will surely\nremain strong even as years pass...\"",
+      "text": "\"The feelings you get from your first love will surely\nremain strong even as years pass...\""
+    },
+    {
+      "offset": 7354,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「かもしれないな……」",
+      "en": "\"Perhaps...\"",
+      "text": "\"Perhaps...\""
+    },
+    {
+      "offset": 7383,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "正直、経験がないから、なんとも言えない。",
+      "en": "Honestly, I've never truly experienced it, so I couldn't say\nmuch.",
+      "text": "Honestly, I've never truly experienced it, so I couldn't say\nmuch."
+    },
+    {
+      "offset": 7428,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "けれど、恋っていうのはそういうものな気がす\nる。なんとなくだけど。",
+      "en": "Yet, my heart seemed to tell me that her words rang true.",
+      "text": "Yet, my heart seemed to tell me that her words rang true."
+    },
+    {
+      "offset": 7526,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 7554,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「わたくしも……」",
+      "en": "\"I, as well...\"",
+      "text": "\"I, as well...\""
+    },
+    {
+      "offset": 7579,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は、言いかけて首を横に振る。",
+      "en": "But as she said that, she shook her head rapidly.",
+      "text": "But as she said that, she shook her head rapidly."
+    },
+    {
+      "offset": 7614,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして──。",
+      "en": "Then--",
+      "text": "Then--"
+    },
+    {
+      "offset": 7659,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「でも、初恋は、実らないんですよね」",
+      "en": "\"However, first love is never true anyway...\"",
+      "text": "\"However, first love is never true anyway...\""
+    },
+    {
+      "offset": 7702,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぽつりとそう言った。",
+      "en": "She spoke slowly, pronouncing every syllable.",
+      "text": "She spoke slowly, pronouncing every syllable."
+    },
+    {
+      "offset": 7755,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「朝倉様……」",
+      "en": "\"Asakura-sama...\"",
+      "text": "\"Asakura-sama...\""
+    },
+    {
+      "offset": 7776,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環が俺の瞳を見つめる。",
+      "en": "Her eyes gazed deeply into mine.",
+      "text": "Her eyes gazed deeply into mine."
+    },
+    {
+      "offset": 7805,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん……？」",
+      "en": "\"Hm...?\"",
+      "text": "\"Hm...?\""
+    },
+    {
+      "offset": 7824,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "驚くほど真剣な瞳で、ドギマギする。",
+      "en": "Those serious eyes made me self-conscious.",
+      "text": "Those serious eyes made me self-conscious."
+    },
+    {
+      "offset": 7863,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の中の気持ちを見透かされたようで、戸惑う。",
+      "en": "I felt like she was seeing through my feelings.",
+      "text": "I felt like she was seeing through my feelings."
+    },
+    {
+      "offset": 7912,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は一度唇を開き……キュッと閉じた後で。",
+      "en": "Tamaki opened her lips once... then closed it immediately.",
+      "text": "Tamaki opened her lips once... then closed it immediately."
+    },
+    {
+      "offset": 7985,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「朝倉様は……」",
+      "en": "\"Asakura-sama is...\"",
+      "text": "\"Asakura-sama is...\""
+    },
+    {
+      "offset": 8008,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、また環は口を紡ぐ。",
+      "en": "Her mouth shut firmly tight, again.",
+      "text": "Her mouth shut firmly tight, again."
+    },
+    {
+      "offset": 8039,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は……彼女は、何を言おうとしたんだろう。",
+      "en": "Tamaki... what's that girl trying to say?",
+      "text": "Tamaki... what's that girl trying to say?"
+    },
+    {
+      "offset": 8086,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "初恋……。",
+      "en": "First love...",
+      "text": "First love..."
+    },
+    {
+      "offset": 8101,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "初恋は、実らない？",
+      "en": "First love is never true?",
+      "text": "First love is never true?"
+    },
+    {
+      "offset": 8124,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もし、俺と環の『深い絆』が幼い頃のものだと\nしたら。",
+      "en": "Maybe she's talking about that supposed \"deep bond\" we\nhave...",
+      "text": "Maybe she's talking about that supposed \"deep bond\" we\nhave..."
+    },
+    {
+      "offset": 8180,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お互い、覚えていないけれど、幼い頃の約束だ\nとしたら……。",
+      "en": "She may know as much as me about it, but it's still a\npromise of some sort when we were younger...",
+      "text": "She may know as much as me about it, but it's still a\npromise of some sort when we were younger..."
+    },
+    {
+      "offset": 8242,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "わからないからこそ、彼女は続きの言葉を言え\nないんじゃないだろうか。",
+      "en": "I don't know what she's trying to convey, but I felt like I\ncouldn't let her continue.",
+      "text": "I don't know what she's trying to convey, but I felt like I\ncouldn't let her continue."
+    },
+    {
+      "offset": 8316,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「初恋だって、実ると思うぞ。その恋が本当の\n　恋ならさ」",
+      "en": "\"I think your first love would be just as true a love as any\nother.\"",
+      "text": "\"I think your first love would be just as true a love as any\nother.\""
+    },
+    {
+      "offset": 8378,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "恋なんて、わからないくせに、わかったような\n言葉を紡ぐ。",
+      "en": "Despite knowing nothing about it, I just tried to say what I\nthought.",
+      "text": "Despite knowing nothing about it, I just tried to say what I\nthought."
+    },
+    {
+      "offset": 8455,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は、俺の言葉を聞いて、何かを感じたのか、\nほんの少しだけだけれど、淡い笑みを浮かべて\nいた。",
+      "en": "When Tamaki heard my words, whatever she was feeling, a tiny\nsmile crept onto her lips.",
+      "text": "When Tamaki heard my words, whatever she was feeling, a tiny\nsmile crept onto her lips."
+    },
+    {
+      "offset": 8552,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "初恋──か。",
+      "en": "First love, huh...",
+      "text": "First love, huh..."
+    },
+    {
+      "offset": 8691,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆余裕の環◆",
+      "en": "◆The Composed Tamaki?◆",
+      "text": "◆The Composed Tamaki?◆"
+    },
+    {
+      "offset": 8732,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "教室で環に会うと、テスト当日だというのに余\n裕の表情を見せる。",
+      "en": "I found Tamaki in the classroom on the day of the first\nexams. She seemed composed and confident of them.",
+      "text": "I found Tamaki in the classroom on the day of the first\nexams. She seemed composed and confident of them."
+    },
+    {
+      "offset": 8798,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何か秘策があるのか尋ねたところ、教科書を全\n部暗記しているらしい。",
+      "en": "I tried to uncover her secret studying methods, but\napparently, she simply memorizes the entire textbook.",
+      "text": "I tried to uncover her secret studying methods, but\napparently, she simply memorizes the entire textbook."
+    },
+    {
+      "offset": 8868,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一緒に島崎藤村の『初恋』の暗記をしていた途\n中、環が俺に何かを｛き／訊｝こうとしてした。",
+      "en": "We tried to memorize Shimazaki Touson's \"First Love\"\ntogether, and she tried to ask me something.",
+      "text": "We tried to memorize Shimazaki Touson's \"First Love\"\ntogether, and she tried to ask me something."
+    },
+    {
+      "offset": 8960,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "けれど、口を紡いでしまう。環は何を言おうと\nしていたんだろう。",
+      "en": "But she decided against it. Wonder what she was trying to\nsay...?",
+      "text": "But she decided against it. Wonder what she was trying to\nsay...?"
+    }
+  ],
+  "choices": [],
+  "names": {
+    "452": "Tamaki",
+    "632": "Tamaki",
+    "800": "Tamaki",
+    "960": "Tamaki",
+    "1147": "Tamaki",
+    "1286": "Tamaki",
+    "1561": "Tamaki",
+    "1605": "Tamaki",
+    "1802": "Tamaki",
+    "1993": "Tamaki",
+    "2128": "Tamaki",
+    "2369": "Tamaki",
+    "2682": "Tamaki",
+    "2879": "Tamaki",
+    "2963": "Tamaki",
+    "3192": "Tamaki",
+    "3336": "Tamaki",
+    "3645": "Tamaki",
+    "3739": "Tamaki",
+    "4014": "Tamaki",
+    "4113": "Tamaki",
+    "4253": "Tamaki",
+    "4411": "Tamaki",
+    "4674": "Tamaki",
+    "5015": "Tamaki",
+    "5129": "Tamaki",
+    "5312": "Tamaki",
+    "5430": "Tamaki",
+    "5592": "Tamaki",
+    "5693": "Tamaki",
+    "5785": "Tamaki",
+    "5887": "Tamaki",
+    "6005": "Tamaki",
+    "6104": "Tamaki",
+    "6602": "Tamaki",
+    "6778": "Tamaki",
+    "6914": "Tamaki",
+    "7238": "Tamaki",
+    "7266": "Tamaki",
+    "7520": "Tamaki",
+    "7548": "Tamaki",
+    "7653": "Tamaki",
+    "7749": "Tamaki",
+    "7979": "Tamaki"
+  }
+}

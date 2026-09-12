@@ -1,0 +1,622 @@
+{
+  "scene": "script_0558.obj",
+  "dialogues": [
+    {
+      "offset": 183,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "朝食を詰め込まれた後、俺の瞳にはずっと白い\n天井しか映っていない。",
+      "en": "I've been staring at the white ceiling ever since I stuffed\nmyself with breakfast.",
+      "text": "I've been staring at the white ceiling ever since I stuffed\nmyself with breakfast."
+    },
+    {
+      "offset": 253,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頭がザーザー鳴っている。結局、昨日は一睡も\n出来なかった。",
+      "en": "My head was full with the sound of static. I couldn't sleep\nat all last night.",
+      "text": "My head was full with the sound of static. I couldn't sleep\nat all last night."
+    },
+    {
+      "offset": 315,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さっき面会時間の開始を告げる放送があったか\nら、そろそろ音夢のやつが来るはずだ。",
+      "en": "They announced that the visitation time was starting, so\nNemu should be here soon.",
+      "text": "They announced that the visitation time was starting, so\nNemu should be here soon."
+    },
+    {
+      "offset": 399,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 412,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 430,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "コンコン――",
+      "en": "Knock, knock......",
+      "text": "Knock, knock......"
+    },
+    {
+      "offset": 449,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………どうぞ」",
+      "en": "\"............Come in.\"",
+      "text": "\"............Come in.\""
+    },
+    {
+      "offset": 507,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さん、具合はど――」",
+      "en": "\"How do you feel, niisan?\"",
+      "text": "\"How do you feel, niisan?\""
+    },
+    {
+      "offset": 566,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ちょっと、顔色悪いよ？　どうしたの？」",
+      "en": "\"You look pale! What's wrong?\"",
+      "text": "\"You look pale! What's wrong?\""
+    },
+    {
+      "offset": 613,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "紙袋を持った音夢が、小走りに近づいてくる。",
+      "en": "She quickly came up to me, with a paper bag in her hand.",
+      "text": "She quickly came up to me, with a paper bag in her hand."
+    },
+    {
+      "offset": 662,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや、昨日寝てなくてな……」",
+      "en": "\"I couldn't sleep last night......\"",
+      "text": "\"I couldn't sleep last night......\""
+    },
+    {
+      "offset": 699,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺のおでこに手を当ててくる音夢にそう答える。",
+      "en": "I answered as she put her hand on my forehead.",
+      "text": "I answered as she put her hand on my forehead."
+    },
+    {
+      "offset": 778,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「もう……心配させないでよね」",
+      "en": "\"......Don't you scare me.\"",
+      "text": "\"......Don't you scare me.\""
+    },
+    {
+      "offset": 815,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ホッとしたように音夢が手をどける。",
+      "en": "She took her hand off of me with a relieved voice.",
+      "text": "She took her hand off of me with a relieved voice."
+    },
+    {
+      "offset": 884,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「まさか、一晩中雑誌を読んでいたんじゃない\n　でしょうね……」",
+      "en": "\"You haven't been reading magazines all night, have you?\"",
+      "text": "\"You haven't been reading magazines all night, have you?\""
+    },
+    {
+      "offset": 952,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……ちょっと考え事をしててな」",
+      "en": "\"No...... Something was on my mind.\"",
+      "text": "\"No...... Something was on my mind.\""
+    },
+    {
+      "offset": 1019,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「綺麗な看護師さんに恋でもしましたか？」",
+      "en": "\"Did you fall in love with a pretty nurse or something?\"",
+      "text": "\"Did you fall in love with a pretty nurse or something?\""
+    },
+    {
+      "offset": 1066,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "からかい感じで微笑みながら、着替えの整理を\n始める。",
+      "en": "She jokingly smiled and started organizing my clothes.",
+      "text": "She jokingly smiled and started organizing my clothes."
+    },
+    {
+      "offset": 1124,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なぁ、音夢……」",
+      "en": "\"Hey, Nemu?\"",
+      "text": "\"Hey, Nemu?\""
+    },
+    {
+      "offset": 1177,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「んっ？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 1194,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「本校行ったら、また風紀委員でもやんのか？」",
+      "en": "\"What are you going to do when you enter the main school?\nAre you going to patrol again?\"",
+      "text": "\"What are you going to do when you enter the main school?\nAre you going to patrol again?\""
+    },
+    {
+      "offset": 1273,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「えっ！？　あ、うん……どうだろ……」",
+      "en": "\"What? Oh, umm...... I don't know......\"",
+      "text": "\"What? Oh, umm...... I don't know......\""
+    },
+    {
+      "offset": 1318,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やはり、本校のことを話すと、急に落ち着きが\nなくなる。",
+      "en": "She acted weird when I brought up the conversation about the\nschool.",
+      "text": "She acted weird when I brought up the conversation about the\nschool."
+    },
+    {
+      "offset": 1417,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「もう、急にどうしたのよ。誰かに勧誘でも頼\n　まれたの？」",
+      "en": "\"Why are you asking me this now? Did someone ask you to\nrecruit me or something?\"",
+      "text": "\"Why are you asking me this now? Did someone ask you to\nrecruit me or something?\""
+    },
+    {
+      "offset": 1481,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言いながら、花瓶に手を伸ばそうとする。",
+      "en": "She spoke and tried to reach the flower vase.",
+      "text": "She spoke and tried to reach the flower vase."
+    },
+    {
+      "offset": 1530,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「島の外に行くって、本当か？」",
+      "en": "\"Is it true that you're going to a school outside of the\nisland?\"",
+      "text": "\"Is it true that you're going to a school outside of the\nisland?\""
+    },
+    {
+      "offset": 1600,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「えっ！？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 1619,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "怒鳴られた子供のように、ビクッと反応する。",
+      "en": "She reacted with fear, as if she was a small child in\ntrouble.",
+      "text": "She reacted with fear, as if she was a small child in\ntrouble."
+    },
+    {
+      "offset": 1696,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「どうして……」",
+      "en": "\"Why......?\"",
+      "text": "\"Why......?\""
+    },
+    {
+      "offset": 1724,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「やっぱり、本当なんだな」",
+      "en": "\"It's true, isn't it?\"",
+      "text": "\"It's true, isn't it?\""
+    },
+    {
+      "offset": 1757,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "笑い飛ばさない音夢に、真実であることを実感\nする。",
+      "en": "Looking at Nemu without a smile, I realized it was true.",
+      "text": "Looking at Nemu without a smile, I realized it was true."
+    },
+    {
+      "offset": 1824,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「それは……その……」",
+      "en": "\"That's...... umm......\"",
+      "text": "\"That's...... umm......\""
+    },
+    {
+      "offset": 1853,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「どうして外なんだよ？　詩人か小説家なら、\n　別にここでも出来るだろう？」",
+      "en": "\"Why do you have to go to a different school? If you want to\nbecome a poet or an author, you can still stay here and\nstudy!\"",
+      "text": "\"Why do you have to go to a different school? If you want to\nbecome a poet or an author, you can still stay here and\nstudy!\""
+    },
+    {
+      "offset": 1961,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2008,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……看護師に……なりたいの……」",
+      "en": "\"......I want to become a nurse......\"",
+      "text": "\"......I want to become a nurse......\""
+    },
+    {
+      "offset": 2049,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俯いてぽそりと呟く。",
+      "en": "She muttered.",
+      "text": "She muttered."
+    },
+    {
+      "offset": 2076,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「看護師？」",
+      "en": "\"A nurse?\"",
+      "text": "\"A nurse?\""
+    },
+    {
+      "offset": 2095,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "初耳だった。てっきり詩人か小説家だと思って\nいたのに……。",
+      "en": "This's the first time I heard this from her. I thought she\nwanted to become a poet or an author.",
+      "text": "This's the first time I heard this from her. I thought she\nwanted to become a poet or an author."
+    },
+    {
+      "offset": 2159,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「でも、なんで、いきなり看護師なんだ？　そ\n　んなこと１度も言ってなかっただろ」",
+      "en": "\"Why do you want to become a nurse, all of a sudden? You've\nnever said anything like that before.\"",
+      "text": "\"Why do you want to become a nurse, all of a sudden? You've\nnever said anything like that before.\""
+    },
+    {
+      "offset": 2256,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「体調が悪くなった時に、看護師さんにお世話\n　になって、私も病気で困っている人の力にな\n　りたいなって思って……」",
+      "en": "\"When I got sick a nurse took care of me, and I wanted to\ntake care of sick people too......\"",
+      "text": "\"When I got sick a nurse took care of me, and I wanted to\ntake care of sick people too......\""
+    },
+    {
+      "offset": 2377,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2401,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「はぁ…それならそれで、ちゃんと話せっての」",
+      "en": "\"Huh...... Why didn't you tell me that earlier?\"",
+      "text": "\"Huh...... Why didn't you tell me that earlier?\""
+    },
+    {
+      "offset": 2452,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いきなり島の外に出るなんて聞いたら、心臓\n　が止まるだろうが……まったく」",
+      "en": "\"I was surprised to hear that you're going to leave the\nisland......\"",
+      "text": "\"I was surprised to hear that you're going to leave the\nisland......\""
+    },
+    {
+      "offset": 2562,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ごめんなさい……もっと早く言おうと思った\n　んだけど、兄さんが交通事故に遭って、心配\n　かけたくなかったから……」",
+      "en": "\"I'm sorry...... I was going to tell you earlier, but you\ngot into this accident and I didn't want to make you\nworried......\"",
+      "text": "\"I'm sorry...... I was going to tell you earlier, but you\ngot into this accident and I didn't want to make you\nworried......\""
+    },
+    {
+      "offset": 2683,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しゅんとしているサマが、まだまだ子供だ。",
+      "en": "She looked upset just like a child.",
+      "text": "She looked upset just like a child."
+    },
+    {
+      "offset": 2730,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、家から通えるのか？」",
+      "en": "\"So, are you going to commute from home?\"",
+      "text": "\"So, are you going to commute from home?\""
+    },
+    {
+      "offset": 2774,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ううん……寮に入る……」",
+      "en": "\"No...... I'm going to stay in the dorm......\"",
+      "text": "\"No...... I'm going to stay in the dorm......\""
+    },
+    {
+      "offset": 2807,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そうか……」",
+      "en": "\"I see......\"",
+      "text": "\"I see......\""
+    },
+    {
+      "offset": 2828,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それで、余計に言い出せなかったんだな。",
+      "en": "That's why it was extremely difficult to tell me......",
+      "text": "That's why it was extremely difficult to tell me......"
+    },
+    {
+      "offset": 2873,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「手続きとかはもう済んでるのか？」",
+      "en": "\"Have you finished all the administrative paperwork?\"",
+      "text": "\"Have you finished all the administrative paperwork?\""
+    },
+    {
+      "offset": 2942,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「入寮手続きがまだ……」",
+      "en": "\"I haven't finished the procedure for the dorm yet......\"",
+      "text": "\"I haven't finished the procedure for the dorm yet......\""
+    },
+    {
+      "offset": 2973,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "か細い声で答え、首を振る。",
+      "en": "She answered with a small voice and shook her head.",
+      "text": "She answered with a small voice and shook her head."
+    },
+    {
+      "offset": 3006,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ったく、トロいな。いつなんだ？」",
+      "en": "\"Don't wait too late! When's the due date?\"",
+      "text": "\"Don't wait too late! When's the due date?\""
+    },
+    {
+      "offset": 3058,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……２０日」",
+      "en": "\"......20th of this month.\"",
+      "text": "\"......20th of this month.\""
+    },
+    {
+      "offset": 3079,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そうか。じゃあ、それまでにちゃんと準備し\n　て――って、今日じゃんか！？」",
+      "en": "\"I see. Well you need to take care of it by then...... hey,\nthat's today!\"",
+      "text": "\"I see. Well you need to take care of it by then...... hey,\nthat's today!\""
+    },
+    {
+      "offset": 3172,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うん……」",
+      "en": "\"I know......\"",
+      "text": "\"I know......\""
+    },
+    {
+      "offset": 3191,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は病室にあるカレンダーの日付を確認する。",
+      "en": "I looked at today's date on the calendar.",
+      "text": "I looked at today's date on the calendar."
+    },
+    {
+      "offset": 3238,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やはり今日は３月２０日のついでに言うと、水\n曜日だッ！",
+      "en": "Today's Wednesday, March 20th!",
+      "text": "Today's Wednesday, March 20th!"
+    },
+    {
+      "offset": 3298,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「“うん”じゃない！　なにやってるんだ、お\n　まえはっ！」",
+      "en": "\"What do you mean you know? What are you doing?\"",
+      "text": "\"What do you mean you know? What are you doing?\""
+    },
+    {
+      "offset": 3390,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だって……」",
+      "en": "\"Well......\"",
+      "text": "\"Well......\""
+    },
+    {
+      "offset": 3411,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だってもヘチマもないッ。とっとと行けッ！」",
+      "en": "\"Don't make any excuses! Go and take care of it now!\"",
+      "text": "\"Don't make any excuses! Go and take care of it now!\""
+    },
+    {
+      "offset": 3462,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だいたい、このままここにいて、一体どうする\nつもりだったんだ？",
+      "en": "What was she trying to do by staying here?",
+      "text": "What was she trying to do by staying here?"
+    },
+    {
+      "offset": 3528,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、見舞いの後からでも充分間に合うのかも\nしれないが、このままここにいても決心が鈍る\nだけだ。",
+      "en": "If she stays here any longer, she'll feel unsure about her\ndecision.",
+      "text": "If she stays here any longer, she'll feel unsure about her\ndecision."
+    },
+    {
+      "offset": 3629,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ほら、洗い物は置いていっていいから、とっ\n　とと行け」",
+      "en": "\"You can leave my laundry, you just go.\"",
+      "text": "\"You can leave my laundry, you just go.\""
+    },
+    {
+      "offset": 3691,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しっしっ、と手を動かす。",
+      "en": "I waved my hand at her.",
+      "text": "I waved my hand at her."
+    },
+    {
+      "offset": 3750,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「もう、追い出すことないじゃない」",
+      "en": "\"You don't have to kick me out of here.\"",
+      "text": "\"You don't have to kick me out of here.\""
+    },
+    {
+      "offset": 3791,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぷくっと頬を膨らませる。",
+      "en": "She made an angry face.",
+      "text": "She made an angry face."
+    },
+    {
+      "offset": 3850,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「じゃあ……行ってくるね」",
+      "en": "\"Well...... I'll be going, then......\"",
+      "text": "\"Well...... I'll be going, then......\""
+    },
+    {
+      "offset": 3907,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鞄を持って扉に向かう音夢の背中を見送る。",
+      "en": "\"Okay.\"",
+      "text": "\"Okay.\""
+    },
+    {
+      "offset": 3952,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢は、扉のとこで１度振り返ってこちらに微\n笑むと、そっと扉を閉めた。",
+      "en": "I saw Nemu off as she held her bag and walked toward the\ndoor. She turned around to look at me and smiled as she\nclosed the door.",
+      "text": "I saw Nemu off as she held her bag and walked toward the\ndoor. She turned around to look at me and smiled as she\nclosed the door."
+    },
+    {
+      "offset": 4026,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鈴の音が遠ざかり、やがて聞こえなくなった。",
+      "en": "The sound of her bell faded, and I couldn't hear her\nanymore.",
+      "text": "The sound of her bell faded, and I couldn't hear her\nanymore."
+    },
+    {
+      "offset": 4191,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆音夢の夢◆",
+      "en": "◆Nemu's dream◆",
+      "text": "◆Nemu's dream◆"
+    },
+    {
+      "offset": 4232,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見舞いにやって来てくれた音夢に、杉並から｛き／訊｝\nいた事を｛たず／訊｝ねた。",
+      "en": "I asked Nemu about what I heard from Suginami.",
+      "text": "I asked Nemu about what I heard from Suginami."
+    },
+    {
+      "offset": 4314,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢は、看護師になるために、島を出て寮生活\nをするらしいのだ。それならそうと、早く言っ\nてもらいたかったぞ。",
+      "en": "Nemu's going to move off the island and study to become a\nnurse. She should've told me earlier......",
+      "text": "Nemu's going to move off the island and study to become a\nnurse. She should've told me earlier......"
+    }
+  ],
+  "choices": [],
+  "names": {
+    "499": "Nemu",
+    "558": "Nemu",
+    "770": "Nemu",
+    "876": "Nemu",
+    "1011": "Nemu",
+    "1169": "Nemu",
+    "1265": "Nemu",
+    "1409": "Nemu",
+    "1592": "Nemu",
+    "1688": "Nemu",
+    "1816": "Nemu",
+    "1953": "Nemu",
+    "2000": "Nemu",
+    "2248": "Nemu",
+    "2554": "Nemu",
+    "2766": "Nemu",
+    "2934": "Nemu",
+    "3050": "Nemu",
+    "3164": "Nemu",
+    "3382": "Nemu",
+    "3742": "Nemu",
+    "3842": "Nemu"
+  }
+}

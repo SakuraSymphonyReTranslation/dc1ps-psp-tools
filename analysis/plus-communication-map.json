@@ -1,0 +1,880 @@
+{
+  "source": "E:\\Games\\Da Capo Plus Communication",
+  "mes": {
+    "MES_RAW": {
+      "files": 547,
+      "versions": {
+        "0x2163": 547
+      },
+      "samples": [
+        {
+          "size": 4333,
+          "label_count": 60,
+          "bytecode_offset": 244,
+          "version": "0x2163",
+          "opcode_counts": {
+            "04": 1,
+            "1D": 1,
+            "60": 2,
+            "58": 4,
+            "5B": 4,
+            "02": 4,
+            "3B": 5,
+            "1F": 4,
+            "32": 4,
+            "06": 2,
+            "2E": 7,
+            "03": 59,
+            "4C": 59,
+            "07": 59,
+            "4B": 32,
+            "33": 17,
+            "35": 17,
+            "0D": 3,
+            "2B": 3,
+            "11": 2,
+            "05": 2,
+            "36": 2,
+            "12": 1,
+            "00": 3
+          },
+          "file": "0223b_f02.mes"
+        },
+        {
+          "size": 2240,
+          "label_count": 30,
+          "bytecode_offset": 124,
+          "version": "0x2163",
+          "opcode_counts": {
+            "04": 1,
+            "1D": 1,
+            "60": 2,
+            "58": 3,
+            "5B": 4,
+            "02": 4,
+            "3B": 5,
+            "1F": 4,
+            "32": 4,
+            "06": 2,
+            "2E": 5,
+            "03": 29,
+            "4B": 17,
+            "4C": 29,
+            "07": 29,
+            "33": 8,
+            "35": 8,
+            "11": 2,
+            "05": 2,
+            "0D": 2,
+            "36": 2,
+            "46": 1,
+            "12": 1,
+            "00": 3
+          },
+          "file": "0223b_f04.mes"
+        },
+        {
+          "size": 6776,
+          "label_count": 91,
+          "bytecode_offset": 368,
+          "version": "0x2163",
+          "opcode_counts": {
+            "04": 1,
+            "1D": 1,
+            "60": 3,
+            "58": 4,
+            "5B": 4,
+            "02": 4,
+            "3B": 5,
+            "1F": 4,
+            "32": 4,
+            "06": 4,
+            "2E": 17,
+            "03": 90,
+            "4C": 90,
+            "07": 90,
+            "4B": 44,
+            "0D": 6,
+            "35": 21,
+            "33": 11,
+            "46": 5,
+            "12": 2,
+            "11": 2,
+            "05": 2,
+            "36": 2,
+            "00": 3
+          },
+          "file": "0225b_e01.mes"
+        },
+        {
+          "size": 4832,
+          "label_count": 66,
+          "bytecode_offset": 268,
+          "version": "0x2163",
+          "opcode_counts": {
+            "04": 1,
+            "1D": 1,
+            "60": 2,
+            "58": 4,
+            "5B": 4,
+            "02": 4,
+            "3B": 5,
+            "1F": 4,
+            "32": 4,
+            "06": 4,
+            "2E": 9,
+            "03": 65,
+            "4C": 65,
+            "07": 65,
+            "4B": 25,
+            "35": 9,
+            "33": 3,
+            "11": 1,
+            "05": 2,
+            "0D": 2,
+            "36": 2,
+            "12": 1,
+            "00": 3
+          },
+          "file": "0225b_g01.mes"
+        },
+        {
+          "size": 3686,
+          "label_count": 44,
+          "bytecode_offset": 180,
+          "version": "0x2163",
+          "opcode_counts": {
+            "04": 1,
+            "1D": 1,
+            "60": 2,
+            "58": 4,
+            "5B": 4,
+            "02": 4,
+            "3B": 5,
+            "1F": 4,
+            "32": 4,
+            "06": 3,
+            "2E": 5,
+            "03": 43,
+            "4C": 43,
+            "07": 43,
+            "4B": 24,
+            "35": 11,
+            "33": 11,
+            "11": 2,
+            "05": 2,
+            "0D": 2,
+            "36": 2,
+            "12": 1,
+            "00": 3
+          },
+          "file": "0225b_n01.mes"
+        }
+      ]
+    },
+    "MES_EN": {
+      "files": 342,
+      "versions": {
+        "0x2163": 342
+      },
+      "samples": [
+        {
+          "size": 7161,
+          "label_count": 82,
+          "bytecode_offset": 332,
+          "version": "0x2163",
+          "opcode_counts": {
+            "04": 1,
+            "1D": 1,
+            "60": 6,
+            "58": 5,
+            "5B": 4,
+            "02": 4,
+            "3B": 5,
+            "1F": 4,
+            "32": 4,
+            "11": 3,
+            "05": 6,
+            "06": 3,
+            "2E": 13,
+            "5E": 1,
+            "03": 81,
+            "4B": 47,
+            "4C": 81,
+            "07": 81,
+            "0D": 7,
+            "2B": 4,
+            "34": 2,
+            "33": 25,
+            "12": 2,
+            "35": 25,
+            "46": 8,
+            "36": 2,
+            "00": 3
+          },
+          "file": "0223a_e01.mes"
+        },
+        {
+          "size": 5306,
+          "label_count": 70,
+          "bytecode_offset": 284,
+          "version": "0x2163",
+          "opcode_counts": {
+            "04": 1,
+            "1D": 1,
+            "60": 1,
+            "58": 5,
+            "5B": 4,
+            "02": 4,
+            "3B": 5,
+            "1F": 4,
+            "32": 4,
+            "06": 2,
+            "2E": 13,
+            "0D": 6,
+            "2B": 6,
+            "03": 69,
+            "4C": 69,
+            "07": 69,
+            "4B": 19,
+            "35": 5,
+            "11": 2,
+            "05": 2,
+            "36": 2,
+            "33": 1,
+            "46": 1,
+            "00": 3
+          },
+          "file": "0223a_f01.mes"
+        },
+        {
+          "size": 7089,
+          "label_count": 98,
+          "bytecode_offset": 396,
+          "version": "0x2163",
+          "opcode_counts": {
+            "04": 2,
+            "1D": 1,
+            "60": 2,
+            "58": 3,
+            "5B": 5,
+            "02": 5,
+            "3B": 5,
+            "1F": 5,
+            "32": 6,
+            "2E": 12,
+            "03": 96,
+            "4C": 95,
+            "07": 95,
+            "05": 5,
+            "06": 7,
+            "0D": 5,
+            "35": 23,
+            "4B": 49,
+            "33": 19,
+            "08": 1,
+            "45": 2,
+            "4D": 2,
+            "09": 1,
+            "11": 2,
+            "36": 4,
+            "00": 3
+          },
+          "file": "0223a_f02.mes"
+        },
+        {
+          "size": 4253,
+          "label_count": 44,
+          "bytecode_offset": 180,
+          "version": "0x2163",
+          "opcode_counts": {
+            "04": 1,
+            "1D": 1,
+            "60": 5,
+            "58": 3,
+            "5B": 4,
+            "02": 4,
+            "3B": 5,
+            "1F": 4,
+            "32": 4,
+            "06": 2,
+            "2E": 9,
+            "33": 17,
+            "03": 43,
+            "35": 15,
+            "4B": 27,
+            "4C": 43,
+            "07": 43,
+            "46": 5,
+            "05": 4,
+            "12": 1,
+            "0D": 2,
+            "11": 2,
+            "36": 2,
+            "00": 3
+          },
+          "file": "0223a_f03.mes"
+        },
+        {
+          "size": 2401,
+          "label_count": 27,
+          "bytecode_offset": 112,
+          "version": "0x2163",
+          "opcode_counts": {
+            "04": 1,
+            "1D": 1,
+            "60": 1,
+            "58": 4,
+            "5B": 4,
+            "02": 4,
+            "3B": 5,
+            "1F": 4,
+            "32": 4,
+            "2E": 13,
+            "0D": 9,
+            "5E": 1,
+            "06": 2,
+            "03": 26,
+            "4B": 14,
+            "4C": 26,
+            "07": 26,
+            "33": 4,
+            "35": 7,
+            "46": 2,
+            "2B": 5,
+            "12": 2,
+            "11": 2,
+            "05": 2,
+            "36": 2,
+            "00": 3
+          },
+          "file": "0223a_n01.mes"
+        }
+      ]
+    }
+  },
+  "json": {
+    "JSON_RAW": {
+      "files": 546,
+      "entries": 48191,
+      "speaker_markers": 12181
+    },
+    "JSON_EN": {
+      "files": 342,
+      "entries": 27487,
+      "speaker_markers": 6346
+    },
+    "same_basename_files": 0
+  },
+  "mapping": {
+    "dc1_entries": 71128,
+    "json_raw_entries": 48191,
+    "exact_normalized_message_matches": 45321,
+    "match_ratio": 0.6371752333820717,
+    "dc1_custom_name_messages": 16,
+    "examples": [
+      {
+        "dc1": {
+          "file": "script_0001.obj",
+          "index": 6,
+          "name": null,
+          "message": "「ん？」"
+        },
+        "plus_communication": {
+          "file": "0226c_n01.json",
+          "index": 38,
+          "name": "$n",
+          "message": "「ん？」"
+        }
+      },
+      {
+        "dc1": {
+          "file": "script_0001.obj",
+          "index": 33,
+          "name": "杉並",
+          "message": "「ん？」"
+        },
+        "plus_communication": {
+          "file": "0226c_n01.json",
+          "index": 38,
+          "name": "$n",
+          "message": "「ん？」"
+        }
+      },
+      {
+        "dc1": {
+          "file": "script_0001.obj",
+          "index": 35,
+          "name": "音夢",
+          "message": "「あの、兄さん」"
+        },
+        "plus_communication": {
+          "file": "0318a_b01.json",
+          "index": 74,
+          "name": "音夢",
+          "message": "「あの、兄さん」"
+        }
+      },
+      {
+        "dc1": {
+          "file": "script_0001.obj",
+          "index": 38,
+          "name": "音夢",
+          "message": "「…………」"
+        },
+        "plus_communication": {
+          "file": "0223b_f02.json",
+          "index": 51,
+          "name": "$n",
+          "message": "「…………」"
+        }
+      },
+      {
+        "dc1": {
+          "file": "script_0001.obj",
+          "index": 39,
+          "name": "杉並",
+          "message": "「…………」"
+        },
+        "plus_communication": {
+          "file": "0223b_f02.json",
+          "index": 51,
+          "name": "$n",
+          "message": "「…………」"
+        }
+      },
+      {
+        "dc1": {
+          "file": "script_0001.obj",
+          "index": 43,
+          "name": null,
+          "message": "・\n・\n・"
+        },
+        "plus_communication": {
+          "file": "0223b_f04.json",
+          "index": 24,
+          "name": null,
+          "message": "・ ・ ・"
+        }
+      },
+      {
+        "dc1": {
+          "file": "script_0001.obj",
+          "index": 55,
+          "name": "杉並",
+          "message": "「…………」"
+        },
+        "plus_communication": {
+          "file": "0223b_f02.json",
+          "index": 51,
+          "name": "$n",
+          "message": "「…………」"
+        }
+      },
+      {
+        "dc1": {
+          "file": "script_0001.obj",
+          "index": 70,
+          "name": "杉並",
+          "message": "「…………」"
+        },
+        "plus_communication": {
+          "file": "0223b_f02.json",
+          "index": 51,
+          "name": "$n",
+          "message": "「…………」"
+        }
+      },
+      {
+        "dc1": {
+          "file": "script_0001.obj",
+          "index": 71,
+          "name": "杉並",
+          "message": "「…………」"
+        },
+        "plus_communication": {
+          "file": "0223b_f02.json",
+          "index": 51,
+          "name": "$n",
+          "message": "「…………」"
+        }
+      },
+      {
+        "dc1": {
+          "file": "script_0002.obj",
+          "index": 0,
+          "name": null,
+          "message": "・\n・\n・"
+        },
+        "plus_communication": {
+          "file": "0223b_f04.json",
+          "index": 24,
+          "name": null,
+          "message": "・ ・ ・"
+        }
+      },
+      {
+        "dc1": {
+          "file": "script_0002.obj",
+          "index": 1,
+          "name": null,
+          "message": "｛しんしん／深々｝と桜が舞っている。"
+        },
+        "plus_communication": {
+          "file": "all_end.json",
+          "index": 1,
+          "name": null,
+          "message": "｛しんしん／深々｝と桜が舞っている。"
+        }
+      },
+      {
+        "dc1": {
+          "file": "script_0002.obj",
+          "index": 2,
+          "name": null,
+          "message": "驚くほどゆったりと。"
+        },
+        "plus_communication": {
+          "file": "all_end.json",
+          "index": 2,
+          "name": null,
+          "message": "驚くほどゆったりと。"
+        }
+      },
+      {
+        "dc1": {
+          "file": "script_0002.obj",
+          "index": 3,
+          "name": null,
+          "message": "音もなく。"
+        },
+        "plus_communication": {
+          "file": "0429a_n04.json",
+          "index": 237,
+          "name": null,
+          "message": "音もなく。"
+        }
+      },
+      {
+        "dc1": {
+          "file": "script_0002.obj",
+          "index": 4,
+          "name": null,
+          "message": "天使の羽のような花びらの散りざまは、まるで\n永遠を思わせる一瞬。"
+        },
+        "plus_communication": {
+          "file": "all_end.json",
+          "index": 4,
+          "name": null,
+          "message": "天使の羽のような花びらの散りざまは、まるで 永遠を思わせる一瞬。"
+        }
+      },
+      {
+        "dc1": {
+          "file": "script_0002.obj",
+          "index": 5,
+          "name": null,
+          "message": "（…………）"
+        },
+        "plus_communication": {
+          "file": "0304_hiru_n.json",
+          "index": 10,
+          "name": "$n",
+          "message": "（…………）"
+        }
+      },
+      {
+        "dc1": {
+          "file": "script_0002.obj",
+          "index": 7,
+          "name": null,
+          "message": "雪のように積もった桜をざくざく、と踏みしめ\nながら、ぼりぼりと頭をかく。"
+        },
+        "plus_communication": {
+          "file": "all_end.json",
+          "index": 8,
+          "name": null,
+          "message": "雪のように積もった桜をざくざく、と踏みしめ ながら、ぼりぼりと頭をかく。"
+        }
+      },
+      {
+        "dc1": {
+          "file": "script_0002.obj",
+          "index": 9,
+          "name": null,
+          "message": "周囲を見渡しても遠近感がぼやけていて、終わ\nりというものがない世界。"
+        },
+        "plus_communication": {
+          "file": "all_end.json",
+          "index": 10,
+          "name": null,
+          "message": "周囲を見渡しても遠近感がぼやけていて、終わ りというものがない世界。"
+        }
+      },
+      {
+        "dc1": {
+          "file": "script_0002.obj",
+          "index": 10,
+          "name": null,
+          "message": "狂ったように桜だけが舞っている。"
+        },
+        "plus_communication": {
+          "file": "all_end.json",
+          "index": 11,
+          "name": null,
+          "message": "狂ったように桜だけが舞っている。"
+        }
+      },
+      {
+        "dc1": {
+          "file": "script_0002.obj",
+          "index": 14,
+          "name": null,
+          "message": "・\n・\n・"
+        },
+        "plus_communication": {
+          "file": "0223b_f04.json",
+          "index": 24,
+          "name": null,
+          "message": "・ ・ ・"
+        }
+      },
+      {
+        "dc1": {
+          "file": "script_0002.obj",
+          "index": 33,
+          "name": null,
+          "message": "（…………）"
+        },
+        "plus_communication": {
+          "file": "0304_hiru_n.json",
+          "index": 10,
+          "name": "$n",
+          "message": "（…………）"
+        }
+      },
+      {
+        "dc1": {
+          "file": "script_0002.obj",
+          "index": 38,
+          "name": null,
+          "message": "あまりにも非現実的な景色に鳥肌が立つ。"
+        },
+        "plus_communication": {
+          "file": "all_end.json",
+          "index": 16,
+          "name": null,
+          "message": "あまりにも非現実的な景色に鳥肌が立つ。"
+        }
+      },
+      {
+        "dc1": {
+          "file": "script_0002.obj",
+          "index": 39,
+          "name": null,
+          "message": "舞い散る桜に｛いざな／誘｝われるように、ひとりの少女が\n立っていた。"
+        },
+        "plus_communication": {
+          "file": "all_end.json",
+          "index": 17,
+          "name": null,
+          "message": "舞い散る桜に｛いざな／誘｝われるように、ひとりの少女が 立っていた。"
+        }
+      },
+      {
+        "dc1": {
+          "file": "script_0002.obj",
+          "index": 40,
+          "name": null,
+          "message": "――その少女は、天使でなければ悪魔であろう。"
+        },
+        "plus_communication": {
+          "file": "all_end.json",
+          "index": 18,
+          "name": null,
+          "message": "――その少女は、天使でなければ悪魔であろう。"
+        }
+      },
+      {
+        "dc1": {
+          "file": "script_0002.obj",
+          "index": 42,
+          "name": "夢の少女",
+          "message": "（…………）"
+        },
+        "plus_communication": {
+          "file": "0304_hiru_n.json",
+          "index": 10,
+          "name": "$n",
+          "message": "（…………）"
+        }
+      },
+      {
+        "dc1": {
+          "file": "script_0002.obj",
+          "index": 43,
+          "name": null,
+          "message": "夢？"
+        },
+        "plus_communication": {
+          "file": "0320a_g01.json",
+          "index": 92,
+          "name": "$n",
+          "message": "「夢？」"
+        }
+      },
+      {
+        "dc1": {
+          "file": "script_0002.obj",
+          "index": 56,
+          "name": null,
+          "message": "・\n・\n・"
+        },
+        "plus_communication": {
+          "file": "0223b_f04.json",
+          "index": 24,
+          "name": null,
+          "message": "・ ・ ・"
+        }
+      },
+      {
+        "dc1": {
+          "file": "script_0002.obj",
+          "index": 57,
+          "name": null,
+          "message": "それは、そう……。"
+        },
+        "plus_communication": {
+          "file": "all_end.json",
+          "index": 160,
+          "name": null,
+          "message": "それは、そう……。"
+        }
+      },
+      {
+        "dc1": {
+          "file": "script_0002.obj",
+          "index": 65,
+          "name": null,
+          "message": "・\n・\n・"
+        },
+        "plus_communication": {
+          "file": "0223b_f04.json",
+          "index": 24,
+          "name": null,
+          "message": "・ ・ ・"
+        }
+      },
+      {
+        "dc1": {
+          "file": "script_0002.obj",
+          "index": 66,
+          "name": null,
+          "message": "それは、そう……。"
+        },
+        "plus_communication": {
+          "file": "all_end.json",
+          "index": 160,
+          "name": null,
+          "message": "それは、そう……。"
+        }
+      },
+      {
+        "dc1": {
+          "file": "script_0003.obj",
+          "index": 9,
+          "name": null,
+          "message": "「…………」"
+        },
+        "plus_communication": {
+          "file": "0223b_f02.json",
+          "index": 51,
+          "name": "$n",
+          "message": "「…………」"
+        }
+      }
+    ],
+    "placeholder_samples": [
+      {
+        "file": "script_0006.obj",
+        "index": 234,
+        "message": "「じゃ、俺の方も[name]でいいよ」"
+      },
+      {
+        "file": "script_0007.obj",
+        "index": 61,
+        "message": "「あ、どうも。朝倉[name]です」"
+      },
+      {
+        "file": "script_0014.obj",
+        "index": 150,
+        "message": "「あ、はい。朝倉[name]って言います」"
+      },
+      {
+        "file": "script_0024.obj",
+        "index": 16,
+        "message": "「朝倉。朝倉[name]」"
+      },
+      {
+        "file": "script_0032.obj",
+        "index": 154,
+        "message": "「あ、そうだ、俺は１組の朝倉[name]」"
+      },
+      {
+        "file": "script_0064.obj",
+        "index": 37,
+        "message": "被害者氏名、朝倉[name]……。"
+      },
+      {
+        "file": "script_0212.obj",
+        "index": 131,
+        "message": "[name]は武器を装備していない！"
+      },
+      {
+        "file": "script_0370.obj",
+        "index": 304,
+        "message": "「和泉子──か。いいな。わかった。そう呼ば\n　せてもらうよ。それで、俺は朝倉さんのまま\n　なの？　[name]さんとかそういうのは？」"
+      },
+      {
+        "file": "script_0507.obj",
+        "index": 31,
+        "message": "[name]と眞子を応援する、複雑な二人がいた。"
+      },
+      {
+        "file": "script_0520.obj",
+        "index": 134,
+        "message": "「……俺は朝倉[name]だ」"
+      },
+      {
+        "file": "script_0594.obj",
+        "index": 95,
+        "message": "「俺は朝倉[name]」"
+      },
+      {
+        "file": "script_0600.obj",
+        "index": 152,
+        "message": "「ち、違う。俺は朝倉[name]じゃあない！」"
+      },
+      {
+        "file": "script_0619.obj",
+        "index": 67,
+        "message": "朝倉[name]。"
+      },
+      {
+        "file": "script_0634.obj",
+        "index": 114,
+        "message": "「ま、とりあえず自己紹介しようか。俺は朝倉\n　[name]。君は？」"
+      },
+      {
+        "file": "script_0823.obj",
+        "index": 6,
+        "message": "「あ、[name]だけど」"
+      },
+      {
+        "file": "script_0859.obj",
+        "index": 66,
+        "message": "とんとん、と自分のアタマを叩いてみせる不審\nな男子……すなわち俺、朝倉[name]。"
+      }
+    ]
+  }
+}

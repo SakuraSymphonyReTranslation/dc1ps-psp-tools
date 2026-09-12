@@ -1,0 +1,81 @@
+{
+  "scene": "script_0812.obj",
+  "dialogues": [
+    {
+      "offset": 173,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 192,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 211,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昨日と変わらず、ことりは元気がないままだっ\nた。うなだれたような姿。顔に、生気がない。",
+      "en": "Just like yesterday, Kotori still seemed depressed today.\nShe seemed drained of any vitality.",
+      "text": "Just like yesterday, Kotori still seemed depressed today.\nShe seemed drained of any vitality."
+    },
+    {
+      "offset": 301,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "クラスメートも、そんな様子を感じ取っている\nのか、誰も話しかけようとはしないようだった。",
+      "en": "Our classmates, sensing something wrong, decided not to\ninterfere with her and talk among themselves instead.",
+      "text": "Our classmates, sensing something wrong, decided not to\ninterfere with her and talk among themselves instead."
+    },
+    {
+      "offset": 393,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりとみんなとで、空気がまるで違う。",
+      "en": "Kotori was definitely giving off a different air than usual.",
+      "text": "Kotori was definitely giving off a different air than usual."
+    },
+    {
+      "offset": 447,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「はい、おはよー。席に着いて〜」",
+      "en": "\"Alright, good morning~ Return to your desks.\"",
+      "text": "\"Alright, good morning~ Return to your desks.\""
+    },
+    {
+      "offset": 486,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暦先生の声に、意識が黒板の方へと引き寄せら\nれる。思わず、ため息がもれた。",
+      "en": "At Koyomi-sensei's voice, my senses went to the blackboard\nin front of me. I instinctively sighed.",
+      "text": "At Koyomi-sensei's voice, my senses went to the blackboard\nin front of me. I instinctively sighed."
+    },
+    {
+      "offset": 682,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆元気のないことり３◆",
+      "en": "◆Depressed Kotori 3◆",
+      "text": "◆Depressed Kotori 3◆"
+    },
+    {
+      "offset": 733,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昨日と変わらず元気のないことり。うなだれた\nようなその姿に思わず、ため息がもれた。",
+      "en": "Just like yesterday, Kotori was still depressed. Her head\ndropped, and she sighed constantly.",
+      "text": "Just like yesterday, Kotori was still depressed. Her head\ndropped, and she sighed constantly."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "441": "Koyomi"
+  }
+}

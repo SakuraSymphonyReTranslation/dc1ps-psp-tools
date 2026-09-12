@@ -1,0 +1,435 @@
+{
+  "scene": "script_0056.obj",
+  "dialogues": [
+    {
+      "offset": 151,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ただいま」",
+      "en": "\"I'm home.\"",
+      "text": "\"I'm home.\""
+    },
+    {
+      "offset": 203,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、おかえりなさ〜い。寄り道しないで帰っ\n　てきたんだね」",
+      "en": "\"Oh, you're home. You came straight home?\"",
+      "text": "\"Oh, you're home. You came straight home?\""
+    },
+    {
+      "offset": 269,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだかご機嫌気分な笑顔で、ソファーに座っ\nた音夢がひらひらと手を振ってくる。",
+      "en": "Nemu was sitting on the sofa, and waved her hand to me in\nsuch a good mood.",
+      "text": "Nemu was sitting on the sofa, and waved her hand to me in\nsuch a good mood."
+    },
+    {
+      "offset": 353,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お前はまた制服のままテレビ見てるのか？」",
+      "en": "\"You're watching TV in your uniform?\"",
+      "text": "\"You're watching TV in your uniform?\""
+    },
+    {
+      "offset": 413,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あははははは」",
+      "en": "\"Ha ha.\"",
+      "text": "\"Ha ha.\""
+    },
+    {
+      "offset": 436,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「笑って誤魔化すなっての」",
+      "en": "\"Don't laugh it off.\"",
+      "text": "\"Don't laugh it off.\""
+    },
+    {
+      "offset": 480,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だって、着替えているうちに始まっちゃうん\n　だもん」",
+      "en": "\"Well, the show's starting right now.\"",
+      "text": "\"Well, the show's starting right now.\""
+    },
+    {
+      "offset": 551,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「この時間は、良いドラマの再放送してくれる\n　から嬉しいよねぇ。今度、これの続編がやる\n　んだって」",
+      "en": "\"I just love how they rerun the good shows at this time of\nthe day. They're making the sequel to this soon.\"",
+      "text": "\"I just love how they rerun the good shows at this time of\nthe day. They're making the sequel to this soon.\""
+    },
+    {
+      "offset": 656,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "これ、というのは以前やっていた、青春で若く\nてコテコテで、おまけに演技の下手なアイドル\nが主人公の学園恋愛物だった。",
+      "en": "The show she's talking about is a school love comedy with an\nidol starring in it, who happens to be a bad actor.",
+      "text": "The show she's talking about is a school love comedy with an\nidol starring in it, who happens to be a bad actor."
+    },
+    {
+      "offset": 775,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "以前、音夢と一緒に見ていた気がするが、内容\nまでは覚えていない。",
+      "en": "I think I've seen the show with Nemu before, but I don't\nremember the story.",
+      "text": "I think I've seen the show with Nemu before, but I don't\nremember the story."
+    },
+    {
+      "offset": 845,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まんまとＴＶ局の罠にはまる女がひとり」",
+      "en": "\"Here's a typical example of the network's target audience.\"",
+      "text": "\"Here's a typical example of the network's target audience.\""
+    },
+    {
+      "offset": 920,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「もぅ、いいじゃない。これだけが楽しみなん\n　だから」",
+      "en": "\"Leave me alone. This is the only thing I look forward to.\"",
+      "text": "\"Leave me alone. This is the only thing I look forward to.\""
+    },
+    {
+      "offset": 980,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "文句を言いながらも、視線はブラウン管からは\nずれやしない。",
+      "en": "She talked back at me, while staring at the TV.",
+      "text": "She talked back at me, while staring at the TV."
+    },
+    {
+      "offset": 1044,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「安上がりなやつ」",
+      "en": "\"You're too easy.\"",
+      "text": "\"You're too easy.\""
+    },
+    {
+      "offset": 1069,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の隣に腰掛けてテレビに目を向ける。",
+      "en": "I sat down next to Nemu and looked at the TV.",
+      "text": "I sat down next to Nemu and looked at the TV."
+    },
+    {
+      "offset": 1112,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どこにでもありそうな夕暮れの屋上で、制服を\n着た男女が向き合っていた。",
+      "en": "It was a typical situation of a boy and a girl in school\nuniforms, on a rooftop at dusk.",
+      "text": "It was a typical situation of a boy and a girl in school\nuniforms, on a rooftop at dusk."
+    },
+    {
+      "offset": 1198,
+      "speaker": "School girl",
+      "speaker_jp": "女子学生",
+      "jp": "『ねぇ、神谷くん……先週の日曜日に斎藤先生\n　とホテル街を歩いてたのってホント？』",
+      "en": "\"\"Is it true that you were walking by the hotel with\nSaito-sensei last Sunday?\"\"",
+      "text": "\"\"Is it true that you were walking by the hotel with\nSaito-sensei last Sunday?\"\""
+    },
+    {
+      "offset": 1296,
+      "speaker": "Kamiya",
+      "speaker_jp": "神谷くん",
+      "jp": "『…………』",
+      "en": "\"\"............\"\"",
+      "text": "\"\"............\"\""
+    },
+    {
+      "offset": 1325,
+      "speaker": "School girl",
+      "speaker_jp": "女子学生",
+      "jp": "『あの……たまたま先生と会っただけだよ\n　ね？』",
+      "en": "\"\"I suppose you met her coincidentally, right?\"\"",
+      "text": "\"\"I suppose you met her coincidentally, right?\"\""
+    },
+    {
+      "offset": 1389,
+      "speaker": "Kamiya",
+      "speaker_jp": "神谷くん",
+      "jp": "『…………』",
+      "en": "\"\"............\"\"",
+      "text": "\"\"............\"\""
+    },
+    {
+      "offset": 1418,
+      "speaker": "Kamiya",
+      "speaker_jp": "神谷くん",
+      "jp": "『……ごめん』",
+      "en": "\"\".... I'm sorry.\"\"",
+      "text": "\"\".... I'm sorry.\"\""
+    },
+    {
+      "offset": 1439,
+      "speaker": "Kamiya",
+      "speaker_jp": "神谷くん",
+      "jp": "「あ、駄目だこいつ。優柔不断系か？」",
+      "en": "\"What an ass. He's totally indecisive.\"",
+      "text": "\"What an ass. He's totally indecisive.\""
+    },
+    {
+      "offset": 1482,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "無性に張っ倒したくなるタイプだな。",
+      "en": "I hate this kind of man.",
+      "text": "I hate this kind of man."
+    },
+    {
+      "offset": 1551,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そんなことないよ！」",
+      "en": "\"That's not true!\"",
+      "text": "\"That's not true!\""
+    },
+    {
+      "offset": 1580,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "突然、音夢が拳を握り締めて立ち上がる。",
+      "en": "Nemu stood up suddenly with her fist clenched.",
+      "text": "Nemu stood up suddenly with her fist clenched."
+    },
+    {
+      "offset": 1636,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「神谷くんはそう匂わせておいて、あの子のた\n　めに先生に色々とされちゃってるんだから！」",
+      "en": "\"It just looks like that, but Kamiya-kun's played by the\nteacher because of her!\"",
+      "text": "\"It just looks like that, but Kamiya-kun's played by the\nteacher because of her!\""
+    },
+    {
+      "offset": 1730,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……いや、ドラマの中身くらいで怒るなよ」",
+      "en": "\"...Hey, don't get so upset. It's just a TV show.\"",
+      "text": "\"...Hey, don't get so upset. It's just a TV show.\""
+    },
+    {
+      "offset": 1807,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……ドラマだけどさぁ、こう、手に汗握る展\n　開というのか……憧れない？」",
+      "en": "\"I know it's just a TV show. But don't you wish that you\nhave these moments like that?\"",
+      "text": "\"I know it's just a TV show. But don't you wish that you\nhave these moments like that?\""
+    },
+    {
+      "offset": 1887,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「それを世間一般的に修羅場というのだが、憧\n　れるのか？」",
+      "en": "\"They call it a living hell, why would you wish for that?\"",
+      "text": "\"They call it a living hell, why would you wish for that?\""
+    },
+    {
+      "offset": 1962,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あぅ……そうなんだけどさ。でも、最後がハッ\n　ピーエンドならいいでしょ？」",
+      "en": "\"Yeah.... You're right. But if it has a happy ending, then\nit should be fine. Don't you think?\"",
+      "text": "\"Yeah.... You're right. But if it has a happy ending, then\nit should be fine. Don't you think?\""
+    },
+    {
+      "offset": 2044,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「最後がハッピーエンドならな。ところで、ど\n　うなるんだっけこの番組は？」",
+      "en": "\"If it has a happy ending. How did this show end anyway?\"",
+      "text": "\"If it has a happy ending. How did this show end anyway?\""
+    },
+    {
+      "offset": 2152,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「えーと、ふたりの仲が良くなって、また校舎\n　の屋上でこうやって……」",
+      "en": "\"Let's see. They become close and they end up on the roof\ntop of the school building again, and then...\"",
+      "text": "\"Let's see. They become close and they end up on the roof\ntop of the school building again, and then...\""
+    },
+    {
+      "offset": 2237,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "場面を再現するように、音夢の手が俺の頬に触\nれた。",
+      "en": "She was trying to act out the scene, and her hand touched my\ncheek.",
+      "text": "She was trying to act out the scene, and her hand touched my\ncheek."
+    },
+    {
+      "offset": 2325,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2355,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2374,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "間近で音夢の吐息を感じてしまって、思わず鼓\n動が早くなる。",
+      "en": "I felt her breath close to me, and my heart starts to pound\nfaster.",
+      "text": "I felt her breath close to me, and my heart starts to pound\nfaster."
+    },
+    {
+      "offset": 2459,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「音夢？」",
+      "en": "\"Nemu?\"",
+      "text": "\"Nemu?\""
+    },
+    {
+      "offset": 2487,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……あ、あはははは」",
+      "en": "\"....Oh. Hahaha...\"",
+      "text": "\"....Oh. Hahaha...\""
+    },
+    {
+      "offset": 2535,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ソファーから立ち上がって、音夢が胸を押さえ\nて後ずさる。",
+      "en": "She pressed her chest with her hand and stood up from the\nsofa.",
+      "text": "She pressed her chest with her hand and stood up from the\nsofa."
+    },
+    {
+      "offset": 2597,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「笑って誤魔化すな」",
+      "en": "\"Don't laugh it off.\"",
+      "text": "\"Don't laugh it off.\""
+    },
+    {
+      "offset": 2668,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ご、ごめんね兄さん。そうだ私、宿題やらな\n　くちゃ！」",
+      "en": "\"Sorry, I have to go do my homework!\"",
+      "text": "\"Sorry, I have to go do my homework!\""
+    },
+    {
+      "offset": 2739,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "焦って手をバタバタと振って、音夢が部屋を出\nて階段を上っていく。",
+      "en": "She waved her hand and rushed out of the room to go\nupstairs.",
+      "text": "She waved her hand and rushed out of the room to go\nupstairs."
+    },
+    {
+      "offset": 2809,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はぁ……」",
+      "en": "\"Well....\"",
+      "text": "\"Well....\""
+    },
+    {
+      "offset": 2828,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢に触られた頬をさすりながら、俺はソファー\nに深く身体を沈めた。",
+      "en": "I sat down deep in the sofa stroking the cheek Nemu touched.",
+      "text": "I sat down deep in the sofa stroking the cheek Nemu touched."
+    },
+    {
+      "offset": 2898,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんとなく、この雰囲気なら、さくらが来るの\nも歓迎出来るかも知れない。",
+      "en": "Maybe we can welcome Sakura now we're in this kind of mood.",
+      "text": "Maybe we can welcome Sakura now we're in this kind of mood."
+    },
+    {
+      "offset": 2974,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あれ？　宿題なんてあったかな？」",
+      "en": "\"...Huh? Did we have homework today?\"",
+      "text": "\"...Huh? Did we have homework today?\""
+    },
+    {
+      "offset": 3015,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "テレビでは、筋書き通りのハッピーエンドを約\n束されたふたりが、別れるシーンが流れていた。",
+      "en": "In the TV show, the man and the woman who supposed to have a\nhappy ending were leaving each other as I watched.",
+      "text": "In the TV show, the man and the woman who supposed to have a\nhappy ending were leaving each other as I watched."
+    },
+    {
+      "offset": 3233,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆ドラマに魅せられて◆",
+      "en": "◆Being fascinated by a soap opera◆",
+      "text": "◆Being fascinated by a soap opera◆"
+    },
+    {
+      "offset": 3286,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "居間で、音夢が学園恋愛モノのドラマを見てい\nた。",
+      "en": "Nemu was watching a school love comedy show on TV.",
+      "text": "Nemu was watching a school love comedy show on TV."
+    },
+    {
+      "offset": 3338,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今後の展開について熱弁を振るう音夢だったが、\n勢い余って俺の頬に手を添え、キスの体勢をとっ\nてしまう。",
+      "en": "She was trying to explain what happens next in the show, but\nshe realized she had her hand over my cheeks which looked\nlike we were about to kiss.",
+      "text": "She was trying to explain what happens next in the show, but\nshe realized she had her hand over my cheeks which looked\nlike we were about to kiss."
+    },
+    {
+      "offset": 3443,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しばらく無言で見詰め合ってしまうふたりだっ\nた……。",
+      "en": "We looked at each other silently for a while....",
+      "text": "We looked at each other silently for a while...."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "195": "Nemu",
+    "405": "Nemu",
+    "472": "Nemu",
+    "543": "Nemu",
+    "912": "Nemu",
+    "1186": "School girl",
+    "1284": "Kamiya",
+    "1313": "School girl",
+    "1377": "Kamiya",
+    "1406": "Kamiya",
+    "1543": "Nemu",
+    "1628": "Nemu",
+    "1799": "Nemu",
+    "1954": "Nemu",
+    "2144": "Nemu",
+    "2317": "Nemu",
+    "2347": "Nemu",
+    "2479": "Nemu",
+    "2660": "Nemu"
+  }
+}

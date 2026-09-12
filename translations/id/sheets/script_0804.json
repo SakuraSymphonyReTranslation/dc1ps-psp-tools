@@ -1,0 +1,577 @@
+{
+  "scene": "script_0804.obj",
+  "dialogues": [
+    {
+      "offset": 142,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 160,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "すぐ側で、目覚ましの音が聞こえ……俺は｛まぶた／瞼｝を\n開ける。",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 256,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そこは俺の部屋で、カーテン越しに朝日の光を\n受け、薄明るくなっていた。",
+      "en": "I opened my eyes as I heard my alarm go off.",
+      "text": "I opened my eyes as I heard my alarm go off."
+    },
+    {
+      "offset": 332,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は枕元でうるさく鳴っている目覚ましを止め、\nぐっと伸びをする。",
+      "en": "I was in my room. The room was starting to become bright\nfrom the morning light behind the curtain.",
+      "text": "I was in my room. The room was starting to become bright\nfrom the morning light behind the curtain."
+    },
+    {
+      "offset": 402,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "I stopped the loud alarm clock by my pillow, and stretched\nmy body.",
+      "text": "I stopped the loud alarm clock by my pillow, and stretched\nmy body."
+    },
+    {
+      "offset": 421,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……なんだったんだ、今日の夢は？」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 464,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんないつもの朝の儀式をこなしても、気分は\n晴れない。",
+      "en": "\"......What was that dream I just saw?\"",
+      "text": "\"......What was that dream I just saw?\""
+    },
+    {
+      "offset": 522,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "誰かの夢を見せられたには違いないが、何だか\n上手く見ることが出来なかったというか……。",
+      "en": "I was still feeling down after I stretched myself.",
+      "text": "I was still feeling down after I stretched myself."
+    },
+    {
+      "offset": 612,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こんなのは初めてだ。",
+      "en": "I know I saw someone else's dream, but I wasn't able to see\nit clearly......",
+      "text": "I know I saw someone else's dream, but I wasn't able to see\nit clearly......"
+    },
+    {
+      "offset": 637,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "This was the first time I felt like this.",
+      "text": "This was the first time I felt like this."
+    },
+    {
+      "offset": 652,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（まあ、こんなことで悩んでも仕方ないか……）",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 703,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "パジャマから制服に着替え、鞄を持って１階に\n下りる。",
+      "en": "(I can't worry myself with this......)",
+      "text": "(I can't worry myself with this......)"
+    },
+    {
+      "offset": 798,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ごちそうさま」",
+      "en": "I changed into my uniform and went downstairs with my bag.",
+      "text": "I changed into my uniform and went downstairs with my bag."
+    },
+    {
+      "offset": 821,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "トーストを平らげ、席を立つ。",
+      "en": "\"That was good.\"",
+      "text": "\"That was good.\""
+    },
+    {
+      "offset": 854,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鞄を持ち、テレビを消すためリモコンを構える。\n番組はちょうど、地域のニュースを報じていた。",
+      "en": "I finished eating some toast and stood up.",
+      "text": "I finished eating some toast and stood up."
+    },
+    {
+      "offset": 962,
+      "speaker": "キャスター",
+      "speaker_jp": "キャスター",
+      "jp": "『次は、枯れない桜の花が散ってしまうという、\n　ショッキングなニュースです』",
+      "en": "I got my bag and held the remote, ready to turn the TV off.\nThe TV was showing the local news.",
+      "text": "I got my bag and held the remote, ready to turn the TV off.\nThe TV was showing the local news."
+    },
+    {
+      "offset": 1046,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "えっ？",
+      "en": "\"The next news item's a shocking one. The flowers are\nfalling from the never-dying cherry trees.\"",
+      "text": "\"The next news item's a shocking one. The flowers are\nfalling from the never-dying cherry trees.\""
+    },
+    {
+      "offset": 1062,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ボタンを押そうとしていた指を止め、テレビ画\n面を見つめる。画面が切り替わり、見覚えのあ\nる風景が映し出される。",
+      "en": "Huh?",
+      "text": "Huh?"
+    },
+    {
+      "offset": 1189,
+      "speaker": "キャスター",
+      "speaker_jp": "キャスター",
+      "jp": "『枯れない桜が咲く島として有名な初音島で、\n　桜の木の花が散っているのが今朝、桜公園を\n　散歩していた男性によって発見されました』",
+      "en": "I stopped my hand and stared at the TV screen. The picture\nchanged and I saw a familiar view on the screen.",
+      "text": "I stopped my hand and stared at the TV screen. The picture\nchanged and I saw a familiar view on the screen."
+    },
+    {
+      "offset": 1324,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ニュースキャスターの説明に合わせて、花が散っ\nてしまった大きな桜の木の映像が映し出される。",
+      "en": "\"Hatsune Island is famous for the never-dying cherry blossom\ntrees. However, a man found the flowers falling from the\ntrees in Sakura Park this morning.\"",
+      "text": "\"Hatsune Island is famous for the never-dying cherry blossom\ntrees. However, a man found the flowers falling from the\ntrees in Sakura Park this morning.\""
+    },
+    {
+      "offset": 1420,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そんな、バカな……」",
+      "en": "With the presenter's commentary, they showed a picture of\nthe big cherry blossom tree without flowers.",
+      "text": "With the presenter's commentary, they showed a picture of\nthe big cherry blossom tree without flowers."
+    },
+    {
+      "offset": 1449,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "半ば呆然と呟く。",
+      "en": "\"No way......\"",
+      "text": "\"No way......\""
+    },
+    {
+      "offset": 1484,
+      "speaker": "キャスター",
+      "speaker_jp": "キャスター",
+      "jp": "『原因については現在、全く判っておらず、島\n　の研究機関が原因の調査を……』",
+      "en": "I muttered with surprise.",
+      "text": "I muttered with surprise."
+    },
+    {
+      "offset": 1566,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "パチンッ――",
+      "en": "\"We've yet to figure out the cause, and a team of\nresearchers's currently investigating......\"",
+      "text": "\"We've yet to figure out the cause, and a team of\nresearchers's currently investigating......\""
+    },
+    {
+      "offset": 1583,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "テレビを消してリモコンをテーブルに置く。",
+      "en": "Click......",
+      "text": "Click......"
+    },
+    {
+      "offset": 1630,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "I turned the TV off and put the remote on the table.",
+      "text": "I turned the TV off and put the remote on the table."
+    },
+    {
+      "offset": 1649,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とにかく、もう学園に行かないと。",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1712,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんとなく得体の知れない不安感を抱きながら、\n玄関に行き靴を履く。",
+      "en": "I have to go to school now.",
+      "text": "I have to go to school now."
+    },
+    {
+      "offset": 1784,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "扉を開けると、そこには、いつもと変わらない\n風景が広がっていた……。",
+      "en": "I went to the front door and put on my shoes with an\nuncomfortable fear inside of me.",
+      "text": "I went to the front door and put on my shoes with an\nuncomfortable fear inside of me."
+    },
+    {
+      "offset": 1892,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "学園によどみなく足を向けながらも、さきほど\nのニュースが頭から離れない。",
+      "en": "When I opened the door, everything seemed to be normal......",
+      "text": "When I opened the door, everything seemed to be normal......"
+    },
+    {
+      "offset": 1968,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうしていきなり花が散ったんだろう？",
+      "en": "I headed toward the school, but I couldn't get it out of my\nmind.",
+      "text": "I headed toward the school, but I couldn't get it out of my\nmind."
+    },
+    {
+      "offset": 2009,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いや、本来は散ってあたりまえだし、そもそも\n今までも花は散っている。ただ、すぐに新しい\nのが咲いていただけだ。",
+      "en": "Why did the flowers fall all of a sudden?",
+      "text": "Why did the flowers fall all of a sudden?"
+    },
+    {
+      "offset": 2122,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それが咲かなくなった？",
+      "en": "Well, they're supposed to die in the first place. Besides,\nthey fall off all the time, but they normally grow right\nback.",
+      "text": "Well, they're supposed to die in the first place. Besides,\nthey fall off all the time, but they normally grow right\nback."
+    },
+    {
+      "offset": 2151,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（土に養分がなくなったとか）",
+      "en": "But now the flowers aren't coming back?",
+      "text": "But now the flowers aren't coming back?"
+    },
+    {
+      "offset": 2186,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "アレだけ連続で咲き続ければ、相当な養分を消\n費しているだろう。",
+      "en": "(Maybe there isn't enough nutrition in the soil......)",
+      "text": "(Maybe there isn't enough nutrition in the soil......)"
+    },
+    {
+      "offset": 2252,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "養分を求めて根っこを伸ばしていって、遂に島\n中の養分を吸い尽くしたか。",
+      "en": "The tree probably consumed so much nutrition in order to\nstay alive for that long. Perhaps the tree looked for the\nnutrition all over the island with its long roots, but\nfinally sucked up all that was left......",
+      "text": "The tree probably consumed so much nutrition in order to\nstay alive for that long. Perhaps the tree looked for the\nnutrition all over the island with its long roots, but\nfinally sucked up all that was left......"
+    },
+    {
+      "offset": 2326,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "養分を求めて、地下数百メートルまで伸びた木\nの根。それらが初音島の地下に張り巡らされて\nいる光景を想像する。",
+      "en": "The roots of the trees grew hundreds of meters under the\nground. I imagined the roots of trees completely surrounding\nthe island.",
+      "text": "The roots of the trees grew hundreds of meters under the\nground. I imagined the roots of trees completely surrounding\nthe island."
+    },
+    {
+      "offset": 2439,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（ラピユダ？）",
+      "en": "(It's like a castle in the sky......)",
+      "text": "(It's like a castle in the sky......)"
+    },
+    {
+      "offset": 2460,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 2478,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 2491,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が考えに｛ふけ／耽｝っていると、前から木琴の音が聞\nこえてくる。",
+      "en": "When I was daydreaming, I heard the sound of a xylophone in\nfront of me.",
+      "text": "When I was daydreaming, I heard the sound of a xylophone in\nfront of me."
+    },
+    {
+      "offset": 2563,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「萌先輩、おはようっ」",
+      "en": "\"Good morning, Moe-sempai.\"",
+      "text": "\"Good morning, Moe-sempai.\""
+    },
+    {
+      "offset": 2592,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "当然、歩きながら木琴を叩いている人物など限\nられるわけで、俺は足を速めて先輩の横に並ぶ。",
+      "en": "I knew she's the only one around here who walks around with\na xylophone. I speeded up and walked by her side.",
+      "text": "I knew she's the only one around here who walks around with\na xylophone. I speeded up and walked by her side."
+    },
+    {
+      "offset": 2735,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「クー」",
+      "en": "\"Zzz...\"",
+      "text": "\"Zzz...\""
+    },
+    {
+      "offset": 2750,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2769,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "久しぶりに眠っていた。",
+      "en": "I haven't seen her sleepwalking for a while.",
+      "text": "I haven't seen her sleepwalking for a while."
+    },
+    {
+      "offset": 2798,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「萌先輩？」",
+      "en": "\"Moe-sempai?\"",
+      "text": "\"Moe-sempai?\""
+    },
+    {
+      "offset": 2826,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「スー……」",
+      "en": "\"Zzz......\"",
+      "text": "\"Zzz......\""
+    },
+    {
+      "offset": 2845,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「萌先輩っ」",
+      "en": "\"Moe-sempai!\"",
+      "text": "\"Moe-sempai!\""
+    },
+    {
+      "offset": 2890,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「ん……ふぁ……」",
+      "en": "\"Mmm...... aaaw......\"",
+      "text": "\"Mmm...... aaaw......\""
+    },
+    {
+      "offset": 2944,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あっ、朝倉くん、おはようございます」",
+      "en": "\"Oh, Asakura-kun. Good morning.\"",
+      "text": "\"Oh, Asakura-kun. Good morning.\""
+    },
+    {
+      "offset": 2989,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少し声を大きくして、ようやく萌先輩が目を覚\nました。",
+      "en": "Moe-sempai finally woke up when I raised my voice.",
+      "text": "Moe-sempai finally woke up when I raised my voice."
+    },
+    {
+      "offset": 3047,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どうしたんですか？」",
+      "en": "\"What's wrong?\"",
+      "text": "\"What's wrong?\""
+    },
+    {
+      "offset": 3102,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「えっ？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 3119,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「いや、久しぶりに眠りながら歩いていたから」",
+      "en": "\"Well, I haven't seen you walking in your sleep in a while.\"",
+      "text": "\"Well, I haven't seen you walking in your sleep in a while.\""
+    },
+    {
+      "offset": 3179,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「夢を見に行っていたんです」",
+      "en": "\"I was trying to dream.\"",
+      "text": "\"I was trying to dream.\""
+    },
+    {
+      "offset": 3214,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「夢を？」",
+      "en": "\"Dream?\"",
+      "text": "\"Dream?\""
+    },
+    {
+      "offset": 3257,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい。今日はどうしてか夢が見れなかったん\n　です」",
+      "en": "\"Yes. I couldn't dream for some reason last night.\"",
+      "text": "\"Yes. I couldn't dream for some reason last night.\""
+    },
+    {
+      "offset": 3341,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「ですから夢を見ようとしていたんですけど、\n　なかなか見れなくて……」",
+      "en": "\"That's why I was trying to dream, but it's not that\neasy......\"",
+      "text": "\"That's why I was trying to dream, but it's not that\neasy......\""
+    },
+    {
+      "offset": 3417,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眠たげに話す萌先輩。なんだか少し元気がない\nようにも見える。",
+      "en": "Moe spoke to me with a sleepy look. She seemed to be a\nlittle bit down.",
+      "text": "Moe spoke to me with a sleepy look. She seemed to be a\nlittle bit down."
+    },
+    {
+      "offset": 3481,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなに夢が見たいのだろうか？",
+      "en": "Why would she want to dream so much?",
+      "text": "Why would she want to dream so much?"
+    },
+    {
+      "offset": 3516,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "問答無用で夢を見せられる俺としては、よく理\n解できないことだ。",
+      "en": "It's hard for me to understand since I dream even though I'm\nnot asking for it.",
+      "text": "It's hard for me to understand since I dream even though I'm\nnot asking for it."
+    },
+    {
+      "offset": 3584,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「それで、萌先輩――」",
+      "en": "\"So Moe-sempai......\"",
+      "text": "\"So Moe-sempai......\""
+    },
+    {
+      "offset": 3650,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「スー……」",
+      "en": "\"Zzz......\"",
+      "text": "\"Zzz......\""
+    },
+    {
+      "offset": 3669,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "寝てるし。",
+      "en": "She's asleep again.",
+      "text": "She's asleep again."
+    },
+    {
+      "offset": 3684,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあいいか。",
+      "en": "Oh well.",
+      "text": "Oh well."
+    },
+    {
+      "offset": 3701,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は萌先輩の寝息とズレた木琴の音を聴きなが\nら、通学路を歩いた。",
+      "en": "I walked along, listening to her snore and the off sound of\nher xylophone.",
+      "text": "I walked along, listening to her snore and the off sound of\nher xylophone."
+    },
+    {
+      "offset": 3891,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆枯れない桜が枯れた◆",
+      "en": "◆The never-dying cherry blossom dies◆",
+      "text": "◆The never-dying cherry blossom dies◆"
+    },
+    {
+      "offset": 3946,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "枯れない桜が枯れてしまったと、ニュースで言っ\nていた。",
+      "en": "The news was saying that the never-dying cherry blossom had\ndied.",
+      "text": "The news was saying that the never-dying cherry blossom had\ndied."
+    },
+    {
+      "offset": 4040,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "登校の途中、萌先輩と会った。久しぶりに眠り\nながら歩いていた。何やら、夢を見たがってい\nたが……。",
+      "en": "I bumped into Moe-sempai on my way to the school. She was\nsleeping while walking. She was trying to dream for some\nreason......",
+      "text": "I bumped into Moe-sempai on my way to the school. She was\nsleeping while walking. She was trying to dream for some\nreason......"
+    }
+  ],
+  "choices": [],
+  "names": {
+    "2729": "Moe",
+    "2820": "Moe",
+    "2884": "Moe",
+    "2938": "Moe",
+    "3096": "Moe",
+    "3173": "Moe",
+    "3251": "Moe",
+    "3335": "Moe",
+    "3644": "Moe"
+  }
+}

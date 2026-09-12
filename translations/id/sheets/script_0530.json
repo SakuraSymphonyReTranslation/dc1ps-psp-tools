@@ -1,0 +1,682 @@
+{
+  "scene": "script_0530.obj",
+  "dialogues": [
+    {
+      "offset": 190,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「すっかり暗くなっちゃったねえ……」",
+      "en": "\"It's gotten dark so quickly...\"",
+      "text": "\"It's gotten dark so quickly...\""
+    },
+    {
+      "offset": 233,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ほうとため息をついて、ことりが空を見上げる。\n星が輝くほど真っ暗ではないものの、もはや、\n陽光はかけらも見当たらない。",
+      "en": "She let out a small sigh, and looked up at the night sky,\ntwinkling brightly with stars. It almost seemed like it was\ndaytime.",
+      "text": "She let out a small sigh, and looked up at the night sky,\ntwinkling brightly with stars. It almost seemed like it was\ndaytime."
+    },
+    {
+      "offset": 369,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「早く、夏にならないかなあ……」",
+      "en": "\"Summer should hurry up and come already...\"",
+      "text": "\"Summer should hurry up and come already...\""
+    },
+    {
+      "offset": 408,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「夏、好きなんだ？」",
+      "en": "\"You like the summer season?\"",
+      "text": "\"You like the summer season?\""
+    },
+    {
+      "offset": 448,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ううん、そうでもないよ。汗かくのとか、あ\n　んまり好きじゃないし」",
+      "en": "\"Umm, not really. It's a time of sweatiness and stickiness,\nI don't like that.\"",
+      "text": "\"Umm, not really. It's a time of sweatiness and stickiness,\nI don't like that.\""
+    },
+    {
+      "offset": 522,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………？　じゃ、何で？」",
+      "en": "\"......? Then why do you want it to hurry up and come?\"",
+      "text": "\"......? Then why do you want it to hurry up and come?\""
+    },
+    {
+      "offset": 587,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「だって、夏は、夜まで長いでしょ。だから、\n　その分、一緒に居られるなって……」",
+      "en": "\"Because the summer nights come later. Then I can spend more\ntime outside together...\"",
+      "text": "\"Because the summer nights come later. Then I can spend more\ntime outside together...\""
+    },
+    {
+      "offset": 673,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「俺と？」",
+      "en": "\"With me?\"",
+      "text": "\"With me?\""
+    },
+    {
+      "offset": 720,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「他に居ないよぅ……」",
+      "en": "\"There isn't anyone else around~...\"",
+      "text": "\"There isn't anyone else around~...\""
+    },
+    {
+      "offset": 749,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どこか甘えを含んだ響きで、指を、深く絡めて\nくる。",
+      "en": "Her sweet smile showed again, our fingers intertwined.",
+      "text": "Her sweet smile showed again, our fingers intertwined."
+    },
+    {
+      "offset": 805,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや、そんな、日が落ちたからって、必ずし\n　も家に帰る必要もないんじゃないか？」",
+      "en": "\"Well, even so, just because the sun sets, doesn't mean we\nhave to go home, right?\"",
+      "text": "\"Well, even so, just because the sun sets, doesn't mean we\nhave to go home, right?\""
+    },
+    {
+      "offset": 906,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「え、え？　そ、それってどういう意味かな？」",
+      "en": "\"E, eh? W, what do you mean?\"",
+      "text": "\"E, eh? W, what do you mean?\""
+    },
+    {
+      "offset": 957,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「どういう意味って……あれだよ。たとえば星\n　座を見に行く時とか。日が落ちてからが本番\n　だろ？」",
+      "en": "\"I mean stuff... like that. To go stargazing. That's not\nsomething you can do until the set sets.\"",
+      "text": "\"I mean stuff... like that. To go stargazing. That's not\nsomething you can do until the set sets.\""
+    },
+    {
+      "offset": 1073,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ああ……うん。そうだね。そうだよね。うん\n　うん、それは夜が本番ですな」",
+      "en": "\"Ahh...I see. Yes, yes, of course, nighttime is the best\ntime for that.\"",
+      "text": "\"Ahh...I see. Yes, yes, of course, nighttime is the best\ntime for that.\""
+    },
+    {
+      "offset": 1153,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ことり、何か期待外れって感じがしてる」",
+      "en": "\"Kotori, you were thinking of something else, weren't you.\"",
+      "text": "\"Kotori, you were thinking of something else, weren't you.\""
+    },
+    {
+      "offset": 1213,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そ、そんなことないよぅ。私、朝倉君と一緒\n　に、星座見たいよ？」",
+      "en": "\"N, not at all! I just want to see the stars together with\nyou!\"",
+      "text": "\"N, not at all! I just want to see the stars together with\nyou!\""
+    },
+    {
+      "offset": 1285,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぎゅっと力を込めて握ってきた手から、ことり\nの気持ちが伝わってくるようだった。",
+      "en": "I felt Kotori grip my hand even tighter, passing her\nfeelings to me through that link.",
+      "text": "I felt Kotori grip my hand even tighter, passing her\nfeelings to me through that link."
+    },
+    {
+      "offset": 1369,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺もだ」",
+      "en": "\"I do too.\"",
+      "text": "\"I do too.\""
+    },
+    {
+      "offset": 1386,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺もギュッと手を握り返す。",
+      "en": "I returned her tight grip.",
+      "text": "I returned her tight grip."
+    },
+    {
+      "offset": 1417,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "つないだところから、胸の高鳴りが、鼓動の速\nさが、ドキドキが広がっていく感じがした。",
+      "en": "I could feel my heart pounding quickly, and I thought I\ncould feel hers too.",
+      "text": "I could feel my heart pounding quickly, and I thought I\ncould feel hers too."
+    },
+    {
+      "offset": 1507,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「他にも夜に楽しむものはいっぱいあるぜ。花\n　火とか、肝試しとか、学園の怪談とか」",
+      "en": "\"And nighttime is usually a time for fun. Fireworks, dares,\nschool ghost stories...\"",
+      "text": "\"And nighttime is usually a time for fun. Fireworks, dares,\nschool ghost stories...\""
+    },
+    {
+      "offset": 1608,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「微妙に違うのが混ざってるような……」",
+      "en": "\"One of them is a bit out of place...\"",
+      "text": "\"One of them is a bit out of place...\""
+    },
+    {
+      "offset": 1666,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……でも、うん。一緒に、色んなこと、した\n　いね」",
+      "en": "\"...But yeah, some things are enjoyable at night...\"",
+      "text": "\"...But yeah, some things are enjoyable at night...\""
+    },
+    {
+      "offset": 1737,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ふたりなら、きっと楽しいんだろうね……」",
+      "en": "\"But things are always better when you're experiencing them\nwith a loved one...\"",
+      "text": "\"But things are always better when you're experiencing them\nwith a loved one...\""
+    },
+    {
+      "offset": 1786,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ああ……」",
+      "en": "\"Ahh...\"",
+      "text": "\"Ahh...\""
+    },
+    {
+      "offset": 1838,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなこんなで、空に星がくっきりと浮かび上\nがる頃、ことりの家に着いた。",
+      "en": "As we talked mindlessly about this and that, we soon reached\nKotori's house.",
+      "text": "As we talked mindlessly about this and that, we soon reached\nKotori's house."
+    },
+    {
+      "offset": 1914,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "門の前で、ことりがくるりと振り返る。",
+      "en": "In front of the entrance to her house, Kotori turned around\nto face me.",
+      "text": "In front of the entrance to her house, Kotori turned around\nto face me."
+    },
+    {
+      "offset": 1987,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ありがとう。今日は、楽しかったよ」",
+      "en": "\"Thanks for today. It was lots of fun.\"",
+      "text": "\"Thanks for today. It was lots of fun.\""
+    },
+    {
+      "offset": 2030,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "名残惜しい時間。少しでも引き延ばしたいと思っ\nているのは、たぶん、ふたりとも同じだった。",
+      "en": "She was reluctant to just leave. Just like me, we were\ntrying to find any way to delay it.",
+      "text": "She was reluctant to just leave. Just like me, we were\ntrying to find any way to delay it."
+    },
+    {
+      "offset": 2124,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ、そうだ、ことり、携帯電話の番号教えて\n　くれない？　まだ、聞いてなかったから」",
+      "en": "\"Ah, by the by, can you tell me your cellphone number? I've\nnot heard it before.\"",
+      "text": "\"Ah, by the by, can you tell me your cellphone number? I've\nnot heard it before.\""
+    },
+    {
+      "offset": 2244,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、えと、その……」",
+      "en": "\"Ah, um, about that...\"",
+      "text": "\"Ah, um, about that...\""
+    },
+    {
+      "offset": 2273,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一瞬虚を衝かれたような顔をして、ことりはゆっ\nくりとかぶりを振った。",
+      "en": "It appears I'd just hit a weak spot somehow... the fairly\nsimple question got her incredibly flustered.",
+      "text": "It appears I'd just hit a weak spot somehow... the fairly\nsimple question got her incredibly flustered."
+    },
+    {
+      "offset": 2377,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、ごめん、その……私、電話って苦手で、\n　だから、携帯電話とか持ってなくて……」",
+      "en": "\"Ah, sorry... I'm not good at phone conversations, so I\nnever bothered getting a cellphone...\"",
+      "text": "\"Ah, sorry... I'm not good at phone conversations, so I\nnever bothered getting a cellphone...\""
+    },
+    {
+      "offset": 2467,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、そうだったんだ。だったら、別にいいん\n　だけどさ」",
+      "en": "\"Ah, I see. Nothing wrong with that.\"",
+      "text": "\"Ah, I see. Nothing wrong with that.\""
+    },
+    {
+      "offset": 2529,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ばつの悪い思いをさせてしまったと思い、俺は\n慌てて手を振った。",
+      "en": "Seeing that she was actually feeling bad about that, I\nhastily waved away my question.",
+      "text": "Seeing that she was actually feeling bad about that, I\nhastily waved away my question."
+    },
+    {
+      "offset": 2597,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（そう言えば、前に電話で話した時、妙におど\n　おどしてたけど、苦手だったからか）",
+      "en": "\"(Come to think about it, the last time we talked on the\nphone, she really was nervous. She really must be weak at\nit.)\"",
+      "text": "\"(Come to think about it, the last time we talked on the\nphone, she really was nervous. She really must be weak at\nit.)\""
+    },
+    {
+      "offset": 2683,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なら、俺からもあんまり電話とか掛けないよ\n　うにした方がいいのかな？」",
+      "en": "\"Then I should try not to call your home phone as well?\"",
+      "text": "\"Then I should try not to call your home phone as well?\""
+    },
+    {
+      "offset": 2774,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「うん……ごめんね。そうしてくれる」",
+      "en": "\"Yes... I'm sorry.\"",
+      "text": "\"Yes... I'm sorry.\""
+    },
+    {
+      "offset": 2817,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「謝ることじゃない。分かったよ」",
+      "en": "\"No need to apologize, I undestand.\"",
+      "text": "\"No need to apologize, I undestand.\""
+    },
+    {
+      "offset": 2869,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ね、朝倉君」",
+      "en": "\"Then, Asakura-kun.\"",
+      "text": "\"Then, Asakura-kun.\""
+    },
+    {
+      "offset": 2890,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ん？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 2918,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「その分、別れる前に、いつも次に会う時の約\n　束をしよう？」",
+      "en": "\"To counter that, let's promise that everytime, before we\nsay goodbye, we set a time and date for when to meet next.\"",
+      "text": "\"To counter that, let's promise that everytime, before we\nsay goodbye, we set a time and date for when to meet next.\""
+    },
+    {
+      "offset": 2984,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ああ、それがいいな」",
+      "en": "\"Ahh, that'd be nice.\"",
+      "text": "\"Ahh, that'd be nice.\""
+    },
+    {
+      "offset": 3039,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "日時の確認を二度してから、俺はあらためて別\nれの挨拶を告げた。",
+      "en": "We scheduled the next time we'd meet, and had to say our\nfarewells again.",
+      "text": "We scheduled the next time we'd meet, and had to say our\nfarewells again."
+    },
+    {
+      "offset": 3139,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「それじゃ……そろそろ」",
+      "en": "\"I guess I should be going... now.\"",
+      "text": "\"I guess I should be going... now.\""
+    },
+    {
+      "offset": 3183,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「うん、また」",
+      "en": "\"Uhn... I'd see you later...\"",
+      "text": "\"Uhn... I'd see you later...\""
+    },
+    {
+      "offset": 3204,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "小さく手を振り合う。",
+      "en": "I gave her a short wave of my hand.",
+      "text": "I gave her a short wave of my hand."
+    },
+    {
+      "offset": 3229,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりを向いたまま、１歩、後ろに下がる。",
+      "en": "But rather than going back, she took a step towards me.",
+      "text": "But rather than going back, she took a step towards me."
+    },
+    {
+      "offset": 3274,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "１歩。",
+      "en": "One step.",
+      "text": "One step."
+    },
+    {
+      "offset": 3285,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "また、１歩。",
+      "en": "Another step.",
+      "text": "Another step."
+    },
+    {
+      "offset": 3302,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少しずつ、ことりとの距離が離れていく。",
+      "en": "Bit by bit, the distance between us had become almost\nnon-existant.",
+      "text": "Bit by bit, the distance between us had become almost\nnon-existant."
+    },
+    {
+      "offset": 3357,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、ことりが一息に間合いを詰めて。",
+      "en": "Then our bodies met.",
+      "text": "Then our bodies met."
+    },
+    {
+      "offset": 3396,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の胸と唇に、そっと身体の一部を重ねた。",
+      "en": "I could feel her body on my chest and lips.",
+      "text": "I could feel her body on my chest and lips."
+    },
+    {
+      "offset": 3443,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3462,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "柔らかな手の平と、少しだけ冷えた唇と……。",
+      "en": "Her soft palms, and her slightly chilly lips...",
+      "text": "Her soft palms, and her slightly chilly lips..."
+    },
+    {
+      "offset": 3546,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「えへへ……」",
+      "en": "\"Ehehe...\"",
+      "text": "\"Ehehe...\""
+    },
+    {
+      "offset": 3580,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「約束だけじゃ、あまりにも寂しすぎるもんね」",
+      "en": "\"Even though we promised, it's still going to be a little\nlonely.\"",
+      "text": "\"Even though we promised, it's still going to be a little\nlonely.\""
+    },
+    {
+      "offset": 3631,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言うことりを、俺は抱きしめたくなって。",
+      "en": "As she talked, she started hugging me.",
+      "text": "As she talked, she started hugging me."
+    },
+    {
+      "offset": 3678,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わず手が伸びたその時。",
+      "en": "Just as I was about to wrap my hands around her as well...",
+      "text": "Just as I was about to wrap my hands around her as well..."
+    },
+    {
+      "offset": 3720,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「う〜、おっほん」",
+      "en": "\"Aaaaahem!\"",
+      "text": "\"Aaaaahem!\""
+    },
+    {
+      "offset": 3745,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「い！？」",
+      "en": "\"Ahhh!?\"",
+      "text": "\"Ahhh!?\""
+    },
+    {
+      "offset": 3762,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "振り返る前から声の主は分かっていた。",
+      "en": "I turned my head around and saw the owner of the voice.",
+      "text": "I turned my head around and saw the owner of the voice."
+    },
+    {
+      "offset": 3805,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「こ、暦先生……」",
+      "en": "\"Ko, Koyomi-sensei...\"",
+      "text": "\"Ko, Koyomi-sensei...\""
+    },
+    {
+      "offset": 3877,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「いやいや、結構結構。お別れのチッスですか\n　い？　若いってのは、特権だねえ」",
+      "en": "\"Ah-ah, absolutely wonderful. A romantic parting scene, no?\nThe hallmark of the young.\"",
+      "text": "\"Ah-ah, absolutely wonderful. A romantic parting scene, no?\nThe hallmark of the young.\""
+    },
+    {
+      "offset": 3970,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ま、壇上でやらかすぐらいのふたりだ。家の\n　前でなんて、お茶の子さいさいってところ？」",
+      "en": "\"You two really were meant for the stage. Why not come in\nfor tea instead of standing out here.\"",
+      "text": "\"You two really were meant for the stage. Why not come in\nfor tea instead of standing out here.\""
+    },
+    {
+      "offset": 4077,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あっと、そ、それじゃ、朝倉君、バイバイ」",
+      "en": "\"Uh, s, so, I'd see you later, Asakura-kun!\"",
+      "text": "\"Uh, s, so, I'd see you later, Asakura-kun!\""
+    },
+    {
+      "offset": 4126,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "唯一のお味方は、そうそうに戦線を離脱してし\nまった。",
+      "en": "My lone ally withdrew from the battlefield almost\nimmediately.",
+      "text": "My lone ally withdrew from the battlefield almost\nimmediately."
+    },
+    {
+      "offset": 4182,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ひゅるる……。",
+      "en": "--*Whoosh*",
+      "text": "--*Whoosh*"
+    },
+    {
+      "offset": 4201,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "夜風が、暦先生の髪の毛とタバコの煙を流して\nいく。",
+      "en": "The night wind was blowing Koyomi-sensei's hair and\ncigarette smoke in a hypnotic fashion.",
+      "text": "The night wind was blowing Koyomi-sensei's hair and\ncigarette smoke in a hypnotic fashion."
+    },
+    {
+      "offset": 4257,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ、え〜と、それじゃ、俺もこれで……」",
+      "en": "\"Ah, uhm, I'd, take my leave now...\"",
+      "text": "\"Ah, uhm, I'd, take my leave now...\""
+    },
+    {
+      "offset": 4321,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくさくと、カニのように横に歩き、危険区域\nからの脱走を試みる。",
+      "en": "I started inching sideways like a crab, trying to escape\nfrom the danger zone without angering the predator further.",
+      "text": "I started inching sideways like a crab, trying to escape\nfrom the danger zone without angering the predator further."
+    },
+    {
+      "offset": 4389,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――ガシッ",
+      "en": "--*grab*",
+      "text": "--*grab*"
+    },
+    {
+      "offset": 4404,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "首に回された腕に、あえなく阻止された。",
+      "en": "She grabbed the back of my shirt, preventing me from escape.",
+      "text": "She grabbed the back of my shirt, preventing me from escape."
+    },
+    {
+      "offset": 4458,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「あ、さ、く、ら、く〜ん」",
+      "en": "\"A. Sa. Ku. Ra. Kun.\"",
+      "text": "\"A. Sa. Ku. Ra. Kun.\""
+    },
+    {
+      "offset": 4491,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "紫煙と共に、顔に言葉がぶつかってくる。物理\n的な圧力を以って。",
+      "en": "Like her cigarette smoke, every syllable she uttered struck\nme like a ton of bricks. This is some freakish pressure...",
+      "text": "Like her cigarette smoke, every syllable she uttered struck\nme like a ton of bricks. This is some freakish pressure..."
+    },
+    {
+      "offset": 4590,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「遊びだったら、承知しないからね」",
+      "en": "\"I won't consent to anything less than 100% commitment.\nCapisce?\"",
+      "text": "\"I won't consent to anything less than 100% commitment.\nCapisce?\""
+    },
+    {
+      "offset": 4631,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「は、はは〜」",
+      "en": "\"C, capisce!\"",
+      "text": "\"C, capisce!\""
+    },
+    {
+      "offset": 4756,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆暦先生に見られる◆",
+      "en": "◆Caught by Koyomi-sensei◆",
+      "text": "◆Caught by Koyomi-sensei◆"
+    },
+    {
+      "offset": 4805,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "夜になり、ことりを家へと送る。やっぱり、甘っ\nたるい雰囲気。",
+      "en": "As night came, we returned to Kotori's home. The night\natmosphere was fantastic.",
+      "text": "As night came, we returned to Kotori's home. The night\natmosphere was fantastic."
+    },
+    {
+      "offset": 4869,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "家の前で携帯の番号を尋ねたのだが、苦手だか\nら持ってないと言われた。",
+      "en": "I asked for her cellphone number as we reached her house,\nbut she revealed that she's not good on the phone.",
+      "text": "I asked for her cellphone number as we reached her house,\nbut she revealed that she's not good on the phone."
+    },
+    {
+      "offset": 4941,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "別れの前にキスを交わして……それを、暦先生\nに見られてしまった。……やば。",
+      "en": "As we were about to have a farewell kiss... we were caught\nin the act by Koyomi-sensei. ...Oh boy.",
+      "text": "As we were about to have a farewell kiss... we were caught\nin the act by Koyomi-sensei. ...Oh boy."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "180": "Kotori",
+    "359": "Kotori",
+    "438": "Kotori",
+    "577": "Kotori",
+    "710": "Kotori",
+    "896": "Kotori",
+    "1063": "Kotori",
+    "1203": "Kotori",
+    "1598": "Kotori",
+    "1656": "Kotori",
+    "1727": "Kotori",
+    "1977": "Kotori",
+    "2234": "Kotori",
+    "2367": "Kotori",
+    "2764": "Kotori",
+    "2859": "Kotori",
+    "2908": "Kotori",
+    "3173": "Kotori",
+    "3536": "Kotori",
+    "3570": "Kotori",
+    "3714": "Koyomi",
+    "3871": "Koyomi",
+    "3964": "Koyomi",
+    "4067": "Kotori",
+    "4452": "Koyomi",
+    "4584": "Koyomi"
+  }
+}

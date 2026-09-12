@@ -1,0 +1,117 @@
+{
+  "scene": "script_0227.obj",
+  "dialogues": [
+    {
+      "offset": 185,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 200,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「工藤のいうとおりだな」",
+      "en": "\"I agree with Kudou.\"",
+      "text": "\"I agree with Kudou.\""
+    },
+    {
+      "offset": 261,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「え〜っ？！」",
+      "en": "\"Ehhhh~?!\"",
+      "text": "\"Ehhhh~?!\""
+    },
+    {
+      "offset": 310,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「そうか。やっぱりそう思うんだ」",
+      "en": "\"Heh, I thought so.\"",
+      "text": "\"Heh, I thought so.\""
+    },
+    {
+      "offset": 379,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……あぅ」",
+      "en": "\"...Auu.\"",
+      "text": "\"...Auu.\""
+    },
+    {
+      "offset": 398,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「俺もどうもあのカラオケの、一律に盛り上が\n　れ！　みたいなノリには時々ついて行けなく\n　なるな」",
+      "en": "\"Karaoke is so monotonous! I wouldn't go to it if I wasn't\nunder any obligations.\"",
+      "text": "\"Karaoke is so monotonous! I wouldn't go to it if I wasn't\nunder any obligations.\""
+    },
+    {
+      "offset": 512,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「まったく同感だ。いや、賛同者がいてくれて\n　うれしいよ」",
+      "en": "\"Same here. I'm glad someone finally agrees with me!\"",
+      "text": "\"Same here. I'm glad someone finally agrees with me!\""
+    },
+    {
+      "offset": 576,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "工藤は俺の手を取り堅く握り締めると、同志が\n身近にいたことを素直に喜んだ。",
+      "en": "Kudou shook my hand tightly with his, a true show of\ncomrades.",
+      "text": "Kudou shook my hand tightly with his, a true show of\ncomrades."
+    },
+    {
+      "offset": 686,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あう……お兄ちゃんとくっぴー、１００万友\n　情パワーズ結成だね……」",
+      "en": "\"Auu... bro and Kuupi are using their 100,000 power\nfriendship formation...\"",
+      "text": "\"Auu... bro and Kuupi are using their 100,000 power\nfriendship formation...\""
+    },
+    {
+      "offset": 762,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺たちの様子を見て、さくらもお手上げという\n表情で肩をすくめた。",
+      "en": "Looking at us, Sakura's shoulders fell as she gave up any\nhope of trying to convince us.",
+      "text": "Looking at us, Sakura's shoulders fell as she gave up any\nhope of trying to convince us."
+    },
+    {
+      "offset": 963,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆友情パワーズ◆",
+      "en": "◆Friendship Power◆",
+      "text": "◆Friendship Power◆"
+    },
+    {
+      "offset": 1026,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は工藤の意見に賛同した。同志がいてくれた\nと喜ぶ工藤。",
+      "en": "I agreed with Kudou's view, and we quickly became\ncomrades-in-arms.",
+      "text": "I agreed with Kudou's view, and we quickly became\ncomrades-in-arms."
+    },
+    {
+      "offset": 1086,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "友情万歳！俺たちはがっしと手を握り合った。\n工藤の手は柔らかくて｛きゃしゃ／華奢｝だった。",
+      "en": "Long live friendship! We firmly grasped each other's hands\nto emphasize this point. His was soft and delicate...",
+      "text": "Long live friendship! We firmly grasped each other's hands\nto emphasize this point. His was soft and delicate..."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "251": "Sakura",
+    "302": "Kudou",
+    "369": "Sakura",
+    "504": "Kudou",
+    "676": "Sakura"
+  }
+}

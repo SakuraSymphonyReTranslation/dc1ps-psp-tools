@@ -1,0 +1,553 @@
+{
+  "scene": "script_0753.obj",
+  "dialogues": [
+    {
+      "offset": 179,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛ほおづえ／頬杖｝をついてため息をはく。",
+      "en": "I rested my chin on my hand and sighed.",
+      "text": "I rested my chin on my hand and sighed."
+    },
+    {
+      "offset": 226,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「行くよ――なんて｛おおみえ／大見得｝切ったばかりなのに、\n　どうしてお前は風邪をぶり返しますかね」",
+      "en": "\"Why do you get a cold again after telling me you're going\nback to school?\"",
+      "text": "\"Why do you get a cold again after telling me you're going\nback to school?\""
+    },
+    {
+      "offset": 365,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「くしゅ！　……うぅぅ……そんなの風邪さん\n　に言ってよ」",
+      "en": "\"Achoo! ......Say that to my cold......\"",
+      "text": "\"Achoo! ......Say that to my cold......\""
+    },
+    {
+      "offset": 429,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ベッドから上半身を起こした音夢が、情けない\n声でうなだれる。",
+      "en": "Nemu looked disappointed as she sat on her bed.",
+      "text": "Nemu looked disappointed as she sat on her bed."
+    },
+    {
+      "offset": 523,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「気をつけててもかかっちゃ――くちゅ！――\n　う、どうしようもないでしょ」",
+      "en": "\"I'm being careful... achoo! ...so what else can I do?\"",
+      "text": "\"I'm being careful... achoo! ...so what else can I do?\""
+    },
+    {
+      "offset": 603,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「はぁ……」",
+      "en": "\"Phew......\"",
+      "text": "\"Phew......\""
+    },
+    {
+      "offset": 622,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "また、ため息をおかゆに吹きかける。",
+      "en": "I blew on her rice porridge.",
+      "text": "I blew on her rice porridge."
+    },
+    {
+      "offset": 663,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ほれ、もう熱くないと思うぞ」",
+      "en": "\"Here, I think it's not too hot.\"",
+      "text": "\"Here, I think it's not too hot.\""
+    },
+    {
+      "offset": 700,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "特製の梅粥をすくって音夢の口に近づける。",
+      "en": "I got a bite of the porridge on to the spoon and brought it\nup to her mouth.",
+      "text": "I got a bite of the porridge on to the spoon and brought it\nup to her mouth."
+    },
+    {
+      "offset": 775,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あの、自分で食べたいんだけど……」",
+      "en": "\"Um...... I'd like to eat it myself...\"",
+      "text": "\"Um...... I'd like to eat it myself...\""
+    },
+    {
+      "offset": 818,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ん」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 842,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そんな、｛うつうつ／鬱々｝としたため息で冷ましたお粥っ\n　て最悪だと思いますが？」",
+      "en": "\"Do you think that rice porridge cooled with your depressed\nsigh will taste good?\"",
+      "text": "\"Do you think that rice porridge cooled with your depressed\nsigh will taste good?\""
+    },
+    {
+      "offset": 932,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ため息も有効活用しようという、俺の地球に\n　やさしい心が分からないのか？」",
+      "en": "\"I'm doing everything I can to be environmentally friendly.\nDon't you understand how kind I am to the earth?\"",
+      "text": "\"I'm doing everything I can to be environmentally friendly.\nDon't you understand how kind I am to the earth?\""
+    },
+    {
+      "offset": 1042,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「私にやさしくしてくださいよ……」",
+      "en": "\"Why don't you be kind to me......\"",
+      "text": "\"Why don't you be kind to me......\""
+    },
+    {
+      "offset": 1083,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1102,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やさしく、ね。",
+      "en": "Kind, she said.",
+      "text": "Kind, she said."
+    },
+    {
+      "offset": 1123,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「自分で食べるか？」",
+      "en": "\"Do you want to eat it yourself?\"",
+      "text": "\"Do you want to eat it yourself?\""
+    },
+    {
+      "offset": 1178,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うん。そんな、お兄ちゃんに食べさせてもら\n　うなんて恥ずかしいしね」",
+      "en": "\"Yes. It's embarrassing to be fed by you.\"",
+      "text": "\"Yes. It's embarrassing to be fed by you.\""
+    },
+    {
+      "offset": 1254,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "てへへ、と笑って椀を音夢が受け取る。",
+      "en": "Nemu smiled and took the bowl from me.",
+      "text": "Nemu smiled and took the bowl from me."
+    },
+    {
+      "offset": 1325,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いただきます」",
+      "en": "\"Thanks.\"",
+      "text": "\"Thanks.\""
+    },
+    {
+      "offset": 1348,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「まぁ、どうやっても一口目は俺のため息つき\n　だがな」",
+      "en": "\"Whatever you do, it still has my sigh on top of it.\"",
+      "text": "\"Whatever you do, it still has my sigh on top of it.\""
+    },
+    {
+      "offset": 1436,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……だから……お兄ちゃん？」",
+      "en": "\"What did I tell you, oniichan?\"",
+      "text": "\"What did I tell you, oniichan?\""
+    },
+    {
+      "offset": 1473,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "拳を握り締めて音夢がゆっくりとした動作で、\n粥から俺に視線を移す。",
+      "en": "Nemu made a fist and moved her eyes slowly from the bowl to\nme.",
+      "text": "Nemu made a fist and moved her eyes slowly from the bowl to\nme."
+    },
+    {
+      "offset": 1543,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今でも、成層圏まで叩き上げられるくらいの力\nは残っているのかも知れない。",
+      "en": "Maybe she still has enough power to knock me up to the\nstratosphere.",
+      "text": "Maybe she still has enough power to knock me up to the\nstratosphere."
+    },
+    {
+      "offset": 1619,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少なくても天井までは楽勝だろう。",
+      "en": "Or at least to the ceiling.",
+      "text": "Or at least to the ceiling."
+    },
+    {
+      "offset": 1658,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「分かった、黙ってるよ」",
+      "en": "\"I understand. I'll shut up.\"",
+      "text": "\"I understand. I'll shut up.\""
+    },
+    {
+      "offset": 1717,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「よろしい♪」",
+      "en": "\"Good good.\"",
+      "text": "\"Good good.\""
+    },
+    {
+      "offset": 1738,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言葉ほどの元気さはなく、ゆっくりとした動作\nで口にスプーンが運ばれる。",
+      "en": "She still wasn't feeling as well as she sounds. She moved\nthe spoon to her mouth slowly.",
+      "text": "She still wasn't feeling as well as she sounds. She moved\nthe spoon to her mouth slowly."
+    },
+    {
+      "offset": 1814,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1844,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ん……美味しい」",
+      "en": "\"Mm...... It's delicious.\"",
+      "text": "\"Mm...... It's delicious.\""
+    },
+    {
+      "offset": 1869,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だろうな」",
+      "en": "\"I know.\"",
+      "text": "\"I know.\""
+    },
+    {
+      "offset": 1916,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え、なんで？」",
+      "en": "\"What? Why do you say that?\"",
+      "text": "\"What? Why do you say that?\""
+    },
+    {
+      "offset": 1939,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、あぁ……いや」",
+      "en": "\"Well...... nothing.\"",
+      "text": "\"Well...... nothing.\""
+    },
+    {
+      "offset": 1966,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の愛情がこもっている――とは言えない。",
+      "en": "I can't say because I made it with love.",
+      "text": "I can't say because I made it with love."
+    },
+    {
+      "offset": 2013,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お前の好きな味を知ってるからな。慣れだ慣\n　れ」",
+      "en": "\"I know what you like. It's based on past experience.\"",
+      "text": "\"I know what you like. It's based on past experience.\""
+    },
+    {
+      "offset": 2097,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……うん。お兄ちゃんは、私のことなんでも\n　知ってるんだね」",
+      "en": "\"Right. You know everything about me, oniichan.\"",
+      "text": "\"Right. You know everything about me, oniichan.\""
+    },
+    {
+      "offset": 2165,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あぁ……まぁ、な」",
+      "en": "\"Well, pretty much.\"",
+      "text": "\"Well, pretty much.\""
+    },
+    {
+      "offset": 2192,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「夜はサンドイッチにしてやるよ。お前の好き\n　なきゅうりの入ってるやつ」",
+      "en": "Or rather to the details.",
+      "text": "Or rather to the details."
+    },
+    {
+      "offset": 2298,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うわっ♪　ありがとう、お兄ちゃん♪」",
+      "en": "\"I'll make you a sandwich for dinner. The one you like with\ncucumber.\"",
+      "text": "\"I'll make you a sandwich for dinner. The one you like with\ncucumber.\""
+    },
+    {
+      "offset": 2343,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あぁ」",
+      "en": "\"Really? Thank you!\"",
+      "text": "\"Really? Thank you!\""
+    },
+    {
+      "offset": 2358,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の笑顔が心地よい。",
+      "en": "\"Sure.\"",
+      "text": "\"Sure.\""
+    },
+    {
+      "offset": 2385,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だからこそ、辛い。",
+      "en": "Her smile makes me comfortable.",
+      "text": "Her smile makes me comfortable."
+    },
+    {
+      "offset": 2408,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "秘めた想いは、もう、口にしないと届かない。",
+      "en": "That's why it hurts me.",
+      "text": "That's why it hurts me."
+    },
+    {
+      "offset": 2455,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちゅうぶらりんなまま、俺は音夢を見ている。",
+      "en": "My secret feelings don't reach her unless I say it out loud.",
+      "text": "My secret feelings don't reach her unless I say it out loud."
+    },
+    {
+      "offset": 2504,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………？」",
+      "en": "I'm looking at her wondering.",
+      "text": "I'm looking at her wondering."
+    },
+    {
+      "offset": 2547,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふと、音夢のベッドに一片の桜の花びらを見つ\nけた。",
+      "en": "\"............?\"",
+      "text": "\"............?\""
+    },
+    {
+      "offset": 2601,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "つまみ上げる。",
+      "en": "Then, I found a petal of a cherry blossom by her bed.",
+      "text": "Then, I found a petal of a cherry blossom by her bed."
+    },
+    {
+      "offset": 2622,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……どこから降って来たんだ？」",
+      "en": "I picked it up.",
+      "text": "I picked it up."
+    },
+    {
+      "offset": 2672,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「お兄ちゃんの服についてたんじゃない？」",
+      "en": "\"...Where did it come from?\"",
+      "text": "\"...Where did it come from?\""
+    },
+    {
+      "offset": 2719,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そうか？」",
+      "en": "\"Maybe it came in from outside on your uniform.\"",
+      "text": "\"Maybe it came in from outside on your uniform.\""
+    },
+    {
+      "offset": 2738,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どこの桜だろう。",
+      "en": "\"Do you think so?\"",
+      "text": "\"Do you think so?\""
+    },
+    {
+      "offset": 2759,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その赤い色には確かに見覚えがある。",
+      "en": "I wonder which cherry tree.",
+      "text": "I wonder which cherry tree."
+    },
+    {
+      "offset": 2798,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なにかが、決定的にずれた。",
+      "en": "But I remember the red color of this petal.",
+      "text": "But I remember the red color of this petal."
+    },
+    {
+      "offset": 2829,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この赤は、血の色を連想させた。",
+      "en": "Something was definitely wrong.",
+      "text": "Something was definitely wrong."
+    },
+    {
+      "offset": 2864,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の吐き出した心の形。",
+      "en": "I saw this red color in my bed.",
+      "text": "I saw this red color in my bed."
+    },
+    {
+      "offset": 2923,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「くしゅん！　……うぅ」",
+      "en": "\"Achoo!\"",
+      "text": "\"Achoo!\""
+    },
+    {
+      "offset": 2954,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鼻をすすって音夢が眉をよせる。",
+      "en": "Nemu sniffed her nose and frowned.",
+      "text": "Nemu sniffed her nose and frowned."
+    },
+    {
+      "offset": 3019,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あぁ、それ、あそこの桜の色だね」",
+      "en": "\"Oh, this is from that cherry tree.\"",
+      "text": "\"Oh, this is from that cherry tree.\""
+    },
+    {
+      "offset": 3060,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あそこ？」",
+      "en": "\"Which one?\"",
+      "text": "\"Which one?\""
+    },
+    {
+      "offset": 3090,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え、に……あ……お兄ちゃんと私とさくらの\n　秘密基地」",
+      "en": "\"Ah, the one from our secret hideout. Remember? You and\nSakura and I made a secret hideout.\"",
+      "text": "\"Ah, the one from our secret hideout. Remember? You and\nSakura and I made a secret hideout.\""
+    },
+    {
+      "offset": 3152,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……そうか」",
+      "en": "\"I see......\"",
+      "text": "\"I see......\""
+    },
+    {
+      "offset": 3173,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう、それは多分――あの、夢の中の枯れない\n桜の赤だ。",
+      "en": "She was right. This red color is from that everlasting\ncherry tree from my dream.",
+      "text": "She was right. This red color is from that everlasting\ncherry tree from my dream."
+    },
+    {
+      "offset": 3332,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆おかゆと桜の花びら◆",
+      "en": "◆Rice porridge and a cherry blossom petal◆",
+      "text": "◆Rice porridge and a cherry blossom petal◆"
+    },
+    {
+      "offset": 3383,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "せっかく調子がよさそうなので音夢と一緒に学\n園に行こうと思ったのに、当の音夢自身が寝込\nんでしまった。",
+      "en": "I thought we should go back to school together since Nemu\nhad been feeling well lately. But Nemu got a cold again.",
+      "text": "I thought we should go back to school together since Nemu\nhad been feeling well lately. But Nemu got a cold again."
+    },
+    {
+      "offset": 3488,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぶつくさと文句を言うが、音夢とふたりでいら\nれる時間がなんだか嬉しい。",
+      "en": "I complained, but I was happy to be with her alone.",
+      "text": "I complained, but I was happy to be with her alone."
+    },
+    {
+      "offset": 3562,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな中、また例の桜が音夢からこぼれ落ちて\nきた……。",
+      "en": "Then, I found that cherry blossom were coming out of her\nagain......",
+      "text": "Then, I found that cherry blossom were coming out of her\nagain......"
+    }
+  ],
+  "choices": [],
+  "names": {
+    "357": "Nemu",
+    "515": "Nemu",
+    "767": "Nemu",
+    "834": "Nemu",
+    "1034": "Nemu",
+    "1170": "Nemu",
+    "1317": "Nemu",
+    "1428": "Nemu",
+    "1709": "Nemu",
+    "1836": "Nemu",
+    "1908": "Nemu",
+    "2089": "Nemu",
+    "2290": "Nemu",
+    "2664": "Nemu",
+    "2915": "Nemu",
+    "3011": "Nemu",
+    "3082": "Nemu"
+  }
+}

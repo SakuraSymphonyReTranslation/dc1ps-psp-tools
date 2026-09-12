@@ -1,0 +1,794 @@
+{
+  "scene": "script_0243.obj",
+  "dialogues": [
+    {
+      "offset": 151,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「誰もおらん」",
+      "en": "\"No one's here.\"",
+      "text": "\"No one's here.\""
+    },
+    {
+      "offset": 172,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "神社では、環どころか、参拝客もまともにいな\nかった。",
+      "en": "The shrine, Tamaki's place, was devoid of worshippers today.",
+      "text": "The shrine, Tamaki's place, was devoid of worshippers today."
+    },
+    {
+      "offset": 228,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この神社が｛にぎ／賑｝わうのは、正月と縁日の日くらい\nらしい。",
+      "en": "The main days of bustle for this shrine seems to be the new\nyear, and during festivals.",
+      "text": "The main days of bustle for this shrine seems to be the new\nyear, and during festivals."
+    },
+    {
+      "offset": 345,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "商店街をふらつきながら、今日の予定を考える。",
+      "en": "Standing in the middle of the shopping district, I laid out\nmy plans for today.",
+      "text": "Standing in the middle of the shopping district, I laid out\nmy plans for today."
+    },
+    {
+      "offset": 394,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつものことだけど、ゲーセンに行くか、ぶら\nぶらとウインドーショッピングするか、本屋で\n立ち読みするぐらいしか思いつかない。",
+      "en": "I didn't feel like going to the arcades, or window shopping,\nor reading books at the bookstore, or doing anything normal.",
+      "text": "I didn't feel like going to the arcades, or window shopping,\nor reading books at the bookstore, or doing anything normal."
+    },
+    {
+      "offset": 523,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ここはひとつ、新しい暇の潰し方を考えて時\n　間潰すか」",
+      "en": "\"At times like these, you start to find different things to\nwaste time on.\"",
+      "text": "\"At times like these, you start to find different things to\nwaste time on.\""
+    },
+    {
+      "offset": 585,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……って、何かそれはそれでかったるそうだ\n　よなぁ」",
+      "en": "\"...Bleh, what am I saying.\"",
+      "text": "\"...Bleh, what am I saying.\""
+    },
+    {
+      "offset": 645,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんてことを考えていると。",
+      "en": "Didn't really know what I was thinking either.",
+      "text": "Didn't really know what I was thinking either."
+    },
+    {
+      "offset": 676,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "人混みの中、見知った顔を見つけた。",
+      "en": "Within the crowd of passers-by, I saw a familiar face.",
+      "text": "Within the crowd of passers-by, I saw a familiar face."
+    },
+    {
+      "offset": 717,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「よお」",
+      "en": "\"Yo.\"",
+      "text": "\"Yo.\""
+    },
+    {
+      "offset": 732,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "荷物をたくさん抱えた環だった。",
+      "en": "It was Tamaki, carrying a lot of bags with her.",
+      "text": "It was Tamaki, carrying a lot of bags with her."
+    },
+    {
+      "offset": 805,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「あら、朝倉様。こんにちは」",
+      "en": "\"My, Asakura-sama. Good afternoon.\"",
+      "text": "\"My, Asakura-sama. Good afternoon.\""
+    },
+    {
+      "offset": 840,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「こんなところにいたんだな。何してるんだ？」",
+      "en": "\"Odd to meet you here. What's up?\"",
+      "text": "\"Odd to meet you here. What's up?\""
+    },
+    {
+      "offset": 917,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ええ、ちょっと買い物に……」",
+      "en": "\"Ahh, I was doing a little shopping...\"",
+      "text": "\"Ahh, I was doing a little shopping...\""
+    },
+    {
+      "offset": 954,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なるほど。確かに環が持っている袋からは、ち\nりとりや鍋、やかんなど、日用品がたくさん顔\nを覗かせていた。",
+      "en": "I see. As she said, she was carrying things like dustpans,\npots, kettles, and other daily neccessities.",
+      "text": "I see. As she said, she was carrying things like dustpans,\npots, kettles, and other daily neccessities."
+    },
+    {
+      "offset": 1063,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（けど……女の子が一人で持つには量があるよ\n　な）",
+      "en": "\"(But... sending a girl, alone, to carry all this stuff?)\"",
+      "text": "\"(But... sending a girl, alone, to carry all this stuff?)\""
+    },
+    {
+      "offset": 1119,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺がそう思っていると。",
+      "en": "My thoughts were quickly interrupted.",
+      "text": "My thoughts were quickly interrupted."
+    },
+    {
+      "offset": 1174,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「朝倉様、あの……今時間ありますか？」",
+      "en": "\"Asakura-sama, um... are you free right now?\"",
+      "text": "\"Asakura-sama, um... are you free right now?\""
+    },
+    {
+      "offset": 1219,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ん？　どうした？」",
+      "en": "\"Mm? Anything I can do for you?\"",
+      "text": "\"Mm? Anything I can do for you?\""
+    },
+    {
+      "offset": 1272,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「実は、｛たけぼうき／竹箒｝を探していて……」",
+      "en": "\"I've been searching for bamboo brooms for sale...\"",
+      "text": "\"I've been searching for bamboo brooms for sale...\""
+    },
+    {
+      "offset": 1325,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「竹箒？」",
+      "en": "\"Bamboo brooms?\"",
+      "text": "\"Bamboo brooms?\""
+    },
+    {
+      "offset": 1342,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……って言うとあれだよな。魔法使いが乗って\nいる奴だよな？",
+      "en": "...You mean the type that witches ride on?",
+      "text": "...You mean the type that witches ride on?"
+    },
+    {
+      "offset": 1432,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「はい。今境内を掃いているのが壊れてしまっ\n　て……新しいのを買おうと思って」",
+      "en": "\"Yes. The one I normally use for cleaning the shrine\ncompound recently broke... I thought I would buy a new one\ntoday.\"",
+      "text": "\"Yes. The one I normally use for cleaning the shrine\ncompound recently broke... I thought I would buy a new one\ntoday.\""
+    },
+    {
+      "offset": 1525,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「でも、島に来たばかりで、どこに売っている\n　のかわからないんです」",
+      "en": "\"But, I've only moved here recently, and I don't know where\nto find it...\"",
+      "text": "\"But, I've only moved here recently, and I don't know where\nto find it...\""
+    },
+    {
+      "offset": 1599,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「なるほど……。ホウキの売ってる場所か」",
+      "en": "\"I see... a store that sells brooms.\"",
+      "text": "\"I see... a store that sells brooms.\""
+    },
+    {
+      "offset": 1672,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「……朝倉様のお時間があればでいいんですけ\n　ど……」",
+      "en": "\"If you are not free, that's fine too...\"",
+      "text": "\"If you are not free, that's fine too...\""
+    },
+    {
+      "offset": 1732,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「時間なんか、いくらでもある」",
+      "en": "\"I am, let's go.\"",
+      "text": "\"I am, let's go.\""
+    },
+    {
+      "offset": 1795,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「本当ですか？」",
+      "en": "\"You are?\"",
+      "text": "\"You are?\""
+    },
+    {
+      "offset": 1818,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ちょうどヒマをもてあましてたところなんだ。\n　環と過ごせるなんて、願ったり叶ったりだ」",
+      "en": "\"I was bored out of my mind anyway. My wish to spend time\nwith you ended up coming true.\"",
+      "text": "\"I was bored out of my mind anyway. My wish to spend time\nwith you ended up coming true.\""
+    },
+    {
+      "offset": 1938,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「えっ？」",
+      "en": "\"Ehhh?\"",
+      "text": "\"Ehhh?\""
+    },
+    {
+      "offset": 1955,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ん？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 1996,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「今……なんて？」",
+      "en": "\"What... did you say?\"",
+      "text": "\"What... did you say?\""
+    },
+    {
+      "offset": 2021,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ああ、ヒマをもてあましてたって」",
+      "en": "\"Ahh, I said I was bored out of my mind.\"",
+      "text": "\"Ahh, I said I was bored out of my mind.\""
+    },
+    {
+      "offset": 2088,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「違います、その後です！」",
+      "en": "\"No, I mean after that!\"",
+      "text": "\"No, I mean after that!\""
+    },
+    {
+      "offset": 2121,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつになく強い口調で環が言う。",
+      "en": "Her tone was unusually strong.",
+      "text": "Her tone was unusually strong."
+    },
+    {
+      "offset": 2158,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「その後って……えーっと、環と過ごせるなん\n　て願ったり叶ったり……」",
+      "en": "\"After that... erm... that my wish to spend time with you\nended up coming true...\"",
+      "text": "\"After that... erm... that my wish to spend time with you\nended up coming true...\""
+    },
+    {
+      "offset": 2260,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2279,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環の頬が赤く染まって……俺も自分の言葉が含\nむ意味に気づいた。",
+      "en": "Tamaki's cheeks started glowing red... which was when I\nrealized what my words could imply.",
+      "text": "Tamaki's cheeks started glowing red... which was when I\nrealized what my words could imply."
+    },
+    {
+      "offset": 2347,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「や、べ、別に深い意味なんてないぞ！　ただ、\n　その……俺は、ヒマだったから……」",
+      "en": "\"N, no, I didn't mean it like that! J, just that, since I\nwas bored...\"",
+      "text": "\"N, no, I didn't mean it like that! J, just that, since I\nwas bored...\""
+    },
+    {
+      "offset": 2461,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そ、そうなんですか……？」",
+      "en": "\"I, is that so...?\"",
+      "text": "\"I, is that so...?\""
+    },
+    {
+      "offset": 2496,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "心なしか落ち込んだように見える環。",
+      "en": "Now she looked depressed instead.",
+      "text": "Now she looked depressed instead."
+    },
+    {
+      "offset": 2537,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ、いや……別に誰でもいいって訳じゃなく\n　てだな、その……」",
+      "en": "\"Ah, uh... that doesn't mean just anyone would've done... I\nmean...\"",
+      "text": "\"Ah, uh... that doesn't mean just anyone would've done... I\nmean...\""
+    },
+    {
+      "offset": 2633,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「よく……わからないです」",
+      "en": "\"I... don't quite understand.\"",
+      "text": "\"I... don't quite understand.\""
+    },
+    {
+      "offset": 2666,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は、赤い顔を隠すように俯いて、そう言った。\n買い物袋を抱えたままモジモジする環。",
+      "en": "Bowing her head slightly to hide her red face, her fingers\nstarted to fidget with her bags.",
+      "text": "Bowing her head slightly to hide her red face, her fingers\nstarted to fidget with her bags."
+    },
+    {
+      "offset": 2754,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……まあ、細かいことは気にすんな」",
+      "en": "\"...Well, don't worry yourself over the details.\"",
+      "text": "\"...Well, don't worry yourself over the details.\""
+    },
+    {
+      "offset": 2797,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、結局ハハハと笑い飛ばした。",
+      "en": "I laughed heartily, trying to lighten the mood.",
+      "text": "I laughed heartily, trying to lighten the mood."
+    },
+    {
+      "offset": 2862,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そうですね」",
+      "en": "\"I suppose you're right.\"",
+      "text": "\"I suppose you're right.\""
+    },
+    {
+      "offset": 2883,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環も苦笑しながら、その場を濁した。",
+      "en": "A little smile grew on her lips as well, albeit one with a\ntad of uncertainty.",
+      "text": "A little smile grew on her lips as well, albeit one with a\ntad of uncertainty."
+    },
+    {
+      "offset": 2924,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さ、早く行かないと、遅くなるぜ？」",
+      "en": "\"Let's head off, we've spent long enough here.\"",
+      "text": "\"Let's head off, we've spent long enough here.\""
+    },
+    {
+      "offset": 2976,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は、歩き始めた俺の後ろにつく。",
+      "en": "Tamaki started following behind me.",
+      "text": "Tamaki started following behind me."
+    },
+    {
+      "offset": 3013,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、しばらくは会話もないまま、トコトコ\nと歩く俺と環。",
+      "en": "And, without any talking between us, we continued walking.",
+      "text": "And, without any talking between us, we continued walking."
+    },
+    {
+      "offset": 3086,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「あの……朝倉様」",
+      "en": "\"Um... Asakura-sama?\"",
+      "text": "\"Um... Asakura-sama?\""
+    },
+    {
+      "offset": 3111,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ん？」",
+      "en": "\"Yeah?\"",
+      "text": "\"Yeah?\""
+    },
+    {
+      "offset": 3157,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ありがとうございます」",
+      "en": "\"Thank you.\"",
+      "text": "\"Thank you.\""
+    },
+    {
+      "offset": 3188,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ひょっこりと顔を出し、隣に並んだ環がそう\n言った。",
+      "en": "She'd walked up to my side, and bowed to me.",
+      "text": "She'd walked up to my side, and bowed to me."
+    },
+    {
+      "offset": 3244,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「何がだよ？」",
+      "en": "\"Eh, why?\"",
+      "text": "\"Eh, why?\""
+    },
+    {
+      "offset": 3274,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「わたくしの買い物に付き合ってくださってで\n　す」",
+      "en": "\"For accompanying me to do my shopping...\"",
+      "text": "\"For accompanying me to do my shopping...\""
+    },
+    {
+      "offset": 3330,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「……だから言ったろ。腐るほど時間があるか\n　ら付き合うだけで……そんなの、いちいち礼\n　を言われるもんじゃない」",
+      "en": "\"...Like I said, this is much better than letting that time\ngo to waste... you don't have to thank me for something like\nthat.\"",
+      "text": "\"...Like I said, this is much better than letting that time\ngo to waste... you don't have to thank me for something like\nthat.\""
+    },
+    {
+      "offset": 3475,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そうでしょうか？」",
+      "en": "\"Is that so?\"",
+      "text": "\"Is that so?\""
+    },
+    {
+      "offset": 3502,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「何もしてないのに、お礼を言われても、逆に\n　こっちが気を遣うだけだ」",
+      "en": "\"Rather than you thanking me, I should be the one thanking\nyou.\"",
+      "text": "\"Rather than you thanking me, I should be the one thanking\nyou.\""
+    },
+    {
+      "offset": 3578,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環が、うーんと首を傾げる。",
+      "en": "Tamaki still seemed unsure though, tilting her head in\nthought.",
+      "text": "Tamaki still seemed unsure though, tilting her head in\nthought."
+    },
+    {
+      "offset": 3609,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "荷物が重いせいか、気を抜くと歩くペースがと\nたんに遅くなる。",
+      "en": "Thanks to her bags too, her walking pace was far slower than\nmine.",
+      "text": "Thanks to her bags too, her walking pace was far slower than\nmine."
+    },
+    {
+      "offset": 3675,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……やれやれ」",
+      "en": "\"...Man.\"",
+      "text": "\"...Man.\""
+    },
+    {
+      "offset": 3698,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "慌てて体勢を立て直す環の手から、俺は荷物を\n取り上げる。",
+      "en": "I took the bags from her without saying anything, and she\nlet me.",
+      "text": "I took the bags from her without saying anything, and she\nlet me."
+    },
+    {
+      "offset": 3777,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……ほら、行こうぜ」",
+      "en": "\"...Let's go.\"",
+      "text": "\"...Let's go.\""
+    },
+    {
+      "offset": 3806,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ずっしりと重い荷物に呆れながら、再び歩き出\nす。この上にホウキまで買う予定だったのか？",
+      "en": "The sheer weight of the bags surprised me. She wanted to buy\nbrooms on top of this?",
+      "text": "The sheer weight of the bags surprised me. She wanted to buy\nbrooms on top of this?"
+    },
+    {
+      "offset": 3898,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「無理すんなっての」",
+      "en": "\"You shouldn't overdo it.\"",
+      "text": "\"You shouldn't overdo it.\""
+    },
+    {
+      "offset": 3951,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「……すみません」",
+      "en": "\"...I'm sorry.\"",
+      "text": "\"...I'm sorry.\""
+    },
+    {
+      "offset": 3976,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何となく表情を暗くする環。",
+      "en": "Her demeanour became a little gloomy.",
+      "text": "Her demeanour became a little gloomy."
+    },
+    {
+      "offset": 4009,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……あー……」",
+      "en": "\"...Sigh...\"",
+      "text": "\"...Sigh...\""
+    },
+    {
+      "offset": 4032,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「だから、こういう時に、だな」",
+      "en": "\"You see, at times like this, then it's appropriate.\"",
+      "text": "\"You see, at times like this, then it's appropriate.\""
+    },
+    {
+      "offset": 4095,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「え？」",
+      "en": "\"Ehhh?\"",
+      "text": "\"Ehhh?\""
+    },
+    {
+      "offset": 4110,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ありがとう、だ」",
+      "en": "\"The words \"thank you\", I mean.\"",
+      "text": "\"The words \"thank you\", I mean.\""
+    },
+    {
+      "offset": 4161,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「あっ……」",
+      "en": "\"Ah...\"",
+      "text": "\"Ah...\""
+    },
+    {
+      "offset": 4180,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さっきの会話を思い出したのだろう。慌てて礼\nを言おうとする環だったが、俺はそれを先回り\nして。",
+      "en": "She then remembered our conversation earlier. I quickly\nforestalled her attempts to thank me.",
+      "text": "She then remembered our conversation earlier. I quickly\nforestalled her attempts to thank me."
+    },
+    {
+      "offset": 4279,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……別に礼はいらないぞ。環が重そうにして\n　歩いてるのを、俺が見てるのがかったるいか\n　ら持ってるだけだからな」",
+      "en": "\"...No need to thank me. It was just troublesome how slow\nyou were walking, carrying all that heavy stuff...\"",
+      "text": "\"...No need to thank me. It was just troublesome how slow\nyou were walking, carrying all that heavy stuff...\""
+    },
+    {
+      "offset": 4424,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「それって……」",
+      "en": "\"Well, then...\"",
+      "text": "\"Well, then...\""
+    },
+    {
+      "offset": 4447,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「なんだよ？」",
+      "en": "\"What now?\"",
+      "text": "\"What now?\""
+    },
+    {
+      "offset": 4494,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「朝倉様って、優しいですよね」",
+      "en": "\"You're a really nice person.\"",
+      "text": "\"You're a really nice person.\""
+    },
+    {
+      "offset": 4531,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環がにっこりと微笑んで言った。",
+      "en": "Tamaki smiled brilliantly at me, as she finished her\nsentence.",
+      "text": "Tamaki smiled brilliantly at me, as she finished her\nsentence."
+    },
+    {
+      "offset": 4568,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……は？」",
+      "en": "\"....Hah?\"",
+      "text": "\"....Hah?\""
+    },
+    {
+      "offset": 4587,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一瞬、環が何を言ってるかわからなくて、間抜\nけな声を出してしまった。",
+      "en": "I answered like an idiot, not understanding what she meant\nat first.",
+      "text": "I answered like an idiot, not understanding what she meant\nat first."
+    },
+    {
+      "offset": 4661,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「待て待て。俺は別に優しくないぞ？」",
+      "en": "\"Hold on now. I'm hardly particularly nice!\"",
+      "text": "\"Hold on now. I'm hardly particularly nice!\""
+    },
+    {
+      "offset": 4730,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そんなことありません。口では変なこと言っ\n　ても、肝心なところで助けてくれますもの」",
+      "en": "\"That's not true. Your mouth may say otherwise, but your\nactions are always that of helping others.\"",
+      "text": "\"That's not true. Your mouth may say otherwise, but your\nactions are always that of helping others.\""
+    },
+    {
+      "offset": 4822,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「……かったるいだけなんだがな」",
+      "en": "\"...This is so troublesome.\"",
+      "text": "\"...This is so troublesome.\""
+    },
+    {
+      "offset": 4887,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「朝倉様は優しい方です。他の誰が違うと言っ\n　ても、わたくしはそう思います……！」",
+      "en": "\"You are a very nice person. No matter what anyone might\nsay, I will always think that...!\"",
+      "text": "\"You are a very nice person. No matter what anyone might\nsay, I will always think that...!\""
+    },
+    {
+      "offset": 4992,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は胸の前で腕を組むと、微笑みながら、力強\nくそう言った。",
+      "en": "Tamaki foldered her arms over her chest, smiling and\nspeaking with a surprising amount of passion.",
+      "text": "Tamaki foldered her arms over her chest, smiling and\nspeaking with a surprising amount of passion."
+    },
+    {
+      "offset": 5056,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そ、そうか……」",
+      "en": "\"I, I see...\"",
+      "text": "\"I, I see...\""
+    },
+    {
+      "offset": 5081,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そこまで断言されると、他に言葉を見つけられ\nなくて。",
+      "en": "I couldn't find any words to counter such a declaration.",
+      "text": "I couldn't find any words to counter such a declaration."
+    },
+    {
+      "offset": 5137,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は妙に顔が｛ほて／火照｝るのを｛ごまか／誤魔化｝すように、日用\n品が売っている、ディスカウントセンターへと\n急いだ。",
+      "en": "Trying to ignore the heat from my cheeks, I led us to the\ndiscount center.",
+      "text": "Trying to ignore the heat from my cheeks, I led us to the\ndiscount center."
+    },
+    {
+      "offset": 5369,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆環の買い物◆",
+      "en": "◆amaki's Shopping?◆",
+      "text": "◆amaki's Shopping?◆"
+    },
+    {
+      "offset": 5416,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "神社に行っても誰もいなかったため、商店街を\nふらついていると、買い物する環に出会う。",
+      "en": "Seeing no one at the shrine, I headed out for the shopping\ndistrict, and met Tamaki.",
+      "text": "Seeing no one at the shrine, I headed out for the shopping\ndistrict, and met Tamaki."
+    },
+    {
+      "offset": 5504,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "聞けば、｛たけぼうき／竹箒｝の売っている場所が分からないと\n言う。",
+      "en": "According to her, she hadn't any idea where to buy bamboo\nbrooms.",
+      "text": "According to her, she hadn't any idea where to buy bamboo\nbrooms."
+    },
+    {
+      "offset": 5574,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あまりに重そうに荷物を持っているので、代わ\nりに持ってやると、環が俺のことを優しいと言\nうのだった。",
+      "en": "Seeing that she was carrying such heavy bags, I carried them\nin her place, and she remarked that I was a nice person.",
+      "text": "Seeing that she was carrying such heavy bags, I carried them\nin her place, and she remarked that I was a nice person."
+    },
+    {
+      "offset": 5677,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、環がひーひー言ってるのがかったるいか\nら持ってやっただけなんだがな。",
+      "en": "All I could do was sigh at how troublesome it all was.",
+      "text": "All I could do was sigh at how troublesome it all was."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "799": "Tamaki",
+    "911": "Tamaki",
+    "1168": "Tamaki",
+    "1266": "Tamaki",
+    "1426": "Tamaki",
+    "1519": "Tamaki",
+    "1666": "Tamaki",
+    "1789": "Tamaki",
+    "1932": "Tamaki",
+    "1990": "Tamaki",
+    "2082": "Tamaki",
+    "2254": "Tamaki",
+    "2455": "Tamaki",
+    "2627": "Tamaki",
+    "2856": "Tamaki",
+    "3080": "Tamaki",
+    "3151": "Tamaki",
+    "3268": "Tamaki",
+    "3469": "Tamaki",
+    "3945": "Tamaki",
+    "4089": "Tamaki",
+    "4155": "Tamaki",
+    "4418": "Tamaki",
+    "4488": "Tamaki",
+    "4724": "Tamaki",
+    "4881": "Tamaki"
+  }
+}

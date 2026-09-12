@@ -1,0 +1,505 @@
+{
+  "scene": "script_0065.obj",
+  "dialogues": [
+    {
+      "offset": 149,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "風見学園には、俺が足を踏み入れることがない\n場所が３つある。",
+      "en": "There are only three places in Kazami Academy that I have\nnever set foot in.",
+      "text": "There are only three places in Kazami Academy that I have\nnever set foot in."
+    },
+    {
+      "offset": 213,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "女子トイレと、女子更衣室と、図書室だ。",
+      "en": "The girl's bathroom, the girl's locker room, and the\nlibrary.",
+      "text": "The girl's bathroom, the girl's locker room, and the\nlibrary."
+    },
+    {
+      "offset": 256,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、そうは言っても、用事があれば、絶対に\n行かないと言う訳ではない。",
+      "en": "Well, more accurately, if I don't have a specific reason to\ngo there, I never will.",
+      "text": "Well, more accurately, if I don't have a specific reason to\ngo there, I never will."
+    },
+    {
+      "offset": 330,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "前者ふたつは、さすがに入ったことはないな。",
+      "en": "Of course, for the first two, there's absolutely no reason\nfor me to enter.",
+      "text": "Of course, for the first two, there's absolutely no reason\nfor me to enter."
+    },
+    {
+      "offset": 377,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……いや、昼寝をしに、時々来るな。",
+      "en": "But there is for the last. For example, when I need to take\na lunchtime nap.",
+      "text": "But there is for the last. For example, when I need to take\na lunchtime nap."
+    },
+    {
+      "offset": 416,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さて、そんな俺が図書室に来た理由は、今回は\nただひとつ。",
+      "en": "However, this time, my reason for going there was slightly\ndifferent--",
+      "text": "However, this time, my reason for going there was slightly\ndifferent--"
+    },
+    {
+      "offset": 547,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さんゴメン。私ひとりじゃこれ運べなくて」",
+      "en": "\"Nii-san, could you...? I can't bring these over by myself.\"",
+      "text": "\"Nii-san, could you...? I can't bring these over by myself.\""
+    },
+    {
+      "offset": 598,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「４時限目に使った国語辞典か？」",
+      "en": "\"The dictionaries we used for fourth period?\"",
+      "text": "\"The dictionaries we used for fourth period?\""
+    },
+    {
+      "offset": 648,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そう。ちょっと量が多くて」",
+      "en": "\"Yes, there's a lot of them...\"",
+      "text": "\"Yes, there's a lot of them...\""
+    },
+    {
+      "offset": 683,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「他にも言いつけられたヤツいなかったか？」",
+      "en": "\"There isn't anyone else you can ask?\"",
+      "text": "\"There isn't anyone else you can ask?\""
+    },
+    {
+      "offset": 760,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「その……、ほら紫さん細いから大変そうで\n　しょ？　私、つい変わってあげるって言っ\n　ちゃって」",
+      "en": "\"Well... look at Murasaki-san for yourself, do you think she\ncould? I don't have the heart to ask her.\"",
+      "text": "\"Well... look at Murasaki-san for yourself, do you think she\ncould? I don't have the heart to ask her.\""
+    },
+    {
+      "offset": 861,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「自業自得だ。自分も身体弱いクセに、ヘンに\n　いいカッコしようとするからだろ」",
+      "en": "\"You should pay for your own mistakes. You knew you weren't\ngoing to be able to do it, yet volunteered so eagerly for\nit.\"",
+      "text": "\"You should pay for your own mistakes. You knew you weren't\ngoing to be able to do it, yet volunteered so eagerly for\nit.\""
+    },
+    {
+      "offset": 973,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そうなんですけど……、じゃあ兄さんは私が\n　どうなってもいいと？」",
+      "en": "\"That's true, but... well, then what do you think I should\ndo?\"",
+      "text": "\"That's true, but... well, then what do you think I should\ndo?\""
+    },
+    {
+      "offset": 1047,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そんなことは……」",
+      "en": "\"Uh, that's...\"",
+      "text": "\"Uh, that's...\""
+    },
+    {
+      "offset": 1102,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「可愛い妹が重労働の果てに倒れてしまったら、\n　朝倉家はいったいどうなって……」",
+      "en": "\"Letting your adorable sister collapse due to too much hard\nlabour, what would our family think...\"",
+      "text": "\"Letting your adorable sister collapse due to too much hard\nlabour, what would our family think...\""
+    },
+    {
+      "offset": 1188,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……わかった。わかったよ。図書室まで運べ\n　ばいいんだろ？」",
+      "en": "\"...Okay, okay, I got it. Just take these to the library,\nright?\"",
+      "text": "\"...Okay, okay, I got it. Just take these to the library,\nright?\""
+    },
+    {
+      "offset": 1303,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「で、なんで俺が全部運ばなきゃならんのだ！」",
+      "en": "\"...Then why did I end up carrying all of them!?\"",
+      "text": "\"...Then why did I end up carrying all of them!?\""
+    },
+    {
+      "offset": 1354,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "結局、手伝ってやると言うより、肩代わりとい\nう方が正しいという感じだ。",
+      "en": "In the end, I was a substitute more than a helper.",
+      "text": "In the end, I was a substitute more than a helper."
+    },
+    {
+      "offset": 1428,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、２０冊近くある国語辞典を、棚に収めて\nいく。",
+      "en": "I slowly started to place the 20 dictionaries back on their\nrespective shelves.",
+      "text": "I slowly started to place the 20 dictionaries back on their\nrespective shelves."
+    },
+    {
+      "offset": 1482,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今晩はたっぷりとサービスしてもらわないと割\nに合わないな。",
+      "en": "She owes me one hell of a take-out for this tonight...",
+      "text": "She owes me one hell of a take-out for this tonight..."
+    },
+    {
+      "offset": 1544,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふと、窓際に見覚えのある女の子が座って本を\n読んでいるのが見えた。あれは……月城だ。",
+      "en": "I looked around, and noticed a familiar-looking female\nsitting at a desk, and reading a book. ...It's Tsukishiro.",
+      "text": "I looked around, and noticed a familiar-looking female\nsitting at a desk, and reading a book. ...It's Tsukishiro."
+    },
+    {
+      "offset": 1632,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "黒い手袋をはめたまま、器用にページをめくっ\nている。",
+      "en": "Even while wearing the black gloves, she skillfully brushed\npast each page.",
+      "text": "Even while wearing the black gloves, she skillfully brushed\npast each page."
+    },
+    {
+      "offset": 1688,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "読んでいるのは、やたらとでかくて分厚い本だっ\nた。",
+      "en": "The book she was reading was nothing short of huge.",
+      "text": "The book she was reading was nothing short of huge."
+    },
+    {
+      "offset": 1742,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "例の人形は、膝の上に置かれている。",
+      "en": "The usual doll was sitting quietly in her lap.",
+      "text": "The usual doll was sitting quietly in her lap."
+    },
+    {
+      "offset": 1783,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「月城、何読んでるんだ？」",
+      "en": "\"What're you reading, Tsukishiro?\"",
+      "text": "\"What're you reading, Tsukishiro?\""
+    },
+    {
+      "offset": 1816,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は本に落ちた俺の影に気づき、ふっと顔を\nあげる。",
+      "en": "Noticing my shadow falling onto her book, she gazed up at\nme.",
+      "text": "Noticing my shadow falling onto her book, she gazed up at\nme."
+    },
+    {
+      "offset": 1914,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……植物図鑑」",
+      "en": "\"...A plant encyclopedia.\"",
+      "text": "\"...A plant encyclopedia.\""
+    },
+    {
+      "offset": 1937,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は、めくっていた手をどける。その下には\nなにやら、小難しそうな文字の羅列が、落書き\nのようなスケッチと一緒に並んでいた。",
+      "en": "She removed her hand from over the book, to reveal a piece\nof paper with a rough sketch of a plant on it.",
+      "text": "She removed her hand from over the book, to reveal a piece\nof paper with a rough sketch of a plant on it."
+    },
+    {
+      "offset": 2066,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「こんなの読んでるんだ。もしかして、体育館\n　とこの草を調べてんのか？」",
+      "en": "\"So that's what you're looking at... I guess regarding the\nplant behind the gym?\"",
+      "text": "\"So that's what you're looking at... I guess regarding the\nplant behind the gym?\""
+    },
+    {
+      "offset": 2161,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こくんと頷く月城。",
+      "en": "She nodded.",
+      "text": "She nodded."
+    },
+    {
+      "offset": 2186,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「もしかして、あの草の名前、知らないんじゃ」",
+      "en": "\"You mean, you don't know that plant's name?\"",
+      "text": "\"You mean, you don't know that plant's name?\""
+    },
+    {
+      "offset": 2237,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふるふると首を振る月城。",
+      "en": "A shake of the head no, this time.",
+      "text": "A shake of the head no, this time."
+    },
+    {
+      "offset": 2285,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「育て方を調べてるとか？」",
+      "en": "\"Then, you're trying to find out how to take care of it\nproperly?\"",
+      "text": "\"Then, you're trying to find out how to take care of it\nproperly?\""
+    },
+    {
+      "offset": 2318,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こくこくんと頷く月城。",
+      "en": "A series of nods again.",
+      "text": "A series of nods again."
+    },
+    {
+      "offset": 2364,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんかさ……、わかりづらいから、前みたい\n　に、人形を使って喋ってくれよ」",
+      "en": "\"Ehhnn... it's hard to talk like this, maybe you should get\nyour doll to talk again like before.\"",
+      "text": "\"Ehhnn... it's hard to talk like this, maybe you should get\nyour doll to talk again like before.\""
+    },
+    {
+      "offset": 2446,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城の表情が、固くこわばる。",
+      "en": "Her expression suddenly stiffened.",
+      "text": "Her expression suddenly stiffened."
+    },
+    {
+      "offset": 2479,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、辺りを見回す。",
+      "en": "She then took a look around the library.",
+      "text": "She then took a look around the library."
+    },
+    {
+      "offset": 2506,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "同じように辺りを見回す。",
+      "en": "I did the same as well.",
+      "text": "I did the same as well."
+    },
+    {
+      "offset": 2552,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "普通に、何人かがおとなしく本を読んでいる。\n他には、昼休憩だというのに、カリカリ熱心に\n鉛筆を取っているヤツがいるくらいだ。",
+      "en": "Nothing out of the ordinary. Just a few people quietly\nreading books, and a couple of people scribbling furiously\nwith pencils.",
+      "text": "Nothing out of the ordinary. Just a few people quietly\nreading books, and a couple of people scribbling furiously\nwith pencils."
+    },
+    {
+      "offset": 2681,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「別になんにもないぞ？」",
+      "en": "\"There's nothing weird around, is there?\"",
+      "text": "\"There's nothing weird around, is there?\""
+    },
+    {
+      "offset": 2712,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "すると、月城は少し悲しそうな顔をし、ふるふ\nると首を横に振った。",
+      "en": "But after her surveying, she sadly shook her head towards\nme.",
+      "text": "But after her surveying, she sadly shook her head towards\nme."
+    },
+    {
+      "offset": 2812,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……ダメ」",
+      "en": "\"...I can't.\"",
+      "text": "\"...I can't.\""
+    },
+    {
+      "offset": 2831,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は、視線を本に戻し、またさっきと同じよ\nうに本の続きを読み始めた。",
+      "en": "Returning her eyes to her book, she resumed her vigilant\nreading.",
+      "text": "Returning her eyes to her book, she resumed her vigilant\nreading."
+    },
+    {
+      "offset": 2905,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何がダメなのかよくわからないが、これ以上月\n城は俺と話す気はないっぽいな。",
+      "en": "I don't know exactly what she can't do, but it seems like\nshe's in no mood to talk.",
+      "text": "I don't know exactly what she can't do, but it seems like\nshe's in no mood to talk."
+    },
+    {
+      "offset": 2985,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「邪魔して、悪かったな」",
+      "en": "\"Sorry for bothering you.\"",
+      "text": "\"Sorry for bothering you.\""
+    },
+    {
+      "offset": 3016,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本を一生懸命読んでいる月城に、苦笑気味に、\nそういい立ち去ることにした。",
+      "en": "With a touch of bitterness in my words, I started to leave,\nas she continued reading as if her life depended on it.",
+      "text": "With a touch of bitterness in my words, I started to leave,\nas she continued reading as if her life depended on it."
+    },
+    {
+      "offset": 3124,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……朝倉、先輩」",
+      "en": "\"...Asakura, senpai.\"",
+      "text": "\"...Asakura, senpai.\""
+    },
+    {
+      "offset": 3149,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ガラスのようなトーンの声。",
+      "en": "A voice with the tone of glass.",
+      "text": "A voice with the tone of glass."
+    },
+    {
+      "offset": 3182,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「？」",
+      "en": "\"?\"",
+      "text": "\"?\""
+    },
+    {
+      "offset": 3225,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……サヨナラ」",
+      "en": "\"...Farewell.\"",
+      "text": "\"...Farewell.\""
+    },
+    {
+      "offset": 3248,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は、立ち上がって、そう言うと、ぺこりと\n頭をさげた。",
+      "en": "Tsukishiro stood up as well as she talked, and bowed.",
+      "text": "Tsukishiro stood up as well as she talked, and bowed."
+    },
+    {
+      "offset": 3310,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ああ、またな」",
+      "en": "\"Ahh, later.\"",
+      "text": "\"Ahh, later.\""
+    },
+    {
+      "offset": 3333,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の言葉を聞くと、また何事もなかったように\n本を読み始めた。",
+      "en": "Hearing my farewell as well, she went back to reading her\nbook, as if nothing had happened.",
+      "text": "Hearing my farewell as well, she went back to reading her\nbook, as if nothing had happened."
+    },
+    {
+      "offset": 3406,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだか拍子抜けしてしまうが、どうやら挨拶\nだったらしい。悪くは思われていないようだ。",
+      "en": "I was a bit disappointed that a goodbye was all she wanted\nto say. She probably didn't mean anything bad, though.",
+      "text": "I was a bit disappointed that a goodbye was all she wanted\nto say. She probably didn't mean anything bad, though."
+    },
+    {
+      "offset": 3496,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、図書室なんて、俺にとってはさほど面白\nい場所ではない。さっさと教室に帰ろう。",
+      "en": "This place isn't very interesting otherwise. I should just\nhead back to class.",
+      "text": "This place isn't very interesting otherwise. I should just\nhead back to class."
+    },
+    {
+      "offset": 3582,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "帰り際、受付の女の子がズレるメガネを一生懸\n命直しながら、少年雑誌を読んでいたのが印象\n的だった。",
+      "en": "On the way out, I passed by the receptionist, struggling\nwith keeping her glasses on her face, reading shounen manga.",
+      "text": "On the way out, I passed by the receptionist, struggling\nwith keeping her glasses on her face, reading shounen manga."
+    },
+    {
+      "offset": 3812,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆植物図鑑◆",
+      "en": "◆Plant Eyclopedia◆",
+      "text": "◆Plant Eyclopedia◆"
+    },
+    {
+      "offset": 3853,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "野暮用で、図書室に行く用事があった。",
+      "en": "I went to the library, with \"minor business\" to attend to.",
+      "text": "I went to the library, with \"minor business\" to attend to."
+    },
+    {
+      "offset": 3894,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "図書室では、月城がなにか植物図鑑のようなも\nのを熱心に読んでいた。",
+      "en": "Inside, I spied Alice, fervently reading a plant\nencyclopedia.",
+      "text": "Inside, I spied Alice, fervently reading a plant\nencyclopedia."
+    },
+    {
+      "offset": 3964,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城のことが気になっている俺は、いろいろ｛き／訊｝\nいてみはしたのだが、例によってカベを作られ\nてしまった。",
+      "en": "I tried to talk to her about various things, but I couldn't\nget past the wall she had erected around herself.",
+      "text": "I tried to talk to her about various things, but I couldn't\nget past the wall she had erected around herself."
+    },
+    {
+      "offset": 4075,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なかなか難しいものだ。",
+      "en": "She's a difficult one.",
+      "text": "She's a difficult one."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "539": "Nemu",
+    "640": "Nemu",
+    "752": "Nemu",
+    "965": "Nemu",
+    "1094": "Nemu",
+    "1904": "Alice",
+    "2802": "Alice",
+    "3114": "Alice",
+    "3215": "Alice"
+  }
+}

@@ -1,0 +1,508 @@
+{
+  "scene": "script_0116.obj",
+  "dialogues": [
+    {
+      "offset": 127,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "商店街で田端や工藤とブラブラしているうちに、\nあっという間に金が尽きてしまった。",
+      "en": "I spent all of my money while hanging around with my friends\nat the promenade.",
+      "text": "I spent all of my money while hanging around with my friends\nat the promenade."
+    },
+    {
+      "offset": 213,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「遊んだ遊んだ……さって、そろそろ帰るかな」",
+      "en": "\"That was fun...... but it's time to go home.\"",
+      "text": "\"That was fun...... but it's time to go home.\""
+    },
+    {
+      "offset": 264,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もう遅い。そろそろ音夢も心配するかも知れな\nいし、テスト前の開放感にも区切れをつけるべ\nきだろう。",
+      "en": "It was getting late. Nemu might be getting worried, and I\nshould also be studying for the exam.",
+      "text": "It was getting late. Nemu might be getting worried, and I\nshould also be studying for the exam."
+    },
+    {
+      "offset": 367,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「すぐに春なんだなぁ」",
+      "en": "\"Spring's near.\"",
+      "text": "\"Spring's near.\""
+    },
+    {
+      "offset": 404,
+      "speaker": "A mysterious voice",
+      "speaker_jp": "謎の声",
+      "jp": "「わたしは夏のほうが好きだけどね〜」",
+      "en": "\"I like summer better.\"",
+      "text": "\"I like summer better.\""
+    },
+    {
+      "offset": 447,
+      "speaker": "A mysterious voice",
+      "speaker_jp": "謎の声",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 466,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "明らかに俺の言葉に続けたとしか思えない声に、\nゆっくりと振り返る。",
+      "en": "I turned around slowly to see where the voice came from.",
+      "text": "I turned around slowly to see where the voice came from."
+    },
+    {
+      "offset": 550,
+      "speaker": "Girl with hat",
+      "speaker_jp": "帽子の少女",
+      "jp": "「おはよう――じゃなかった、こんにちは」",
+      "en": "\"Good morning... I mean, good afternoon.\"",
+      "text": "\"Good morning... I mean, good afternoon.\""
+    },
+    {
+      "offset": 597,
+      "speaker": "Girl with hat",
+      "speaker_jp": "帽子の少女",
+      "jp": "「こんにちは」",
+      "en": "\"Good afternoon.\"",
+      "text": "\"Good afternoon.\""
+    },
+    {
+      "offset": 618,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "帽子をかぶったお嬢様然とした少女が立ってい\nた。",
+      "en": "There was a girl in a hat standing there.",
+      "text": "There was a girl in a hat standing there."
+    },
+    {
+      "offset": 684,
+      "speaker": "Girl with hat",
+      "speaker_jp": "帽子の少女",
+      "jp": "「凄いですねココは。こんなにお店があって！\n　コンビニもたくさん♪」",
+      "en": "\"This place is great. There are so many stores! ...Even many\nconvenience stores!\"",
+      "text": "\"This place is great. There are so many stores! ...Even many\nconvenience stores!\""
+    },
+    {
+      "offset": 758,
+      "speaker": "Girl with hat",
+      "speaker_jp": "帽子の少女",
+      "jp": "「たくさん？」",
+      "en": "\"Many?\"",
+      "text": "\"Many?\""
+    },
+    {
+      "offset": 779,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見渡す限りには２軒ほどしかないが。",
+      "en": "I can only see two of them.",
+      "text": "I can only see two of them."
+    },
+    {
+      "offset": 832,
+      "speaker": "Girl with hat",
+      "speaker_jp": "帽子の少女",
+      "jp": "「だから、コンビニを目印に待ち合わせをした\n　ら道に迷ってしまって」",
+      "en": "\"That's why I'm lost, as I was supposed to meet someone at\nthe convenience store.\"",
+      "text": "\"That's why I'm lost, as I was supposed to meet someone at\nthe convenience store.\""
+    },
+    {
+      "offset": 906,
+      "speaker": "Girl with hat",
+      "speaker_jp": "帽子の少女",
+      "jp": "「えと……迷子なんですか？」",
+      "en": "\"Um...... are you lost?\"",
+      "text": "\"Um...... are you lost?\""
+    },
+    {
+      "offset": 953,
+      "speaker": "Girl with hat",
+      "speaker_jp": "帽子の少女",
+      "jp": "「道に迷ってしまって」",
+      "en": "\"I lost my way.\"",
+      "text": "\"I lost my way.\""
+    },
+    {
+      "offset": 982,
+      "speaker": "Girl with hat",
+      "speaker_jp": "帽子の少女",
+      "jp": "「だから迷子――」",
+      "en": "\"So you're lost...\"",
+      "text": "\"So you're lost...\""
+    },
+    {
+      "offset": 1019,
+      "speaker": "Girl with hat",
+      "speaker_jp": "帽子の少女",
+      "jp": "「道に迷ったんですぅ！」",
+      "en": "\"I just lost my way!\"",
+      "text": "\"I just lost my way!\""
+    },
+    {
+      "offset": 1050,
+      "speaker": "Girl with hat",
+      "speaker_jp": "帽子の少女",
+      "jp": "「……じゃあ、道に迷ったということで」",
+      "en": "\"......Okay, so you lost your way.\"",
+      "text": "\"......Okay, so you lost your way.\""
+    },
+    {
+      "offset": 1095,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "意味は同じだと思うのだが、帽子の少女はニッ\nコリと笑って小首をかしげる。",
+      "en": "I think they both have the same meaning, but the girl\ninsisted with a tilt of her head and a smile.",
+      "text": "I think they both have the same meaning, but the girl\ninsisted with a tilt of her head and a smile."
+    },
+    {
+      "offset": 1171,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんと言うのか、勝ち目のない笑い方だと思っ\nた。",
+      "en": "I don't know how to describe it, but it was a perfect smile.",
+      "text": "I don't know how to describe it, but it was a perfect smile."
+    },
+    {
+      "offset": 1237,
+      "speaker": "Girl with hat",
+      "speaker_jp": "帽子の少女",
+      "jp": "「こんなに道が枝分かれしてると、あみだくじ\n　みたいで面白いですよね？」",
+      "en": "\"It's fun to have so many streets like this, it's like a\nmaze.\"",
+      "text": "\"It's fun to have so many streets like this, it's like a\nmaze.\""
+    },
+    {
+      "offset": 1315,
+      "speaker": "Girl with hat",
+      "speaker_jp": "帽子の少女",
+      "jp": "「……そうですね」",
+      "en": "\"......Yes.\"",
+      "text": "\"......Yes.\""
+    },
+    {
+      "offset": 1340,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんとなく、この人が道に迷う理由が分かる気\nがする。",
+      "en": "I can kind of see why this girl gets lost.",
+      "text": "I can kind of see why this girl gets lost."
+    },
+    {
+      "offset": 1410,
+      "speaker": "Girl with hat",
+      "speaker_jp": "帽子の少女",
+      "jp": "「で、道を教えて欲しいんですけど。ここに地\n　図があって」",
+      "en": "\"So, I'd like to ask for directions. I have a map here.\"",
+      "text": "\"So, I'd like to ask for directions. I have a map here.\""
+    },
+    {
+      "offset": 1474,
+      "speaker": "Girl with hat",
+      "speaker_jp": "帽子の少女",
+      "jp": "「はい……おぉ！」",
+      "en": "\"Yes......Wow!\"",
+      "text": "\"Yes......Wow!\""
+    },
+    {
+      "offset": 1499,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少女から渡された地図は、手書きなのだが市販\nの物と変わらない緻密さで、しかも細かい注釈\nまでついていた。",
+      "en": "The map she handed to me was hand written but with as much\ndetail as a regular map, and it even had some notes.",
+      "text": "The map she handed to me was hand written but with as much\ndetail as a regular map, and it even had some notes."
+    },
+    {
+      "offset": 1608,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（しかし、なんだこれ？）",
+      "en": "(What's this?)",
+      "text": "(What's this?)"
+    },
+    {
+      "offset": 1639,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "紙の端に、買い食いしない、寄り道しない、車\nに気をつける――など、子供のお使いレベルの\n注意が記されている。",
+      "en": "There were things written on the edge of the map like -- no\nsnacking, no making extra stops, be careful with cars.",
+      "text": "There were things written on the edge of the map like -- no\nsnacking, no making extra stops, be careful with cars."
+    },
+    {
+      "offset": 1750,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この人は、どんな田舎から出てきた人なんだ？",
+      "en": "Is she from the countryside?",
+      "text": "Is she from the countryside?"
+    },
+    {
+      "offset": 1797,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見た目は掛け値なしの美人だし、本当の箱入り\n娘のお嬢様なのかも知れない。",
+      "en": "She's very beautiful, and seems to be from a wealthy family.",
+      "text": "She's very beautiful, and seems to be from a wealthy family."
+    },
+    {
+      "offset": 1887,
+      "speaker": "Girl with hat",
+      "speaker_jp": "帽子の少女",
+      "jp": "「この地図、見づらいですよね？」",
+      "en": "\"This map's hard to read, isn't it?\"",
+      "text": "\"This map's hard to read, isn't it?\""
+    },
+    {
+      "offset": 1926,
+      "speaker": "Girl with hat",
+      "speaker_jp": "帽子の少女",
+      "jp": "「いや……ほとんどこの通りでいいんですけ\n　ど？」",
+      "en": "\"Not really...... it looks pretty good to me.\"",
+      "text": "\"Not really...... it looks pretty good to me.\""
+    },
+    {
+      "offset": 1982,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "教えるべきこともないレベルだ。",
+      "en": "Nothing much to add.",
+      "text": "Nothing much to add."
+    },
+    {
+      "offset": 2031,
+      "speaker": "Girl with hat",
+      "speaker_jp": "帽子の少女",
+      "jp": "「文字で書かれるより、その場の風景とか看板\n　のほうがいいんだけど……蒼司くんも意地悪\n　なんだから」",
+      "en": "\"It's easier to read if there are descriptions of the views\nand signs...... Soji-kun isn't very kind.\"",
+      "text": "\"It's easier to read if there are descriptions of the views\nand signs...... Soji-kun isn't very kind.\""
+    },
+    {
+      "offset": 2138,
+      "speaker": "Girl with hat",
+      "speaker_jp": "帽子の少女",
+      "jp": "「はぁ……」",
+      "en": "\"Sigh......\"",
+      "text": "\"Sigh......\""
+    },
+    {
+      "offset": 2157,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この場に居ない人間への愚痴をこぼされても、\n拾うことは出来ない。",
+      "en": "I can't agree with her and complain about someone who isn't\nhere.",
+      "text": "I can't agree with her and complain about someone who isn't\nhere."
+    },
+    {
+      "offset": 2225,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "案内するしかないか――と思いかけた時、パッ\nと少女の顔つきが明るく変わった。",
+      "en": "I was thinking of escorting her to the meeting place by\nmyself... and at that moment, her face lit up.",
+      "text": "I was thinking of escorting her to the meeting place by\nmyself... and at that moment, her face lit up."
+    },
+    {
+      "offset": 2315,
+      "speaker": "Boyfriend?",
+      "speaker_jp": "彼氏？",
+      "jp": "「さやか先輩！」",
+      "en": "\"Sayaka-sempai!\"",
+      "text": "\"Sayaka-sempai!\""
+    },
+    {
+      "offset": 2350,
+      "speaker": "Girl with hat",
+      "speaker_jp": "帽子の少女",
+      "jp": "「蒼司く〜ん」",
+      "en": "\"Soji-kun!\"",
+      "text": "\"Soji-kun!\""
+    },
+    {
+      "offset": 2371,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "人が変わったかと思うほど、恐ろしく子供っぽ\nくなって手を振る少女。",
+      "en": "Her voice changed to a very childish voice, and she waved at\nthe guy.",
+      "text": "Her voice changed to a very childish voice, and she waved at\nthe guy."
+    },
+    {
+      "offset": 2451,
+      "speaker": "Boyfriend?",
+      "speaker_jp": "彼氏？",
+      "jp": "「やっぱり道に迷ってたんですね？」",
+      "en": "\"I thought you must be lost.\"",
+      "text": "\"I thought you must be lost.\""
+    },
+    {
+      "offset": 2504,
+      "speaker": "Girl with hat",
+      "speaker_jp": "帽子の少女",
+      "jp": "「地図分かり辛いよ〜、よよよ」",
+      "en": "\"Your map was hard to read.\"",
+      "text": "\"Your map was hard to read.\""
+    },
+    {
+      "offset": 2549,
+      "speaker": "Boyfriend?",
+      "speaker_jp": "彼氏？",
+      "jp": "「……買い食いしましたね？」",
+      "en": "\"......Did you snack on the way?\"",
+      "text": "\"......Did you snack on the way?\""
+    },
+    {
+      "offset": 2596,
+      "speaker": "Girl with hat",
+      "speaker_jp": "帽子の少女",
+      "jp": "「う……あははははは♪」",
+      "en": "\"Um......hahaha!\"",
+      "text": "\"Um......hahaha!\""
+    },
+    {
+      "offset": 2627,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とても分かりやすい笑い方だ。",
+      "en": "It was very easy to tell from her answer.",
+      "text": "It was very easy to tell from her answer."
+    },
+    {
+      "offset": 2670,
+      "speaker": "Boyfriend?",
+      "speaker_jp": "彼氏？",
+      "jp": "「どうも連れがご迷惑をおかけしました」",
+      "en": "\"I'm sorry for the trouble.\"",
+      "text": "\"I'm sorry for the trouble.\""
+    },
+    {
+      "offset": 2715,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、後から来た蒼司という少年が頭を下げる。",
+      "en": "The guy apologized at me.",
+      "text": "The guy apologized at me."
+    },
+    {
+      "offset": 2764,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いえ、特になにもしてませんから」",
+      "en": "\"It was no trouble.\"",
+      "text": "\"It was no trouble.\""
+    },
+    {
+      "offset": 2805,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "妙な礼儀正しさに慌ててしまう。",
+      "en": "I got nervous with his politeness.",
+      "text": "I got nervous with his politeness."
+    },
+    {
+      "offset": 2840,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少年は、俺よりも少し年上といったところだろ\nうが、これが大人なんだと分かる物腰だ。",
+      "en": "He looked a little older than me, but acted like an adult.",
+      "text": "He looked a little older than me, but acted like an adult."
+    },
+    {
+      "offset": 2936,
+      "speaker": "Boyfriend?",
+      "speaker_jp": "彼氏？",
+      "jp": "「では。先輩行きますよ」",
+      "en": "\"Shall we go?\"",
+      "text": "\"Shall we go?\""
+    },
+    {
+      "offset": 2979,
+      "speaker": "Girl with hat",
+      "speaker_jp": "帽子の少女",
+      "jp": "「は〜い。ばいび〜♪」",
+      "en": "\"Okay. Bye!\"",
+      "text": "\"Okay. Bye!\""
+    },
+    {
+      "offset": 3016,
+      "speaker": "Boyfriend?",
+      "speaker_jp": "彼氏？",
+      "jp": "「ありがとうございました……先輩、挨拶はさ\n　ようならです」",
+      "en": "\"Thank you very much for your help...... Sempai, please\nthank him properly.\"",
+      "text": "\"Thank you very much for your help...... Sempai, please\nthank him properly.\""
+    },
+    {
+      "offset": 3091,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふたりは痴話喧嘩しながらも、お互いを知り尽\nくしたような雰囲気で道を去っていく。",
+      "en": "They were talking to each other just like a married couple.",
+      "text": "They were talking to each other just like a married couple."
+    },
+    {
+      "offset": 3177,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんだったんだ一体……」",
+      "en": "\"What was that......?\"",
+      "text": "\"What was that......?\""
+    },
+    {
+      "offset": 3210,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "取り残された俺は、とても騒がしい馬鹿ップル\nの背中を見送りながら、カラスの鳴き声を聞い\nていた。",
+      "en": "I watched the silly couple disappear and listened to the\ncrows.",
+      "text": "I watched the silly couple disappear and listened to the\ncrows."
+    },
+    {
+      "offset": 3413,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆謎の馬鹿ップル◆",
+      "en": "◆Unknown silly couple◆",
+      "text": "◆Unknown silly couple◆"
+    },
+    {
+      "offset": 3462,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "謎のバカップルに出会ってしまった。",
+      "en": "I encountered an unknown silly couple.",
+      "text": "I encountered an unknown silly couple."
+    },
+    {
+      "offset": 3501,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "女の人の方は迷子に──本人は、この呼称をか\nたくなに否定していたが──なっていたらしい。\n彼氏が見つけて、事なきを得たのだが。",
+      "en": "The girl was lost --although she insisted that she wasn't\nlost-- Her boyfriend showed up to find her in time.",
+      "text": "The girl was lost --although she insisted that she wasn't\nlost-- Her boyfriend showed up to find her in time."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "394": "A mysterious voice",
+    "536": "Girl with hat",
+    "670": "Girl with hat",
+    "818": "Girl with hat",
+    "939": "Girl with hat",
+    "1005": "Girl with hat",
+    "1223": "Girl with hat",
+    "1396": "Girl with hat",
+    "1873": "Girl with hat",
+    "2017": "Girl with hat",
+    "2305": "Boyfriend?",
+    "2336": "Girl with hat",
+    "2441": "Boyfriend?",
+    "2490": "Girl with hat",
+    "2539": "Boyfriend?",
+    "2582": "Girl with hat",
+    "2660": "Boyfriend?",
+    "2926": "Boyfriend?",
+    "2965": "Girl with hat",
+    "3006": "Boyfriend?"
+  }
+}

@@ -1,0 +1,469 @@
+{
+  "scene": "script_0380.obj",
+  "dialogues": [
+    {
+      "offset": 147,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「とは言ってもな……」",
+      "en": "\"Well, what am I gonna do?\"",
+      "text": "\"Well, what am I gonna do?\""
+    },
+    {
+      "offset": 176,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぼんやりと窓辺の日向に｛たたず／佇｝みながら、グラウン\nドを見下ろす。",
+      "en": "I stare blankly down at the field, standing by a sunny\nwindow.",
+      "text": "I stare blankly down at the field, standing by a sunny\nwindow."
+    },
+    {
+      "offset": 250,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "当たり前ながら、自由参加の時点で主催者側に\n回らない学生が帰っていく。",
+      "en": "It's obvious that the students who don't participate in the\nevent are going home now.",
+      "text": "It's obvious that the students who don't participate in the\nevent are going home now."
+    },
+    {
+      "offset": 324,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "かく言う俺も、別段これといってやることもな\nく、部活にも入っていないので強制される作業\nもない。",
+      "en": "I have no specific duties to do, because I don't belong to\nany club or team.",
+      "text": "I have no specific duties to do, because I don't belong to\nany club or team."
+    },
+    {
+      "offset": 425,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 440,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふと、下にさくらがいることに気づいた。",
+      "en": "I suddenly see Sakura down there.",
+      "text": "I suddenly see Sakura down there."
+    },
+    {
+      "offset": 506,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……なにやってるんだアイツ？」",
+      "en": "\"What is she doing there?\"",
+      "text": "\"What is she doing there?\""
+    },
+    {
+      "offset": 545,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "誰が置いた物か、猫のエサであろう魚を、白猫\nと一緒に覗き込んでいる。",
+      "en": "She and her white cat are staring at the fish, which\nsomebody must have left there.",
+      "text": "She and her white cat are staring at the fish, which\nsomebody must have left there."
+    },
+    {
+      "offset": 617,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ここからでは声までは聞こえないが、“にゃ〜”\n“うにゃ〜”と呟いているのだろう。",
+      "en": "I can't hear anything up here, but the cat must be crying\nlike 'meow, meow'.",
+      "text": "I can't hear anything up here, but the cat must be crying\nlike 'meow, meow'."
+    },
+    {
+      "offset": 701,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、なにか真剣な顔で猫に話し掛けている\nような……って、まさか。",
+      "en": "I also see she is talking seriously to the cat... No way!",
+      "text": "I also see she is talking seriously to the cat... No way!"
+    },
+    {
+      "offset": 775,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「食う気かアイツ……」",
+      "en": "\"Giving that stuff to her cat...?!\"",
+      "text": "\"Giving that stuff to her cat...?!\""
+    },
+    {
+      "offset": 838,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あ、お兄ちゃん発見」",
+      "en": "\"Oh, I see you, oniichan!\"",
+      "text": "\"Oh, I see you, oniichan!\""
+    },
+    {
+      "offset": 882,
+      "speaker": "Utamaru",
+      "speaker_jp": "うたまる",
+      "jp": "「にゃ？」",
+      "en": "\"Meow?\"",
+      "text": "\"Meow?\""
+    },
+    {
+      "offset": 899,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目線をあげて、ぱたぱた、とさくらが手を振っ\nてきた。",
+      "en": "Sakura waves her hand looking up here.",
+      "text": "Sakura waves her hand looking up here."
+    },
+    {
+      "offset": 957,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「よぉ」",
+      "en": "\"Hey.\"",
+      "text": "\"Hey.\""
+    },
+    {
+      "offset": 972,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "小さく手を振って、愛想笑いを浮かべたまま廊\n下に身をひいた。",
+      "en": "I give her a little wave with a flattering smile, then go\nback inside the hallway.",
+      "text": "I give her a little wave with a flattering smile, then go\nback inside the hallway."
+    },
+    {
+      "offset": 1057,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「やばいやばい……」",
+      "en": "\"Darn it!\"",
+      "text": "\"Darn it!\""
+    },
+    {
+      "offset": 1084,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "君子危うきに近寄らずというか、俺、さくらに\n近寄らずと言うか。",
+      "en": "A wise man never courts danger, which means I shouldn't get\ncloser to Sakura.",
+      "text": "A wise man never courts danger, which means I shouldn't get\ncloser to Sakura."
+    },
+    {
+      "offset": 1152,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「やはり帰るか……」",
+      "en": "\"Should I go home?\"",
+      "text": "\"Should I go home?\""
+    },
+    {
+      "offset": 1179,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こんなところで油を売ってるよりは、家に帰っ\nて寝てしまうほうがいくらか健康的だ。",
+      "en": "I think it's much healthier to take a nap at home than fool\naround here.",
+      "text": "I think it's much healthier to take a nap at home than fool\naround here."
+    },
+    {
+      "offset": 1263,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "中身のない鞄を肩にかついで、自主的に一足早\nい春休みに入ることにする。",
+      "en": "Carrying my empty bag over my shoulder, I decide to get an\nearly start on spring break by myself.",
+      "text": "Carrying my empty bag over my shoulder, I decide to get an\nearly start on spring break by myself."
+    },
+    {
+      "offset": 1377,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、兄さんどこ行くの？」",
+      "en": "\"Hey, where are you going, niisan?\"",
+      "text": "\"Hey, where are you going, niisan?\""
+    },
+    {
+      "offset": 1410,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とことこ、と俺が時間を潰しているうちに、教\n室から音夢が出てきた。",
+      "en": "As I walk around, Nemu comes out of her classroom.",
+      "text": "As I walk around, Nemu comes out of her classroom."
+    },
+    {
+      "offset": 1482,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「帰るんだよ」",
+      "en": "\"I'm going home.\"",
+      "text": "\"I'm going home.\""
+    },
+    {
+      "offset": 1531,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「今回はなにもしないんですか？」",
+      "en": "\"Aren't you doing anything for the event this time?\"",
+      "text": "\"Aren't you doing anything for the event this time?\""
+    },
+    {
+      "offset": 1570,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「して欲しいのか？」",
+      "en": "\"Do you want me to?\"",
+      "text": "\"Do you want me to?\""
+    },
+    {
+      "offset": 1625,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「騒ぎしか起こしそうにないので、是非しない\n　でください」",
+      "en": "\"Please don't, because I know you'll cause trouble.\"",
+      "text": "\"Please don't, because I know you'll cause trouble.\""
+    },
+    {
+      "offset": 1689,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だろうな……」",
+      "en": "\"That's what I thought.\"",
+      "text": "\"That's what I thought.\""
+    },
+    {
+      "offset": 1712,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "笑顔で｛けんせい／牽制｝をかけてくる音夢のおでこを押す。",
+      "en": "I push Nemu's forehead when she warns me with a smile.",
+      "text": "I push Nemu's forehead when she warns me with a smile."
+    },
+    {
+      "offset": 1775,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お前は風紀委員会の仕事か？」",
+      "en": "\"Are you working on the discipline committee?\"",
+      "text": "\"Are you working on the discipline committee?\""
+    },
+    {
+      "offset": 1840,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ええ、準備をきっちりやっておかないと、な\n　にが起こるか分からないし」",
+      "en": "\"Yes. We have to get ready for that, because you never know\nwhat could happen on the day.\"",
+      "text": "\"Yes. We have to get ready for that, because you never know\nwhat could happen on the day.\""
+    },
+    {
+      "offset": 1918,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の手をどかして、ちょっと寂しげに音夢が微\n笑む。",
+      "en": "Nemu smiles wanly, pushing my hand away.",
+      "text": "Nemu smiles wanly, pushing my hand away."
+    },
+    {
+      "offset": 2002,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「当日も、遊んでいる暇なんてないでしょうね」",
+      "en": "\"I don't think I'll have time to enjoy myself on the day.\"",
+      "text": "\"I don't think I'll have time to enjoy myself on the day.\""
+    },
+    {
+      "offset": 2053,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「大変だな」",
+      "en": "\"It must be hard.\"",
+      "text": "\"It must be hard.\""
+    },
+    {
+      "offset": 2100,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いいえ。今回はブラックリストに載っている\n　兄さんが何もしないだけ、まだ楽ですよ」",
+      "en": "\"Not really, because someone like you who's on the blacklist\nisn't participating this time, which makes it much easier.\"",
+      "text": "\"Not really, because someone like you who's on the blacklist\nisn't participating this time, which makes it much easier.\""
+    },
+    {
+      "offset": 2190,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……そうか」",
+      "en": "\"I see.\"",
+      "text": "\"I see.\""
+    },
+    {
+      "offset": 2211,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "藪からヤマタノオロチが出てきそうなので、顔\nを合わせないように深く頷く。",
+      "en": "I nod deeply, to avoid seeing the girl appearing from the\nshrubs.",
+      "text": "I nod deeply, to avoid seeing the girl appearing from the\nshrubs."
+    },
+    {
+      "offset": 2289,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あんまり頑張るなよ」",
+      "en": "\"Don't work too hard!\"",
+      "text": "\"Don't work too hard!\""
+    },
+    {
+      "offset": 2346,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なにそれ？」",
+      "en": "\"What do you mean by that?\"",
+      "text": "\"What do you mean by that?\""
+    },
+    {
+      "offset": 2367,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「お前は遠足の前日に興奮で眠れなくて、当日\n　を駄目にするタイプだからな」",
+      "en": "\"Don't you remember that one time you ruined the field trip,\nbecause you were so excited that you couldn't sleep the\nnight before?\"",
+      "text": "\"Don't you remember that one time you ruined the field trip,\nbecause you were so excited that you couldn't sleep the\nnight before?\""
+    },
+    {
+      "offset": 2475,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「はいはい……了解しました」",
+      "en": "\"Yes, I know that.\"",
+      "text": "\"Yes, I know that.\""
+    },
+    {
+      "offset": 2522,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いまいち反省のない音夢に肩をすくめて、玄関\nに向かおうとする。",
+      "en": "I shrug at Nemu, who never was one for thinking things over,\nand then walk to the entrance.",
+      "text": "I shrug at Nemu, who never was one for thinking things over,\nand then walk to the entrance."
+    },
+    {
+      "offset": 2601,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さん！」",
+      "en": "\"Niisan!\"",
+      "text": "\"Niisan!\""
+    },
+    {
+      "offset": 2620,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その背に声がかかった。",
+      "en": "She calls me right on cue.",
+      "text": "She calls me right on cue."
+    },
+    {
+      "offset": 2647,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "裏モードの音夢には珍しく、ちょっとはしゃぎ\n気味な感じで。",
+      "en": "She sounds as hyper as another girl I know.",
+      "text": "She sounds as hyper as another girl I know."
+    },
+    {
+      "offset": 2744,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「卒業パーティー、楽しみ？」",
+      "en": "\"Are you looking forward to the graduation party?\"",
+      "text": "\"Are you looking forward to the graduation party?\""
+    },
+    {
+      "offset": 2779,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2798,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "軽く天井を見上げて考える。",
+      "en": "I think carefully, looking at the ceiling.",
+      "text": "I think carefully, looking at the ceiling."
+    },
+    {
+      "offset": 2831,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「面倒だけど……まぁな」",
+      "en": "\"Yeah, but it's a pain in the neck, though.\"",
+      "text": "\"Yeah, but it's a pain in the neck, though.\""
+    },
+    {
+      "offset": 2873,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「分かった。私、頑張るからね！」",
+      "en": "\"I know. I'll work on it much harder!\"",
+      "text": "\"I know. I'll work on it much harder!\""
+    },
+    {
+      "offset": 2912,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だから、頑張るなよ」",
+      "en": "\"But I told you not to work harder!\"",
+      "text": "\"But I told you not to work harder!\""
+    },
+    {
+      "offset": 2941,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わずにやける口元を隠すように、背中越しに\n軽く手を振って別れた。",
+      "en": "I set off home, giving her a little wave as I walk away,\nhiding a grin on my face.",
+      "text": "I set off home, giving her a little wave as I walk away,\nhiding a grin on my face."
+    },
+    {
+      "offset": 3129,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆やる気な音夢さん◆",
+      "en": "◆Determined Nemu-san◆",
+      "text": "◆Determined Nemu-san◆"
+    },
+    {
+      "offset": 3180,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "帰ろうとしたところで猫の餌に魅入るさくらを\n目撃し、さらに音夢に呼び止められる。",
+      "en": "When I was about to go home, I saw Sakura watching the cat's\nfood, and after that, Nemu held me up.",
+      "text": "When I was about to go home, I saw Sakura watching the cat's\nfood, and after that, Nemu held me up."
+    },
+    {
+      "offset": 3283,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "風紀委員は見回りなど、何かと忙しいらしいが、\n張り切り過ぎるなと音夢に釘をさす。",
+      "en": "I know the discipline committee is very busy with patrols,\nso I warn Nemu not to work too hard.",
+      "text": "I know the discipline committee is very busy with patrols,\nso I warn Nemu not to work too hard."
+    },
+    {
+      "offset": 3367,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だが、俺が卒パを楽しみだと聞き、ますます張\nり切ってしまう音夢だった。",
+      "en": "But after I said I was looking forward to the graduation\nparty, she seemed to work much harder on it.",
+      "text": "But after I said I was looking forward to the graduation\nparty, she seemed to work much harder on it."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "828": "Sakura",
+    "870": "Utamaru",
+    "1369": "Nemu",
+    "1523": "Nemu",
+    "1617": "Nemu",
+    "1832": "Nemu",
+    "1994": "Nemu",
+    "2092": "Nemu",
+    "2338": "Nemu",
+    "2467": "Nemu",
+    "2593": "Nemu",
+    "2736": "Nemu",
+    "2865": "Nemu"
+  }
+}

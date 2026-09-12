@@ -1,0 +1,1566 @@
+{
+  "scene": "script_0849.obj",
+  "dialogues": [
+    {
+      "offset": 180,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 195,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、環の病室の前で立っている。",
+      "en": "I stood in front of the hospital where Tamaki was staying.",
+      "text": "I stood in front of the hospital where Tamaki was staying."
+    },
+    {
+      "offset": 232,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "救急車で運ばれた環は、その日、そのまま意識\nは回復しなかった。",
+      "en": "Since the day she was rushed here by the ambulance, she\nhadn't opened her eyes.",
+      "text": "Since the day she was rushed here by the ambulance, she\nhadn't opened her eyes."
+    },
+    {
+      "offset": 298,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昨日、見舞いに来たときは、学校帰りに寄った\nため、面会時間は過ぎていて、会えなかった\nのだ。",
+      "en": "I wanted to visit her yesterday, but school events prevented\nme from doing so.",
+      "text": "I wanted to visit her yesterday, but school events prevented\nme from doing so."
+    },
+    {
+      "offset": 393,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "で、今日。",
+      "en": "So it had to wait for today.",
+      "text": "So it had to wait for today."
+    },
+    {
+      "offset": 408,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は私用があるからと言って、学校を休んだ。",
+      "en": "A day where I had free time, a rest day from school.",
+      "text": "A day where I had free time, a rest day from school."
+    },
+    {
+      "offset": 455,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環に一目会いたくて、花屋でアイリスの花束を\n買い、病室を訪れる。",
+      "en": "I'd bought a bouquet of irises for her as well.",
+      "text": "I'd bought a bouquet of irises for her as well."
+    },
+    {
+      "offset": 523,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はドアの前で深く息を吸い込み、吐き出す。\nそして、意を決してノックする。",
+      "en": "I stood outside her room door, and took a deep breath,\nbefore knocking and entering.",
+      "text": "I stood outside her room door, and took a deep breath,\nbefore knocking and entering."
+    },
+    {
+      "offset": 624,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "すると、中から、環のお父さんが顔を出す。",
+      "en": "Unexpectedly, her father was already inside.",
+      "text": "Unexpectedly, her father was already inside."
+    },
+    {
+      "offset": 671,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どうも……お見舞いに来ました」",
+      "en": "\"Excuse me... I came to visit.\"",
+      "text": "\"Excuse me... I came to visit.\""
+    },
+    {
+      "offset": 718,
+      "speaker": "Tamaki's Father",
+      "speaker_jp": "環の父",
+      "jp": "「やあ、朝倉くん」",
+      "en": "\"Hello, Asakura-kun.\"",
+      "text": "\"Hello, Asakura-kun.\""
+    },
+    {
+      "offset": 743,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お父さんは、少し疲れた顔で、にっこりと笑っ\nた。",
+      "en": "He had a tired look on his face, but still gave me a smile.",
+      "text": "He had a tired look on his face, but still gave me a smile."
+    },
+    {
+      "offset": 805,
+      "speaker": "Tamaki's Father",
+      "speaker_jp": "環の父",
+      "jp": "「すまないね。ちょうど私が出ていたばかりに\n　君に迷惑をかけてしまった。あらためてお礼\n　を言うよ。環を助けてくれて、ありがとう」",
+      "en": "\"I must thank you. You've done so much for Tamaki... even\nsaved her life, when I was out.\"",
+      "text": "\"I must thank you. You've done so much for Tamaki... even\nsaved her life, when I was out.\""
+    },
+    {
+      "offset": 940,
+      "speaker": "Tamaki's Father",
+      "speaker_jp": "環の父",
+      "jp": "「いえ、……俺の方こそ、環が学校に来ないの\n　で行ってみたら、倒れてて」",
+      "en": "\"It was nothing... I just had a bad feeling when I found out\nthat she didn't come to school...\"",
+      "text": "\"It was nothing... I just had a bad feeling when I found out\nthat she didn't come to school...\""
+    },
+    {
+      "offset": 1018,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あの時、背筋に走った氷のような悪寒を思い出\nす。",
+      "en": "The chills that ran down my spine when I saw her fallen\nfigure was still fresh in my memory.",
+      "text": "The chills that ran down my spine when I saw her fallen\nfigure was still fresh in my memory."
+    },
+    {
+      "offset": 1072,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「それで……、環の容態は？」",
+      "en": "\"Um... how's Tamaki doing?\"",
+      "text": "\"Um... how's Tamaki doing?\""
+    },
+    {
+      "offset": 1115,
+      "speaker": "Tamaki's Father",
+      "speaker_jp": "環の父",
+      "jp": "「それがね……、実はあれから環は目を覚まし\n　ていないんだ」",
+      "en": "\"Well... she still has not woken up.\"",
+      "text": "\"Well... she still has not woken up.\""
+    },
+    {
+      "offset": 1181,
+      "speaker": "Tamaki's Father",
+      "speaker_jp": "環の父",
+      "jp": "「……え？」",
+      "en": "\"...Eh?\"",
+      "text": "\"...Eh?\""
+    },
+    {
+      "offset": 1208,
+      "speaker": "Tamaki's Father",
+      "speaker_jp": "環の父",
+      "jp": "「医者の話では、どこも悪いところはないらし\n　い。どうして、意識が戻らないのか、原因は\n　不明だそうだ」",
+      "en": "\"The doctor said her life wasn't in danger, but they can't\nfigure out why she hasn't regained consciousness.\"",
+      "text": "\"The doctor said her life wasn't in danger, but they can't\nfigure out why she hasn't regained consciousness.\""
+    },
+    {
+      "offset": 1317,
+      "speaker": "Tamaki's Father",
+      "speaker_jp": "環の父",
+      "jp": "「そんな……」",
+      "en": "\"No way...\"",
+      "text": "\"No way...\""
+    },
+    {
+      "offset": 1338,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、奥のベッドに寝ている環に目をやる。",
+      "en": "I turned my gaze to Tamaki, laying on the hospital bed.",
+      "text": "I turned my gaze to Tamaki, laying on the hospital bed."
+    },
+    {
+      "offset": 1383,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そこには、まるで人形であるかのように静かに\n横たわる環の姿があった。",
+      "en": "Her figure was so silent and still, she looked like a doll.",
+      "text": "Her figure was so silent and still, she looked like a doll."
+    },
+    {
+      "offset": 1465,
+      "speaker": "Tamaki's Father",
+      "speaker_jp": "環の父",
+      "jp": "「もちろん、若干の疲労などは見られるらしい\n　が、どれも昏睡するような理由ではないそう\n　だ」",
+      "en": "\"She has been overexerting herself lately, but that doesn't\nexplain this deep sleep...\"",
+      "text": "\"She has been overexerting herself lately, but that doesn't\nexplain this deep sleep...\""
+    },
+    {
+      "offset": 1564,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お父さんは、力無く椅子に腰をおろし、眉間を\nきゅうっと押さえる。",
+      "en": "The father leaned back in his chair further, rubbing his\nforehead.",
+      "text": "The father leaned back in his chair further, rubbing his\nforehead."
+    },
+    {
+      "offset": 1634,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そうですか……」",
+      "en": "\"I see...\"",
+      "text": "\"I see...\""
+    },
+    {
+      "offset": 1659,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お父さんの姿を見ても、俺はそんな言葉しか口\nにすることができなかった。",
+      "en": "He looked so tired, I didn't know what else to say.",
+      "text": "He looked so tired, I didn't know what else to say."
+    },
+    {
+      "offset": 1733,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はなんて無力なんだろう……。環にも、お父\nさんにも、何をしてあげることはできないのだ\nろうか。",
+      "en": "I feel so useless... I can't do anything for Tamaki, or even\nher father.",
+      "text": "I feel so useless... I can't do anything for Tamaki, or even\nher father."
+    },
+    {
+      "offset": 1832,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どこも悪くないのに、意識不明……。",
+      "en": "Unconscious, yet normal otherwise...",
+      "text": "Unconscious, yet normal otherwise..."
+    },
+    {
+      "offset": 1871,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一体、環の身に何があったんだ……？",
+      "en": "What on earth's wrong with her body...?",
+      "text": "What on earth's wrong with her body...?"
+    },
+    {
+      "offset": 1910,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環の顔を見つめているが、もちろん、何も答え\nてはくれない。",
+      "en": "I stared at her as I questioned myself, but of course, she\nwasn't going to answer.",
+      "text": "I stared at her as I questioned myself, but of course, she\nwasn't going to answer."
+    },
+    {
+      "offset": 1972,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もし、環の身体が何とも無いなら、環の心で何\nか負荷がかかっているのかもしれない。",
+      "en": "If there's nothing wrong with her physical self... maybe\nit's her mental self that's the problem.",
+      "text": "If there's nothing wrong with her physical self... maybe\nit's her mental self that's the problem."
+    },
+    {
+      "offset": 2056,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だとしたら、いったい何が環を苦しめているん\nだ……。",
+      "en": "Something that's troubled her this badly...",
+      "text": "Something that's troubled her this badly..."
+    },
+    {
+      "offset": 2114,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「環……、いったい、どうしちゃったんだよ」",
+      "en": "\"Tamaki... what's happened to you.\"",
+      "text": "\"Tamaki... what's happened to you.\""
+    },
+    {
+      "offset": 2163,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、眠っている環に話しかける。",
+      "en": "I started talking to the asleep Tamaki.",
+      "text": "I started talking to the asleep Tamaki."
+    },
+    {
+      "offset": 2200,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は、まるで死んでいるかのように、ベッドに\n寝ていた。",
+      "en": "She continued lying there, dead to the world.",
+      "text": "She continued lying there, dead to the world."
+    },
+    {
+      "offset": 2260,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺は……お前を助けてやれないのか？　なあ、\n　環……目を覚ましてくれよ」",
+      "en": "\"Isn't there... anything I can do to help you? C'mon,\nTamaki... wake up...\"",
+      "text": "\"Isn't there... anything I can do to help you? C'mon,\nTamaki... wake up...\""
+    },
+    {
+      "offset": 2340,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その白い頬をそっと撫でる。やわらかさとほん\nのりとした温かさが手の平に伝わってくる。",
+      "en": "I gently caressed her fair cheeks, so soft and warm on the\npalm of my hand.",
+      "text": "I gently caressed her fair cheeks, so soft and warm on the\npalm of my hand."
+    },
+    {
+      "offset": 2428,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "死んでなどいない。環はここに生きているのだ。",
+      "en": "She's not dead. She's still alive, somehow.",
+      "text": "She's not dead. She's still alive, somehow."
+    },
+    {
+      "offset": 2479,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「環……環……」",
+      "en": "\"Tamaki... Tamaki...\"",
+      "text": "\"Tamaki... Tamaki...\""
+    },
+    {
+      "offset": 2502,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぎゅっと環の手を握る。",
+      "en": "I took her hand in mine.",
+      "text": "I took her hand in mine."
+    },
+    {
+      "offset": 2529,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "力無い環の手……。",
+      "en": "Unmoving and limp...",
+      "text": "Unmoving and limp..."
+    },
+    {
+      "offset": 2554,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「環……目を覚ましてくれ……」",
+      "en": "\"Tamaki... please, wake up...\"",
+      "text": "\"Tamaki... please, wake up...\""
+    },
+    {
+      "offset": 2591,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "握る手に力が入る。",
+      "en": "My grip on her head steadily grew stronger.",
+      "text": "My grip on her head steadily grew stronger."
+    },
+    {
+      "offset": 2624,
+      "speaker": "Tamaki's Father",
+      "speaker_jp": "環の父",
+      "jp": "「──朝倉くん」",
+      "en": "\"--Asakura-kun.\"",
+      "text": "\"--Asakura-kun.\""
+    },
+    {
+      "offset": 2647,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ポンと俺の肩に手が置かれる。",
+      "en": "I suddenly felt a hand on my shoulder.",
+      "text": "I suddenly felt a hand on my shoulder."
+    },
+    {
+      "offset": 2690,
+      "speaker": "Tamaki's Father",
+      "speaker_jp": "環の父",
+      "jp": "「大丈夫だよ、環はきっと目を覚ますよ。環だっ\n　ていつまでも君を悲しませたくはないと思っ\n　ているさ」",
+      "en": "\"It will be fine, she will wake up. The last thing she would\nwant is to make you feel sad.\"",
+      "text": "\"It will be fine, she will wake up. The last thing she would\nwant is to make you feel sad.\""
+    },
+    {
+      "offset": 2797,
+      "speaker": "Tamaki's Father",
+      "speaker_jp": "環の父",
+      "jp": "「けれど……」",
+      "en": "\"But...\"",
+      "text": "\"But...\""
+    },
+    {
+      "offset": 2826,
+      "speaker": "Tamaki's Father",
+      "speaker_jp": "環の父",
+      "jp": "「きっと、環は迷っているだけさ」",
+      "en": "\"I'm sure she's just lost her way.\"",
+      "text": "\"I'm sure she's just lost her way.\""
+    },
+    {
+      "offset": 2865,
+      "speaker": "Tamaki's Father",
+      "speaker_jp": "環の父",
+      "jp": "「迷って……いる？」",
+      "en": "\"Lost... her way?\"",
+      "text": "\"Lost... her way?\""
+    },
+    {
+      "offset": 2900,
+      "speaker": "Tamaki's Father",
+      "speaker_jp": "環の父",
+      "jp": "「ああ。でも、いつか気づくはずだよ。君と環\n　は深い絆で結ばれているんだろう？　迷うこ\n　となんてないんだってね」",
+      "en": "\"Yes, but she'd certainly notice it... the deep bond you and\nher share. She'd find her way through that.\"",
+      "text": "\"Yes, but she'd certainly notice it... the deep bond you and\nher share. She'd find her way through that.\""
+    },
+    {
+      "offset": 3019,
+      "speaker": "Tamaki's Father",
+      "speaker_jp": "環の父",
+      "jp": "「深い絆……」",
+      "en": "The deep bond...\"",
+      "text": "The deep bond...\""
+    },
+    {
+      "offset": 3048,
+      "speaker": "Tamaki's Father",
+      "speaker_jp": "環の父",
+      "jp": "「妻がよく言っていたよ。朝倉くんと環は深い\n　絆で結ばれているってね」",
+      "en": "\"My wife would often talk about that, about how you and\nTamaki were tied together by a deep bond.\"",
+      "text": "\"My wife would often talk about that, about how you and\nTamaki were tied together by a deep bond.\""
+    },
+    {
+      "offset": 3132,
+      "speaker": "Tamaki's Father",
+      "speaker_jp": "環の父",
+      "jp": "「アレは、昔から不思議な力があったから、何\n　か見えていたのかもしれない」",
+      "en": "\"She used to have strange powers back in the days, she\nmight've possibly seen something.\"",
+      "text": "\"She used to have strange powers back in the days, she\nmight've possibly seen something.\""
+    },
+    {
+      "offset": 3212,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お父さんが、静かに頷きながら、俺に微笑みか\nける。",
+      "en": "He lightly nodded his head, giving me a gentle smile.",
+      "text": "He lightly nodded his head, giving me a gentle smile."
+    },
+    {
+      "offset": 3268,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3295,
+      "speaker": "Tamaki's Father",
+      "speaker_jp": "環の父",
+      "jp": "「今は、つらいかも知れないけれど……、元気\n　を出しなさい」",
+      "en": "\"I know it must be hard now... but try to smile through it.\"",
+      "text": "\"I know it must be hard now... but try to smile through it.\""
+    },
+    {
+      "offset": 3361,
+      "speaker": "Tamaki's Father",
+      "speaker_jp": "環の父",
+      "jp": "「はい……」",
+      "en": "\"Yes...\"",
+      "text": "\"Yes...\""
+    },
+    {
+      "offset": 3380,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、環のお父さんに優しく肩を抱かれながら、\nその日は病室を後にした。",
+      "en": "I lightly patted him on the shoulder, and left the hospital\nfor the day.",
+      "text": "I lightly patted him on the shoulder, and left the hospital\nfor the day."
+    },
+    {
+      "offset": 3505,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうしたらいい？",
+      "en": "What should I do?",
+      "text": "What should I do?"
+    },
+    {
+      "offset": 3526,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうしたら環は元気になる？",
+      "en": "What can I do, to make Tamaki happy again?",
+      "text": "What can I do, to make Tamaki happy again?"
+    },
+    {
+      "offset": 3557,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もし、環が心で何かを迷っているのだとしたら、\n何か苦しんでいるのだとしたら。",
+      "en": "If it's true that Tamaki's soul has lost her way, and is in\ndeep pain now...",
+      "text": "If it's true that Tamaki's soul has lost her way, and is in\ndeep pain now..."
+    },
+    {
+      "offset": 3637,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はどうやって、環を助けてやることができる\nのだろうか？",
+      "en": "What can I do to save her from that?",
+      "text": "What can I do to save her from that?"
+    },
+    {
+      "offset": 3697,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、頭の中で。",
+      "en": "I wondered about that all day.",
+      "text": "I wondered about that all day."
+    },
+    {
+      "offset": 3720,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "考えても考えても、悩んでも悩んでも。",
+      "en": "Thinking, pondering, beating myself up.",
+      "text": "Thinking, pondering, beating myself up."
+    },
+    {
+      "offset": 3761,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眠ったままの環のことを考えると、俺の方まで\n苦しくて、切ない気持ちになってしまう。",
+      "en": "The more I thought about the unconscious Tamaki, the more\npainful it got for me.",
+      "text": "The more I thought about the unconscious Tamaki, the more\npainful it got for me."
+    },
+    {
+      "offset": 3847,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もし、環があのまま目が覚めなかったら、どこ\nかへ行ってしまったら。",
+      "en": "If Tamaki stays like that forever, what'd happen to her...",
+      "text": "If Tamaki stays like that forever, what'd happen to her..."
+    },
+    {
+      "offset": 3917,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、どうなるんだろう？",
+      "en": "And what would I do?",
+      "text": "And what would I do?"
+    },
+    {
+      "offset": 3946,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環がいなくなるなんて、今まで考えたこと無かっ\nた。",
+      "en": "I'd never thought about what'd happen to me if Tamaki's no\nlonger around.",
+      "text": "I'd never thought about what'd happen to me if Tamaki's no\nlonger around."
+    },
+    {
+      "offset": 4000,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう考えていたら、急に自然と涙が溢れてくる。",
+      "en": "So it surprised even me, when tears started to form in my\neyes when I thought about it.",
+      "text": "So it surprised even me, when tears started to form in my\neyes when I thought about it."
+    },
+    {
+      "offset": 4049,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "怖い……。",
+      "en": "It'd be horrible...",
+      "text": "It'd be horrible..."
+    },
+    {
+      "offset": 4064,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "大切な人が、ある日突然、日常から消えてしま\nうこと……。",
+      "en": "The one you love, suddenly disappearing one day...",
+      "text": "The one you love, suddenly disappearing one day..."
+    },
+    {
+      "offset": 4124,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 4139,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ダメだ。弱気になるな。",
+      "en": "No, no... I can't be weak.",
+      "text": "No, no... I can't be weak."
+    },
+    {
+      "offset": 4166,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうすれば、環を助けられる。",
+      "en": "What can I do to save her, that's what I need to find out.",
+      "text": "What can I do to save her, that's what I need to find out."
+    },
+    {
+      "offset": 4199,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環が、お父さんの言うとおり、迷うあまり現実\nから目を背けているのだとしたら。",
+      "en": "It's likely as her father said... she must be lost in\nreality, thus wants to escape it.",
+      "text": "It's likely as her father said... she must be lost in\nreality, thus wants to escape it."
+    },
+    {
+      "offset": 4279,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "彼女の夢の世界へ入れたら。",
+      "en": "By traveling and staying at the world of dreams.",
+      "text": "By traveling and staying at the world of dreams."
+    },
+    {
+      "offset": 4310,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "でも、そんなことできる訳がない……。",
+      "en": "But if that's the case, I can't do much about it...",
+      "text": "But if that's the case, I can't do much about it..."
+    },
+    {
+      "offset": 4351,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "最近は、なぜか、人の夢を見ることもなくなっ\nている。",
+      "en": "For some reason, I've not seen anybody's dream recently\neither.",
+      "text": "For some reason, I've not seen anybody's dream recently\neither."
+    },
+    {
+      "offset": 4407,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな中、都合良く、環の夢をみることなんて\nできる訳がない。",
+      "en": "I'm not anything special, I can't just force it to happen.",
+      "text": "I'm not anything special, I can't just force it to happen."
+    },
+    {
+      "offset": 4471,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もっとも、それが解決方法になるかと言われれ\nば、そういう訳ではないのだろうけれど……。",
+      "en": "If there's a way to resolve it, I won't be able to do it by\nmyself...",
+      "text": "If there's a way to resolve it, I won't be able to do it by\nmyself..."
+    },
+    {
+      "offset": 4561,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こんな話、誰にも相談できやしない。",
+      "en": "I need to consult someone on this.",
+      "text": "I need to consult someone on this."
+    },
+    {
+      "offset": 4600,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうすればいいんだ……。",
+      "en": "What to do...",
+      "text": "What to do..."
+    },
+    {
+      "offset": 4629,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一人で悩んでいたって、環は目を覚まさない。",
+      "en": "If I try to rely on myself only, Tamaki won't ever wake up.",
+      "text": "If I try to rely on myself only, Tamaki won't ever wake up."
+    },
+    {
+      "offset": 4676,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "誰か……。",
+      "en": "But who...",
+      "text": "But who..."
+    },
+    {
+      "offset": 4691,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そのとき、俺はふと、枯れない桜の木に抱きつ\nいていたさくらのことが、頭をよぎる。",
+      "en": "The image then came to me, the day Sakura brought me to the\nUnwithering Sakura tree.",
+      "text": "The image then came to me, the day Sakura brought me to the\nUnwithering Sakura tree."
+    },
+    {
+      "offset": 4775,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そうだ、さくらになら……、あいつなら、俺の\n話を聞いてくれる。",
+      "en": "That's right, Sakura... she'd listen to me.",
+      "text": "That's right, Sakura... she'd listen to me."
+    },
+    {
+      "offset": 4841,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あいつなら、きっといい知恵を貸してくれる。",
+      "en": "I'm sure she'd have some idea of what to do.",
+      "text": "I'm sure she'd have some idea of what to do."
+    },
+    {
+      "offset": 4888,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は立ち上がり、さくらの家へと向かった。",
+      "en": "I got up, and headed for Sakura's house.",
+      "text": "I got up, and headed for Sakura's house."
+    },
+    {
+      "offset": 4960,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さくら！！」",
+      "en": "\"Sakura!!\"",
+      "text": "\"Sakura!!\""
+    },
+    {
+      "offset": 4981,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はさくらの家へと駆け込む。",
+      "en": "I dashed towards her house.",
+      "text": "I dashed towards her house."
+    },
+    {
+      "offset": 5056,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「はにゃ？　どうしたの？」",
+      "en": "\"Hanyah? What's up?\"",
+      "text": "\"Hanyah? What's up?\""
+    },
+    {
+      "offset": 5089,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「お前に、話がある！」",
+      "en": "\"I need to talk to you!\"",
+      "text": "\"I need to talk to you!\""
+    },
+    {
+      "offset": 5118,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "きょとんとした目で、俺を見つめる。せんべい\nを、ぼりんとかじりながら。",
+      "en": "She looked at me curiously, biting on a rice cracker.",
+      "text": "She looked at me curiously, biting on a rice cracker."
+    },
+    {
+      "offset": 5194,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「頼む！　俺には、もうお前しかいないんだ！」",
+      "en": "\"Please! I need you with me!\"",
+      "text": "\"Please! I need you with me!\""
+    },
+    {
+      "offset": 5275,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「はにゃ？」",
+      "en": "\"Hanyah?\"",
+      "text": "\"Hanyah?\""
+    },
+    {
+      "offset": 5294,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらの顔が一瞬、色めき立つ。",
+      "en": "Sakura's face suddenly flushed red.",
+      "text": "Sakura's face suddenly flushed red."
+    },
+    {
+      "offset": 5331,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ、いや……そういう意味ではなく」",
+      "en": "\"Ah, uh... I didn't mean it that way!\"",
+      "text": "\"Ah, uh... I didn't mean it that way!\""
+    },
+    {
+      "offset": 5383,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はさくらに、環のことを一部始終、説明する。",
+      "en": "After clearing up the misunderstanding, I told Sakura the\nwhole story.",
+      "text": "After clearing up the misunderstanding, I told Sakura the\nwhole story."
+    },
+    {
+      "offset": 5432,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらとうたまるは、環の状況を説明する俺の\n顔を、じっと見つめている。",
+      "en": "Both her and Utamaru gave me their undivided attention as I\nexplained.",
+      "text": "Both her and Utamaru gave me their undivided attention as I\nexplained."
+    },
+    {
+      "offset": 5543,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……そっか」",
+      "en": "\"...I see.\"",
+      "text": "\"...I see.\""
+    },
+    {
+      "offset": 5564,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらがぼそりと呟く。",
+      "en": "Sakura's voice then fell to a whisper.",
+      "text": "Sakura's voice then fell to a whisper."
+    },
+    {
+      "offset": 5623,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そんなことになってたんだ……」",
+      "en": "\"So that really happened...\"",
+      "text": "\"So that really happened...\""
+    },
+    {
+      "offset": 5662,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「どうにかして、環のことを助けてやれないだ\n　ろうか……」",
+      "en": "\"I don't know if there's any way to save Tamaki...\"",
+      "text": "\"I don't know if there's any way to save Tamaki...\""
+    },
+    {
+      "offset": 5756,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 5775,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらは黙ってしまう。",
+      "en": "Sakura turned silent for awhile.",
+      "text": "Sakura turned silent for awhile."
+    },
+    {
+      "offset": 5804,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さくら？」",
+      "en": "\"Sakura?\"",
+      "text": "\"Sakura?\""
+    },
+    {
+      "offset": 5853,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……環ちゃんがね、病気になったのは」",
+      "en": "\"...Tamaki-chan's sick right now.\"",
+      "text": "\"...Tamaki-chan's sick right now.\""
+    },
+    {
+      "offset": 5898,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらが俺の方を、見据えて『巫女の力』と、\nぼそりと言った。",
+      "en": "She looked at me, then started talking about the fabled Miko\npowers.",
+      "text": "She looked at me, then started talking about the fabled Miko\npowers."
+    },
+    {
+      "offset": 5994,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「今までは、環ちゃん、自分でコントロールで\n　きていた部分もあるんだ」",
+      "en": "\"Even now, Tamaki-chan's controlling and using her powers.\"",
+      "text": "\"Even now, Tamaki-chan's controlling and using her powers.\""
+    },
+    {
+      "offset": 6083,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「なるべく、悪い未来だけを見て、相手の危機\n　を回避しようとしたり……。未来を読むのも\n　選んでたんだろうけど……」",
+      "en": "\"They choose to see the future... knowing the responsibility\nof keeping those in danger safe...\"",
+      "text": "\"They choose to see the future... knowing the responsibility\nof keeping those in danger safe...\""
+    },
+    {
+      "offset": 6204,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「なんのことだ……、さくら。何を言っている」",
+      "en": "\"What the... what are you talking about, Sakura?\"",
+      "text": "\"What the... what are you talking about, Sakura?\""
+    },
+    {
+      "offset": 6268,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「巫女の力が、それを助けてたんだ」",
+      "en": "\"That's what the power of Miko is used for; to save people\nwith bad futures.\"",
+      "text": "\"That's what the power of Miko is used for; to save people\nwith bad futures.\""
+    },
+    {
+      "offset": 6309,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらは、キっと俺に目を向ける。",
+      "en": "Sakura then gazed sharply at me.",
+      "text": "Sakura then gazed sharply at me."
+    },
+    {
+      "offset": 6361,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「でも、お兄ちゃんのせいだ」",
+      "en": "\"But then, you messed it up.\"",
+      "text": "\"But then, you messed it up.\""
+    },
+    {
+      "offset": 6396,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まるで責めるような口調で、さくらは言う。",
+      "en": "She suddenly went from professor mode to critic mode.",
+      "text": "She suddenly went from professor mode to critic mode."
+    },
+    {
+      "offset": 6443,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……なんだよ、俺のせいって」",
+      "en": "\"...How did I mess it up?\"",
+      "text": "\"...How did I mess it up?\""
+    },
+    {
+      "offset": 6515,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「環ちゃんが、お兄ちゃんに恋をしたから……。\n　神にささげるための心を、お兄ちゃんに捧げ\n　てしまった」",
+      "en": "\"Tamaki-chan fell in love with you... her heart, that was\nsupposed to belong to God, was yours instead.\"",
+      "text": "\"Tamaki-chan fell in love with you... her heart, that was\nsupposed to belong to God, was yours instead.\""
+    },
+    {
+      "offset": 6637,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「だから、巫女としての力は、弱まってしまっ\n　たんだよ」",
+      "en": "\"That's why the powers bestowed on her as a Miko weakened.\"",
+      "text": "\"That's why the powers bestowed on her as a Miko weakened.\""
+    },
+    {
+      "offset": 6699,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 6731,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「お兄ちゃんが、環ちゃんに恋なんかするから\n　……」",
+      "en": "\"Because you fell in love with her...\"",
+      "text": "\"Because you fell in love with her...\""
+    },
+    {
+      "offset": 6789,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらの言葉に胸が痛む。",
+      "en": "Her words were like arrows through my heart.",
+      "text": "Her words were like arrows through my heart."
+    },
+    {
+      "offset": 6827,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今までは、巫女の力がすべてを受け止めていた。",
+      "en": "All this while, she'd been receiving the powers of the Miko.",
+      "text": "All this while, she'd been receiving the powers of the Miko."
+    },
+    {
+      "offset": 6876,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "様々な人々の想いを、未来を見てしまっても、\n巫女の力が環を助けていた。",
+      "en": "Using her powers to save and help people in need.",
+      "text": "Using her powers to save and help people in need."
+    },
+    {
+      "offset": 6950,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『神に仕えるものは、恋をしてはいけないので\n　しょうか？』",
+      "en": "\"Those who dedicate themselves to God can't fall in love,\nright?\"",
+      "text": "\"Those who dedicate themselves to God can't fall in love,\nright?\""
+    },
+    {
+      "offset": 7012,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "巫女は純潔でなくてはならない。巫女としての\n性質が強ければ強いほど……そうでなくてはな\nらない。",
+      "en": "A Miko is nothing if not pure. They have to be strong of\nmind and soul...",
+      "text": "A Miko is nothing if not pure. They have to be strong of\nmind and soul..."
+    },
+    {
+      "offset": 7111,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少なくとも、自分の心に迷いなどあっては、他\n人の想いを預かる巫女などとても務まらないだ\nろう。",
+      "en": "If she loses her faith even a little, she wouldn't be fit to\nfix others' emotions anymore.",
+      "text": "If she loses her faith even a little, she wouldn't be fit to\nfix others' emotions anymore."
+    },
+    {
+      "offset": 7208,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "恋が、環を迷わせた。俺という存在が環を迷わ\nせた。",
+      "en": "Tamaki became confused due to love. Tamaki became confused,\nbecause I existed.",
+      "text": "Tamaki became confused due to love. Tamaki became confused,\nbecause I existed."
+    },
+    {
+      "offset": 7262,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、いつか見た夢を思い出す。",
+      "en": "My mind harked back to the dream I'd always see.",
+      "text": "My mind harked back to the dream I'd always see."
+    },
+    {
+      "offset": 7297,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ばあちゃんが、環と俺の記憶を封印する夢。",
+      "en": "The dream where grandma sealed the memories that Tamaki and\nI had.",
+      "text": "The dream where grandma sealed the memories that Tamaki and\nI had."
+    },
+    {
+      "offset": 7342,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環の巫女の力を暴走させるわけにはいかないか\nら、と。",
+      "en": "I never understood why till now; It was to keep her Miko\npowers from going crazy.",
+      "text": "I never understood why till now; It was to keep her Miko\npowers from going crazy."
+    },
+    {
+      "offset": 7398,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "幼い環が巫女として成熟するためには、自分の\n立場を受け止める力を持たなければならなかっ\nたのだろう。",
+      "en": "She was raised from young to receive those powers...",
+      "text": "She was raised from young to receive those powers..."
+    },
+    {
+      "offset": 7501,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "将来を約束している人という、逃げ道は純潔で\nなくてはならない巫女にとっては、不安要素で\nしかなかった、そういうことだろう。",
+      "en": "Her future was laid out for her, a future of purity... which\nshe doesn't want now...",
+      "text": "Her future was laid out for her, a future of purity... which\nshe doesn't want now..."
+    },
+    {
+      "offset": 7626,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "現に今、環は迷うことで苦しんでいる。",
+      "en": "That's why she's lost and in pain now.",
+      "text": "That's why she's lost and in pain now."
+    },
+    {
+      "offset": 7667,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "でも、なぜ……それをわかった上で、環のお母\nさんは、記憶を失った環に、俺のことを伝えて\nいたのだろう……。",
+      "en": "But, knowing that, why...? Why would Tamaki's mother, after\nsealing Tamaki's memories, tell her about me?",
+      "text": "But, knowing that, why...? Why would Tamaki's mother, after\nsealing Tamaki's memories, tell her about me?"
+    },
+    {
+      "offset": 7778,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さくら……、恋をすることは、そんなにいけ\n　ないことなのか？」",
+      "en": "\"Sakura... she can't fall in love at all?\"",
+      "text": "\"Sakura... she can't fall in love at all?\""
+    },
+    {
+      "offset": 7848,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらは、黙る。",
+      "en": "Sakura stayed silent.",
+      "text": "Sakura stayed silent."
+    },
+    {
+      "offset": 7871,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「一緒に過ごしたい、楽しみも苦しみも分かち\n　合いたい、そう思うことはいけないことか？」",
+      "en": "\"Someone to spend your life with, through good times and\nbad... they can't even think of that?\"",
+      "text": "\"Someone to spend your life with, through good times and\nbad... they can't even think of that?\""
+    },
+    {
+      "offset": 7965,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺は、自分の大切な人を守りたい、苦しみか\n　ら助けたい」",
+      "en": "\"...I want to protect the person most dear to me, I want to\nease her pain.\"",
+      "text": "\"...I want to protect the person most dear to me, I want to\nease her pain.\""
+    },
+    {
+      "offset": 8029,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どうすればいい、さくら！　教えてくれ！」",
+      "en": "\"So please! Tell me what to do, Sakura!\"",
+      "text": "\"So please! Tell me what to do, Sakura!\""
+    },
+    {
+      "offset": 8100,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はひとり、叫ぶように言う。",
+      "en": "My speech changed to a plead.",
+      "text": "My speech changed to a plead."
+    },
+    {
+      "offset": 8150,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は絶対、環を……。",
+      "en": "No matter what, for Tamaki...",
+      "text": "No matter what, for Tamaki..."
+    },
+    {
+      "offset": 8190,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 8209,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「悪ぃ……。つい……」",
+      "en": "\"...Sorry... I...\"",
+      "text": "\"...Sorry... I...\""
+    },
+    {
+      "offset": 8238,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "つい、声を荒げてしまった。",
+      "en": "I unintentionally raised my voice at her.",
+      "text": "I unintentionally raised my voice at her."
+    },
+    {
+      "offset": 8269,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環を助けたいばかりに……。",
+      "en": "I wanted to save Tamaki so much, but...",
+      "text": "I wanted to save Tamaki so much, but..."
+    },
+    {
+      "offset": 8332,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……うらやましいよね」",
+      "en": "\"...I'm so jealous.\"",
+      "text": "\"...I'm so jealous.\""
+    },
+    {
+      "offset": 8363,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらは上目遣いでぼそりと、口にした。",
+      "en": "Sakura glanced upwards at me as she spoke.",
+      "text": "Sakura glanced upwards at me as she spoke."
+    },
+    {
+      "offset": 8421,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そんなに、守りたい人なんてさ」",
+      "en": "\"To have someone who wants to protect her so much...\"",
+      "text": "\"To have someone who wants to protect her so much...\""
+    },
+    {
+      "offset": 8460,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 8492,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ずるいよ……環ちゃん」",
+      "en": "\"That's not fair... Tamaki-chan.\"",
+      "text": "\"That's not fair... Tamaki-chan.\""
+    },
+    {
+      "offset": 8523,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 8542,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらは俯いている。",
+      "en": "Her head fell in silence again.",
+      "text": "Her head fell in silence again."
+    },
+    {
+      "offset": 8569,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……さくら」",
+      "en": "\"...Sakura.\"",
+      "text": "\"...Sakura.\""
+    },
+    {
+      "offset": 8599,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、思わずさくらの肩に手を伸ばすが、さく\nらはすっと立ち上がり、縁側に向かう。",
+      "en": "I let go of her shoulders, which I'd unconsciously grabbed.\nShe stood up and gazed out the balcony.",
+      "text": "I let go of her shoulders, which I'd unconsciously grabbed.\nShe stood up and gazed out the balcony."
+    },
+    {
+      "offset": 8683,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、俺に背を向け、ポツリとつぶやいた。",
+      "en": "Then, with her back to me, she started murmuring.",
+      "text": "Then, with her back to me, she started murmuring."
+    },
+    {
+      "offset": 8745,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ひとつだけ、方法がないこともないよ」",
+      "en": "\"There's one method that could save her.\"",
+      "text": "\"There's one method that could save her.\""
+    },
+    {
+      "offset": 8790,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「本当か？」",
+      "en": "\"Really?\"",
+      "text": "\"Really?\""
+    },
+    {
+      "offset": 8809,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらは振り向いてコックリ頷く。",
+      "en": "Sakura turned around to face me again, and nodded.",
+      "text": "Sakura turned around to face me again, and nodded."
+    },
+    {
+      "offset": 8883,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ただし、すごく危険なんだ。失敗したら、も\n　う二度と環ちゃんの意識は戻らないかもしれ\n　ないけど……」",
+      "en": "\"But it's really dangerous. If it doesn't work, Tamaki-chan\nmight never wake up...\"",
+      "text": "\"But it's really dangerous. If it doesn't work, Tamaki-chan\nmight never wake up...\""
+    },
+    {
+      "offset": 8992,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 9041,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「それに、お兄ちゃんだって、ただじゃすまな\n　いかも」",
+      "en": "\"And since it's you, it can't be done so easily...\"",
+      "text": "\"And since it's you, it can't be done so easily...\""
+    },
+    {
+      "offset": 9101,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 9133,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ボクとしては、お兄ちゃんがそんな危険な\n　目にあうのは、あんまりオススメできない\n　よ……」",
+      "en": "\"I can't... easily recommend... putting you in such danger.\"",
+      "text": "\"I can't... easily recommend... putting you in such danger.\""
+    },
+    {
+      "offset": 9232,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらは戸惑うように言う。",
+      "en": "Sakura was steadily losing her comopsure.",
+      "text": "Sakura was steadily losing her comopsure."
+    },
+    {
+      "offset": 9265,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「でも、可能性はあるんだろ？」",
+      "en": "\"But there's a chance, right?\"",
+      "text": "\"But there's a chance, right?\""
+    },
+    {
+      "offset": 9315,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\".....\"",
+      "text": "\".....\""
+    },
+    {
+      "offset": 9334,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「だったら、頼む」",
+      "en": "\"So, please...\"",
+      "text": "\"So, please...\""
+    },
+    {
+      "offset": 9372,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 9391,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「俺は、環を救ってやりたいんだ……」",
+      "en": "\"I must save Tamaki...\"",
+      "text": "\"I must save Tamaki...\""
+    },
+    {
+      "offset": 9434,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環のことを……。",
+      "en": "Tamaki...",
+      "text": "Tamaki..."
+    },
+    {
+      "offset": 9455,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何者からも守ってやろうって、そう誓ったとき\nから。",
+      "en": "I promised that I'd protect her, from whatever and whoever.",
+      "text": "I promised that I'd protect her, from whatever and whoever."
+    },
+    {
+      "offset": 9509,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、どんなことがあっても、環を守る。",
+      "en": "And no matter what, I'd fulfill that promise.",
+      "text": "And no matter what, I'd fulfill that promise."
+    },
+    {
+      "offset": 9554,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「頼む、教えてくれ」",
+      "en": "\"Please, tell me!\"",
+      "text": "\"Please, tell me!\""
+    },
+    {
+      "offset": 9581,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "失敗すれば、環は目覚めないかもしれない。",
+      "en": "If I fail, Tamaki might not ever wake up again.",
+      "text": "If I fail, Tamaki might not ever wake up again."
+    },
+    {
+      "offset": 9626,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "でも、このまま何もせず、手をこまねいている\nのは嫌だ。",
+      "en": "But I hate sitting here and not being able to do a thing.",
+      "text": "But I hate sitting here and not being able to do a thing."
+    },
+    {
+      "offset": 9684,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "１００分の１でも可能性があるなら、それに賭\nけたい。",
+      "en": "Even if it's a 1 out of 100 chance, I'd gamble on it.",
+      "text": "Even if it's a 1 out of 100 chance, I'd gamble on it."
+    },
+    {
+      "offset": 9740,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の命なんか、どうなったっていい。",
+      "en": "No matter what happens to me.",
+      "text": "No matter what happens to me."
+    },
+    {
+      "offset": 9794,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 9813,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらはまだ黙っている。",
+      "en": "Sakura stayed silent.",
+      "text": "Sakura stayed silent."
+    },
+    {
+      "offset": 9844,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「頼む、さくら……」",
+      "en": "\"I beg you, Sakura...\"",
+      "text": "\"I beg you, Sakura...\""
+    },
+    {
+      "offset": 9901,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……うん」",
+      "en": "\"...Okay.\"",
+      "text": "\"...Okay.\""
+    },
+    {
+      "offset": 9920,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらは、重々しく口を開く。",
+      "en": "After a long while, she finally agreed.",
+      "text": "After a long while, she finally agreed."
+    },
+    {
+      "offset": 9968,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「実はね……」",
+      "en": "\"You have to...\"",
+      "text": "\"You have to...\""
+    },
+    {
+      "offset": 9989,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらはそっと、俺の耳に方法を打ち明けた。",
+      "en": "She then started to explain her plan, step by step.",
+      "text": "She then started to explain her plan, step by step."
+    },
+    {
+      "offset": 10140,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆眠り続ける環◆",
+      "en": "◆Sleeping Tamaki?◆",
+      "text": "◆Sleeping Tamaki?◆"
+    },
+    {
+      "offset": 10185,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環の見舞いに行くと、両親が付き添っていた。",
+      "en": "When I went to visit Tamaki, her father was there.",
+      "text": "When I went to visit Tamaki, her father was there."
+    },
+    {
+      "offset": 10232,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は２日間意識が無いらしく、医者も原因がわ\nからないという。",
+      "en": "Tamaki had been unconscious for two days straight, and the\ndoctors couldn't answer why.",
+      "text": "Tamaki had been unconscious for two days straight, and the\ndoctors couldn't answer why."
+    },
+    {
+      "offset": 10296,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらに相談すると、環が巫女の力を抑えきれ\nなくなってしまったのだという。",
+      "en": "When I consulted Sakura, she told me of how Tamaki had been\ncontrolling her Miko powers.",
+      "text": "When I consulted Sakura, she told me of how Tamaki had been\ncontrolling her Miko powers."
+    },
+    {
+      "offset": 10374,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "助け出す方法がひとつあるが、失敗したら環は\n二度と目覚めないかもしれないと言う。",
+      "en": "There was a way to save her, but failure would possibly\nresult in Tamaki never waking up again.",
+      "text": "There was a way to save her, but failure would possibly\nresult in Tamaki never waking up again."
+    },
+    {
+      "offset": 10458,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "でも、今よりはいい。俺はその方法にかけるこ\nとにした。",
+      "en": "Despite that, I agreed.",
+      "text": "Despite that, I agreed."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "708": "Tamaki's Father",
+    "795": "Tamaki's Father",
+    "1105": "Tamaki's Father",
+    "1198": "Tamaki's Father",
+    "1455": "Tamaki's Father",
+    "2614": "Tamaki's Father",
+    "2680": "Tamaki's Father",
+    "2816": "Tamaki's Father",
+    "2890": "Tamaki's Father",
+    "3038": "Tamaki's Father",
+    "3122": "Tamaki's Father",
+    "3285": "Tamaki's Father",
+    "5046": "Sakura",
+    "5265": "Sakura",
+    "5533": "Sakura",
+    "5613": "Sakura",
+    "5746": "Sakura",
+    "5843": "Sakura",
+    "5984": "Sakura",
+    "6073": "Sakura",
+    "6258": "Sakura",
+    "6351": "Sakura",
+    "6505": "Sakura",
+    "6627": "Sakura",
+    "6721": "Sakura",
+    "8180": "Sakura",
+    "8322": "Sakura",
+    "8411": "Sakura",
+    "8482": "Sakura",
+    "8735": "Sakura",
+    "8873": "Sakura",
+    "9031": "Sakura",
+    "9123": "Sakura",
+    "9305": "Sakura",
+    "9362": "Sakura",
+    "9784": "Sakura",
+    "9891": "Sakura",
+    "9958": "Sakura"
+  }
+}

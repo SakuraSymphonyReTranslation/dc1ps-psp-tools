@@ -1,0 +1,595 @@
+{
+  "scene": "script_0078.obj",
+  "dialogues": [
+    {
+      "offset": 155,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……腹減ったなぁ」",
+      "en": "\"I'm starving.\"",
+      "text": "\"I'm starving.\""
+    },
+    {
+      "offset": 182,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "窓の外になんとなく視線を送りながら、教員棟\nにある食堂を目指す。",
+      "en": "I walk to the dining hall in the faculty building, looking\nout of the window.",
+      "text": "I walk to the dining hall in the faculty building, looking\nout of the window."
+    },
+    {
+      "offset": 252,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「今日の日替わり定食は何かな」",
+      "en": "\"I wonder what today's daily lunch special is.\"",
+      "text": "\"I wonder what today's daily lunch special is.\""
+    },
+    {
+      "offset": 289,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "安価な定食なのだが、思わず胸が小躍る。",
+      "en": "It's not really a wonderful meal, but I can't wait for that.",
+      "text": "It's not really a wonderful meal, but I can't wait for that."
+    },
+    {
+      "offset": 332,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自宅での貧しい食料事情を考えると、食堂のお\nばちゃんの手による大量生産の定食すらありが\nたいのだ。",
+      "en": "Thinking of my diet situation at home, I would greatly\nappreciate even the mass-produced entree from the old gals\nin the dining hall.",
+      "text": "Thinking of my diet situation at home, I would greatly\nappreciate even the mass-produced entree from the old gals\nin the dining hall."
+    },
+    {
+      "offset": 433,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あったかいご飯と味噌汁のコンビネーションだ\nと最高なのだが、まぁ贅沢は言うまい。",
+      "en": "It would be great if it's hot rice and miso soup, but\nwhatever it is I wouldn't complain.",
+      "text": "It would be great if it's hot rice and miso soup, but\nwhatever it is I wouldn't complain."
+    },
+    {
+      "offset": 517,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "決して、大根を下ろした季節はずれの｛さんま／秋刀魚｝が\n食べたいなんて言うまい。",
+      "en": "I wouldn't ask for unseasonal Pacific saury with grated\nradish.",
+      "text": "I wouldn't ask for unseasonal Pacific saury with grated\nradish."
+    },
+    {
+      "offset": 636,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「おっ、朝倉、こんなところにいたのか」",
+      "en": "\"Hey, I didn't know you were here.\"",
+      "text": "\"Hey, I didn't know you were here.\""
+    },
+    {
+      "offset": 698,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……なんとなく、今、お前にだけは会いたく\n　なかったぞ」",
+      "en": "\"I didn't want to see you here.\"",
+      "text": "\"I didn't want to see you here.\""
+    },
+    {
+      "offset": 762,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "背中からの声に振り返ると、ひとりで元気玉を\n作れそうなテンションの男が立っていた。",
+      "en": "Looking behind me, I see a guy standing tensely.",
+      "text": "Looking behind me, I see a guy standing tensely."
+    },
+    {
+      "offset": 850,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺のささやかな幸せを奪うつもりなら帰れ」",
+      "en": "\"If you're thinking of taking my little pleasure away, you'd\nbetter bugger off now.\"",
+      "text": "\"If you're thinking of taking my little pleasure away, you'd\nbetter bugger off now.\""
+    },
+    {
+      "offset": 927,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「は？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 942,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「いや、なんでもない……で、なんだ？」",
+      "en": "\"Oh, nothing... so, what is it?\"",
+      "text": "\"Oh, nothing... so, what is it?\""
+    },
+    {
+      "offset": 1015,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「外を見ろ朝倉ッ！」",
+      "en": "\"Look outside!\"",
+      "text": "\"Look outside!\""
+    },
+    {
+      "offset": 1054,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言われた通り窓の外に視線を戻す。",
+      "en": "I look outside as he says.",
+      "text": "I look outside as he says."
+    },
+    {
+      "offset": 1109,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「陽光降り注ぐピクニック日和だ！」",
+      "en": "\"It's a great day for a picnic on a sunny afternoon.\"",
+      "text": "\"It's a great day for a picnic on a sunny afternoon.\""
+    },
+    {
+      "offset": 1150,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「本気で帰れ！　どこの馬鹿がこのクソ寒い中\n　で飯を食うか！」",
+      "en": "\"Get out of here! Who the hell wants to eat lunch outside in\nthis cold weather?!\"",
+      "text": "\"Get out of here! Who the hell wants to eat lunch outside in\nthis cold weather?!\""
+    },
+    {
+      "offset": 1251,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「貴様、風見学園七不思議“ピクニックの神様”\n　を知らんのか！？」",
+      "en": "\"Hey, I guess you haven't heard of one of the seven wonders\nin this Kazami Academy, which is the 'God of Picnics'.\"",
+      "text": "\"Hey, I guess you haven't heard of one of the seven wonders\nin this Kazami Academy, which is the 'God of Picnics'.\""
+    },
+    {
+      "offset": 1323,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「なんだその、状況が一片も思い浮かばない不\n　思議は……」",
+      "en": "\"How strange is it to not have any idea what you're talking\nabout?\"",
+      "text": "\"How strange is it to not have any idea what you're talking\nabout?\""
+    },
+    {
+      "offset": 1387,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そもそも、開校７年のうちの学園に七不思議が\nあることすら初耳だぞ。",
+      "en": "To begin with, I've never heard of there being seven wonders\nin this school which opened only seven years ago.",
+      "text": "To begin with, I've never heard of there being seven wonders\nin this school which opened only seven years ago."
+    },
+    {
+      "offset": 1487,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ふっ、それはそうだろう。俺も最近仕入れた\n　ネタだからな」",
+      "en": "\"Hah, of course, you've never heard of it. Because I only\ngot this news recently myself.\"",
+      "text": "\"Hah, of course, you've never heard of it. Because I only\ngot this news recently myself.\""
+    },
+    {
+      "offset": 1553,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その情報源を殺しておいたほうがいいかな、と\n物騒な考えが頭をよぎる。",
+      "en": "The way he's not disclosing the news source terrifies me a\nbit.",
+      "text": "The way he's not disclosing the news source terrifies me a\nbit."
+    },
+    {
+      "offset": 1627,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ともかくだ――」",
+      "en": "\"Anyhow...\"",
+      "text": "\"Anyhow...\""
+    },
+    {
+      "offset": 1682,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「おにょ？　あ、お兄ちゃんだ♪」",
+      "en": "\"Hm? Oh, oniichan!\"",
+      "text": "\"Hm? Oh, oniichan!\""
+    },
+    {
+      "offset": 1721,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "声がしたかと思うと、突如、腰になにかがしが\nみつく。",
+      "en": "As soon as I hear the voice, I feel someone clinging around\nmy waist.",
+      "text": "As soon as I hear the voice, I feel someone clinging around\nmy waist."
+    },
+    {
+      "offset": 1779,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……さくら」",
+      "en": "\"Sakura...\"",
+      "text": "\"Sakura...\""
+    },
+    {
+      "offset": 1840,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「なにやってる？」",
+      "en": "\"What are you doing here?\"",
+      "text": "\"What are you doing here?\""
+    },
+    {
+      "offset": 1865,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「それは俺の台詞のような気がするが……食堂\n　に行こうかとな」",
+      "en": "\"That's my line... Anyway, I was thinking of going to the\ndining hall.\"",
+      "text": "\"That's my line... Anyway, I was thinking of going to the\ndining hall.\""
+    },
+    {
+      "offset": 1963,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ボクも行く〜」",
+      "en": "\"I'll go with you.\"",
+      "text": "\"I'll go with you.\""
+    },
+    {
+      "offset": 2022,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「仕方ない。ピクニックの神様の呪いも恐ろし\n　いが、愛と勇気を振り絞って俺も食堂へ行こ\n　う」",
+      "en": "\"What else can I do? Although the curse of the God of\nPicnics is horrible, I'll go to the dining hall with you,\ngathering love and courage.\"",
+      "text": "\"What else can I do? Although the curse of the God of\nPicnics is horrible, I'll go to the dining hall with you,\ngathering love and courage.\""
+    },
+    {
+      "offset": 2133,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「お前の愛と勇気なんて、すでに絞った雑巾み\n　たいに、渾身の力をこめんと出てこないだろ\n　うが」",
+      "en": "\"Love and courage wouldn't come out of you unless we squeeze\nyou like a half-dried rag.\"",
+      "text": "\"Love and courage wouldn't come out of you unless we squeeze\nyou like a half-dried rag.\""
+    },
+    {
+      "offset": 2234,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まぁ、こいつのことだから、季節はずれの転入\n生である、さくらの観察でもしたいのだろう。",
+      "en": "Oh, well. I know he must want to check out Sakura, since she\ntransferred here at such an odd time.",
+      "text": "Oh, well. I know he must want to check out Sakura, since she\ntransferred here at such an odd time."
+    },
+    {
+      "offset": 2375,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「おにょ、杉並くんも行くの？」",
+      "en": "\"Hm, are you going, too, Suginami?\"",
+      "text": "\"Hm, are you going, too, Suginami?\""
+    },
+    {
+      "offset": 2412,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が呼んでいたのを聞いたのだろう。人見知り\nの薄いさくらが、杉並の名前を呼びながら見上\nげる。",
+      "en": "I think Sakura must have heard me say his name. Sakura looks\nup at him in a friendly way as she calls him by name.",
+      "text": "I think Sakura must have heard me say his name. Sakura looks\nup at him in a friendly way as she calls him by name."
+    },
+    {
+      "offset": 2550,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ん？　なにか問題でもあるか？」",
+      "en": "\"Hm? Is there any problem?\"",
+      "text": "\"Hm? Is there any problem?\""
+    },
+    {
+      "offset": 2630,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……ないけどね」",
+      "en": "\"Not really...\"",
+      "text": "\"Not really...\""
+    },
+    {
+      "offset": 2694,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「あぁ、なるほど……悪いなふたりとも、俺は\n　急に用事を思い出すことにした」",
+      "en": "\"Oh, I see... Sorry, guys. I just remembered an errand to\ndo.\"",
+      "text": "\"Oh, I see... Sorry, guys. I just remembered an errand to\ndo.\""
+    },
+    {
+      "offset": 2776,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「は？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 2802,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「俺の分もたんまり食べてきてくれ」",
+      "en": "\"Enjoy the meal for me, too.\"",
+      "text": "\"Enjoy the meal for me, too.\""
+    },
+    {
+      "offset": 2855,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並は手を掲げて気持ち悪く笑いながら、教室\nのほうへ帰っていった。",
+      "en": "Suginami walks away to the classroom, raising his hands high\nwith a disgusting grin.",
+      "text": "Suginami walks away to the classroom, raising his hands high\nwith a disgusting grin."
+    },
+    {
+      "offset": 2927,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんだアイツ？　ついに電波でも受信した\n　か？」",
+      "en": "\"What the hell? Did a radio wave finally get through to\nhim?\"",
+      "text": "\"What the hell? Did a radio wave finally get through to\nhim?\""
+    },
+    {
+      "offset": 3018,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あ〜……まっ、いっか♪　食堂にゴーだよお\n　兄ちゃん」",
+      "en": "\"Well, try not to worry. Let's go to the dining hall,\noniichan!\"",
+      "text": "\"Well, try not to worry. Let's go to the dining hall,\noniichan!\""
+    },
+    {
+      "offset": 3097,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ようやく腰から離れたさくらが、指を合わせて\n相好を崩す。",
+      "en": "Sakura finally lets go of my waist and smiles ear to ear.",
+      "text": "Sakura finally lets go of my waist and smiles ear to ear."
+    },
+    {
+      "offset": 3159,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あぁ、そうだな。時間ももったいないし」",
+      "en": "\"Yeah, you're right. We don't wanna waste our time.\"",
+      "text": "\"Yeah, you're right. We don't wanna waste our time.\""
+    },
+    {
+      "offset": 3206,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頭をかいて、さくらを案内するようなつもりで\n食堂に行くことにした。",
+      "en": "Scratching my head, I decide to head over to the dining hall\nwith her under my guidance.",
+      "text": "Scratching my head, I decide to head over to the dining hall\nwith her under my guidance."
+    },
+    {
+      "offset": 3328,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "中庭を抜けて教員棟に入り、すぐのところが食\n堂だ。",
+      "en": "Passing through the yard to the faculty building, you'll see\nthe dining hall soon.",
+      "text": "Passing through the yard to the faculty building, you'll see\nthe dining hall soon."
+    },
+    {
+      "offset": 3382,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "学生数のわりに敷地が広いおかげで、席がない\nということはないが、やはり人が多い。",
+      "en": "The school area is too big for the number of students, so\nthere's no problem finding seats, but I think there are\nstill a lot of students here.",
+      "text": "The school area is too big for the number of students, so\nthere's no problem finding seats, but I think there are\nstill a lot of students here."
+    },
+    {
+      "offset": 3468,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「食堂の使い方は誰かに教えてもらったか？」",
+      "en": "\"Has anybody told you the procedure in the dining hall?\"",
+      "text": "\"Has anybody told you the procedure in the dining hall?\""
+    },
+    {
+      "offset": 3552,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うんん。今日がはじめてだよ」",
+      "en": "\"Nope. It's the first time for me to be here.\"",
+      "text": "\"Nope. It's the first time for me to be here.\""
+    },
+    {
+      "offset": 3589,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そっか。とりあえず簡単に説明すると……」",
+      "en": "\"I see. I'll explain it to you briefly...\"",
+      "text": "\"I see. I'll explain it to you briefly...\""
+    },
+    {
+      "offset": 3638,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "腕を組んで少しだけ考える。",
+      "en": "I cross my arms and think for a couple of seconds.",
+      "text": "I cross my arms and think for a couple of seconds."
+    },
+    {
+      "offset": 3671,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「説明と言うか、食券を買って料理をもらうか\n　購買でパンかなんかを買うくらいか」",
+      "en": "\"Well, it's not complicated. All you do is you buy the\nticket for the dish you want, or buy some bread at the\nstore.\"",
+      "text": "\"Well, it's not complicated. All you do is you buy the\nticket for the dish you want, or buy some bread at the\nstore.\""
+    },
+    {
+      "offset": 3787,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ま、普通だね」",
+      "en": "\"It's the same way.\"",
+      "text": "\"It's the same way.\""
+    },
+    {
+      "offset": 3810,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「やっぱり、こういうシステムはどこの国でも\n　同じなのか？」",
+      "en": "\"Is the lunch system the same in every country?\"",
+      "text": "\"Is the lunch system the same in every country?\""
+    },
+    {
+      "offset": 3876,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "食券の券売機を目指しながら、なんとなく興味\n本位に聞いてみる。",
+      "en": "I ask her out of curiosity as I point to the vending machine\nfor the ticket.",
+      "text": "I ask her out of curiosity as I point to the vending machine\nfor the ticket."
+    },
+    {
+      "offset": 3974,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「う〜ん、入り口で決まったマネーを払って、\n　バイキングにしてるところもあるけどね」",
+      "en": "\"Um... We sometimes pay money first at the entrance, then go\nfor the all-you-can-eat buffet.\"",
+      "text": "\"Um... We sometimes pay money first at the entrance, then go\nfor the all-you-can-eat buffet.\""
+    },
+    {
+      "offset": 4064,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「なるほど」",
+      "en": "\"I see.\"",
+      "text": "\"I see.\""
+    },
+    {
+      "offset": 4113,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「後、お米も出たりするし、メニューは中華が\n　結構多いんだよ……やっぱり食文化は東洋の\n　勝ちだね♪」",
+      "en": "\"And you can also order rice. There's lots of Chinese food,\nbelieve it or not. I think Oriental dishes are the most\npopular.\"",
+      "text": "\"And you can also order rice. There's lots of Chinese food,\nbelieve it or not. I think Oriental dishes are the most\npopular.\""
+    },
+    {
+      "offset": 4220,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「まぁ、日本｛びいき／贔屓｝はおいといて、とりあえずな\n　に食うか決めよう」",
+      "en": "\"Well, that's enough Japanisms. Let's order something to eat\nnow.\"",
+      "text": "\"Well, that's enough Japanisms. Let's order something to eat\nnow.\""
+    },
+    {
+      "offset": 4302,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "品目と値段の書かれた券売機を示す。",
+      "en": "I point out the vending machine, which displays the menu and\nthe price.",
+      "text": "I point out the vending machine, which displays the menu and\nthe price."
+    },
+    {
+      "offset": 4373,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あ、安いね♪」",
+      "en": "\"Oh, it's cheap.\"",
+      "text": "\"Oh, it's cheap.\""
+    },
+    {
+      "offset": 4396,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「その変わり、味も値段相応だけどな」",
+      "en": "\"I'll warn you the taste matches the price, though.\"",
+      "text": "\"I'll warn you the taste matches the price, though.\""
+    },
+    {
+      "offset": 4469,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「お勧めはなにかな？　ボク、お兄ちゃんと同\n　じ物がいいなぁ」",
+      "en": "\"What do you recommend? I wanna eat the same thing you eat,\noniichan.\"",
+      "text": "\"What do you recommend? I wanna eat the same thing you eat,\noniichan.\""
+    },
+    {
+      "offset": 4537,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「同じ物か」",
+      "en": "\"The same thing?\"",
+      "text": "\"The same thing?\""
+    },
+    {
+      "offset": 4556,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は券売機のボタンを見つめる。",
+      "en": "I stare at the vending machine's buttons.",
+      "text": "I stare at the vending machine's buttons."
+    },
+    {
+      "offset": 4788,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆券売機の説明◆",
+      "en": "◆Instruction for the vending machine◆",
+      "text": "◆Instruction for the vending machine◆"
+    },
+    {
+      "offset": 4833,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ピクニック日和とか抜かす杉並を無視して、さ\nくらと一緒に食堂を訪れる。",
+      "en": "I go to the dining hall with Sakura, ignoring Suginami's\nsuggestion of a picnic.",
+      "text": "I go to the dining hall with Sakura, ignoring Suginami's\nsuggestion of a picnic."
+    },
+    {
+      "offset": 4907,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "券売機の説明をすると、さくらは俺と同じモノ\nを食べると言うのだが……。",
+      "en": "When I explained about the vending machine, Sakura wanted to\norder the same thing I order.",
+      "text": "When I explained about the vending machine, Sakura wanted to\norder the same thing I order."
+    },
+    {
+      "offset": 4981,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この食堂には未知の料理を出すボタンがある。\nそこで――。",
+      "en": "This dining hall has a special button for a meal I don't\nknow. Therefore...",
+      "text": "This dining hall has a special button for a meal I don't\nknow. Therefore..."
+    }
+  ],
+  "choices": [
+    {
+      "offset": 4601,
+      "jp": "○無難に選ぶか……",
+      "en": "○I should make a normal choice...",
+      "text": "○I should make a normal choice..."
+    },
+    {
+      "offset": 4628,
+      "jp": "○共に地獄を味わう",
+      "en": "○Let's taste hell together.",
+      "text": "○Let's taste hell together."
+    }
+  ],
+  "names": {
+    "628": "Suginami",
+    "919": "Suginami",
+    "1007": "Suginami",
+    "1101": "Suginami",
+    "1243": "Suginami",
+    "1479": "Suginami",
+    "1672": "Sakura",
+    "1830": "Sakura",
+    "1953": "Sakura",
+    "2014": "Suginami",
+    "2365": "Sakura",
+    "2542": "Suginami",
+    "2620": "Sakura",
+    "2686": "Suginami",
+    "2794": "Suginami",
+    "3008": "Sakura",
+    "3542": "Sakura",
+    "3777": "Sakura",
+    "3964": "Sakura",
+    "4103": "Sakura",
+    "4363": "Sakura",
+    "4459": "Sakura"
+  }
+}

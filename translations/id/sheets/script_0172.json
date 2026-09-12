@@ -1,0 +1,422 @@
+{
+  "scene": "script_0172.obj",
+  "dialogues": [
+    {
+      "offset": 191,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「じゃあ今日のお昼はどうするんですか？」",
+      "en": "\"So what are you having for lunch today?\"",
+      "text": "\"So what are you having for lunch today?\""
+    },
+    {
+      "offset": 264,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「購買でパンを買って食べようと思います」",
+      "en": "\"I think I'm going to buy some sandwiches from the store.\"",
+      "text": "\"I think I'm going to buy some sandwiches from the store.\""
+    },
+    {
+      "offset": 311,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「俺と同じか……。それなら一緒に行きます\n　か？」",
+      "en": "\"That's my plan too. Would you like to come with me?\"",
+      "text": "\"That's my plan too. Would you like to come with me?\""
+    },
+    {
+      "offset": 393,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい」",
+      "en": "\"Sure.\"",
+      "text": "\"Sure.\""
+    },
+    {
+      "offset": 467,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩と一緒では仕方ないが、俺達の横を次々\nと学生が追い越していく。",
+      "en": "As I walked with Moe-sempai, a number of students passed us\nby.",
+      "text": "As I walked with Moe-sempai, a number of students passed us\nby."
+    },
+    {
+      "offset": 539,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ま、美人と早歩きってのも様になるまい。",
+      "en": "At least I look good, walking with a pretty girl.",
+      "text": "At least I look good, walking with a pretty girl."
+    },
+    {
+      "offset": 685,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「混んでますね？」",
+      "en": "\"It's crowded.\"",
+      "text": "\"It's crowded.\""
+    },
+    {
+      "offset": 710,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「……そうですね」",
+      "en": "\"......Yeah, it is.\"",
+      "text": "\"......Yeah, it is.\""
+    },
+    {
+      "offset": 735,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "売り場の周りは、予想通り大混雑だった。",
+      "en": "As I expected, the store was overcrowded.",
+      "text": "As I expected, the store was overcrowded."
+    },
+    {
+      "offset": 825,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「最後尾はここでいいんでしょうか？」",
+      "en": "\"Is this the end of the line?\"",
+      "text": "\"Is this the end of the line?\""
+    },
+    {
+      "offset": 868,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩が俺に確認するように、人ごみの後ろに\n並ぼうとする。",
+      "en": "She asked me and tried to get in the line.",
+      "text": "She asked me and tried to get in the line."
+    },
+    {
+      "offset": 932,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや、それじゃあ買えませんよ」",
+      "en": "\"You know if you wait in this line, you won't be able to buy\nanything.\"",
+      "text": "\"You know if you wait in this line, you won't be able to buy\nanything.\""
+    },
+    {
+      "offset": 980,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「えっ？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 1025,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺と眞子の視線が合った。互いのやる気を確認\nする。この戦場では男も女も関係ない。いるの\nは敵か味方か、だけだ。",
+      "en": "\"You just wait here. I'll go and get you something.\"",
+      "text": "\"You just wait here. I'll go and get you something.\""
+    },
+    {
+      "offset": 1140,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「萌先輩は待っていてください。俺達が買って\n　きますから」",
+      "en": "I rolled up my sleeves and took a deep breath.\"",
+      "text": "I rolled up my sleeves and took a deep breath.\""
+    },
+    {
+      "offset": 1204,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺と眞子は、腕まくりして息を整える。",
+      "en": "I have to be aggressive in this situation.",
+      "text": "I have to be aggressive in this situation."
+    },
+    {
+      "offset": 1345,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「え、でも……」",
+      "en": "\"B, But......\"",
+      "text": "\"B, But......\""
+    },
+    {
+      "offset": 1368,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「何がいいです？」",
+      "en": "\"Don't worry. What do you want to eat?\"",
+      "text": "\"Don't worry. What do you want to eat?\""
+    },
+    {
+      "offset": 1402,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あの……ではどら焼きをお願いします」",
+      "en": "\"Well...... can you get me a bean paste waffle?\"",
+      "text": "\"Well...... can you get me a bean paste waffle?\""
+    },
+    {
+      "offset": 1447,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「どら焼きですか？」",
+      "en": "\"A bean paste waffle?\"",
+      "text": "\"A bean paste waffle?\""
+    },
+    {
+      "offset": 1500,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 1515,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "随分と甘いものを頼むんだな。昼飯は菓子パン\n系より、サンドイッチとかコロッケとかが入っ\nているほうがいいと思うんだが。",
+      "en": "She wants something sweet, huh? I think sandwiches and\nburgers are more suitable for lunch...",
+      "text": "She wants something sweet, huh? I think sandwiches and\nburgers are more suitable for lunch..."
+    },
+    {
+      "offset": 1638,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「他には？」",
+      "en": "\"Anything else?\"",
+      "text": "\"Anything else?\""
+    },
+    {
+      "offset": 1666,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あとは適当にお願いします」",
+      "en": "\"I'll leave it up to you.\"",
+      "text": "\"I'll leave it up to you.\""
+    },
+    {
+      "offset": 1732,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子と頷きあい、戦地に赴く。",
+      "en": "\"All right. See you.\"",
+      "text": "\"All right. See you.\""
+    },
+    {
+      "offset": 1850,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺達は同時に突撃した。",
+      "en": "I left her and headed toward the war zone.",
+      "text": "I left her and headed toward the war zone."
+    },
+    {
+      "offset": 1903,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "I pushed through the crowd and pulled on people to move\nforward.",
+      "text": "I pushed through the crowd and pulled on people to move\nforward."
+    },
+    {
+      "offset": 1937,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ぬうぁぁぁ……かったりぃ……」",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 1976,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "人ごみから脱して、思わずホームランを打たれ\nた投手のように膝をつきそうになる。",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 2122,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩の傍らにはすでに眞子が立っていた。",
+      "en": "\"Maaaan...... What a pain......\"",
+      "text": "\"Maaaan...... What a pain......\""
+    },
+    {
+      "offset": 2267,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "２、３人、悲鳴を上げて宙を舞っている男子生\n徒がいたが、あれはこいつの仕業か？",
+      "en": "I escaped from the crowd and kneeled down as if someone hit\na homerun with my pitch.",
+      "text": "I escaped from the crowd and kneeled down as if someone hit\na homerun with my pitch."
+    },
+    {
+      "offset": 2379,
+      "speaker": "Moe",
+      "speaker_jp": "眞子",
+      "jp": "「紳士は女の子に道を譲るものなのよ」",
+      "en": "\"Thank you for going through that trouble for me.\"",
+      "text": "\"Thank you for going through that trouble for me.\""
+    },
+    {
+      "offset": 2422,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子が、ふっふっふっと勝ち誇ったような笑み\nを浮かべる。",
+      "en": "\"Here you go. Please choose what you want to eat.\"",
+      "text": "\"Here you go. Please choose what you want to eat.\""
+    },
+    {
+      "offset": 2482,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "きっと立ちふさがった奴らは、除雪車に立ち向\nかう雪ダルマのように粉砕されたのだろう。",
+      "en": "\"Thank you.\"",
+      "text": "\"Thank you.\""
+    },
+    {
+      "offset": 2572,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ま、いいや。どうぞ、萌先輩。好きなのを選\n　んでください」",
+      "en": "She bowed at me then took out a bean paste waffle and a\nsandwich out of the bag.",
+      "text": "She bowed at me then took out a bean paste waffle and a\nsandwich out of the bag."
+    },
+    {
+      "offset": 2664,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「ありがとうございます」",
+      "en": "\"Thank you very much.\"",
+      "text": "\"Thank you very much.\""
+    },
+    {
+      "offset": 2695,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ペコリと頭を下げ、萌先輩が袋に手を入れてど\nら焼きとサンドイッチをとりだす。",
+      "en": "\"That's all you want?\"",
+      "text": "\"That's all you want?\""
+    },
+    {
+      "offset": 2803,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「いただきます」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 2826,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「それだけでいいんですか？」",
+      "en": "\"Okay.\"",
+      "text": "\"Okay.\""
+    },
+    {
+      "offset": 2887,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい」",
+      "en": "\"Well, I shall go now.\"",
+      "text": "\"Well, I shall go now.\""
+    },
+    {
+      "offset": 2902,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「そうですか……」",
+      "en": "\"Oh, yes. Good luck with your exam.\"",
+      "text": "\"Oh, yes. Good luck with your exam.\""
+    },
+    {
+      "offset": 3003,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「それじゃあ、私達は失礼しますね」",
+      "en": "\"Yes. Thank you very much. I'll see you later.\"",
+      "text": "\"Yes. Thank you very much. I'll see you later.\""
+    },
+    {
+      "offset": 3185,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "礼儀正しすぎるぐらいお礼を言って、萌先輩が\n眞子に手を引かれ、離れていく。",
+      "en": "She politely thanked me and walked away.",
+      "text": "She politely thanked me and walked away."
+    },
+    {
+      "offset": 3265,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さて……」",
+      "en": "\"Well......\"",
+      "text": "\"Well......\""
+    },
+    {
+      "offset": 3284,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺も勉強でもするか……。",
+      "en": "I guess I should study some more......",
+      "text": "I guess I should study some more......"
+    },
+    {
+      "offset": 3313,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ひとり分としては少々重めの袋を持って、教室\nにもどることにした。",
+      "en": "I headed back to the classroom with a bagful of food.",
+      "text": "I headed back to the classroom with a bagful of food."
+    },
+    {
+      "offset": 3510,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆お昼はどら焼き◆",
+      "en": "◆Bean paste waffle for lunch◆",
+      "text": "◆Bean paste waffle for lunch◆"
+    },
+    {
+      "offset": 3571,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "せっかくだし、一緒に購買に行くことにした。",
+      "en": "Moe-sempai and I decided to go to the store to get some\nlunch together.",
+      "text": "Moe-sempai and I decided to go to the store to get some\nlunch together."
+    },
+    {
+      "offset": 3641,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、人混みに萌先輩は如何にもミスマッチ\nである。それで、リクエストを聞いて、俺が買\nいに行く事にした。",
+      "en": "Moe-sempai doesn't know how to act in the crowd. I asked her\nwhat she wanted, so I could go get the food for her.",
+      "text": "Moe-sempai doesn't know how to act in the crowd. I asked her\nwhat she wanted, so I could go get the food for her."
+    },
+    {
+      "offset": 3750,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "リクエストはどら焼きだった。昼飯にどら焼き\nか…。",
+      "en": "She requested a bean paste waffle. A bean paste waffle for\nlunch......?",
+      "text": "She requested a bean paste waffle. A bean paste waffle for\nlunch......?"
+    }
+  ],
+  "choices": [],
+  "names": {
+    "258": "Moe",
+    "387": "Moe",
+    "679": "Moe",
+    "819": "Moe",
+    "974": "Moe",
+    "1339": "Moe",
+    "1396": "Moe",
+    "1494": "Moe",
+    "1660": "Moe",
+    "2371": "Moe",
+    "2658": "Moe",
+    "2797": "Moe",
+    "2881": "Moe",
+    "2997": "Moe"
+  }
+}

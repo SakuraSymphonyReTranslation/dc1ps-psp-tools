@@ -1,0 +1,599 @@
+{
+  "scene": "script_0046.obj",
+  "dialogues": [
+    {
+      "offset": 141,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さて、今日も昼飯を調達に行くか。",
+      "en": "Time to secure today's afternoon rations.",
+      "text": "Time to secure today's afternoon rations."
+    },
+    {
+      "offset": 178,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何食おう。",
+      "en": "What should I eat?",
+      "text": "What should I eat?"
+    },
+    {
+      "offset": 193,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やはり狙うは焼きそばパンだろう。",
+      "en": "If they're available, I'd aim for the yakisoba bread.",
+      "text": "If they're available, I'd aim for the yakisoba bread."
+    },
+    {
+      "offset": 230,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、競争率が激しかったら、もう売れてる\nかもしれないな。",
+      "en": "But the competition is fierce... it might be sold out by now\nalready.",
+      "text": "But the competition is fierce... it might be sold out by now\nalready."
+    },
+    {
+      "offset": 294,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その時はコロッケパンという手も……。",
+      "en": "I guess I'd take a croquette bread if that happens...",
+      "text": "I guess I'd take a croquette bread if that happens..."
+    },
+    {
+      "offset": 335,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ま、とりあえず、行ってみるか。",
+      "en": "In any case, better go now.",
+      "text": "In any case, better go now."
+    },
+    {
+      "offset": 370,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ん？　あれは……。",
+      "en": "Mm? That's...",
+      "text": "Mm? That's..."
+    },
+    {
+      "offset": 393,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "反対側から、制服姿の環に出会う。",
+      "en": "Turning around, I bumped into Tamaki.",
+      "text": "Turning around, I bumped into Tamaki."
+    },
+    {
+      "offset": 468,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「あら、朝倉様」",
+      "en": "\"My, Asakura-sama.\"",
+      "text": "\"My, Asakura-sama.\""
+    },
+    {
+      "offset": 491,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「今日のお昼は、巫女服は着ないのか？」",
+      "en": "\"You're not wearing your miko dress this afternoon?\"",
+      "text": "\"You're not wearing your miko dress this afternoon?\""
+    },
+    {
+      "offset": 562,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「別にいつもいつも、巫女装束って訳じゃない\n　んですよ」",
+      "en": "\"It isn't quite something I wear at all times.\"",
+      "text": "\"It isn't quite something I wear at all times.\""
+    },
+    {
+      "offset": 624,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そっか、まあそうだな」",
+      "en": "\"Hah, I guess.\"",
+      "text": "\"Hah, I guess.\""
+    },
+    {
+      "offset": 655,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちょっとした冗談だったんだが、真面目に返す\n環ってば、なんだかかわいい。",
+      "en": "I was mostly joking, but her serious reply was somehow cute.",
+      "text": "I was mostly joking, but her serious reply was somehow cute."
+    },
+    {
+      "offset": 759,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「あの姿になる時は、特別ですから……」",
+      "en": "\"That costume is only for special circumstances...\"",
+      "text": "\"That costume is only for special circumstances...\""
+    },
+    {
+      "offset": 804,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「特別？」",
+      "en": "\"Special circumstances?\"",
+      "text": "\"Special circumstances?\""
+    },
+    {
+      "offset": 847,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ええ……」",
+      "en": "\"Yes...\"",
+      "text": "\"Yes...\""
+    },
+    {
+      "offset": 866,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環はそれだけしか言わない。",
+      "en": "Tamaki wouldn't say any more than that.",
+      "text": "Tamaki wouldn't say any more than that."
+    },
+    {
+      "offset": 897,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、言いたくないなら別にいいだろう。",
+      "en": "Well, if she wants to keep it private, I can't say anything.",
+      "text": "Well, if she wants to keep it private, I can't say anything."
+    },
+    {
+      "offset": 940,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こっちも無理に聞くようなことじゃない。",
+      "en": "I don't want to force anything out of her either.",
+      "text": "I don't want to force anything out of her either."
+    },
+    {
+      "offset": 985,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「この辺をうろついているってことは、今日の\n　お昼は購買か？」",
+      "en": "\"If you were hanging around here, I guess you had to buy\nlunch today?\"",
+      "text": "\"If you were hanging around here, I guess you had to buy\nlunch today?\""
+    },
+    {
+      "offset": 1079,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「はい。今日はお弁当を忘れてしまったので、\n　早く行かなければ無くなってしまうと思って」",
+      "en": "\"Yes. As I had forgotten my lunchbox today, I thought that\nif I didn't hurry, there would be nothing left.\"",
+      "text": "\"Yes. As I had forgotten my lunchbox today, I thought that\nif I didn't hurry, there would be nothing left.\""
+    },
+    {
+      "offset": 1173,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そっか。で、何を買ったんだ？」",
+      "en": "\"Right. What did you buy?\"",
+      "text": "\"Right. What did you buy?\""
+    },
+    {
+      "offset": 1221,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「これです」",
+      "en": "\"This.\"",
+      "text": "\"This.\""
+    },
+    {
+      "offset": 1240,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「おお……それは！」",
+      "en": "\"Ohh... that's!\"",
+      "text": "\"Ohh... that's!\""
+    },
+    {
+      "offset": 1267,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環の手に握られていたのは、男子たちが競って\n奪い合う、焼きそばパンだった。",
+      "en": "Tamaki held in her hands, the prized possession that men\nwould come to blows for; yakisoba bread.",
+      "text": "Tamaki held in her hands, the prized possession that men\nwould come to blows for; yakisoba bread."
+    },
+    {
+      "offset": 1347,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「それ、まだ残ってた？」",
+      "en": "\"Is there any more left?\"",
+      "text": "\"Is there any more left?\""
+    },
+    {
+      "offset": 1378,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は祈るような気持ちで尋ねる。",
+      "en": "Praying for a positive response, I enquired.",
+      "text": "Praying for a positive response, I enquired."
+    },
+    {
+      "offset": 1413,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は一瞬、考え込む仕草をする。",
+      "en": "Tamaki's expression turned to one of ponderance.",
+      "text": "Tamaki's expression turned to one of ponderance."
+    },
+    {
+      "offset": 1476,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ああ……。そういえばわたくしが最後だった\n　かも」",
+      "en": "\"I don't believe so... the one I have, was the last.\"",
+      "text": "\"I don't believe so... the one I have, was the last.\""
+    },
+    {
+      "offset": 1551,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「やっぱり……」",
+      "en": "\"Of course...\"",
+      "text": "\"Of course...\""
+    },
+    {
+      "offset": 1574,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そうだよな。",
+      "en": "Naturally.",
+      "text": "Naturally."
+    },
+    {
+      "offset": 1593,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「コロッケパンとかはあった？」",
+      "en": "\"What about croquette bread?\"",
+      "text": "\"What about croquette bread?\""
+    },
+    {
+      "offset": 1656,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「いえ……確か、わたくしが帰るときには皆さ\n　んが殺到されていたので……多分……」",
+      "en": "\"Well... at the time I left, there was a sudden flood for\nbread at the store, so...\"",
+      "text": "\"Well... at the time I left, there was a sudden flood for\nbread at the store, so...\""
+    },
+    {
+      "offset": 1761,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そっか……」",
+      "en": "\"I see...\"",
+      "text": "\"I see...\""
+    },
+    {
+      "offset": 1782,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "スタートダッシュの遅れが響いたか。",
+      "en": "I should've gotten there earlier.",
+      "text": "I should've gotten there earlier."
+    },
+    {
+      "offset": 1821,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺、もしかして昼飯抜き？",
+      "en": "Looks like I'd have to skip lunch today.",
+      "text": "Looks like I'd have to skip lunch today."
+    },
+    {
+      "offset": 1878,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「あの……」",
+      "en": "\"Um...\"",
+      "text": "\"Um...\""
+    },
+    {
+      "offset": 1897,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ん？」",
+      "en": "\"Mm?\"",
+      "text": "\"Mm?\""
+    },
+    {
+      "offset": 1921,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「これって人気のある商品なんですか？」",
+      "en": "\"Is this bread particularly popular?\"",
+      "text": "\"Is this bread particularly popular?\""
+    },
+    {
+      "offset": 1966,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の落ち込み具合で察したのか、環が尋ねる。",
+      "en": "Seeing my crestfallen state, Tamaki started to speak.",
+      "text": "Seeing my crestfallen state, Tamaki started to speak."
+    },
+    {
+      "offset": 2015,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ああ、数が少ないらしくてな。その上、美味\n　いから、いつも取り合いになっているらしい」",
+      "en": "\"Yeah, there aren't many in stock every day. On top of that,\nit's delicious, so there's always a scramble for them.\"",
+      "text": "\"Yeah, there aren't many in stock every day. On top of that,\nit's delicious, so there's always a scramble for them.\""
+    },
+    {
+      "offset": 2109,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一週間に運がよくて２回しか食べられない。",
+      "en": "Even with the luck of the devil himself, you'd be\nhard-pressed to eat it more than once a week.",
+      "text": "Even with the luck of the devil himself, you'd be\nhard-pressed to eat it more than once a week."
+    },
+    {
+      "offset": 2154,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "伝説の焼きそばパン……。",
+      "en": "The legendary yakisoba bread...",
+      "text": "The legendary yakisoba bread..."
+    },
+    {
+      "offset": 2211,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「朝倉様も、これがお好きなんですか？」",
+      "en": "\"And, you like this type of bread?\"",
+      "text": "\"And, you like this type of bread?\""
+    },
+    {
+      "offset": 2256,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「え？　そりゃまあ……」",
+      "en": "\"Eh? Well, yeah...\"",
+      "text": "\"Eh? Well, yeah...\""
+    },
+    {
+      "offset": 2313,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「じゃあ、これ差し上げます」",
+      "en": "\"In that case, please accept this.\"",
+      "text": "\"In that case, please accept this.\""
+    },
+    {
+      "offset": 2348,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「え？　いいの？」",
+      "en": "\"Eh? Really?\"",
+      "text": "\"Eh? Really?\""
+    },
+    {
+      "offset": 2373,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環の声が一瞬、曇り空から降りてきた天使の梯\n子のように思える。",
+      "en": "Tamaki's envisage transformed to that of an angel,\ndescending from the cloudy sky.",
+      "text": "Tamaki's envisage transformed to that of an angel,\ndescending from the cloudy sky."
+    },
+    {
+      "offset": 2439,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そうじゃなければ、地獄に垂らされた蜘蛛の糸。",
+      "en": "Or if not that, a spider hanging from it's web in the depths\nof hell.",
+      "text": "Or if not that, a spider hanging from it's web in the depths\nof hell."
+    },
+    {
+      "offset": 2488,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この際、もう、何でもいい。",
+      "en": "Whichever.",
+      "text": "Whichever."
+    },
+    {
+      "offset": 2519,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、これをもらってしまったら、環の分が\nなくなってしまう。",
+      "en": "But, if I take this, what about Tamaki?",
+      "text": "But, if I take this, what about Tamaki?"
+    },
+    {
+      "offset": 2587,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「でも、環の分が無くなるよな」",
+      "en": "\"But you woun't have anything left...\"",
+      "text": "\"But you woun't have anything left...\""
+    },
+    {
+      "offset": 2633,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「いいんです。わたくしにはまだ、メロンパン\n　がありますから」",
+      "en": "\"It's fine. I still have a packet of melon bread, as well.\"",
+      "text": "\"It's fine. I still have a packet of melon bread, as well.\""
+    },
+    {
+      "offset": 2701,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環はそう言って、メロンパンを取り出して微笑\nむ。",
+      "en": "She showed me her other packet, smiling.",
+      "text": "She showed me her other packet, smiling."
+    },
+    {
+      "offset": 2753,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな仕草が、何か可愛いと感じた。",
+      "en": "Those actions and movements... how cute.",
+      "text": "Those actions and movements... how cute."
+    },
+    {
+      "offset": 2820,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「どうぞ、朝倉様」",
+      "en": "\"Here, Asakura-sama.\"",
+      "text": "\"Here, Asakura-sama.\""
+    },
+    {
+      "offset": 2845,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そっか……。悪いな」",
+      "en": "\"Alright... sorry, and thanks.\"",
+      "text": "\"Alright... sorry, and thanks.\""
+    },
+    {
+      "offset": 2874,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日は、尻尾を振った犬にでも何にでもなるぞ。",
+      "en": "Today, I am a dog with it's tail up.",
+      "text": "Today, I am a dog with it's tail up."
+    },
+    {
+      "offset": 2923,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "交換条件に突拍子もないことを言われようとも、",
+      "en": "People may say things about it being an unfair trade,",
+      "text": "People may say things about it being an unfair trade,"
+    },
+    {
+      "offset": 2972,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日は、何でも、言うこと聞こうじゃないか。",
+      "en": "But I have no ears for them today.",
+      "text": "But I have no ears for them today."
+    },
+    {
+      "offset": 3019,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、身構えていたのだが、返ってきた言葉はと\nても淡白だった。",
+      "en": "The words I heard immediately after, didn't tally too well\nwith my stance.",
+      "text": "The words I heard immediately after, didn't tally too well\nwith my stance."
+    },
+    {
+      "offset": 3113,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「では、私は急ぎますので」",
+      "en": "\"Then, I'd be leaving now.\"",
+      "text": "\"Then, I'd be leaving now.\""
+    },
+    {
+      "offset": 3151,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は俺に焼きそばパンを渡し、さっさと教室の\n方へと帰っていく。",
+      "en": "As soon as she handed the yakisoba bread to me, she quickly\nreturned to the classroom.",
+      "text": "As soon as she handed the yakisoba bread to me, she quickly\nreturned to the classroom."
+    },
+    {
+      "offset": 3226,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あっさりと……。",
+      "en": "So hurriedly...",
+      "text": "So hurriedly..."
+    },
+    {
+      "offset": 3249,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（そんなに、あっさり帰らなくても……）",
+      "en": "\"(You don't have to go so fast...)\"",
+      "text": "\"(You don't have to go so fast...)\""
+    },
+    {
+      "offset": 3294,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "せっかくなんだから、どこかで一緒にメシでも\n食べようかと思ったけれど、声をかけるヒマも\nなかったな。",
+      "en": "After all that, I was going to ask to eat together, but I\ncouldn't call her out before she left.",
+      "text": "After all that, I was going to ask to eat together, but I\ncouldn't call her out before she left."
+    },
+    {
+      "offset": 3397,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "積極的なんだか、消極的なんだか……。まあ、\n少なくとも、環が優しいことだけは確かだ。",
+      "en": "Well, for better or for worse... there's no doubt that she's\na kind person.",
+      "text": "Well, for better or for worse... there's no doubt that she's\na kind person."
+    },
+    {
+      "offset": 3614,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆伝説の焼きそばパン◆",
+      "en": "◆Legendary Yakisoba Bread?◆",
+      "text": "◆Legendary Yakisoba Bread?◆"
+    },
+    {
+      "offset": 3665,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昼休み、購買へパンを買いに行こうとすると、\n途中で環に会う。",
+      "en": "On my way to buy bread, I bumped into Tamaki.",
+      "text": "On my way to buy bread, I bumped into Tamaki."
+    },
+    {
+      "offset": 3729,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環に焼きそばパンが売れてしまったかどうか聞\nくと、売り切れていたらしい。",
+      "en": "She was coming back from buying bread herself. According to\nher, it's probably all sold out by now.",
+      "text": "She was coming back from buying bread herself. According to\nher, it's probably all sold out by now."
+    },
+    {
+      "offset": 3805,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、随分とがっかりしてしまったが、なんと\n環は自分の分をくれると言う。それも無条件で。",
+      "en": "Seeing my crestfallen state, Tamaki insisted on giving me\npart of hers, no strings attached.",
+      "text": "Seeing my crestfallen state, Tamaki insisted on giving me\npart of hers, no strings attached."
+    },
+    {
+      "offset": 3897,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "変なヤツだと思ってたけど、案外優しいところ\nもあるんだな。",
+      "en": "She's a little weird, but she's definitely a kind person.",
+      "text": "She's a little weird, but she's definitely a kind person."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "462": "Tamaki",
+    "556": "Tamaki",
+    "753": "Tamaki",
+    "841": "Tamaki",
+    "1073": "Tamaki",
+    "1215": "Tamaki",
+    "1470": "Tamaki",
+    "1650": "Tamaki",
+    "1872": "Tamaki",
+    "1915": "Tamaki",
+    "2205": "Tamaki",
+    "2307": "Tamaki",
+    "2627": "Tamaki",
+    "2814": "Tamaki",
+    "3107": "Tamaki"
+  }
+}

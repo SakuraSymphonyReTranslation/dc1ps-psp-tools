@@ -1,0 +1,533 @@
+{
+  "scene": "script_0426.obj",
+  "dialogues": [
+    {
+      "offset": 116,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この家には魔法使いが住んでいた。",
+      "en": "A witch used to live in this house.",
+      "text": "A witch used to live in this house."
+    },
+    {
+      "offset": 153,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "別にボロ家ではないけれど、新しくもない、た\nしかに妖怪でも住んでいそうな日本家屋。",
+      "en": "The house isn't exactly shabby, but isn't new either. There\ncould be a ghost living in this old Japanese house.",
+      "text": "The house isn't exactly shabby, but isn't new either. There\ncould be a ghost living in this old Japanese house."
+    },
+    {
+      "offset": 241,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 260,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "子供の頃、登下校のたびに、俺はついその家を\n垣根の隙間から覗き込んでいた。",
+      "en": "I used to look over the hedge into the house on the way to\nschool.",
+      "text": "I used to look over the hedge into the house on the way to\nschool."
+    },
+    {
+      "offset": 338,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "建物に興味があったのではない。その家には広\nい庭があって、日当たりのよい縁側でいつも１\n人のばあちゃんが白い猫を抱いて座っていた。",
+      "en": "I wasn't interested in the building itself, but rather the\nold lady who used to sit on the porch in the sun, holding a\nwhite cat.",
+      "text": "I wasn't interested in the building itself, but rather the\nold lady who used to sit on the porch in the sun, holding a\nwhite cat."
+    },
+    {
+      "offset": 471,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ばあちゃんは遠い国からやってきた人で、髪が\n金色で、瞳が青かった。",
+      "en": "The old lady was a foreigner, with blonde hair and blue\neyes.",
+      "text": "The old lady was a foreigner, with blonde hair and blue\neyes."
+    },
+    {
+      "offset": 541,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だが、印象に残っているのはそんな外見ではな\nく――いつも幸せそうな笑顔だった。",
+      "en": "What always sticks out in my memory is not her appearance\nbut her happy face.",
+      "text": "What always sticks out in my memory is not her appearance\nbut her happy face."
+    },
+    {
+      "offset": 623,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "実際のところ、彼女は俺の母方の祖母で、その\n土地を借りていたのが俺達なのだが……まだ、\n一度も話をしたことはなかった。",
+      "en": "As a matter of fact, she's my grandmother on my mother's\nside, and we were renting her house, but I never had the\nchance to talk with her.",
+      "text": "As a matter of fact, she's my grandmother on my mother's\nside, and we were renting her house, but I never had the\nchance to talk with her."
+    },
+    {
+      "offset": 744,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 757,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ある日、いつものように家をのぞきこんでいる\nと、彼女と目があってしまった。",
+      "en": "One day when I was looking into her house, I met her gaze.",
+      "text": "One day when I was looking into her house, I met her gaze."
+    },
+    {
+      "offset": 854,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「おいで」",
+      "en": "\"Come inside, dear.\"",
+      "text": "\"Come inside, dear.\""
+    },
+    {
+      "offset": 871,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "きれいな発音と、｛りゅうちょう／流暢｝な日本語。",
+      "en": "She spoke in clear and beautiful Japanese.",
+      "text": "She spoke in clear and beautiful Japanese."
+    },
+    {
+      "offset": 924,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はその言葉に従って、素直に家の中に足を踏\nみ入れた。",
+      "en": "I did as she said and walked through the gate.",
+      "text": "I did as she said and walked through the gate."
+    },
+    {
+      "offset": 982,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "１本だけ植えられた桜の匂いに包まれた、あた\nたかい庭だった。",
+      "en": "It was a cozy yard with the smell of cherry blossoms.",
+      "text": "It was a cozy yard with the smell of cherry blossoms."
+    },
+    {
+      "offset": 1065,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「こんにちは」",
+      "en": "\"Hello!\"",
+      "text": "\"Hello!\""
+    },
+    {
+      "offset": 1086,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "彼女の言葉に、俺は口を動かさず頭だけ下げた。",
+      "en": "I bowed my head without saying anything.",
+      "text": "I bowed my head without saying anything."
+    },
+    {
+      "offset": 1135,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ばあちゃんが嫌いだったわけではないが、特に\n話すこともなかったのだ。",
+      "en": "I don't mean I disliked her. I just didn't know what to say.",
+      "text": "I don't mean I disliked her. I just didn't know what to say."
+    },
+    {
+      "offset": 1207,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だが、彼女はそんなことは気にせず、ただニコ\nニコとしながら縁側に座っていた。",
+      "en": "She seemed carefre, she kept sitting on the porch smiling.",
+      "text": "She seemed carefre, she kept sitting on the porch smiling."
+    },
+    {
+      "offset": 1306,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「口がきけないの？」",
+      "en": "\"Can you talk?\"",
+      "text": "\"Can you talk?\""
+    },
+    {
+      "offset": 1333,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなことはない。幼い俺が言った。",
+      "en": "'Of course I can', I said like a little child.",
+      "text": "'Of course I can', I said like a little child."
+    },
+    {
+      "offset": 1391,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「そう、それは良かった」",
+      "en": "\"Good.\"",
+      "text": "\"Good.\""
+    },
+    {
+      "offset": 1422,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "彼女は白い猫を膝から庭におろす。",
+      "en": "She put down her white cat in the yard.",
+      "text": "She put down her white cat in the yard."
+    },
+    {
+      "offset": 1459,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "猫はばあちゃんに一声鳴きかけると、そのまま\nどこかに走り去ってしまった。",
+      "en": "The cat purred to grandma and ran away.",
+      "text": "The cat purred to grandma and ran away."
+    },
+    {
+      "offset": 1554,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「お菓子をあげようか？」",
+      "en": "\"Do you want a snack?\"",
+      "text": "\"Do you want a snack?\""
+    },
+    {
+      "offset": 1585,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "彼女はそう言って、なにもない手の平を俺に向\nけた。",
+      "en": "After she spoke, she showed me her empty hand.",
+      "text": "After she spoke, she showed me her empty hand."
+    },
+    {
+      "offset": 1639,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "差し出された手にはお菓子などのっていない。",
+      "en": "There was no snack on her hand.",
+      "text": "There was no snack on her hand."
+    },
+    {
+      "offset": 1686,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の仏頂面を見てばあちゃんは悪戯っぽく笑う\nと、手をゆっくりと閉じた。",
+      "en": "Grandma grinned teasingly, looking at my sulky face, and\nthen closed her hand slowly.",
+      "text": "Grandma grinned teasingly, looking at my sulky face, and\nthen closed her hand slowly."
+    },
+    {
+      "offset": 1760,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、再び開いた手には小さなお饅頭がのっ\nていた。",
+      "en": "She opened her hand, and this time I saw a small steamed\nbean-jam bun there.",
+      "text": "She opened her hand, and this time I saw a small steamed\nbean-jam bun there."
+    },
+    {
+      "offset": 1816,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "手品？",
+      "en": "Magic?",
+      "text": "Magic?"
+    },
+    {
+      "offset": 1827,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう、俺は思った。",
+      "en": "I thought it was.",
+      "text": "I thought it was."
+    },
+    {
+      "offset": 1869,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「手品じゃないわ」",
+      "en": "\"It's not magic.\"",
+      "text": "\"It's not magic.\""
+    },
+    {
+      "offset": 1894,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "彼女は答え、そして、人目を気にするように前\nかがみになると、唇に指をあてて微笑む。",
+      "en": "After she said that, she leaned forward as if to prevent\nanyone else hearing, and then smiled with her finger on her\nlips.",
+      "text": "After she said that, she leaned forward as if to prevent\nanyone else hearing, and then smiled with her finger on her\nlips."
+    },
+    {
+      "offset": 1999,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「約束は守れる？」",
+      "en": "\"Can you keep a promise?\"",
+      "text": "\"Can you keep a promise?\""
+    },
+    {
+      "offset": 2024,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "分からない。",
+      "en": "I don't know.",
+      "text": "I don't know."
+    },
+    {
+      "offset": 2041,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どんな約束か分からないと、約束できない。",
+      "en": "I can't make any promise until I know what it is.",
+      "text": "I can't make any promise until I know what it is."
+    },
+    {
+      "offset": 2086,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その答えに、だが、ばあちゃんは嬉しそうに笑っ\nた。",
+      "en": "Grandma smiled with my answer in satisfaction.",
+      "text": "Grandma smiled with my answer in satisfaction."
+    },
+    {
+      "offset": 2159,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「あなたは約束の大切さを知っているから、特\n　別に教えてあげるわ。お母さんにも内緒よ？」",
+      "en": "\"I know you understand the importance of the promise. So I\nwill tell you this, but don't tell your mom!\"",
+      "text": "\"I know you understand the importance of the promise. So I\nwill tell you this, but don't tell your mom!\""
+    },
+    {
+      "offset": 2253,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "耳元で。",
+      "en": "I listened.",
+      "text": "I listened."
+    },
+    {
+      "offset": 2285,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「わたしは魔法使いなの。正確には魔女ね」",
+      "en": "\"I am a magician. To be precise, I am a witch.\"",
+      "text": "\"I am a magician. To be precise, I am a witch.\""
+    },
+    {
+      "offset": 2332,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "魔法使い……。",
+      "en": "A witch...",
+      "text": "A witch..."
+    },
+    {
+      "offset": 2351,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "黒い帽子と、黒いコートと、黒い猫が頭に浮か\nぶ。",
+      "en": "I imagined a black hat, a black coat and a black cat.",
+      "text": "I imagined a black hat, a black coat and a black cat."
+    },
+    {
+      "offset": 2403,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そのどれもがばあちゃんには当てはまらなかっ\nた。",
+      "en": "None of them could fit my image of grandma at all.",
+      "text": "None of them could fit my image of grandma at all."
+    },
+    {
+      "offset": 2474,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「猫ならいたでしょ。白いけど」",
+      "en": "\"You saw my cat, didn't you? It is white, though.\"",
+      "text": "\"You saw my cat, didn't you? It is white, though.\""
+    },
+    {
+      "offset": 2511,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "冗談めいて笑いながら、彼女は俺の手に饅頭を\nのせる。",
+      "en": "Laughing playfully, she put a steamed bean-jam bun on my\nhand.",
+      "text": "Laughing playfully, she put a steamed bean-jam bun on my\nhand."
+    },
+    {
+      "offset": 2567,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それは本物みたいな感触で――やっぱり本物だっ\nた。",
+      "en": "It felt real -- or rather, it was.",
+      "text": "It felt real -- or rather, it was."
+    },
+    {
+      "offset": 2621,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうして、魔法使いがこんなところに住んでる\nの？",
+      "en": "Why does a witch live here?",
+      "text": "Why does a witch live here?"
+    },
+    {
+      "offset": 2673,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "縁側に座って、俺は言った。",
+      "en": "I asked her, sitting on the porch.",
+      "text": "I asked her, sitting on the porch."
+    },
+    {
+      "offset": 2723,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「それは恋をしたからよ」",
+      "en": "\"Because I fell in love with somebody.\"",
+      "text": "\"Because I fell in love with somebody.\""
+    },
+    {
+      "offset": 2754,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頬を桜色に染めて、今までで一番きれいにばあ\nちゃんは笑った。",
+      "en": "Grandma blushed and gave the most beautiful smile I've ever\nseen.",
+      "text": "Grandma blushed and gave the most beautiful smile I've ever\nseen."
+    },
+    {
+      "offset": 2818,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "でも、その言葉の意味はよく分からない。",
+      "en": "But I really didn't know what she meant.",
+      "text": "But I really didn't know what she meant."
+    },
+    {
+      "offset": 2861,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だから僕は首をふった。",
+      "en": "So, I shook my head.",
+      "text": "So, I shook my head."
+    },
+    {
+      "offset": 2907,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「そうね……夢が叶ってしまったことと……」",
+      "en": "\"Well, my dream came true and...\"",
+      "text": "\"Well, my dream came true and...\""
+    },
+    {
+      "offset": 2956,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ばあちゃんは、饅頭のつまった俺の頬をおさえ\nて笑う。",
+      "en": "Grandma laughs, pressing a finger against my bun-filled\ncheek.",
+      "text": "Grandma laughs, pressing a finger against my bun-filled\ncheek."
+    },
+    {
+      "offset": 3031,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「たぶん、日本のお菓子が美味し過ぎたのよ」",
+      "en": "\"I guess I loved Japanese snacks too much.\"",
+      "text": "\"I guess I loved Japanese snacks too much.\""
+    },
+    {
+      "offset": 3080,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今、ばあちゃんはいない。",
+      "en": "Grandma's gone now.",
+      "text": "Grandma's gone now."
+    },
+    {
+      "offset": 3109,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どこかへ引越したのではなく、もうこの世にい\nない。",
+      "en": "She didn't move house, but she's gone forever from this\nlife.",
+      "text": "She didn't move house, but she's gone forever from this\nlife."
+    },
+    {
+      "offset": 3163,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただ、この家に、和菓子の好きな魔法使いが住\nんでいたことは事実だ。",
+      "en": "The fact is, a witch who loved Japanese snacks lived in this\nhouse.",
+      "text": "The fact is, a witch who loved Japanese snacks lived in this\nhouse."
+    },
+    {
+      "offset": 3233,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なぜなら――。",
+      "en": "Because...",
+      "text": "Because..."
+    },
+    {
+      "offset": 3252,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺にもその血が流れているからだ。",
+      "en": "I have the same blood in my veins.",
+      "text": "I have the same blood in my veins."
+    },
+    {
+      "offset": 3393,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆遠い日の魔法◆",
+      "en": "◆The magic in the past◆",
+      "text": "◆The magic in the past◆"
+    },
+    {
+      "offset": 3431,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それは、ばあちゃんの――魔法使いの夢",
+      "en": "A dream about my grandma -- I mean a witch.",
+      "text": "A dream about my grandma -- I mean a witch."
+    },
+    {
+      "offset": 3472,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の隣の家に住んでいたばあちゃんが、俺に自\n分が魔法使いであると打ち明けてくれる。",
+      "en": "My grandma used to live next door, and told me that she was\na witch.",
+      "text": "My grandma used to live next door, and told me that she was\na witch."
+    },
+    {
+      "offset": 3558,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "和菓子が好きで日本に来たこと。なにもないと\nころから和菓子を出せること。",
+      "en": "She came to Japan because she loved Japanese snacks, and she\ncan make them appear from nowhere.",
+      "text": "She came to Japan because she loved Japanese snacks, and she\ncan make them appear from nowhere."
+    },
+    {
+      "offset": 3634,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、恋をして魔法を失ったこと。",
+      "en": "And she lost the rest of her magic power after she fell in\nlove with somebody.",
+      "text": "And she lost the rest of her magic power after she fell in\nlove with somebody."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "840": "Old lady",
+    "1051": "Old lady",
+    "1292": "Old lady",
+    "1377": "Old lady",
+    "1540": "Old lady",
+    "1855": "Old lady",
+    "1985": "Old lady",
+    "2145": "Old lady",
+    "2271": "Old lady",
+    "2460": "Old lady",
+    "2709": "Old lady",
+    "2893": "Old lady",
+    "3017": "Old lady"
+  }
+}

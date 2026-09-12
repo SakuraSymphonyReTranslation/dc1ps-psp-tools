@@ -1,0 +1,485 @@
+{
+  "scene": "script_0474.obj",
+  "dialogues": [
+    {
+      "offset": 193,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「最近、ずっとゲームばっかだったよなぁ……」",
+      "en": "\"I've been playing too many games lately......\"",
+      "text": "\"I've been playing too many games lately......\""
+    },
+    {
+      "offset": 244,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぶらぶらと商店街を流しながら呟く。",
+      "en": "I murmured to myself as I wandered around the shopping\narcade.",
+      "text": "I murmured to myself as I wandered around the shopping\narcade."
+    },
+    {
+      "offset": 285,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ま、それもあと少しだ。攻略中のゲームもあ\n　と少しでクリアだし」",
+      "en": "\"Well, those days will be over soon. I'm almost finished\nwith the game I'm playing now.\"",
+      "text": "\"Well, those days will be over soon. I'm almost finished\nwith the game I'm playing now.\""
+    },
+    {
+      "offset": 357,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「しかし、コンビニ弁当も飽きた……」",
+      "en": "\"Anyway, I'm getting sick of lunch from the convenience\nstore......\"",
+      "text": "\"Anyway, I'm getting sick of lunch from the convenience\nstore......\""
+    },
+    {
+      "offset": 400,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頭で今日のメニューを考えるが、どれもあまり\n食べたい気がしない。",
+      "en": "I thought about what I wanted to eat, but I didn't feel like\neating anything.",
+      "text": "I thought about what I wanted to eat, but I didn't feel like\neating anything."
+    },
+    {
+      "offset": 468,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――悲惨な食生活だな。",
+      "en": "...What a miserable diet I'm having.",
+      "text": "...What a miserable diet I'm having."
+    },
+    {
+      "offset": 508,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あれ、眞子じゃん」",
+      "en": "\"Hey, isn't that Mako?\"",
+      "text": "\"Hey, isn't that Mako?\""
+    },
+    {
+      "offset": 573,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あれっ、朝倉？」",
+      "en": "\"Asakura?\"",
+      "text": "\"Asakura?\""
+    },
+    {
+      "offset": 598,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "流れる人の中に姿を見つけ、互いに立ち止まる。",
+      "en": "We found each other in the crowd and stopped.",
+      "text": "We found each other in the crowd and stopped."
+    },
+    {
+      "offset": 647,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子は、両手に同じような紙袋を、ふたつずつ\nぶら提げていた。",
+      "en": "Mako had two similar paper bags in both hands.",
+      "text": "Mako had two similar paper bags in both hands."
+    },
+    {
+      "offset": 713,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「学園の帰りか？　こんなに遅くまで大変だな」",
+      "en": "\"Are you on your way home from school? You've been working\nso hard until late, huh?\"",
+      "text": "\"Are you on your way home from school? You've been working\nso hard until late, huh?\""
+    },
+    {
+      "offset": 775,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「まあね」",
+      "en": "\"Yeah.\"",
+      "text": "\"Yeah.\""
+    },
+    {
+      "offset": 792,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「それにしてもスゴイ荷物だな……何だそれ？」",
+      "en": "\"You've got so much to carry...... what are those?\"",
+      "text": "\"You've got so much to carry...... what are those?\""
+    },
+    {
+      "offset": 843,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ひょいっ――と中を覗き見る。",
+      "en": "I peeked inside of her bags.",
+      "text": "I peeked inside of her bags."
+    },
+    {
+      "offset": 906,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あっ……」",
+      "en": "\"Oh......\"",
+      "text": "\"Oh......\""
+    },
+    {
+      "offset": 925,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "袋の中には、綺麗に包装された似たような箱が、\nギッシリと詰まっていた。",
+      "en": "The bags were full of neatly wrapped boxes.",
+      "text": "The bags were full of neatly wrapped boxes."
+    },
+    {
+      "offset": 1001,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「何だ、それ？」",
+      "en": "\"What are these?\"",
+      "text": "\"What are these?\""
+    },
+    {
+      "offset": 1024,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見たところチョコみたいな感じだけど。",
+      "en": "They look like boxes of chocolate or something.",
+      "text": "They look like boxes of chocolate or something."
+    },
+    {
+      "offset": 1095,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……チョコよ」",
+      "en": "\"......They're chocolates.\"",
+      "text": "\"......They're chocolates.\""
+    },
+    {
+      "offset": 1118,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「やっぱチョコか…。こんなにいっぱい卒パで\n　使うのか？」",
+      "en": "\"That's what I thought. Are you going to use all these at\nthe graduation party?\"",
+      "text": "\"That's what I thought. Are you going to use all these at\nthe graduation party?\""
+    },
+    {
+      "offset": 1182,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それにしてもスゴイ数だな……。",
+      "en": "There are so many in those bags.",
+      "text": "There are so many in those bags."
+    },
+    {
+      "offset": 1230,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「別に……」",
+      "en": "\"Not really......\"",
+      "text": "\"Not really......\""
+    },
+    {
+      "offset": 1249,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「え？　じゃあ、どうすんだそんなに買って？」",
+      "en": "\"Huh? Then why did you buy so many?\"",
+      "text": "\"Huh? Then why did you buy so many?\""
+    },
+    {
+      "offset": 1328,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……あたしが返すのよ」",
+      "en": "\"......I'm giving them back......\"",
+      "text": "\"......I'm giving them back......\""
+    },
+    {
+      "offset": 1359,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……は？」",
+      "en": "\"......Huh?\"",
+      "text": "\"......Huh?\""
+    },
+    {
+      "offset": 1378,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1397,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あぁ、明日はホワイトデーか」",
+      "en": "\"Oh! Tomorrow's White Day!\"",
+      "text": "\"Oh! Tomorrow's White Day!\""
+    },
+    {
+      "offset": 1434,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日の日付を考えて、ポン、と手を打つ。",
+      "en": "I realized today's date and clapped my hands once.",
+      "text": "I realized today's date and clapped my hands once."
+    },
+    {
+      "offset": 1479,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お前……｛・・・／やっぱ｝男だったのか？」",
+      "en": "\"I knew it...... You're really a guy, aren't you?\"",
+      "text": "\"I knew it...... You're really a guy, aren't you?\""
+    },
+    {
+      "offset": 1536,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ゴスッ――！！",
+      "en": "Bang!!",
+      "text": "Bang!!"
+    },
+    {
+      "offset": 1557,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「のわっ！」",
+      "en": "\"Wow!\"",
+      "text": "\"Wow!\""
+    },
+    {
+      "offset": 1604,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「\n　　　　　　　　　　死・ね\n　　　　　　　　　　　　　　　　　　　　　　」",
+      "en": "\" DIE!! \"",
+      "text": "\" DIE!! \""
+    },
+    {
+      "offset": 1693,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ゾクッ――",
+      "en": "Brrrrr......",
+      "text": "Brrrrr......"
+    },
+    {
+      "offset": 1710,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（さ、寒気が……）",
+      "en": "(I'm shivering......)",
+      "text": "(I'm shivering......)"
+    },
+    {
+      "offset": 1735,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「すみません……冗談です……」",
+      "en": "\"I'm sorry...... I was just fooling around......\"",
+      "text": "\"I'm sorry...... I was just fooling around......\""
+    },
+    {
+      "offset": 1800,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ったく……」",
+      "en": "\"Good grief......\"",
+      "text": "\"Good grief......\""
+    },
+    {
+      "offset": 1832,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「これはバレンタインの時にチョコをくれた｛こ／娘｝\n　へのお礼」",
+      "en": "\"I'm giving these to all the girls who gave me chocolate on\nValentine's Day.\"",
+      "text": "\"I'm giving these to all the girls who gave me chocolate on\nValentine's Day.\""
+    },
+    {
+      "offset": 1902,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「相手って……女の子だよな？」",
+      "en": "\"All the girls, huh......?\"",
+      "text": "\"All the girls, huh......?\""
+    },
+    {
+      "offset": 1967,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「うっさいわね」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 1990,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2009,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "女子に人気があるやつだとは知っていたけど。\nまさかこれほどとは。",
+      "en": "I knew she was popular among girls, but I never thought she\nwas that popular......",
+      "text": "I knew she was popular among girls, but I never thought she\nwas that popular......"
+    },
+    {
+      "offset": 2077,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "すごいな。",
+      "en": "It's amazing.",
+      "text": "It's amazing."
+    },
+    {
+      "offset": 2094,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「それにしても律儀なやつだな。全員にひとつ\n　ずつ配るのか？」",
+      "en": "\"Anyway, you're so polite. Are you going to give one to each\nof them?\"",
+      "text": "\"Anyway, you're so polite. Are you going to give one to each\nof them?\""
+    },
+    {
+      "offset": 2190,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「貰ったからには返しておかないとね」",
+      "en": "\"I received gifts from them, so I have to return the favor.\"",
+      "text": "\"I received gifts from them, so I have to return the favor.\""
+    },
+    {
+      "offset": 2233,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ふーん……」",
+      "en": "\"I see......\"",
+      "text": "\"I see......\""
+    },
+    {
+      "offset": 2282,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あんたも、音夢にちゃんと返しなさいよ」",
+      "en": "\"You have to give something back to Nemu too!\"",
+      "text": "\"You have to give something back to Nemu too!\""
+    },
+    {
+      "offset": 2329,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ぐ……」",
+      "en": "\"Ugh......\"",
+      "text": "\"Ugh......\""
+    },
+    {
+      "offset": 2346,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そういや、手作りのを貰ったっけ。食べれなかっ\nたけど……。",
+      "en": "That's right...... She did give me some homemade chocolates,\nalthough I couldn't really eat them.",
+      "text": "That's right...... She did give me some homemade chocolates,\nalthough I couldn't really eat them."
+    },
+    {
+      "offset": 2438,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「じゃあね」",
+      "en": "\"See ya!\"",
+      "text": "\"See ya!\""
+    },
+    {
+      "offset": 2474,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "再び人の流れにのって、眞子が歩いていく。",
+      "en": "Mako started to walk toward the crowd.",
+      "text": "Mako started to walk toward the crowd."
+    },
+    {
+      "offset": 2521,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2540,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ゆらゆらと揺れる紙袋を見送った後、眞子が買\nい物をした店に向かう。",
+      "en": "After I saw her off, I headed toward the store where Mako\nbought her chocolates.",
+      "text": "After I saw her off, I headed toward the store where Mako\nbought her chocolates."
+    },
+    {
+      "offset": 2610,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日の夜――いや、日付が変わったら部屋に行っ\nてやろう。",
+      "en": "I'll go to Nemu's room when it's past midnight.",
+      "text": "I'll go to Nemu's room when it's past midnight."
+    },
+    {
+      "offset": 2670,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "絶対あいつ、起きてるだろうから……。",
+      "en": "I'm sure she'll be awake......",
+      "text": "I'm sure she'll be awake......"
+    },
+    {
+      "offset": 2815,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆眞子はもてる◆",
+      "en": "◆Mako's popular◆",
+      "text": "◆Mako's popular◆"
+    },
+    {
+      "offset": 2860,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "メシを買いに外に出ると、眞子に出会った。何\nやら大量にチョコを持っていた。",
+      "en": "When I went out to get something to eat, I bumped into Mako.\nShe had a tremendous amount of chocolates in her bags.",
+      "text": "When I went out to get something to eat, I bumped into Mako.\nShe had a tremendous amount of chocolates in her bags."
+    },
+    {
+      "offset": 2938,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何事だ……？　そんな疑問に、眞子曰く、自分\nのもらったチョコのお返しなんだそうだ。",
+      "en": "What the heck are those for......? She told me that she's\ngiving them back to the girls who gave her a gift.",
+      "text": "What the heck are those for......? She told me that she's\ngiving them back to the girls who gave her a gift."
+    },
+    {
+      "offset": 3024,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子の奴、女子に人気あるなあ……。",
+      "en": "Mako's so popular among the girls......",
+      "text": "Mako's so popular among the girls......"
+    }
+  ],
+  "choices": [],
+  "names": {
+    "565": "Mako",
+    "767": "Mako",
+    "898": "Mako",
+    "1087": "Mako",
+    "1222": "Mako",
+    "1320": "Mako",
+    "1596": "Mako",
+    "1792": "Mako",
+    "1824": "Mako",
+    "1959": "Mako",
+    "2182": "Mako",
+    "2274": "Mako",
+    "2430": "Mako"
+  }
+}

@@ -1,0 +1,756 @@
+{
+  "scene": "script_0766.obj",
+  "dialogues": [
+    {
+      "offset": 116,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なき声が聞こえてきた。",
+      "en": "\"Wah... sob... boohoo......\"",
+      "text": "\"Wah... sob... boohoo......\""
+    },
+    {
+      "offset": 143,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "泣き声と、鳴き声だ。",
+      "en": "Tears are running down her cheeks and her face is already a\nmess. She's holding the cat tightly to her chest.",
+      "text": "Tears are running down her cheeks and her face is already a\nmess. She's holding the cat tightly to her chest."
+    },
+    {
+      "offset": 170,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "It seems like she still has room to control the strength of\nher arms. The cat doesn't look pained.",
+      "text": "It seems like she still has room to control the strength of\nher arms. The cat doesn't look pained."
+    },
+    {
+      "offset": 189,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "年の頃は分からない。まあ、背丈で言えば、さ\nくらよりちょっと小さいくらいの少女だ。",
+      "en": "\"Meow...... meow......\"",
+      "text": "\"Meow...... meow......\""
+    },
+    {
+      "offset": 275,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、子猫。種類は……三毛？　よく分から\nないが、どことなく気品を感じさせる。",
+      "en": "Every time the kitten tries to lick the girl's tears, the\ngirl moves the kitten's face away.",
+      "text": "Every time the kitten tries to lick the girl's tears, the\ngirl moves the kitten's face away."
+    },
+    {
+      "offset": 409,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "顔をくしゃくしゃにして、涙をぽろぽろこぼし\nている。胸にぎゅっと猫を抱いて。",
+      "en": "\"It hurts...... Yoriko......\"",
+      "text": "\"It hurts...... Yoriko......\""
+    },
+    {
+      "offset": 489,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それでも力の加減はしているのか、猫は苦しそ\nうな感じではない。",
+      "en": "It would hurt, because cats' tongues are rough, let alone\nagainst her smooth cheeks.",
+      "text": "It would hurt, because cats' tongues are rough, let alone\nagainst her smooth cheeks."
+    },
+    {
+      "offset": 561,
+      "speaker": "Young Girl",
+      "speaker_jp": "猫",
+      "jp": "「にゃ〜……なおん……」",
+      "en": "\"Boohoo... sob...\"",
+      "text": "\"Boohoo... sob...\""
+    },
+    {
+      "offset": 592,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ほっぺの涙を舐め取ろうとするのだが、その度\nに顔を正面に向けられてしまう。",
+      "en": "And she starts to cry again. She can only turn off the\nfaucet of tears when she gently chastises the kitten.",
+      "text": "And she starts to cry again. She can only turn off the\nfaucet of tears when she gently chastises the kitten."
+    },
+    {
+      "offset": 722,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そりゃ痛いだろうな。猫の舌はざらついている。\nましてや、クリームみたいに柔らかそうな頬な\nのだ。",
+      "en": "The kitten, on the other hand, is just trying its best to\ncheer up the girl.",
+      "text": "The kitten, on the other hand, is just trying its best to\ncheer up the girl."
+    },
+    {
+      "offset": 871,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、また泣きだしてしまう。涙の蛇口が閉\nまるのは、猫をたしなめる時だけ。",
+      "en": "(Well...... What should I do?)",
+      "text": "(Well...... What should I do?)"
+    },
+    {
+      "offset": 951,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "してみると、あの猫、あれはあれで、少女を慰\nめていることになる。",
+      "en": "Of course there is nothing I can do.",
+      "text": "Of course there is nothing I can do."
+    },
+    {
+      "offset": 1021,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（さて……どうしたもんか）",
+      "en": "Because I'm in a dream.",
+      "text": "Because I'm in a dream."
+    },
+    {
+      "offset": 1054,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もちろん、どうすることも出来ない。",
+      "en": "But still, I want to do something when I see a little girl\ncrying right in front of me.",
+      "text": "But still, I want to do something when I see a little girl\ncrying right in front of me."
+    },
+    {
+      "offset": 1093,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "これは、夢の中の出来事だから。",
+      "en": "\"What's the matter?\"",
+      "text": "\"What's the matter?\""
+    },
+    {
+      "offset": 1128,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とは言え、目の前で子どもが泣いているなら、\nどうにかしたいと思うのも、また人情な訳で。",
+      "en": "There's an old lady standing there.",
+      "text": "There's an old lady standing there."
+    },
+    {
+      "offset": 1272,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "気づくと、そこに、一人の老婆が立っていた。",
+      "en": "(An old lady......?)",
+      "text": "(An old lady......?)"
+    },
+    {
+      "offset": 1321,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（あ？　ばあちゃん……？）",
+      "en": "\"......What?\"",
+      "text": "\"......What?\""
+    },
+    {
+      "offset": 1384,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少女と俺の、理由の異なる驚きが、見事にシン\nクロした。",
+      "en": "The girl and I were both surprised at the same time for\ndifferent reasons.",
+      "text": "The girl and I were both surprised at the same time for\ndifferent reasons."
+    },
+    {
+      "offset": 1461,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「あらあら、可愛い顔が台無しだわ……」",
+      "en": "\"Oh no, you're making such a mess on your pretty face......\"",
+      "text": "\"Oh no, you're making such a mess on your pretty face......\""
+    },
+    {
+      "offset": 1506,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "懐からハンカチを取りだし、そっと顔を拭って\nやる。少女は、驚きに固まったままだ。",
+      "en": "The old lady takes a handkerchief from her pocket and gently\nwipes the girl's face. The girl is still looking surprised.",
+      "text": "The old lady takes a handkerchief from her pocket and gently\nwipes the girl's face. The girl is still looking surprised."
+    },
+    {
+      "offset": 1590,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "白人の女性だ。金髪に青い目。けれど、いつ耳\nにしても綺麗な日本語。",
+      "en": "She's a white lady with blue eyes and blonde hair. But her\nJapanese is very fluent every time I hear it.",
+      "text": "She's a white lady with blue eyes and blonde hair. But her\nJapanese is very fluent every time I hear it."
+    },
+    {
+      "offset": 1660,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しゃがみ込んで丁寧に涙や鼻を拭っているうち\nに、少女の顔にやっと表情が戻ってきた。",
+      "en": "As she gently wipes the girl's tears and nose, the girl\nstarts to relax.",
+      "text": "As she gently wipes the girl's tears and nose, the girl\nstarts to relax."
+    },
+    {
+      "offset": 1746,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言葉が達者だからだろうか、少女は｛おび／怯｝えた様子\nも見せず、ありがとうと言った。",
+      "en": "Maybe because the old lady can speak fluent Japanese, the\ngirl doesn't look scared at all and says thank-you to her.",
+      "text": "Maybe because the old lady can speak fluent Japanese, the\ngirl doesn't look scared at all and says thank-you to her."
+    },
+    {
+      "offset": 1853,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「さて、泣いたりして、どうしたのかしら？」",
+      "en": "\"So, what made you cry?\"",
+      "text": "\"So, what made you cry?\""
+    },
+    {
+      "offset": 1913,
+      "speaker": "Young Girl",
+      "speaker_jp": "少女",
+      "jp": "「でも……知らない人と喋っちゃだめって、お\n　とーさまに言われてるから……」",
+      "en": "\"But...... My father told me not to talk to strangers......\"",
+      "text": "\"But...... My father told me not to talk to strangers......\""
+    },
+    {
+      "offset": 2012,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「そう。あら、可愛い猫ね。頭、撫でてやって\n　もいい？」",
+      "en": "\"Okay. Oh, you have a cute kitten. Can I pet her?\"",
+      "text": "\"Okay. Oh, you have a cute kitten. Can I pet her?\""
+    },
+    {
+      "offset": 2085,
+      "speaker": "Young Girl",
+      "speaker_jp": "少女",
+      "jp": "「え？　う、うん……いいよ」",
+      "en": "\"What? Y-Yes...... okay.\"",
+      "text": "\"What? Y-Yes...... okay.\""
+    },
+    {
+      "offset": 2120,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "乾き、血管の浮き出た手が、猫の頭をそっと撫\nでる。猫が気持ちの良さそうな声を出す。",
+      "en": "The old lady's dried hand shows blood vessels as she gently\npets the kitten's head. The kitten purrs to let her know it\nfeels good.",
+      "text": "The old lady's dried hand shows blood vessels as she gently\npets the kitten's head. The kitten purrs to let her know it\nfeels good."
+    },
+    {
+      "offset": 2225,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「可愛いわね。何ていう名前なの？」",
+      "en": "\"She's cute. What's her name?\"",
+      "text": "\"She's cute. What's her name?\""
+    },
+    {
+      "offset": 2277,
+      "speaker": "Young Girl",
+      "speaker_jp": "少女",
+      "jp": "「頼子。この子は、頼子っていうの」",
+      "en": "\"Yoriko. Her name's Yoriko.\"",
+      "text": "\"Yoriko. Her name's Yoriko.\""
+    },
+    {
+      "offset": 2335,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「頼子ちゃん、か。賢そうだし、器量もいいし。\n　本当、いい猫ねえ」",
+      "en": "\"Yoriko-chan. She looks smart and kind. She's a good cat.\"",
+      "text": "\"Yoriko-chan. She looks smart and kind. She's a good cat.\""
+    },
+    {
+      "offset": 2418,
+      "speaker": "Young Girl",
+      "speaker_jp": "少女",
+      "jp": "「うんっ」",
+      "en": "\"Yes!\"",
+      "text": "\"Yes!\""
+    },
+    {
+      "offset": 2435,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "猫を誉められると自分のことのように嬉しいの\nか、少女はにっこり笑った。可愛い笑顔だ。",
+      "en": "As the old lady admires the cat, the girl happily smiles.",
+      "text": "As the old lady admires the cat, the girl happily smiles."
+    },
+    {
+      "offset": 2542,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「それじゃあ、あなたのお名前はなんていうの\n　かしら？」",
+      "en": "\"What about you? What's your name?\"",
+      "text": "\"What about you? What's your name?\""
+    },
+    {
+      "offset": 2604,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ばあちゃんはばあちゃんで、柔和な、年輪を感\nじさせる笑顔。ホッと安心してしまう感じ。",
+      "en": "The old lady has a gentle smile that reflects her age. Her\nsmile could make anyone feel comfortable.",
+      "text": "The old lady has a gentle smile that reflects her age. Her\nsmile could make anyone feel comfortable."
+    },
+    {
+      "offset": 2692,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しばらく考えていた風だったが、結局、少女は\n名前を口にした。",
+      "en": "After thinking for a while, the girl tells the old lady her\nname after all.",
+      "text": "After thinking for a while, the girl tells the old lady her\nname after all."
+    },
+    {
+      "offset": 2769,
+      "speaker": "Young Girl",
+      "speaker_jp": "少女",
+      "jp": "「私は、｛みさき／美咲｝っていいます」",
+      "en": "\"My name is Misaki.\"",
+      "text": "\"My name is Misaki.\""
+    },
+    {
+      "offset": 2814,
+      "speaker": "Young Girl",
+      "speaker_jp": "少女",
+      "jp": "（みさき……？）",
+      "en": "(Misaki......?)",
+      "text": "(Misaki......?)"
+    },
+    {
+      "offset": 2837,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どこかで耳にした名前だった。どこだったか。",
+      "en": "I've heard the name somewhere before......",
+      "text": "I've heard the name somewhere before......"
+    },
+    {
+      "offset": 2884,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "考え込んでいるうちに、ばあちゃんの自己紹介\nが済んだらしい。カラッとした笑顔を浮かべ、\nばあちゃんは言った。",
+      "en": "While I'm trying to remember, it looks like the old lady\nalready introduced herself to the girl. The old lady smiles\ncheerfully and says.",
+      "text": "While I'm trying to remember, it looks like the old lady\nalready introduced herself to the girl. The old lady smiles\ncheerfully and says."
+    },
+    {
+      "offset": 3014,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「さ、これでわたし達は、知らない人同士じゃ\n　なくなったわ」",
+      "en": "\"Well, now we're not strangers anymore.\"",
+      "text": "\"Well, now we're not strangers anymore.\""
+    },
+    {
+      "offset": 3097,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「改めて｛き／訊｝くけれど、どうして泣いていたのか\n　しら？」",
+      "en": "\"So I'll ask you again. Why were you crying?\"",
+      "text": "\"So I'll ask you again. Why were you crying?\""
+    },
+    {
+      "offset": 3176,
+      "speaker": "Young Girl",
+      "speaker_jp": "少女",
+      "jp": "「う、うん……」",
+      "en": "\"Ummm......\"",
+      "text": "\"Ummm......\""
+    },
+    {
+      "offset": 3216,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「あのね、美咲ちゃん。悲しい事辛い事を一人\n　で抱え込んでいるのは良くないわ」",
+      "en": "\"Misaki-chan, it's not good to keep something sad to\nyourself.\"",
+      "text": "\"Misaki-chan, it's not good to keep something sad to\nyourself.\""
+    },
+    {
+      "offset": 3311,
+      "speaker": "Young Girl",
+      "speaker_jp": "少女",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3356,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やがて、ぽつぽつと、少女は──みさきは語り\nだした。",
+      "en": "After a time, the girl -- Misaki slowly starts to talk.",
+      "text": "After a time, the girl -- Misaki slowly starts to talk."
+    },
+    {
+      "offset": 3412,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "引っ越す訳でもないのに、転校しなければなら\nなくなったこと。",
+      "en": "She starts to talk about her transfer to another school even\nthough she's not moving...",
+      "text": "She starts to talk about her transfer to another school even\nthough she's not moving..."
+    },
+    {
+      "offset": 3476,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "外に出て遊んだりしないよう、厳命されたこと。",
+      "en": "And she was told not to play outside.",
+      "text": "And she was told not to play outside."
+    },
+    {
+      "offset": 3525,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "下々の友達とは、付き合わないようにすること、\nそれに関してのみさきの話は焦点がぼやけてい\nて分かりにくかったが、要約すればそうなる。",
+      "en": "And she can't play with friends from the lower class -- She\ntalks long and hard about the subject and it's difficult for\nme to understand what her point is.",
+      "text": "And she can't play with friends from the lower class -- She\ntalks long and hard about the subject and it's difficult for\nme to understand what her point is."
+    },
+    {
+      "offset": 3660,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、話の全てを要約すれば、こうだ。",
+      "en": "And the summary of her story was...",
+      "text": "And the summary of her story was..."
+    },
+    {
+      "offset": 3703,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──みさきは上流階級の子女なのだから、滅多\nな友達と付き合ってはいけない。",
+      "en": "Since Misaki's from an upper class family, she can't play or\ntalk with friends from the lower class.",
+      "text": "Since Misaki's from an upper class family, she can't play or\ntalk with friends from the lower class."
+    },
+    {
+      "offset": 3812,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「そう……。それが嫌で、泣いてたのね？」",
+      "en": "\"I see...... And you don't like it, so you were crying,\nright?\"",
+      "text": "\"I see...... And you don't like it, so you were crying,\nright?\""
+    },
+    {
+      "offset": 3870,
+      "speaker": "Young Girl",
+      "speaker_jp": "少女",
+      "jp": "「うん……」",
+      "en": "\"Yes......\"",
+      "text": "\"Yes......\""
+    },
+    {
+      "offset": 3889,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思い出してしまったのか、涙がじわっと浮かぶ。",
+      "en": "It looks like she's started to think about it again, and\ntears start to fill up her eyes.",
+      "text": "It looks like she's started to think about it again, and\ntears start to fill up her eyes."
+    },
+    {
+      "offset": 3938,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "途端に猫が身じろぎし、その鼻先を顔にくっつ\nけようとしてくる。",
+      "en": "Instantly the kitten moves and tries to push her nose onto\nthe girl's face.",
+      "text": "Instantly the kitten moves and tries to push her nose onto\nthe girl's face."
+    },
+    {
+      "offset": 4023,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「ね、美咲ちゃんは、おまんじゅうとかは好き\n　かしら？」",
+      "en": "\"Misaki-chan, do you like steamed bean-jam buns?\"",
+      "text": "\"Misaki-chan, do you like steamed bean-jam buns?\""
+    },
+    {
+      "offset": 4096,
+      "speaker": "Young Girl",
+      "speaker_jp": "少女",
+      "jp": "「え？　う、うん……」",
+      "en": "\"What? Y-Yes, I do......\"",
+      "text": "\"What? Y-Yes, I do......\""
+    },
+    {
+      "offset": 4142,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「はい。これを食べて、元気を出して」",
+      "en": "\"Here, you can have this, so please cheer up.\"",
+      "text": "\"Here, you can have this, so please cheer up.\""
+    },
+    {
+      "offset": 4185,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "スッと手の平を差し出す。そこにはたった今、\n好き嫌いを｛たず／訊｝ねられた食べ物が載っていた。",
+      "en": "The old lady reaches out her hand to the girl, and there's\nthe food that the old lady just asked if she likes.",
+      "text": "The old lady reaches out her hand to the girl, and there's\nthe food that the old lady just asked if she likes."
+    },
+    {
+      "offset": 4302,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「さ、遠慮せずに。頼子ちゃんには、そうね、\n　淡い風味のこれなんかがいいかしら」",
+      "en": "\"Don't be shy. ......Yoriko-chan, you'll probably like this\none.\"",
+      "text": "\"Don't be shy. ......Yoriko-chan, you'll probably like this\none.\""
+    },
+    {
+      "offset": 4388,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もう片方の手を差し出す。そこには、白っぽい\n色をした｛・・・／おこし｝が乗っていた。",
+      "en": "She opens her other hand, and there are some white millet\ncakes.",
+      "text": "She opens her other hand, and there are some white millet\ncakes."
+    },
+    {
+      "offset": 4489,
+      "speaker": "Young Girl",
+      "speaker_jp": "少女",
+      "jp": "「いただきます……」",
+      "en": "\"Thank you......\"",
+      "text": "\"Thank you......\""
+    },
+    {
+      "offset": 4516,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "二つの和菓子を手に取り、片方を自分の口に、\nもう片方を頼子の口に持っていった。",
+      "en": "The old lady takes two of them, and puts one to her own\nmouth and another to Yoriko's mouth.",
+      "text": "The old lady takes two of them, and puts one to her own\nmouth and another to Yoriko's mouth."
+    },
+    {
+      "offset": 4611,
+      "speaker": "Young Girl",
+      "speaker_jp": "少女",
+      "jp": "「おいしい……」",
+      "en": "\"It's delicious......\"",
+      "text": "\"It's delicious......\""
+    },
+    {
+      "offset": 4638,
+      "speaker": "Kitten",
+      "speaker_jp": "猫",
+      "jp": "「な〜……」",
+      "en": "\"Meow......\"",
+      "text": "\"Meow......\""
+    },
+    {
+      "offset": 4657,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "溢れそうになっていた涙が、見事に引っ込んで\nいる。",
+      "en": "The tears that were about to run down on her face earlier\nare gone now.",
+      "text": "The tears that were about to run down on her face earlier\nare gone now."
+    },
+    {
+      "offset": 4730,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「話をして、楽になったかしら？」",
+      "en": "\"Do you feel better now?\"",
+      "text": "\"Do you feel better now?\""
+    },
+    {
+      "offset": 4780,
+      "speaker": "Young Girl",
+      "speaker_jp": "少女",
+      "jp": "「あ、う、うん……」",
+      "en": "\"Ah, y-yes......\"",
+      "text": "\"Ah, y-yes......\""
+    },
+    {
+      "offset": 4824,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「そう。でもね、ごめんなさい」",
+      "en": "\"That's good. But I'm sorry.\"",
+      "text": "\"That's good. But I'm sorry.\""
+    },
+    {
+      "offset": 4861,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ばあちゃんはぺこりと頭を下げた。大の大人が\n幼児に頭を下げる光景は、どこか滑稽だ。",
+      "en": "The old lady bows. It looks awkward to see an adult bowing\nto a kid.",
+      "text": "The old lady bows. It looks awkward to see an adult bowing\nto a kid."
+    },
+    {
+      "offset": 4947,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "けれど、ばあちゃんはどこまでも真面目な雰囲\n気だった。みさきの方は、ぽかんとしている。",
+      "en": "But the old lady looks serious. Misaki, on the other hand,\nlooks surprised.",
+      "text": "But the old lady looks serious. Misaki, on the other hand,\nlooks surprised."
+    },
+    {
+      "offset": 5056,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「わたしに出来るのは、ここまでなの。わたし\n　に出来るのは、話を聞く事だけ……」",
+      "en": "\"This is all I can do for you. I can only be a listener for\nyou......\"",
+      "text": "\"This is all I can do for you. I can only be a listener for\nyou......\""
+    },
+    {
+      "offset": 5159,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「何故って、わたしは魔女だから」",
+      "en": "\"It's because I am a witch.\"",
+      "text": "\"It's because I am a witch.\""
+    },
+    {
+      "offset": 5209,
+      "speaker": "Young Girl",
+      "speaker_jp": "少女",
+      "jp": "「え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 5224,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そこでばあちゃんは、ふっと微笑んだ。",
+      "en": "The old lady smiles.",
+      "text": "The old lady smiles."
+    },
+    {
+      "offset": 5284,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「魔女だから、何でもする力がある。……でも、\n　それで誰彼となく助けてあげてしまったら、\n　その人のためにならないでしょ？」",
+      "en": "\"I have the power to do anything because I'm a witch. ...So\nI can help everybody, but it won't do any good to them if I\ndo, don't you think?\"",
+      "text": "\"I have the power to do anything because I'm a witch. ...So\nI can help everybody, but it won't do any good to them if I\ndo, don't you think?\""
+    },
+    {
+      "offset": 5424,
+      "speaker": "Young Girl",
+      "speaker_jp": "少女",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 5443,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "唐突な話についていけず、みさきは目を丸くし\nたままだ。",
+      "en": "Misaki still looks surprised at the unexpected twist of the\nold lady's story.",
+      "text": "Misaki still looks surprised at the unexpected twist of the\nold lady's story."
+    },
+    {
+      "offset": 5520,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「だから、みさきちゃんは、みさきちゃん自身\n　のために、頑張って」",
+      "en": "\"So you have to try your best for yourself.\"",
+      "text": "\"So you have to try your best for yourself.\""
+    },
+    {
+      "offset": 5609,
+      "speaker": "Old lady",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「頑張って、努力して……それでも駄目だった\n　ら、その時は──」",
+      "en": "\"If you try and try harder but still can't do it,\nthen......\"",
+      "text": "\"If you try and try harder but still can't do it,\nthen......\""
+    },
+    {
+      "offset": 5679,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "風が吹いた。そのせいだろうか。言葉が、一部\nしか聞き取れなかった。",
+      "en": "A gust of wind blows hard, and I can't hear what she has to\nsay.",
+      "text": "A gust of wind blows hard, and I can't hear what she has to\nsay."
+    },
+    {
+      "offset": 5749,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "“桜が……”そう、ばあちゃんは言ったらしい。",
+      "en": "\"The cherry tree will......\" I think that's what she said.",
+      "text": "\"The cherry tree will......\" I think that's what she said."
+    },
+    {
+      "offset": 5798,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "視界が、桜の花びらで埋め尽くされた──。",
+      "en": "And then my view is filled with cherry blossom petals ----",
+      "text": "And then my view is filled with cherry blossom petals ----"
+    },
+    {
+      "offset": 5965,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆猫の頼子◆",
+      "en": "◆I can hear someone crying.◆",
+      "text": "◆I can hear someone crying.◆"
+    },
+    {
+      "offset": 5999,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "猫を抱いた女の子が泣いていた。",
+      "en": "It's the crying voice of a girl and the mewl of a kitten.",
+      "text": "It's the crying voice of a girl and the mewl of a kitten."
+    },
+    {
+      "offset": 6034,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "女の子の名前は｛みさき／美咲｝。猫の名前は頼子。",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 6087,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それを慰める一人の老婆、それは俺のばあちゃ\nんだった。",
+      "en": "I can't tell how old the girl is, but I can tell how tall\nshe is. She's about as tall as Sakura.",
+      "text": "I can't tell how old the girl is, but I can tell how tall\nshe is. She's about as tall as Sakura."
+    },
+    {
+      "offset": 6145,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "これは頼子さんの夢なんだろうか……。",
+      "en": "And there's also a kitten. I don't know what kind the kitten\nis... probably it's a tortoiseshell cat with an elegant\nattitude.",
+      "text": "And there's also a kitten. I don't know what kind the kitten\nis... probably it's a tortoiseshell cat with an elegant\nattitude."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "555": "Young Girl",
+    "1447": "Old lady",
+    "1839": "Old lady",
+    "1905": "Young Girl",
+    "1998": "Old lady",
+    "2077": "Young Girl",
+    "2211": "Old lady",
+    "2269": "Young Girl",
+    "2321": "Old lady",
+    "2410": "Young Girl",
+    "2528": "Old lady",
+    "2761": "Young Girl",
+    "3000": "Old lady",
+    "3083": "Old lady",
+    "3168": "Young Girl",
+    "3202": "Old lady",
+    "3303": "Young Girl",
+    "3798": "Old lady",
+    "3862": "Young Girl",
+    "4009": "Old lady",
+    "4088": "Young Girl",
+    "4128": "Old lady",
+    "4288": "Old lady",
+    "4481": "Young Girl",
+    "4603": "Young Girl",
+    "4632": "Kitten",
+    "4716": "Old lady",
+    "4772": "Young Girl",
+    "4810": "Old lady",
+    "5042": "Old lady",
+    "5145": "Old lady",
+    "5201": "Young Girl",
+    "5270": "Old lady",
+    "5416": "Young Girl",
+    "5506": "Old lady",
+    "5595": "Old lady"
+  }
+}

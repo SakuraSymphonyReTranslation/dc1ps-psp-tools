@@ -1,0 +1,82 @@
+{
+  "scene": "script_0061.obj",
+  "dialogues": [
+    {
+      "offset": 166,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「今日は連絡もないし、とっとと終わりにしよ\n　う」",
+      "en": "\"There's no announcements today, so I'd end HR now.\"",
+      "text": "\"There's no announcements today, so I'd end HR now.\""
+    },
+    {
+      "offset": 222,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "教室に入ってくるなり、暦先生はそう言い、週\n番を促す。",
+      "en": "As she left the classroom, the weekly duty quickly stood up.",
+      "text": "As she left the classroom, the weekly duty quickly stood up."
+    },
+    {
+      "offset": 293,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「礼！」",
+      "en": "\"Bow!\"",
+      "text": "\"Bow!\""
+    },
+    {
+      "offset": 332,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "週番が号令をだし、今日のＨＲは始まったとた\nん、終わった。",
+      "en": "With just the announcement from the weekly duty, today's HR\nended as soon as it started.",
+      "text": "With just the announcement from the weekly duty, today's HR\nended as soon as it started."
+    },
+    {
+      "offset": 396,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さ〜て……今日はなにをして帰ろうかな」",
+      "en": "\"Now then... how will I go back today.\"",
+      "text": "\"Now then... how will I go back today.\""
+    },
+    {
+      "offset": 443,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "腕を上に伸ばしながら、自問するように呟く。",
+      "en": "I stretch my arms above my head as I question myself.",
+      "text": "I stretch my arms above my head as I question myself."
+    },
+    {
+      "offset": 594,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆最速のＨＲ◆",
+      "en": "◆Speedy HR◆",
+      "text": "◆Speedy HR◆"
+    },
+    {
+      "offset": 637,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "放課後、教室に入ってきた暦先生の第一声は、\n『とっとと終わりにしよう』だった。",
+      "en": "After school, Koyomi-sensei started the HR session and\nimmediately said that she'd end it.",
+      "text": "After school, Koyomi-sensei started the HR session and\nimmediately said that she'd end it."
+    },
+    {
+      "offset": 719,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いいのか？",
+      "en": "Is that really okay?",
+      "text": "Is that really okay?"
+    }
+  ],
+  "choices": [],
+  "names": {
+    "160": "Koyomi",
+    "285": "Mako"
+  }
+}

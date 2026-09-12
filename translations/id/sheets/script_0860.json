@@ -1,0 +1,525 @@
+{
+  "scene": "script_0860.obj",
+  "dialogues": [
+    {
+      "offset": 179,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日も一日なんとか無事に終わった。",
+      "en": "\"...I'd be off first.\", Kanae's voice called out to me.",
+      "text": "\"...I'd be off first.\", Kanae's voice called out to me."
+    },
+    {
+      "offset": 230,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『……じゃ、お先に』と声をかけてきた叶に笑\nいかえす。",
+      "en": "\"Okay. ...Take care on your way back.\"",
+      "text": "\"Okay. ...Take care on your way back.\""
+    },
+    {
+      "offset": 290,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「うん。……気をつけて帰れよな」",
+      "en": "I answered back with a smile.",
+      "text": "I answered back with a smile."
+    },
+    {
+      "offset": 341,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……本当なら一緒に下校したい所だが『家の者\nに見られたらまずい』という叶の言葉でそれだ\nけは叶わなかった。",
+      "en": "... I would've wanted to walk back from school together, but\nas she said, \"If anyone at home sees us, we're dead.\"",
+      "text": "... I would've wanted to walk back from school together, but\nas she said, \"If anyone at home sees us, we're dead.\""
+    },
+    {
+      "offset": 452,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（最近、ちょっと疲れてるみたいだし……大丈\n　夫かな）",
+      "en": "\"(She's been looking tired lately... I wonder if she's\nfeeling alright.)\"",
+      "text": "\"(She's been looking tired lately... I wonder if she's\nfeeling alright.)\""
+    },
+    {
+      "offset": 512,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は教室を出て行く細い後姿をなんとなく心配\nな気持ちで見送っていた。",
+      "en": "I glanced at the thin figure leaving the classroom, my\nworried feelings serving as a farewell.",
+      "text": "I glanced at the thin figure leaving the classroom, my\nworried feelings serving as a farewell."
+    },
+    {
+      "offset": 586,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（さて……俺もそろそろ帰ろうか）",
+      "en": "\"(Hm... it's about time for me to leave as well.)\"",
+      "text": "\"(Hm... it's about time for me to leave as well.)\""
+    },
+    {
+      "offset": 625,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "よっこらしょ、と鞄を肩にかつぎあげる。とは\n言え教科書の類は机の中に置きっぱなしで、ほ\nとんど中身は入っていないのだが。",
+      "en": "I hosited my bag onto my shoulder and got ready. Normally\nI'd just stuff it inside my desk, but it's filled to the\nbrim already.",
+      "text": "I hosited my bag onto my shoulder and got ready. Normally\nI'd just stuff it inside my desk, but it's filled to the\nbrim already."
+    },
+    {
+      "offset": 793,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ジャストアモーメントォッ！」",
+      "en": "\"Just one moment!\"",
+      "text": "\"Just one moment!\""
+    },
+    {
+      "offset": 830,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「わっ！？」",
+      "en": "\"Wah!?\"",
+      "text": "\"Wah!?\""
+    },
+    {
+      "offset": 849,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いきなり首根っこを後ろから強引に引かれる。",
+      "en": "Something grabbed the collar of my shirt from behind.",
+      "text": "Something grabbed the collar of my shirt from behind."
+    },
+    {
+      "offset": 896,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんなんだ、と振り向くとそこには杉並がいわ\nくありげな表情で立っていた。",
+      "en": "I instinctively turned around to find Suginami with his\nusual annoyingly-cheerful expression on his face.",
+      "text": "I instinctively turned around to find Suginami with his\nusual annoyingly-cheerful expression on his face."
+    },
+    {
+      "offset": 974,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんだよ、杉並？　俺、これから帰るとこな\n　んだが」",
+      "en": "\"What is it, Suginami? I'm just going home.\"",
+      "text": "\"What is it, Suginami? I'm just going home.\""
+    },
+    {
+      "offset": 1062,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「待て待て、朝倉。親友としてお前に忠告すべ\n　きことがあるのだ」",
+      "en": "\"Wait wait, Asakura. I have a warning to give you, as a good\nfriend.\"",
+      "text": "\"Wait wait, Asakura. I have a warning to give you, as a good\nfriend.\""
+    },
+    {
+      "offset": 1132,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ヘンに神妙な口調で切り出す杉並。",
+      "en": "A weirdly meek tone, considering it's from him.",
+      "text": "A weirdly meek tone, considering it's from him."
+    },
+    {
+      "offset": 1171,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「だ、だからなんなんだよ」",
+      "en": "\"L, like I said, what is it?\"",
+      "text": "\"L, like I said, what is it?\""
+    },
+    {
+      "offset": 1204,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は警戒しつつ、こわごわと答えた。",
+      "en": "I answered, his use of the word \"warning\" unnerving me.",
+      "text": "I answered, his use of the word \"warning\" unnerving me."
+    },
+    {
+      "offset": 1273,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「お前も、つくづく罪作りな男だな」",
+      "en": "\"You are the scum of the earth.\"",
+      "text": "\"You are the scum of the earth.\""
+    },
+    {
+      "offset": 1314,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……はい？」",
+      "en": "\"...Eh?\"",
+      "text": "\"...Eh?\""
+    },
+    {
+      "offset": 1335,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだか突拍子も無い言葉に、思わず首をかし\nげる。",
+      "en": "His sudden, grandoise exclamation threw me off.",
+      "text": "His sudden, grandoise exclamation threw me off."
+    },
+    {
+      "offset": 1419,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「先頃俺は、着物姿の美少女と共にいるお前の\n　姿を見かけたのだ」",
+      "en": "\"I've recently spotted you together with a beautiful girl in\na kimono.\"",
+      "text": "\"I've recently spotted you together with a beautiful girl in\na kimono.\""
+    },
+    {
+      "offset": 1489,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "（うげ）",
+      "en": "\"(Gah!)\"",
+      "text": "\"(Gah!)\""
+    },
+    {
+      "offset": 1504,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はなんとか努力して喉の奥から出かかった声\nを飲み込んだ。",
+      "en": "It took all my effort to swallow my voice down, and not gasp\nout loud.",
+      "text": "It took all my effort to swallow my voice down, and not gasp\nout loud."
+    },
+    {
+      "offset": 1566,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "桜公園でのデート……｛こいつ／杉並｝に目撃されていたと\nは。",
+      "en": "That date at the Sakura Park... this bastard was spying on\nus.",
+      "text": "That date at the Sakura Park... this bastard was spying on\nus."
+    },
+    {
+      "offset": 1660,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「現在の恋人に悪いとは思わんのか？　この浮\n　気者が！！」",
+      "en": "\"Do you not care about your current lover anymore?! You\nunfaithful scum!\"",
+      "text": "\"Do you not care about your current lover anymore?! You\nunfaithful scum!\""
+    },
+    {
+      "offset": 1724,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "びしっと顔面を指差し、俺を断罪する。",
+      "en": "His accusatory finger shot out at my face.",
+      "text": "His accusatory finger shot out at my face."
+    },
+    {
+      "offset": 1767,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「げ、現在の恋人？？」",
+      "en": "\"C, current lover!?\"",
+      "text": "\"C, current lover!?\""
+    },
+    {
+      "offset": 1824,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「とぼけるな、王子様のことだ」",
+      "en": "\"Don't act dumb, I mean your prince.\"",
+      "text": "\"Don't act dumb, I mean your prince.\""
+    },
+    {
+      "offset": 1861,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言って杉並はにやりと笑った。",
+      "en": "Suginami's expression changed to a smug grin.",
+      "text": "Suginami's expression changed to a smug grin."
+    },
+    {
+      "offset": 1900,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「工藤のことか……って、その呼び方はやめろ\n　よ」",
+      "en": "\"Kudou you mean... kuh, stop calling him that.\"",
+      "text": "\"Kudou you mean... kuh, stop calling him that.\""
+    },
+    {
+      "offset": 1956,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、杉並は俺の言葉を無視して続ける。",
+      "en": "But Suginami completely ignored my words, and continued with\nhis conviction.",
+      "text": "But Suginami completely ignored my words, and continued with\nhis conviction."
+    },
+    {
+      "offset": 2031,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「お前に焦がれる王子様ひとりを残してさっさ\n　と女なんぞに乗り換えるとは……男好きの風\n　上にも置けぬ奴だ！」",
+      "en": "\"Leaving your prince alone and replacing him with a girl...\nyour homosexuality comes and goes with the wind!\"",
+      "text": "\"Leaving your prince alone and replacing him with a girl...\nyour homosexuality comes and goes with the wind!\""
+    },
+    {
+      "offset": 2146,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「だぁッ！　俺は男好きを自称した覚えはな\n　い！」",
+      "en": "\"What! I don't remember ever calling myself a homo!\"",
+      "text": "\"What! I don't remember ever calling myself a homo!\""
+    },
+    {
+      "offset": 2202,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "コイツの頭の中で、俺はいったいどんな大変な\nことになっているのやら。",
+      "en": "What kind of messed up ideas does this guy have of me in his\nhead?",
+      "text": "What kind of messed up ideas does this guy have of me in his\nhead?"
+    },
+    {
+      "offset": 2276,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「だいたいお前は根本から間違ってる。いいか、\n　あの｛こ／娘｝はだな……」",
+      "en": "\"And in the first place, your accusation is false. That girl\nis...\"",
+      "text": "\"And in the first place, your accusation is false. That girl\nis...\""
+    },
+    {
+      "offset": 2356,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と思わず言いかけて、俺は口をつぐんだ。",
+      "en": "As I realized what I was saying, I cut ymself off midspeech.",
+      "text": "As I realized what I was saying, I cut ymself off midspeech."
+    },
+    {
+      "offset": 2401,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（いかんいかん）",
+      "en": "\"(I can't, I can't!)\"",
+      "text": "\"(I can't, I can't!)\""
+    },
+    {
+      "offset": 2424,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こんなところで事情をバラしてしまう訳にはい\nかない。",
+      "en": "I have no reason to explain the circumstances here.",
+      "text": "I have no reason to explain the circumstances here."
+    },
+    {
+      "offset": 2480,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………しかも、よりによって杉並に。",
+      "en": "...But then, this is Suginami we're talking about.",
+      "text": "...But then, this is Suginami we're talking about."
+    },
+    {
+      "offset": 2551,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……あの｛こ／娘｝は――何だ？」",
+      "en": "\"That girl is.... what, hmm?\"",
+      "text": "\"That girl is.... what, hmm?\""
+    },
+    {
+      "offset": 2592,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ここぞとばかりに言葉尻を捉え、執拗に追及す\nる杉並。",
+      "en": "Picking up that I had said too much, he continued pushing\nthe issue.",
+      "text": "Picking up that I had said too much, he continued pushing\nthe issue."
+    },
+    {
+      "offset": 2648,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺を見くびるなよ、とでも言いたげな様子だ。",
+      "en": "He's challenging me to explain myself, this guy...",
+      "text": "He's challenging me to explain myself, this guy..."
+    },
+    {
+      "offset": 2697,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ぅ………………その……………………」",
+      "en": "\"Uh... that's...\"",
+      "text": "\"Uh... that's...\""
+    },
+    {
+      "offset": 2770,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「その？」",
+      "en": "\"That's?\"",
+      "text": "\"That's?\""
+    },
+    {
+      "offset": 2787,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「いや……だから……要するになんだ」",
+      "en": "\"No... I mean... that doesn't matter anyway.\"",
+      "text": "\"No... I mean... that doesn't matter anyway.\""
+    },
+    {
+      "offset": 2858,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「要するにって、何も要してはおらんが」",
+      "en": "\"If that doesn't matter, then nothing does.\"",
+      "text": "\"If that doesn't matter, then nothing does.\""
+    },
+    {
+      "offset": 2903,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……あぁ、こんなに厳しい杉並は初めてだ。",
+      "en": "...Geez, this is the first time I've seen him so severe.",
+      "text": "...Geez, this is the first time I've seen him so severe."
+    },
+    {
+      "offset": 2965,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつまで経っても要領を得ない俺の答えに、杉\n並は深く溜息をついた。",
+      "en": "He'd usually just take my nonsense with a similarly stupid\ncounter, but all he did now was sigh.",
+      "text": "He'd usually just take my nonsense with a similarly stupid\ncounter, but all he did now was sigh."
+    },
+    {
+      "offset": 3065,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「まぁ、あの女の子についてはこれ以上追及す\n　るまい」",
+      "en": "\"Well, knowing who that girl is doesn't do anything for\nsolving this crime.\"",
+      "text": "\"Well, knowing who that girl is doesn't do anything for\nsolving this crime.\""
+    },
+    {
+      "offset": 3125,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "（ふぅ……助かった）",
+      "en": "\"(Whew... safe.)\"",
+      "text": "\"(Whew... safe.)\""
+    },
+    {
+      "offset": 3152,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一時はどうなることかと思ったぜ。俺はこっそ\nりと袖で冷や汗を拭った。",
+      "en": "I had thought of everything I could in that moment. I swept\nthe cold sweat off my forehead with my sleeve.",
+      "text": "I had thought of everything I could in that moment. I swept\nthe cold sweat off my forehead with my sleeve."
+    },
+    {
+      "offset": 3237,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……とにかく、無垢なる少年を迷わせた責任\n　だけは取らねばならんぞ」",
+      "en": "\"...Not that this young man who's lost his purity has any\nintention of trying to.\"",
+      "text": "\"...Not that this young man who's lost his purity has any\nintention of trying to.\""
+    },
+    {
+      "offset": 3313,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まだそんなことを言っている杉並。",
+      "en": "And he's still talking about that.",
+      "text": "And he's still talking about that."
+    },
+    {
+      "offset": 3350,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は拳を繰り出した。",
+      "en": "My hand clenched into a fist.",
+      "text": "My hand clenched into a fist."
+    },
+    {
+      "offset": 3377,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「だぁーから！　そうじゃないつってんだろ！」",
+      "en": "\"I told you! That's not how it is!\"",
+      "text": "\"I told you! That's not how it is!\""
+    },
+    {
+      "offset": 3428,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "器用に身体をくねらせてパンチを避けた杉並は、\nくるりと一回転して敬礼のようなポーズをキメ\nた。",
+      "en": "He skillfully dodged my punch, did a 360 degree rotation,\nand a quick salute.",
+      "text": "He skillfully dodged my punch, did a 360 degree rotation,\nand a quick salute."
+    },
+    {
+      "offset": 3538,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「忠告はしたからな、罪深き友よ」",
+      "en": "\"My warning has been given, my sinful friend.\"",
+      "text": "\"My warning has been given, my sinful friend.\""
+    },
+    {
+      "offset": 3577,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛めちゃくちゃ／滅茶苦茶｝格好つけたまま、「いいか、気をつけ\nろよ！」なんて言葉を残し、｛さっそう／颯爽｝とした足取り\nで去っていく。",
+      "en": "With an air of superiority, he chatised me one more time\nbefore leaving in the other direction.",
+      "text": "With an air of superiority, he chatised me one more time\nbefore leaving in the other direction."
+    },
+    {
+      "offset": 3716,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……なんなんだよアミーゴ」",
+      "en": "\"...The hell was that about, amigo.\"",
+      "text": "\"...The hell was that about, amigo.\""
+    },
+    {
+      "offset": 3751,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その姿が見えなくなると、あまりの脱力感に俺\nはそばの机に突っ伏してしまった。",
+      "en": "Exhausted, I fell back into my chair, watching his figure\ndisappear out the classroom.",
+      "text": "Exhausted, I fell back into my chair, watching his figure\ndisappear out the classroom."
+    },
+    {
+      "offset": 3935,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆目撃者◆",
+      "en": "◆Spy◆",
+      "text": "◆Spy◆"
+    },
+    {
+      "offset": 3974,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "放課後、杉並に呼び止められ、昨日一緒にいた\n着物美少女は誰だ？　浮気はいかん、などと訳\nのわからない事を言われた。",
+      "en": "After school, Suginami called out to me and asked who was\nthe girl I was with yesterday. I told him that I wasn't\ncheating on anyone.",
+      "text": "After school, Suginami called out to me and asked who was\nthe girl I was with yesterday. I told him that I wasn't\ncheating on anyone."
+    },
+    {
+      "offset": 4091,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は完璧に男スキーになっているらしいな……。",
+      "en": "He completely things that I'm gay now...",
+      "text": "He completely things that I'm gay now..."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "785": "Suginami",
+    "1054": "Suginami",
+    "1265": "Suginami",
+    "1411": "Suginami",
+    "1652": "Suginami",
+    "1816": "Suginami",
+    "2023": "Suginami",
+    "2543": "Suginami",
+    "2762": "Suginami",
+    "2850": "Suginami",
+    "3057": "Suginami",
+    "3229": "Suginami",
+    "3530": "Suginami"
+  }
+}

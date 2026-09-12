@@ -1,0 +1,664 @@
+{
+  "scene": "script_0680.obj",
+  "dialogues": [
+    {
+      "offset": 185,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「行ってきま〜す」",
+      "en": "\"Ummmm......\"",
+      "text": "\"Ummmm......\""
+    },
+    {
+      "offset": 459,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "朝食の時の妙な雰囲気を、まだ引きずっている\nのかな？　何だか元気がないように見えたけど\n……。",
+      "en": "Is she still thinking about the conversation we has in the\nmorning? She looks a bit down......",
+      "text": "Is she still thinking about the conversation we has in the\nmorning? She looks a bit down......"
+    },
+    {
+      "offset": 556,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "歩きながら、玄関に立つ頼子さんの顔を思い浮\nかべる。",
+      "en": "As I walk, I think about the expression she had on her face\nat the front door.",
+      "text": "As I walk, I think about the expression she had on her face\nat the front door."
+    },
+    {
+      "offset": 612,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あの表情。あれは──。",
+      "en": "The expression. That was......",
+      "text": "The expression. That was......"
+    },
+    {
+      "offset": 641,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（──寂しい？）",
+      "en": "(...Lonely?)",
+      "text": "(...Lonely?)"
+    },
+    {
+      "offset": 664,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それは、受ける印象の話だった。目も口も、形\nとしては笑顔を浮かべている。",
+      "en": "Her eyes, mouth, and face were all smiling, but...",
+      "text": "Her eyes, mouth, and face were all smiling, but..."
+    },
+    {
+      "offset": 742,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（寂しげな笑顔……か）",
+      "en": "(It was a sad smile......)",
+      "text": "(It was a sad smile......)"
+    },
+    {
+      "offset": 771,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、ふと気が付いた。",
+      "en": "And I noticed.",
+      "text": "And I noticed."
+    },
+    {
+      "offset": 800,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頼子さんに送り出されるのは、今朝で四度目。\nそして……。",
+      "en": "It was the fourth time she sent me off at the front door.",
+      "text": "It was the fourth time she sent me off at the front door."
+    },
+    {
+      "offset": 860,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな印象を受けるのも、今朝で四度目だって\nことに。",
+      "en": "And it was also the fourth time I saw sadness in her smile.",
+      "text": "And it was also the fourth time I saw sadness in her smile."
+    },
+    {
+      "offset": 942,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 1017,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「いよぅっ、朝倉。朝から景気の悪い顔して、\n　いかにもお前にお似合いだなっ」",
+      "en": "\"Hey, Asakura! You look stagnant as usual.\"",
+      "text": "\"Hey, Asakura! You look stagnant as usual.\""
+    },
+    {
+      "offset": 1099,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「お前……この道でかかしでもやってるのか？」",
+      "en": "\"Are you...... living on this street or what?\"",
+      "text": "\"Are you...... living on this street or what?\""
+    },
+    {
+      "offset": 1178,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ふふふ、もちろんお前を待っていたのだっ」",
+      "en": "\"I was just waiting for you.\"",
+      "text": "\"I was just waiting for you.\""
+    },
+    {
+      "offset": 1227,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……やめろ。こら、肩に手を回すなっ」",
+      "en": "\"......Stop it. Don't put your hand around my shoulder!\"",
+      "text": "\"......Stop it. Don't put your hand around my shoulder!\""
+    },
+    {
+      "offset": 1272,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "奴の制空圏から逃れつつ、ため息をつく。",
+      "en": "I step away from him and sigh.",
+      "text": "I step away from him and sigh."
+    },
+    {
+      "offset": 1317,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で？　今日は何だ？　俺のありがたい演説で\n　も聞きに来たのか？」",
+      "en": "\"So? What do you want? Do you want to hear my opera?\"",
+      "text": "\"So? What do you want? Do you want to hear my opera?\""
+    },
+    {
+      "offset": 1417,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「本気で話すなら、聞いてやってもいいがな」",
+      "en": "\"Ha-ha-ha! Are you gonna try to break my ears?\"",
+      "text": "\"Ha-ha-ha! Are you gonna try to break my ears?\""
+    },
+    {
+      "offset": 1495,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "考えるまでもなく面倒だし、第一ネタがない。",
+      "en": "\"......If that works, I'll really sing it loud for you.\"",
+      "text": "\"......If that works, I'll really sing it loud for you.\""
+    },
+    {
+      "offset": 1629,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ちっちっちっ」",
+      "en": "\"If you really want to sing, I will listen.\"",
+      "text": "\"If you really want to sing, I will listen.\""
+    },
+    {
+      "offset": 1652,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並が人差し指を立て、左右に振る。",
+      "en": "\"......No, I don't.\"",
+      "text": "\"......No, I don't.\""
+    },
+    {
+      "offset": 1693,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「何か、他のミステリーの話か？　俺は興味な\n　いぞ、んなの」",
+      "en": "Come to think of it, it'd be creepy if I really sang opera.",
+      "text": "Come to think of it, it'd be creepy if I really sang opera."
+    },
+    {
+      "offset": 1770,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「おまえの頭はニワトリさん以下か？　昨日、\n　話したことも忘れるとは」　",
+      "en": "\"So? What do you want? Do you want to talk about Yoriko-san\nagain?\"",
+      "text": "\"So? What do you want? Do you want to talk about Yoriko-san\nagain?\""
+    },
+    {
+      "offset": 1848,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「昨日……？　ああ、眞子のことか」",
+      "en": "\"No. It's not that.\"",
+      "text": "\"No. It's not that.\""
+    },
+    {
+      "offset": 1889,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言えば、放課後にそんな会話を交わしたこ\nとを思い出す。",
+      "en": "What? What's wrong with him? He looks so serious......",
+      "text": "What? What's wrong with him? He looks so serious......"
+    },
+    {
+      "offset": 1964,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「昨日、いろいろと調査してみたのだが」",
+      "en": "\"Another mysterious story? I'm not interested, you know.\"",
+      "text": "\"Another mysterious story? I'm not interested, you know.\""
+    },
+    {
+      "offset": 2009,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「調査ってどんな？」",
+      "en": "\"No. It's not...... that, either.\"",
+      "text": "\"No. It's not...... that, either.\""
+    },
+    {
+      "offset": 2047,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「さりげなく後を尾けてみたり、双眼鏡で行動\n　を監視したりとか」",
+      "en": "He takes a moment to reply back.",
+      "text": "He takes a moment to reply back."
+    },
+    {
+      "offset": 2136,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "世間の一般常識だと、そういうのはストーカー\nと言わないか？",
+      "en": "(He looks serious even though it's not about mysterious\nthings......?)",
+      "text": "(He looks serious even though it's not about mysterious\nthings......?)"
+    },
+    {
+      "offset": 2198,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう指摘しても風のように無視されることは確\n実だろうから、とりあえずバカの言うことに耳\nを傾けておく。",
+      "en": "It's not like him at all......",
+      "text": "It's not like him at all......"
+    },
+    {
+      "offset": 2418,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……また、よからぬことを考えてるな。",
+      "en": "\"Then what is it?\"",
+      "text": "\"Then what is it?\""
+    },
+    {
+      "offset": 2472,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「名付けて“北風と太陽さん大作戦！”だ」",
+      "en": "\"Hmmm......\"",
+      "text": "\"Hmmm......\""
+    },
+    {
+      "offset": 2625,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子でなくても、野次馬根性丸出しのおまえに\nは何も話さんと思うが……。",
+      "en": "He looks away and says,",
+      "text": "He looks away and says,"
+    },
+    {
+      "offset": 2729,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「そこでだ。元気づけという名目で気分転換に\n　誘い出し、言葉巧みに悩み事を聞き出すとい\n　う作戦だ」",
+      "en": "\"What do you think I should do to cheer up Mako?\"",
+      "text": "\"What do you think I should do to cheer up Mako?\""
+    },
+    {
+      "offset": 2834,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……コイツは絶対にロクな死に方をしないな。\n俺はそう確信した。",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2902,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なあ、ひとつだけ訊いていいか？」",
+      "en": "\"......Oops, sorry. Some weird electric wave caused a noise\nin my ears. Can you say that again?\"",
+      "text": "\"......Oops, sorry. Some weird electric wave caused a noise\nin my ears. Can you say that again?\""
+    },
+    {
+      "offset": 2971,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「何だ？」",
+      "en": "\"What do you think I should do to cheer up Mako?\"",
+      "text": "\"What do you think I should do to cheer up Mako?\""
+    },
+    {
+      "offset": 2988,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「なぜ、おまえがそこまでするんだ？　眞子が\n　何を悩んで落ち込んでいるかはおまえと関係\n　ないだろう」",
+      "en": "\"......Why?\"",
+      "text": "\"......Why?\""
+    },
+    {
+      "offset": 3123,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「はぁ〜。朝倉よ。おまえはまだこの俺の崇高\n　な目的がわかっていないな」",
+      "en": "\"Did you forget about yesterday already?\"",
+      "text": "\"Did you forget about yesterday already?\""
+    },
+    {
+      "offset": 3201,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いや、わかりたくもないんだけど……。",
+      "en": "\"I remember she was a bit down, but I don't understand why\nyou want to cheer her up. It's weird, you know.\"",
+      "text": "\"I remember she was a bit down, but I don't understand why\nyou want to cheer her up. It's weird, you know.\""
+    },
+    {
+      "offset": 3255,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「俺が動くのは、水越のためなどという｛ひしょう／卑小｝な\n　目的のためではない」",
+      "en": "\"It's weird? Really......\"",
+      "text": "\"It's weird? Really......\""
+    },
+    {
+      "offset": 3341,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「じゃあ、何のためだ？」",
+      "en": "He murmurs quietly. He keeps looking straight forward and I\ncan't read his expression.",
+      "text": "He murmurs quietly. He keeps looking straight forward and I\ncan't read his expression."
+    },
+    {
+      "offset": 3400,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「強いて言うなら、世のため、人のためだな」",
+      "en": "\"I mean, I know I don't do this a lot.\"",
+      "text": "\"I mean, I know I don't do this a lot.\""
+    },
+    {
+      "offset": 3449,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は頭を抱えた。また、わけのわからんことを。",
+      "en": "\"......Anyway, so you want to know how to cheer her up,\nright?\"",
+      "text": "\"......Anyway, so you want to know how to cheer her up,\nright?\""
+    },
+    {
+      "offset": 3604,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "拳を固く握り、杉並が力説する。",
+      "en": "I cross my arms and cock my head to think. But I can't think\nof anything......",
+      "text": "I cross my arms and cock my head to think. But I can't think\nof anything......"
+    },
+    {
+      "offset": 3652,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「水越の落ち込んでいる謎を解明して、人々に\n　面白い話題を提供できれば、大いなる意義が\n　あろうというもの」",
+      "en": "\"You are a close friend of hers, so I thought you could come\nup with a good idea.\"",
+      "text": "\"You are a close friend of hers, so I thought you could come\nup with a good idea.\""
+    },
+    {
+      "offset": 3837,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はひとり納得した。",
+      "en": "\"Hey, I'm not close friends with Mako.\"",
+      "text": "\"Hey, I'm not close friends with Mako.\""
+    },
+    {
+      "offset": 3892,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「というわけで、水越をどこに誘うか考えてい\n　るのだが、今ひとつ候補が絞り込めんのだ。\n　おまえ、何かいいアイデアはないか？」",
+      "en": "\"You aren't?\"",
+      "text": "\"You aren't?\""
+    },
+    {
+      "offset": 4072,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "腕を組み、首を傾げる。",
+      "en": "\"I'm not.\"",
+      "text": "\"I'm not.\""
+    },
+    {
+      "offset": 4112,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「仲のいいお前なら、何かいい案が出てくるか\n　と思ったんだが」",
+      "en": "\"Okay.\"",
+      "text": "\"Okay.\""
+    },
+    {
+      "offset": 4346,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛のうり／脳裡｝にふと、アイデアが｛ひらめ／閃｝いた。",
+      "en": "\"So I am not sure if this is a good idea, but......\"",
+      "text": "\"So I am not sure if this is a good idea, but......\""
+    },
+    {
+      "offset": 4407,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「プロレスを観に行くとかは？」",
+      "en": "\"What about taking her to watch a pro wrestling match\ntogether?\"",
+      "text": "\"What about taking her to watch a pro wrestling match\ntogether?\""
+    },
+    {
+      "offset": 4472,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「プロレス？　……気は確かか？」",
+      "en": "\"Pro wrestling? ......Would that really work to cheer her\nup?\"",
+      "text": "\"Pro wrestling? ......Would that really work to cheer her\nup?\""
+    },
+    {
+      "offset": 4511,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並が、｛うさん／胡散｝臭そうな目で俺を見る。",
+      "en": "\"I think she likes those things. She may like 'KE-1' as\nwell.\"",
+      "text": "\"I think she likes those things. She may like 'KE-1' as\nwell.\""
+    },
+    {
+      "offset": 4664,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ふむ。格闘技系か。言われてみれば、水越は\n　血の気が多そうだし、映画よりもそっちの方\n　が意外といいかもしれんな」",
+      "en": "\"The kick boxing?\"",
+      "text": "\"The kick boxing?\""
+    },
+    {
+      "offset": 4785,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「そういうの観て、スカッとしたあとなら、勢\n　いで話すかもしれないだろ」",
+      "en": "\"She might feel refreshed if she watches something like\nthat.\"",
+      "text": "\"She might feel refreshed if she watches something like\nthat.\""
+    },
+    {
+      "offset": 4874,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……なるほど。それなりに検討する余地は、\n　ありそうだな」",
+      "en": "\"Hmm...... I see......\"",
+      "text": "\"Hmm...... I see......\""
+    },
+    {
+      "offset": 4940,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当に検討しているのか、杉並が黙り込む。",
+      "en": "He looks like he's thinking about it, and he's all quiet.",
+      "text": "He looks like he's thinking about it, and he's all quiet."
+    },
+    {
+      "offset": 4985,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しばらくして、俺が先に口を開いた。",
+      "en": "And I say to him,",
+      "text": "And I say to him,"
+    },
+    {
+      "offset": 5026,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なあ、今度は、俺が｛たず／訊｝ねてもいいか？」",
+      "en": "\"Hey, can I ask you something?\"",
+      "text": "\"Hey, can I ask you something?\""
+    },
+    {
+      "offset": 5109,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「何をだ？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 5128,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「家で暇している女の子には、暇つぶしのため\n　に何をあげたらいいと思う？」",
+      "en": "\"What do you think I can do to make a girl not bored when\nshe's always bored at home?\"",
+      "text": "\"What do you think I can do to make a girl not bored when\nshe's always bored at home?\""
+    },
+    {
+      "offset": 5219,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「暇つぶし？　それはもちろん、雑誌“ヌー”\n　だな。男女を問わず、これがイチオシ」",
+      "en": "\"Bored girl at home? Of course the answer is the magazine\ncalled Nu.\"",
+      "text": "\"Bored girl at home? Of course the answer is the magazine\ncalled Nu.\""
+    },
+    {
+      "offset": 5307,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……超能力やら心霊やら、はたまた宇宙人や\n　ら杉並やらの、アレ？」",
+      "en": "\"......Are you talking about the magazine about supernatural\npowers, ghosts, aliens, Suginami, etc?\"",
+      "text": "\"......Are you talking about the magazine about supernatural\npowers, ghosts, aliens, Suginami, etc?\""
+    },
+    {
+      "offset": 5392,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「いつの間に俺が掲載されたのか知らんが、ま\n　あ、そうだ」",
+      "en": "\"I didn't know when they put me on the magazine, but yes,\nthat's it.\"",
+      "text": "\"I didn't know when they put me on the magazine, but yes,\nthat's it.\""
+    },
+    {
+      "offset": 5456,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「本気か？」",
+      "en": "\"Are you serious?\"",
+      "text": "\"Are you serious?\""
+    },
+    {
+      "offset": 5486,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「何がだ？」",
+      "en": "\"What do you mean?\"",
+      "text": "\"What do you mean?\""
+    },
+    {
+      "offset": 5505,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "きょとんとして訊ね返してくる。……奴はマジ\nだ。",
+      "en": "He asks me back as if there's nothing to laugh about.\n......He's serious.",
+      "text": "He asks me back as if there's nothing to laugh about.\n......He's serious."
+    },
+    {
+      "offset": 5570,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「あれほど娯楽に徹した本はないぞ。“ヌー”\n　さえあれば、半日は時の流れを忘れられる」",
+      "en": "\"I can lose track of half a day with 'Nu'.\"",
+      "text": "\"I can lose track of half a day with 'Nu'.\""
+    },
+    {
+      "offset": 5662,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……お前はな」",
+      "en": "\"......Dude, you are pathetic...\"",
+      "text": "\"......Dude, you are pathetic...\""
+    },
+    {
+      "offset": 5697,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "肩をすくめ、何となく舞い散る桜に目を向ける。\nそれっきり、二人ともだんまりだった。",
+      "en": "I shrug my shoulders and look up at the petals of cherry\nblossoms falling down. We stay silent all the way to school\nafterwards.",
+      "text": "I shrug my shoulders and look up at the petals of cherry\nblossoms falling down. We stay silent all the way to school\nafterwards."
+    },
+    {
+      "offset": 5785,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（しかし……）",
+      "en": "(But......)",
+      "text": "(But......)"
+    },
+    {
+      "offset": 5806,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺がプロレスで、杉並が“ヌー”。",
+      "en": "I came up with pro wrestlers and Suginami came up with \"Nu\".",
+      "text": "I came up with pro wrestlers and Suginami came up with \"Nu\"."
+    },
+    {
+      "offset": 5843,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "およそ、女心にはうとい二人だよな……。",
+      "en": "We are out of touch with women's hearts......",
+      "text": "We are out of touch with women's hearts......"
+    },
+    {
+      "offset": 6004,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆見送りの表情◆",
+      "en": "◆Junichi◆",
+      "text": "◆Junichi◆"
+    },
+    {
+      "offset": 6053,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頼子さんに見送ってもらうのも、今日で四度目\nになる。彼女の切なげな笑顔が頭から離れなかっ\nた。",
+      "en": "\"Have a nice day.\"",
+      "text": "\"Have a nice day.\""
+    },
+    {
+      "offset": 6173,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "登校途中、相変わらずな杉並と出会う。",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 6214,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子を元気づける事に何故だか躍起になってい\nる杉並だが、俺に案を求められても……。",
+      "en": "\"What... is wrong?\"",
+      "text": "\"What... is wrong?\""
+    },
+    {
+      "offset": 6300,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『プロレス』と『ヌー』、およそ女心には｛うと／疎｝い\n二人だった。",
+      "en": "\"Oh, it's nothing. Well, you have a nice day, too.\"",
+      "text": "\"Oh, it's nothing. Well, you have a nice day, too.\""
+    }
+  ],
+  "choices": [],
+  "names": {
+    "1009": "Suginami",
+    "1170": "Suginami",
+    "1409": "Suginami",
+    "1621": "Suginami",
+    "1762": "Suginami",
+    "1956": "Suginami",
+    "2039": "Suginami",
+    "2464": "Suginami",
+    "2721": "Suginami",
+    "2963": "Suginami",
+    "3115": "Suginami",
+    "3247": "Suginami",
+    "3392": "Suginami",
+    "3644": "Suginami",
+    "3884": "Suginami",
+    "4104": "Suginami",
+    "4464": "Suginami",
+    "4656": "Suginami",
+    "4866": "Suginami",
+    "5101": "Suginami",
+    "5211": "Suginami",
+    "5384": "Suginami",
+    "5478": "Suginami",
+    "5562": "Suginami"
+  }
+}

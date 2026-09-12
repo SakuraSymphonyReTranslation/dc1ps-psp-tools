@@ -1,0 +1,846 @@
+{
+  "scene": "script_0549.obj",
+  "dialogues": [
+    {
+      "offset": 179,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "コンコン、とノックの音がする。",
+      "en": "Someone was knocking on my door.",
+      "text": "Someone was knocking on my door."
+    },
+    {
+      "offset": 227,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さん、入るわよ」",
+      "en": "\"Nii-san, I'm coming in.\"",
+      "text": "\"Nii-san, I'm coming in.\""
+    },
+    {
+      "offset": 254,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「おう」",
+      "en": "\"Ok.\"",
+      "text": "\"Ok.\""
+    },
+    {
+      "offset": 269,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はまだ、昨日の夢から抜け切れず、上半身を\n起こしてぼんやりとしていた。",
+      "en": "I was sitting upright in bed, still haunted by last night's\ndream.",
+      "text": "I was sitting upright in bed, still haunted by last night's\ndream."
+    },
+    {
+      "offset": 369,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どうかしたのか？」",
+      "en": "\"What's up?\"",
+      "text": "\"What's up?\""
+    },
+    {
+      "offset": 396,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「身体の具合でも悪いのか？」",
+      "en": "\"Are you not feeling well?\"",
+      "text": "\"Are you not feeling well?\""
+    },
+    {
+      "offset": 459,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ううん。もう最近はだいぶ平気」",
+      "en": "\"Nope, I've been fine recently.\"",
+      "text": "\"Nope, I've been fine recently.\""
+    },
+    {
+      "offset": 498,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そっか。ならいいけど」",
+      "en": "\"Ah, that's good.\"",
+      "text": "\"Ah, that's good.\""
+    },
+    {
+      "offset": 529,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢はたまに、無理するからな……。",
+      "en": "Nemu tends to overdo it at times...",
+      "text": "Nemu tends to overdo it at times..."
+    },
+    {
+      "offset": 568,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "大丈夫じゃないのに、大丈夫な振りをする。",
+      "en": "Even if she's not at all fine, she'd pretend that she is.",
+      "text": "Even if she's not at all fine, she'd pretend that she is."
+    },
+    {
+      "offset": 613,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "兄である俺に対して、そんな遠慮は無用だと思\nうのだが……音夢の性格なんだろう。",
+      "en": "You'd think that she'd at least be honest with her\nbrother... but that's her character, after all.",
+      "text": "You'd think that she'd at least be honest with her\nbrother... but that's her character, after all."
+    },
+    {
+      "offset": 695,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あるいは、俺にだけは迷惑や心配をかけたくな\nいと思っているのかもしれない。",
+      "en": "She probably just thinks that she doesn't want to be trouble\nto me.",
+      "text": "She probably just thinks that she doesn't want to be trouble\nto me."
+    },
+    {
+      "offset": 773,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そうやって、自分を追い込んでしまうのだ。俺\nの知っている音夢は、そんな女の子だった。",
+      "en": "And push herself to the very limit to keep herself from\nshowing it. That's the kind of girl she is.",
+      "text": "And push herself to the very limit to keep herself from\nshowing it. That's the kind of girl she is."
+    },
+    {
+      "offset": 891,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さん、いい加減に起きないと」",
+      "en": "\"Just get up already, nii-san.\"",
+      "text": "\"Just get up already, nii-san.\""
+    },
+    {
+      "offset": 930,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、枕元にある目覚まし時計を見る。ちょう\nど１１時を回ったところだ。",
+      "en": "I took a glance at the bedside clock. It was just past 11\nAM.",
+      "text": "I took a glance at the bedside clock. It was just past 11\nAM."
+    },
+    {
+      "offset": 1006,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「もう、こんな時間か」",
+      "en": "\"Wow, it's already this late?\"",
+      "text": "\"Wow, it's already this late?\""
+    },
+    {
+      "offset": 1063,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「休みだからって寝てちゃだめだよ」",
+      "en": "\"Even if it's spring break, you shouldn't be such a\nsleepyhead.\"",
+      "text": "\"Even if it's spring break, you shouldn't be such a\nsleepyhead.\""
+    },
+    {
+      "offset": 1104,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "優しい口調で音夢が言う。",
+      "en": "Ahh, my sister and her sweet little mouth.",
+      "text": "Ahh, my sister and her sweet little mouth."
+    },
+    {
+      "offset": 1135,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「もうその台詞、耳にタコだぞ」",
+      "en": "\"Yeah yeah, I've heard those words a million times already.\"",
+      "text": "\"Yeah yeah, I've heard those words a million times already.\""
+    },
+    {
+      "offset": 1200,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だったら、忘れないよね？」",
+      "en": "\"Then don't forget it this time.\"",
+      "text": "\"Then don't forget it this time.\""
+    },
+    {
+      "offset": 1235,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そりゃそうさ。これまでに……」",
+      "en": "\"Of course, milady. From now on...\"",
+      "text": "\"Of course, milady. From now on...\""
+    },
+    {
+      "offset": 1274,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言いかけて、ふと気づいた。音夢のやつ……何\nか、様子がおかしい。",
+      "en": "Before I could go on with my nonsense, I finally noticed.\nThat Nemu... she's acting weird.",
+      "text": "Before I could go on with my nonsense, I finally noticed.\nThat Nemu... she's acting weird."
+    },
+    {
+      "offset": 1344,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「音夢？」",
+      "en": "\"Nemu?\"",
+      "text": "\"Nemu?\""
+    },
+    {
+      "offset": 1389,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「これからはちゃんと起きなきゃ……私が起こ\n　さなくても、自分だけで……ね？」",
+      "en": "\"You'd have to wake up yourself from now on... since I\ncan't... you know?\"",
+      "text": "\"You'd have to wake up yourself from now on... since I\ncan't... you know?\""
+    },
+    {
+      "offset": 1473,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なんなんだ？」",
+      "en": "\"Wha huh?\"",
+      "text": "\"Wha huh?\""
+    },
+    {
+      "offset": 1524,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だって……」",
+      "en": "\"Yeah...\"",
+      "text": "\"Yeah...\""
+    },
+    {
+      "offset": 1545,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「おい？」",
+      "en": "\"Hey?\"",
+      "text": "\"Hey?\""
+    },
+    {
+      "offset": 1562,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……何か、嫌な予感がする。",
+      "en": "...I have a bad feeling about this.",
+      "text": "...I have a bad feeling about this."
+    },
+    {
+      "offset": 1593,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "長年一緒に住んでいると何となく分かるもんだ。",
+      "en": "We've been living together for so long already.",
+      "text": "We've been living together for so long already."
+    },
+    {
+      "offset": 1642,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今、音夢が何かを言おうとしていて、",
+      "en": "What she was talking about just now...",
+      "text": "What she was talking about just now..."
+    },
+    {
+      "offset": 1681,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それが、俺にとってあまり嬉しいことではない\nということが……。",
+      "en": "...Doesn't sound like anything I'd be happy about...",
+      "text": "...Doesn't sound like anything I'd be happy about..."
+    },
+    {
+      "offset": 1749,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「何か、あったのか？」",
+      "en": "\"Did something happen?\"",
+      "text": "\"Did something happen?\""
+    },
+    {
+      "offset": 1778,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、音夢が自分から話しやすいように、きっ\nかけを作ってやる。",
+      "en": "She had to have something to say... so I provided an\nappropriate platform.",
+      "text": "She had to have something to say... so I provided an\nappropriate platform."
+    },
+    {
+      "offset": 1874,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うん、あのね……」",
+      "en": "\"Well, um...\"",
+      "text": "\"Well, um...\""
+    },
+    {
+      "offset": 1929,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「もう、兄さんを起こす人が、誰もいなくなっ\n　ちゃうから」",
+      "en": "\"I meant that... there won't be anyone to wake you up\nanymore...\"",
+      "text": "\"I meant that... there won't be anyone to wake you up\nanymore...\""
+    },
+    {
+      "offset": 1993,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え？」",
+      "en": "\"Ehhh?\"",
+      "text": "\"Ehhh?\""
+    },
+    {
+      "offset": 2036,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2055,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「どういうことだ？」",
+      "en": "\"What do you mean?\"",
+      "text": "\"What do you mean?\""
+    },
+    {
+      "offset": 2115,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……実は、私、看護学校へ行くことになった\n　んだ」",
+      "en": "\"...I've decided to go to nursing school.\"",
+      "text": "\"...I've decided to go to nursing school.\""
+    },
+    {
+      "offset": 2173,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「看護学校？」",
+      "en": "\"Nursing school?\"",
+      "text": "\"Nursing school?\""
+    },
+    {
+      "offset": 2194,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "初耳だ。",
+      "en": "That's the first time I've heard of something like that...",
+      "text": "That's the first time I've heard of something like that..."
+    },
+    {
+      "offset": 2237,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だから、兄さんと本校には通えないの……」",
+      "en": "\"So I won't be going with you to the main school...\"",
+      "text": "\"So I won't be going with you to the main school...\""
+    },
+    {
+      "offset": 2286,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え……？」",
+      "en": "\"Eh....?\"",
+      "text": "\"Eh....?\""
+    },
+    {
+      "offset": 2305,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢は、ちょっと悲しそうな顔を浮かべた。",
+      "en": "Nemu's face grew a little sad.",
+      "text": "Nemu's face grew a little sad."
+    },
+    {
+      "offset": 2380,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「黙ってて、ごめんね」",
+      "en": "\"I'm sorry for not telling you earlier...\"",
+      "text": "\"I'm sorry for not telling you earlier...\""
+    },
+    {
+      "offset": 2409,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いや……。ちょっと突然で驚いた」",
+      "en": "\"No... it was just sudden...\"",
+      "text": "\"No... it was just sudden...\""
+    },
+    {
+      "offset": 2478,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……うん。最近、兄さんは胡ノ宮さんのこと\n　で頭いっぱいみたいだったから」",
+      "en": "\"...Yeah. Since you've been thinking so much about\nKonomiya-san lately.\"",
+      "text": "\"...Yeah. Since you've been thinking so much about\nKonomiya-san lately.\""
+    },
+    {
+      "offset": 2571,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「つい、言いそびれちゃって」",
+      "en": "\"I thought I wouldn't bother you more.\"",
+      "text": "\"I thought I wouldn't bother you more.\""
+    },
+    {
+      "offset": 2606,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "え？",
+      "en": "Ehh?",
+      "text": "Ehh?"
+    },
+    {
+      "offset": 2615,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな風に見えるのか？",
+      "en": "Was that how it looked like to others?",
+      "text": "Was that how it looked like to others?"
+    },
+    {
+      "offset": 2642,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自分ではそこまで、環について思いつめている\nつもりはなかったのだが。",
+      "en": "Evne I hadn't noticed it myself...",
+      "text": "Evne I hadn't noticed it myself..."
+    },
+    {
+      "offset": 2744,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「応援、するよ……」",
+      "en": "\"I'd support you two...\"",
+      "text": "\"I'd support you two...\""
+    },
+    {
+      "offset": 2771,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢は俯き加減でそう言う。",
+      "en": "Her eyes travelled down to her feet.",
+      "text": "Her eyes travelled down to her feet."
+    },
+    {
+      "offset": 2815,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「妹として……兄さんたちのこと」",
+      "en": "\"As a sister... to her brother.\"",
+      "text": "\"As a sister... to her brother.\""
+    },
+    {
+      "offset": 2882,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「二人のこと、応援するからね」",
+      "en": "\"I'd support the two of you.\"",
+      "text": "\"I'd support the two of you.\""
+    },
+    {
+      "offset": 2919,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、何と答えてやっていいか、言葉が見つか\nらない。",
+      "en": "I was at a loss for words.",
+      "text": "I was at a loss for words."
+    },
+    {
+      "offset": 3005,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だからね。兄さんも、私のこと、応援して欲\n　しいの」",
+      "en": "\"In return... I want you to support me as well, nii-san.\"",
+      "text": "\"In return... I want you to support me as well, nii-san.\""
+    },
+    {
+      "offset": 3065,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「家を……出るのか？」",
+      "en": "\"You'd be... moving out?\"",
+      "text": "\"You'd be... moving out?\""
+    },
+    {
+      "offset": 3122,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"......Yeah.\"",
+      "text": "\"......Yeah.\""
+    },
+    {
+      "offset": 3141,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢はゆっくりと頷く。",
+      "en": "She slowly nodded her head.",
+      "text": "She slowly nodded her head."
+    },
+    {
+      "offset": 3170,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……そうか」",
+      "en": "\"...I see.\"",
+      "text": "\"...I see.\""
+    },
+    {
+      "offset": 3219,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「たまには帰ってくるよ」",
+      "en": "\"I'd come back to visit, once in a while.\"",
+      "text": "\"I'd come back to visit, once in a while.\""
+    },
+    {
+      "offset": 3250,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いつから行くんだ？」",
+      "en": "\"When are you leaving?\"",
+      "text": "\"When are you leaving?\""
+    },
+    {
+      "offset": 3307,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「今日、もう少ししたら……」",
+      "en": "\"Today, in a little while...\"",
+      "text": "\"Today, in a little while...\""
+    },
+    {
+      "offset": 3342,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「今日？！」",
+      "en": "\"Today?!\"",
+      "text": "\"Today?!\""
+    },
+    {
+      "offset": 3389,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「もう荷造りも終わってる。あとは船の時間が\n　来たら、ここを出て行くだけなの」",
+      "en": "\"I've already finished packing. All I've to do left, is to\nwait for the boat to arrive...\"",
+      "text": "\"I've already finished packing. All I've to do left, is to\nwait for the boat to arrive...\""
+    },
+    {
+      "offset": 3473,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「それはまた……急な話だな」",
+      "en": "\"That's just so... quick.\"",
+      "text": "\"That's just so... quick.\""
+    },
+    {
+      "offset": 3536,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ごめんね……」",
+      "en": "\"I'm sorry...\"",
+      "text": "\"I'm sorry...\""
+    },
+    {
+      "offset": 3559,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そうか……」",
+      "en": "\"Yeah...\"",
+      "text": "\"Yeah...\""
+    },
+    {
+      "offset": 3589,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何だか。",
+      "en": "This feeling...",
+      "text": "This feeling..."
+    },
+    {
+      "offset": 3602,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とても淋しい気持ちだ。",
+      "en": "This feeling of pure loneliness.",
+      "text": "This feeling of pure loneliness."
+    },
+    {
+      "offset": 3629,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "妹のことを、気にしてあげられなかったこと。",
+      "en": "I didn't notice anything different about her.",
+      "text": "I didn't notice anything different about her."
+    },
+    {
+      "offset": 3676,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "妹が、自分に相談してくれなかったこと。",
+      "en": "She didn't think of consulting me about this either.",
+      "text": "She didn't think of consulting me about this either."
+    },
+    {
+      "offset": 3719,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "でも、それは音夢の責任じゃない。俺が音夢の\nことを気にかけなかったせいだ。",
+      "en": "But that wasn't really her duty... it was my fault that I\ndidn't notice anything.",
+      "text": "But that wasn't really her duty... it was my fault that I\ndidn't notice anything."
+    },
+    {
+      "offset": 3797,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どんなに音夢が寂しい思いをしていたのか、今\n頃になって思い知らされた感じだ。",
+      "en": "Only now, I could understand the feelings of sadness she\nmust've felt before.",
+      "text": "Only now, I could understand the feelings of sadness she\nmust've felt before."
+    },
+    {
+      "offset": 3877,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "結局、俺は……いつも、終わってから気づく。",
+      "en": "In the end... I'm always the last to know.",
+      "text": "In the end... I'm always the last to know."
+    },
+    {
+      "offset": 3926,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……頑張れよ」",
+      "en": "\"...Do your best.\"",
+      "text": "\"...Do your best.\""
+    },
+    {
+      "offset": 3949,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もう、その一言しか、俺には言えない。",
+      "en": "No other words could leave my mouth.",
+      "text": "No other words could leave my mouth."
+    },
+    {
+      "offset": 4025,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うん。ありがと」",
+      "en": "\"Mm. Thank you.\"",
+      "text": "\"Mm. Thank you.\""
+    },
+    {
+      "offset": 4050,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢は笑って俺に答える。",
+      "en": "Nemu smiled at my answer.",
+      "text": "Nemu smiled at my answer."
+    },
+    {
+      "offset": 4079,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢は、自分の意志で、自分の道を決めたんだ。",
+      "en": "Nemu had, of her own will, decided her path.",
+      "text": "Nemu had, of her own will, decided her path."
+    },
+    {
+      "offset": 4128,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それは、多分、誰にも止められない。",
+      "en": "Since that's the case... who am I, or anyone, to stop her.",
+      "text": "Since that's the case... who am I, or anyone, to stop her."
+    },
+    {
+      "offset": 4197,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「じゃ、行くね」",
+      "en": "\"I'd be going, then.\"",
+      "text": "\"I'd be going, then.\""
+    },
+    {
+      "offset": 4220,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「もう行くのか？」",
+      "en": "\"So soon?\"",
+      "text": "\"So soon?\""
+    },
+    {
+      "offset": 4273,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「時間だからね」",
+      "en": "\"It's just about time...\"",
+      "text": "\"It's just about time...\""
+    },
+    {
+      "offset": 4296,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そっか……」",
+      "en": "\"Ah...\"",
+      "text": "\"Ah...\""
+    },
+    {
+      "offset": 4345,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、見送りはいらないよ。兄さんにも、色々\n　とやることあるだろうし……」",
+      "en": "\"Ah, don't see me off. I know you have a lot of things to\ntake care of, too...\"",
+      "text": "\"Ah, don't see me off. I know you have a lot of things to\ntake care of, too...\""
+    },
+    {
+      "offset": 4425,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そんなこと……」",
+      "en": "\"But that's...\"",
+      "text": "\"But that's...\""
+    },
+    {
+      "offset": 4478,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「じゃ、もう行くよ」",
+      "en": "\"Anyway, I'd be leaving.\"",
+      "text": "\"Anyway, I'd be leaving.\""
+    },
+    {
+      "offset": 4505,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ああ……」",
+      "en": "\"...Okay...\"",
+      "text": "\"...Okay...\""
+    },
+    {
+      "offset": 4552,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「元気でね、兄さん……」",
+      "en": "\"Stay happy, nii-san...\"",
+      "text": "\"Stay happy, nii-san...\""
+    },
+    {
+      "offset": 4592,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢が出て行く。バタンとドアが閉じる音が寂\nしかった。",
+      "en": "Nemu left the room. The bang of the door closing signalled\nthe start of a wave of loneliness.",
+      "text": "Nemu left the room. The bang of the door closing signalled\nthe start of a wave of loneliness."
+    },
+    {
+      "offset": 4650,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あいつ、身体は大丈夫なのか？",
+      "en": "Will she really be okay? Especially health-wise?",
+      "text": "Will she really be okay? Especially health-wise?"
+    },
+    {
+      "offset": 4683,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "無理をしなきゃいいけど……。",
+      "en": "She shouldn't be overexerting herself...",
+      "text": "She shouldn't be overexerting herself..."
+    },
+    {
+      "offset": 4716,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢を見て、思った。",
+      "en": "As I watched her, that was all I thought.",
+      "text": "As I watched her, that was all I thought."
+    },
+    {
+      "offset": 4741,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やっぱり、自分がいいと思う道へ進むしかない。",
+      "en": "In the end, she's doing her best to make progress on her\nlife, the way she wants.",
+      "text": "In the end, she's doing her best to make progress on her\nlife, the way she wants."
+    },
+    {
+      "offset": 4790,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自分の未来は、自分で決めるものだ。",
+      "en": "Your own future should be decided by no one but yourself,\nafter all.",
+      "text": "Your own future should be decided by no one but yourself,\nafter all."
+    },
+    {
+      "offset": 4933,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆看護学校へ行く音夢◆",
+      "en": "◆Nemu, Off to Nursing School?◆",
+      "text": "◆Nemu, Off to Nursing School?◆"
+    },
+    {
+      "offset": 4984,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "朝、起きると音夢が部屋に入ってくる。",
+      "en": "Nemu went into my room as I woke up.",
+      "text": "Nemu went into my room as I woke up."
+    },
+    {
+      "offset": 5025,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "学園には行かず、看護学校に進学すると言う。",
+      "en": "She told me that she wasn't going to the main school, but to\na nursing school instead.",
+      "text": "She told me that she wasn't going to the main school, but to\na nursing school instead."
+    },
+    {
+      "offset": 5072,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の身体も心配だが、兄として送り出してや\nろうと思う。",
+      "en": "I sent her off mentally with well-wishes for her health.",
+      "text": "I sent her off mentally with well-wishes for her health."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "219": "Nemu",
+    "451": "Nemu",
+    "883": "Nemu",
+    "1055": "Nemu",
+    "1192": "Nemu",
+    "1381": "Nemu",
+    "1516": "Nemu",
+    "1866": "Nemu",
+    "1921": "Nemu",
+    "2028": "Nemu",
+    "2107": "Nemu",
+    "2229": "Nemu",
+    "2372": "Nemu",
+    "2470": "Nemu",
+    "2563": "Nemu",
+    "2736": "Nemu",
+    "2807": "Nemu",
+    "2874": "Nemu",
+    "2997": "Nemu",
+    "3114": "Nemu",
+    "3211": "Nemu",
+    "3299": "Nemu",
+    "3381": "Nemu",
+    "3528": "Nemu",
+    "4017": "Nemu",
+    "4189": "Nemu",
+    "4265": "Nemu",
+    "4337": "Nemu",
+    "4470": "Nemu",
+    "4544": "Nemu"
+  }
+}

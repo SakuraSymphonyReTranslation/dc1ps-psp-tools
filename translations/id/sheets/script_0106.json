@@ -1,0 +1,922 @@
+{
+  "scene": "script_0106.obj",
+  "dialogues": [
+    {
+      "offset": 173,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんとなく分かっていた。",
+      "en": "I kind of knew.",
+      "text": "I kind of knew."
+    },
+    {
+      "offset": 202,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と言うか、こうなるのは分かっていたはずなの\nだ。",
+      "en": "Well actually, I was supposed to know what could happen\nnext.",
+      "text": "Well actually, I was supposed to know what could happen\nnext."
+    },
+    {
+      "offset": 291,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「おいしいね♪」",
+      "en": "\"It's so good.\"",
+      "text": "\"It's so good.\""
+    },
+    {
+      "offset": 314,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "正面に腰かけるさくらが、たぬきそばの｛か／掻｝き揚\nげを汁に沈める。",
+      "en": "Sakura's sitting in front of me, putting fried bits with\nsoba noodle into the soup.",
+      "text": "Sakura's sitting in front of me, putting fried bits with\nsoba noodle into the soup."
+    },
+    {
+      "offset": 401,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「こうやると、ダシが効くから良いよね。ちょっ\n　と歯ごたえがなくなっちゃうんだけどさ」",
+      "en": "\"The soup broth makes them tasty by doing this, but they get\nsoggy, though.\"",
+      "text": "\"The soup broth makes them tasty by doing this, but they get\nsoggy, though.\""
+    },
+    {
+      "offset": 493,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「もう少し静かに食えないか？」",
+      "en": "\"Can you be a bit quieter?\"",
+      "text": "\"Can you be a bit quieter?\""
+    },
+    {
+      "offset": 560,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ぶぅ……食堂でフレンドリーに食べないでど\n　うするの？　最後の晩餐じゃないんだよ？」",
+      "en": "\"Boo... How can you enjoy eating quietly? It's not like this\nis the Last Supper.\"",
+      "text": "\"Boo... How can you enjoy eating quietly? It's not like this\nis the Last Supper.\""
+    },
+    {
+      "offset": 652,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ああ、まぁ、そうだな」",
+      "en": "\"Um... I suppose not.\"",
+      "text": "\"Um... I suppose not.\""
+    },
+    {
+      "offset": 683,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ため息をつきながら、定食の焼鮭の骨をとって\nいく。",
+      "en": "Letting out a sigh, I pick the bones out of the grilled\nsalmon I ordered.",
+      "text": "Letting out a sigh, I pick the bones out of the grilled\nsalmon I ordered."
+    },
+    {
+      "offset": 769,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「はにゃ……お兄ちゃん、ボクとお昼食べるの\n　嫌なのかなぁ？」",
+      "en": "\"Hmm... Don't you like eating lunch with me, oniichan?\"",
+      "text": "\"Hmm... Don't you like eating lunch with me, oniichan?\""
+    },
+    {
+      "offset": 837,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「いや、そういうことじゃなくて」",
+      "en": "\"No, that's not what it is.\"",
+      "text": "\"No, that's not what it is.\""
+    },
+    {
+      "offset": 876,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わず苦笑しながら味噌汁を手にとる。",
+      "en": "I grab some soup with a wan smile.",
+      "text": "I grab some soup with a wan smile."
+    },
+    {
+      "offset": 919,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「他の女の子ならともかく、まさか、お前と昼\n　飯を食うのなんて想像出来なかったからなぁ」",
+      "en": "\"I can think of eating lunch with other girls, but I never\nexpected eating with you like this.\"",
+      "text": "\"I can think of eating lunch with other girls, but I never\nexpected eating with you like this.\""
+    },
+    {
+      "offset": 1043,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あ、他の女の子と一緒だったりしてた？」",
+      "en": "\"Oh, have you ever eaten with other girls?\"",
+      "text": "\"Oh, have you ever eaten with other girls?\""
+    },
+    {
+      "offset": 1090,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「してたり、してなかったり、ってところだ」",
+      "en": "\"Probably I have, probably I haven't.\"",
+      "text": "\"Probably I have, probably I haven't.\""
+    },
+    {
+      "offset": 1139,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鍋をつついたりしたこともあるが、余計な騒ぎ\nになりそうで言うのはやめた。",
+      "en": "I've eaten hot pot at the table with other girls, but I\ndecide not to tell her about it to stay out of trouble.",
+      "text": "I've eaten hot pot at the table with other girls, but I\ndecide not to tell her about it to stay out of trouble."
+    },
+    {
+      "offset": 1215,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言えば、萌先輩とさくらを会わせたらどう\nなるのか、凄く気になるな……。",
+      "en": "I wonder what'd happen if I introduced Sakura to Moe-sempai.",
+      "text": "I wonder what'd happen if I introduced Sakura to Moe-sempai."
+    },
+    {
+      "offset": 1293,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昼休みの時間が余ったら屋上にでも行ってみる\nか。でも、鍋の現場を見られたら眞子が怒るな。",
+      "en": "I may go check on the rooftop if I have extra time after\nlunch. But Mako wouldn't like it if I see the place where\nthe hot pot's cooked.",
+      "text": "I may go check on the rooftop if I have extra time after\nlunch. But Mako wouldn't like it if I see the place where\nthe hot pot's cooked."
+    },
+    {
+      "offset": 1387,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふむ」",
+      "en": "\"Hm.\"",
+      "text": "\"Hm.\""
+    },
+    {
+      "offset": 1425,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「もぅ、購買のパンとかも売りきれちゃってる\n　だろうなぁ」",
+      "en": "\"They must be out of bread in the store by now.\"",
+      "text": "\"They must be out of bread in the store by now.\""
+    },
+    {
+      "offset": 1498,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「ごめんなさい、ごめんなさい」",
+      "en": "\"Sorry, sorry.\"",
+      "text": "\"Sorry, sorry.\""
+    },
+    {
+      "offset": 1535,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「は？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 1550,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なにか手段とタイミングがないか考えていると\n当人達の声が耳についた。",
+      "en": "As I think about how to get up on the roof, I happen to hear\ntheir voices.",
+      "text": "As I think about how to get up on the roof, I happen to hear\ntheir voices."
+    },
+    {
+      "offset": 1622,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぺこぺこ――という音まで聞こえてきそうだ。",
+      "en": "I can almost hear the sound of bows.",
+      "text": "I can almost hear the sound of bows."
+    },
+    {
+      "offset": 1671,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「眞子っ、萌先輩！」",
+      "en": "\"Mako, Moe-sempai!\"",
+      "text": "\"Mako, Moe-sempai!\""
+    },
+    {
+      "offset": 1709,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ん？　あぁ、朝倉」",
+      "en": "\"Huh? Oh, Asakura.\"",
+      "text": "\"Huh? Oh, Asakura.\""
+    },
+    {
+      "offset": 1736,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "食堂の入り口にいた眞子が、手を振り返してく\nれる。",
+      "en": "Mako waves to me from the entrance to the dining hall.",
+      "text": "Mako waves to me from the entrance to the dining hall."
+    },
+    {
+      "offset": 1790,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふたりは遠くで何事か言いあうと、萌先輩だけ\nがこちらに歩いてきて、眞子は購買に向かって\nいった。",
+      "en": "They exchange a few words in the distance, and then\nMoe-sempai walks toward me while Mako walks to the store.",
+      "text": "They exchange a few words in the distance, and then\nMoe-sempai walks toward me while Mako walks to the store."
+    },
+    {
+      "offset": 1926,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「知り合い？」",
+      "en": "\"Do you know them?\"",
+      "text": "\"Do you know them?\""
+    },
+    {
+      "offset": 1947,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あぁ、あっちの付属の制服着てるのはクラス\n　メイトの眞子で、彼女はそのお姉さんの萌先\n　輩だ」",
+      "en": "\"Yeah. The girl wearing the uniform is my classmate Mako,\nand this is Moe-sempai, Mako's big sister.\"",
+      "text": "\"Yeah. The girl wearing the uniform is my classmate Mako,\nand this is Moe-sempai, Mako's big sister.\""
+    },
+    {
+      "offset": 2061,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「マコマコは知ってる」",
+      "en": "\"I know Makomako.\"",
+      "text": "\"I know Makomako.\""
+    },
+    {
+      "offset": 2090,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "すでに愛称つきで、さくらは主に萌先輩を気に\nしているらしい。",
+      "en": "She already calls Mako a nickname, but she seems to be\nworried about Moe-sempai.",
+      "text": "She already calls Mako a nickname, but she seems to be\nworried about Moe-sempai."
+    },
+    {
+      "offset": 2192,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「おはようございます朝倉くん」",
+      "en": "\"Good morning, Asakura-kun.\"",
+      "text": "\"Good morning, Asakura-kun.\""
+    },
+    {
+      "offset": 2229,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「授業中、寝てたんですか先輩」",
+      "en": "\"You had a nap in the middle of class, didn't you?\"",
+      "text": "\"You had a nap in the middle of class, didn't you?\""
+    },
+    {
+      "offset": 2292,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あれ？　なんで分かりました？」",
+      "en": "\"Huh? How did you know?\"",
+      "text": "\"Huh? How did you know?\""
+    },
+    {
+      "offset": 2331,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「ｈａｈａｈａ、どうしてでしょうねぇ」",
+      "en": "\"Hahaha, guess!\"",
+      "text": "\"Hahaha, guess!\""
+    },
+    {
+      "offset": 2376,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうしたって分かる。",
+      "en": "It's not that difficult to figure out.",
+      "text": "It's not that difficult to figure out."
+    },
+    {
+      "offset": 2429,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「で、こちらは？」",
+      "en": "\"Well, who's this lady?\"",
+      "text": "\"Well, who's this lady?\""
+    },
+    {
+      "offset": 2500,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ボクは芳乃さくら、一昨日転入してきました」",
+      "en": "\"I'm Sakura Yoshino. I'm a new student here as of\nyesterday.\"",
+      "text": "\"I'm Sakura Yoshino. I'm a new student here as of\nyesterday.\""
+    },
+    {
+      "offset": 2551,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "意外にも、さくらがしっかりとした――普通の\n自己紹介をしただけで場が落ち着く。",
+      "en": "To my surprise and relief, she introduces herself in a\nsensible way.",
+      "text": "To my surprise and relief, she introduces herself in a\nsensible way."
+    },
+    {
+      "offset": 2661,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「私……は……」",
+      "en": "\"I am...\"",
+      "text": "\"I am...\""
+    },
+    {
+      "offset": 2714,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゅ？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 2770,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「くぅ……」",
+      "en": "\"Zzz...\"",
+      "text": "\"Zzz...\""
+    },
+    {
+      "offset": 2789,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "おわっ！",
+      "en": "Wow!",
+      "text": "Wow!"
+    },
+    {
+      "offset": 2804,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「先輩、ちょっと！」",
+      "en": "\"Hey, Moe-sempai!\"",
+      "text": "\"Hey, Moe-sempai!\""
+    },
+    {
+      "offset": 2831,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "肩を揺らしてみるが、しっかりと爆睡モードに\n入っていらっしゃる。",
+      "en": "I shake her shoulders, but she's already switched to sleep\nmode.",
+      "text": "I shake her shoulders, but she's already switched to sleep\nmode."
+    },
+    {
+      "offset": 2901,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……駄目か」",
+      "en": "\"Damn it!\"",
+      "text": "\"Damn it!\""
+    },
+    {
+      "offset": 2952,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「徹夜でもしたのかな？」",
+      "en": "\"She must have studied through the night.\"",
+      "text": "\"She must have studied through the night.\""
+    },
+    {
+      "offset": 2983,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「いや……いつも通りだ」",
+      "en": "\"No, this is normal for her.\"",
+      "text": "\"No, this is normal for her.\""
+    },
+    {
+      "offset": 3014,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "よく考えれば、萌先輩に誰を会わせてもこうな\nることは予想の範囲内か……。",
+      "en": "When I think about it carefully, I should expect things like\nthis when I introduce anybody to her.",
+      "text": "When I think about it carefully, I should expect things like\nthis when I introduce anybody to her."
+    },
+    {
+      "offset": 3092,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「多分、さくらの自己紹介も覚えていないだろ\n　うから、次に会ったときには何事もなかった\n　かのように最初からだ」",
+      "en": "\"She probably won't remember you, Sakura, so she'll act like\na stranger when she sees you next time.\"",
+      "text": "\"She probably won't remember you, Sakura, so she'll act like\na stranger when she sees you next time.\""
+    },
+    {
+      "offset": 3209,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "体験者が語る。",
+      "en": "I speak from experience.",
+      "text": "I speak from experience."
+    },
+    {
+      "offset": 3260,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あにゅ〜……」",
+      "en": "\"My, my, my~\"",
+      "text": "\"My, my, my~\""
+    },
+    {
+      "offset": 3329,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「駄目だ、購買は売りきれてたよお姉ちゃん\n　……って、寝てるね」",
+      "en": "\"Nope. The store's sold out of everything, oneechan... Oh,\nshe's sleeping.\"",
+      "text": "\"Nope. The store's sold out of everything, oneechan... Oh,\nshe's sleeping.\""
+    },
+    {
+      "offset": 3399,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらの隣に腰掛けて眞子が肩をすくめる。",
+      "en": "Mako shrugs her shoulders and sits next to Sakura.",
+      "text": "Mako shrugs her shoulders and sits next to Sakura."
+    },
+    {
+      "offset": 3490,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「で、噂の転入生――さくらちゃん」",
+      "en": "\"So, Sakura-chan, you're the new student.\"",
+      "text": "\"So, Sakura-chan, you're the new student.\""
+    },
+    {
+      "offset": 3561,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゃ」",
+      "en": "\"Yep.\"",
+      "text": "\"Yep.\""
+    },
+    {
+      "offset": 3606,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あたしは水越眞子。｛ふしょうぶしょう／不承不承｝ながら朝倉のク\n　ラスメイト」",
+      "en": "\"My name is Mako Mizukoshi. I'm in the same class as\nAsakura, unfortunately.\"",
+      "text": "\"My name is Mako Mizukoshi. I'm in the same class as\nAsakura, unfortunately.\""
+    },
+    {
+      "offset": 3692,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「おい……」",
+      "en": "\"Hey...\"",
+      "text": "\"Hey...\""
+    },
+    {
+      "offset": 3711,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだかトゲのある言葉だが、ぱっと見に問題\nのあるさくらにも普段通り接してくれるコイツ\nが｛さすが／流石｝だ。",
+      "en": "Those are stinging words, but I'm glad she seems to be happy\nto chat with Sakura.",
+      "text": "Those are stinging words, but I'm glad she seems to be happy\nto chat with Sakura."
+    },
+    {
+      "offset": 3856,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「えへへへ。ボク、芳乃さくら。残念ながらお\n　兄ちゃんと別のクラスです」",
+      "en": "\"Teehee. I'm Sakura Yoshino. Unfortunately, I'm not in the\nsame class as oniichan.\"",
+      "text": "\"Teehee. I'm Sakura Yoshino. Unfortunately, I'm not in the\nsame class as oniichan.\""
+    },
+    {
+      "offset": 3934,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「偉いぞさくら、ちゃんと一人で自己紹介でき\n　たな」",
+      "en": "\"Well done, Sakura. You introduced yourself all alone.\"",
+      "text": "\"Well done, Sakura. You introduced yourself all alone.\""
+    },
+    {
+      "offset": 4024,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「子供じゃないっての！！」",
+      "en": "\"I'm not a little kid!!\"",
+      "text": "\"I'm not a little kid!!\""
+    },
+    {
+      "offset": 4057,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ぐがっ！？」",
+      "en": "\"Ow!!\"",
+      "text": "\"Ow!!\""
+    },
+    {
+      "offset": 4078,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "足の甲に衝撃が走る。",
+      "en": "I feel a sharp pain on the instep of my foot.",
+      "text": "I feel a sharp pain on the instep of my foot."
+    },
+    {
+      "offset": 4105,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「冗談なのに……ふ……まぁ、音夢ほどではな\n　い」",
+      "en": "\"I was only joking... Oh well, it's not as bad as Nemu.\"",
+      "text": "\"I was only joking... Oh well, it's not as bad as Nemu.\""
+    },
+    {
+      "offset": 4173,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自分でもわけの分からない立ち直り方をして、\nそのまま頬杖をついて眞子を見る。",
+      "en": "As the pain subsides, I rest my chin in my hand and look at\nMako.",
+      "text": "As the pain subsides, I rest my chin in my hand and look at\nMako."
+    },
+    {
+      "offset": 4255,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、鍋はどうしたんだ？」",
+      "en": "\"So, how's the hot pot cooking going?\"",
+      "text": "\"So, how's the hot pot cooking going?\""
+    },
+    {
+      "offset": 4288,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さすがに金銭的に息切れしてきたのか。",
+      "en": "You've got to think they must run out of money for that.",
+      "text": "You've got to think they must run out of money for that."
+    },
+    {
+      "offset": 4364,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「それが、お姉ちゃんが食材持ってくるの忘れ\n　たのよ。鴨入りの南蛮鍋」",
+      "en": "\"Actually, oneechan forgot to bring the ingredients. It was\nsupposed to be a Western dish with duck.\"",
+      "text": "\"Actually, oneechan forgot to bring the ingredients. It was\nsupposed to be a Western dish with duck.\""
+    },
+    {
+      "offset": 4440,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「今日は南蛮鍋だったのか」",
+      "en": "\"So I could've had a Western dish today?\"",
+      "text": "\"So I could've had a Western dish today?\""
+    },
+    {
+      "offset": 4484,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「｛・・・・／鴨入りの｝南蛮鍋よ！」",
+      "en": "\"It's Western hot pot with duck!\"",
+      "text": "\"It's Western hot pot with duck!\""
+    },
+    {
+      "offset": 4527,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「南蛮ねぇ」",
+      "en": "\"Western, I see.\"",
+      "text": "\"Western, I see.\""
+    },
+    {
+      "offset": 4574,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「鴨入りだって言ってるでしょ！」",
+      "en": "\"I told you it's with duck!\"",
+      "text": "\"I told you it's with duck!\""
+    },
+    {
+      "offset": 4613,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……分かってるよ」",
+      "en": "\"I know.\"",
+      "text": "\"I know.\""
+    },
+    {
+      "offset": 4640,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかしブルジョアジーだな。貧富の差よりは、\n食生活の違いが｛うらや／羨｝ましいが。",
+      "en": "They're so bourgeois. I'm not envious of their wealth so\nmuch as what they eat.",
+      "text": "They're so bourgeois. I'm not envious of their wealth so\nmuch as what they eat."
+    },
+    {
+      "offset": 4728,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「とりあえず、昼飯抜きか？　俺の残りでよけ\n　れば食べてもいいぞ？」",
+      "en": "\"So, no lunch, huh? You can have mine if you don't mind\nleftovers.\"",
+      "text": "\"So, no lunch, huh? You can have mine if you don't mind\nleftovers.\""
+    },
+    {
+      "offset": 4830,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「いいわよ。ダイエットだと思えば」",
+      "en": "\"Don't worry about me. I try to think that I'm on a diet.\"",
+      "text": "\"Don't worry about me. I try to think that I'm on a diet.\""
+    },
+    {
+      "offset": 4871,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「そうか」",
+      "en": "\"Really.\"",
+      "text": "\"Really.\""
+    },
+    {
+      "offset": 4888,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "爽やかな笑みに、爽やかに返す。",
+      "en": "She replies breezily with a refreshing smile.",
+      "text": "She replies breezily with a refreshing smile."
+    },
+    {
+      "offset": 4971,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……あにゃ」",
+      "en": "\"Oh...\"",
+      "text": "\"Oh...\""
+    },
+    {
+      "offset": 4992,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、さくらが自分の椀を見つめて、にこりと眞\n子に微笑む。",
+      "en": "Sakura looks at her own bowl and smiles at Mako.",
+      "text": "Sakura looks at her own bowl and smiles at Mako."
+    },
+    {
+      "offset": 5084,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ボクのおそば食べる？」",
+      "en": "\"Would you like to have some of my soba?\"",
+      "text": "\"Would you like to have some of my soba?\""
+    },
+    {
+      "offset": 5143,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あ、そう、くれるならちょっと頂戴」",
+      "en": "\"Oh, really? Are you sure?\"",
+      "text": "\"Oh, really? Are you sure?\""
+    },
+    {
+      "offset": 5186,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「待てやコラ！」",
+      "en": "\"Hey, wait!\"",
+      "text": "\"Hey, wait!\""
+    },
+    {
+      "offset": 5237,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「なによ、あたしがもらったんだからね」",
+      "en": "\"C'mon! She asked me first.\"",
+      "text": "\"C'mon! She asked me first.\""
+    },
+    {
+      "offset": 5282,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "椀を抱えて眞子が目を細める。",
+      "en": "Mako narrows her eyes, holding the bowl in her hands.",
+      "text": "Mako narrows her eyes, holding the bowl in her hands."
+    },
+    {
+      "offset": 5317,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「違う！　どうして俺の鮭定食が駄目で、そば\n　が食えるんだ！？」",
+      "en": "\"It's not that! How can you refuse the grilled salmon I\noffered, but accept her soba?!\"",
+      "text": "\"It's not that! How can you refuse the grilled salmon I\noffered, but accept her soba?!\""
+    },
+    {
+      "offset": 5398,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「男女の差よ」",
+      "en": "\"It's the difference between a man and a woman.\"",
+      "text": "\"It's the difference between a man and a woman.\""
+    },
+    {
+      "offset": 5419,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「同じ｛オトコ／漢｝だろう！？」",
+      "en": "\"We're the same sex, aren't we?\"",
+      "text": "\"We're the same sex, aren't we?\""
+    },
+    {
+      "offset": 5491,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あたしが女以外の何に見えるの！！」",
+      "en": "\"How can you see me anything other than a woman?!\"",
+      "text": "\"How can you see me anything other than a woman?!\""
+    },
+    {
+      "offset": 5534,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「漢に決まってるだろうが！！」",
+      "en": "\"You must be a man!\"",
+      "text": "\"You must be a man!\""
+    },
+    {
+      "offset": 5604,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……瞬殺だ」",
+      "en": "\"...Prepare to die.\"",
+      "text": "\"...Prepare to die.\""
+    },
+    {
+      "offset": 5625,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「杉並より先にお前と決着をつけなくてはなら\n　ないとはな」",
+      "en": "\"I never thought I'd settle things with you before I do with\nSuginami.\"",
+      "text": "\"I never thought I'd settle things with you before I do with\nSuginami.\""
+    },
+    {
+      "offset": 5689,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "汗が頬にながれた。",
+      "en": "Something drips down my cheek.",
+      "text": "Something drips down my cheek."
+    },
+    {
+      "offset": 5712,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "気になるが、汗をぬぐう隙を見せただけで｛や／殺｝ら\nれる……。",
+      "en": "It's distracting, but I don't want to open myself up by\nwiping away the sweat.",
+      "text": "It's distracting, but I don't want to open myself up by\nwiping away the sweat."
+    },
+    {
+      "offset": 5813,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あ……ふ……」",
+      "en": "\"Aaahh... Um...\"",
+      "text": "\"Aaahh... Um...\""
+    },
+    {
+      "offset": 5836,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、萌先輩がむくりと頭を上げて眞子を見た。",
+      "en": "Moe-sempai suddenly lifts her head and looks at Mako.",
+      "text": "Moe-sempai suddenly lifts her head and looks at Mako."
+    },
+    {
+      "offset": 5911,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「ごめんなさい、ごめんなさい」",
+      "en": "\"Sorry, sorry.\"",
+      "text": "\"Sorry, sorry.\""
+    },
+    {
+      "offset": 5948,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「へ？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 6010,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「お姉ちゃん？」",
+      "en": "\"Oneechan?\"",
+      "text": "\"Oneechan?\""
+    },
+    {
+      "offset": 6042,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「もぅ、私ぽけぽけしてて……またなにかやり\n　ました？」",
+      "en": "\"What a dork I am... Did I bother you?\"",
+      "text": "\"What a dork I am... Did I bother you?\""
+    },
+    {
+      "offset": 6104,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 6151,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 6208,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゃ〜」",
+      "en": "\"Geez...\"",
+      "text": "\"Geez...\""
+    },
+    {
+      "offset": 6227,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらのため息と一緒に、昼休みの終わりを告\nげる予鈴が鳴った。",
+      "en": "As soon as Sakura sighs, the bell rings for the end of lunch\nbreak.",
+      "text": "As soon as Sakura sighs, the bell rings for the end of lunch\nbreak."
+    },
+    {
+      "offset": 6422,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆さくらｖｓ萌先輩◆",
+      "en": "◆Sakura vs. Moe-sempai◆",
+      "text": "◆Sakura vs. Moe-sempai◆"
+    },
+    {
+      "offset": 6471,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらと食堂でご飯を食べていると、萌先輩と\n眞子と相席することになった。",
+      "en": "When I was eating lunch with Sakura in the dining hall,\nMoe-sempai and Mako came to join us.",
+      "text": "When I was eating lunch with Sakura in the dining hall,\nMoe-sempai and Mako came to join us."
+    },
+    {
+      "offset": 6547,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "珍しい組み合わせと、さくらと萌先輩のマイペー\nス同士の会話が見物かと思ったが、あいかわら\nずの萌先輩に敗北するさくらだった。",
+      "en": "I thought it would be entertaining to listen to the\nconversation between Moe-sempai and Sakura, but actually it\nturned out that Sakura was dumbfounded at Moe-sempai's\nbehavior.",
+      "text": "I thought it would be entertaining to listen to the\nconversation between Moe-sempai and Sakura, but actually it\nturned out that Sakura was dumbfounded at Moe-sempai's\nbehavior."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "281": "Sakura",
+    "391": "Sakura",
+    "550": "Sakura",
+    "759": "Sakura",
+    "1033": "Sakura",
+    "1417": "Mako",
+    "1492": "Moe",
+    "1701": "Mako",
+    "1916": "Sakura",
+    "2051": "Sakura",
+    "2186": "Moe",
+    "2286": "Moe",
+    "2423": "Moe",
+    "2490": "Sakura",
+    "2655": "Moe",
+    "2704": "Sakura",
+    "2764": "Moe",
+    "2942": "Sakura",
+    "3250": "Sakura",
+    "3321": "Mako",
+    "3482": "Mako",
+    "3551": "Sakura",
+    "3598": "Mako",
+    "3846": "Sakura",
+    "4014": "Sakura",
+    "4356": "Mako",
+    "4476": "Mako",
+    "4566": "Mako",
+    "4822": "Mako",
+    "4961": "Sakura",
+    "5074": "Sakura",
+    "5135": "Mako",
+    "5229": "Mako",
+    "5390": "Mako",
+    "5483": "Mako",
+    "5596": "Mako",
+    "5807": "Moe",
+    "5905": "Moe",
+    "6002": "Mako",
+    "6036": "Moe",
+    "6143": "Mako",
+    "6198": "Sakura"
+  }
+}

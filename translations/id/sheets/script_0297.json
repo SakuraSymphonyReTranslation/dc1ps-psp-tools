@@ -1,0 +1,433 @@
+{
+  "scene": "script_0297.obj",
+  "dialogues": [
+    {
+      "offset": 135,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ただいま……ってあれ？」",
+      "en": "\"I'm home...... huh?\"",
+      "text": "\"I'm home...... huh?\""
+    },
+    {
+      "offset": 168,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月曜日のこの時間は、天変地異が起ころうとも\nテレビにかじりついている音夢がいない。",
+      "en": "I didn't see Nemu in front of the TV. Usually at this time\non Monday afternoons, she's watching TV like she's about to\neat it, every week, no matter what happens.",
+      "text": "I didn't see Nemu in front of the TV. Usually at this time\non Monday afternoons, she's watching TV like she's about to\neat it, every week, no matter what happens."
+    },
+    {
+      "offset": 256,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「かじりつくといえばさくらだが」",
+      "en": "\"Talk about biting, is Sakura for sure.\"",
+      "text": "\"Talk about biting, is Sakura for sure.\""
+    },
+    {
+      "offset": 295,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自分でもわけの分からないことを言って、慣れ\nた挨拶がなくて調子を崩したまま部屋に戻る。",
+      "en": "I didn't make sense, but it felt weird not having Nemu greet\nme when I come home. I just went back to my room.",
+      "text": "I didn't make sense, but it felt weird not having Nemu greet\nme when I come home. I just went back to my room."
+    },
+    {
+      "offset": 410,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はぁ〜、テストも終わったし後は春休みを待\n　つだけだ」",
+      "en": "\"Phew! The exams are over, and spring break here I come!\"",
+      "text": "\"Phew! The exams are over, and spring break here I come!\""
+    },
+    {
+      "offset": 472,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ベッドに寝転がり、天井に手をつきだして叫ぶ。",
+      "en": "I rolled on the bed and raised my hands in the air.",
+      "text": "I rolled on the bed and raised my hands in the air."
+    },
+    {
+      "offset": 523,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「う〜ん、だるいだるい」",
+      "en": "\"Mm, I'm so tired.\"",
+      "text": "\"Mm, I'm so tired.\""
+    },
+    {
+      "offset": 566,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目を閉じて大の字になると、窓の外から、穏や\nかな鳥の声と車の音が聞こえてくる。",
+      "en": "I heard sounds of birds chirping and cars going by outside\nmy window as I lay flat on my bed.",
+      "text": "I heard sounds of birds chirping and cars going by outside\nmy window as I lay flat on my bed."
+    },
+    {
+      "offset": 648,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、すぐに身体が沈むような眠気が襲って\nきた。",
+      "en": "And then, I felt drowsiness overcoming me gradually.",
+      "text": "And then, I felt drowsiness overcoming me gradually."
+    },
+    {
+      "offset": 702,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "はい。無条件降伏させて頂きます。",
+      "en": "Yep. I'm not fighting it.",
+      "text": "Yep. I'm not fighting it."
+    },
+    {
+      "offset": 741,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 754,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 767,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――プル",
+      "en": "---- Ring.",
+      "text": "---- Ring."
+    },
+    {
+      "offset": 785,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――プルルル",
+      "en": "-----Ring, Ring.",
+      "text": "-----Ring, Ring."
+    },
+    {
+      "offset": 823,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 842,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "むくりと起き上がって部屋を出る。",
+      "en": "I raised my body up and stepped outside of my room.",
+      "text": "I raised my body up and stepped outside of my room."
+    },
+    {
+      "offset": 909,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺の眠りを邪魔するのは誰だ？」",
+      "en": "The living room.",
+      "text": "The living room."
+    },
+    {
+      "offset": 964,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『兄さん……知り合い以外からの電話だったら、\n　どうするつもりですか？』",
+      "en": "The phone.",
+      "text": "The phone."
+    },
+    {
+      "offset": 1042,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「はっはっは。なんだ音夢か。携帯にかけろよ」",
+      "en": "\"Who's disturbing my sleep?\"",
+      "text": "\"Who's disturbing my sleep?\""
+    },
+    {
+      "offset": 1104,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『いえ、家にいないのなら間に合わないから』",
+      "en": "\"What would you have done if this was a phone call from\nsomeone you don't know?\"",
+      "text": "\"What would you have done if this was a phone call from\nsomeone you don't know?\""
+    },
+    {
+      "offset": 1153,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「間に合わない？　時限爆弾の解除か？」",
+      "en": "\"No, you won't make it in time if you aren't at home\nanyway.\"",
+      "text": "\"No, you won't make it in time if you aren't at home\nanyway.\""
+    },
+    {
+      "offset": 1198,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眠い目をこすって時計を見る。",
+      "en": "\"What won't make it? Are you talking about disarming a time\nbomb?\"",
+      "text": "\"What won't make it? Are you talking about disarming a time\nbomb?\""
+    },
+    {
+      "offset": 1244,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『お願い兄さん！　急にバイトが入っちゃった\n　の。すぐにあのドラマを録画して！』",
+      "en": "I looked at the clock rubbing my eye.",
+      "text": "I looked at the clock rubbing my eye."
+    },
+    {
+      "offset": 1330,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え、あ……あれね」",
+      "en": "\"I have to work unexpectedly, could you tape that show for\nme, please?\"",
+      "text": "\"I have to work unexpectedly, could you tape that show for\nme, please?\""
+    },
+    {
+      "offset": 1357,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢がはまっている、再放送の学園恋愛物を思\nい出す。",
+      "en": "\"Huh, oh...... that show.\"",
+      "text": "\"Huh, oh...... that show.\""
+    },
+    {
+      "offset": 1426,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『もう始まっちゃってるの〜、見たいの〜』",
+      "en": "I remembered the rerun of the school love comedy show Nemu\nloves.",
+      "text": "I remembered the rerun of the school love comedy show Nemu\nloves."
+    },
+    {
+      "offset": 1473,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「その変な口調をやめたら録ってやる」",
+      "en": "\"It's already started, and I really want to watch it,\npleeeeeease?\"",
+      "text": "\"It's already started, and I really want to watch it,\npleeeeeease?\""
+    },
+    {
+      "offset": 1527,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『本当？　うわっ、感謝感激♪』",
+      "en": "\"I'll do it if you stop talking like that.\"",
+      "text": "\"I'll do it if you stop talking like that.\""
+    },
+    {
+      "offset": 1564,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「切っていいか？」",
+      "en": "\"Really? Wow, I'm so happy, happy!!\"",
+      "text": "\"Really? Wow, I'm so happy, happy!!\""
+    },
+    {
+      "offset": 1600,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『あ、ごめんごめん、お願いします。ビデオは\n　そのまま入ってるのを使っていいから』",
+      "en": "\"Can I hang up?\"",
+      "text": "\"Can I hang up?\""
+    },
+    {
+      "offset": 1688,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「分かったよ。やっておくから心置きなくバイ\n　トに励め」",
+      "en": "\"Oops, sorry. Please. You can use the tape in the VCR just\nlike that.\"",
+      "text": "\"Oops, sorry. Please. You can use the tape in the VCR just\nlike that.\""
+    },
+    {
+      "offset": 1750,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "手元にリモコンをひきよせて、ピピッ、と録画\nを開始する。",
+      "en": "\"I got it. Don't worry about it and go back to your work.\"",
+      "text": "\"I got it. Don't worry about it and go back to your work.\""
+    },
+    {
+      "offset": 1823,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『励めってねぇ……万年遊び人の兄さんがそう\n　いうこと言うかなぁ』",
+      "en": "I reached for the remote control and pushed the recording\nbutton.",
+      "text": "I reached for the remote control and pushed the recording\nbutton."
+    },
+    {
+      "offset": 1895,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あのな、お前はそのバイト代を何に使ってる\n　んだ？」",
+      "en": "\"Back to your work...... how could you say such a thing when\nyou don't even work?\"",
+      "text": "\"Back to your work...... how could you say such a thing when\nyou don't even work?\""
+    },
+    {
+      "offset": 1966,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『あ、えへへへ……お洋服とお買い物です』",
+      "en": "\"Hey, what are you using the money from work for?\"",
+      "text": "\"Hey, what are you using the money from work for?\""
+    },
+    {
+      "offset": 2013,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「しっかり稼げ」",
+      "en": "\"Well, clothes and other shopping......\"",
+      "text": "\"Well, clothes and other shopping......\""
+    },
+    {
+      "offset": 2047,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『は〜い♪　ありがとね兄さん。今度なんでも\n　言うこと聞くから。それじゃ』",
+      "en": "\"Fine. Thanks. I'll do you a favor next time. Bye.\"",
+      "text": "\"Fine. Thanks. I'll do you a favor next time. Bye.\""
+    },
+    {
+      "offset": 2132,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "電話が切れた。",
+      "en": "She hangs up.",
+      "text": "She hangs up."
+    },
+    {
+      "offset": 2153,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2172,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眠気は吹っ飛んでいた。",
+      "en": "My drowsiness was gone.",
+      "text": "My drowsiness was gone."
+    },
+    {
+      "offset": 2201,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんでも……なんでもか……」",
+      "en": "\"She'll do me a favor......\"",
+      "text": "\"She'll do me a favor......\""
+    },
+    {
+      "offset": 2238,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "受話器を戻しながら、色々なことを検討してみ\nる。",
+      "en": "I put the phone back and thought about the possibilities.",
+      "text": "I put the phone back and thought about the possibilities."
+    },
+    {
+      "offset": 2290,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "テスト期間というものは｛もんもん／悶々｝とたまるのか、本\n当に想像力がたくましくなっている。",
+      "en": "My imagination took wings now that the exam week was over,\nand made me horny.",
+      "text": "My imagination took wings now that the exam week was over,\nand made me horny."
+    },
+    {
+      "offset": 2386,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "色々……色々かぁ。",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 2409,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "What would it be...",
+      "text": "What would it be..."
+    },
+    {
+      "offset": 2424,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はぁ……」",
+      "en": "\"Sigh......\"",
+      "text": "\"Sigh......\""
+    },
+    {
+      "offset": 2443,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ため息をついて窓辺に歩み寄り、近所迷惑覚悟\nで大きく息を吸い込んだ。",
+      "en": "I walked to the window with a sigh and took a deep breath,\nthinking I'd be bothering the neighbors.",
+      "text": "I walked to the window with a sigh and took a deep breath,\nthinking I'd be bothering the neighbors."
+    },
+    {
+      "offset": 2517,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そんなこと、したいけど出来るか〜〜〜〜！」",
+      "en": "\"How could I do all that!!!\"",
+      "text": "\"How could I do all that!!!\""
+    },
+    {
+      "offset": 2729,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆お願い兄さん◆",
+      "en": "◆Please, niisan◆",
+      "text": "◆Please, niisan◆"
+    },
+    {
+      "offset": 2774,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "急にバイトが入り、ドラマを見れなくなってし\nまった音夢。",
+      "en": "Nemu had to work unexpectedly, and she wasn't able to watch\nher favorite show.",
+      "text": "Nemu had to work unexpectedly, and she wasn't able to watch\nher favorite show."
+    },
+    {
+      "offset": 2834,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "電話で俺に録画を頼んだあと、今度なんでも言\nうことをきいてあげると言って、電話を切った。",
+      "en": "She called me to tape the show for her, and she said she'll\ndo me a favor in return, then she hangs up the phone.",
+      "text": "She called me to tape the show for her, and she said she'll\ndo me a favor in return, then she hangs up the phone."
+    },
+    {
+      "offset": 2926,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな音夢の言葉に、俺は妄想を｛たくま／逞｝しくするの\nだった。",
+      "en": "My imagination flew out the window as she promised to do me\na favor.",
+      "text": "My imagination flew out the window as she promised to do me\na favor."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "956": "Nemu",
+    "1096": "Nemu",
+    "1236": "Nemu",
+    "1418": "Nemu",
+    "1519": "Nemu",
+    "1592": "Nemu",
+    "1815": "Nemu",
+    "1958": "Nemu",
+    "2039": "Nemu"
+  }
+}

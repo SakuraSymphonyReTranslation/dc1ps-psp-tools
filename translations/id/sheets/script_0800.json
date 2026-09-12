@@ -1,0 +1,804 @@
+{
+  "scene": "script_0800.obj",
+  "dialogues": [
+    {
+      "offset": 187,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自分の気持ちに素直になれ、ことりはそう言っ\nた。",
+      "en": "Be honest with your feelings, she said.",
+      "text": "Be honest with your feelings, she said."
+    },
+    {
+      "offset": 239,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日だって、俺の方をみて小さくガッツポーズ\nなんかしたりして……。",
+      "en": "And Kotori reminded me of it earlier today, winking at me.",
+      "text": "And Kotori reminded me of it earlier today, winking at me."
+    },
+    {
+      "offset": 311,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 361,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は窓の外の四角い空を眺めた。",
+      "en": "I stared at the sky through the window.",
+      "text": "I stared at the sky through the window."
+    },
+    {
+      "offset": 398,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（応援してくれてるのはわかるんだけどな）",
+      "en": "\"(I know you'd support it, but...)\"",
+      "text": "\"(I know you'd support it, but...)\""
+    },
+    {
+      "offset": 445,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……はぁ」",
+      "en": "\"...Haah.\"",
+      "text": "\"...Haah.\""
+    },
+    {
+      "offset": 464,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自然とため息が漏れる。",
+      "en": "I sighed, practically out of habit.",
+      "text": "I sighed, practically out of habit."
+    },
+    {
+      "offset": 491,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そうは言っても、やはり認めたくないと思って\nいる自分はいるわけで、",
+      "en": "Even if you say that, until I accept it myself...",
+      "text": "Even if you say that, until I accept it myself..."
+    },
+    {
+      "offset": 563,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……ああ、今日も空が青いな………………」",
+      "en": "\"...Ahh, the sky is so blue today...\"",
+      "text": "\"...Ahh, the sky is so blue today...\""
+    },
+    {
+      "offset": 612,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 681,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いったりきたり、いったりきたり……。",
+      "en": "Round and round and round and round...",
+      "text": "Round and round and round and round..."
+    },
+    {
+      "offset": 722,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昼飯を一人隠れるようにして食った後、俺は中\n庭をあてもなくぐるぐると周回運動していた。",
+      "en": "Hiding away alone during lunch, I paced around the\ncourtyard.",
+      "text": "Hiding away alone during lunch, I paced around the\ncourtyard."
+    },
+    {
+      "offset": 812,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "通りかかる学生たちが、そんな俺の『動物園熊\n的行動』に奇異の目を向けてくる。",
+      "en": "The students passing by stared at me as if I was some zoo\nanimal on display.",
+      "text": "The students passing by stared at me as if I was some zoo\nanimal on display."
+    },
+    {
+      "offset": 892,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……あああ、もう。",
+      "en": "...Ahhh, whatever.",
+      "text": "...Ahhh, whatever."
+    },
+    {
+      "offset": 915,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どさっと中庭のベンチに腰を降ろす。",
+      "en": "Tired of walking, I sat down on one of the benches.",
+      "text": "Tired of walking, I sat down on one of the benches."
+    },
+    {
+      "offset": 954,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今、教室に戻れば工藤やことりに会ってしまう。",
+      "en": "If I go back to class now, I might bump into Kudou or\nKotori.",
+      "text": "If I go back to class now, I might bump into Kudou or\nKotori."
+    },
+    {
+      "offset": 1003,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それがなんだかとても怖かった。",
+      "en": "Not something I had the guts to do.",
+      "text": "Not something I had the guts to do."
+    },
+    {
+      "offset": 1040,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はあ………」",
+      "en": "\"Haah...\"",
+      "text": "\"Haah...\""
+    },
+    {
+      "offset": 1061,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何度目になるかわからない溜息をつく。",
+      "en": "I let out another of my inumerable sighs.",
+      "text": "I let out another of my inumerable sighs."
+    },
+    {
+      "offset": 1102,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "このままここで、誰にも会わずに一日が過ぎれ\nばいいのに……。",
+      "en": "If I could just stay here the whole day, and avoid contact\nwith them...",
+      "text": "If I could just stay here the whole day, and avoid contact\nwith them..."
+    },
+    {
+      "offset": 1168,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そうも言ってられんしなぁ……」",
+      "en": "\"But that's easy to say...\"",
+      "text": "\"But that's easy to say...\""
+    },
+    {
+      "offset": 1207,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……いい加減で戻らないと、午後の授業が始まっ\nてしまう。",
+      "en": "...If I don't start heading back now, I'd be late for\nafternoon classes.",
+      "text": "...If I don't start heading back now, I'd be late for\nafternoon classes."
+    },
+    {
+      "offset": 1267,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "仕方なくのろのろと教室に向かった。",
+      "en": "Left with no choice, I slowly starte walking back.",
+      "text": "Left with no choice, I slowly starte walking back."
+    },
+    {
+      "offset": 1347,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もしこの気持ちを告白したら、工藤はどう思う\nだろう。",
+      "en": "I wonder what Kudou would think if I confessed.",
+      "text": "I wonder what Kudou would think if I confessed."
+    },
+    {
+      "offset": 1403,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "常識的に考えて、好意的な反応が返ってくると\nは思えなかった。",
+      "en": "Most probably, he won't react very well.",
+      "text": "Most probably, he won't react very well."
+    },
+    {
+      "offset": 1467,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "前の告白の仕返しに、俺がからかってると思う\nかもしれない。",
+      "en": "He might even think I'd be getting back at him for his fake\nconfession the time before.",
+      "text": "He might even think I'd be getting back at him for his fake\nconfession the time before."
+    },
+    {
+      "offset": 1529,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それだけならまだ良かった。",
+      "en": "That's not all either.",
+      "text": "That's not all either."
+    },
+    {
+      "offset": 1618,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "友達にすら戻れなくなってしまうかもしれない\nのだ。",
+      "en": "If I don't put it well, I may regret it for the rest of my\nlife.",
+      "text": "If I don't put it well, I may regret it for the rest of my\nlife."
+    },
+    {
+      "offset": 1750,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ドドドドドド……………………。",
+      "en": "There'd be no way we'd be able to go back to just being\nfriends if I confess as well.",
+      "text": "There'd be no way we'd be able to go back to just being\nfriends if I confess as well."
+    },
+    {
+      "offset": 1892,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……なんだ？」",
+      "en": "And if that starts becoming gossip, about where Kudou and I\nstand...",
+      "text": "And if that starts becoming gossip, about where Kudou and I\nstand..."
+    },
+    {
+      "offset": 1915,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あれっと思う間もなく地響きはどんどん近づい\nてくる。",
+      "en": "Oh boy oh boy oh boy......",
+      "text": "Oh boy oh boy oh boy......"
+    },
+    {
+      "offset": 2024,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ばょいーんんんん！！！",
+      "en": "As my brain filled with useless little thoughts, my ear\ndetected a tremor coming from the ground.",
+      "text": "As my brain filled with useless little thoughts, my ear\ndetected a tremor coming from the ground."
+    },
+    {
+      "offset": 2065,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ぉわあぁぁッ」",
+      "en": "\"...What's that?\"",
+      "text": "\"...What's that?\""
+    },
+    {
+      "offset": 2088,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その直後、廊下を猛ダッシュしてきた巨大なピ\nンク色の物体に力いっぱい跳ね飛ばされた。",
+      "en": "The rumbling started to get closer and louder, quickly.",
+      "text": "The rumbling started to get closer and louder, quickly."
+    },
+    {
+      "offset": 2178,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「っな……クマ…………！？」",
+      "en": "\"Hold it!!\"",
+      "text": "\"Hold it!!\""
+    },
+    {
+      "offset": 2213,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "姿をしかと確認する間もなく、『そいつ』は地\n響きをたてて廊下に消えていった。",
+      "en": "\"Hahaha! You think that can hold me down, my dear puppy!?\nLaughable!\"",
+      "text": "\"Hahaha! You think that can hold me down, my dear puppy!?\nLaughable!\""
+    },
+    {
+      "offset": 2293,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "気の迷いか……女子の制服を着込んだ真ん丸い\nクマであったような………………。",
+      "en": "\"In the name of Nemu-senpai and the God of bananas, I'd\ndefinitely catch you!\"",
+      "text": "\"In the name of Nemu-senpai and the God of bananas, I'd\ndefinitely catch you!\""
+    },
+    {
+      "offset": 2373,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "煩悶のあまりついにあんな幻覚を見るようになっ\nたのか……。",
+      "en": "*fwoosh!*",
+      "text": "*fwoosh!*"
+    },
+    {
+      "offset": 2441,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（……………………ぃやいやいやいやいや）",
+      "en": "\"Waahhh!\"",
+      "text": "\"Waahhh!\""
+    },
+    {
+      "offset": 2488,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなものが実在する筈はないだろう。",
+      "en": "Caught in the middle of the dispute between the Suginami and\nAmakase factions, I was thrown to the floor in the frenzy.",
+      "text": "Caught in the middle of the dispute between the Suginami and\nAmakase factions, I was thrown to the floor in the frenzy."
+    },
+    {
+      "offset": 2529,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しっかりしろ、正気を保て。",
+      "en": "Suginami was probably trying to ferret out information from\nthe discplinary committee again.",
+      "text": "Suginami was probably trying to ferret out information from\nthe discplinary committee again."
+    },
+    {
+      "offset": 2560,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぱちん、と頬をひとつ叩く。",
+      "en": "In a way, he enjoys the inevitable chase after. A pretty\nominous sign for the future...",
+      "text": "In a way, he enjoys the inevitable chase after. A pretty\nominous sign for the future..."
+    },
+    {
+      "offset": 2599,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「………………って」",
+      "en": "I started to get up, supporting myself with my hand.",
+      "text": "I started to get up, supporting myself with my hand."
+    },
+    {
+      "offset": 2626,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その瞬間、指先に鈍い痛みが走った。",
+      "en": "\"........Ow.\"",
+      "text": "\"........Ow.\""
+    },
+    {
+      "offset": 2665,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうも突き飛ばされたとき手にヘンな力をかけ\nてしまったようだ。",
+      "en": "As I tried to, I felt a dull pain in my fingertip.",
+      "text": "As I tried to, I felt a dull pain in my fingertip."
+    },
+    {
+      "offset": 2733,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いててて……こりゃ突き指だな」",
+      "en": "I thought I felt something strange when I fell down...",
+      "text": "I thought I felt something strange when I fell down..."
+    },
+    {
+      "offset": 2772,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "動かそうとして力を入れると鈍い痛みがまたぞ\nろ指に走った。",
+      "en": "\"Owww... I must've jammed it into the floor.\"",
+      "text": "\"Owww... I must've jammed it into the floor.\""
+    },
+    {
+      "offset": 2834,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ということは今のクマも幻覚ではなかったのか？",
+      "en": "Whenever I tried to move it, the same dull pain took over.",
+      "text": "Whenever I tried to move it, the same dull pain took over."
+    },
+    {
+      "offset": 2885,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（廊下を疾走するクマと、そんな幻を見る恋煩\n　い男子学生……どっちがマシなんだろう）",
+      "en": "I kept it still, and headed for the infirmary.",
+      "text": "I kept it still, and headed for the infirmary."
+    },
+    {
+      "offset": 2975,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は痛む指をかばいながら、ひとまず保健室へ\nと向かった。",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 3035,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "As I went, the end-of-recess bell rang.",
+      "text": "As I went, the end-of-recess bell rang."
+    },
+    {
+      "offset": 3101,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "途中まで来たところで、昼休み終了を告げるチャ\nイムが鳴り響いた。",
+      "en": "Oh well. I have an excuse at least, thanks to my finger.",
+      "text": "Oh well. I have an excuse at least, thanks to my finger."
+    },
+    {
+      "offset": 3169,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあいい。授業が始まったとはいえ、俺には指\nに手当てという正当な理由がある。",
+      "en": "...And I'd take any chance I can get to avoid Kudou for as\nlong as I can.",
+      "text": "...And I'd take any chance I can get to avoid Kudou for as\nlong as I can."
+    },
+    {
+      "offset": 3249,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……それに今の俺は一秒でも工藤と顔をあわせ\nる時間を短縮したかった。",
+      "en": "As I came to the front of the infirmary, I decided against\nknocking to avoid more pain on my finger.",
+      "text": "As I came to the front of the infirmary, I decided against\nknocking to avoid more pain on my finger."
+    },
+    {
+      "offset": 3369,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "保健室扉前、ノックをしようかとも思ったが何\nより指が痛かった。",
+      "en": "In any case, at this time, there won't be any students\ninside anyway.",
+      "text": "In any case, at this time, there won't be any students\ninside anyway."
+    },
+    {
+      "offset": 3435,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まぁどうせ、この時間なら保健室にいるのはサ\nボリ学生ぐらいなものだろう。",
+      "en": "\"Excuse m...\"",
+      "text": "\"Excuse m...\""
+    },
+    {
+      "offset": 3513,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「失礼しま……」",
+      "en": "I called out as I stepped inside.",
+      "text": "I called out as I stepped inside."
+    },
+    {
+      "offset": 3536,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は声をかけると同時に中へと踏み込んだ。",
+      "en": "--*creak*",
+      "text": "--*creak*"
+    },
+    {
+      "offset": 3623,
+      "speaker": "???",
+      "speaker_jp": "？？？",
+      "jp": "「キャアアァ！？」",
+      "en": "\"--Eh?\"",
+      "text": "\"--Eh?\""
+    },
+    {
+      "offset": 3648,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――その途端、可憐な悲鳴があたりに響く。",
+      "en": "\"A.... gah?????\"",
+      "text": "\"A.... gah?????\""
+    },
+    {
+      "offset": 3695,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ……あれ？？？？？」",
+      "en": "My eyes were met with Yuki-sensei holding a stethoscope to\nthe chest of what looked like a female student...",
+      "text": "My eyes were met with Yuki-sensei holding a stethoscope to\nthe chest of what looked like a female student..."
+    },
+    {
+      "offset": 3726,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の目に飛び込んできたのは、聴診器を手にし\nた保健教師と胸を｛くつろ／寛｝げた女子生徒の姿――",
+      "en": "\"I, I'm sorr..\"",
+      "text": "\"I, I'm sorr..\""
+    },
+    {
+      "offset": 3826,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ご、ごめ……」",
+      "en": "An apology flew out of my mouth isntantly, as something with\nme started to swell.",
+      "text": "An apology flew out of my mouth isntantly, as something with\nme started to swell."
+    },
+    {
+      "offset": 3849,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛とっさ／咄嗟｝に謝罪の言葉のようなものが口から飛び出\nしたが、それにも増して、よくわからない違和\n感が肥大していく。",
+      "en": "\"Ku....Kudou?....\"",
+      "text": "\"Ku....Kudou?....\""
+    },
+    {
+      "offset": 4049,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……それは確かに……俺のクラスメイト――工\n藤叶だった。",
+      "en": "...Indeed... that was my classmate, Kudou Kanae.",
+      "text": "...Indeed... that was my classmate, Kudou Kanae."
+    },
+    {
+      "offset": 4126,
+      "speaker": "Yuki-sensei",
+      "speaker_jp": "ゆき先生",
+      "jp": "「あ、朝倉君！？」",
+      "en": "\"A, Asakura-kun!?\"",
+      "text": "\"A, Asakura-kun!?\""
+    },
+    {
+      "offset": 4151,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ゆき先生が工藤の前に立ちはだかり俺の視線か\nら、工藤をガードする。",
+      "en": "Yuki-sensei quickly stood in front of Kudou, covering her\nfrom my sight.",
+      "text": "Yuki-sensei quickly stood in front of Kudou, covering her\nfrom my sight."
+    },
+    {
+      "offset": 4233,
+      "speaker": "Yuki-sensei",
+      "speaker_jp": "ゆき先生",
+      "jp": "「ど、どうかしたの？」",
+      "en": "\"W, what's wrong?\"",
+      "text": "\"W, what's wrong?\""
+    },
+    {
+      "offset": 4262,
+      "speaker": "Yuki-sensei",
+      "speaker_jp": "ゆき先生",
+      "jp": "「いえ、あの、突き指……」",
+      "en": "\"Leave it under cold water for awhile, then apply this and\ndon't move it.\"",
+      "text": "\"Leave it under cold water for awhile, then apply this and\ndon't move it.\""
+    },
+    {
+      "offset": 4305,
+      "speaker": "Yuki-sensei",
+      "speaker_jp": "ゆき先生",
+      "jp": "「水道の水で冷やしてからこれで固定して」",
+      "en": "\"O, ok.\"",
+      "text": "\"O, ok.\""
+    },
+    {
+      "offset": 4352,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しどろもどろになりつつ痛む指を見せると、ゆ\nき先生はそれでも『にっこり』と笑って絆創膏\nをひと巻き投げつけてくる。",
+      "en": "Scary...",
+      "text": "Scary..."
+    },
+    {
+      "offset": 4471,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「は、はひっ」",
+      "en": "With such a heated atmosphere, I quickly left the infirmary.",
+      "text": "With such a heated atmosphere, I quickly left the infirmary."
+    },
+    {
+      "offset": 4492,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こ、怖い。",
+      "en": "Then I leaned my back against the door.",
+      "text": "Then I leaned my back against the door."
+    },
+    {
+      "offset": 4530,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その勢いに気圧され、俺は保健室を飛び出した。",
+      "en": ".......................",
+      "text": "......................."
+    },
+    {
+      "offset": 4579,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その背中で乱暴にドアが閉められる。",
+      "en": "Um...",
+      "text": "Um..."
+    },
+    {
+      "offset": 4618,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……………………………………………。",
+      "en": "I unreasonably tried to get my brain to fully comprehend the\nscene I just saw.",
+      "text": "I unreasonably tried to get my brain to fully comprehend the\nscene I just saw."
+    },
+    {
+      "offset": 4659,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "えと……。",
+      "en": "Hypothesis number 1. It was another person, with a striking\nresemblance.",
+      "text": "Hypothesis number 1. It was another person, with a striking\nresemblance."
+    },
+    {
+      "offset": 4674,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、頭を無理に働かせ、目にした光景の意味を\n理解しようとつとめた。",
+      "en": "Hypothesis number 2. A curse was placed on Kudou which\ncaused the expansion of the chest, and required immediate\nconsultation.",
+      "text": "Hypothesis number 2. A curse was placed on Kudou which\ncaused the expansion of the chest, and required immediate\nconsultation."
+    },
+    {
+      "offset": 4746,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "仮定その１。\n単に容姿の似通った他人説。",
+      "en": "Hypothesis number 3. A conspiracy involving space aliens.",
+      "text": "Hypothesis number 3. A conspiracy involving space aliens."
+    },
+    {
+      "offset": 4790,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "仮定その２。\n胸の膨らむ呪いに悩まされている工藤がこっそ\nり保健教師のもとへ相談に訪れていた説。",
+      "en": "\"...What am I thinking about.",
+      "text": "\"...What am I thinking about."
+    },
+    {
+      "offset": 4889,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "仮定その３。\n宇宙人の陰謀説。",
+      "en": "Something like this doesn't work when there's only one\nperson to play the boke and tsukkomi roles.",
+      "text": "Something like this doesn't work when there's only one\nperson to play the boke and tsukkomi roles."
+    },
+    {
+      "offset": 4925,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……ってなんでやねん」",
+      "en": "There's the most obvious answer for it, albeit the one that\nmy mind's finding hard to understand.",
+      "text": "There's the most obvious answer for it, albeit the one that\nmy mind's finding hard to understand."
+    },
+    {
+      "offset": 4956,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一通り「ひとりノリツッコミ」を行ったあと、\n俺はとうとう結論に達した。",
+      "en": "\"Kudou's a.... g, girl?\"",
+      "text": "\"Kudou's a.... g, girl?\""
+    },
+    {
+      "offset": 5030,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それは一番簡単ではっきりとした、しかも俺の\n悩みまで一気に解決してくれる説明だ。",
+      "en": "--Namely, looking like a guy, but actually a girl... for\nsome reason, disgusing herself as a guy.",
+      "text": "--Namely, looking like a guy, but actually a girl... for\nsome reason, disgusing herself as a guy."
+    },
+    {
+      "offset": 5114,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――すなわち「彼」、工藤叶は本当は「彼女」\nであり……なんらかの理由で男装している少女\nであるということだ。",
+      "en": "There's probably an explanation for that.",
+      "text": "There's probably an explanation for that."
+    },
+    {
+      "offset": 5225,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あまりにご都合的な解釈。",
+      "en": "But both ways, forgetting about alien conspiracies, that's\nthe most likely reason.",
+      "text": "But both ways, forgetting about alien conspiracies, that's\nthe most likely reason."
+    },
+    {
+      "offset": 5254,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だが、どんな宇宙人の陰謀説よりもそれが一番\nしっくりとくる。",
+      "en": "And so often, I thought his face looked female. Apparently\nit was...",
+      "text": "And so often, I thought his face looked female. Apparently\nit was..."
+    },
+    {
+      "offset": 5320,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はっ、ははっ、あはははは………」",
+      "en": "\"Ha, haha, ahahahahahaha...\"",
+      "text": "\"Ha, haha, ahahahahahaha...\""
+    },
+    {
+      "offset": 5361,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何故、どんな事情で――なんてことを考えるよ\nり先に、俺はひとりでに笑い出していた。",
+      "en": "I could put away all the circusmtances first-- as I thought\nabout it, I started smiling to myself.",
+      "text": "I could put away all the circusmtances first-- as I thought\nabout it, I started smiling to myself."
+    },
+    {
+      "offset": 5447,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう、工藤が女の子であるのなら、俺はこの感\n情にストップをかけることもない。",
+      "en": "Yes, now that I know Kudou's a girl, there's no need for me\nto keep these feelings to myself.",
+      "text": "Yes, now that I know Kudou's a girl, there's no need for me\nto keep these feelings to myself."
+    },
+    {
+      "offset": 5527,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ああ認めよう！　認めてやるさ！　俺は工藤叶\nが大好きだ！！",
+      "en": "I can accept it now! I really like Kudou Kanae!",
+      "text": "I can accept it now! I really like Kudou Kanae!"
+    },
+    {
+      "offset": 5591,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………ぅおし！！　胸を張れ恋心！」",
+      "en": "\".....Alright! This is the awakening of my love!\"",
+      "text": "\".....Alright! This is the awakening of my love!\""
+    },
+    {
+      "offset": 5636,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "人、一人通らない授業中の廊下で、俺は大きく\nガッツポーズをとったのだった。",
+      "en": "In the middle of the deserted hallway, I made a guts pose.",
+      "text": "In the middle of the deserted hallway, I made a guts pose."
+    },
+    {
+      "offset": 5850,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆恋心全開◆",
+      "en": "◆Complete Love Awakening◆",
+      "text": "◆Complete Love Awakening◆"
+    },
+    {
+      "offset": 5895,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりのアドバイスのおかげで、自分としては、\nその気持ちを受け入れる事ができた。",
+      "en": "Thanks to Kotori's advice, I started acceping my feelings\nbit by bit.",
+      "text": "Thanks to Kotori's advice, I started acceping my feelings\nbit by bit."
+    },
+    {
+      "offset": 5979,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "が、そんな事、とても人に言えるわけもなく今\n日も今日とて｛もんもん／悶々｝とした日々……。",
+      "en": "But even that didn't stop me from worrying endlessly daya\nfter day...",
+      "text": "But even that didn't stop me from worrying endlessly daya\nfter day..."
+    },
+    {
+      "offset": 6073,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "悩みすぎてとうとう幻覚が見えるようになった\n俺は、ピンクのクマに跳ね飛ばされ、指を負傷\nしてしまう。",
+      "en": "As I was strolling in deep thought, a chase between Miharu\nand Suginami led to me injuring my finger.",
+      "text": "As I was strolling in deep thought, a chase between Miharu\nand Suginami led to me injuring my finger."
+    },
+    {
+      "offset": 6176,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "仕方なく向かった保健室で偶然、工藤が実は女\nであるということを知った俺。",
+      "en": "Thanks to my trip to the infiramary after, I foudn out that\nKudou was really a woman.",
+      "text": "Thanks to my trip to the infiramary after, I foudn out that\nKudou was really a woman."
+    },
+    {
+      "offset": 6252,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今までの悩みが一気に晴れた俺は、廊下で一人、\n大きくガッツポーズを取ったのだった。",
+      "en": "Now with my mind perfectly clear, I made a large guts pose\nin the empty hallway.",
+      "text": "Now with my mind perfectly clear, I made a large guts pose\nin the empty hallway."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "3613": "???",
+    "4114": "Yuki-sensei",
+    "4221": "Yuki-sensei",
+    "4293": "Yuki-sensei"
+  }
+}

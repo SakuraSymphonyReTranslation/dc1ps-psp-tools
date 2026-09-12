@@ -1,0 +1,1206 @@
+{
+  "scene": "script_0667.obj",
+  "dialogues": [
+    {
+      "offset": 192,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さて、授業も終わったし、環のところへ行くか。",
+      "en": "Classes are over... I wonder where Tamaki is.",
+      "text": "Classes are over... I wonder where Tamaki is."
+    },
+    {
+      "offset": 241,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "多分、巫女同好会も一人だと淋しいに違いない。",
+      "en": "Likely holding her usual, lonely post at the Miko\nAppreciation Club.",
+      "text": "Likely holding her usual, lonely post at the Miko\nAppreciation Club."
+    },
+    {
+      "offset": 290,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何とか部員が増えてくれるといいのだが……。",
+      "en": "It'd be good if the club gets more members...",
+      "text": "It'd be good if the club gets more members..."
+    },
+    {
+      "offset": 337,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は巫女同好会の部室へと入る。",
+      "en": "I traveled to the clubroom and entered.",
+      "text": "I traveled to the clubroom and entered."
+    },
+    {
+      "offset": 402,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おーい、環」",
+      "en": "\"Heeey, Tamaki.\"",
+      "text": "\"Heeey, Tamaki.\""
+    },
+    {
+      "offset": 454,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「あら、朝倉様」",
+      "en": "\"My, Asakura-sama.\"",
+      "text": "\"My, Asakura-sama.\""
+    },
+    {
+      "offset": 521,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「よお、朝倉」",
+      "en": "\"Yo, Asakura.\"",
+      "text": "\"Yo, Asakura.\""
+    },
+    {
+      "offset": 542,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "部室には既に、杉並が来ていた。",
+      "en": "I noticed Suginami just a little too late.",
+      "text": "I noticed Suginami just a little too late."
+    },
+    {
+      "offset": 577,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうりで、教室にいないと思った。",
+      "en": "If I'd noticed earlier, I might've thought twice about\nentering.",
+      "text": "If I'd noticed earlier, I might've thought twice about\nentering."
+    },
+    {
+      "offset": 616,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どうしたんだよ」",
+      "en": "\"What're you doing here?\"",
+      "text": "\"What're you doing here?\""
+    },
+    {
+      "offset": 641,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は部室の椅子に腰を掛ける。",
+      "en": "I took a seat on one of the chairs.",
+      "text": "I took a seat on one of the chairs."
+    },
+    {
+      "offset": 704,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「いや、個人的に陰陽道には興味があるからな」",
+      "en": "\"I have a vested interest in the ways of the Onmyoudou, of\ncourse.\"",
+      "text": "\"I have a vested interest in the ways of the Onmyoudou, of\ncourse.\""
+    },
+    {
+      "offset": 781,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「杉並様の推測って、個性的で面白いんですよ」",
+      "en": "\"Suginami's insights are very interesting to discuss.\"",
+      "text": "\"Suginami's insights are very interesting to discuss.\""
+    },
+    {
+      "offset": 832,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ふーん」",
+      "en": "\"Hmm.\"",
+      "text": "\"Hmm.\""
+    },
+    {
+      "offset": 877,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何となく。",
+      "en": "...Hey now.",
+      "text": "...Hey now."
+    },
+    {
+      "offset": 892,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何となく、邪魔されているような気がするのは、\n俺だけだろうか？",
+      "en": "Am I the one being the third wheel, this time?",
+      "text": "Am I the one being the third wheel, this time?"
+    },
+    {
+      "offset": 960,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「環、今日は何をする予定なんだ？」",
+      "en": "\"Tamaki, do you have any plans for today?\"",
+      "text": "\"Tamaki, do you have any plans for today?\""
+    },
+    {
+      "offset": 1010,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そうですね。今日もチラシを配ろうかとは思\n　ってるんですけど」",
+      "en": "\"Ah, that's right. I was thinking of distributing leaflets\nto advertise the club.\"",
+      "text": "\"Ah, that's right. I was thinking of distributing leaflets\nto advertise the club.\""
+    },
+    {
+      "offset": 1108,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「では、俺達も手伝おう」",
+      "en": "\"In that case, allow us to help.\"",
+      "text": "\"In that case, allow us to help.\""
+    },
+    {
+      "offset": 1139,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "って、杉並、お前が先に言うな！",
+      "en": "Hey, Suginami, don't speak for me!",
+      "text": "Hey, Suginami, don't speak for me!"
+    },
+    {
+      "offset": 1174,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並は、俺の方にニヤリと笑いかける。",
+      "en": "All he did though, was look at me with a knowing grin.",
+      "text": "All he did though, was look at me with a knowing grin."
+    },
+    {
+      "offset": 1215,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こいつ、気づいててやってるな……。",
+      "en": "He always notices these things...",
+      "text": "He always notices these things..."
+    },
+    {
+      "offset": 1282,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「じゃあ、早速行きましょうか？」",
+      "en": "\"In that case, shall we get started?\"",
+      "text": "\"In that case, shall we get started?\""
+    },
+    {
+      "offset": 1321,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、俺達が立ち上がろうとした瞬間、",
+      "en": "But, just as we stood up from our seats,",
+      "text": "But, just as we stood up from our seats,"
+    },
+    {
+      "offset": 1372,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ドンドン、と部室のドアをノックする音が響く。",
+      "en": "The sound of someone knocking on the door echoed throughout\nthe room.",
+      "text": "The sound of someone knocking on the door echoed throughout\nthe room."
+    },
+    {
+      "offset": 1454,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「あら、誰かしら？」",
+      "en": "\"My, who might that be?\"",
+      "text": "\"My, who might that be?\""
+    },
+    {
+      "offset": 1481,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「入部希望者かもしれないぞ」",
+      "en": "\"Perhaps someone who wants to join?\"",
+      "text": "\"Perhaps someone who wants to join?\""
+    },
+    {
+      "offset": 1542,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「だと、いいんですけど」",
+      "en": "\"It'd be wonderful if that was the case.\"",
+      "text": "\"It'd be wonderful if that was the case.\""
+    },
+    {
+      "offset": 1573,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環がドアを開ける。",
+      "en": "Tamaki opened the door.",
+      "text": "Tamaki opened the door."
+    },
+    {
+      "offset": 1596,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "すると、そこにはとても部員希望と思えない、\n体格のいい男子学生が立っている。",
+      "en": "The person knocking was a male student with a good physique.\nNot someone you'd expect to want to join...",
+      "text": "The person knocking was a male student with a good physique.\nNot someone you'd expect to want to join..."
+    },
+    {
+      "offset": 1676,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "って、その前に野球部のユニフォームを着てい\nる。",
+      "en": "...Right, that's the uniform of the baseball club, too.",
+      "text": "...Right, that's the uniform of the baseball club, too."
+    },
+    {
+      "offset": 1761,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「あ、あの、何か……？」",
+      "en": "\"U, um, what might the matter be...?\"",
+      "text": "\"U, um, what might the matter be...?\""
+    },
+    {
+      "offset": 1792,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "デンっと立っている男子学生に、環は威圧され\nている。",
+      "en": "He towered over Tamaki. It looked like he was going to\ncoerce her.",
+      "text": "He towered over Tamaki. It looked like he was going to\ncoerce her."
+    },
+    {
+      "offset": 1860,
+      "speaker": "Male Student",
+      "speaker_jp": "男子学生",
+      "jp": "「入ってもいいか？」",
+      "en": "\"May I enter?\"",
+      "text": "\"May I enter?\""
+    },
+    {
+      "offset": 1913,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「は、はい。どうぞ」",
+      "en": "\"P, please do.\"",
+      "text": "\"P, please do.\""
+    },
+    {
+      "offset": 1940,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "男子学生は、狭い部室の中を遠慮せずに入って\nくる。",
+      "en": "The student walked in and took a seat in the narrow room.",
+      "text": "The student walked in and took a seat in the narrow room."
+    },
+    {
+      "offset": 1994,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そいつのお陰で、室内は妙に密度が高くなる。",
+      "en": "The density of the room seemed to increase threefold with\nhim around.",
+      "text": "The density of the room seemed to increase threefold with\nhim around."
+    },
+    {
+      "offset": 2053,
+      "speaker": "Male Student",
+      "speaker_jp": "男子学生",
+      "jp": "「実は、野球部の必勝祈願をして欲しい」",
+      "en": "\"I came here to request a victory prayer for the baseball\nclub.\"",
+      "text": "\"I came here to request a victory prayer for the baseball\nclub.\""
+    },
+    {
+      "offset": 2124,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「必勝祈願？」",
+      "en": "\"A victory prayer?\"",
+      "text": "\"A victory prayer?\""
+    },
+    {
+      "offset": 2155,
+      "speaker": "Male Student",
+      "speaker_jp": "男子学生",
+      "jp": "「地区予選が始まったんだが、うちは万年予選\n　落ちだ。勝ったことがない」",
+      "en": "\"The district preliminaries are about to begin. We have\nnever won a match since the school opened.\"",
+      "text": "\"The district preliminaries are about to begin. We have\nnever won a match since the school opened.\""
+    },
+    {
+      "offset": 2233,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "野球部のキャプテンと思われる男子学生は、太\nい声で言う。",
+      "en": "The student, seemingly the captain of the baseball club,\nspoke with a booming voice.",
+      "text": "The student, seemingly the captain of the baseball club,\nspoke with a booming voice."
+    },
+    {
+      "offset": 2305,
+      "speaker": "Male Student",
+      "speaker_jp": "男子学生",
+      "jp": "「３年は、言わずと知れて今年が最後だ。一度\n　ぐらい、勝利というものを実感したいのだ」",
+      "en": "\"This will be the last year for us 3rd year students. Just\nonce, we would like to taste victory.\"",
+      "text": "\"This will be the last year for us 3rd year students. Just\nonce, we would like to taste victory.\""
+    },
+    {
+      "offset": 2423,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「でも……」",
+      "en": "\"But...\"",
+      "text": "\"But...\""
+    },
+    {
+      "offset": 2442,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は当惑した顔をしている。",
+      "en": "Tamaki's face was a picture of bewilderment.",
+      "text": "Tamaki's face was a picture of bewilderment."
+    },
+    {
+      "offset": 2473,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "確かに、うちの野球部は弱い。",
+      "en": "It's a well-known fact around the school that our baseball\nclub is weak.",
+      "text": "It's a well-known fact around the school that our baseball\nclub is weak."
+    },
+    {
+      "offset": 2506,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "５０戦中１勝もしていない、というもっぱらの\n噂だ。",
+      "en": "In 50 matches, they haven't won even one game. The heckling\nwas endless.",
+      "text": "In 50 matches, they haven't won even one game. The heckling\nwas endless."
+    },
+    {
+      "offset": 2560,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "近々、廃部になるという噂もある。",
+      "en": "Recently, there was even talk that the club would be\ndisbanded.",
+      "text": "Recently, there was even talk that the club would be\ndisbanded."
+    },
+    {
+      "offset": 2609,
+      "speaker": "Male Student",
+      "speaker_jp": "男子学生",
+      "jp": "「今回、１勝もできないと、間違えなくうちの\n　存続は危うい。もう、藁にもすがる思いなん\n　だ」",
+      "en": "\"If we fail again to win even once, the future of the club\nwould be in danger. This is our last chance.\"",
+      "text": "\"If we fail again to win even once, the future of the club\nwould be in danger. This is our last chance.\""
+    },
+    {
+      "offset": 2718,
+      "speaker": "Male Student",
+      "speaker_jp": "男子学生",
+      "jp": "「頼む」",
+      "en": "\"Please!\"",
+      "text": "\"Please!\""
+    },
+    {
+      "offset": 2733,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "男子学生は、環に坊主頭を深々と下げる。",
+      "en": "The student bowed his shaven head deeply to Tamaki.",
+      "text": "The student bowed his shaven head deeply to Tamaki."
+    },
+    {
+      "offset": 2804,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そ、そんな。頭を上げてください」",
+      "en": "\"N, no! Please lift your head!\"",
+      "text": "\"N, no! Please lift your head!\""
+    },
+    {
+      "offset": 2845,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は驚いて男子学生に言う。",
+      "en": "The surprised Tamaki quickly replied.",
+      "text": "The surprised Tamaki quickly replied."
+    },
+    {
+      "offset": 2904,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「で、でも、必勝祈願なんて……」",
+      "en": "\"B, but.... a victory prayer...\"",
+      "text": "\"B, but.... a victory prayer...\""
+    },
+    {
+      "offset": 2943,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "多分、環は野球部の未来は見えないのだろう。",
+      "en": "I guess Tamaki can't see the future of the baseball club.",
+      "text": "I guess Tamaki can't see the future of the baseball club."
+    },
+    {
+      "offset": 2990,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自信の無さそうな顔をしている。",
+      "en": "Her face was full of doubt.",
+      "text": "Her face was full of doubt."
+    },
+    {
+      "offset": 3037,
+      "speaker": "Male Student",
+      "speaker_jp": "男子学生",
+      "jp": "「聞くところによると、君は不思議な力がある\n　らしいな。その力でなんとか……」",
+      "en": "\"I have heard from several sources that you possess a\nmysterious power. If you could somehow use it...\"",
+      "text": "\"I have heard from several sources that you possess a\nmysterious power. If you could somehow use it...\""
+    },
+    {
+      "offset": 3147,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そんな、無理です。勝負事には……」",
+      "en": "\"That's too much, I can't use it for competitions like...\"",
+      "text": "\"That's too much, I can't use it for competitions like...\""
+    },
+    {
+      "offset": 3200,
+      "speaker": "Male Student",
+      "speaker_jp": "男子学生",
+      "jp": "「頼む、この通りだ」",
+      "en": "\"Please, this is the only way.\"",
+      "text": "\"Please, this is the only way.\""
+    },
+    {
+      "offset": 3227,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "男子学生は、再び頭を下げる。",
+      "en": "Once again, his head bowed down.",
+      "text": "Once again, his head bowed down."
+    },
+    {
+      "offset": 3288,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3307,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は無言で考え込んでしまう。",
+      "en": "Tamaki stayed silent, thinking.",
+      "text": "Tamaki stayed silent, thinking."
+    },
+    {
+      "offset": 3340,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ったく、自分達で練習すれば済むことだろうが。",
+      "en": "Geez, if they want to win, why don't they just practice\nmore.",
+      "text": "Geez, if they want to win, why don't they just practice\nmore."
+    },
+    {
+      "offset": 3389,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環に頼むのは筋が違う。",
+      "en": "They're barking up the wrong tree if they actually want to\nimprove their club.",
+      "text": "They're barking up the wrong tree if they actually want to\nimprove their club."
+    },
+    {
+      "offset": 3416,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "実際、環だって困っているし。",
+      "en": "And it'd be a huge bother to Tamaki as well.",
+      "text": "And it'd be a huge bother to Tamaki as well."
+    },
+    {
+      "offset": 3449,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は野球部のキャプテンに反論したいのだが\n……。",
+      "en": "I was completely against what the baseball club captain\nwanted...",
+      "text": "I was completely against what the baseball club captain\nwanted..."
+    },
+    {
+      "offset": 3501,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "が、それは環が決めることなので俺は黙ってい\nる。",
+      "en": "But since this was Tamaki's decision, I stayed silent.",
+      "text": "But since this was Tamaki's decision, I stayed silent."
+    },
+    {
+      "offset": 3581,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「……わかりました。やってみましょう」",
+      "en": "\"...I understand. I will do it.\"",
+      "text": "\"...I understand. I will do it.\""
+    },
+    {
+      "offset": 3626,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やっぱり、環は断りきれない……か。",
+      "en": "She just can't say no to people, huh...",
+      "text": "She just can't say no to people, huh..."
+    },
+    {
+      "offset": 3665,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は、困っている人を見ると、放っておけない。",
+      "en": "She just can't leave people in distress alone.",
+      "text": "She just can't leave people in distress alone."
+    },
+    {
+      "offset": 3714,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、そこが環のいいところでもあるのだが\n……。",
+      "en": "Well, that's the good part about her, yet...",
+      "text": "Well, that's the good part about her, yet..."
+    },
+    {
+      "offset": 3778,
+      "speaker": "Male Student",
+      "speaker_jp": "男子学生",
+      "jp": "「本当か？　ありがとう！」",
+      "en": "\"Really? Thank you!\"",
+      "text": "\"Really? Thank you!\""
+    },
+    {
+      "offset": 3811,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "男子学生は、環の手を取ってお礼を言う。本当\nに、心の底から安心したようだった。",
+      "en": "The male student grabbed her hand and thanked her profusely.\nIt really seemed to mean a lot to him...",
+      "text": "The male student grabbed her hand and thanked her profusely.\nIt really seemed to mean a lot to him..."
+    },
+    {
+      "offset": 3893,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ま、よっぽど切羽詰ってたんだろうな。",
+      "en": "Seems like he was at his wits' end.",
+      "text": "Seems like he was at his wits' end."
+    },
+    {
+      "offset": 3945,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「じゃあ、こちらで行いますから」",
+      "en": "\"Please follow me.\"",
+      "text": "\"Please follow me.\""
+    },
+    {
+      "offset": 4010,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「朝倉様、すいません。少し留守にしますので、\n　お願いしてもいいですか？」",
+      "en": "\"Asakura-sama, could you take care of things in my\nabscence?\"",
+      "text": "\"Asakura-sama, could you take care of things in my\nabscence?\""
+    },
+    {
+      "offset": 4090,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ああ」",
+      "en": "\"Sure.\"",
+      "text": "\"Sure.\""
+    },
+    {
+      "offset": 4131,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「では、行きましょう」",
+      "en": "\"Let's get ready.\"",
+      "text": "\"Let's get ready.\""
+    },
+    {
+      "offset": 4171,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、環と男子学生は外へ出て行ってしまった。",
+      "en": "Tamaki and the male student left the room.",
+      "text": "Tamaki and the male student left the room."
+    },
+    {
+      "offset": 4258,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「やれやれ、だな」",
+      "en": "\"Hoo boy.\"",
+      "text": "\"Hoo boy.\""
+    },
+    {
+      "offset": 4283,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「なんでお前がやれやれ、なんだよ」",
+      "en": "\"Why are you saying that?\"",
+      "text": "\"Why are you saying that?\""
+    },
+    {
+      "offset": 4352,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「お前のためを思って言ってやってるんだぞ。\n　胡ノ宮嬢を独り占めできないから」",
+      "en": "\"I was just speaking on your behalf, since you can't\nmonopolize Konomiya anymore.\"",
+      "text": "\"I was just speaking on your behalf, since you can't\nmonopolize Konomiya anymore.\""
+    },
+    {
+      "offset": 4436,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「うるさいな。だったら、お前も来るなよ」",
+      "en": "\"Shut up. You shouldn't have came here, either.\"",
+      "text": "\"Shut up. You shouldn't have came here, either.\""
+    },
+    {
+      "offset": 4483,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、杉並の言うことももっともだ。",
+      "en": "His words rang of the truth, though.",
+      "text": "His words rang of the truth, though."
+    },
+    {
+      "offset": 4524,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環の予知能力がみんなに知られてから、環の周\nりは騒がしくなっている。",
+      "en": "Since Tamaki's clairvoyance was found out, trouble had\nbrewed all around her.",
+      "text": "Since Tamaki's clairvoyance was found out, trouble had\nbrewed all around her."
+    },
+    {
+      "offset": 4596,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環の意志とは関係の無いところで、いろいろな\nことが動いている。",
+      "en": "Several things started happening without her knowledge or\nacceptance.",
+      "text": "Several things started happening without her knowledge or\nacceptance."
+    },
+    {
+      "offset": 4662,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "でも、だから俺が一緒にいるんじゃないか。",
+      "en": "But... that's why I'm with her, isn't it.",
+      "text": "But... that's why I'm with her, isn't it."
+    },
+    {
+      "offset": 4737,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「せいぜい、お姫様を守ってやれよ」",
+      "en": "\"Do your best to protect your princess.\"",
+      "text": "\"Do your best to protect your princess.\""
+    },
+    {
+      "offset": 4778,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「だから、うるさいって」",
+      "en": "\"Yep, and that's why you need to shut up.\"",
+      "text": "\"Yep, and that's why you need to shut up.\""
+    },
+    {
+      "offset": 4809,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、俺達が言い争いをしていると、",
+      "en": "As our usual argument continued on,",
+      "text": "As our usual argument continued on,"
+    },
+    {
+      "offset": 4846,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "コンコンと、ドアをノックする音がする。",
+      "en": "A knock on the door interrupted us.",
+      "text": "A knock on the door interrupted us."
+    },
+    {
+      "offset": 4900,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あれ？　もう必勝祈願終わったのかな？」",
+      "en": "\"Ehh? The victory prayer's over already?\"",
+      "text": "\"Ehh? The victory prayer's over already?\""
+    },
+    {
+      "offset": 4947,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちょっと、早過ぎないか？",
+      "en": "That seemed awfully fast.",
+      "text": "That seemed awfully fast."
+    },
+    {
+      "offset": 4976,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は部室のドアを開ける。",
+      "en": "I opened the door to the clubroom.",
+      "text": "I opened the door to the clubroom."
+    },
+    {
+      "offset": 5005,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "すると、ドアの前で二人の女子学生が立ってい\nる。",
+      "en": "Unexpectedly, there were two female students standing there.",
+      "text": "Unexpectedly, there were two female students standing there."
+    },
+    {
+      "offset": 5059,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はい？　あの、何か……」",
+      "en": "\"Uh, yes? How can I help you?\"",
+      "text": "\"Uh, yes? How can I help you?\""
+    },
+    {
+      "offset": 5092,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "二人の女学生は、一人はお下げ髪で、一人は茶\n色い髪をしている。",
+      "en": "One of them had light brown hair, the other one had her hair\ntied in braids.",
+      "text": "One of them had light brown hair, the other one had her hair\ntied in braids."
+    },
+    {
+      "offset": 5172,
+      "speaker": "Female Student 1",
+      "speaker_jp": "女子学生１",
+      "jp": "「あ、あの、入部希望の張り紙をみて……」",
+      "en": "\"Uh, uhm, I read the poster about this club recruiting\nmembers...\"",
+      "text": "\"Uh, uhm, I read the poster about this club recruiting\nmembers...\""
+    },
+    {
+      "offset": 5219,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "え？　マジ？",
+      "en": "Ehh? Don't tell me...?",
+      "text": "Ehh? Don't tell me...?"
+    },
+    {
+      "offset": 5236,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何だか、すごく嬉しくなる。",
+      "en": "I felt a sudden wave of happiness rushing over me.",
+      "text": "I felt a sudden wave of happiness rushing over me."
+    },
+    {
+      "offset": 5267,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環、喜ぶだろうな……。",
+      "en": "Tamaki will be overjoyed by this...",
+      "text": "Tamaki will be overjoyed by this..."
+    },
+    {
+      "offset": 5296,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「もしかして、入部希望者？」",
+      "en": "\"Do you two want to join the club?\"",
+      "text": "\"Do you two want to join the club?\""
+    },
+    {
+      "offset": 5331,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "二人の女学生は、コクリと頷く。服装から見る\nに、付属生だ。たぶん、美春の同級生だろう。",
+      "en": "They nodded in unison. From their uniforms, they're from the\nattached school... the same grade as Miharu.",
+      "text": "They nodded in unison. From their uniforms, they're from the\nattached school... the same grade as Miharu."
+    },
+    {
+      "offset": 5423,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ほんと！？　いやあ、いらっしゃい。どうぞ\n　どうぞ。入ってください」",
+      "en": "\"Really!? Welcome, welcome! Please come in!\"",
+      "text": "\"Really!? Welcome, welcome! Please come in!\""
+    },
+    {
+      "offset": 5499,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、二人を過剰に歓迎し、中へ招き入れる。",
+      "en": "I literally pushed them inside.",
+      "text": "I literally pushed them inside."
+    },
+    {
+      "offset": 5546,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「入部希望者だ。杉並、ちょっとどけ」",
+      "en": "\"Move a bit, Suginami, there's serious business now.\"",
+      "text": "\"Move a bit, Suginami, there's serious business now.\""
+    },
+    {
+      "offset": 5589,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、杉並の座っていた椅子に座らせる。",
+      "en": "I hurriedly sat on the chair next to him.",
+      "text": "I hurriedly sat on the chair next to him."
+    },
+    {
+      "offset": 5632,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「だけど、環から何も聞いてないよな。こうい\n　う場合、どうするんだ？」",
+      "en": "\"Tamaki didn't tell me anything though... what should I do?\"",
+      "text": "\"Tamaki didn't tell me anything though... what should I do?\""
+    },
+    {
+      "offset": 5741,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「とりあえず、名前とクラスでも書いてもらえ\n　ばどうだ？」",
+      "en": "\"Taking down their names and their class would be a good\nstart.\"",
+      "text": "\"Taking down their names and their class would be a good\nstart.\""
+    },
+    {
+      "offset": 5805,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「なるほど。たまには役に立つじゃないか」",
+      "en": "\"Ah, true. I guess you're not always a good-for-nothing.\"",
+      "text": "\"Ah, true. I guess you're not always a good-for-nothing.\""
+    },
+    {
+      "offset": 5861,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、机の上にあった紙とシャープペンシルを\n二人に渡し、名前とクラスを記入してもらう。",
+      "en": "I gave them a piece of paper and a sharp pencil, instructing\nthem to write their names and class.",
+      "text": "I gave them a piece of paper and a sharp pencil, instructing\nthem to write their names and class."
+    },
+    {
+      "offset": 5951,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そこへ、いいタイミングで環が帰ってくる。",
+      "en": "Tamaki then returned, perfect timing.",
+      "text": "Tamaki then returned, perfect timing."
+    },
+    {
+      "offset": 6029,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「あら？」",
+      "en": "\"Ah?\"",
+      "text": "\"Ah?\""
+    },
+    {
+      "offset": 6046,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「入部希望者だって」",
+      "en": "\"These people want to join, Tamaki.\"",
+      "text": "\"These people want to join, Tamaki.\""
+    },
+    {
+      "offset": 6099,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「え？　本当ですか？」",
+      "en": "\"Ehh? Really?\"",
+      "text": "\"Ehh? Really?\""
+    },
+    {
+      "offset": 6128,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ああ。もう、名前も書いてもらった」",
+      "en": "\"Yeah. They've wrote down their names already.\"",
+      "text": "\"Yeah. They've wrote down their names already.\""
+    },
+    {
+      "offset": 6171,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は少し得意げに、入部用紙を環に見せる。",
+      "en": "I showed her the paper with pride.",
+      "text": "I showed her the paper with pride."
+    },
+    {
+      "offset": 6216,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『まあ』と、環の顔がほころぶ。",
+      "en": "\"My\", she said, as she began to smile broadly.",
+      "text": "\"My\", she said, as she began to smile broadly."
+    },
+    {
+      "offset": 6251,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "女子学生たちは、環の顔をみて、お辞儀する。",
+      "en": "The two students looked at Tamaki, and bowed.",
+      "text": "The two students looked at Tamaki, and bowed."
+    },
+    {
+      "offset": 6326,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「よくいらしてくれましたね」",
+      "en": "\"Welcome to the club.\"",
+      "text": "\"Welcome to the club.\""
+    },
+    {
+      "offset": 6373,
+      "speaker": "Female Student 1",
+      "speaker_jp": "女子学生１",
+      "jp": "「はい……」",
+      "en": "\"Thank you...\"",
+      "text": "\"Thank you...\""
+    },
+    {
+      "offset": 6404,
+      "speaker": "Female Student 2",
+      "speaker_jp": "女子学生２",
+      "jp": "「よろしくお願いします、胡ノ宮先輩」",
+      "en": "\"Pleased to meet you, Konomiya-senpai.\"",
+      "text": "\"Pleased to meet you, Konomiya-senpai.\""
+    },
+    {
+      "offset": 6480,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「どうして入部しようと思ったんだ？」",
+      "en": "\"Why did you think of joining this club?\"",
+      "text": "\"Why did you think of joining this club?\""
+    },
+    {
+      "offset": 6523,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やはりその動機に興味があるのか、俺が聞こう\nと思っていた言葉を、杉並が代弁してくれる。",
+      "en": "I was interested in their motives too, but Suginami beat me\nto the punch.",
+      "text": "I was interested in their motives too, but Suginami beat me\nto the punch."
+    },
+    {
+      "offset": 6627,
+      "speaker": "Female Student 1",
+      "speaker_jp": "女子学生１",
+      "jp": "「実は……」",
+      "en": "\"Well, actually...\"",
+      "text": "\"Well, actually...\""
+    },
+    {
+      "offset": 6646,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "二人は顔を見合わせる。",
+      "en": "They glanced at each other.",
+      "text": "They glanced at each other."
+    },
+    {
+      "offset": 6687,
+      "speaker": "Female Student 2",
+      "speaker_jp": "女子学生２",
+      "jp": "「胡ノ宮先輩と、巫女服に憧れて……。ほら、\n　先輩ってカッコイイじゃないですか」",
+      "en": "\"We wanted to be like Konomiya-senpai, in her Miko outfit...\nshe's really cool.\"",
+      "text": "\"We wanted to be like Konomiya-senpai, in her Miko outfit...\nshe's really cool.\""
+    },
+    {
+      "offset": 6785,
+      "speaker": "Female Student 1",
+      "speaker_jp": "女子学生１",
+      "jp": "「白河先輩を、弓矢で救ったところ、私、見て\n　たんです。なんだか憧れちゃって」",
+      "en": "\"That time when she used her bow and arrows to save\nShirakawa-senpai... I saw it, and I wanted to be like her.\"",
+      "text": "\"That time when she used her bow and arrows to save\nShirakawa-senpai... I saw it, and I wanted to be like her.\""
+    },
+    {
+      "offset": 6900,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「え……」",
+      "en": "\"Ahh...\"",
+      "text": "\"Ahh...\""
+    },
+    {
+      "offset": 6917,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は思わず顔を赤らめる。",
+      "en": "Tamaki started to blush a deep red.",
+      "text": "Tamaki started to blush a deep red."
+    },
+    {
+      "offset": 6974,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「あ、ありがとうございます……」",
+      "en": "\"T, thank you for your kind words...\"",
+      "text": "\"T, thank you for your kind words...\""
+    },
+    {
+      "offset": 7013,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "よっぽど嬉しいんだろう。こっちが見ていても\nそれが良く分かる。",
+      "en": "She's really happy now... it's easy to tell from her\nexpression.",
+      "text": "She's really happy now... it's easy to tell from her\nexpression."
+    },
+    {
+      "offset": 7079,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺までが嬉しい気分になってしまう。",
+      "en": "Seeing her like that made me happy too.",
+      "text": "Seeing her like that made me happy too."
+    },
+    {
+      "offset": 7120,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「やったな」",
+      "en": "\"This looks good, Tamaki.\"",
+      "text": "\"This looks good, Tamaki.\""
+    },
+    {
+      "offset": 7139,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は環に小声で言う。",
+      "en": "I whispered to her.",
+      "text": "I whispered to her."
+    },
+    {
+      "offset": 7181,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は、小さく頷く。",
+      "en": "She gave me a small nod in return.",
+      "text": "She gave me a small nod in return."
+    },
+    {
+      "offset": 7204,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "二人の新入部員は、今日は用事があるので、明\n日からと言って去っていった。",
+      "en": "The two new members had other matters to attend to today,\nbut promised to come back tomorrow.",
+      "text": "The two new members had other matters to attend to today,\nbut promised to come back tomorrow."
+    },
+    {
+      "offset": 7280,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は、二人のために、神社から持ってきた巫女\n装束を部室に置いていた。",
+      "en": "Tamaki vowed to bring Miko outfits from the shrine for them.",
+      "text": "Tamaki vowed to bring Miko outfits from the shrine for them."
+    },
+    {
+      "offset": 7352,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その姿は、なんだかとても楽しそうだった。",
+      "en": "It's gonna be fun to watch.",
+      "text": "It's gonna be fun to watch."
+    },
+    {
+      "offset": 7501,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆必勝祈願◆",
+      "en": "◆Victory Prayer?◆",
+      "text": "◆Victory Prayer?◆"
+    },
+    {
+      "offset": 7542,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "巫女同好会へ行くと、必勝祈願にと野球部の部\n員が訪れる。",
+      "en": "The captain of the baseball club approached the Miko\nAppreciation Club to request a victory prayer.",
+      "text": "The captain of the baseball club approached the Miko\nAppreciation Club to request a victory prayer."
+    },
+    {
+      "offset": 7602,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しぶしぶながらも、環はその必勝祈願をする。",
+      "en": "Although a bit hesitant, Tamaki agreed to carry it out.",
+      "text": "Although a bit hesitant, Tamaki agreed to carry it out."
+    },
+    {
+      "offset": 7649,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その間に、入部したいという女子学生が部室を\n訪れる。",
+      "en": "While she was doing the victory prayer, two female students\ninquired about joining the club.",
+      "text": "While she was doing the victory prayer, two female students\ninquired about joining the club."
+    },
+    {
+      "offset": 7705,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "聞けば、環と巫女装束に憧れたのだという。",
+      "en": "They were inspired by Tamaki's exploits while in her Miko\noutfit.",
+      "text": "They were inspired by Tamaki's exploits while in her Miko\noutfit."
+    },
+    {
+      "offset": 7750,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それを聞いて、嬉しそうな環をみて、俺も嬉し\nくなってしまった。",
+      "en": "Tamaki was overjoyed upon hearing the good news, making me\nhappy as well.",
+      "text": "Tamaki was overjoyed upon hearing the good news, making me\nhappy as well."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "448": "Tamaki",
+    "513": "Suginami",
+    "696": "Suginami",
+    "775": "Tamaki",
+    "1004": "Tamaki",
+    "1100": "Suginami",
+    "1276": "Tamaki",
+    "1448": "Tamaki",
+    "1536": "Tamaki",
+    "1755": "Tamaki",
+    "1848": "Male Student",
+    "1907": "Tamaki",
+    "2041": "Male Student",
+    "2118": "Tamaki",
+    "2143": "Male Student",
+    "2293": "Male Student",
+    "2417": "Tamaki",
+    "2597": "Male Student",
+    "2706": "Male Student",
+    "2798": "Tamaki",
+    "2898": "Tamaki",
+    "3025": "Male Student",
+    "3141": "Tamaki",
+    "3188": "Male Student",
+    "3282": "Tamaki",
+    "3575": "Tamaki",
+    "3766": "Male Student",
+    "3939": "Tamaki",
+    "4004": "Tamaki",
+    "4125": "Tamaki",
+    "4250": "Suginami",
+    "4344": "Suginami",
+    "4729": "Suginami",
+    "5158": "Female Student 1",
+    "5733": "Suginami",
+    "6023": "Tamaki",
+    "6093": "Tamaki",
+    "6320": "Tamaki",
+    "6359": "Female Student 1",
+    "6390": "Female Student 2",
+    "6472": "Suginami",
+    "6613": "Female Student 1",
+    "6673": "Female Student 2",
+    "6771": "Female Student 1",
+    "6894": "Tamaki",
+    "6968": "Tamaki"
+  }
+}

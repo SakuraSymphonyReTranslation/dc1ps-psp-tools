@@ -1,0 +1,600 @@
+{
+  "scene": "script_0367.obj",
+  "dialogues": [
+    {
+      "offset": 153,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "学校からの帰り道、ふと桜公園で立ち止まる。",
+      "en": "I walked through the Sakura Park, on the way home.",
+      "text": "I walked through the Sakura Park, on the way home."
+    },
+    {
+      "offset": 200,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ん、あれは……。",
+      "en": "Hm, that's...?",
+      "text": "Hm, that's...?"
+    },
+    {
+      "offset": 221,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環が桜の木の下で立っている。",
+      "en": "Tamaki... she was standing under a sakura tree.",
+      "text": "Tamaki... she was standing under a sakura tree."
+    },
+    {
+      "offset": 254,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "桜の木をじっと見上げ、何か考え込んでいる。",
+      "en": "She was looking up at the tree, seemingly thinking about\nsomething.",
+      "text": "She was looking up at the tree, seemingly thinking about\nsomething."
+    },
+    {
+      "offset": 303,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「環」",
+      "en": "\"Tamaki?\"",
+      "text": "\"Tamaki?\""
+    },
+    {
+      "offset": 316,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は俺の声に振り返る。",
+      "en": "She turned around at the sound of my voice.",
+      "text": "She turned around at the sound of my voice."
+    },
+    {
+      "offset": 381,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「あら、朝倉様」",
+      "en": "\"My, Asakura-sama.\"",
+      "text": "\"My, Asakura-sama.\""
+    },
+    {
+      "offset": 404,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「何やってるんだ。じっと木なんか見つめて」",
+      "en": "\"What're you doing here, staring at a tree like this?\"",
+      "text": "\"What're you doing here, staring at a tree like this?\""
+    },
+    {
+      "offset": 453,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「円盤でも落っこって来たか？」",
+      "en": "\"Is a discus going to fall from it?\"",
+      "text": "\"Is a discus going to fall from it?\""
+    },
+    {
+      "offset": 516,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「まさか、そんなことは」",
+      "en": "\"Haha, that couldn't happen.\"",
+      "text": "\"Haha, that couldn't happen.\""
+    },
+    {
+      "offset": 547,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「じゃ、時期はずれのカブトムシでもいたか？」",
+      "en": "\"Then, an out-of-season beetle?\"",
+      "text": "\"Then, an out-of-season beetle?\""
+    },
+    {
+      "offset": 624,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「いえ、いませんよ」",
+      "en": "\"No, not at all.\"",
+      "text": "\"No, not at all.\""
+    },
+    {
+      "offset": 651,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は口元に手を当てて笑う。",
+      "en": "She covered her mouth with her hand, stifling her giggling.",
+      "text": "She covered her mouth with her hand, stifling her giggling."
+    },
+    {
+      "offset": 684,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「何かこの木に思い入れでもあるのか？」",
+      "en": "\"Well, then what are you contemplating about this tree?\"",
+      "text": "\"Well, then what are you contemplating about this tree?\""
+    },
+    {
+      "offset": 755,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「いえ、そういう訳ではないのですが、あまり\n　にも綺麗なものですから……」",
+      "en": "\"No, it's nothing like that. I was just admiring how\nmajestic and beautiful it is...\"",
+      "text": "\"No, it's nothing like that. I was just admiring how\nmajestic and beautiful it is...\""
+    },
+    {
+      "offset": 835,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ま、引っ越して来た人間から見れば、そうか\n　もしれないな」",
+      "en": "\"Heh, people who just moved here all say similar things.\"",
+      "text": "\"Heh, people who just moved here all say similar things.\""
+    },
+    {
+      "offset": 927,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ええ。一年中桜が咲いているなんて、本当に\n　素敵ですね」",
+      "en": "\"Yes. Seeing sakura petals that bloom all year long, is\nwonderful.\"",
+      "text": "\"Yes. Seeing sakura petals that bloom all year long, is\nwonderful.\""
+    },
+    {
+      "offset": 1000,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「まあ、散り急ぐ｛はかな／儚｝さがいいって言う意見も、\n　その通りだとは思うのですが」",
+      "en": "\"Although, I can see why other people might think\notherwise.\"",
+      "text": "\"Although, I can see why other people might think\notherwise.\""
+    },
+    {
+      "offset": 1101,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「でも、いつ見ても桜は神秘的です」",
+      "en": "\"But to me, sakura petals display a mysterious quality.\"",
+      "text": "\"But to me, sakura petals display a mysterious quality.\""
+    },
+    {
+      "offset": 1142,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そうだな。俺なんか、見慣れてるからあまり\n　何も感じないけど」",
+      "en": "\"Hrm... for me, I can't feel anything special about them.\"",
+      "text": "\"Hrm... for me, I can't feel anything special about them.\""
+    },
+    {
+      "offset": 1238,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「この島に来て、もう２週間経ちますが、未だ\n　に新しい発見があって、楽しいですよ」",
+      "en": "\"Although I have already been here two weeks, I'm happy to\nstill be constantly discovering new things.\"",
+      "text": "\"Although I have already been here two weeks, I'm happy to\nstill be constantly discovering new things.\""
+    },
+    {
+      "offset": 1326,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ふーん」",
+      "en": "\"Mmm.\"",
+      "text": "\"Mmm.\""
+    },
+    {
+      "offset": 1343,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、そんなもんなのかも知れないな。",
+      "en": "That's good for her.",
+      "text": "That's good for her."
+    },
+    {
+      "offset": 1386,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「だったら少し、散歩でもするか」",
+      "en": "\"In that case, let's keep walking a little longer.\"",
+      "text": "\"In that case, let's keep walking a little longer.\""
+    },
+    {
+      "offset": 1451,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「本当ですか？」",
+      "en": "\"Really?\"",
+      "text": "\"Really?\""
+    },
+    {
+      "offset": 1474,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「うん。環が多分、まだ知らないところへ連れ\n　て行ってやるよ」",
+      "en": "\"Yeah. I believe I know of a place you haven't seen, yet.\"",
+      "text": "\"Yeah. I believe I know of a place you haven't seen, yet.\""
+    },
+    {
+      "offset": 1568,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「はい。ぜひ教えてください」",
+      "en": "\"Please show it to me.\"",
+      "text": "\"Please show it to me.\""
+    },
+    {
+      "offset": 1603,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は満面の笑みを浮かべて俺について来る。",
+      "en": "With her smile showing on her whole face, she followed after\nme.",
+      "text": "With her smile showing on her whole face, she followed after\nme."
+    },
+    {
+      "offset": 1750,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「うわ〜！　綺麗ですね」",
+      "en": "\"Wow! So pretty!\"",
+      "text": "\"Wow! So pretty!\""
+    },
+    {
+      "offset": 1781,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「だろ」",
+      "en": "\"Ain't it?\"",
+      "text": "\"Ain't it?\""
+    },
+    {
+      "offset": 1822,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「こんな素敵なところがあるなんて。やっぱり\n　初音島っていいところですよね」",
+      "en": "\"With such wonderful places like this... Hatsu-nejima is\nindeed a splendid place to live in.\"",
+      "text": "\"With such wonderful places like this... Hatsu-nejima is\nindeed a splendid place to live in.\""
+    },
+    {
+      "offset": 1904,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「まあな」",
+      "en": "\"Heh, I suppose.\"",
+      "text": "\"Heh, I suppose.\""
+    },
+    {
+      "offset": 1947,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「波がキラキラしてますよ」",
+      "en": "\"The waves are glittering...\"",
+      "text": "\"The waves are glittering...\""
+    },
+    {
+      "offset": 1989,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「春の海って、綺麗ですね。音楽になるのも分\n　かる気がします」",
+      "en": "\"The spring sea is very pretty too. Music would go perfectly\nwith it.\"",
+      "text": "\"The spring sea is very pretty too. Music would go perfectly\nwith it.\""
+    },
+    {
+      "offset": 2057,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「音楽？」",
+      "en": "\"Music?\"",
+      "text": "\"Music?\""
+    },
+    {
+      "offset": 2100,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ほら、あの琴の音色の……」",
+      "en": "\"Yes, such as the strains of a koto...\"",
+      "text": "\"Yes, such as the strains of a koto...\""
+    },
+    {
+      "offset": 2135,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「あ、あのお正月によくかかるヤツな」",
+      "en": "\"Ah, that instrument women always play on New Year's Day.\"",
+      "text": "\"Ah, that instrument women always play on New Year's Day.\""
+    },
+    {
+      "offset": 2204,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そうそう。ああ、風が気持ちいい」",
+      "en": "\"Yes, yes. Ahh, the wind feels good too!\"",
+      "text": "\"Yes, yes. Ahh, the wind feels good too!\""
+    },
+    {
+      "offset": 2245,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は長い髪をなびかせながら、一人つぶやく。",
+      "en": "She blabbered to herself, the wind blowing through her long\nhair.",
+      "text": "She blabbered to herself, the wind blowing through her long\nhair."
+    },
+    {
+      "offset": 2320,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「私、海が大好きなんです」",
+      "en": "\"I really like the sea.\"",
+      "text": "\"I really like the sea.\""
+    },
+    {
+      "offset": 2353,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「へえ。そうなんだ」",
+      "en": "\"Heh, really?\"",
+      "text": "\"Heh, really?\""
+    },
+    {
+      "offset": 2406,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「昔、海で溺れかけたことがあるのですが、不\n　思議と怖くなかったんです」",
+      "en": "\"I had almost drowned in the sea during my childhood, but\nstrangely, I hold no fears of it.\"",
+      "text": "\"I had almost drowned in the sea during my childhood, but\nstrangely, I hold no fears of it.\""
+    },
+    {
+      "offset": 2493,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「大きなものに抱かれているような気がして、\n　むしろ安心できたんですよ」",
+      "en": "\"Being surrounded by at all sides by water makes me feel\nmore relaxed.\"",
+      "text": "\"Being surrounded by at all sides by water makes me feel\nmore relaxed.\""
+    },
+    {
+      "offset": 2597,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「それから、海は大好きなんです」",
+      "en": "\"Since then, I've always loved the sea.\"",
+      "text": "\"Since then, I've always loved the sea.\""
+    },
+    {
+      "offset": 2636,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「なるほどねぇ。まあ、俺も好きだけどさ」",
+      "en": "\"Ahh. Well, I guess I like it too.\"",
+      "text": "\"Ahh. Well, I guess I like it too.\""
+    },
+    {
+      "offset": 2683,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そういう体験をすると、普通、人は怖くなって\n海を避けたりするもんだけどな。",
+      "en": "You'd think someone with that kind of personal traumatic\nexperience would try to avoid the cause...",
+      "text": "You'd think someone with that kind of personal traumatic\nexperience would try to avoid the cause..."
+    },
+    {
+      "offset": 2761,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やっぱり、巫女は自然に守られてるのだろう\nか？",
+      "en": "Maybe Miko really are given divine protection?",
+      "text": "Maybe Miko really are given divine protection?"
+    },
+    {
+      "offset": 2839,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「朝倉様は、どうして海が好きなんですか？」",
+      "en": "\"Why would you like the sea, Asakura-sama?\"",
+      "text": "\"Why would you like the sea, Asakura-sama?\""
+    },
+    {
+      "offset": 2888,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「うーん。別に理由はないけど……。ま、波の\n　音を聞くと、安心できるってぐらいかな」",
+      "en": "\"Well, I don't really have a reason like yours... the sound\nof the waves do calm me down, though.\"",
+      "text": "\"Well, I don't really have a reason like yours... the sound\nof the waves do calm me down, though.\""
+    },
+    {
+      "offset": 2987,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そうですか」",
+      "en": "\"I see.\"",
+      "text": "\"I see.\""
+    },
+    {
+      "offset": 3008,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「みんなで海水浴に行くのもいいが、ただ見つ\n　めるだけってのも、意外にいいよな」",
+      "en": "\"And looking at the sea makes me think of all the fun times\nI've had, playing with others there.\"",
+      "text": "\"And looking at the sea makes me think of all the fun times\nI've had, playing with others there.\""
+    },
+    {
+      "offset": 3120,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ええ。私、今日はとっても幸せな気持ちです」",
+      "en": "\"Yes. I feel that I am truly lucky today.\"",
+      "text": "\"Yes. I feel that I am truly lucky today.\""
+    },
+    {
+      "offset": 3171,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「え？」",
+      "en": "\"Eh?\"",
+      "text": "\"Eh?\""
+    },
+    {
+      "offset": 3212,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「いつもは、まっすぐ神社に帰るけど、たまに\n　寄り道したら、朝倉様に出会えて……。こん\n　な素敵な場所を教えてもらえたんですもの」",
+      "en": "\"From fortuitously meeting you today, and learning of such a\nwonderful place...\"",
+      "text": "\"From fortuitously meeting you today, and learning of such a\nwonderful place...\""
+    },
+    {
+      "offset": 3364,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環はにっこりと俺を見つめて微笑む。",
+      "en": "She turned to me, with the brightest of smiles on her face.",
+      "text": "She turned to me, with the brightest of smiles on her face."
+    },
+    {
+      "offset": 3405,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「大げさやな」",
+      "en": "\"Haha, you're too much sometimes.\"",
+      "text": "\"Haha, you're too much sometimes.\""
+    },
+    {
+      "offset": 3426,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は照れ隠しに、大きく伸びをする。",
+      "en": "I tried to mask my embarassment with my words, and a big\nyawn.",
+      "text": "I tried to mask my embarassment with my words, and a big\nyawn."
+    },
+    {
+      "offset": 3465,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "穏やかに空気が流れる。",
+      "en": "The calm atmosphere continued on.",
+      "text": "The calm atmosphere continued on."
+    },
+    {
+      "offset": 3492,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "うららかな春の日差しを浴びて。",
+      "en": "We bathed in the sun of another glorious spring day.",
+      "text": "We bathed in the sun of another glorious spring day."
+    },
+    {
+      "offset": 3527,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こんな取りとめのない会話をしていても、心が\n自然と和む。",
+      "en": "Engaging in light conversation on this kind of day, made a\nwarm feeling course through my body.",
+      "text": "Engaging in light conversation on this kind of day, made a\nwarm feeling course through my body."
+    },
+    {
+      "offset": 3587,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ささやかな幸せ。",
+      "en": "One of nature's little blessings...",
+      "text": "One of nature's little blessings..."
+    },
+    {
+      "offset": 3608,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "多分、こういう時間を言うのだろう。",
+      "en": "That'd be what a time like this is called, for certain.",
+      "text": "That'd be what a time like this is called, for certain."
+    },
+    {
+      "offset": 3647,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 3662,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "これって、",
+      "en": "Hrm... isn't this...",
+      "text": "Hrm... isn't this..."
+    },
+    {
+      "offset": 3677,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見方を変えると、そのまんまデート？",
+      "en": "If you look at it another way, you could call this a date...",
+      "text": "If you look at it another way, you could call this a date..."
+    },
+    {
+      "offset": 3716,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう呼んでもおかしくないほど、今の空気は和\nんでいる。",
+      "en": "That doesn't sound bad though. It fits well with the\natmosphere.",
+      "text": "That doesn't sound bad though. It fits well with the\natmosphere."
+    },
+    {
+      "offset": 3774,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こんな散歩なら、いつでも大歓迎だ。",
+      "en": "I warmly welcomed the name, as we walked together.",
+      "text": "I warmly welcomed the name, as we walked together."
+    },
+    {
+      "offset": 3946,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆海を見ていた◆",
+      "en": "◆Watching The Sea?◆",
+      "text": "◆Watching The Sea?◆"
+    },
+    {
+      "offset": 3999,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "帰り道、桜公園に立ち寄ると、環が桜の木を見\nつめていた。",
+      "en": "Dropping by the Sakura Park on the way home, I found Tamaki\nstaring at a Sakura tree.",
+      "text": "Dropping by the Sakura Park on the way home, I found Tamaki\nstaring at a Sakura tree."
+    },
+    {
+      "offset": 4059,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "二人で散歩しながら高台に行くと、環はとても\nうれしそうに、海を見つめている。",
+      "en": "We walked to higher ground, and Tamaki enjoyed the view of\nthe sea.",
+      "text": "We walked to higher ground, and Tamaki enjoyed the view of\nthe sea."
+    },
+    {
+      "offset": 4139,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "これって、見方をかえればデートだよな。",
+      "en": "Anyone from the outside would've thought we were on a date.",
+      "text": "Anyone from the outside would've thought we were on a date."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "375": "Tamaki",
+    "510": "Tamaki",
+    "618": "Tamaki",
+    "749": "Tamaki",
+    "921": "Tamaki",
+    "994": "Tamaki",
+    "1095": "Tamaki",
+    "1232": "Tamaki",
+    "1445": "Tamaki",
+    "1562": "Tamaki",
+    "1744": "Tamaki",
+    "1816": "Tamaki",
+    "1941": "Tamaki",
+    "1983": "Tamaki",
+    "2094": "Tamaki",
+    "2198": "Tamaki",
+    "2314": "Tamaki",
+    "2400": "Tamaki",
+    "2487": "Tamaki",
+    "2591": "Tamaki",
+    "2833": "Tamaki",
+    "2981": "Tamaki",
+    "3114": "Tamaki",
+    "3206": "Tamaki"
+  }
+}

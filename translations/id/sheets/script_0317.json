@@ -1,0 +1,403 @@
+{
+  "scene": "script_0317.obj",
+  "dialogues": [
+    {
+      "offset": 145,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「暖かくなってきたな……」",
+      "en": "\"It's warm...\"",
+      "text": "\"It's warm...\""
+    },
+    {
+      "offset": 178,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "真っ青な空を見上げる。日差しは目を射るよう\nで、空気もぬるい。",
+      "en": "The air was tepid, as I looked up to the blue sky, the sun's\nrays shooting into my eyes.",
+      "text": "The air was tepid, as I looked up to the blue sky, the sun's\nrays shooting into my eyes."
+    },
+    {
+      "offset": 246,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「これくらいなら、中庭でメシを食っても寒さ\n　に震える事はないな。２月中は結構きつかっ\n　たから……」",
+      "en": "\"Now that eating in the courtyard is no longer cold, that\nmeans Feburary is definitely over...\"",
+      "text": "\"Now that eating in the courtyard is no longer cold, that\nmeans Feburary is definitely over...\""
+    },
+    {
+      "offset": 353,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そもそも、何で寒いのを我慢してまで中庭に出\nるのかは、自分でも分からなかったのだが。",
+      "en": "Then again, there's no real reason not to eat here even when\nit is cold...",
+      "text": "Then again, there's no real reason not to eat here even when\nit is cold..."
+    },
+    {
+      "offset": 443,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ま、俺の存在意義を揺るがしかねない思索は、\n　止めにしておくか……」",
+      "en": "\"Maybe coldness would prevent me from keeping my mind on\npondering my existence in this shallow world?\"",
+      "text": "\"Maybe coldness would prevent me from keeping my mind on\npondering my existence in this shallow world?\""
+    },
+    {
+      "offset": 519,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぶつぶつと呟きながら、パンを口に運ぶ。",
+      "en": "I muttered to myself as I took a bite out of my bread.",
+      "text": "I muttered to myself as I took a bite out of my bread."
+    },
+    {
+      "offset": 562,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と。",
+      "en": "Then.",
+      "text": "Then."
+    },
+    {
+      "offset": 571,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の座っているベンチに、腰掛ける男子学生が\nいた。",
+      "en": "A male student sat on the bench I was sitting on.",
+      "text": "A male student sat on the bench I was sitting on."
+    },
+    {
+      "offset": 679,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「知ってるか？　朝倉」",
+      "en": "\"Have you heard, Asakura?\"",
+      "text": "\"Have you heard, Asakura?\""
+    },
+    {
+      "offset": 708,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並だった。",
+      "en": "It's Suginami.",
+      "text": "It's Suginami."
+    },
+    {
+      "offset": 727,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「知らん」",
+      "en": "\"Nope.\"",
+      "text": "\"Nope.\""
+    },
+    {
+      "offset": 744,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "パンを頬ばる。",
+      "en": "I continue chewing on my bread.",
+      "text": "I continue chewing on my bread."
+    },
+    {
+      "offset": 776,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………そこは一応、なんだ？　と聞くくら\n　いしてもらわないと、話が先に進まないだろ\n　う」",
+      "en": "\"......You sure you don't want to know? It's rather\ninteresting, methinks.\"",
+      "text": "\"......You sure you don't want to know? It's rather\ninteresting, methinks.\""
+    },
+    {
+      "offset": 875,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「そう言って欲しいのなら、最初からそう言え」",
+      "en": "\"If you want to tell me, then start from the beginning.\"",
+      "text": "\"If you want to tell me, then start from the beginning.\""
+    },
+    {
+      "offset": 926,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はため息を吐き出して。",
+      "en": "I sighed heavily.",
+      "text": "I sighed heavily."
+    },
+    {
+      "offset": 957,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……なんだ？」",
+      "en": "\"...So what is it?\"",
+      "text": "\"...So what is it?\""
+    },
+    {
+      "offset": 991,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「うむ、実はな……」",
+      "en": "\"Mm, it's about...\"",
+      "text": "\"Mm, it's about...\""
+    },
+    {
+      "offset": 1051,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「ことりがまた早退したんだよ」",
+      "en": "\"Kotori leaving school early today.\"",
+      "text": "\"Kotori leaving school early today.\""
+    },
+    {
+      "offset": 1097,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言ったのは、俺を挟んで杉並と反対の場所\nに腰掛けた工藤だった。",
+      "en": "Kudou chipped in, sitting next to Suginami.",
+      "text": "Kudou chipped in, sitting next to Suginami."
+    },
+    {
+      "offset": 1216,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「むぅ。俺の台詞が奪われてしまった……」",
+      "en": "\"Muh, my line has been appropriated...\"",
+      "text": "\"Muh, my line has been appropriated...\""
+    },
+    {
+      "offset": 1263,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "わけのわからないことで頭を抱える杉並は無視\nすることにした。",
+      "en": "Ignoring the head-holding Suginami, I question Kudou\nfurther.",
+      "text": "Ignoring the head-holding Suginami, I question Kudou\nfurther."
+    },
+    {
+      "offset": 1329,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ことりが？」",
+      "en": "\"Kotori?\"",
+      "text": "\"Kotori?\""
+    },
+    {
+      "offset": 1361,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「ああ」",
+      "en": "\"Yeah.\"",
+      "text": "\"Yeah.\""
+    },
+    {
+      "offset": 1376,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「今、またって言ったよな？」",
+      "en": "\"Did she say anything about it?\"",
+      "text": "\"Did she say anything about it?\""
+    },
+    {
+      "offset": 1422,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「前にことりと同じクラスだったって奴から聞\n　いたんだけど、頭痛で早退するのって、しょっ\n　ちゅうらしいんだ」",
+      "en": "\"I heard from her classmates that she left early because of\na headache, and that it's a relatively common occurence for\nher.\"",
+      "text": "\"I heard from her classmates that she left early because of\na headache, and that it's a relatively common occurence for\nher.\""
+    },
+    {
+      "offset": 1537,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「ふむ……でも、どうしてそれを俺に？」",
+      "en": "\"Hmm... but why tell that to me?\"",
+      "text": "\"Hmm... but why tell that to me?\""
+    },
+    {
+      "offset": 1593,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「共通する友人が早退したんだ、知らせておい\n　た方がいいかなって思ってね」",
+      "en": "\"I thought you might want to know. You're her friend after\nall.\"",
+      "text": "\"I thought you might want to know. You're her friend after\nall.\""
+    },
+    {
+      "offset": 1701,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「心配だよ」",
+      "en": "\"It's a bit worrying.\"",
+      "text": "\"It's a bit worrying.\""
+    },
+    {
+      "offset": 1720,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言う工藤の横顔には、確かに心配の色が強\nく｛にじ／滲｝んでいた。",
+      "en": "Now that I looked at it, Kudou's face did have more than a\ntouch of concern on it.",
+      "text": "Now that I looked at it, Kudou's face did have more than a\ntouch of concern on it."
+    },
+    {
+      "offset": 1794,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「………………」",
+      "en": "\"........\"",
+      "text": "\"........\""
+    },
+    {
+      "offset": 1829,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は工藤から視線を離して、中庭をぼんやり眺\nめた。",
+      "en": "I remove my gaze from Kudou and looked around the courtyard\nabsent-mindedly.",
+      "text": "I remove my gaze from Kudou and looked around the courtyard\nabsent-mindedly."
+    },
+    {
+      "offset": 1883,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頭が痛くても、それでも笑顔を絶やさないこと\nりが何となく想像できた。",
+      "en": "Even while she's having a headache, I bet Kotori would still\nbe giving everyone around her a ready smile.",
+      "text": "Even while she's having a headache, I bet Kotori would still\nbe giving everyone around her a ready smile."
+    },
+    {
+      "offset": 1955,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "かなり無理してるっていうか、笑顔も多少は引\nきつってるんだろうけど。",
+      "en": "That no matter her condition, she wants to show everyone\nthat she's fine and well.",
+      "text": "That no matter her condition, she wants to show everyone\nthat she's fine and well."
+    },
+    {
+      "offset": 2027,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言うところが、学園のアイドルって言われ\nる理由なのかもなぁ。",
+      "en": "It's for things like that that she's become the school idol.",
+      "text": "It's for things like that that she's become the school idol."
+    },
+    {
+      "offset": 2095,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "アイドルはいついかなる時も笑みを絶やさない。",
+      "en": "An idol, one who, no matter the situation, always keeps on\nsmiling.",
+      "text": "An idol, one who, no matter the situation, always keeps on\nsmiling."
+    },
+    {
+      "offset": 2144,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……違うか。",
+      "en": "...It shouldn't be that way.",
+      "text": "...It shouldn't be that way."
+    },
+    {
+      "offset": 2196,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「それが決して少なくないから、一部ではサボ\n　リではないかという噂も出てるんだが……」",
+      "en": "\"It can at least be deduced from the talk around.\"",
+      "text": "\"It can at least be deduced from the talk around.\""
+    },
+    {
+      "offset": 2299,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「実際、本当に調子が悪いらしいな」",
+      "en": "\"That Kotori's constitution isn't very good.\"",
+      "text": "\"That Kotori's constitution isn't very good.\""
+    },
+    {
+      "offset": 2340,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「まぁ、体調が悪くなるのは誰にでもあること\n　さ」",
+      "en": "\"Well, there's a lot of people like that.",
+      "text": "\"Well, there's a lot of people like that."
+    },
+    {
+      "offset": 2396,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "特に我が家には病弱な妹がいるので、そう思う。",
+      "en": "There's one in my family as well who often gets sick, after\nall.",
+      "text": "There's one in my family as well who often gets sick, after\nall."
+    },
+    {
+      "offset": 2445,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自分でもどうにも出来ない体調の悪さって言う\nのは、本人が一番堪えるんだよな……。",
+      "en": "No matter what we say about how these people shouldn't\nextend themselves, it's them who have to bear the weight of\ntheir problems...",
+      "text": "No matter what we say about how these people shouldn't\nextend themselves, it's them who have to bear the weight of\ntheir problems..."
+    },
+    {
+      "offset": 2560,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は背もたれに背中を預けた。",
+      "en": "I thought this as I hunched over slightly.",
+      "text": "I thought this as I hunched over slightly."
+    },
+    {
+      "offset": 2593,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まぐまぐと、パンを消費する。",
+      "en": "Bit by bit, I continued consuming my bread.",
+      "text": "Bit by bit, I continued consuming my bread."
+    },
+    {
+      "offset": 2626,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことり……明日には、元気になっているといい\nけどな。",
+      "en": "Kotori... hope you feel better tomorrow.",
+      "text": "Kotori... hope you feel better tomorrow."
+    },
+    {
+      "offset": 2682,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなことをぼんやりと思った。",
+      "en": "That thought unconciously entered my head.",
+      "text": "That thought unconciously entered my head."
+    },
+    {
+      "offset": 2846,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆ことりの早退◆",
+      "en": "◆Kotori, on Early Leave Again◆",
+      "text": "◆Kotori, on Early Leave Again◆"
+    },
+    {
+      "offset": 2891,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "中庭に居ると、杉並と工藤がやってきて、こと\nりが早退したことを告げる。",
+      "en": "In the courtyard, Suginami and Kudou dropped by to tell me\nthat Kotori had left school early today.",
+      "text": "In the courtyard, Suginami and Kudou dropped by to tell me\nthat Kotori had left school early today."
+    },
+    {
+      "offset": 2965,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことり……明日は元気になっているといいけど。",
+      "en": "Kotori... hope you feel better tomorrow.",
+      "text": "Kotori... hope you feel better tomorrow."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "671": "Suginami",
+    "768": "Suginami",
+    "983": "Suginami",
+    "1043": "Kudou",
+    "1208": "Suginami",
+    "1353": "Kudou",
+    "1414": "Kudou",
+    "1585": "Kudou",
+    "1693": "Kudou",
+    "2188": "Suginami",
+    "2291": "Suginami"
+  }
+}

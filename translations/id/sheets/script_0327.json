@@ -1,0 +1,434 @@
+{
+  "scene": "script_0327.obj",
+  "dialogues": [
+    {
+      "offset": 145,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺や音夢、杉並を含めた６人の班で、百人一首\nカルタを囲む。",
+      "en": "Nemu, Suginami and I, as well as 6 other people, surrounded\nthe Hyakunin Isshu* playing cards.",
+      "text": "Nemu, Suginami and I, as well as 6 other people, surrounded\nthe Hyakunin Isshu* playing cards."
+    },
+    {
+      "offset": 242,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「どうやらお前と決着をつけるときがきたよう\n　だな」",
+      "en": "\"Looks like the time has come for us to settle this.\"",
+      "text": "\"Looks like the time has come for us to settle this.\""
+    },
+    {
+      "offset": 300,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「そうだな……」",
+      "en": "\"So it seems...\"",
+      "text": "\"So it seems...\""
+    },
+    {
+      "offset": 351,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「１番になったやつがジュースを｛おご／奢｝るってのは\n　どうだ」",
+      "en": "\"The one who gets first place shall be treated by everyone\nelse to a packet of juice.\"",
+      "text": "\"The one who gets first place shall be treated by everyone\nelse to a packet of juice.\""
+    },
+    {
+      "offset": 421,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「１番……それは、１番ビリって事か？」",
+      "en": "\"First place... then what about last place?\"",
+      "text": "\"First place... then what about last place?\""
+    },
+    {
+      "offset": 466,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並が無言でうなずく。",
+      "en": "Suginami provided no response.",
+      "text": "Suginami provided no response."
+    },
+    {
+      "offset": 493,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こいつの脳内では、きっと、その反対の“１番”\nが誰になるかは決まっているんだろう。",
+      "en": "That bastard... he's already decided in his head who would\nbe first and who would be last.",
+      "text": "That bastard... he's already decided in his head who would\nbe first and who would be last."
+    },
+    {
+      "offset": 579,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、エライ自信じゃないか。",
+      "en": "Faulty pride...",
+      "text": "Faulty pride..."
+    },
+    {
+      "offset": 625,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「どうした。自信がないのか？」",
+      "en": "\"What's wrong, are you scared?\"",
+      "text": "\"What's wrong, are you scared?\""
+    },
+    {
+      "offset": 662,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「フッ、まさか……」",
+      "en": "\"Hah, of course not...\"",
+      "text": "\"Hah, of course not...\""
+    },
+    {
+      "offset": 717,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 736,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 755,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふたりの間で火花が散る。",
+      "en": "Sparks glowed between our eyes.",
+      "text": "Sparks glowed between our eyes."
+    },
+    {
+      "offset": 819,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ほら、ふたりとも。始まりますよ」",
+      "en": "\"Look alive you two, we're going to start.\"",
+      "text": "\"Look alive you two, we're going to start.\""
+    },
+    {
+      "offset": 869,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子が教壇に上がり、読み札を手にする。",
+      "en": "Mako was standing at the front of the class, holding a piece\nof paper.",
+      "text": "Mako was standing at the front of the class, holding a piece\nof paper."
+    },
+    {
+      "offset": 914,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（この班の勝利候補は音夢だろうな）",
+      "en": "\"(Nemu'd be our best shot at winning this...)\"",
+      "text": "\"(Nemu'd be our best shot at winning this...)\""
+    },
+    {
+      "offset": 955,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふたりとも１番になれなければ、賭けは無効。\nそう頑張ることもあるまい。",
+      "en": "The two of them are proven masters at this, no one would bet\notherwise. There's almost no point in anyone else even\ntrying.",
+      "text": "The two of them are proven masters at this, no one would bet\notherwise. There's almost no point in anyone else even\ntrying."
+    },
+    {
+      "offset": 1031,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（まあ、１枚くらいはとっておくか……）",
+      "en": "\"(Well, everything's worth a try...)\"",
+      "text": "\"(Well, everything's worth a try...)\""
+    },
+    {
+      "offset": 1087,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「秋の田の――」",
+      "en": "\"Coarse the rush-mat roof--\"",
+      "text": "\"Coarse the rush-mat roof--\""
+    },
+    {
+      "offset": 1110,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "パンッ",
+      "en": "*BANG*",
+      "text": "*BANG*"
+    },
+    {
+      "offset": 1123,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（なに！？）",
+      "en": "\"(What the?!)\"",
+      "text": "\"(What the?!)\""
+    },
+    {
+      "offset": 1153,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「―――かりほの庵の　苫をあらみ\n　わが衣手は　露にぬれつつ」",
+      "en": "\"---Sheltering the harvest-hut Of the autumn rice-field; And\nmy sleeves are growing wet With the moisture dripping.\"",
+      "text": "\"---Sheltering the harvest-hut Of the autumn rice-field; And\nmy sleeves are growing wet With the moisture dripping.\""
+    },
+    {
+      "offset": 1221,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "輪のなかに並んだカルタの上を、目にもとまら\nぬ速さで１本の腕が通過する。",
+      "en": "My eyes departed to the center of the circle we formed, and\nI saw a hand passing through the stack of cards.",
+      "text": "My eyes departed to the center of the circle we formed, and\nI saw a hand passing through the stack of cards."
+    },
+    {
+      "offset": 1297,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その腕の持ち主は……。",
+      "en": "The owner of that hand was...",
+      "text": "The owner of that hand was..."
+    },
+    {
+      "offset": 1346,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なぜこいつが……。",
+      "en": "Why THAT person...",
+      "text": "Why THAT person..."
+    },
+    {
+      "offset": 1391,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「奥山に――」",
+      "en": "\"In the mountain depths,\"",
+      "text": "\"In the mountain depths,\""
+    },
+    {
+      "offset": 1412,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "パンッ",
+      "en": "*BANG*",
+      "text": "*BANG*"
+    },
+    {
+      "offset": 1425,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（ぬお！？）",
+      "en": "\"(Whoa?!)\"",
+      "text": "\"(Whoa?!)\""
+    },
+    {
+      "offset": 1455,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「――紅葉ふみわけ　鳴く鹿の\n　声きく時ぞ　秋はかなしき」",
+      "en": "\"--Treading through the crimson leaves, The wandering stag\ncalls. When I hear the lonely cry, Sad--how sad!--the autumn\nis.\"",
+      "text": "\"--Treading through the crimson leaves, The wandering stag\ncalls. When I hear the lonely cry, Sad--how sad!--the autumn\nis.\""
+    },
+    {
+      "offset": 1566,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「やりますね、杉並くん」",
+      "en": "\"Not bad, Suginami-kun.\"",
+      "text": "\"Not bad, Suginami-kun.\""
+    },
+    {
+      "offset": 1608,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「こればかりは、朝倉妹にも負けんぞ」",
+      "en": "\"I won't lose to you so easily.\"",
+      "text": "\"I won't lose to you so easily.\""
+    },
+    {
+      "offset": 1679,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 1721,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「天の原――」",
+      "en": "\"When I look up at--\"",
+      "text": "\"When I look up at--\""
+    },
+    {
+      "offset": 1742,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "パンッ",
+      "en": "*BANG*",
+      "text": "*BANG*"
+    },
+    {
+      "offset": 1753,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――！？",
+      "en": "--!?",
+      "text": "--!?"
+    },
+    {
+      "offset": 1779,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「―――ふりさけ見れば　春日なる\n　三笠の山に　出でし月かも」",
+      "en": "\"--The wide-stretched plain of heaven, Is the moon the same\nThat rose on Mount Mikasa In the land of Kasuga?\"",
+      "text": "\"--The wide-stretched plain of heaven, Is the moon the same\nThat rose on Mount Mikasa In the land of Kasuga?\""
+    },
+    {
+      "offset": 1847,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "カルタを取る音だけが聞こえてくる。",
+      "en": "I could hear someone picking up one of the cards.",
+      "text": "I could hear someone picking up one of the cards."
+    },
+    {
+      "offset": 1935,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「やるな、朝倉妹……」",
+      "en": "\"You're good, little sister Asakura...\"",
+      "text": "\"You're good, little sister Asakura...\""
+    },
+    {
+      "offset": 1975,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「それほどでもないですよ」",
+      "en": "\"Your flattery means nothing to me.\"",
+      "text": "\"Your flattery means nothing to me.\""
+    },
+    {
+      "offset": 2008,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "にこやかな笑顔を見せる音夢を見ると、その手\nにカルタのカードが握られている。",
+      "en": "Nemu had a smile on her face, holding one of the playing\ncards.",
+      "text": "Nemu had a smile on her face, holding one of the playing\ncards."
+    },
+    {
+      "offset": 2090,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（まさか……あの一瞬で？）",
+      "en": "\"(You mean... in that moment?)\"",
+      "text": "\"(You mean... in that moment?)\""
+    },
+    {
+      "offset": 2123,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 2136,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "これが――目にも見えない速さ――。",
+      "en": "That was-- a speed too fast for the human eye--",
+      "text": "That was-- a speed too fast for the human eye--"
+    },
+    {
+      "offset": 2200,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「君がため――」",
+      "en": "\"It is for your sake--\"",
+      "text": "\"It is for your sake--\""
+    },
+    {
+      "offset": 2223,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "パンッ",
+      "en": "*BANG*",
+      "text": "*BANG*"
+    },
+    {
+      "offset": 2234,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 2262,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「―――春の野に出でて　若菜つむ\n　わが衣手に　雪はふりつつ」",
+      "en": "\"--That I walk the fields in spring, Gathering green herbs,\nWhile my garment's hanging sleeves Are speckled with snow.\"",
+      "text": "\"--That I walk the fields in spring, Gathering green herbs,\nWhile my garment's hanging sleeves Are speckled with snow.\""
+    },
+    {
+      "offset": 2330,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 2343,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "かったる……。",
+      "en": "This sucks...",
+      "text": "This sucks..."
+    },
+    {
+      "offset": 2466,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆カルタバトル◆",
+      "en": "◆Card Battle◆",
+      "text": "◆Card Battle◆"
+    },
+    {
+      "offset": 2511,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並や音夢と、百人一首のカルタでバトルを演\nじた。",
+      "en": "I played Hyakunin Isshu with Suginami and Nemu.",
+      "text": "I played Hyakunin Isshu with Suginami and Nemu."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "234": "Suginami",
+    "343": "Suginami",
+    "617": "Suginami",
+    "709": "Suginami",
+    "811": "Nemu",
+    "1079": "Mako",
+    "1145": "Mako",
+    "1383": "Mako",
+    "1447": "Mako",
+    "1558": "Nemu",
+    "1600": "Suginami",
+    "1671": "Nemu",
+    "1713": "Mako",
+    "1771": "Mako",
+    "1927": "Suginami",
+    "1967": "Nemu",
+    "2192": "Mako",
+    "2254": "Mako"
+  }
+}

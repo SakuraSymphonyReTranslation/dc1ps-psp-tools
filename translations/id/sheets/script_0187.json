@@ -1,0 +1,81 @@
+{
+  "scene": "script_0187.obj",
+  "dialogues": [
+    {
+      "offset": 138,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「じゃあ、始めて」",
+      "en": "\"You may begin.\"",
+      "text": "\"You may begin.\""
+    },
+    {
+      "offset": 163,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暦先生の声に、クラスの者たちが一斉に反応し\nてプリントを捲る。",
+      "en": "At Koyomi-sensei's signal, the class flipped over their exam\nsheets at once.",
+      "text": "At Koyomi-sensei's signal, the class flipped over their exam\nsheets at once."
+    },
+    {
+      "offset": 231,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（いよいよ、最強の敵の登場だ……）",
+      "en": "\"(So, the most fearsome enemy has shown it's face...)\"",
+      "text": "\"(So, the most fearsome enemy has shown it's face...)\""
+    },
+    {
+      "offset": 272,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "英語の問題用紙を前に、ごくりと唾を飲み込む。",
+      "en": "Looking at the english question sheet in front of me, I\ngulped my saliva down hard.",
+      "text": "Looking at the english question sheet in front of me, I\ngulped my saliva down hard."
+    },
+    {
+      "offset": 323,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（まずは覚えているうちに、単語の方を片付け\n　ないとな）",
+      "en": "\"(I don't remember much, I doubt I can do the vocabulary\nquestions...)\"",
+      "text": "\"(I don't remember much, I doubt I can do the vocabulary\nquestions...)\""
+    },
+    {
+      "offset": 385,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "問題用紙を見渡し、単語問題を埋めていく。",
+      "en": "I leave the vocabulary questions blank and move on to the\nrest of the paper.",
+      "text": "I leave the vocabulary questions blank and move on to the\nrest of the paper."
+    },
+    {
+      "offset": 432,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（次は、選択問題だな……）",
+      "en": "\"(Next up, multiple choice questions...)\"",
+      "text": "\"(Next up, multiple choice questions...)\""
+    },
+    {
+      "offset": 569,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆本日最後の敵◆",
+      "en": "◆Today's Most Fearsome Enemy◆",
+      "text": "◆Today's Most Fearsome Enemy◆"
+    },
+    {
+      "offset": 616,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本日最後の敵は英語だった。忘れる前に単語を\n埋めて、他の問題へと移っていく……。",
+      "en": "Today's most fearsome enemy was english. I forgot most of\nwhat I studied about the vocabulary questions, so I quickly\nmoved on to the other ones...",
+      "text": "Today's most fearsome enemy was english. I forgot most of\nwhat I studied about the vocabulary questions, so I quickly\nmoved on to the other ones..."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "132": "Koyomi"
+  }
+}

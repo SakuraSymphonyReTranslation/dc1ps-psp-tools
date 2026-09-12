@@ -1,0 +1,166 @@
+{
+  "scene": "script_0017.obj",
+  "dialogues": [
+    {
+      "offset": 118,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 131,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 148,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\".....\"",
+      "text": "\".....\""
+    },
+    {
+      "offset": 167,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだか懐かしい夢を見てしまった。",
+      "en": "I had a dream about something deep in my memory.",
+      "text": "I had a dream about something deep in my memory."
+    },
+    {
+      "offset": 206,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "従姉で……幼なじみの……女の子との別れの日\nの夢。",
+      "en": "A dream about the day my cousin, and childhood friend, left.",
+      "text": "A dream about the day my cousin, and childhood friend, left."
+    },
+    {
+      "offset": 260,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昨日に引き続き２日連続――いったいどうした\nんだろう？",
+      "en": "I've had this sort of dream for two days in a row now...\nwhat's going on?",
+      "text": "I've had this sort of dream for two days in a row now...\nwhat's going on?"
+    },
+    {
+      "offset": 318,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 333,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "でも――。",
+      "en": "But--",
+      "text": "But--"
+    },
+    {
+      "offset": 348,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ホント……懐かしい……。",
+      "en": "I really do miss her...",
+      "text": "I really do miss her..."
+    },
+    {
+      "offset": 377,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 390,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "遠くで街のざわめきが聞こえる。｛まぶた／瞼｝の外に光を\n感じる。まどろみの中をさまよいつつも、いつ\nでも起きれそうな、そんな感覚が続いている。",
+      "en": "I could hear the noisy chatter of the street outside, the\nsunlight on my eyelids. I felt I wouldn't be able to fall\nasleep again.",
+      "text": "I could hear the noisy chatter of the street outside, the\nsunlight on my eyelids. I felt I wouldn't be able to fall\nasleep again."
+    },
+    {
+      "offset": 535,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 548,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "かったるいな……。",
+      "en": "Damnit...",
+      "text": "Damnit..."
+    },
+    {
+      "offset": 571,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "週に一度の貴重な休日……とことん、だれてい\nたい。",
+      "en": "On the only day of the week which can be used for rest...\nit'd be a shame not to use it.",
+      "text": "On the only day of the week which can be used for rest...\nit'd be a shame not to use it."
+    },
+    {
+      "offset": 625,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "Should I get up now?",
+      "text": "Should I get up now?"
+    },
+    {
+      "offset": 638,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もうそろそろ、起きるか？",
+      "en": "○Go back to sleep",
+      "text": "○Go back to sleep"
+    },
+    {
+      "offset": 868,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆休日の過ごし方◆",
+      "en": "Sunday awaited me after waking up from a bittersweet dream.",
+      "text": "Sunday awaited me after waking up from a bittersweet dream."
+    },
+    {
+      "offset": 908,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "懐かしい夢から目覚めると、日曜が俺を待って\nいた。",
+      "en": "To get up, or to try to sleep again...",
+      "text": "To get up, or to try to sleep again..."
+    },
+    {
+      "offset": 962,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "起きるべきか……もう一度眠るべきか――\n――それが問題だ。",
+      "en": "that is the question.",
+      "text": "that is the question."
+    }
+  ],
+  "choices": [
+    {
+      "offset": 677,
+      "jp": "○のんびり寝ていよう",
+      "en": "○Get up",
+      "text": "○Get up"
+    }
+  ],
+  "names": {}
+}

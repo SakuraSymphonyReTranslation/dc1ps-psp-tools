@@ -1,0 +1,846 @@
+{
+  "scene": "script_0577.obj",
+  "dialogues": [
+    {
+      "offset": 196,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "電話が鳴った。",
+      "en": "\"I think it's today.\"",
+      "text": "\"I think it's today.\""
+    },
+    {
+      "offset": 217,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おーい、音夢ー。音夢、電話ー」",
+      "en": "Koyomi-sensei sounds very gloomy.",
+      "text": "Koyomi-sensei sounds very gloomy."
+    },
+    {
+      "offset": 256,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "返事はない。",
+      "en": "\"Today...\"",
+      "text": "\"Today...\""
+    },
+    {
+      "offset": 273,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そうだった。音夢はもういないんだった。",
+      "en": "\"What a girl! She's been able to hold up until the end of\nthe semester.\"",
+      "text": "\"What a girl! She's been able to hold up until the end of\nthe semester.\""
+    },
+    {
+      "offset": 316,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢は自分の夢を叶えるために、ついこの間、\n島を出ていったんだ。",
+      "en": "\"She told me she'd try her best because she didn't want to\nmake anybody sad.\"",
+      "text": "\"She told me she'd try her best because she didn't want to\nmake anybody sad.\""
+    },
+    {
+      "offset": 507,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『おそらく、今日だと思う』",
+      "en": "\"Look, I could've kept my nose out of this, but I just\nwanted you to know beforehand...\"",
+      "text": "\"Look, I could've kept my nose out of this, but I just\nwanted you to know beforehand...\""
+    },
+    {
+      "offset": 540,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暦先生にしては沈んだ声で、そう言った。",
+      "en": "\"Thank you. It's better to know now. I can be ready.\"",
+      "text": "\"Thank you. It's better to know now. I can be ready.\""
+    },
+    {
+      "offset": 585,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「――今日ですか」",
+      "en": "Miharu has been doing just fine in the past week since\ngraduation.",
+      "text": "Miharu has been doing just fine in the past week since\ngraduation."
+    },
+    {
+      "offset": 1018,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "卒業式から一週間経っても、美春は元気だった。",
+      "en": "Even yesterday she didn't show any sign of weakening.",
+      "text": "Even yesterday she didn't show any sign of weakening."
+    },
+    {
+      "offset": 1067,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昨日もそんな素振りはあまり見せなかったのに。",
+      "en": "Today...",
+      "text": "Today..."
+    },
+    {
+      "offset": 1148,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ま、今はＨＲだから、そんなに急ぐことはな\n　いよ。落ち着いてから来ればいい」",
+      "en": "\"No need to rush. I don't have any assigned class now.\"",
+      "text": "\"No need to rush. I don't have any assigned class now.\""
+    },
+    {
+      "offset": 1232,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『ＨＲって、先生は？』",
+      "en": "\"No assigned class?\"",
+      "text": "\"No assigned class?\""
+    },
+    {
+      "offset": 1270,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『あたしの受け持ちはみんな出てっちゃったか\n　らね。のんびりしたもんだよ。昨日もＤＶＤ\n　デッキを持ち込んじゃってさ』",
+      "en": "\"All of my students graduated. So I'm just relaxing. I even\nbrought a DVD player into my room yesterday.\"",
+      "text": "\"All of my students graduated. So I'm just relaxing. I even\nbrought a DVD player into my room yesterday.\""
+    },
+    {
+      "offset": 1393,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "受話器の向こうで、クスクスと笑う声がする。",
+      "en": "I hear Koyomi-sensei giggling over the phone.",
+      "text": "I hear Koyomi-sensei giggling over the phone."
+    },
+    {
+      "offset": 1442,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「先生――考えたんですけど、美春のデータだ\n　けを他の機体に移し替えることは出来ないん\n　ですか？」",
+      "en": "\"Sensei, I was just wondering if you could transfer Miharu's\ndata into another robot.\"",
+      "text": "\"Sensei, I was just wondering if you could transfer Miharu's\ndata into another robot.\""
+    },
+    {
+      "offset": 1556,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『１回くらいは、そういうことを言ってくると\n　思ってたけど、無理だよ、悪いけど』",
+      "en": "\"I knew you'd ask me that question, but the answer is no.\nThat's not possible.\"",
+      "text": "\"I knew you'd ask me that question, but the answer is no.\nThat's not possible.\""
+    },
+    {
+      "offset": 1642,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "先生は笑うのをやめて、真面目な口調で答えた。",
+      "en": "Koyomi-sensei replies in a serious voice.",
+      "text": "Koyomi-sensei replies in a serious voice."
+    },
+    {
+      "offset": 1693,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なぜですか？」",
+      "en": "\"Why not?\"",
+      "text": "\"Why not?\""
+    },
+    {
+      "offset": 1725,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『現行機種が抱えている問題を解決しないまま、\n　現行機種に移植しても意味ないだろ？』",
+      "en": "\"As long as the current model has a problem, transferring\ndata to the same model isn't going to change anything.\"",
+      "text": "\"As long as the current model has a problem, transferring\ndata to the same model isn't going to change anything.\""
+    },
+    {
+      "offset": 1824,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『記憶だって、データを他の媒体に移せないの\n　は人間だってロボットだって同じことだよ』",
+      "en": "\"Memories can't be transferred from one to another, whether\nit is from a human or robot.\"",
+      "text": "\"Memories can't be transferred from one to another, whether\nit is from a human or robot.\""
+    },
+    {
+      "offset": 1916,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「そんな……でも、いや、そうですよね。すみ\n　ません、変なこと言っちゃって。できるなら\n　とっくにやってますよね」",
+      "en": "\"Oh, I see. Besides, I'm sure you would have done it already\nif it was really possible. Sorry I asked you...\"",
+      "text": "\"Oh, I see. Besides, I'm sure you would have done it already\nif it was really possible. Sorry I asked you...\""
+    },
+    {
+      "offset": 2044,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『気持ちはわかる。気にすることはないさ』",
+      "en": "\"Don't worry, I know how you feel.\"",
+      "text": "\"Don't worry, I know how you feel.\""
+    },
+    {
+      "offset": 2091,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "アナログな音声が、俺の肩を叩いてくれてるよ\nうな、そんな気がした。",
+      "en": "I felt as if her voice was patting me on the back.",
+      "text": "I felt as if her voice was patting me on the back."
+    },
+    {
+      "offset": 2172,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『あのオルゴール。少し聴かせてもらったけど、\n　いい曲だね。思い出の品なんだって？』",
+      "en": "\"By the way, I listened to that music box. That's a reminder\nof your good old days, right?\"",
+      "text": "\"By the way, I listened to that music box. That's a reminder\nof your good old days, right?\""
+    },
+    {
+      "offset": 2262,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「俺が子供の頃『美春』に誕生日プレゼントに\n　あげたらしいんですけど」",
+      "en": "\"I'm not sure, but it seems I gave it to 'Miharu' for her\nbirthday when we were still kids.\"",
+      "text": "\"I'm not sure, but it seems I gave it to 'Miharu' for her\nbirthday when we were still kids.\""
+    },
+    {
+      "offset": 2347,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『覚えてないの？　あはは、朝倉もバカだねぇ。\n　ま、子供の頃だから仕方ないのかもしれない\n　けど』",
+      "en": "\"You don't remember? Haha...Well, you were just a kid...\"",
+      "text": "\"You don't remember? Haha...Well, you were just a kid...\""
+    },
+    {
+      "offset": 2459,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『あの子、ずっと聴いてるよ。よほど好きなん\n　だね』",
+      "en": "\"She keeps listening to it. She just loves that music.\"",
+      "text": "\"She keeps listening to it. She just loves that music.\""
+    },
+    {
+      "offset": 2526,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『ほら、そろそろ切るよ。待ってるから』",
+      "en": "\"Okay, I got to go now. See you later.\"",
+      "text": "\"Okay, I got to go now. See you later.\""
+    },
+    {
+      "offset": 2571,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「はい、ありがとうございました」",
+      "en": "\"Thank you.\"",
+      "text": "\"Thank you.\""
+    },
+    {
+      "offset": 2610,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "受話器から、プツリという音が聞こえた。",
+      "en": "I hear her hang up the phone.",
+      "text": "I hear her hang up the phone."
+    },
+    {
+      "offset": 2653,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春との、約束を果たしにいこう。最期は一緒\nにいるって約束したもんな。",
+      "en": "I must keep our promise with her that I'll be with her\nduring the last moment of her life.",
+      "text": "I must keep our promise with her that I'll be with her\nduring the last moment of her life."
+    },
+    {
+      "offset": 2779,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "生物準備室の前まで来ると、オルゴールの音が\n聞こえてきた。",
+      "en": "I overheard the music box playing as I walked towards the\nbiology preparation room.",
+      "text": "I overheard the music box playing as I walked towards the\nbiology preparation room."
+    },
+    {
+      "offset": 2841,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春のオルゴールの音だ。",
+      "en": "That's Miharu's music box.",
+      "text": "That's Miharu's music box."
+    },
+    {
+      "offset": 2870,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "扉に手をかける。この扉をくぐると現実が待っ\nている。",
+      "en": "I open the door. The reality of it all waits for me beyond\nthis point.",
+      "text": "I open the door. The reality of it all waits for me beyond\nthis point."
+    },
+    {
+      "offset": 2951,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「失礼します」",
+      "en": "\"Hello.\"",
+      "text": "\"Hello.\""
+    },
+    {
+      "offset": 3003,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「やあ、朝倉。天枷も来てるよ」",
+      "en": "\"Hi Asakura. Amakase's here.\"",
+      "text": "\"Hi Asakura. Amakase's here.\""
+    },
+    {
+      "offset": 3040,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "時間はお昼前。終業式とＨＲが終わった時間だ。",
+      "en": "It's right before lunch time.",
+      "text": "It's right before lunch time."
+    },
+    {
+      "offset": 3091,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「美春――」",
+      "en": "\"Miharu...\"",
+      "text": "\"Miharu...\""
+    },
+    {
+      "offset": 3136,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "オルゴールから流れる曲を、愛おしそうに聴く\n美春。",
+      "en": "Miharu's listening to the music that was playing out of her\nmusic box.",
+      "text": "Miharu's listening to the music that was playing out of her\nmusic box."
+    },
+    {
+      "offset": 3190,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "優しくて、透明感のある音色の曲だ。",
+      "en": "It's gentle and clear music.",
+      "text": "It's gentle and clear music."
+    },
+    {
+      "offset": 3229,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "当時の俺は曲など聴かずに買ったんだろうけど、\nこうして聞くと、いい曲を選んだものだと我な\nがら感心する。",
+      "en": "Back then I'm sure I just bought the music box without\nlistening to its music inside. But I feel I picked a nice\none.",
+      "text": "Back then I'm sure I just bought the music box without\nlistening to its music inside. But I feel I picked a nice\none."
+    },
+    {
+      "offset": 3338,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「美春、調子はどうだ？」",
+      "en": "\"How are you feeling, Miharu?\"",
+      "text": "\"How are you feeling, Miharu?\""
+    },
+    {
+      "offset": 3369,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春は何も答えず、ただただオルゴールに耳を\n傾けている。",
+      "en": "Miharu doesn't respond, she just listens to the music.",
+      "text": "Miharu doesn't respond, she just listens to the music."
+    },
+    {
+      "offset": 3440,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ダメだよ……。たぶん、聞こえていない」",
+      "en": "\"No. She can't hear you...\"",
+      "text": "\"No. She can't hear you...\""
+    },
+    {
+      "offset": 3487,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「聞こえていない？」",
+      "en": "\"She can't hear me?\"",
+      "text": "\"She can't hear me?\""
+    },
+    {
+      "offset": 3523,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「たぶん、今は色んな機能が制限されてるんだ\n　と思う。結局、それだけ末期だということだ」",
+      "en": "\"She's only got limited functions left, which means -- she's\nin a terminal state.\"",
+      "text": "\"She's only got limited functions left, which means -- she's\nin a terminal state.\""
+    },
+    {
+      "offset": 3626,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「正直言って、よく今日までもったと思ってる。\n　データをチェックしたら、かなりずたずたに\n　なっていたし」",
+      "en": "\"In fact, I'm amazed that she's managed to hold up this\nlong. Her data shows she is pretty messed up.\"",
+      "text": "\"In fact, I'm amazed that she's managed to hold up this\nlong. Her data shows she is pretty messed up.\""
+    },
+    {
+      "offset": 3737,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「そんなになるまで……」",
+      "en": "\"My god...\"",
+      "text": "\"My god...\""
+    },
+    {
+      "offset": 3777,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「優しい子だからね。――もし、このまま天枷\n　が朝倉に気がつかないまま停止したとしても、\n　許してやってくれ」",
+      "en": "\"Please forgive her if she has to stop without noticing\nyou.\"",
+      "text": "\"Please forgive her if she has to stop without noticing\nyou.\""
+    },
+    {
+      "offset": 3892,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「許すも何も。あいつなりの頑張りを俺が認め\n　てやらなくて、どうするんですか」",
+      "en": "\"Forgive her -- no way. I have no right to do that. She\ndeserves better.\"",
+      "text": "\"Forgive her -- no way. I have no right to do that. She\ndeserves better.\""
+    },
+    {
+      "offset": 3976,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「俺は美春が今日まで頑張ってたことを知って\n　るし、どれだけみんなのことを思いやってい\n　たかを知ってますから」",
+      "en": "\"I know how hard she was trying and how much she cared about\nher friends.\"",
+      "text": "\"I know how hard she was trying and how much she cared about\nher friends.\""
+    },
+    {
+      "offset": 4102,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「……ありがとう」",
+      "en": "\"Thank you, Asakura.\"",
+      "text": "\"Thank you, Asakura.\""
+    },
+    {
+      "offset": 4127,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "オルゴールの音がだんだん遅くなり、途切れそ\nうになっていく。",
+      "en": "The music is getting slower and almost breaking off.",
+      "text": "The music is getting slower and almost breaking off."
+    },
+    {
+      "offset": 4193,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「美春……巻いてやるよ」",
+      "en": "\"Let me wind it up for you, Miharu.\"",
+      "text": "\"Let me wind it up for you, Miharu.\""
+    },
+    {
+      "offset": 4229,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は美春の持っているねじ巻きで、オルゴール\nのねじを巻き直してやった。",
+      "en": "I wind up the music box with the key Miharu had.",
+      "text": "I wind up the music box with the key Miharu had."
+    },
+    {
+      "offset": 4305,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "オルゴールがまた音楽を奏で始める。",
+      "en": "The music box starts to play again.",
+      "text": "The music box starts to play again."
+    },
+    {
+      "offset": 4378,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「――朝倉先輩」",
+      "en": "\"Asakura-sempai...\"",
+      "text": "\"Asakura-sempai...\""
+    },
+    {
+      "offset": 4401,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春が俺の名前を呼んだ。",
+      "en": "Miharu calls me.",
+      "text": "Miharu calls me."
+    },
+    {
+      "offset": 4430,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "弱々しい、まるで今にも消え入りそうな声で。",
+      "en": "In a feeble voice.",
+      "text": "In a feeble voice."
+    },
+    {
+      "offset": 4479,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「美春、俺がわかるのか？」",
+      "en": "\"Miharu, can you still recognize me?\"",
+      "text": "\"Miharu, can you still recognize me?\""
+    },
+    {
+      "offset": 4523,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「当たり前じゃないですか。美春が先輩のこと\n　がわからないわけないですよ」",
+      "en": "\"Of course I do. How can I forget you, sempai?\"",
+      "text": "\"Of course I do. How can I forget you, sempai?\""
+    },
+    {
+      "offset": 4603,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「そっか、そうだよな……うん、うん」",
+      "en": "\"You're right... Right...\"",
+      "text": "\"You're right... Right...\""
+    },
+    {
+      "offset": 4657,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「先輩、美春に会いに来てくれてありがとうご\n　ざいます。約束を守ってくれたんですね」",
+      "en": "\"Sempai, I'm so glad you came to see me. You kept our\npromise.\"",
+      "text": "\"Sempai, I'm so glad you came to see me. You kept our\npromise.\""
+    },
+    {
+      "offset": 4747,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「まだ、大丈夫だ、美春はまだ止まったりしな\n　いよ」",
+      "en": "\"Don't worry. You're not gonna stop yet.\"",
+      "text": "\"Don't worry. You're not gonna stop yet.\""
+    },
+    {
+      "offset": 4816,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「へへへ。自分の身体は自分が一番よく知って\n　いますから」",
+      "en": "\"Hehehe. I know what's going on inside of me.\"",
+      "text": "\"Hehehe. I know what's going on inside of me.\""
+    },
+    {
+      "offset": 4880,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春は、何のためらいも不安もなさげに、そう\n言った。",
+      "en": "Miharu says with confidence.",
+      "text": "Miharu says with confidence."
+    },
+    {
+      "offset": 4949,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「美春はこのオルゴールの曲をずっと聴いてい\n　ました。いい曲ですよね……」",
+      "en": "\"I've been listening to this music. This is such beautiful\nmusic.\"",
+      "text": "\"I've been listening to this music. This is such beautiful\nmusic.\""
+    },
+    {
+      "offset": 5040,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「聴いてると、先輩との色んなことを思い出す\n　んです。先輩と街を歩いたり、公園でチョコ\n　バナナを食べたりしたことを……」",
+      "en": "\"This music reminds me of all these things you and I did\ntogether, like walking around town, eating chocolate\nbananas, things like that.\"",
+      "text": "\"This music reminds me of all these things you and I did\ntogether, like walking around town, eating chocolate\nbananas, things like that.\""
+    },
+    {
+      "offset": 5178,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「先輩、ありがとうございました……。美春に\n　思い出をたくさんくれて、本当にありがとう\n　ございました」",
+      "en": "\"Thank you, sempai, for the wonderful memories.\"",
+      "text": "\"Thank you, sempai, for the wonderful memories.\""
+    },
+    {
+      "offset": 5298,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「先生もありがとうございました。いっぱいご\n　迷惑かけて、ごめんなさいでした」",
+      "en": "\"Thank you, Koyomi-sensei. And I'm sorry I gave you a lot of\ntrouble.\"",
+      "text": "\"Thank you, Koyomi-sensei. And I'm sorry I gave you a lot of\ntrouble.\""
+    },
+    {
+      "offset": 5462,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「先輩、美春は先輩に出会えて幸せでした。美\n　春は先輩のこと、ずっと忘れません……」",
+      "en": "\"I was so happy to meet you. I'll never forget about you...\"",
+      "text": "\"I was so happy to meet you. I'll never forget about you...\""
+    },
+    {
+      "offset": 5552,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「俺だって、忘れないさ。美春のことはずっと\n　忘れない」",
+      "en": "\"I'll never ever forget about you, Miharu.\"",
+      "text": "\"I'll never ever forget about you, Miharu.\""
+    },
+    {
+      "offset": 5625,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「先輩、ありがとうございました……。美春は\n　幸せでした……とっても幸せでした……」",
+      "en": "\"Thank you, sempai. I've been happy... so happy.\"",
+      "text": "\"Thank you, sempai. I've been happy... so happy.\""
+    },
+    {
+      "offset": 5736,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「美春？」",
+      "en": "\"Miharu?\"",
+      "text": "\"Miharu?\""
+    },
+    {
+      "offset": 5753,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春からはもう返事はなかった。",
+      "en": "There's no response from Miharu.",
+      "text": "There's no response from Miharu."
+    },
+    {
+      "offset": 5790,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「美…春…」",
+      "en": "\"Miharu...\"",
+      "text": "\"Miharu...\""
+    },
+    {
+      "offset": 5809,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春の身体を揺すった。意識のない身体だけが\nぎこちなく揺れる。",
+      "en": "I shake her body, but it just moves awkwardly.",
+      "text": "I shake her body, but it just moves awkwardly."
+    },
+    {
+      "offset": 5875,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春は動かなくなった。",
+      "en": "Miharu no longer moves.",
+      "text": "Miharu no longer moves."
+    },
+    {
+      "offset": 5913,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ありがとう、朝倉。あたしは天枷の世話役に\n　アンタを選んでよかったと思ってる」",
+      "en": "\"Thank you, Asakura. I'm glad I asked you to take care of\nAmakase.\"",
+      "text": "\"Thank you, Asakura. I'm glad I asked you to take care of\nAmakase.\""
+    },
+    {
+      "offset": 6008,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「どんなことより、朝倉が天枷を幸せにしてく\n　れたってことが、あたしは嬉しいよ」",
+      "en": "\"More than anything else, I'm glad that you made Amakase\nhappy.\"",
+      "text": "\"More than anything else, I'm glad that you made Amakase\nhappy.\""
+    },
+    {
+      "offset": 6103,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「朝倉に感謝してる――」",
+      "en": "\"I thank you for that...\"",
+      "text": "\"I thank you for that...\""
+    },
+    {
+      "offset": 6134,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なぜだか、涙が出なかった。",
+      "en": "I don't know why, but tears won't come out of my eyes.",
+      "text": "I don't know why, but tears won't come out of my eyes."
+    },
+    {
+      "offset": 6165,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "覚悟していたからだろうか。美春がこうなって\nしまうことを覚悟していたからだろうか。",
+      "en": "Is it because I was ready for it?",
+      "text": "Is it because I was ready for it?"
+    },
+    {
+      "offset": 6251,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "別れは遅かれ早かれやってくる、ということを\n理解できているからだろうか。",
+      "en": "Or is it because I understand that people can't stay with\ntheir loved ones forever?",
+      "text": "Or is it because I understand that people can't stay with\ntheir loved ones forever?"
+    },
+    {
+      "offset": 6327,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春との思い出が、俺の胸の中にたくさんある\nからだろうか。",
+      "en": "Or is it because I have a lot of memories of Miharu memories\nin my heart?",
+      "text": "Or is it because I have a lot of memories of Miharu memories\nin my heart?"
+    },
+    {
+      "offset": 6389,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただ、涙は出なかった。",
+      "en": "I'm not crying.",
+      "text": "I'm not crying."
+    },
+    {
+      "offset": 6416,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "が、",
+      "en": "But...",
+      "text": "But..."
+    },
+    {
+      "offset": 6427,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「美春、ありがとう……。俺も幸せだったよ。\n　美春に会えてよかったよ――」",
+      "en": "\"Miharu, thank you... I've been happy to meet you too,\nMiharu.\"",
+      "text": "\"Miharu, thank you... I've been happy to meet you too,\nMiharu.\""
+    },
+    {
+      "offset": 6507,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とたんに｛せき／堰｝を切るように涙が溢れた。",
+      "en": "Suddenly, tears just begin to flow.",
+      "text": "Suddenly, tears just begin to flow."
+    },
+    {
+      "offset": 6556,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "出ないわけがない。涙が出ないなんてこと、あ\nるはずがなかった。",
+      "en": "How can I hold my tears back?",
+      "text": "How can I hold my tears back?"
+    },
+    {
+      "offset": 6622,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目の前が涙でいっぱいになった。",
+      "en": "My eyes fill with tears.",
+      "text": "My eyes fill with tears."
+    },
+    {
+      "offset": 6657,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "滝のように涙が溢れるということって本当にあ\nるんだと、初めて知った。",
+      "en": "For the first time in my life, tears flow down my cheeks\nlike a waterfall.",
+      "text": "For the first time in my life, tears flow down my cheeks\nlike a waterfall."
+    },
+    {
+      "offset": 6729,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "先生もいたけれど、関係なかった。",
+      "en": "I know Koyomi-sensei's in the room too, but...",
+      "text": "I know Koyomi-sensei's in the room too, but..."
+    },
+    {
+      "offset": 6766,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただ、ただ、俺の目からは涙が流れ続けた。",
+      "en": "I just keep crying...",
+      "text": "I just keep crying..."
+    },
+    {
+      "offset": 6915,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆別れ◆",
+      "en": "◆The phone rings.◆",
+      "text": "◆The phone rings.◆"
+    },
+    {
+      "offset": 6956,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春の最後を知らせる、暦先生の電話を受けて\n俺は学校に向かった。",
+      "en": "\"Hey, Nemu, can you get the phone?\"",
+      "text": "\"Hey, Nemu, can you get the phone?\""
+    },
+    {
+      "offset": 7050,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "生物準備室に美春がいた。美春ただただオルゴー\nルに耳を傾けている。もう、ほとんどの機能が\n制限されてるらしい。",
+      "en": "No response.",
+      "text": "No response."
+    },
+    {
+      "offset": 7184,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "止まりかけたオルゴールを巻いてやると、美春\nが俺に気づいた。",
+      "en": "Oh, I forgot. Nemu isn't here any more.",
+      "text": "Oh, I forgot. Nemu isn't here any more."
+    },
+    {
+      "offset": 7248,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして最後の会話。別れの言葉。",
+      "en": "Nemu already left the island in order to pursue her dream.",
+      "text": "Nemu already left the island in order to pursue her dream."
+    },
+    {
+      "offset": 7296,
+      "speaker": "美春",
+      "speaker_jp": "美春",
+      "jp": "「先輩、ありがとうございました……。美春は\n　幸せでした……とっても幸せでした……」",
+      "en": "I'm the only one living in this house.",
+      "text": "I'm the only one living in this house."
+    },
+    {
+      "offset": 7407,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただ、ただ、俺の目からは涙が流れ続けた。",
+      "en": "I walk down the stairs and pick up the phone.",
+      "text": "I walk down the stairs and pick up the phone."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "501": "Koyomi",
+    "1142": "Koyomi",
+    "1264": "Koyomi",
+    "1550": "Koyomi",
+    "1719": "Koyomi",
+    "1818": "Koyomi",
+    "2038": "Koyomi",
+    "2166": "Koyomi",
+    "2341": "Koyomi",
+    "2453": "Koyomi",
+    "2520": "Koyomi",
+    "2997": "Koyomi",
+    "3434": "Koyomi",
+    "3517": "Koyomi",
+    "3620": "Koyomi",
+    "3771": "Koyomi",
+    "4096": "Koyomi",
+    "4370": "Miharu",
+    "4515": "Miharu",
+    "4649": "Miharu",
+    "4808": "Miharu",
+    "4941": "Miharu",
+    "5032": "Miharu",
+    "5170": "Miharu",
+    "5290": "Miharu",
+    "5454": "Miharu",
+    "5617": "Miharu",
+    "5907": "Koyomi",
+    "6002": "Koyomi",
+    "6097": "Koyomi"
+  }
+}

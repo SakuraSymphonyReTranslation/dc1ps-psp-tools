@@ -1,0 +1,722 @@
+{
+  "scene": "script_0567.obj",
+  "dialogues": [
+    {
+      "offset": 186,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "閉じていたまぶたがゆっくりと開いた。",
+      "en": "The tightly-closed eyelids slowly opened.",
+      "text": "The tightly-closed eyelids slowly opened."
+    },
+    {
+      "offset": 250,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「気が付いたみたいだな」",
+      "en": "\"Have you woken up?'",
+      "text": "\"Have you woken up?'"
+    },
+    {
+      "offset": 294,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……先輩？　……ッ」",
+      "en": "\"...Senpai? ...Ah...\"",
+      "text": "\"...Senpai? ...Ah...\""
+    },
+    {
+      "offset": 323,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「まだ起きちゃダメだ。熱は下がってないんだ\n　から」",
+      "en": "\"Don't move around. You're still burning up.\"",
+      "text": "\"Don't move around. You're still burning up.\""
+    },
+    {
+      "offset": 399,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……私」",
+      "en": "\"...I...\"",
+      "text": "\"...I...\""
+    },
+    {
+      "offset": 416,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「昨日、雨の中で倒れてから、ずっと寝てたみ\n　たいだな」",
+      "en": "\"You've been asleep since you lost consciousness in the rain\nyesterday.\"",
+      "text": "\"You've been asleep since you lost consciousness in the rain\nyesterday.\""
+    },
+    {
+      "offset": 478,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "すべてを思い出したのか、月城がはっとなる。",
+      "en": "Tsukishiro was taken aback, finally remembering what\nhappened that day.",
+      "text": "Tsukishiro was taken aback, finally remembering what\nhappened that day."
+    },
+    {
+      "offset": 540,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……先輩は？」",
+      "en": "\"...And senpai?\"",
+      "text": "\"...And senpai?\""
+    },
+    {
+      "offset": 563,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「さすがに、俺も昼前に起きて、今ここに来た\n　ところだよ。瀬場さんに聞いたら、ずっと寝\n　てるって……」",
+      "en": "\"I woke up just before noon, and came here just awhile ago.\nI heard from Seiba-san that you've been sleeping\nthroughout.\"",
+      "text": "\"I woke up just before noon, and came here just awhile ago.\nI heard from Seiba-san that you've been sleeping\nthroughout.\""
+    },
+    {
+      "offset": 685,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……そう」",
+      "en": "\"...Oh.\"",
+      "text": "\"...Oh.\""
+    },
+    {
+      "offset": 704,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は、シーツの｛すそ／裾｝をぎゅっと握り、首まで引\nき上げる。",
+      "en": "She tightly gripped the covers, pulling it a bit higher over\nher.",
+      "text": "She tightly gripped the covers, pulling it a bit higher over\nher."
+    },
+    {
+      "offset": 787,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……今、何時？」",
+      "en": "\"...What time is it?\"",
+      "text": "\"...What time is it?\""
+    },
+    {
+      "offset": 812,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「今は、３時だ。いい天気だよ」",
+      "en": "\"It's 3 PM. The weather's good.\"",
+      "text": "\"It's 3 PM. The weather's good.\""
+    },
+    {
+      "offset": 849,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "窓の外は、昨日の雨などまるでなかったかのよ\nうに晴れやかで、潤った木々は、午後の太陽に\n水玉を輝かせていた。",
+      "en": "The sun was shining brightly through the window. It was hard\nto imagine the storm that happened just yesterday, from it.",
+      "text": "The sun was shining brightly through the window. It was hard\nto imagine the storm that happened just yesterday, from it."
+    },
+    {
+      "offset": 975,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……そう」",
+      "en": "\"...I see.\"",
+      "text": "\"...I see.\""
+    },
+    {
+      "offset": 994,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は、そう言って、光が差し込んでくる窓の\n方に頭を傾けた。",
+      "en": "Tsukishiro leaned her head towards the window, as if\nattracted by the sun.",
+      "text": "Tsukishiro leaned her head towards the window, as if\nattracted by the sun."
+    },
+    {
+      "offset": 1060,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……月城」",
+      "en": "\"...Tsukishiro.\"",
+      "text": "\"...Tsukishiro.\""
+    },
+    {
+      "offset": 1092,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……はい」",
+      "en": "\"...Yes.\"",
+      "text": "\"...Yes.\""
+    },
+    {
+      "offset": 1111,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……悪い、守ってやれなくて」",
+      "en": "\"...Sorry. I couldn't protect it.\"",
+      "text": "\"...Sorry. I couldn't protect it.\""
+    },
+    {
+      "offset": 1161,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 1180,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「月城のことも、ロスキルラベンダーも、守っ\n　てやれなくて、ごめん」",
+      "en": "\"Neither you, not the Roskill Lavender... I couldn't protect\nanything. I'm sorry.\"",
+      "text": "\"Neither you, not the Roskill Lavender... I couldn't protect\nanything. I'm sorry.\""
+    },
+    {
+      "offset": 1254,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "夕べは、あのまま月城をここまで連れて帰るだ\nけで精一杯だった。",
+      "en": "I used all my strength that evening to bring Tsukishiro back\nto her home.",
+      "text": "I used all my strength that evening to bring Tsukishiro back\nto her home."
+    },
+    {
+      "offset": 1320,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺にできたのは、ぐしょぐしょに汚れ、濡れた\n月城を背中に負ぶってここに来るだけだった。",
+      "en": "I carried her mud-soaked, drenched body on my back, and\nbrought her here.",
+      "text": "I carried her mud-soaked, drenched body on my back, and\nbrought her here."
+    },
+    {
+      "offset": 1410,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今朝、ここに来る前に、学校に行ってみたが、\nやはり、ロスキルラベンダーはもうダメになっ\nていた。",
+      "en": "Before I came here, I went to school first. Indeed, the\nRoskill Lavender couldn't be saved anymore.",
+      "text": "Before I came here, I went to school first. Indeed, the\nRoskill Lavender couldn't be saved anymore."
+    },
+    {
+      "offset": 1509,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "根本から折れ、泥水の中で力無く｛しお／萎｝れていた。",
+      "en": "It's stalk was broken, the water around it was muddied, and\nit hung limply and lifelessly.",
+      "text": "It's stalk was broken, the water around it was muddied, and\nit hung limply and lifelessly."
+    },
+    {
+      "offset": 1566,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何本かは、あの風で飛ばされてしまったのか、\nそこにはなかった。",
+      "en": "No amount of books or knowledge could save it from the\nstorm.",
+      "text": "No amount of books or knowledge could save it from the\nstorm."
+    },
+    {
+      "offset": 1647,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……ピロスは？」",
+      "en": "\"...What about Piros?\"",
+      "text": "\"...What about Piros?\""
+    },
+    {
+      "offset": 1672,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城が、思い出したように、人形の名前を呼ぶ。",
+      "en": "Tsukishiro, suddenly remembering, enquired about her doll.",
+      "text": "Tsukishiro, suddenly remembering, enquired about her doll."
+    },
+    {
+      "offset": 1723,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あの人形……ピロスだっけ。あれも、もう」",
+      "en": "\"...That doll... Piros. It's also... no more.\"",
+      "text": "\"...That doll... Piros. It's also... no more.\""
+    },
+    {
+      "offset": 1785,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……そんな」",
+      "en": "\"...No...\"",
+      "text": "\"...No...\""
+    },
+    {
+      "offset": 1806,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一応、夕べ瀬場さんに渡してはおいたが、ため\n息をついていたところを見ると、あれを直すの\nは難しいのだろう。",
+      "en": "I returned the doll to Seiba-san last evening as well. He\nhad sighed, saying that it'd be difficult to fix it.",
+      "text": "I returned the doll to Seiba-san last evening as well. He\nhad sighed, saying that it'd be difficult to fix it."
+    },
+    {
+      "offset": 1915,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城が、もぞもぞと動き、俺に背を向ける。",
+      "en": "Tsukishiro, taking shock by shock, turned away from me.",
+      "text": "Tsukishiro, taking shock by shock, turned away from me."
+    },
+    {
+      "offset": 1975,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……ロスキルラベンダーも、ピロスも」",
+      "en": "\"...The Roskill Lavender, and Piros...\"",
+      "text": "\"...The Roskill Lavender, and Piros...\""
+    },
+    {
+      "offset": 2033,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……なくなった」",
+      "en": "\"...All lost.\"",
+      "text": "\"...All lost.\""
+    },
+    {
+      "offset": 2071,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……もうダメ」",
+      "en": "\"...I can't...\"",
+      "text": "\"...I can't...\""
+    },
+    {
+      "offset": 2094,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は、ぼそりとそう呟いた。",
+      "en": "Tsukishiro was whispering to herself.",
+      "text": "Tsukishiro was whispering to herself."
+    },
+    {
+      "offset": 2129,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「月城、元気出せよ、な？　今は、熱があるか\n　ら、悪く考えちゃうんだ」",
+      "en": "\"Tsukishiro, cheer up, okay? You'd only get worse if you\nthink of bad things...\"",
+      "text": "\"Tsukishiro, cheer up, okay? You'd only get worse if you\nthink of bad things...\""
+    },
+    {
+      "offset": 2205,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とは言ったものの、この状況で月城に元気を出\nせという方が無理なのでは、と思った。",
+      "en": "Even as I said that, I knew that telling her to just cheer\nup was far too unreasonable.",
+      "text": "Even as I said that, I knew that telling her to just cheer\nup was far too unreasonable."
+    },
+    {
+      "offset": 2289,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "理由はわからないけれど、身体を張ってまで大\n切に育てていたロスキルラベンダーが、ダメに\nなり、",
+      "en": "With the plant she cared for body and soul, for whatever\nreason, having given up hope itself,",
+      "text": "With the plant she cared for body and soul, for whatever\nreason, having given up hope itself,"
+    },
+    {
+      "offset": 2386,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつも肌身離さず持っていた人形も、ぼろぼろ\nになってしまった。",
+      "en": "And the doll she always carried with her, completely worn\nout from the punishing weather.",
+      "text": "And the doll she always carried with her, completely worn\nout from the punishing weather."
+    },
+    {
+      "offset": 2467,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……先輩」",
+      "en": "\"...Senpai.\"",
+      "text": "\"...Senpai.\""
+    },
+    {
+      "offset": 2486,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「ん？　どうした？」",
+      "en": "\"Mm? What is it?\"",
+      "text": "\"Mm? What is it?\""
+    },
+    {
+      "offset": 2526,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……先輩、ごほっごほ……、私……」",
+      "en": "\"...Senpai... *cough cough*... I...\"",
+      "text": "\"...Senpai... *cough cough*... I...\""
+    },
+    {
+      "offset": 2569,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「ほら、無理をせず、ちゃんと休むんだ」",
+      "en": "\"Hey, don't push yourself, just rest...\"",
+      "text": "\"Hey, don't push yourself, just rest...\""
+    },
+    {
+      "offset": 2627,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……ごほっ、ごほっ、私」",
+      "en": "\"...*cough cough*... What should I...\"",
+      "text": "\"...*cough cough*... What should I...\""
+    },
+    {
+      "offset": 2660,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城が俺の方に向けた顔は、涙で｛ひど／酷｝く汚れてい\nた。",
+      "en": "Tsukishiro looked at me, despair in her eyes, tears\nbeginning to form.",
+      "text": "Tsukishiro looked at me, despair in her eyes, tears\nbeginning to form."
+    },
+    {
+      "offset": 2737,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……どうしよう」",
+      "en": "\"...What should I do...\"",
+      "text": "\"...What should I do...\""
+    },
+    {
+      "offset": 2775,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……もう、わからない」",
+      "en": "\"...I don't know anymore...\"",
+      "text": "\"...I don't know anymore...\""
+    },
+    {
+      "offset": 2806,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「なに言ってるんだ、月城──」",
+      "en": "\"What are you saying, Tsukishiro--\"",
+      "text": "\"What are you saying, Tsukishiro--\""
+    },
+    {
+      "offset": 2866,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の口から出る言葉は、『元気を出せよ』だっ\nたり『くよくよするなよ』というような、まる\nで陳腐なモノだけだった。",
+      "en": "I could only tell her to \"Cheer up!\" And \"Don't think about\nit\", but even I knew it was getting stale.",
+      "text": "I could only tell her to \"Cheer up!\" And \"Don't think about\nit\", but even I knew it was getting stale."
+    },
+    {
+      "offset": 2981,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただ、それでも、俺は陳腐だとしても、月城に\n元気になって欲しくて、",
+      "en": "But no matter how stale it was, how much it didn't work, I\nwanted her to be happier,",
+      "text": "But no matter how stale it was, how much it didn't work, I\nwanted her to be happier,"
+    },
+    {
+      "offset": 3051,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "元気になれば、辛いことも乗り越えられると思っ\nて、",
+      "en": "Since when you're happy, you get over the bad things easier.",
+      "text": "Since when you're happy, you get over the bad things easier."
+    },
+    {
+      "offset": 3107,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「元気を出せよ」",
+      "en": "\"Cheer up.\"",
+      "text": "\"Cheer up.\""
+    },
+    {
+      "offset": 3130,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と言うのだった。",
+      "en": "Was all I said.",
+      "text": "Was all I said."
+    },
+    {
+      "offset": 3151,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "けれど、月城は、",
+      "en": "But Tsukishiro replied,",
+      "text": "But Tsukishiro replied,"
+    },
+    {
+      "offset": 3187,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……先輩、ごめんなさい」",
+      "en": "\"...Senpai, I'm sorry.\"",
+      "text": "\"...Senpai, I'm sorry.\""
+    },
+    {
+      "offset": 3220,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と顔を背け、そのまま黙り込んでしまった。",
+      "en": "She turned her face away, and didn't say another word.",
+      "text": "She turned her face away, and didn't say another word."
+    },
+    {
+      "offset": 3265,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眠っているのか、起きているのかわからないま\nま、月城は返事をしなくなった。",
+      "en": "Whether she was sleeping or awake, I couldn't tell; she\nwouldn't even reply.",
+      "text": "Whether she was sleeping or awake, I couldn't tell; she\nwouldn't even reply."
+    },
+    {
+      "offset": 3411,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「申し訳ありません。わざわざお見舞いに来て\n　いただきましたのに」",
+      "en": "\"My deepest apologies. It is regrettable that your visit was\nnot as fruitful as hoped.\"",
+      "text": "\"My deepest apologies. It is regrettable that your visit was\nnot as fruitful as hoped.\""
+    },
+    {
+      "offset": 3483,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「こちらこそ、何のお役にも立てなくて」",
+      "en": "\"It's my fault too, I couldn't do anything to help...\"",
+      "text": "\"It's my fault too, I couldn't do anything to help...\""
+    },
+    {
+      "offset": 3539,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「いえ、私としても、あの時朝倉様がお嬢様を\n　連れ帰ってくださらなかったらと、感謝をし\n　ております」",
+      "en": "\"No, you have done plenty for us already. I cannot thank you\nenough for bringing the mistress here yesterday...\"",
+      "text": "\"No, you have done plenty for us already. I cannot thank you\nenough for bringing the mistress here yesterday...\""
+    },
+    {
+      "offset": 3657,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「いつもは、部屋にいらっしゃる時間でしたの\n　で……」",
+      "en": "\"Please, do not hesitate to visit whenever you wish...\"",
+      "text": "\"Please, do not hesitate to visit whenever you wish...\""
+    },
+    {
+      "offset": 3717,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "瀬場さんが、ぐっと拳を握りしめ、震わせる。",
+      "en": "Seiba-san's hand trembled slightly.",
+      "text": "Seiba-san's hand trembled slightly."
+    },
+    {
+      "offset": 3766,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ところで、あの人形は……」",
+      "en": "\"By the way, about that doll...\"",
+      "text": "\"By the way, about that doll...\""
+    },
+    {
+      "offset": 3812,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「はい、やはりもう……。ここには直せる者も\n　おりませんし」",
+      "en": "\"Yes, most unfortunate... there is no crafter of such skill\nas to be able to restore the doll to it's former glory.\"",
+      "text": "\"Yes, most unfortunate... there is no crafter of such skill\nas to be able to restore the doll to it's former glory.\""
+    },
+    {
+      "offset": 3878,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「やっぱり」",
+      "en": "\"Ahh...\"",
+      "text": "\"Ahh...\""
+    },
+    {
+      "offset": 3908,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「もちろん、捨てたりはいたしません……。あ\n　の人形はお嬢様にとって、とても大切なもの\n　なので」",
+      "en": "\"Of course, I have no thoughts of disposing of it... it is\nstill an important memorry for the mistress.\"",
+      "text": "\"Of course, I have no thoughts of disposing of it... it is\nstill an important memorry for the mistress.\""
+    },
+    {
+      "offset": 4011,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「そうですか……」",
+      "en": "\"I see...\"",
+      "text": "\"I see...\""
+    },
+    {
+      "offset": 4047,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「──お茶などいかがですか？」",
+      "en": "\"--Would you care for some tea?\"",
+      "text": "\"--Would you care for some tea?\""
+    },
+    {
+      "offset": 4084,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「いえ、今日はこれで帰ります。たぶん、また\n　来ると思います」",
+      "en": "\"No thank you, I'd be heading home for now. I'd come back\nsoon.\"",
+      "text": "\"No thank you, I'd be heading home for now. I'd come back\nsoon.\""
+    },
+    {
+      "offset": 4163,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「わかりました。お嬢様は、しばらくお休みに\n　なっていれば、熱も下がるはずですので、ご\n　心配なさらずに」",
+      "en": "\"Very well. The mistress's temperature should fall once she\ngets enough rest, so please do not worry about her health.\"",
+      "text": "\"Very well. The mistress's temperature should fall once she\ngets enough rest, so please do not worry about her health.\""
+    },
+    {
+      "offset": 4274,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "瀬場さんは、そう言って深いお辞儀をした。",
+      "en": "Seiba-san bowed deeply with his words.",
+      "text": "Seiba-san bowed deeply with his words."
+    },
+    {
+      "offset": 4382,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "人間なんて無力なものだ。",
+      "en": "Humans are powerless in that.",
+      "text": "Humans are powerless in that."
+    },
+    {
+      "offset": 4411,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなことはよほどのことでもない限り、考え\nたりはしないと思っていたけれど、ふとそんな\n思いが胸に浮かんだ。",
+      "en": "I knew that, and there's no point thinking of what I could\ndo... yet it still pained my heart.",
+      "text": "I knew that, and there's no point thinking of what I could\ndo... yet it still pained my heart."
+    },
+    {
+      "offset": 4524,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「月城……」",
+      "en": "\"Tsukishiro...\"",
+      "text": "\"Tsukishiro...\""
+    },
+    {
+      "offset": 4543,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "明日になれば、元気になっていればいいけれど。",
+      "en": "I hope she feels better tomorrow.",
+      "text": "I hope she feels better tomorrow."
+    },
+    {
+      "offset": 4592,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、月城邸の、彼女の部屋辺りを見上げなが\nら、そう思った。",
+      "en": "That was what I thought, as I looked up at her room from\noutside the mansion.",
+      "text": "That was what I thought, as I looked up at her room from\noutside the mansion."
+    },
+    {
+      "offset": 4760,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆絶望の淵◆",
+      "en": "◆Depths of Despair◆",
+      "text": "◆Depths of Despair◆"
+    },
+    {
+      "offset": 4803,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ようやく月城が目を覚ました。",
+      "en": "Tsukishiro finally opened her eyes.",
+      "text": "Tsukishiro finally opened her eyes."
+    },
+    {
+      "offset": 4836,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見舞いに行って、しばらく経ってからだった。",
+      "en": "It happened shortly after I came to visit.",
+      "text": "It happened shortly after I came to visit."
+    },
+    {
+      "offset": 4883,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は苦しそうな表情でロスキルラベンダーの\n心配をする。",
+      "en": "Tsukishiro, with the trauma from the day before still fresh\non her mind, enquired worryingly about the Roskill Lavender.",
+      "text": "Tsukishiro, with the trauma from the day before still fresh\non her mind, enquired worryingly about the Roskill Lavender."
+    },
+    {
+      "offset": 4943,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、残念ながら、ラベンダーはダメになって\nしまったこと、そして月城の人形も壊れてしまっ\nたことを伝える。",
+      "en": "I had to convey the bad news; that both the Roskill\nLavender, and her doll, were damaged beyond hope.",
+      "text": "I had to convey the bad news; that both the Roskill\nLavender, and her doll, were damaged beyond hope."
+    },
+    {
+      "offset": 5052,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城のショックは大きかった。",
+      "en": "The shock was huge.",
+      "text": "The shock was huge."
+    },
+    {
+      "offset": 5085,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何かの願いをかけていたらしいラベンダーは、\nダメになり、友達であり、人との架け橋である\n人形を同時に失ってしまったのだ。",
+      "en": "The flower she put her wishes into, and the doll which\nhelped bridge the gap between her and her peers, she had\nlost both of them.",
+      "text": "The flower she put her wishes into, and the doll which\nhelped bridge the gap between her and her peers, she had\nlost both of them."
+    },
+    {
+      "offset": 5208,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さすがに俺は、かける言葉が見つからなかった。",
+      "en": "I couldn't tell her anything to comfort her.",
+      "text": "I couldn't tell her anything to comfort her."
+    },
+    {
+      "offset": 5257,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "人間は無力だ。時が彼女を癒してくれることを\n願いつつ、俺は月城邸を後にした。",
+      "en": "Humans are powerless to do anything then. All I could do was\nhope, and pray, that time would heal her emotional wounds.",
+      "text": "Humans are powerless to do anything then. All I could do was\nhope, and pray, that time would heal her emotional wounds."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "284": "Alice",
+    "389": "Alice",
+    "530": "Alice",
+    "675": "Alice",
+    "777": "Alice",
+    "965": "Alice",
+    "1082": "Alice",
+    "1151": "Alice",
+    "1637": "Alice",
+    "1775": "Alice",
+    "1965": "Alice",
+    "2023": "Alice",
+    "2061": "Alice",
+    "2457": "Alice",
+    "2516": "Alice",
+    "2617": "Alice",
+    "2727": "Alice",
+    "2765": "Alice",
+    "3177": "Alice",
+    "3403": "Seiba",
+    "3531": "Seiba",
+    "3649": "Seiba",
+    "3804": "Seiba",
+    "3900": "Seiba",
+    "4039": "Seiba",
+    "4155": "Seiba"
+  }
+}

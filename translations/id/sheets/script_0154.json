@@ -1,0 +1,911 @@
+{
+  "scene": "script_0154.obj",
+  "dialogues": [
+    {
+      "offset": 165,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いよいよ明日から付属最後の期末試験が始まる。",
+      "en": "The final examinations for middle school starts tomorrow.",
+      "text": "The final examinations for middle school starts tomorrow."
+    },
+    {
+      "offset": 214,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本来なら一分一秒でも早く帰宅して、テスト勉\n強にいそしむというのが、学生のあるべき姿だ\nろう。",
+      "en": "Several students had immediately returned home to study for\nthem.",
+      "text": "Several students had immediately returned home to study for\nthem."
+    },
+    {
+      "offset": 311,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……が、俺の足は、自宅とはまったく逆方向の\n神社へと向いていた。",
+      "en": "...But my only legs were moving towards the Shinto shrine in\nthe opposite direction of my house.",
+      "text": "...But my only legs were moving towards the Shinto shrine in\nthe opposite direction of my house."
+    },
+    {
+      "offset": 379,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だいたい、今さら家に速攻で帰って猛勉強しよ\nうと、焼け石に水。",
+      "en": "This means that later, I'd have to study even harder and\nburn the midnight oil.",
+      "text": "This means that later, I'd have to study even harder and\nburn the midnight oil."
+    },
+    {
+      "offset": 445,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だったら、ここはひとつ――",
+      "en": "But I did come here for one reason--",
+      "text": "But I did come here for one reason--"
+    },
+    {
+      "offset": 476,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "苦しい時の神頼み、しかあるまい。",
+      "en": "In times of trouble, you can always seek help from God.",
+      "text": "In times of trouble, you can always seek help from God."
+    },
+    {
+      "offset": 554,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなわけで、俺は神社へとやってきた。",
+      "en": "That's why I came to the Shinto shrine.",
+      "text": "That's why I came to the Shinto shrine."
+    },
+    {
+      "offset": 615,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「朝倉せんぱーい！」",
+      "en": "\"Asakura-senpaiiii!\"",
+      "text": "\"Asakura-senpaiiii!\""
+    },
+    {
+      "offset": 642,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いきなり名前を呼ばれて振り返ると、美春が駆\nけてくるところだった。",
+      "en": "I turned my head towards the sudden shout of my name in time\nto see Miharu dashing towards me.",
+      "text": "I turned my head towards the sudden shout of my name in time\nto see Miharu dashing towards me."
+    },
+    {
+      "offset": 736,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんだ、美春じゃないか」",
+      "en": "\"Oh, it's you, Miharu.\"",
+      "text": "\"Oh, it's you, Miharu.\""
+    },
+    {
+      "offset": 769,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "息を切らせて走ってきた美春の呼吸が整うまで\n俺は待ってやった。",
+      "en": "I waited a bit and let Miharu catch up towards me, and catch\nher breath.",
+      "text": "I waited a bit and let Miharu catch up towards me, and catch\nher breath."
+    },
+    {
+      "offset": 837,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、いつから風紀委員は、学園の外でも俺を\n　監視するようになったんだ？」",
+      "en": "\"So, when did the disciplinary committee start sending out\nmembers to keep me under surveillance even outside school?\"",
+      "text": "\"So, when did the disciplinary committee start sending out\nmembers to keep me under surveillance even outside school?\""
+    },
+    {
+      "offset": 945,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「違いますよ。歩いてたら先輩の姿を見かけて、\n　それからダッシュしてきたんです」",
+      "en": "\"That's not it. I saw you walking towards here, so I ran all\nthe way!\"",
+      "text": "\"That's not it. I saw you walking towards here, so I ran all\nthe way!\""
+    },
+    {
+      "offset": 1031,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "うーむ、俺に追いついても１等賞の褒美は出な\nいと言うのに。",
+      "en": "Huh, not like there's a prize for \"catching\" me first.",
+      "text": "Huh, not like there's a prize for \"catching\" me first."
+    },
+    {
+      "offset": 1093,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "親しい人を見かけたら走ってくるわんこの習性\nそのままだな。",
+      "en": "Miharu's just the kind of person who does everything at full\nspeed.",
+      "text": "Miharu's just the kind of person who does everything at full\nspeed."
+    },
+    {
+      "offset": 1168,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「でも、先輩のお家は反対方向ですよね？」",
+      "en": "\"But, isn't your house in the other direction?\"",
+      "text": "\"But, isn't your house in the other direction?\""
+    },
+    {
+      "offset": 1215,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なぜ、俺が帰り道にわざわざ神社に立ち寄った\nのかが不思議らしい。",
+      "en": "She was wondering why I was standing around here in the\nShinto shrine instead of heading home.",
+      "text": "She was wondering why I was standing around here in the\nShinto shrine instead of heading home."
+    },
+    {
+      "offset": 1285,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ここに来たのは、俺なりのテスト必勝法だ」",
+      "en": "\"I came here to enact my surefire strategy for the tests.\"",
+      "text": "\"I came here to enact my surefire strategy for the tests.\""
+    },
+    {
+      "offset": 1362,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「はいっ？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 1381,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「神頼みってやつだ」",
+      "en": "\"A prayer.\"",
+      "text": "\"A prayer.\""
+    },
+    {
+      "offset": 1425,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ああ、なるほど、と美春が｛あいづち／相槌｝をうつ。",
+      "en": "Ahh, I see, she said, as Miharu nodded sagely.",
+      "text": "Ahh, I see, she said, as Miharu nodded sagely."
+    },
+    {
+      "offset": 1482,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「今さらジタバタ勉強を始めたって、高が知れ\n　ているだろ」",
+      "en": "\"I'm making sure the powers that be know of my struggles\nwhile studying.\"",
+      "text": "\"I'm making sure the powers that be know of my struggles\nwhile studying.\""
+    },
+    {
+      "offset": 1546,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ここの神社に祭られているのが、学問の神様菅\n原道真公でないとしても、お願いすれば、多少\nは願いを聞いてくれるかも。",
+      "en": "Hopefully the God of studying will listen to my wish.",
+      "text": "Hopefully the God of studying will listen to my wish."
+    },
+    {
+      "offset": 1663,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな虫のいい考えが……俺は好きだった。",
+      "en": "Thinking so certainly makes me much happier.",
+      "text": "Thinking so certainly makes me much happier."
+    },
+    {
+      "offset": 1738,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「じゃあ、美春も一緒にお参りしますよ」",
+      "en": "\"Then I'd come along!\"",
+      "text": "\"Then I'd come along!\""
+    },
+    {
+      "offset": 1783,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「おまえも真面目に勉強していないクチか」",
+      "en": "\"You're not planning to study seriously?\"",
+      "text": "\"You're not planning to study seriously?\""
+    },
+    {
+      "offset": 1847,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春が、ぶーっと、唇を尖らせる。",
+      "en": "Miharu's lips curled up into a pout.",
+      "text": "Miharu's lips curled up into a pout."
+    },
+    {
+      "offset": 1897,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「もちろん勉強ぐらいしてますよぉ」",
+      "en": "\"Ahh~, of course I will!\"",
+      "text": "\"Ahh~, of course I will!\""
+    },
+    {
+      "offset": 1966,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ただ、ちょっと最近、怠けぎみなんで……」",
+      "en": "\"I've just been procrastinating about it lately...\"",
+      "text": "\"I've just been procrastinating about it lately...\""
+    },
+    {
+      "offset": 2015,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……どう考えても、一緒じゃないか。",
+      "en": "...Just like me, then.",
+      "text": "...Just like me, then."
+    },
+    {
+      "offset": 2063,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺と美春は拝殿の階段を上り、並んで賽銭箱の\n前に立った。",
+      "en": "We climbed the stairs from the front of the shrine, and\nstood in front of the offetory box.",
+      "text": "We climbed the stairs from the front of the shrine, and\nstood in front of the offetory box."
+    },
+    {
+      "offset": 2123,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "財布から五円玉を取り出して、賽銭箱に放り投\nげる。",
+      "en": "I took a 5 yen coin from my wallet, and threw it inside the\nbox.",
+      "text": "I took a 5 yen coin from my wallet, and threw it inside the\nbox."
+    },
+    {
+      "offset": 2189,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "パンッ、パンッ。",
+      "en": "--*tring, tring*",
+      "text": "--*tring, tring*"
+    },
+    {
+      "offset": 2212,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（どうかひとつ、ヤマ勘が当たりますように）",
+      "en": "\"(Please give me the strength to climb this mountain.)\"",
+      "text": "\"(Please give me the strength to climb this mountain.)\""
+    },
+    {
+      "offset": 2261,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目を閉じ、神妙にお願いする。五円玉１枚分の\n願掛けなら、これぐらいが妥当だろう。",
+      "en": "I closed my eyes and made a simple wish. For a 5-yen coin,\nthis is about as good as it'd get.",
+      "text": "I closed my eyes and made a simple wish. For a 5-yen coin,\nthis is about as good as it'd get."
+    },
+    {
+      "offset": 2345,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あとはサイコロ鉛筆が頑張って、正解にヒット\nしてくれることを祈るのみ。",
+      "en": "I continued praying that all the numbers that'd come up on\nthe dice I would bring would be the right ones.",
+      "text": "I continued praying that all the numbers that'd come up on\nthe dice I would bring would be the right ones."
+    },
+    {
+      "offset": 2419,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "たまに、記述式の難しい証明問題とかを作成す\nる講師もいるが、そんな問題が出たら……。",
+      "en": "Of course, that won't help much for non-multiple-choice\nquestions. If those are on the test...",
+      "text": "Of course, that won't help much for non-multiple-choice\nquestions. If those are on the test..."
+    },
+    {
+      "offset": 2507,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あきらめて寝よう。ムダな労力を脳細胞に強い\nることはない。",
+      "en": "Then I'd just give up and take a nap. No point\noverexhausting my brain cells.",
+      "text": "Then I'd just give up and take a nap. No point\noverexhausting my brain cells."
+    },
+    {
+      "offset": 2590,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さて、お参りも済んだし、そろそろ帰るか」",
+      "en": "\"Alright, we're done with our visit? Shall we head back?\"",
+      "text": "\"Alright, we're done with our visit? Shall we head back?\""
+    },
+    {
+      "offset": 2650,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「はい」",
+      "en": "\"Okay!\"",
+      "text": "\"Okay!\""
+    },
+    {
+      "offset": 2665,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なぜか、楽しそうに美春が俺のあとに続く。",
+      "en": "For some reason, Miharu happily answered me.",
+      "text": "For some reason, Miharu happily answered me."
+    },
+    {
+      "offset": 2710,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……んっ？",
+      "en": "...Hm?",
+      "text": "...Hm?"
+    },
+    {
+      "offset": 2725,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちょうど拝殿を下りた時に、境内に入ってきた\n人影が見えた。しかも、俺の見知った顔だ。",
+      "en": "As we went down the stairs back to the front of the shrine,\nI saw a person enter the shrines. A person whose face I\nrecognized.",
+      "text": "As we went down the stairs back to the front of the shrine,\nI saw a person enter the shrines. A person whose face I\nrecognized."
+    },
+    {
+      "offset": 2815,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「工藤じゃないか」",
+      "en": "\"It's Kudou.\"",
+      "text": "\"It's Kudou.\""
+    },
+    {
+      "offset": 2878,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「おう、朝倉か」",
+      "en": "\"Oh, Asakura.\"",
+      "text": "\"Oh, Asakura.\""
+    },
+    {
+      "offset": 2901,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こっちに気づいた工藤が、片手を挙げる。",
+      "en": "As soon as he noticed me, he waved.",
+      "text": "As soon as he noticed me, he waved."
+    },
+    {
+      "offset": 2944,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "すると、どこからともなく、わらわらと猫たち\nが集まりだした。",
+      "en": "Apparently, he was being surrounded... by cats.",
+      "text": "Apparently, he was being surrounded... by cats."
+    },
+    {
+      "offset": 3010,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんだ、こいつら」",
+      "en": "\"What's up with those?\"",
+      "text": "\"What's up with those?\""
+    },
+    {
+      "offset": 3037,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうやら、この界隈を縄張りにしている野良猫\nたちらしい。",
+      "en": "It looked like every stray cat from the neighbourhood had\ngathered.",
+      "text": "It looked like every stray cat from the neighbourhood had\ngathered."
+    },
+    {
+      "offset": 3097,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "猫たちが、クラスでも堅物で通っている工藤の\n足元に群がる。",
+      "en": "The cats were swarming around Kudou's feet.",
+      "text": "The cats were swarming around Kudou's feet."
+    },
+    {
+      "offset": 3159,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何匹かの猫は工藤の足に、すりすりと身体をこ\nすりつけていた。",
+      "en": "His movements were careful so as not to step on any of them.",
+      "text": "His movements were careful so as not to step on any of them."
+    },
+    {
+      "offset": 3225,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おいおい、やけに慣れてるじゃないか」",
+      "en": "\"Oyoy, you seem used to having many things around you.\"",
+      "text": "\"Oyoy, you seem used to having many things around you.\""
+    },
+    {
+      "offset": 3270,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こいつらには野良としての警戒心はないのか。",
+      "en": "This guy won't ever change from his image.",
+      "text": "This guy won't ever change from his image."
+    },
+    {
+      "offset": 3330,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「ま、たまにエサをやったりしているからな」",
+      "en": "\"Well, it's good to feed these things once in a while.\"",
+      "text": "\"Well, it's good to feed these things once in a while.\""
+    },
+    {
+      "offset": 3379,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "工藤も猫が好きらしく、しゃがみこんで、猫の\n背中を撫でたり、喉の下をさすったりしている。",
+      "en": "Kudou bent down and started scratching the back of one of\nthe cats.",
+      "text": "Kudou bent down and started scratching the back of one of\nthe cats."
+    },
+    {
+      "offset": 3517,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「うはーは、かわいいですね」",
+      "en": "\"Uwaah, so cute!\"",
+      "text": "\"Uwaah, so cute!\""
+    },
+    {
+      "offset": 3552,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "気がつくと、美春までが、猫とじゃれている。",
+      "en": "As soon as she noticed them, Miharu immediately started\nplaying with them as well.",
+      "text": "As soon as she noticed them, Miharu immediately started\nplaying with them as well."
+    },
+    {
+      "offset": 3601,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「へえ。美春が犬好きなのは知ってたけど」",
+      "en": "\"Heh, I knew you liked dogs, but...\"",
+      "text": "\"Heh, I knew you liked dogs, but...\""
+    },
+    {
+      "offset": 3659,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「もちろん犬も好きですけど、猫ちゃんだって\n　好きですよ」",
+      "en": "\"Of course I like dogs, but I like cats too!\"",
+      "text": "\"Of course I like dogs, but I like cats too!\""
+    },
+    {
+      "offset": 3723,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……要するに可愛けりゃ何でもＯＫってことか。",
+      "en": "...To her, I guess anything that's cute is OK.",
+      "text": "...To her, I guess anything that's cute is OK."
+    },
+    {
+      "offset": 3772,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は猫と戯れている工藤に視線を移した。",
+      "en": "I shifted my glance from the frolicking cats to Kudou.",
+      "text": "I shifted my glance from the frolicking cats to Kudou."
+    },
+    {
+      "offset": 3817,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「こんな所で猫と遊んでていいのか？　明日か\n　らテストだぞ」",
+      "en": "\"Are you really okay with playing with cats here, now? There\nare tests tomorrow.\"",
+      "text": "\"Are you really okay with playing with cats here, now? There\nare tests tomorrow.\""
+    },
+    {
+      "offset": 3911,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「今さら慌てて勉強したって、仕方ないだろ」",
+      "en": "\"There's no point in doing last-minute, hasty studying.\"",
+      "text": "\"There's no point in doing last-minute, hasty studying.\""
+    },
+    {
+      "offset": 3960,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "うぐっ。俺と似たようなセリフだったが、ニュ\nアンスはまるで正反対だった。",
+      "en": "Ugh. Similar to what I said, but the nuances were\nconsiderably different.",
+      "text": "Ugh. Similar to what I said, but the nuances were\nconsiderably different."
+    },
+    {
+      "offset": 4036,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺のは開き直りで、｛こいつ／工藤｝のは余裕だ。",
+      "en": "I was just being defiant, while Kudou is simply prepared.",
+      "text": "I was just being defiant, while Kudou is simply prepared."
+    },
+    {
+      "offset": 4087,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春と工藤は、その場で意気投合したらしく、\nあの猫が可愛いだの、この猫の毛並みがいいだ\nのと話が弾んでいる。",
+      "en": "With a link of self-confidence between them, Kudou and\nMiharu continued playing with the cats.",
+      "text": "With a link of self-confidence between them, Kudou and\nMiharu continued playing with the cats."
+    },
+    {
+      "offset": 4198,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺だけが取り残された格好だった。",
+      "en": "Looks like I'm being left behind.",
+      "text": "Looks like I'm being left behind."
+    },
+    {
+      "offset": 4237,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（ふむ。だけどこうして見ると……）",
+      "en": "\"(Hm. But looking at this scene...)\"",
+      "text": "\"(Hm. But looking at this scene...)\""
+    },
+    {
+      "offset": 4278,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "クラスでも堅物の工藤と、風紀委員のマスコッ\nト的存在の美春とは、案外、いい組み合わせか\nもしれんな。",
+      "en": "The straight man of the class, and the disciplinary\ncommittee mascot, they actually look pretty good together.",
+      "text": "The straight man of the class, and the disciplinary\ncommittee mascot, they actually look pretty good together."
+    },
+    {
+      "offset": 4381,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな気がしてきた俺は、工藤のそばにしゃが\nみこむと、美春に聞こえないよう耳打ちした。",
+      "en": "With that thought in mind, I knelt beside Kudou, making sure\nMiharu was out of hearing range.",
+      "text": "With that thought in mind, I knelt beside Kudou, making sure\nMiharu was out of hearing range."
+    },
+    {
+      "offset": 4482,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「工藤、なんなら俺が美春との仲をとりもって\n　やってもいいぞ」",
+      "en": "\"Kudou, I can help if you wish to give it a go with\nMiharu...\"",
+      "text": "\"Kudou, I can help if you wish to give it a go with\nMiharu...\""
+    },
+    {
+      "offset": 4578,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「バ、バカ言え」",
+      "en": "\"D, don't talk stupid.\"",
+      "text": "\"D, don't talk stupid.\""
+    },
+    {
+      "offset": 4601,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あの工藤が珍しく動揺していた。",
+      "en": "Kudou was rattled, a rare feeling for him.",
+      "text": "Kudou was rattled, a rare feeling for him."
+    },
+    {
+      "offset": 4666,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「自分の｛カレ／彼｝……いや、｛カノジョ／彼女｝ぐらい自分で探すさ」",
+      "en": "\"I'd search for my own bo... I mean, girlfriend, thank you\nvery much.\"",
+      "text": "\"I'd search for my own bo... I mean, girlfriend, thank you\nvery much.\""
+    },
+    {
+      "offset": 4741,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少し慌てたのか、どもりつつ工藤が言う。",
+      "en": "Taking incredibly quickly, he stumbled over his own words.",
+      "text": "Taking incredibly quickly, he stumbled over his own words."
+    },
+    {
+      "offset": 4786,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（はて……？）",
+      "en": "\"(Hrm...?)\"",
+      "text": "\"(Hrm...?)\""
+    },
+    {
+      "offset": 4807,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんか今、工藤が不思議な言い間違いをした気\nが……。",
+      "en": "He seemed to have said something weird there...",
+      "text": "He seemed to have said something weird there..."
+    },
+    {
+      "offset": 4863,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "………。",
+      "en": ".........",
+      "text": "........."
+    },
+    {
+      "offset": 4876,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 4887,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……ま、いいか。あまり深くは考えるまい。",
+      "en": "...Well, whatever. I won't think about it too much.",
+      "text": "...Well, whatever. I won't think about it too much."
+    },
+    {
+      "offset": 4934,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さて、じゃあ俺はそろそろ帰るかな」",
+      "en": "\"Anyway, I'd be heading home now.\"",
+      "text": "\"Anyway, I'd be heading home now.\""
+    },
+    {
+      "offset": 4977,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が立ち上がると、美春が不満そうな声をあげ\nた。",
+      "en": "As I got to my feet, Miharu cried out in displeasure.",
+      "text": "As I got to my feet, Miharu cried out in displeasure."
+    },
+    {
+      "offset": 5064,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「えー、先輩、もう少し遊んでいきましょうよ」",
+      "en": "\"Ehh~, senpai, let's stay here a bit longer.\"",
+      "text": "\"Ehh~, senpai, let's stay here a bit longer.\""
+    },
+    {
+      "offset": 5115,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「悪いな、美春。俺は家に帰って、することが\n　あるんだ」",
+      "en": "\"Sorry Miharu, I have things to do at home.\"",
+      "text": "\"Sorry Miharu, I have things to do at home.\""
+    },
+    {
+      "offset": 5177,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "すると、工藤が探るような目を俺に向けてきた。",
+      "en": "Kudou's eyes instinctively gazed at me with interest.",
+      "text": "Kudou's eyes instinctively gazed at me with interest."
+    },
+    {
+      "offset": 5256,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「まさか、これから鉛筆でも削ってサイコロを\n　作るつもりじゃないのか」",
+      "en": "\"Let me guess, you're going to shave numbers into your\npencil to serve as dice?\"",
+      "text": "\"Let me guess, you're going to shave numbers into your\npencil to serve as dice?\""
+    },
+    {
+      "offset": 5332,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ギクッ！",
+      "en": "Guh!",
+      "text": "Guh!"
+    },
+    {
+      "offset": 5347,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「な、なぜ、俺の秘密兵器を知ってる！？」",
+      "en": "\"H, how did you know about my secret weapon?!\"",
+      "text": "\"H, how did you know about my secret weapon?!\""
+    },
+    {
+      "offset": 5433,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 5463,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 5482,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふたりが同時に、はあーっとため息をついた。",
+      "en": "The two sighed at the same time.",
+      "text": "The two sighed at the same time."
+    },
+    {
+      "offset": 5542,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「朝倉。たまには妹さんを見習って勉強しろよ」",
+      "en": "\"Asakura. Take a leaf from your sister's book and study more\nseriously.\"",
+      "text": "\"Asakura. Take a leaf from your sister's book and study more\nseriously.\""
+    },
+    {
+      "offset": 5593,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「う、うるさい。大きなお世話だ。音夢には音\n　夢の、俺には俺のやり方があるんだ」",
+      "en": "\"S, shut up, that's way too much. Nemu is Nemu, and I'm me.\"",
+      "text": "\"S, shut up, that's way too much. Nemu is Nemu, and I'm me.\""
+    },
+    {
+      "offset": 5690,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「またそんなことを言って……」",
+      "en": "\"That again...\"",
+      "text": "\"That again...\""
+    },
+    {
+      "offset": 5727,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "呆れぎみの工藤に、美春が微笑みかけた。",
+      "en": "Kudou was exasperated, while Miharu was giggling away.",
+      "text": "Kudou was exasperated, while Miharu was giggling away."
+    },
+    {
+      "offset": 5800,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「言ってもムダですよ。先輩はかったるい星か\n　ら、かったるいを広めにきた、かったるい大\n　王なんですから」",
+      "en": "\"It's useless trying to convince him. He's the lord of\nTroublesome from the planet of Troublesome, here to spread\nTroublesomeness.\"",
+      "text": "\"It's useless trying to convince him. He's the lord of\nTroublesome from the planet of Troublesome, here to spread\nTroublesomeness.\""
+    },
+    {
+      "offset": 5911,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春が無邪気に、あっけらかんと言う。",
+      "en": "Miharu innocently explained to Kudou about me.",
+      "text": "Miharu innocently explained to Kudou about me."
+    },
+    {
+      "offset": 5952,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ううっ、美春め。そんな風に俺を見ていたのか。",
+      "en": "Urgh, Miharu. Is that how you think of me?",
+      "text": "Urgh, Miharu. Is that how you think of me?"
+    },
+    {
+      "offset": 6001,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "当たっているだけに腹が立つぞ。",
+      "en": "What a blow to my stomach...\"",
+      "text": "What a blow to my stomach...\""
+    },
+    {
+      "offset": 6038,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「み〜は〜る〜。そんなことを言う口は、どれ\n　だぁ〜」",
+      "en": "\"Mi~ha~ru. What did you mean by that, ehhh~\"",
+      "text": "\"Mi~ha~ru. What did you mean by that, ehhh~\""
+    },
+    {
+      "offset": 6137,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「やだなぁ、朝倉先輩。冗談ですよ、冗談」",
+      "en": "\"N, nothing! It was just a joke, a joke!\"",
+      "text": "\"N, nothing! It was just a joke, a joke!\""
+    },
+    {
+      "offset": 6184,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春が脱兎のごとく逃げ出す。",
+      "en": "Before she even finished her sentence, Miharu was off and\nrunning.",
+      "text": "Before she even finished her sentence, Miharu was off and\nrunning."
+    },
+    {
+      "offset": 6217,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はわきゃわきゃと指を動かし、美春を追いか\nけ回す。",
+      "en": "I chased after her, waving my fist.",
+      "text": "I chased after her, waving my fist."
+    },
+    {
+      "offset": 6273,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それを工藤が笑いながら見ていた。",
+      "en": "And Kudou just stood there, laughing.",
+      "text": "And Kudou just stood there, laughing."
+    },
+    {
+      "offset": 6310,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "テスト前とは思えないほど、馬鹿馬鹿しく、の\nどかな光景だった。",
+      "en": "Doing stupid things like this was enough to make me forget\nabout the upcoming tests.",
+      "text": "Doing stupid things like this was enough to make me forget\nabout the upcoming tests."
+    },
+    {
+      "offset": 6505,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆苦しい時の神頼み◆",
+      "en": "◆In Times of Trouble, Seep Help from God◆",
+      "text": "◆In Times of Trouble, Seep Help from God◆"
+    },
+    {
+      "offset": 6554,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "明日からは期末試験。とは言っても、今さら勉\n強したところで焼け石に水なので、困ったとき\nの神頼みをするために一路神社へ。",
+      "en": "Tomorow marks the beginning of the final exams. To help my\nlate-night studying, I decided to go to the Shinto shrine\nand offer a prayer to God.",
+      "text": "Tomorow marks the beginning of the final exams. To help my\nlate-night studying, I decided to go to the Shinto shrine\nand offer a prayer to God."
+    },
+    {
+      "offset": 6677,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして神社で美春と工藤に会った。",
+      "en": "At the Shinto shrine, I met Miharu and Kudou.",
+      "text": "At the Shinto shrine, I met Miharu and Kudou."
+    },
+    {
+      "offset": 6714,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "冗談を言って逃げ回る美春を追い掛け回す俺。\nその様子を笑いながら見ている工藤。",
+      "en": "Miharu made a cutting joke and ran away, with me chasing and\nKudou laughing at the sight.",
+      "text": "Miharu made a cutting joke and ran away, with me chasing and\nKudou laughing at the sight."
+    },
+    {
+      "offset": 6796,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "テスト前とは思えないほど、馬鹿馬鹿しく、の\nどかな光景だった。",
+      "en": "Doing stupid things like this was enough to make me forget\nabout the upcoming tests.",
+      "text": "Doing stupid things like this was enough to make me forget\nabout the upcoming tests."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "607": "Miharu",
+    "937": "Miharu",
+    "1160": "Miharu",
+    "1354": "Miharu",
+    "1730": "Miharu",
+    "1889": "Miharu",
+    "1958": "Miharu",
+    "2642": "Miharu",
+    "2870": "Kudou",
+    "3322": "Kudou",
+    "3509": "Miharu",
+    "3651": "Miharu",
+    "3903": "Kudou",
+    "4570": "Kudou",
+    "4658": "Kudou",
+    "5056": "Miharu",
+    "5248": "Kudou",
+    "5425": "Kudou",
+    "5455": "Miharu",
+    "5534": "Kudou",
+    "5682": "Kudou",
+    "5792": "Miharu",
+    "6129": "Miharu"
+  }
+}

@@ -1,0 +1,443 @@
+{
+  "scene": "script_0233.obj",
+  "dialogues": [
+    {
+      "offset": 141,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そういえば、先週の日曜日も彼女は体育館の裏\nに来ていた。",
+      "en": "Hmm, that girl was behind the gym last Sunday, waasn't she.",
+      "text": "Hmm, that girl was behind the gym last Sunday, waasn't she."
+    },
+    {
+      "offset": 201,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなことを思い出して、俺も足を向けてみる\nことにした。",
+      "en": "With that memory fresh in my mind, my feet started making\ntheir way there as well.",
+      "text": "With that memory fresh in my mind, my feet started making\ntheir way there as well."
+    },
+    {
+      "offset": 261,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さすがに校門から入らなければ、平気だと、制\n服ではなく私服でやってきた。",
+      "en": "I reached school much cooler than the last time, even though\nI was still wearing casual rather than uniform.",
+      "text": "I reached school much cooler than the last time, even though\nI was still wearing casual rather than uniform."
+    },
+    {
+      "offset": 339,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「やっぱり来てたんだな」",
+      "en": "\"You were here, after all.\"",
+      "text": "\"You were here, after all.\""
+    },
+    {
+      "offset": 410,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……はい」",
+      "en": "\"...Yes.\"",
+      "text": "\"...Yes.\""
+    },
+    {
+      "offset": 429,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この子は、他にすることがないのかと思うくら\nい、いつもここにいる気がする。",
+      "en": "This kid doesn't seem to think of anything else besides this\nplace.",
+      "text": "This kid doesn't seem to think of anything else besides this\nplace."
+    },
+    {
+      "offset": 509,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「月城は、日曜日に遊んだりしないのか？」",
+      "en": "\"You don't use Sundays to go and have fun?\"",
+      "text": "\"You don't use Sundays to go and have fun?\""
+    },
+    {
+      "offset": 586,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 605,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は何かを言いかけて、結局口を閉じてしま\nう。",
+      "en": "Tsukishiro seemed like she wanted to say something, but\nended up keeping her mouth tightly closed.",
+      "text": "Tsukishiro seemed like she wanted to say something, but\nended up keeping her mouth tightly closed."
+    },
+    {
+      "offset": 657,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "軽く下唇を噛む表情が見て取れたが、それはす\nぐにやめてしまい、手袋を外す。",
+      "en": "She was biting her lower lip, and started to remove her\ngloves.",
+      "text": "She was biting her lower lip, and started to remove her\ngloves."
+    },
+    {
+      "offset": 752,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "人形で話すのだろう。どういう了見かわからな\nいが、月城が手袋を外すと人形が喋り始める。",
+      "en": "I guess I'm talking to the doll again. I still don't really\nget it, but whenever she removes her gloves, the doll\nspeaks.",
+      "text": "I guess I'm talking to the doll again. I still don't really\nget it, but whenever she removes her gloves, the doll\nspeaks."
+    },
+    {
+      "offset": 842,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そういうことらしい。",
+      "en": "That's what it looks like.",
+      "text": "That's what it looks like."
+    },
+    {
+      "offset": 867,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただ、人形が喋ることがあまり好きでないのか、\nそうする前の月城の表情は、なぜかいつも曇っ\nて見える。",
+      "en": "Not that I enjoyed talking to a doll, but her expression\nseemed even cloudier than usual today.",
+      "text": "Not that I enjoyed talking to a doll, but her expression\nseemed even cloudier than usual today."
+    },
+    {
+      "offset": 1002,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「遊ぶっていっても、することはないもの」",
+      "en": "\"There's nowhere, no one and nothing to have fun with.\"",
+      "text": "\"There's nowhere, no one and nothing to have fun with.\""
+    },
+    {
+      "offset": 1049,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「なにもないって……友達とかいないのか？」",
+      "en": "\"Nowhere, no one and nothing...? You don't have friends?\"",
+      "text": "\"Nowhere, no one and nothing...? You don't have friends?\""
+    },
+    {
+      "offset": 1128,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「友達は、──いないよ。アリスの友達は、ボ\n　クだけさ」",
+      "en": "\"No friends, at all. Alice's friends is made up of just me.\"",
+      "text": "\"No friends, at all. Alice's friends is made up of just me.\""
+    },
+    {
+      "offset": 1207,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「美春とかは？　あいつなら、ちょっと声をか\n　ければ、すぐ飛んでくるぞ？　バナナを食わ\n　されるかもしれんが」",
+      "en": "\"What about Miharu? As soon as you call her name, she'd come\nflying here, wouldn't she? Expecting a banana maybe, but...\"",
+      "text": "\"What about Miharu? As soon as you call her name, she'd come\nflying here, wouldn't she? Expecting a banana maybe, but...\""
+    },
+    {
+      "offset": 1352,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「アリスの友達は、──ボクひとりだけだよ」",
+      "en": "\"Alice's only friend, --is me.\"",
+      "text": "\"Alice's only friend, --is me.\""
+    },
+    {
+      "offset": 1401,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ボクひとりって……お前はただの人形じゃない\nか。",
+      "en": "Only friend... aren't you just a doll.",
+      "text": "Only friend... aren't you just a doll."
+    },
+    {
+      "offset": 1455,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「じゃあ、ほら、テレビとか、マンガとか」",
+      "en": "\"Then, what about TV, or manga?\"",
+      "text": "\"Then, what about TV, or manga?\""
+    },
+    {
+      "offset": 1515,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「うちにはテレビは置いてないよ。マンガは読\n　まないもの」",
+      "en": "\"There's no TV at home. We don't read manga either.\"",
+      "text": "\"There's no TV at home. We don't read manga either.\""
+    },
+    {
+      "offset": 1579,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「もったいないなぁ。嫌いなのか？　うちの音\n　夢なんて、やめろっつっても、ずっとテレビ\n　見てるぞ？」",
+      "en": "\"There isn't one... you don't like TV? I keep telling Nemu\nat home not to watch so much TV, but she never listens...\"",
+      "text": "\"There isn't one... you don't like TV? I keep telling Nemu\nat home not to watch so much TV, but she never listens...\""
+    },
+    {
+      "offset": 1699,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「見たことないから」",
+      "en": "\"There's nothing to watch.\"",
+      "text": "\"There's nothing to watch.\""
+    },
+    {
+      "offset": 1726,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「そうか……」",
+      "en": "\"I see...\"",
+      "text": "\"I see...\""
+    },
+    {
+      "offset": 1747,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「じゃあさ、これから俺と一緒にどこかに遊び\n　に行くってのはどうだ？」",
+      "en": "\"Then, I'd be your playmate for today, somewhere. How about\nthat?\"",
+      "text": "\"Then, I'd be your playmate for today, somewhere. How about\nthat?\""
+    },
+    {
+      "offset": 1853,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「花のことが心配だから……」",
+      "en": "\"But we're worried about the flower...\"",
+      "text": "\"But we're worried about the flower...\""
+    },
+    {
+      "offset": 1888,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「おいしいダンゴを食わせるところ、知ってる\n　んだけどなぁ」",
+      "en": "\"I know a place which serves some amazing dumplings...\"",
+      "text": "\"I know a place which serves some amazing dumplings...\""
+    },
+    {
+      "offset": 1954,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城はそれでも、ふるふると首を横に振った。",
+      "en": "But that wasn't able to convince her, as she shook her head.",
+      "text": "But that wasn't able to convince her, as she shook her head."
+    },
+    {
+      "offset": 2001,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "彼女は、もぞもぞと手袋をはめ、花に目をやる。",
+      "en": "She quickly put her gloves back on, and returned to watching\nthe plant.",
+      "text": "She quickly put her gloves back on, and returned to watching\nthe plant."
+    },
+    {
+      "offset": 2067,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もう、特に話すことはないってヤツか。",
+      "en": "I guess she has nothing else to say...",
+      "text": "I guess she has nothing else to say..."
+    },
+    {
+      "offset": 2110,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「しかし……、この草えらくひ弱な感じがする\n　けど大丈夫なのか？」",
+      "en": "\"But... that plant looks really weak to me... will it be\nalright?\"",
+      "text": "\"But... that plant looks really weak to me... will it be\nalright?\""
+    },
+    {
+      "offset": 2212,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……いえ」",
+      "en": "\"...No.\"",
+      "text": "\"...No.\""
+    },
+    {
+      "offset": 2231,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城はそう言って、また首を振った。",
+      "en": "She shook her head to emphasize her reply.",
+      "text": "She shook her head to emphasize her reply."
+    },
+    {
+      "offset": 2270,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その心配そうな瞳は、ただその草にのみ注がれ\nていた。",
+      "en": "Her concern for the plant was clear in her eyes.",
+      "text": "Her concern for the plant was clear in her eyes."
+    },
+    {
+      "offset": 2328,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そっか、だから、ずっと見ているのか」",
+      "en": "\"I see. And so, you're always keeping watch over it.\"",
+      "text": "\"I see. And so, you're always keeping watch over it.\""
+    },
+    {
+      "offset": 2373,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こくんと頷く月城。",
+      "en": "Another nod from her.",
+      "text": "Another nod from her."
+    },
+    {
+      "offset": 2398,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「──それ、咲くといいな」",
+      "en": "\"--It'd be good if it blooms.\"",
+      "text": "\"--It'd be good if it blooms.\""
+    },
+    {
+      "offset": 2431,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なぜ月城がそれを育てているのか、それはなん\nていう植物なのか、まったくわからないけれど、\n俺の口からそんな言葉が出たのだった。",
+      "en": "I didn't know why she was trying to make it grow, or what\nkind of plant it was, yet those words just flew out of my\nmouth.",
+      "text": "I didn't know why she was trying to make it grow, or what\nkind of plant it was, yet those words just flew out of my\nmouth."
+    },
+    {
+      "offset": 2592,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……はい」",
+      "en": "\"...Yes.\"",
+      "text": "\"...Yes.\""
+    },
+    {
+      "offset": 2611,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なぜだか、俺がここに長くいることは、月城に\nとって望ましくない状態なのだろうと思った。",
+      "en": "For some reason, I started to get the feeling that she\nwanted me to leave.",
+      "text": "For some reason, I started to get the feeling that she\nwanted me to leave."
+    },
+    {
+      "offset": 2701,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "決して、彼女は俺を邪魔だと思っている訳では\nないのだろうけれど、おそらく長い間自分以外\nの人間といることに慣れていないのだ。",
+      "en": "Surely not because she thought I was intefering, but more\nlikely because she wasn't used to being with others for so\nlong.",
+      "text": "Surely not because she thought I was intefering, but more\nlikely because she wasn't used to being with others for so\nlong."
+    },
+    {
+      "offset": 2828,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "人との話し方……、接し方、見ていれば、なん\nとなくわかる。",
+      "en": "Talking with people... and connecting with people. Looking\nat her, I knew it myself.",
+      "text": "Talking with people... and connecting with people. Looking\nat her, I knew it myself."
+    },
+    {
+      "offset": 2892,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「じゃ、またな」",
+      "en": "\"I'd see you later.\"",
+      "text": "\"I'd see you later.\""
+    },
+    {
+      "offset": 2945,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……はい」",
+      "en": "\"...Okay.\"",
+      "text": "\"...Okay.\""
+    },
+    {
+      "offset": 2964,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ま、俺の場合は、こうして話をしてくれるのだ\nから、きっとまだいい方なのだろう。",
+      "en": "Well, in my case, the fact that she actually talks to me is\nprobably a good sign to begin with.",
+      "text": "Well, in my case, the fact that she actually talks to me is\nprobably a good sign to begin with."
+    },
+    {
+      "offset": 3046,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、その場を離れた。",
+      "en": "I left the place quietly.",
+      "text": "I left the place quietly."
+    },
+    {
+      "offset": 3184,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆それ、咲くといいな◆",
+      "en": "◆It'd be good if it blooms◆",
+      "text": "◆It'd be good if it blooms◆"
+    },
+    {
+      "offset": 3235,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつも、草の面倒を見ている月城。日曜日にも\n遊んだりすることなく、友達と会うこともなく\n過ごしているという。",
+      "en": "Tsukishiro was caring for the plant, as always. She had\nnothing to do on Sundays, and no friends to spend time with.",
+      "text": "Tsukishiro was caring for the plant, as always. She had\nnothing to do on Sundays, and no friends to spend time with."
+    },
+    {
+      "offset": 3346,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただ、花が咲くことだけを望んでいるという感\nじだ。ただ、それだけだ。",
+      "en": "All she wanted to do, and could do, was wish for and help\nthe plant bloom.",
+      "text": "All she wanted to do, and could do, was wish for and help\nthe plant bloom."
+    },
+    {
+      "offset": 3418,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "たぶん、月城は人間が嫌いとか、そういうので\nはなく、人と触れあうことに慣れていないんだ\nと思う。",
+      "en": "It seems like Tsukishiro doesn't exactly hate people; she\njust isn't used to being around them, and talking to them.",
+      "text": "It seems like Tsukishiro doesn't exactly hate people; she\njust isn't used to being around them, and talking to them."
+    },
+    {
+      "offset": 3517,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それは、人形を使って喋っているところを見れ\nば、よくわかる。",
+      "en": "So to facilitate for the times where she needs to, she uses\na doll to talk for her.",
+      "text": "So to facilitate for the times where she needs to, she uses\na doll to talk for her."
+    },
+    {
+      "offset": 3581,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まだ、直接話してくれているぶん、俺はいい方\nなのだろう。",
+      "en": "The fact that she talks to me herself is probably a good\nsign for me.",
+      "text": "The fact that she talks to me herself is probably a good\nsign for me."
+    },
+    {
+      "offset": 3641,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あまり躍起にならず、彼女のペースに合わせて\n仲良くなれればい。そう思った。",
+      "en": "I desperately wanted to get into her pace, and get closer to\nher.",
+      "text": "I desperately wanted to get into her pace, and get closer to\nher."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "400": "Alice",
+    "576": "Alice",
+    "992": "Piros",
+    "1118": "Piros",
+    "1342": "Piros",
+    "1505": "Piros",
+    "1689": "Piros",
+    "1843": "Piros",
+    "2202": "Alice",
+    "2582": "Alice",
+    "2935": "Alice"
+  }
+}

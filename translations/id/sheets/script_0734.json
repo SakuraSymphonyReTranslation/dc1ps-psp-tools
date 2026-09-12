@@ -1,0 +1,600 @@
+{
+  "scene": "script_0734.obj",
+  "dialogues": [
+    {
+      "offset": 149,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、意気込んではみたものの。",
+      "en": "I tried very hard, but...",
+      "text": "I tried very hard, but..."
+    },
+    {
+      "offset": 184,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なるべく一緒にいろったってなぁ……」",
+      "en": "\"For all that, it's not easy to monitor her all the time...\"",
+      "text": "\"For all that, it's not easy to monitor her all the time...\""
+    },
+    {
+      "offset": 275,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにょ？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 294,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "うたまるを頭にのせているさくらだが、すでに\n眠気もピークに達しているらしく、時折頭が縦\nに揺れる。",
+      "en": "There are times when her sleepiness seems to peak. She\nsometimes nods off despite the fact she has the cat on her\nhead.",
+      "text": "There are times when her sleepiness seems to peak. She\nsometimes nods off despite the fact she has the cat on her\nhead."
+    },
+    {
+      "offset": 395,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "朝と放課後は問題ない。授業中は仕方ないとし\nて、家が別の時点で、やはり夜以降に会ってい\nられる時間には限度がある。",
+      "en": "I have no problem watching her in the morning and after\nschool, but there is no way during class, and also there is\na limit at night since we live in different houses.",
+      "text": "I have no problem watching her in the morning and after\nschool, but there is no way during class, and also there is\na limit at night since we live in different houses."
+    },
+    {
+      "offset": 514,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まぁ、どうにかしなきゃいけないだろうけど」",
+      "en": "\"Well, I have to come up with a good idea.\"",
+      "text": "\"Well, I have to come up with a good idea.\""
+    },
+    {
+      "offset": 565,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "真っ先に思いついた方法はあるのだ……単純に、\n部屋にさくらを呼んで、このまま一緒にいると\nいう方法が。",
+      "en": "So the first thing I came up with was to invite her to my\nroom and sleep together.",
+      "text": "So the first thing I came up with was to invite her to my\nroom and sleep together."
+    },
+    {
+      "offset": 672,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いかんせん、リスクが大きすぎるんだよな」",
+      "en": "\"It may be too risky.\"",
+      "text": "\"It may be too risky.\""
+    },
+    {
+      "offset": 721,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ベッドの足の側の壁に背を預けて、そのまま天\n井に首を向けた。",
+      "en": "Turning my back to the wall where her legs go on the bed, I\nlook up at the ceiling.",
+      "text": "Turning my back to the wall where her legs go on the bed, I\nlook up at the ceiling."
+    },
+    {
+      "offset": 785,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もしも、音夢に見つかったときのことを考える\nと、憂鬱を通り越して背筋に寒気が走る。",
+      "en": "I feel chills down my spine beyond anxiety when I imagine\nNemu finding this out.",
+      "text": "I feel chills down my spine beyond anxiety when I imagine\nNemu finding this out."
+    },
+    {
+      "offset": 903,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにょ〜……なにぶつぶつ言ってる？」",
+      "en": "\"Hm... What are you mumbling about?\"",
+      "text": "\"Hm... What are you mumbling about?\""
+    },
+    {
+      "offset": 948,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「いや、眠そうだな」",
+      "en": "\"Nothing. You look tired.\"",
+      "text": "\"Nothing. You look tired.\""
+    },
+    {
+      "offset": 1005,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「もうすぐ帰るよ〜」",
+      "en": "\"I'll go home soon.\"",
+      "text": "\"I'll go home soon.\""
+    },
+    {
+      "offset": 1047,
+      "speaker": "Utamaru",
+      "speaker_jp": "うたまる",
+      "jp": "「うにゃ〜」",
+      "en": "\"Meowwww.\"",
+      "text": "\"Meowwww.\""
+    },
+    {
+      "offset": 1066,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頭の上の猫も眠そうな声を上げる。",
+      "en": "The cat on her head purrs as if she were sleepy.",
+      "text": "The cat on her head purrs as if she were sleepy."
+    },
+    {
+      "offset": 1105,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「やっぱ帰っちゃうのか？」",
+      "en": "\"Are you sure you want to go home?\"",
+      "text": "\"Are you sure you want to go home?\""
+    },
+    {
+      "offset": 1171,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにょ！？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 1192,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "急にさくらが立ち上がるので、ぽて、と猫が\nベッドにころがる。",
+      "en": "Sakura stands up quickly, and the cat falls on the bed.",
+      "text": "Sakura stands up quickly, and the cat falls on the bed."
+    },
+    {
+      "offset": 1273,
+      "speaker": "Utamaru",
+      "speaker_jp": "うたまる",
+      "jp": "「にゃ〜」",
+      "en": "\"Meow~\"",
+      "text": "\"Meow~\""
+    },
+    {
+      "offset": 1290,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自力では起き上がれないのか、眠たいときに起\nこされたのが不満だったのか。",
+      "en": "Maybe she can't get up by herself, or she didn't like the\nfact that her sleep was interrupted.",
+      "text": "Maybe she can't get up by herself, or she didn't like the\nfact that her sleep was interrupted."
+    },
+    {
+      "offset": 1366,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "尻尾を器用に動かして、猫はシーツの中にもぐ\nりこんで睡眠を決め込もうとしていた。",
+      "en": "Flicking her tail, the cat slips under the sheet, trying to\ngo to sleep.",
+      "text": "Flicking her tail, the cat slips under the sheet, trying to\ngo to sleep."
+    },
+    {
+      "offset": 1465,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1484,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「どうした？」",
+      "en": "\"What happened?\"",
+      "text": "\"What happened?\""
+    },
+    {
+      "offset": 1535,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……お兄ちゃん。ボク、帰らなくてもいい\n　の？」",
+      "en": "\"Oniichan, is it okay if I stay here?\"",
+      "text": "\"Oniichan, is it okay if I stay here?\""
+    },
+    {
+      "offset": 1591,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「え？　あ……その」",
+      "en": "\"What? Uhh.\"",
+      "text": "\"What? Uhh.\""
+    },
+    {
+      "offset": 1618,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自分が口にした言葉の重みにいまさら気付いて、\n俺は思わず口ごもる。",
+      "en": "Oh, I see. I mean... umm...",
+      "text": "Oh, I see. I mean... umm..."
+    },
+    {
+      "offset": 1690,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「今日は……おまえとじっくり話し合おうと思っ\n　てさ」",
+      "en": "That's what I mean.",
+      "text": "That's what I mean."
+    },
+    {
+      "offset": 1806,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当に、子猫のように俺の膝によりかかって、\nさくらがそっと顔を近づけてくる。",
+      "en": "Sakura leans over my lap like a kitten, then brings her face\nclose to mine.",
+      "text": "Sakura leans over my lap like a kitten, then brings her face\nclose to mine."
+    },
+    {
+      "offset": 1927,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……ん」",
+      "en": "\"Mm...\"",
+      "text": "\"Mm...\""
+    },
+    {
+      "offset": 1944,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1995,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「お兄ちゃん……ボクのこと好き？」",
+      "en": "Sakura flings her arms around my body.",
+      "text": "Sakura flings her arms around my body."
+    },
+    {
+      "offset": 2055,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何度も何度も。",
+      "en": "Her arms can barely link behind my back, like tight clothes.",
+      "text": "Her arms can barely link behind my back, like tight clothes."
+    },
+    {
+      "offset": 2074,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらは、俺のことが好きだと。",
+      "en": "I hold her slender, tiny body.",
+      "text": "I hold her slender, tiny body."
+    },
+    {
+      "offset": 2109,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "でも、この問いは違う。",
+      "en": "I'm not sure how strongly I can squeeze her tiny body.",
+      "text": "I'm not sure how strongly I can squeeze her tiny body."
+    },
+    {
+      "offset": 2136,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "たった一度の。",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 2155,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の答え。",
+      "en": "\"Ah, um... sorry.\"",
+      "text": "\"Ah, um... sorry.\""
+    },
+    {
+      "offset": 2172,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……嫌いじゃない」",
+      "en": "I look away covering my mouth.",
+      "text": "I look away covering my mouth."
+    },
+    {
+      "offset": 2234,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「じゃあ……ありがとう」",
+      "en": "\"What are you apologizing for?\"",
+      "text": "\"What are you apologizing for?\""
+    },
+    {
+      "offset": 2265,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そういって、さくらが笑う。",
+      "en": "She is right.",
+      "text": "She is right."
+    },
+    {
+      "offset": 2296,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "無垢な笑顔。",
+      "en": "I don't need to feel sorry, but...",
+      "text": "I don't need to feel sorry, but..."
+    },
+    {
+      "offset": 2534,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくら爆弾か……そりゃあいろんな意味で破壊\n力抜群だろうな。",
+      "en": "\"Well, a girl's kiss isn't something to be taken lightly.\"",
+      "text": "\"Well, a girl's kiss isn't something to be taken lightly.\""
+    },
+    {
+      "offset": 2630,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そして、ボクは消えちゃうのかな……」",
+      "en": "\"Do you like me, oniichan?\"",
+      "text": "\"Do you like me, oniichan?\""
+    },
+    {
+      "offset": 2675,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そういうとさくらは俯いてしまった。",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2953,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "最後のほうは聞き取れないくらい、｛かす／幽｝かな声。",
+      "en": "So many times.",
+      "text": "So many times."
+    },
+    {
+      "offset": 3014,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらの腕が俺を抱きしめる。",
+      "en": "Sakura's said she likes me.",
+      "text": "Sakura's said she likes me."
+    },
+    {
+      "offset": 3112,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まるでサイズの合わない服のように、腕は必死\nに俺の背中で繋がっている。",
+      "en": "But I can't answer this question right.",
+      "text": "But I can't answer this question right."
+    },
+    {
+      "offset": 3291,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "細くて小さい身体を、包み込むように抱きしめ\nる。",
+      "en": "I will only give my answer...",
+      "text": "I will only give my answer..."
+    },
+    {
+      "offset": 3343,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当に小さくて、どれだけ力を込めていいのか、\n困ってしまう。",
+      "en": "Once.",
+      "text": "Once."
+    },
+    {
+      "offset": 3665,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらは誰に聞かせるともなく、ぽつりぽつり\nと自分の胸の内を言葉にしてゆく。",
+      "en": "\"I don't dislike you.\"",
+      "text": "\"I don't dislike you.\""
+    },
+    {
+      "offset": 3760,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「自分でもわかってるから、余計につらいんだ。\n　お兄ちゃんと離れたくないために、どんどん\n　ワガママでイヤな子になってゆく自分が…」",
+      "en": "\"Then, thank you.\"",
+      "text": "\"Then, thank you.\""
+    },
+    {
+      "offset": 4020,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらが顔を上げた。",
+      "en": "After saying that, Sakura laughs.",
+      "text": "After saying that, Sakura laughs."
+    },
+    {
+      "offset": 4045,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつのまにかその大きく青い瞳にいっぱいの涙\nが浮かんでいる。まるで夜の湖の奥底を覗くよ\nうな錯覚。",
+      "en": "What an innocent smile.",
+      "text": "What an innocent smile."
+    },
+    {
+      "offset": 4148,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ああ」",
+      "en": "\"Uhh...\"",
+      "text": "\"Uhh...\""
+    },
+    {
+      "offset": 4163,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はできるだけ冷静を装って答える。",
+      "en": "I stand up to turn off the light.",
+      "text": "I stand up to turn off the light."
+    },
+    {
+      "offset": 4217,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ボクのワガママで、お兄ちゃんや音夢ちゃん、\n　周りのみんなを傷付けてしまうとしても？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 4336,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思いもかけない言葉に、俺は少しだけ言いよど\nむ。",
+      "en": "Something,",
+      "text": "Something,"
+    },
+    {
+      "offset": 4388,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらの潤んだ瞳が、たったひとつの答えを求\nめるように、俺をじっと見つめていた。",
+      "en": "Is not right.",
+      "text": "Is not right."
+    },
+    {
+      "offset": 4498,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう。俺の答えなんて、最初から決まっていた。",
+      "en": "I feel like smiling.",
+      "text": "I feel like smiling."
+    },
+    {
+      "offset": 4586,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「もしおまえが誰かを傷付けそうになったら、\n　俺が体を張ってでも食い止めてみせる」",
+      "en": "\"Well, you can sleep here any time you want.\"",
+      "text": "\"Well, you can sleep here any time you want.\""
+    },
+    {
+      "offset": 4704,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「え……？」",
+      "en": "\"Ahh, mmm...\"",
+      "text": "\"Ahh, mmm...\""
+    },
+    {
+      "offset": 5171,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こぼれ落ちる涙をぬぐいながら、少しだけいつ\nもの調子に戻ったさくらが尋ねてくる。",
+      "en": "With an angry face, Sakura snuggles up to me on the bed.",
+      "text": "With an angry face, Sakura snuggles up to me on the bed."
+    },
+    {
+      "offset": 5257,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺が信じられないのか？」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 5303,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うん」",
+      "en": "\"You can't tease a teacher, don't you know that?\"",
+      "text": "\"You can't tease a teacher, don't you know that?\""
+    },
+    {
+      "offset": 5318,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちぇっ、即答かよ。",
+      "en": "I hear her murmuring into my chest.",
+      "text": "I hear her murmuring into my chest."
+    },
+    {
+      "offset": 5343,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「じゃあ、これから信じられるようにしてやる。\n　いつでも俺はおまえの味方なんだって、思い\n　知らせてやるぞ」",
+      "en": "I see the beautiful moon and cherry blossoms outside of the\nwindow.",
+      "text": "I see the beautiful moon and cherry blossoms outside of the\nwindow."
+    },
+    {
+      "offset": 5527,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ようやくさくらの表情に明るさが戻った。",
+      "en": "Tonight, I'll...",
+      "text": "Tonight, I'll..."
+    },
+    {
+      "offset": 5572,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そうそう。さくらはそうでなくちゃ、な」",
+      "en": "Love Sakura.",
+      "text": "Love Sakura."
+    },
+    {
+      "offset": 5696,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "改めてもう一度、さくらが俺に身を預ける。",
+      "en": "Talk with Sakura.",
+      "text": "Talk with Sakura."
+    },
+    {
+      "offset": 5953,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆さくら先生・共に過ごす夜◆",
+      "en": "◆Spending the night with Sakura-sensei◆",
+      "text": "◆Spending the night with Sakura-sensei◆"
+    },
+    {
+      "offset": 6010,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とは言うものの、１日中監視するのも無理があ\nる。",
+      "en": "For all that, it's not easy to monitor her all day long.",
+      "text": "For all that, it's not easy to monitor her all day long."
+    },
+    {
+      "offset": 6062,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "夜、さくらと一緒に過ごしていると、さくらは\n自分が幸せになるのが不安だと、胸の内を告白\nした。",
+      "en": "When I asked Sakura to sleep over, Sakura mistook what I\nmeant and started snuggling up on me.",
+      "text": "When I asked Sakura to sleep over, Sakura mistook what I\nmeant and started snuggling up on me."
+    },
+    {
+      "offset": 6159,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな不安に｛おび／怯｝えるさくらを守ってやれるのは\n俺だけだ──俺もまた自分の本当の想いを伝え、\nさくらを守ってやると誓った。",
+      "en": "I had to admit I like her a lot, and...",
+      "text": "I had to admit I like her a lot, and..."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "265": "Sakura",
+    "893": "Sakura",
+    "995": "Sakura",
+    "1035": "Utamaru",
+    "1161": "Sakura",
+    "1261": "Utamaru",
+    "1455": "Sakura",
+    "1525": "Sakura",
+    "1917": "Sakura",
+    "1985": "Sakura",
+    "2224": "Sakura",
+    "2620": "Sakura",
+    "3750": "Sakura",
+    "4207": "Sakura",
+    "4694": "Sakura",
+    "5293": "Sakura"
+  }
+}

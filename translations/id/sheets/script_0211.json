@@ -1,0 +1,660 @@
+{
+  "scene": "script_0211.obj",
+  "dialogues": [
+    {
+      "offset": 147,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さてと、さくっと購買にでも行って、エサを\n　買って来るか」",
+      "en": "\"Time to hurry off to the stores to get the rations.\"",
+      "text": "\"Time to hurry off to the stores to get the rations.\""
+    },
+    {
+      "offset": 213,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "厳しい争奪戦に参加すべく、廊下に出る。",
+      "en": "Getting ready to participate in a fierce battle, I emerged\ninto the corridor.",
+      "text": "Getting ready to participate in a fierce battle, I emerged\ninto the corridor."
+    },
+    {
+      "offset": 258,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（おやっ、あそこで楽しそうに語り合っている\n　のは……）",
+      "en": "\"(Oho, that looks like an interesting combination to talk\nto.)\"",
+      "text": "\"(Oho, that looks like an interesting combination to talk\nto.)\""
+    },
+    {
+      "offset": 320,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ななこと工藤という珍しい組み合わせだった。",
+      "en": "Nanako and Kudou were talking, a rare pairing.",
+      "text": "Nanako and Kudou were talking, a rare pairing."
+    },
+    {
+      "offset": 367,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ななこが俺に気づいて手を振る。",
+      "en": "Nanako noticed me lurking, and waved.",
+      "text": "Nanako noticed me lurking, and waved."
+    },
+    {
+      "offset": 404,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんだか、珍しい組み合わせだな」",
+      "en": "\"I don't see you two together often.\"",
+      "text": "\"I don't see you two together often.\""
+    },
+    {
+      "offset": 494,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「あ、朝倉くん」",
+      "en": "\"Ah, Asakura-kun.\"",
+      "text": "\"Ah, Asakura-kun.\""
+    },
+    {
+      "offset": 528,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「朝倉……」",
+      "en": "\"Asakura...\"",
+      "text": "\"Asakura...\""
+    },
+    {
+      "offset": 547,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「すまん、お邪魔虫だったみたいだな」",
+      "en": "\"Sorry, guess I'm getting in the way.\"",
+      "text": "\"Sorry, guess I'm getting in the way.\""
+    },
+    {
+      "offset": 620,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「お邪魔虫って？」",
+      "en": "\"Getting in the way?\"",
+      "text": "\"Getting in the way?\""
+    },
+    {
+      "offset": 645,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「いや、工藤がななこを口説いているのかと思っ\n　て」",
+      "en": "\"Ah-ah, I thought you two were having a lover's quarrel.\"",
+      "text": "\"Ah-ah, I thought you two were having a lover's quarrel.\""
+    },
+    {
+      "offset": 731,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「バカ。お前は、なんてこと言うんだ」",
+      "en": "\"Idiot, what are you saying?\"",
+      "text": "\"Idiot, what are you saying?\""
+    },
+    {
+      "offset": 774,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "工藤が珍しく慌てた顔で否定する。",
+      "en": "Kudou was flustered in denying my jab.",
+      "text": "Kudou was flustered in denying my jab."
+    },
+    {
+      "offset": 813,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「違った？」",
+      "en": "\"Am I wrong?\"",
+      "text": "\"Am I wrong?\""
+    },
+    {
+      "offset": 862,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「違うも何も、お話ししていただけですよ」",
+      "en": "\"Wrong or not, we were just talking.\"",
+      "text": "\"Wrong or not, we were just talking.\""
+    },
+    {
+      "offset": 937,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「それだけだ。誤解を招くようなこと言うな」",
+      "en": "\"That's all. Don't just jump to conclusions like that!\"",
+      "text": "\"That's all. Don't just jump to conclusions like that!\""
+    },
+    {
+      "offset": 986,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「いや、やけに親しそうだったからさ」",
+      "en": "\"Well, you two looked so close!\"",
+      "text": "\"Well, you two looked so close!\""
+    },
+    {
+      "offset": 1059,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「工藤くんのおうちと、うちがご近所さんって\n　ことなわけですよ」",
+      "en": "\"Kudou-kun's home is in the same neighbourhood as mine.\"",
+      "text": "\"Kudou-kun's home is in the same neighbourhood as mine.\""
+    },
+    {
+      "offset": 1129,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「幼なじみってヤツか」",
+      "en": "\"So you were childhood friends, eh?\"",
+      "text": "\"So you were childhood friends, eh?\""
+    },
+    {
+      "offset": 1169,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「まあ、そんなところだ」",
+      "en": "\"Yes, you could say that.\"",
+      "text": "\"Yes, you could say that.\""
+    },
+    {
+      "offset": 1200,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "工藤は、じろりと俺を見た。",
+      "en": "Kudou continued to stare me down, daring me to act up again.",
+      "text": "Kudou continued to stare me down, daring me to act up again."
+    },
+    {
+      "offset": 1233,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、何の話をしていたんだ？」",
+      "en": "\"What were you taling about?\"",
+      "text": "\"What were you taling about?\""
+    },
+    {
+      "offset": 1300,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「動物の話ですよ。犬とかネコとか」",
+      "en": "\"About animals... cats and dogs, specifically.\"",
+      "text": "\"About animals... cats and dogs, specifically.\""
+    },
+    {
+      "offset": 1369,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「どんな動物をペットにしたいとか、そんなこ\n　とを話していたんだ」",
+      "en": "\"About which of those we'd rather have as a pet.\"",
+      "text": "\"About which of those we'd rather have as a pet.\""
+    },
+    {
+      "offset": 1441,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「……まあ、少なくともヤギは飼いたくないな」",
+      "en": "\"...I guess a goat would be out of the question.\"",
+      "text": "\"...I guess a goat would be out of the question.\""
+    },
+    {
+      "offset": 1520,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「ヤギ……？」",
+      "en": "\"A goat...?\"",
+      "text": "\"A goat...?\""
+    },
+    {
+      "offset": 1541,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "工藤が｛けげん／怪訝｝そうな顔をした。",
+      "en": "Kudou was understandbly dubious at my words.",
+      "text": "Kudou was understandbly dubious at my words."
+    },
+    {
+      "offset": 1616,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「ああ！　ヤギだけは、絶対絶対ダメです！\n　ヤーギーだーけーはー！　ダメですッ！」",
+      "en": "\"Ahhh! Definitely not! There's NO WAY I'd ever raise a\ngoat!'",
+      "text": "\"Ahhh! Definitely not! There's NO WAY I'd ever raise a\ngoat!'"
+    },
+    {
+      "offset": 1704,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ななこが、髪を振り乱し、頭を抱える。",
+      "en": "Nanako shook her head so hard, her hair became entirely\ndisheveled.",
+      "text": "Nanako shook her head so hard, her hair became entirely\ndisheveled."
+    },
+    {
+      "offset": 1775,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「さ、彩珠さん……。ヤギにトラウマでも」",
+      "en": "\"S, Saitama-san... does she have some goat trauma?\"",
+      "text": "\"S, Saitama-san... does she have some goat trauma?\""
+    },
+    {
+      "offset": 1822,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「ははは、ちょっとな」",
+      "en": "\"Hahaha, kinda.\"",
+      "text": "\"Hahaha, kinda.\""
+    },
+    {
+      "offset": 1851,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、メガネにヒビが入りかねない勢いのなな\nこを静める。",
+      "en": "I had to eventually calm the shivering Nanako down.",
+      "text": "I had to eventually calm the shivering Nanako down."
+    },
+    {
+      "offset": 1952,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「まあ、どっちにしても、ヤギはペットとは\n　ちょっと違うな」",
+      "en": "\"In any case, goats aren't quite what I'd call a pet.\"",
+      "text": "\"In any case, goats aren't quite what I'd call a pet.\""
+    },
+    {
+      "offset": 2018,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「じゃあ、カピバラなんてどうだ？」",
+      "en": "\"How about a Kapibara, then?\"",
+      "text": "\"How about a Kapibara, then?\""
+    },
+    {
+      "offset": 2070,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「……カピバラ？」",
+      "en": "\"...Kapibara?\"",
+      "text": "\"...Kapibara?\""
+    },
+    {
+      "offset": 2125,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「あたしは知ってますけど、なんて説明してい\n　いのか……」",
+      "en": "\"I've heard of it, but not enough to explain it...\"",
+      "text": "\"I've heard of it, but not enough to explain it...\""
+    },
+    {
+      "offset": 2189,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が簡潔に説明してやることにした。",
+      "en": "I gave a short and sweet description.",
+      "text": "I gave a short and sweet description."
+    },
+    {
+      "offset": 2230,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「カピバラは、何を隠そう世界最大のげっ歯類\n　だぞ」",
+      "en": "\"Kapibara is a often concealed type of animal, with the\nbiggest teeth around.\"",
+      "text": "\"Kapibara is a often concealed type of animal, with the\nbiggest teeth around.\""
+    },
+    {
+      "offset": 2327,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「げっ歯類って、それ……ネズミか？」",
+      "en": "\"Biggest teeth... you mean mice?\"",
+      "text": "\"Biggest teeth... you mean mice?\""
+    },
+    {
+      "offset": 2370,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「だから、世界最大のネズミってことだ」",
+      "en": "\"Like I said, the world's biggest mice.\"",
+      "text": "\"Like I said, the world's biggest mice.\""
+    },
+    {
+      "offset": 2432,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どんな動物を想像したのかは分からないが工藤\nが眉をひそめる。",
+      "en": "Kudou couldn't quite seem to picture it in his mind.",
+      "text": "Kudou couldn't quite seem to picture it in his mind."
+    },
+    {
+      "offset": 2498,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんだ、その顔は。ネズミをバカにしてはい\n　かん」",
+      "en": "\"What's with that face? Mice are animals too.\"",
+      "text": "\"What's with that face? Mice are animals too.\""
+    },
+    {
+      "offset": 2556,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「見てみろ、ウォルトさんの所の、三木……う\n　おっぷ」",
+      "en": "\"I mean, just look at how famous Walt-san has made...\nmprhrphrh.\"",
+      "text": "\"I mean, just look at how famous Walt-san has made...\nmprhrphrh.\""
+    },
+    {
+      "offset": 2635,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "工藤がいきなり俺の口をふさいだ。",
+      "en": "Kudou suddenly shot his hand over my mouth.",
+      "text": "Kudou suddenly shot his hand over my mouth."
+    },
+    {
+      "offset": 2707,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「落ち着け、朝倉。それ以上は言っちゃあダメ\n　だ……」",
+      "en": "\"Hold up, Asakura. You can't speak further on that...\"",
+      "text": "\"Hold up, Asakura. You can't speak further on that...\""
+    },
+    {
+      "offset": 2802,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「工藤さんの言うとおり。危険ですよ、そのネ\n　ズミさんの話は」",
+      "en": "\"Kudou-san's right. It's dangerous talking about that\nmouse.\"",
+      "text": "\"Kudou-san's right. It's dangerous talking about that\nmouse.\""
+    },
+    {
+      "offset": 2870,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「わ、わかったから、放せ。窒息させる気か」",
+      "en": "\"O, okay, let go already, I'm suffocating!\"",
+      "text": "\"O, okay, let go already, I'm suffocating!\""
+    },
+    {
+      "offset": 2928,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "野郎のわりには繊細で柔らかな工藤の手が俺か\nら離れる。",
+      "en": "That bastard's soft hand finally moved from my mouth.",
+      "text": "That bastard's soft hand finally moved from my mouth."
+    },
+    {
+      "offset": 3029,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「だから、俺が言いたいことはだな。カピバラ\n　くんも描く人が描けば、それなりに世界的な\n　ヒットを飛ばすかもしれんということだ」",
+      "en": "\"As I was saying, thanks to the way Kapibara-kun is made out\nto be, he was an instant hit worldwide.\"",
+      "text": "\"As I was saying, thanks to the way Kapibara-kun is made out\nto be, he was an instant hit worldwide.\""
+    },
+    {
+      "offset": 3203,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「……ペットの話からずれてますよ」",
+      "en": "\"...I thought we were talking about pets.\"",
+      "text": "\"...I thought we were talking about pets.\""
+    },
+    {
+      "offset": 3272,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「まあ、それはいい。でもおまえ、カピバラの\n　どこが好きなんだ？」",
+      "en": "\"Well whatever... what do you like about Kapibara?\"",
+      "text": "\"Well whatever... what do you like about Kapibara?\""
+    },
+    {
+      "offset": 3344,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3363,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "え、えーと。",
+      "en": "Hm... erm...",
+      "text": "Hm... erm..."
+    },
+    {
+      "offset": 3382,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………食用になるところ？」",
+      "en": "\"......They taste good fried and battered?\"",
+      "text": "\"......They taste good fried and battered?\""
+    },
+    {
+      "offset": 3449,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3496,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3515,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ななこと、工藤が怪訝そうな顔で俺の方を見る。",
+      "en": "Both of them gave me withering looks.",
+      "text": "Both of them gave me withering looks."
+    },
+    {
+      "offset": 3566,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あれ？」",
+      "en": "\"Ehh?\"",
+      "text": "\"Ehh?\""
+    },
+    {
+      "offset": 3594,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「やっぱり、変わってるな、朝倉は」",
+      "en": "\"...I always knew you were weird, Asakura.\"",
+      "text": "\"...I always knew you were weird, Asakura.\""
+    },
+    {
+      "offset": 3665,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「……知らなかった。カピバラって食用になる\n　んだ」",
+      "en": "\"...I didn't know Kapibara were edible...\"",
+      "text": "\"...I didn't know Kapibara were edible...\""
+    },
+    {
+      "offset": 3723,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ななこがメガネを曇らせながら、口をあんぐり\nと開けていた。",
+      "en": "She said slack-jawed, her glasses steaming up.",
+      "text": "She said slack-jawed, her glasses steaming up."
+    },
+    {
+      "offset": 3785,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "工藤が苦笑しながら、やれやれと首を振る。",
+      "en": "Kudou just sighed and shrugged his shoulders.",
+      "text": "Kudou just sighed and shrugged his shoulders."
+    },
+    {
+      "offset": 3830,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちなみに、カピバラの魅力といえば、本当は、\nずんぐりむっくりなところとか、尻尾がないと\nことろとか、水かきがあるところとか……。",
+      "en": "In any case, as charming as they are, they tend to live in\ndamp and gloomy places...",
+      "text": "In any case, as charming as they are, they tend to live in\ndamp and gloomy places..."
+    },
+    {
+      "offset": 3961,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……あまり可愛くないな。",
+      "en": "...That part tends to turn people off.",
+      "text": "...That part tends to turn people off."
+    },
+    {
+      "offset": 3990,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "食用肉として、養殖されてるってのは本当だぞ。",
+      "en": "Although it's also true that they're sometimes raised to be\neaten.",
+      "text": "Although it's also true that they're sometimes raised to be\neaten."
+    },
+    {
+      "offset": 4071,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「ま、まあ、こんな所で立ち話もなんですから、\n　みんなで学食にでも行きませんか？」",
+      "en": "\"W, well, instead of standing around here, why don't we head\nto the cafeteria?\"",
+      "text": "\"W, well, instead of standing around here, why don't we head\nto the cafeteria?\""
+    },
+    {
+      "offset": 4187,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「オレ的には賛成」",
+      "en": "\"I agree.\"",
+      "text": "\"I agree.\""
+    },
+    {
+      "offset": 4212,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ななこと工藤が同時に俺を見る。",
+      "en": "Both of them looked straight at me.",
+      "text": "Both of them looked straight at me."
+    },
+    {
+      "offset": 4247,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、俺もメシはまだだった訳だし。",
+      "en": "Well, I haven't eaten yet either.",
+      "text": "Well, I haven't eaten yet either."
+    },
+    {
+      "offset": 4288,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「では、満場一致で可決ということで」",
+      "en": "\"The verdict is a unanimous approval.\"",
+      "text": "\"The verdict is a unanimous approval.\""
+    },
+    {
+      "offset": 4343,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "学食に向かって３人で歩き出す。",
+      "en": "The three of us walked to the cafeteria together.",
+      "text": "The three of us walked to the cafeteria together."
+    },
+    {
+      "offset": 4378,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の横に来たななこが、そっと呟く。",
+      "en": "On the way, Nanako sighed beside me.",
+      "text": "On the way, Nanako sighed beside me."
+    },
+    {
+      "offset": 4432,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「でも、カピバラってかわいいですよね」",
+      "en": "\"They really are cute though...\"",
+      "text": "\"They really are cute though...\""
+    },
+    {
+      "offset": 4477,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "よしよし。いい趣味だ、ななこ。",
+      "en": "Yes yes, good senses, Nanako.",
+      "text": "Yes yes, good senses, Nanako."
+    },
+    {
+      "offset": 4638,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆ペット談義◆",
+      "en": "◆Pet Lectures◆",
+      "text": "◆Pet Lectures◆"
+    },
+    {
+      "offset": 4681,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "食堂に向かおうとした俺は廊下でななこと工藤\nを見かけた。なんだか珍しい取り合わせだ。",
+      "en": "Heading to the cafeteria, I bumped into the odd pairing of\nKudou and Nanako.",
+      "text": "Heading to the cafeteria, I bumped into the odd pairing of\nKudou and Nanako."
+    },
+    {
+      "offset": 4769,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "三人でペット談義になる。",
+      "en": "We had a talk about pets.",
+      "text": "We had a talk about pets."
+    },
+    {
+      "offset": 4798,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "カピバラの可愛さがわかるとは、ななこはなか\nなか見所がある奴だ。",
+      "en": "Nanako's an interesting one, saying that Kapibara are cute.",
+      "text": "Nanako's an interesting one, saying that Kapibara are cute."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "484": "Nanako",
+    "520": "Kudou",
+    "610": "Nanako",
+    "723": "Kudou",
+    "852": "Nanako",
+    "929": "Kudou",
+    "1049": "Nanako",
+    "1161": "Kudou",
+    "1290": "Nanako",
+    "1361": "Kudou",
+    "1512": "Kudou",
+    "1606": "Nanako",
+    "1767": "Kudou",
+    "1944": "Kudou",
+    "2062": "Kudou",
+    "2115": "Nanako",
+    "2319": "Kudou",
+    "2699": "Kudou",
+    "2792": "Nanako",
+    "3193": "Nanako",
+    "3264": "Kudou",
+    "3439": "Nanako",
+    "3488": "Kudou",
+    "3586": "Kudou",
+    "3655": "Nanako",
+    "4061": "Nanako",
+    "4179": "Kudou",
+    "4422": "Nanako"
+  }
+}

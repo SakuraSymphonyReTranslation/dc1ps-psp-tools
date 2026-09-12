@@ -1,0 +1,572 @@
+{
+  "scene": "script_0506.obj",
+  "dialogues": [
+    {
+      "offset": 205,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はあぁぁぁ……」",
+      "en": "Repeated many times over.",
+      "text": "Repeated many times over."
+    },
+    {
+      "offset": 230,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "卒業式を終え、帰ってきた教室の机に突っ伏す。",
+      "en": "\"Too long!\"",
+      "text": "\"Too long!\""
+    },
+    {
+      "offset": 279,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ひとりひとりの名前を呼ばれ、ゆっくりと卒業\n証書を受け取っていく。",
+      "en": "I express my disgust accumulated during the ceremony.",
+      "text": "I express my disgust accumulated during the ceremony."
+    },
+    {
+      "offset": 349,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、その繰り返し。",
+      "en": "After handing out those diplomas, we had to listen to the\nprincipal's and other officials' speeches.",
+      "text": "After handing out those diplomas, we had to listen to the\nprincipal's and other officials' speeches."
+    },
+    {
+      "offset": 376,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ずっと、その繰り返し。",
+      "en": "\"Owww......\"",
+      "text": "\"Owww......\""
+    },
+    {
+      "offset": 405,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「長いっちゅーの！」",
+      "en": "\"What's wrong, Asakura? Your eyes look like a dead\nviperfish.\"",
+      "text": "\"What's wrong, Asakura? Your eyes look like a dead\nviperfish.\""
+    },
+    {
+      "offset": 432,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "式中、延々とためこんでいた鬱憤を叫びだす。",
+      "en": "\"Viper... What the heck is that?\"",
+      "text": "\"Viper... What the heck is that?\""
+    },
+    {
+      "offset": 479,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その後は学長、その他もろもろの関係者のお話。",
+      "en": "\"It's a kind of cave fish.\"",
+      "text": "\"It's a kind of cave fish.\""
+    },
+    {
+      "offset": 530,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あぐぅぅぅ……」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 759,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "深海魚って目が退化してるんじゃないのか？",
+      "en": "The eyes of cave fish degenerated, right?",
+      "text": "The eyes of cave fish degenerated, right?"
+    },
+    {
+      "offset": 804,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どんな目だよ。",
+      "en": "What kind of eyes are they?",
+      "text": "What kind of eyes are they?"
+    },
+    {
+      "offset": 856,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ほら、後少しだから、大人しく席につきな」",
+      "en": "\"We're almost done, so sit down quietly.\"",
+      "text": "\"We're almost done, so sit down quietly.\""
+    },
+    {
+      "offset": 905,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暦先生が大きな箱を抱えて、入ってくる。",
+      "en": "Koyomi-sensei enters the classroom with a big box.",
+      "text": "Koyomi-sensei enters the classroom with a big box."
+    },
+    {
+      "offset": 948,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "最後の配布物や卒業の記念品とかだろう。",
+      "en": "There are probably graduation gifts and something to give\nout in it.",
+      "text": "There are probably graduation gifts and something to give\nout in it."
+    },
+    {
+      "offset": 1003,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並も含めて、教室の学生たちが自分の席へと\nもどっていく。",
+      "en": "Everyone in the classroom returns to his or her desk, even\nSuginami.",
+      "text": "Everyone in the classroom returns to his or her desk, even\nSuginami."
+    },
+    {
+      "offset": 1067,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「やれやれ……ん？」",
+      "en": "\"Good God... Hmm?\"",
+      "text": "\"Good God... Hmm?\""
+    },
+    {
+      "offset": 1094,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "開けっぱなしの後ろのドアから、ふたりの男子\n学生が中の様子をそれとなく窺っているのが目\nに留まった。",
+      "en": "I spot two boys quietly peeking into the class through the\nback door that had been left open.",
+      "text": "I spot two boys quietly peeking into the class through the\nback door that had been left open."
+    },
+    {
+      "offset": 1199,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（もう終礼が終わったのか？）",
+      "en": "(Are their classes already done?)",
+      "text": "(Are their classes already done?)"
+    },
+    {
+      "offset": 1234,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まさかな。早すぎる。",
+      "en": "No, I don't think so. It's too early.",
+      "text": "No, I don't think so. It's too early."
+    },
+    {
+      "offset": 1292,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「じゃあ、まずはみんなの楽しみにしている通\n　知表から渡そうか」",
+      "en": "\"Okay, first I'm gonna give you guys your report cards that\nyou've been looking forward to.\"",
+      "text": "\"Okay, first I'm gonna give you guys your report cards that\nyou've been looking forward to.\""
+    },
+    {
+      "offset": 1362,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1390,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「朝倉、出ておいで」",
+      "en": "\"Asakura, come here.\"",
+      "text": "\"Asakura, come here.\""
+    },
+    {
+      "offset": 1417,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "教卓の前の音夢に早々と手渡し、暦先生がにこ\nやかな笑顔で、教壇から俺を手招きする。",
+      "en": "Koyomi-sensei quickly hands a report card to Nemu, who's\nsitting in front of the teacher's platform, and she beckons\nme to come over there.",
+      "text": "Koyomi-sensei quickly hands a report card to Nemu, who's\nsitting in front of the teacher's platform, and she beckons\nme to come over there."
+    },
+    {
+      "offset": 1503,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "きっと、いい成績だったに違いない……。",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 1580,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 1654,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「じゃあ、これで最後だね。週番、気合を入れ\n　て号令」",
+      "en": "\"All right, we're done. Final greeting.\"",
+      "text": "\"All right, we're done. Final greeting.\""
+    },
+    {
+      "offset": 1714,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "普段より大きめの号令で全員が席を立ち、礼を\nする。",
+      "en": "At the word of command, which is louder than usual, everyone\ngets up and bows.",
+      "text": "At the word of command, which is louder than usual, everyone\ngets up and bows."
+    },
+    {
+      "offset": 1770,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふぅ……」",
+      "en": "\"Phew......\"",
+      "text": "\"Phew......\""
+    },
+    {
+      "offset": 1816,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "終わったか……。",
+      "en": "Finally, it's all done...",
+      "text": "Finally, it's all done..."
+    },
+    {
+      "offset": 1837,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並の席に目をやると、ヤツの姿はなかった。",
+      "en": "When I look at Suginami's desk, he's already gone.",
+      "text": "When I look at Suginami's desk, he's already gone."
+    },
+    {
+      "offset": 1884,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "はて？",
+      "en": "Hmm?",
+      "text": "Hmm?"
+    },
+    {
+      "offset": 1909,
+      "speaker": "Male Student A",
+      "speaker_jp": "男子学生Ａ",
+      "jp": "「くそっ、いないぞ」",
+      "en": "\"Shit, he isn't here.\"",
+      "text": "\"Shit, he isn't here.\""
+    },
+    {
+      "offset": 1936,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "前後の扉から、ふたりずつ、計４人の男子学生\nが、終礼終了とともに駆け込んでくる。",
+      "en": "As soon as we finish, two boys run into the classroom from\neach of the front and back doors.",
+      "text": "As soon as we finish, two boys run into the classroom from\neach of the front and back doors."
+    },
+    {
+      "offset": 2034,
+      "speaker": "Male Student B",
+      "speaker_jp": "男子学生Ｂ",
+      "jp": "「くっ、どこかに抜け道が！？」",
+      "en": "\"Damn, there must be a way to escape somewhere!?\"",
+      "text": "\"Damn, there must be a way to escape somewhere!?\""
+    },
+    {
+      "offset": 2083,
+      "speaker": "Male Student A",
+      "speaker_jp": "男子学生Ａ",
+      "jp": "「とにかく、追うぞ」",
+      "en": "\"Let's find him.\"",
+      "text": "\"Let's find him.\""
+    },
+    {
+      "offset": 2110,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "４人の学生は来たとき同様、駆け足で教室を出\nて行った。",
+      "en": "The four boys leave the classroom at a run, the same way\nthey came.",
+      "text": "The four boys leave the classroom at a run, the same way\nthey came."
+    },
+    {
+      "offset": 2170,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（…………）",
+      "en": "............",
+      "text": "............"
+    },
+    {
+      "offset": 2286,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「音夢せんぱーい」",
+      "en": "\"Nemu-sempai~\"",
+      "text": "\"Nemu-sempai~\""
+    },
+    {
+      "offset": 2311,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "再び、前の扉から学生が教室に飛び込んでくる。\n今度は知った顔だが。",
+      "en": "Now, another student throws herself across the classroom\nfrom the front door. It's a familiar face this time, though.",
+      "text": "Now, another student throws herself across the classroom\nfrom the front door. It's a familiar face this time, though."
+    },
+    {
+      "offset": 2430,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「美春、行くわよ」",
+      "en": "\"Come with me, Miharu.\"",
+      "text": "\"Come with me, Miharu.\""
+    },
+    {
+      "offset": 2483,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「え、杉並先輩は――って、あわわ、杉並先輩\n　がいないですぅ」",
+      "en": "\"What, Suginami-sempai is?? Oh no, he's not here.\"",
+      "text": "\"What, Suginami-sempai is?? Oh no, he's not here.\""
+    },
+    {
+      "offset": 2579,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「私たちも追うわよ」",
+      "en": "\"We're gonna chase after him as well.\"",
+      "text": "\"We're gonna chase after him as well.\""
+    },
+    {
+      "offset": 2634,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ラジャー」",
+      "en": "\"Roger!\"",
+      "text": "\"Roger!\""
+    },
+    {
+      "offset": 2665,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春が元気よく、音夢のあとに続く。",
+      "en": "Following Nemu, Miharu leaves the classroom\nenthusiastically.",
+      "text": "Following Nemu, Miharu leaves the classroom\nenthusiastically."
+    },
+    {
+      "offset": 2706,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2725,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「やれやれ……」",
+      "en": "\"Well well......\"",
+      "text": "\"Well well......\""
+    },
+    {
+      "offset": 2748,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "気を取り直し荷物をまとめる。この後は卒パだ。",
+      "en": "Renewing my spirits, I pack up my stuff. The next plan is to\njoin in the graduation party.",
+      "text": "Renewing my spirits, I pack up my stuff. The next plan is to\njoin in the graduation party."
+    },
+    {
+      "offset": 2797,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "忘れ物がないよう、何もないはずの机の中も最\n後に一応確かめる。",
+      "en": "So as not to forget anything, I search through my desk,\nwhich is supposed to be empty before I leave.",
+      "text": "So as not to forget anything, I search through my desk,\nwhich is supposed to be empty before I leave."
+    },
+    {
+      "offset": 2865,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（おやっ？）",
+      "en": "(Mm?)",
+      "text": "(Mm?)"
+    },
+    {
+      "offset": 2884,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "指の先に、何かが触れる。",
+      "en": "I feel something on my fingertips.",
+      "text": "I feel something on my fingertips."
+    },
+    {
+      "offset": 2913,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんかあったっけか？",
+      "en": "Was there something in there?",
+      "text": "Was there something in there?"
+    },
+    {
+      "offset": 2938,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その薄っぺらいものをつかみ、引き出しから腕\nを抜く。",
+      "en": "Grasping the thin object, I pull out my arm from the desk\ndrawer.",
+      "text": "Grasping the thin object, I pull out my arm from the desk\ndrawer."
+    },
+    {
+      "offset": 2996,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3015,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なかなか、可愛らしい便箋。",
+      "en": "It's quite a pretty envelope.",
+      "text": "It's quite a pretty envelope."
+    },
+    {
+      "offset": 3046,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "表には、いかにも女の子が書いた可愛らしい、\n端正な文字で『朝倉へ』と書かれている。",
+      "en": "It says 'To Asakura-kun' on the front, beautifully written\nin a girl's handwriting.",
+      "text": "It says 'To Asakura-kun' on the front, beautifully written\nin a girl's handwriting."
+    },
+    {
+      "offset": 3132,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "裏をひっくり返すと、封をするためのハート型\nのシールが貼ってある。",
+      "en": "Turning the envelope over, I see only a heart-shaped seal to\nseal the envelope.",
+      "text": "Turning the envelope over, I see only a heart-shaped seal to\nseal the envelope."
+    },
+    {
+      "offset": 3202,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして差出人の名前……。",
+      "en": "(............)",
+      "text": "(............)"
+    },
+    {
+      "offset": 3233,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（…………）",
+      "en": "A love letter?",
+      "text": "A love letter?"
+    },
+    {
+      "offset": 3252,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やっぱり、これはラブレターというやつなんだ\nろうな。",
+      "en": "(Ah?)",
+      "text": "(Ah?)"
+    },
+    {
+      "offset": 3308,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "生まれて初めての経験だが、心は平静だった。",
+      "en": "Click.",
+      "text": "Click."
+    },
+    {
+      "offset": 3355,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それともショックが大きすぎて、｛まひ／麻痺｝している\nのか？",
+      "en": "I hear the sound of a puzzle piece in my heart fitting into\nplace.",
+      "text": "I hear the sound of a puzzle piece in my heart fitting into\nplace."
+    },
+    {
+      "offset": 3419,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いずれにせよ、答えはすでに俺の胸にあった。",
+      "en": "By receiving this love letter.",
+      "text": "By receiving this love letter."
+    },
+    {
+      "offset": 3466,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "差出人を見た瞬間に、胸にあった幾つもの断片\nが自然に組み合わさって答えになっていた。",
+      "en": "By knowing that there is a strange person who can say that\nshe likes me.",
+      "text": "By knowing that there is a strange person who can say that\nshe likes me."
+    },
+    {
+      "offset": 3554,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "後は出たとこ勝負だ。",
+      "en": "I realize whom I really love.",
+      "text": "I realize whom I really love."
+    },
+    {
+      "offset": 3579,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、そっとラブレターを鞄の中に落としこん\nだ。",
+      "en": "I feel everything is clear. The love letter gave me the push\nto realize the truth.",
+      "text": "I feel everything is clear. The love letter gave me the push\nto realize the truth."
+    },
+    {
+      "offset": 3749,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆ラブレター◆",
+      "en": "◆Junichi◆",
+      "text": "◆Junichi◆"
+    },
+    {
+      "offset": 3792,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "長かった卒業式がようやく終わった。",
+      "en": "Coming back to my desk from the graduation ceremony, I put\nmy head down on the desk.",
+      "text": "Coming back to my desk from the graduation ceremony, I put\nmy head down on the desk."
+    },
+    {
+      "offset": 3831,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "忘れ物はないかと覗いた机の中に、一通の手紙\nが入っていた。",
+      "en": "Each of our names was called, and each person slowly\nreceived a graduation diploma.",
+      "text": "Each of our names was called, and each person slowly\nreceived a graduation diploma."
+    },
+    {
+      "offset": 3893,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その差出人は……。",
+      "en": "This was repeated.",
+      "text": "This was repeated."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "850": "Koyomi",
+    "1286": "Koyomi",
+    "1384": "Koyomi",
+    "1648": "Koyomi",
+    "1895": "Male Student A",
+    "2020": "Male Student B",
+    "2069": "Male Student A",
+    "2278": "Miharu",
+    "2422": "Nemu",
+    "2475": "Miharu",
+    "2571": "Nemu",
+    "2626": "Miharu"
+  }
+}

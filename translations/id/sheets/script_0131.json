@@ -1,0 +1,74 @@
+{
+  "scene": "script_0131.obj",
+  "dialogues": [
+    {
+      "offset": 162,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「明日は試験だからね〜」",
+      "en": "\"Examinations start tomorrow~\"",
+      "text": "\"Examinations start tomorrow~\""
+    },
+    {
+      "offset": 193,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頑張るんだよ、と暦先生が気のない声で言う。",
+      "en": "Work hard, Koyomi's unencouraging voice implied.",
+      "text": "Work hard, Koyomi's unencouraging voice implied."
+    },
+    {
+      "offset": 242,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（はぁ……遂にテスト前日か……）",
+      "en": "\"(Haah... finally the day before exams...)\"",
+      "text": "\"(Haah... finally the day before exams...)\""
+    },
+    {
+      "offset": 281,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鬱だな……。",
+      "en": "So depressing...",
+      "text": "So depressing..."
+    },
+    {
+      "offset": 309,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「じゃあ週番、号令ね」",
+      "en": "\"Now, Weekly Duty, go ahead.\"",
+      "text": "\"Now, Weekly Duty, go ahead.\""
+    },
+    {
+      "offset": 338,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "週番の号令がかかり、必要最小限のＨＲが終わ\nる。",
+      "en": "After assigning the weekly duties, Koyomi-sensei ended the\nlittle-needed HR session.",
+      "text": "After assigning the weekly duties, Koyomi-sensei ended the\nlittle-needed HR session."
+    },
+    {
+      "offset": 494,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆ついに試験前日◆",
+      "en": "◆One day before exams◆",
+      "text": "◆One day before exams◆"
+    },
+    {
+      "offset": 541,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "はぁぁぁぁぁっ……いよいよ明日は試験だ。暦\n先生は『がんばるんだよ』とか、気の無い声で\n言って教室を後にした。",
+      "en": "Haaaaaaah... in just one day's time, exams will start.\nKoyomi-sensei gave us a half-hearted \"work hard\" before\nleaving the classroom.",
+      "text": "Haaaaaaah... in just one day's time, exams will start.\nKoyomi-sensei gave us a half-hearted \"work hard\" before\nleaving the classroom."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "156": "Koyomi",
+    "303": "Koyomi"
+  }
+}

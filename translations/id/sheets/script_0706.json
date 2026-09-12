@@ -1,0 +1,789 @@
+{
+  "scene": "script_0706.obj",
+  "dialogues": [
+    {
+      "offset": 191,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "別に楽しみにしてるわけじゃないんだが、今日\nはさくらの授業がなかった。",
+      "en": "We didn't have Sakura's class today. Not that I look forward\nto her class, but...",
+      "text": "We didn't have Sakura's class today. Not that I look forward\nto her class, but..."
+    },
+    {
+      "offset": 265,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まったりとした月曜日の放課後だ。",
+      "en": "It's an ordinary Monday after school.",
+      "text": "It's an ordinary Monday after school."
+    },
+    {
+      "offset": 342,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「おーい、朝倉」",
+      "en": "\"Hey, Asakura!\"",
+      "text": "\"Hey, Asakura!\""
+    },
+    {
+      "offset": 365,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「眞子、久しぶりだな、部活か？」",
+      "en": "\"Hey, Mako. Long time no see. Do you have a club activity\ntoday?\"",
+      "text": "\"Hey, Mako. Long time no see. Do you have a club activity\ntoday?\""
+    },
+    {
+      "offset": 404,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昇降口までの帰り道に珍しいやつと鉢合わせる。",
+      "en": "On the way home, I run into a person whom I haven't seen for\na long time.",
+      "text": "On the way home, I run into a person whom I haven't seen for\na long time."
+    },
+    {
+      "offset": 466,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「まぁね。あんたは元気にやってる？　どうな\n　のそっちは？」",
+      "en": "\"Yes, kind of. How about you? Are you doing okay?\"",
+      "text": "\"Yes, kind of. How about you? Are you doing okay?\""
+    },
+    {
+      "offset": 532,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あいかわらずだ」",
+      "en": "\"Same as always.\"",
+      "text": "\"Same as always.\""
+    },
+    {
+      "offset": 585,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「また、かったるいとか言ってるんでしょ。噂\n　の幼なじみティーチャーはどんな反応してる\n　の？」",
+      "en": "\"You still say everything's a pain in the neck, don't you?\nHow's your childhood friend the teacher?\"",
+      "text": "\"You still say everything's a pain in the neck, don't you?\nHow's your childhood friend the teacher?\""
+    },
+    {
+      "offset": 686,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「いや、意外と普通に授業やってるぞ」",
+      "en": "\"Oh, she teaches all right.\"",
+      "text": "\"Oh, she teaches all right.\""
+    },
+    {
+      "offset": 740,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「そうなの？　あ、まぁ、冗談で講師なんてやっ\n　てたら洒落にならないか」",
+      "en": "\"Really? Well, she could be a joke if she's not serious\nabout teaching.\"",
+      "text": "\"Really? Well, she could be a joke if she's not serious\nabout teaching.\""
+    },
+    {
+      "offset": 818,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あはは、と眞子が後頭部に手をやる。",
+      "en": "Mako reaches around the back of her head with a laugh.",
+      "text": "Mako reaches around the back of her head with a laugh."
+    },
+    {
+      "offset": 859,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「冗談が洒落にならないのか？」",
+      "en": "\"The joke's too true to be funny?\"",
+      "text": "\"The joke's too true to be funny?\""
+    },
+    {
+      "offset": 924,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「言葉の綾でしょうが……細かいところに茶々\n　いれないの」",
+      "en": "\"It's just a figure of speech. Don't try to butt in with\nsomething funny.\"",
+      "text": "\"It's just a figure of speech. Don't try to butt in with\nsomething funny.\""
+    },
+    {
+      "offset": 988,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あいよ、と軽く肩をすくめて、俺は窓際の壁に\nよりかかる。",
+      "en": "I shrug my shoulders while leaning against the wall near the\nwindowsill.",
+      "text": "I shrug my shoulders while leaning against the wall near the\nwindowsill."
+    },
+    {
+      "offset": 1078,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あのさ、音夢、どうしてる？」",
+      "en": "\"So, how's Nemu doing?\"",
+      "text": "\"So, how's Nemu doing?\""
+    },
+    {
+      "offset": 1115,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あぁ……あんまり良くないかな。日常生活に\n　はそんなに問題ないんだけど、外に出て歩き\n　回ったりは無理っぽいな」",
+      "en": "\"Um... She's still not feeling well. It doesn't interfere\nwith her daily life, but she can't walk around outside yet.\"",
+      "text": "\"Um... She's still not feeling well. It doesn't interfere\nwith her daily life, but she can't walk around outside yet.\""
+    },
+    {
+      "offset": 1262,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「そっか」",
+      "en": "\"I see.\"",
+      "text": "\"I see.\""
+    },
+    {
+      "offset": 1279,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「しかし、特に本校に来ても変わらないな」",
+      "en": "\"Anyway, I think attending the main school is any\ndifferent.\"",
+      "text": "\"Anyway, I think attending the main school is any\ndifferent.\""
+    },
+    {
+      "offset": 1354,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「そう、面白いこともあるよ」",
+      "en": "\"Really? It's more fun, though.\"",
+      "text": "\"Really? It's more fun, though.\""
+    },
+    {
+      "offset": 1389,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「どんな？」",
+      "en": "\"What kind?\"",
+      "text": "\"What kind?\""
+    },
+    {
+      "offset": 1436,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「うん、前は付属の最上級生だったけどでも今\n　は本校の最下級生になったわけじゃない……、\n　これって部活内では結構変わるもんなの」",
+      "en": "\"Well, in the last school, I was one of the oldest, but now\nI'm one of the youngest, which affects me in clubs.\"",
+      "text": "\"Well, in the last school, I was one of the oldest, but now\nI'm one of the youngest, which affects me in clubs.\""
+    },
+    {
+      "offset": 1582,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「今までは本校の人は、年長者みたいな感じで\n　接してくれてたけど、今は下級生扱いになっ\n　てるのよ」",
+      "en": "\"They treated me as a senior before, but now, they treat me\nas a lower-grade girl.\"",
+      "text": "\"They treated me as a senior before, but now, they treat me\nas a lower-grade girl.\""
+    },
+    {
+      "offset": 1687,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「グループが一緒になったから、急に自分に近\n　い年下だって認識したわけか」",
+      "en": "\"When they get together, they must realize you are junior to\nthem.\"",
+      "text": "\"When they get together, they must realize you are junior to\nthem.\""
+    },
+    {
+      "offset": 1778,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「そう。棲み分けってやつかな」",
+      "en": "\"Yeah, it's like I'm living separately from them.\"",
+      "text": "\"Yeah, it's like I'm living separately from them.\""
+    },
+    {
+      "offset": 1815,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「へぇ」",
+      "en": "\"I see.\"",
+      "text": "\"I see.\""
+    },
+    {
+      "offset": 1830,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あまり先輩後輩って間柄のやつはいないので、\nいまいち実感はしづらいな……萌先輩は別格だ\nし。",
+      "en": "I don't really notice feeling senior or junior because I\ndon't have any particular such relationship myself.",
+      "text": "I don't really notice feeling senior or junior because I\ndon't have any particular such relationship myself."
+    },
+    {
+      "offset": 1927,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……そういえば杉並が寂しがってたぞ」",
+      "en": "\"Oh, I remember now. Suginami misses you.\"",
+      "text": "\"Oh, I remember now. Suginami misses you.\""
+    },
+    {
+      "offset": 2000,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「なにそれ」",
+      "en": "\"What does that mean?\"",
+      "text": "\"What does that mean?\""
+    },
+    {
+      "offset": 2019,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「いや、からかう相手がいないって」",
+      "en": "\"He said he doesn't have anybody to tease.\"",
+      "text": "\"He said he doesn't have anybody to tease.\""
+    },
+    {
+      "offset": 2088,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「寂しがらせときなさいよ！」",
+      "en": "\"Let him miss me!\"",
+      "text": "\"Let him miss me!\""
+    },
+    {
+      "offset": 2123,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……俺に怒るなよ」",
+      "en": "\"Don't get angry at me.\"",
+      "text": "\"Don't get angry at me.\""
+    },
+    {
+      "offset": 2150,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なるほど面白い、とか考えつつ、手を闘牛をな\nだめるように広げる。",
+      "en": "Entertained, I spread my arms as if I were calming a\nbullfight.",
+      "text": "Entertained, I spread my arms as if I were calming a\nbullfight."
+    },
+    {
+      "offset": 2248,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あのさ……ひとつだけ失礼なこと聞いてもい\n　い？」",
+      "en": "\"Listen... Can I ask you a rude question?\"",
+      "text": "\"Listen... Can I ask you a rude question?\""
+    },
+    {
+      "offset": 2306,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「失礼なことって？」",
+      "en": "\"Rude question?\"",
+      "text": "\"Rude question?\""
+    },
+    {
+      "offset": 2366,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「うん。ちょっと朝倉の知り合いの噂を確認し\n　たくてさ……それもあんまりいい噂じゃなく\n　て」",
+      "en": "\"Yes. I want to check with you about a bad rumor I heard\nabout your friend.\"",
+      "text": "\"Yes. I want to check with you about a bad rumor I heard\nabout your friend.\""
+    },
+    {
+      "offset": 2465,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "周囲を気にしながら眞子が呟く。",
+      "en": "Mako lowers her voice, worried about her surroundings.",
+      "text": "Mako lowers her voice, worried about her surroundings."
+    },
+    {
+      "offset": 2500,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そういうことに無頓着というより、嫌っている\nこいつにしては珍しいことだ。",
+      "en": "It's rare for her to care about gossip. She usually hates\nit.",
+      "text": "It's rare for her to care about gossip. She usually hates\nit."
+    },
+    {
+      "offset": 2578,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「本当に珍しいな、お前がそういうことに首突っ\n　込むなんて」",
+      "en": "\"I've never seen you stick your neck into gossip before.\"",
+      "text": "\"I've never seen you stick your neck into gossip before.\""
+    },
+    {
+      "offset": 2644,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "別に構わないと、気楽に首をかしげる。",
+      "en": "She shakes her head, saying she doesn't care.",
+      "text": "She shakes her head, saying she doesn't care."
+    },
+    {
+      "offset": 2698,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あのさくらって子いるじゃん。普段はどんな\n　性格してるの？」",
+      "en": "\"You know Sakura, right? What kind of person is she?\"",
+      "text": "\"You know Sakura, right? What kind of person is she?\""
+    },
+    {
+      "offset": 2766,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「さくらのこと？　あー、単純で直球勝負で、\n　からかいがいがありつつ、意外とマメな感じ\n　かな。そうじて子供だ」",
+      "en": "\"Sakura? Oh, she's simple, down-to-earth and a perfect\ntarget for teasing, but a dedicated person, and she's very\nchildish, too.\"",
+      "text": "\"Sakura? Oh, she's simple, down-to-earth and a perfect\ntarget for teasing, but a dedicated person, and she's very\nchildish, too.\""
+    },
+    {
+      "offset": 2894,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「そっか……」",
+      "en": "\"I see.\"",
+      "text": "\"I see.\""
+    },
+    {
+      "offset": 2915,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「やっぱり噂になってる……って、別に失礼で\n　もなんでもないだろう？」",
+      "en": "\"You said a rude question, but that's not rude at all,\nthough.\"",
+      "text": "\"You said a rude question, but that's not rude at all,\nthough.\""
+    },
+    {
+      "offset": 2991,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だが、眞子の眉がさらにハの字になって、目も\n細められる。",
+      "en": "But I see Mako screw up her eyes and frown.",
+      "text": "But I see Mako screw up her eyes and frown."
+    },
+    {
+      "offset": 3064,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あのさ、どうせ耳に入るだろうから言ってお\n　くけど、噂になってるんだよ、あの子のこと」",
+      "en": "\"All right, sooner or later, you'll find out, so I'll tell\nyou now, people are talking about her.\"",
+      "text": "\"All right, sooner or later, you'll find out, so I'll tell\nyou now, people are talking about her.\""
+    },
+    {
+      "offset": 3169,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「自分を笑ったりいじめたりした人に、怪我を\n　させたり、故意に事故を起こしたりしてるっ\n　て……」",
+      "en": "\"Saying that if anyone teases her or laughs at her, she\nmakes them have an accident or inflicts an injury on them on\npurpose.\"",
+      "text": "\"Saying that if anyone teases her or laughs at her, she\nmakes them have an accident or inflicts an injury on them on\npurpose.\""
+    },
+    {
+      "offset": 3272,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「は？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 3287,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あまりにも寝耳に水な話で、いったい誰のこと\nなのかと考えてしまう。",
+      "en": "This is totally out of the blue. I'm not sure who she is\ntalking about.",
+      "text": "This is totally out of the blue. I'm not sure who she is\ntalking about."
+    },
+    {
+      "offset": 3359,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「え……さくら……いや、同じ名前で別人だろ\n　う、それ？」",
+      "en": "\"Uhh... Sakura... No, it must be a different person.\"",
+      "text": "\"Uhh... Sakura... No, it must be a different person.\""
+    },
+    {
+      "offset": 3434,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あの外見で見間違えるわけないでしょ……事\n　故とかの現場で目撃されて、後で名前を調べ\n　たから、そんな間違いじゃない――って」",
+      "en": "\"Everybody can recognize her. She was seen at the site of\nthe accident and they already checked her name. So it's not\na mistake... that's what they say.\"",
+      "text": "\"Everybody can recognize her. She was seen at the site of\nthe accident and they already checked her name. So it's not\na mistake... that's what they say.\""
+    },
+    {
+      "offset": 3567,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それは、どこかで――",
+      "en": "I remember I heard it somewhere...",
+      "text": "I remember I heard it somewhere..."
+    },
+    {
+      "offset": 3625,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "『ほら、バイト帰りに桜の枝が頭にぶつかった、\n　風紀委員の子がいたじゃないですか』",
+      "en": "'Do you remember the girl in the discipline committee who\ngot hurt with a cherry branch on her head on the way home\nfrom her part time job?'",
+      "text": "'Do you remember the girl in the discipline committee who\ngot hurt with a cherry branch on her head on the way home\nfrom her part time job?'"
+    },
+    {
+      "offset": 3761,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「それで、あの子のこと笑ったから、その仕返\n　しだって……」",
+      "en": "\"And that girl laughed at her. They say that's why she did\nit, in revenge.\"",
+      "text": "\"And that girl laughed at her. They say that's why she did\nit, in revenge.\""
+    },
+    {
+      "offset": 3858,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "『いや、それが、バイト中に怒らせちゃったら\n　しいんですよ。子供扱いして』",
+      "en": "'Well I heard she made Sakura angry by treating her like a\nchild at her part-time job.'",
+      "text": "'Well I heard she made Sakura angry by treating her like a\nchild at her part-time job.'"
+    },
+    {
+      "offset": 3986,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あ、あくまで噂よ！　……あたしだって信じ\n　てないよそんなの」",
+      "en": "\"It's only a rumor, okay? I don't wanna believe that,\neither.\"",
+      "text": "\"It's only a rumor, okay? I don't wanna believe that,\neither.\""
+    },
+    {
+      "offset": 4087,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "『だから、自分が頭を打ったときに、桜の木の\n　陰から芳乃先輩がじっと｛にら／睨｝んでたって』",
+      "en": "'And she said when the girl hit her head, Sakura was\nwatching her from behind the cherry tree.'",
+      "text": "'And she said when the girl hit her head, Sakura was\nwatching her from behind the cherry tree.'"
+    },
+    {
+      "offset": 4222,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 4269,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「たださ……なんか今回の噂は、本当の事故と\n　重なってて嫌なんだよ……冗談にならないよ」",
+      "en": "\"I don't like that the rumor went out at the same time the\naccident happened. It's not funny at all.\"",
+      "text": "\"I don't like that the rumor went out at the same time the\naccident happened. It's not funny at all.\""
+    },
+    {
+      "offset": 4374,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「後輩に聞いてさ、そんな証拠もないことで騒\n　ぐなって注意してるんだ。でも、さくらちゃ\n　んは傷ついてるはずだから――」",
+      "en": "\"I've been telling my juniors not to spread that kind of\ngossip without proof. I know Sakura must be hurt by this.\"",
+      "text": "\"I've been telling my juniors not to spread that kind of\ngossip without proof. I know Sakura must be hurt by this.\""
+    },
+    {
+      "offset": 4499,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……ありがとな眞子」",
+      "en": "\"Thanks, Mako.\"",
+      "text": "\"Thanks, Mako.\""
+    },
+    {
+      "offset": 4528,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もういい、と手で言葉をさえぎる。",
+      "en": "I make a gesture telling her that's enough.",
+      "text": "I make a gesture telling her that's enough."
+    },
+    {
+      "offset": 4565,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子にしても、俺の関係者だから、なおさら関\nわらずにはいられなかったのだろう。",
+      "en": "Mako must feel obligated to help me since we are good\nfriends.",
+      "text": "Mako must feel obligated to help me since we are good\nfriends."
+    },
+    {
+      "offset": 4649,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「安心しろ……あいつはそんなことするやつじゃ\n　ない」",
+      "en": "\"Don't worry. She's not that kind of person.\"",
+      "text": "\"Don't worry. She's not that kind of person.\""
+    },
+    {
+      "offset": 4709,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ニヤリと笑う。",
+      "en": "I give a grin.",
+      "text": "I give a grin."
+    },
+    {
+      "offset": 4758,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……うん。分かった」",
+      "en": "\"Okay.\"",
+      "text": "\"Okay.\""
+    },
+    {
+      "offset": 4798,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「学生の噂ってのは、講師じゃどうにもならな\n　いからさ」",
+      "en": "\"A teacher can't do anything about a rumor among the\nstudents.\"",
+      "text": "\"A teacher can't do anything about a rumor among the\nstudents.\""
+    },
+    {
+      "offset": 4874,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どん、と俺の胸を手の甲ではたいて、眞子が去っ\nていく。",
+      "en": "Slapping my chest with the back of her hand, Mako walks\naway.",
+      "text": "Slapping my chest with the back of her hand, Mako walks\naway."
+    },
+    {
+      "offset": 4934,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……そうだな」",
+      "en": "\"She's right.\"",
+      "text": "\"She's right.\""
+    },
+    {
+      "offset": 4957,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子に叩かれて熱くなっている胸をさする。",
+      "en": "I stroke my warm chest that Mako hit.",
+      "text": "I stroke my warm chest that Mako hit."
+    },
+    {
+      "offset": 5002,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "大人と違って、俺達にはそういう噂の証拠なん\nていらないんだな……面白ければ。",
+      "en": "Unlike adults, we don't need any proof of rumors if they're\ninteresting.",
+      "text": "Unlike adults, we don't need any proof of rumors if they're\ninteresting."
+    },
+    {
+      "offset": 5082,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こういうときになって、初めて気づいた。",
+      "en": "I realized something for the first time.",
+      "text": "I realized something for the first time."
+    },
+    {
+      "offset": 5125,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だけど、さくらはまだ俺達と同じで、大人にな\nりきれていないんだ。",
+      "en": "Sakura is still immature, just like us.",
+      "text": "Sakura is still immature, just like us."
+    },
+    {
+      "offset": 5195,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……またなのか？」",
+      "en": "\"Again?\"",
+      "text": "\"Again?\""
+    },
+    {
+      "offset": 5222,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昔、あの頃、さくらと出会った日。",
+      "en": "The day I met Sakura a long time ago.",
+      "text": "The day I met Sakura a long time ago."
+    },
+    {
+      "offset": 5259,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あの日に取り戻した笑顔を、また失うかもしれ\nないなんて。",
+      "en": "I'm afraid that I may not be able to see her smile again\nlike on that day.",
+      "text": "I'm afraid that I may not be able to see her smile again\nlike on that day."
+    },
+    {
+      "offset": 5321,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「繰り返すのか」",
+      "en": "\"...Happen again?\"",
+      "text": "\"...Happen again?\""
+    },
+    {
+      "offset": 5344,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この島に帰ってきて夢を叶えた少女から、その\n代償のように笑顔を奪うのか……。",
+      "en": "How can they take her smile away from the girl who just came\nback and made her dream true in this island?",
+      "text": "How can they take her smile away from the girl who just came\nback and made her dream true in this island?"
+    },
+    {
+      "offset": 5450,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 5499,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "きゃはははは――。",
+      "en": "Hahahaha...",
+      "text": "Hahahaha..."
+    },
+    {
+      "offset": 5522,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "くすくす――。",
+      "en": "Huhhhuhh..",
+      "text": "Huhhhuhh.."
+    },
+    {
+      "offset": 5541,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あはははは――。",
+      "en": "Hahahaha...",
+      "text": "Hahahaha..."
+    },
+    {
+      "offset": 5562,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "笑い声が、俺の横を通り過ぎていく。",
+      "en": "The sound of laughs goes by me.",
+      "text": "The sound of laughs goes by me."
+    },
+    {
+      "offset": 5601,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "怖い無邪気さだった。",
+      "en": "The innocence terrifies me.",
+      "text": "The innocence terrifies me."
+    },
+    {
+      "offset": 5626,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "説得とか、真実とか、誠実さとか――そんなも\nのは関係なしに止められないことが分かってい\nた。",
+      "en": "I know that nobody can take that away by persuasion, truth\nand sincerity.",
+      "text": "I know that nobody can take that away by persuasion, truth\nand sincerity."
+    },
+    {
+      "offset": 5721,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺もそちら側の人間なのだ。",
+      "en": "But I'm on the other side now.",
+      "text": "But I'm on the other side now."
+    },
+    {
+      "offset": 5752,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一度動き出した歯車は止められない。",
+      "en": "You can't stop the gears from turning once they've started.",
+      "text": "You can't stop the gears from turning once they've started."
+    },
+    {
+      "offset": 5791,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "痛感してしまった。",
+      "en": "I've become acutely aware of that.",
+      "text": "I've become acutely aware of that."
+    },
+    {
+      "offset": 5814,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺も、この学園の中ではたったひとりの学生で\nしかないのだ。",
+      "en": "I'm just a student at this school.",
+      "text": "I'm just a student at this school."
+    },
+    {
+      "offset": 5878,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「かったりぃ」",
+      "en": "\"What a pain in the neck!\"",
+      "text": "\"What a pain in the neck!\""
+    },
+    {
+      "offset": 5899,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一度だけ振り返って、俺はいつものように重い\n足取りで家路についた。",
+      "en": "I turn around and head home with a heavy trudge.",
+      "text": "I turn around and head home with a heavy trudge."
+    },
+    {
+      "offset": 6077,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆さくらの噂２◆",
+      "en": "◆The rumor about Sakura 2◆",
+      "text": "◆The rumor about Sakura 2◆"
+    },
+    {
+      "offset": 6126,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "久しぶりに眞子に会い、例のさくらが事故の現\n場にいたという話が、学園中に広まっていると\nいう話を聞く。",
+      "en": "I met Mako after such a long time, and she told me that the\nrumor that Sakura was at the accident scene is all over the\nschool.",
+      "text": "I met Mako after such a long time, and she told me that the\nrumor that Sakura was at the accident scene is all over the\nschool."
+    },
+    {
+      "offset": 6231,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そういう証拠がない中傷が嫌いな眞子は、自分\nでも色々とフォローに回っていてくれているら\nしい。",
+      "en": "Mako was trying to check the rumor, since she didn't believe\nit without evidence.",
+      "text": "Mako was trying to check the rumor, since she didn't believe\nit without evidence."
+    },
+    {
+      "offset": 6328,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな眞子に感謝しつつ、順風満帆だった日常\nに、なにか曇りが見えてきたような気がしてし\nまった。",
+      "en": "I appreciated Mako's effort, but I felt something would\nhappen soon to disturb this smooth sailing.",
+      "text": "I appreciated Mako's effort, but I felt something would\nhappen soon to disturb this smooth sailing."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "334": "Mako",
+    "458": "Mako",
+    "577": "Mako",
+    "732": "Mako",
+    "916": "Mako",
+    "1070": "Mako",
+    "1254": "Mako",
+    "1346": "Mako",
+    "1428": "Mako",
+    "1574": "Mako",
+    "1770": "Mako",
+    "1992": "Mako",
+    "2080": "Mako",
+    "2240": "Mako",
+    "2358": "Mako",
+    "2690": "Mako",
+    "2886": "Mako",
+    "3056": "Mako",
+    "3161": "Mako",
+    "3426": "Mako",
+    "3617": "Miharu",
+    "3753": "Mako",
+    "3850": "Miharu",
+    "3978": "Mako",
+    "4079": "Miharu",
+    "4261": "Mako",
+    "4366": "Mako",
+    "4750": "Mako",
+    "4790": "Mako"
+  }
+}

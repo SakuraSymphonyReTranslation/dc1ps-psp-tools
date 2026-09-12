@@ -1,0 +1,788 @@
+{
+  "scene": "script_0612.obj",
+  "dialogues": [
+    {
+      "offset": 171,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふぅ……」",
+      "en": "\"Sigh......\"",
+      "text": "\"Sigh......\""
+    },
+    {
+      "offset": 190,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "桜並木まで出て軽く伸びをした。",
+      "en": "I walked to the road with cherry trees and stretched.",
+      "text": "I walked to the road with cherry trees and stretched."
+    },
+    {
+      "offset": 225,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "日曜日の入学式ということで、時間も朝早くは\nないおかげで中途半端なまったりな空気が漂っ\nている。",
+      "en": "It's Sunday and not too early in the morning, so the time\nseems to go by slower than usual.",
+      "text": "It's Sunday and not too early in the morning, so the time\nseems to go by slower than usual."
+    },
+    {
+      "offset": 324,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "在校生は基本的に出席しないのか、先に来てい\nるのか知らないが、まばらに登校している奴は\n顔見知りが多い。",
+      "en": "Maybe only the freshmen are supposed to come for the\nentrance ceremony. I recognized a lot of faces of people\nthat are walking toward school.",
+      "text": "Maybe only the freshmen are supposed to come for the\nentrance ceremony. I recognized a lot of faces of people\nthat are walking toward school."
+    },
+    {
+      "offset": 433,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「しかし、男の制服は変わらないんだな」",
+      "en": "\"The boys' uniform is still the same.\"",
+      "text": "\"The boys' uniform is still the same.\""
+    },
+    {
+      "offset": 478,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "面倒じゃなくていいけど。",
+      "en": "It's better than having to buy a new set of uniforms.",
+      "text": "It's better than having to buy a new set of uniforms."
+    },
+    {
+      "offset": 522,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「朝倉くん」",
+      "en": "\"Asakura-kun.\"",
+      "text": "\"Asakura-kun.\""
+    },
+    {
+      "offset": 552,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「朝倉先輩っ！」",
+      "en": "\"Asakura-sempai!\"",
+      "text": "\"Asakura-sempai!\""
+    },
+    {
+      "offset": 575,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「おはよう、ことり」",
+      "en": "\"Good morning, Kotori.\"",
+      "text": "\"Good morning, Kotori.\""
+    },
+    {
+      "offset": 624,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "振り返った先で、ブレザー姿になったことりが\n微笑んでいた。",
+      "en": "I turned around and found Kotori wearing a new uniform\nsmiling at me.",
+      "text": "I turned around and found Kotori wearing a new uniform\nsmiling at me."
+    },
+    {
+      "offset": 688,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「似合うね制服。まぁ、ことりならどんな服を\n　着ても可愛いと思うけど」",
+      "en": "\"You look good in that uniform. I'm sure you'd look good in\nany clothes.\"",
+      "text": "\"You look good in that uniform. I'm sure you'd look good in\nany clothes.\""
+    },
+    {
+      "offset": 794,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そんなことないですよ」",
+      "en": "\"Not at all.\"",
+      "text": "\"Not at all.\""
+    },
+    {
+      "offset": 825,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな健気なことりに似合いそうな服か。",
+      "en": "What kind of clothes would Kotori look good in?",
+      "text": "What kind of clothes would Kotori look good in?"
+    },
+    {
+      "offset": 870,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「メイド服かな……」",
+      "en": "\"How about a French maid costume?\"",
+      "text": "\"How about a French maid costume?\""
+    },
+    {
+      "offset": 930,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あのぉ〜先輩。遠い世界に行くのはいいんで\n　すけど、美春は無視ですか？」",
+      "en": "\"Before you wander off into another world, how about me?\nAren't you ignoring me?\"",
+      "text": "\"Before you wander off into another world, how about me?\nAren't you ignoring me?\""
+    },
+    {
+      "offset": 1010,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「お、美春。元気にしてたか」",
+      "en": "\"Hey, Miharu. How have you been?\"",
+      "text": "\"Hey, Miharu. How have you been?\""
+    },
+    {
+      "offset": 1073,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あ……はい」",
+      "en": "\"Good......\"",
+      "text": "\"Good......\""
+    },
+    {
+      "offset": 1094,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "急に美春が肩を落とす。",
+      "en": "Miharu dropped her shoulders suddenly.",
+      "text": "Miharu dropped her shoulders suddenly."
+    },
+    {
+      "offset": 1123,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや……すまない」",
+      "en": "\"Well...... Sorry.\"",
+      "text": "\"Well...... Sorry.\""
+    },
+    {
+      "offset": 1159,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なにげない日常にしようとしたのに、音夢のこ\nとが思い出されてしまう。",
+      "en": "I try to be casual, but I kept thinking about Nemu.",
+      "text": "I try to be casual, but I kept thinking about Nemu."
+    },
+    {
+      "offset": 1231,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いや、俺は思っていてもいいのだが、やはり美\n春やことりをその空気に巻き込むことはない。",
+      "en": "I guess I can think about whatever I want, but I shouldn't\nhave Miharu and Kotori involved in it.",
+      "text": "I guess I can think about whatever I want, but I shouldn't\nhave Miharu and Kotori involved in it."
+    },
+    {
+      "offset": 1372,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あの、朝倉くん――」",
+      "en": "\"Ah, Asakura-kun......\"",
+      "text": "\"Ah, Asakura-kun......\""
+    },
+    {
+      "offset": 1401,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そういえば、新入生代表の挨拶とかするのっ\n　てやっぱりことりか？」",
+      "en": "\"Oh, are you the one who's giving the address at the\nceremony representing the freshmen?\"",
+      "text": "\"Oh, are you the one who's giving the address at the\nceremony representing the freshmen?\""
+    },
+    {
+      "offset": 1505,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「え、違うよ。私じゃない」",
+      "en": "\"No, not me.\"",
+      "text": "\"No, not me.\""
+    },
+    {
+      "offset": 1538,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「なんだ。ことりなら、挨拶の文章を短くして\n　もらおうと思ったのに」",
+      "en": "\"Oh, I was going to ask you to make it short if you were\ngoing to do it.\"",
+      "text": "\"Oh, I was going to ask you to make it short if you were\ngoing to do it.\""
+    },
+    {
+      "offset": 1612,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「これから宜しくお願いします。では――とか」",
+      "en": "\"Kind of like -- hello everyone, goodbye, or something like\nthat.\"",
+      "text": "\"Kind of like -- hello everyone, goodbye, or something like\nthat.\""
+    },
+    {
+      "offset": 1693,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「なにそれ」",
+      "en": "\"What's that?\"",
+      "text": "\"What's that?\""
+    },
+    {
+      "offset": 1712,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「どうせ誰も聞いてないんだから、絶対にいいっ\n　て」",
+      "en": "\"Nobody listens to it anyways. I think it's a great idea.\"",
+      "text": "\"Nobody listens to it anyways. I think it's a great idea.\""
+    },
+    {
+      "offset": 1798,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1817,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "我慢をしているのだろうが、音夢よりも分かり\nやすく美春がそわそわとしている。",
+      "en": "I think she's trying to hide it, but Miharu's more obvious\nthan Nemu, she's acting restlessly.",
+      "text": "I think she's trying to hide it, but Miharu's more obvious\nthan Nemu, she's acting restlessly."
+    },
+    {
+      "offset": 1899,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1929,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「…………っ」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1950,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぐぐっ、と首を後ろに逸らして、美春が自分の\n身体を抱いている。",
+      "en": "She's tilting her head backward, and holding on to herself.",
+      "text": "She's tilting her head backward, and holding on to herself."
+    },
+    {
+      "offset": 2048,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あはは……朝倉君。私も知りたいかな」",
+      "en": "\"Asakura-kun, I want to know as well.\"",
+      "text": "\"Asakura-kun, I want to know as well.\""
+    },
+    {
+      "offset": 2093,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「分かった分かった」",
+      "en": "\"Okay, okay.\"",
+      "text": "\"Okay, okay.\""
+    },
+    {
+      "offset": 2120,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりのフォローに俺は肩をすくめる。",
+      "en": "Kotori came in to help Miharu, and I shrugged my shoulders.",
+      "text": "Kotori came in to help Miharu, and I shrugged my shoulders."
+    },
+    {
+      "offset": 2191,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あ、ＯＫですか？　音夢先輩の様子はどうな\n　んです？　美春はもう心配で心配で」",
+      "en": "\"Oh, so it's okay to ask now? How's Nemu-sempai? I'm so\nworried about her.\"",
+      "text": "\"Oh, so it's okay to ask now? How's Nemu-sempai? I'm so\nworried about her.\""
+    },
+    {
+      "offset": 2288,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「昨日なんてあんまりにも心配でバナナも３本\n　しか喉を通らず、残った物でもいいから音夢\n　先輩へのお土産にしようと思ったんですよ」",
+      "en": "\"I was so worried I could only eat three bananas yesterday,\nand I thought about bringing the rest for Nemu-sempai!\"",
+      "text": "\"I was so worried I could only eat three bananas yesterday,\nand I thought about bringing the rest for Nemu-sempai!\""
+    },
+    {
+      "offset": 2434,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「でも、朝倉先輩との蜜月っぽいと評判の日々\n　の中に入るのは思わず｛ためら／躊躇｝ってしまった次第\n　で、でも外から覗くくらいはいいかなとか」",
+      "en": "\"But, I heard you and Nemu-sempai are in middle of a\nhoneymoon and I felt bad to bother you two. And I wondered\nif it's okay to look into the house from outside.\"",
+      "text": "\"But, I heard you and Nemu-sempai are in middle of a\nhoneymoon and I felt bad to bother you two. And I wondered\nif it's okay to look into the house from outside.\""
+    },
+    {
+      "offset": 2581,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「とりあえず今は、美春とは正反対に落ち着い\n　てるよ」",
+      "en": "\"She's fine now, and settled, unlike you.\"",
+      "text": "\"She's fine now, and settled, unlike you.\""
+    },
+    {
+      "offset": 2671,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そうなんだ」",
+      "en": "\"She is?\"",
+      "text": "\"She is?\""
+    },
+    {
+      "offset": 2720,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あぅ、とにかく、大丈夫なんですか？」",
+      "en": "\"So, she's okay?\"",
+      "text": "\"So, she's okay?\""
+    },
+    {
+      "offset": 2765,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あぁ……今日はこれないけど、ある程度調子\n　を見て問題なければ復学できるさ」",
+      "en": "\"She can't come today, but we'll see. She'll be able to come\nback if she doesn't have any more problems for a while.\"",
+      "text": "\"She can't come today, but we'll see. She'll be able to come\nback if she doesn't have any more problems for a while.\""
+    },
+    {
+      "offset": 2879,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……そっか」",
+      "en": "\"I see......\"",
+      "text": "\"I see......\""
+    },
+    {
+      "offset": 2900,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ほっ、と胸をなでおろしたことりだが、ふと隣\nに視線を送る。",
+      "en": "Kotori looked relieved and looked beside her.",
+      "text": "Kotori looked relieved and looked beside her."
+    },
+    {
+      "offset": 2992,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「朝倉先輩……じゃあ、音夢先輩は今日、おう\n　ちでお留守番してるんですか？」",
+      "en": "\"So, Nemu-sempai's staying at home today?\"",
+      "text": "\"So, Nemu-sempai's staying at home today?\""
+    },
+    {
+      "offset": 3074,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ん……あぁ」",
+      "en": "\"Yeah......\"",
+      "text": "\"Yeah......\""
+    },
+    {
+      "offset": 3106,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「朝倉先輩……音夢先輩がかわいそうです」",
+      "en": "\"Asakura-sempai...... I feel bad for Nemu-sempai.\"",
+      "text": "\"Asakura-sempai...... I feel bad for Nemu-sempai.\""
+    },
+    {
+      "offset": 3183,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「美春ちゃん……」",
+      "en": "\"Miharu-chan......\"",
+      "text": "\"Miharu-chan......\""
+    },
+    {
+      "offset": 3208,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3227,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんと説明したらいいものか頭をかく。",
+      "en": "I didn't know how to explain.",
+      "text": "I didn't know how to explain."
+    },
+    {
+      "offset": 3270,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あのな美春……色々と事情があるんだが、俺\n　が家に残るほうが音夢にも辛いんだよ」",
+      "en": "\"Miharu...... we all have our circumstances, but it's harder\nfor Nemu if I stay home with her.\"",
+      "text": "\"Miharu...... we all have our circumstances, but it's harder\nfor Nemu if I stay home with her.\""
+    },
+    {
+      "offset": 3369,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「それは分かります。朝倉先輩の気持ちも分か\n　ります」",
+      "en": "\"Yes, I understand that. And I understand your feelings\ntoo.\"",
+      "text": "\"Yes, I understand that. And I understand your feelings\ntoo.\""
+    },
+    {
+      "offset": 3457,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「でも……でも……」",
+      "en": "\"But...... but......\"",
+      "text": "\"But...... but......\""
+    },
+    {
+      "offset": 3484,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「おぃ、美春！？」",
+      "en": "\"Hey, Miharu?\"",
+      "text": "\"Hey, Miharu?\""
+    },
+    {
+      "offset": 3509,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ざわざわ、と周りを通り過ぎていく学生がこち\nらの様子を窺っている。",
+      "en": "The students walking by are looking at us.",
+      "text": "The students walking by are looking at us."
+    },
+    {
+      "offset": 3579,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "これが卒業式ならともかく、入学式で感極まっ\nた後輩とは見てくれないだろう。",
+      "en": "I can make an excuse if this happened on the graduation day,\nbut no one cries on the first day of school.",
+      "text": "I can make an excuse if this happened on the graduation day,\nbut no one cries on the first day of school."
+    },
+    {
+      "offset": 3659,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「この光景をはたから見たとして、どう考える\n　ことり！？」",
+      "en": "\"What would you make out of this situation if you didn't\nknow me?\"",
+      "text": "\"What would you make out of this situation if you didn't\nknow me?\""
+    },
+    {
+      "offset": 3736,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「朝倉くんが泣かしたぁ〜……」",
+      "en": "\"Asakura-kun made her cry......\"",
+      "text": "\"Asakura-kun made her cry......\""
+    },
+    {
+      "offset": 3773,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりが美春の肩を抱きながら二歩下がる。",
+      "en": "Kotori held Miharu's shoulders and stepped backward.",
+      "text": "Kotori held Miharu's shoulders and stepped backward."
+    },
+    {
+      "offset": 3820,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「くそっ……どこかに杉並はいないか！？」",
+      "en": "\"Shit...... Where's Suginami!\"",
+      "text": "\"Shit...... Where's Suginami!\""
+    },
+    {
+      "offset": 3867,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本気で必要な時にいなくて、必要でないときし\nかいない奴だ。",
+      "en": "He's never around when I need him, and he only shows up when\nI don't need him.",
+      "text": "He's never around when I need him, and he only shows up when\nI don't need him."
+    },
+    {
+      "offset": 3959,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「先輩……」",
+      "en": "\"Sempai......\"",
+      "text": "\"Sempai......\""
+    },
+    {
+      "offset": 4008,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「音夢先輩の気持ちを、ほんと〜っに、深く深\n　くマリアナ海溝よりも深く考えましたか？」",
+      "en": "\"Did you really think deeply about how Nemu-sempai really\nfeels? Like deeper than the Mariana trench?\"",
+      "text": "\"Did you really think deeply about how Nemu-sempai really\nfeels? Like deeper than the Mariana trench?\""
+    },
+    {
+      "offset": 4128,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 4156,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「と、美春ちゃんは思いました」",
+      "en": "\"That's what Miharu-chan thought.\"",
+      "text": "\"That's what Miharu-chan thought.\""
+    },
+    {
+      "offset": 4193,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 4223,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「白河先輩？」",
+      "en": "\"Shirakawa-sempai?\"",
+      "text": "\"Shirakawa-sempai?\""
+    },
+    {
+      "offset": 4244,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春の肩に手をおいたまま、ことりは歌うよう\nに呟く。",
+      "en": "Kotori mumbled like she was singing as she held Miharu's\nshoulders.",
+      "text": "Kotori mumbled like she was singing as she held Miharu's\nshoulders."
+    },
+    {
+      "offset": 4315,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「音夢さんは朝倉君が家にいたら、本当に傷つ\n　いたと思う」",
+      "en": "\"I think Nemu-chan would feel bad if Asakura-kun stayed\nhome.\"",
+      "text": "\"I think Nemu-chan would feel bad if Asakura-kun stayed\nhome.\""
+    },
+    {
+      "offset": 4392,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「自分のせいで朝倉くんに迷惑をかけるって、\n　すごく悩むと思う」",
+      "en": "\"And she'd stress about making trouble for him because of\nher......\"",
+      "text": "\"And she'd stress about making trouble for him because of\nher......\""
+    },
+    {
+      "offset": 4475,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「でも、例え傷ついたとしても、好きな人が側\n　にいてくれるのはやっぱり嬉しいと思う」",
+      "en": "\"But, even if she's stressed, she would be happy to have\nsomeone she loves by her side.\"",
+      "text": "\"But, even if she's stressed, she would be happy to have\nsomeone she loves by her side.\""
+    },
+    {
+      "offset": 4578,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ねっ♪」",
+      "en": "\"Right?\"",
+      "text": "\"Right?\""
+    },
+    {
+      "offset": 4595,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ざわっ、と桜が鳴いた。",
+      "en": "The cherry blossoms moved suddenly.",
+      "text": "The cherry blossoms moved suddenly."
+    },
+    {
+      "offset": 4635,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 4673,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "桜並木の中でことりが微笑んでいる。",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 4712,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当に、彼女が学園のアイドルと呼ばれること\nが、どんなに正しいかを理解した。",
+      "en": "Kotori's smiling in the middle of the road with cherry\ntrees.",
+      "text": "Kotori's smiling in the middle of the road with cherry\ntrees."
+    },
+    {
+      "offset": 4794,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺、帰る」",
+      "en": "She's called the idol of this academy, and I realized they\nwere so right about that.",
+      "text": "She's called the idol of this academy, and I realized they\nwere so right about that."
+    },
+    {
+      "offset": 4813,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢を傷つけることになるかも知れない。でも、\nそれでも、俺は音夢と一緒にいたい。",
+      "en": "I'm sure Nemu would refuse if I offered to stay with her,\nbut she would......",
+      "text": "I'm sure Nemu would refuse if I offered to stay with her,\nbut she would......"
+    },
+    {
+      "offset": 4897,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、俺がつけた傷なら、一生かけて癒して\nいこう。",
+      "en": "Smile and be happy at the end.",
+      "text": "Smile and be happy at the end."
+    },
+    {
+      "offset": 4953,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それはきっと、音夢だって同じはずだ。",
+      "en": "\"I'm going home.\"",
+      "text": "\"I'm going home.\""
+    },
+    {
+      "offset": 5059,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「朝倉先輩！」",
+      "en": "\"Asakura-sempai!\"",
+      "text": "\"Asakura-sempai!\""
+    },
+    {
+      "offset": 5080,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "わんこも驚くほどの歓喜をあげる美春。",
+      "en": "I pointed at her as Miharu raised her voice with joy.",
+      "text": "I pointed at her as Miharu raised her voice with joy."
+    },
+    {
+      "offset": 5121,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はビシッと指差した。",
+      "en": "\"Don't get me wrong, Miharu! I'm going home because I'm\nreally tired!\"",
+      "text": "\"Don't get me wrong, Miharu! I'm going home because I'm\nreally tired!\""
+    },
+    {
+      "offset": 5229,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「お疲れさまです！」",
+      "en": "\"Are you that tired?\"",
+      "text": "\"Are you that tired?\""
+    },
+    {
+      "offset": 5256,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「疲れたくないから帰るんだ！」",
+      "en": "\"I'm going home, because I don't want to get more tired!\"",
+      "text": "\"I'm going home, because I don't want to get more tired!\""
+    },
+    {
+      "offset": 5293,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "学園に集まる波に逆らいながら、何度も振り返っ\nて美春を追い払うように手を振る。",
+      "en": "I waved at Miharu like I was trying to get rid of her,\nturning around many times, as I walked against the crowd who\nare going to school.",
+      "text": "I waved at Miharu like I was trying to get rid of her,\nturning around many times, as I walked against the crowd who\nare going to school."
+    },
+    {
+      "offset": 5407,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「うふふふふ……」",
+      "en": "\"Teeheehee......\"",
+      "text": "\"Teeheehee......\""
+    },
+    {
+      "offset": 5432,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見たくは無かったのに、ギリギリのところでこ\nとりの顔を見てしまった。",
+      "en": "I didn't want to see it, but I happened to see how Kotori\nlooked at the last moment.",
+      "text": "I didn't want to see it, but I happened to see how Kotori\nlooked at the last moment."
+    },
+    {
+      "offset": 5626,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆ことりの言葉◆",
+      "en": "◆What Kotori said◆",
+      "text": "◆What Kotori said◆"
+    },
+    {
+      "offset": 5679,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "久しぶりに制服を着込み、久しぶりに通学路を\n歩く。なんだか、いつもの日常に戻ってきてし\nまったかのような感覚。",
+      "en": "I put on the uniform for the first time in a while and\nwalked the road to school.It felt like I was returning to\nthe usual everyday life.",
+      "text": "I put on the uniform for the first time in a while and\nwalked the road to school.It felt like I was returning to\nthe usual everyday life."
+    },
+    {
+      "offset": 5792,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな時、ことりと出会い話をすると、どんな\nに笑っていても、音夢ちゃんは寂しいだろうね\n――と言われる。",
+      "en": "Then, I talked with Kotori and she mentioned how sad Nemu\nwould be alone even if she was smiling.",
+      "text": "Then, I talked with Kotori and she mentioned how sad Nemu\nwould be alone even if she was smiling."
+    },
+    {
+      "offset": 5899,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その言葉に後押しされるように、俺は学園では\nなく家に向かって足を踏み出した。",
+      "en": "I decided to go back home instead of going to school, as she\nhelped me understand how Nemu really felt.",
+      "text": "I decided to go back home instead of going to school, as she\nhelped me understand how Nemu really felt."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "512": "Kotori",
+    "544": "Miharu",
+    "784": "Kotori",
+    "922": "Miharu",
+    "1065": "Miharu",
+    "1362": "Kotori",
+    "1495": "Kotori",
+    "1683": "Kotori",
+    "1790": "Miharu",
+    "1921": "Miharu",
+    "2038": "Kotori",
+    "2183": "Miharu",
+    "2280": "Miharu",
+    "2426": "Miharu",
+    "2661": "Kotori",
+    "2712": "Miharu",
+    "2869": "Kotori",
+    "2984": "Miharu",
+    "3098": "Miharu",
+    "3173": "Kotori",
+    "3361": "Miharu",
+    "3449": "Miharu",
+    "3726": "Kotori",
+    "3951": "Miharu",
+    "3998": "Kotori",
+    "4120": "Miharu",
+    "4146": "Kotori",
+    "4215": "Miharu",
+    "4305": "Kotori",
+    "4382": "Kotori",
+    "4465": "Kotori",
+    "4568": "Kotori",
+    "4627": "Miharu",
+    "5051": "Miharu",
+    "5221": "Miharu",
+    "5397": "Kotori"
+  }
+}

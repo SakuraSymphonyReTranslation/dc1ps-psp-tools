@@ -1,0 +1,799 @@
+{
+  "scene": "script_0626.obj",
+  "dialogues": [
+    {
+      "offset": 186,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「えっ、じゃあ、本当にさくらちゃん先生になっ\n　ちゃったの？」",
+      "en": "\"So, you really became a teacher?\"",
+      "text": "\"So, you really became a teacher?\""
+    },
+    {
+      "offset": 254,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ソファーから身を起こして音夢が驚く。",
+      "en": "Nemu's surprised as she gets up from the couch.",
+      "text": "Nemu's surprised as she gets up from the couch."
+    },
+    {
+      "offset": 310,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「Ｙｅｓ！」",
+      "en": "\"All right!\"",
+      "text": "\"All right!\""
+    },
+    {
+      "offset": 329,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "台所で鍋を温めながら、さくらが鼻歌がまじり\nそうな勢いで頷いていた。",
+      "en": "Sakura nods, humming a tune and warming the pot in the\nkitchen.",
+      "text": "Sakura nods, humming a tune and warming the pot in the\nkitchen."
+    },
+    {
+      "offset": 431,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うわぁ、すごい、法律ってどうなってるの？」",
+      "en": "\"Whoa, what about the regulation?\"",
+      "text": "\"Whoa, what about the regulation?\""
+    },
+    {
+      "offset": 482,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「お前、現実的だな……」",
+      "en": "\"You're so practical.\"",
+      "text": "\"You're so practical.\""
+    },
+    {
+      "offset": 513,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "向かいのソファーで料理の匂いに空腹を覚えつ\nつ、小さくため息をつく。",
+      "en": "I give a little sigh while feeling hungry on the couch.",
+      "text": "I give a little sigh while feeling hungry on the couch."
+    },
+    {
+      "offset": 585,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらのお祝いをしてやろうと思って呼んだの\nだが、いかんせん、主催者の俺がだるくなって\nいる。",
+      "en": "I invited Sakura to the celebration, but I, as the host, am\nalready getting tired.",
+      "text": "I invited Sakura to the celebration, but I, as the host, am\nalready getting tired."
+    },
+    {
+      "offset": 682,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と言うか、主催者側が食事を作れず、祝われる\nさくらが料理している時点で終わっている気が\nしなくもない。",
+      "en": "The host can't cook, so the guest of honor is cooking.\nThere's something wrong with that picture, isn't there?",
+      "text": "The host can't cook, so the guest of honor is cooking.\nThere's something wrong with that picture, isn't there?"
+    },
+    {
+      "offset": 787,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まぁ、俺がだらけているのは音夢のハイテンショ\nンのせいだろう。",
+      "en": "The reason why I feel lazy is because Nemu is hyper, I\nthink.",
+      "text": "The reason why I feel lazy is because Nemu is hyper, I\nthink."
+    },
+    {
+      "offset": 853,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "周囲に盛り上がった人間がいると、誰かが代わ\nりに冷静になるという現象だ……なにかの本で\n読んだ。",
+      "en": "I read about this phenomenon in a book, which said that when\none person's extremely upbeat, the other becomes quiet.",
+      "text": "I read about this phenomenon in a book, which said that when\none person's extremely upbeat, the other becomes quiet."
+    },
+    {
+      "offset": 982,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だって、同い年の講師なんて普通いないよ！？\n　新聞とかテレビが来るかな？」",
+      "en": "\"Normally, a teacher isn't the same age as their students!\nIt'll be big news on TV, don't you think?\"",
+      "text": "\"Normally, a teacher isn't the same age as their students!\nIt'll be big news on TV, don't you think?\""
+    },
+    {
+      "offset": 1064,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「｛うち／風見｝がいつから普通になったんだよ……元よ\n　り私学だから関係ないだろう」",
+      "en": "\"Since when has Kazami Academy been normal? This is a\nprivate school, so I think it doesn't matter.\"",
+      "text": "\"Since when has Kazami Academy been normal? This is a\nprivate school, so I think it doesn't matter.\""
+    },
+    {
+      "offset": 1182,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そうだけどさぁ、でも、普通じゃないよ？」",
+      "en": "\"I know that, but it's not right.\"",
+      "text": "\"I know that, but it's not right.\""
+    },
+    {
+      "offset": 1277,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あくまでゲスト講師ってことで押し通してる\n　みたいだけど？」",
+      "en": "\"Apparently they'll keep me around as a guest teacher.\"",
+      "text": "\"Apparently they'll keep me around as a guest teacher.\""
+    },
+    {
+      "offset": 1345,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことこと、と皿を並べてさくらもソファーにつ\nく。",
+      "en": "Sakura puts the plates on the table and sits down on the\ncouch.",
+      "text": "Sakura puts the plates on the table and sits down on the\ncouch."
+    },
+    {
+      "offset": 1397,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "品目はご飯と味噌汁、焼き魚など、パーティー\nには不向きなものだが、さくらが自由に料理し\nている時点で文句はない。",
+      "en": "The menu is steamed rice, miso soup and grilled fish.\nThey're not exactly party food, but I have no complaints\nbecause Sakura cooked them.",
+      "text": "The menu is steamed rice, miso soup and grilled fish.\nThey're not exactly party food, but I have no complaints\nbecause Sakura cooked them."
+    },
+    {
+      "offset": 1542,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うわぁ、生じゃない魚だぁ♪」",
+      "en": "\"Whoa, that's not a raw fish.\"",
+      "text": "\"Whoa, that's not a raw fish.\""
+    },
+    {
+      "offset": 1579,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うん、美味そうだな」",
+      "en": "\"Yeah, it looks delicious.\"",
+      "text": "\"Yeah, it looks delicious.\""
+    },
+    {
+      "offset": 1638,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……あ、あのさ、ふたりとも焼き魚くらい作\n　れるよね？」",
+      "en": "\"Uh..., you can at least grill a fish, can't you?\"",
+      "text": "\"Uh..., you can at least grill a fish, can't you?\""
+    },
+    {
+      "offset": 1702,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらが首をかしげる。",
+      "en": "Sakura tilts her head.",
+      "text": "Sakura tilts her head."
+    },
+    {
+      "offset": 1731,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺は魚を黒くするのが得意だ」",
+      "en": "\"I'm good at burning fishes.\"",
+      "text": "\"I'm good at burning fishes.\""
+    },
+    {
+      "offset": 1796,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「私が魚を焼くと、どうしても家中が煙だらけ\n　になるの。消防車を呼ばれちゃうでしょ？」",
+      "en": "\"When I grill a fish, the house gets filled with smoke. We\ndon't want to bother the firefighters, do we?\"",
+      "text": "\"When I grill a fish, the house gets filled with smoke. We\ndon't want to bother the firefighters, do we?\""
+    },
+    {
+      "offset": 1888,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「味噌汁は薄くなるか濃くなるかだな」",
+      "en": "\"My miso soup is always too thin or too thick.\"",
+      "text": "\"My miso soup is always too thin or too thick.\""
+    },
+    {
+      "offset": 1959,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「う〜……あ、でもご飯はちゃんと炊けるよう\n　になったよ私♪」",
+      "en": "\"Um... But, I can cook delicious rice.\"",
+      "text": "\"Um... But, I can cook delicious rice.\""
+    },
+    {
+      "offset": 2027,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うむ。成長したな俺達も」",
+      "en": "\"Hm, we improved, didn't we?\"",
+      "text": "\"Hm, we improved, didn't we?\""
+    },
+    {
+      "offset": 2090,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あにゃ〜」",
+      "en": "\"Anyaa...\"",
+      "text": "\"Anyaa...\""
+    },
+    {
+      "offset": 2109,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2139,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2171,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2262,
+      "speaker": "Junichi, Nemu & Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「いただきま〜す」",
+      "en": "\"Let's eat!\"",
+      "text": "\"Let's eat!\""
+    },
+    {
+      "offset": 2380,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 2428,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ご馳走様でした」",
+      "en": "\"Thank you for the food.\"",
+      "text": "\"Thank you for the food.\""
+    },
+    {
+      "offset": 2453,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一番最後に音夢が箸を置いて手を合わせる。",
+      "en": "Nemu finishes last, and she puts down the chopsticks to join\nher hands together.",
+      "text": "Nemu finishes last, and she puts down the chopsticks to join\nher hands together."
+    },
+    {
+      "offset": 2500,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「うむ」",
+      "en": "\"Hm.\"",
+      "text": "\"Hm.\""
+    },
+    {
+      "offset": 2515,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "久しぶりに、電子レンジ以外で加熱した食品を\n食べた。",
+      "en": "It's been a while since we ate real home-made food. Our\nusual cooking method is a microwave oven.",
+      "text": "It's been a while since we ate real home-made food. Our\nusual cooking method is a microwave oven."
+    },
+    {
+      "offset": 2619,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「お粗末様でした。ちょっと多めに作ったから、\n　音夢ちゃん明日のお昼にでも食べて食べて♪」",
+      "en": "\"I hope you enjoyed my food, anyway. I made more than\nenough, so please eat the rest of it for lunch tomorrow,\nNemu-chan.\"",
+      "text": "\"I hope you enjoyed my food, anyway. I made more than\nenough, so please eat the rest of it for lunch tomorrow,\nNemu-chan.\""
+    },
+    {
+      "offset": 2743,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うん。ありがとう」",
+      "en": "\"Okay, thanks.\"",
+      "text": "\"Okay, thanks.\""
+    },
+    {
+      "offset": 2770,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「じゃ、デザートでも作りますか」",
+      "en": "\"Well then, let's make some dessert.\"",
+      "text": "\"Well then, let's make some dessert.\""
+    },
+    {
+      "offset": 2809,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "拳を握ってふたりに見せる。",
+      "en": "I make a fist and show it to them.",
+      "text": "I make a fist and show it to them."
+    },
+    {
+      "offset": 2853,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、さっぱりしたものがいいな」",
+      "en": "\"I'd like something light.\"",
+      "text": "\"I'd like something light.\""
+    },
+    {
+      "offset": 2922,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ボクも〜」",
+      "en": "\"Me too.\"",
+      "text": "\"Me too.\""
+    },
+    {
+      "offset": 2941,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ん、そうか？」",
+      "en": "\"Really?\"",
+      "text": "\"Really?\""
+    },
+    {
+      "offset": 2964,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少し考えて、あるモノに挑戦しようと思った。",
+      "en": "Thinking for a little while, I decide what I should make.",
+      "text": "Thinking for a little while, I decide what I should make."
+    },
+    {
+      "offset": 3011,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ご飯茶碗をひきよせて、その上で手を軽く握り\nながらイメージを浮かべる。",
+      "en": "I move my rice bowl out of the way, trying to get the image\nof it by squeezing my hand over it.",
+      "text": "I move my rice bowl out of the way, trying to get the image\nof it by squeezing my hand over it."
+    },
+    {
+      "offset": 3087,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「う〜ん」",
+      "en": "\"Hmm...\"",
+      "text": "\"Hmm...\""
+    },
+    {
+      "offset": 3104,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いまいち細部を想像しづらい和菓子だ。",
+      "en": "This Japanese snack is very hard to imagine precisely.",
+      "text": "This Japanese snack is very hard to imagine precisely."
+    },
+    {
+      "offset": 3175,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さん……なに作ってるの？」",
+      "en": "\"What are you going to make, niisan?\"",
+      "text": "\"What are you going to make, niisan?\""
+    },
+    {
+      "offset": 3212,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ん」",
+      "en": "\"Hm.\"",
+      "text": "\"Hm.\""
+    },
+    {
+      "offset": 3225,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、手の中にニュルニュルとした感覚が生まれ\nる。",
+      "en": "And then, I feel something slimy in my hands.",
+      "text": "And then, I feel something slimy in my hands."
+    },
+    {
+      "offset": 3279,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「くずきり」",
+      "en": "\"Cold noodles.\"",
+      "text": "\"Cold noodles.\""
+    },
+    {
+      "offset": 3326,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「流しに捨ててきなさい！」",
+      "en": "\"Throw them in the sink!\"",
+      "text": "\"Throw them in the sink!\""
+    },
+    {
+      "offset": 3359,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……はい」",
+      "en": "\"Okay...\"",
+      "text": "\"Okay...\""
+    },
+    {
+      "offset": 3412,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだか俺も、手のひらを開くのが怖くてその\nまま台所にくずきりを捨てにいった。",
+      "en": "Feeling terrified to open my hand, I walk straight to the\nsink to throw them away.",
+      "text": "Feeling terrified to open my hand, I walk straight to the\nsink to throw them away."
+    },
+    {
+      "offset": 3560,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「でもさ、どうして先生になりたかったの？」",
+      "en": "\"Anyway, why did you want to be a teacher?\"",
+      "text": "\"Anyway, why did you want to be a teacher?\""
+    },
+    {
+      "offset": 3609,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "帰ってくると話題が変わっていた。多分、くず\nきりよりは無難な話なのだろう。",
+      "en": "When I come back, the topic's changed. It must be a better\nsubject than cold noodles.",
+      "text": "When I come back, the topic's changed. It must be a better\nsubject than cold noodles."
+    },
+    {
+      "offset": 3689,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「夢だったんだって」",
+      "en": "\"That was her dream.\"",
+      "text": "\"That was her dream.\""
+    },
+    {
+      "offset": 3727,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「夢？」",
+      "en": "\"Dream?\"",
+      "text": "\"Dream?\""
+    },
+    {
+      "offset": 3772,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そうだよ」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 3791,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「音夢だって看護師になりたいって黙ってただ\n　ろうが」",
+      "en": "\"You didn't tell us that you wanted to be a nurse, did you?\"",
+      "text": "\"You didn't tell us that you wanted to be a nurse, did you?\""
+    },
+    {
+      "offset": 3851,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ソファーに座りなおして呟く。",
+      "en": "I say, sitting down on the couch again.",
+      "text": "I say, sitting down on the couch again."
+    },
+    {
+      "offset": 3925,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「わっ！」",
+      "en": "\"Waaah!\"",
+      "text": "\"Waaah!\""
+    },
+    {
+      "offset": 3972,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そうなの音夢ちゃん♪　白衣の天使様♪」",
+      "en": "\"Is that true, Nemu-chan? An angel in white...\"",
+      "text": "\"Is that true, Nemu-chan? An angel in white...\""
+    },
+    {
+      "offset": 4050,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「やめてよふたりとも。夢とかじゃなくて、な\n　りたいかな――って思ってるぐらいのものな\n　んだから」",
+      "en": "\"Stop it, guys. It's not a dream -- well, it's a kind of\nwish.\"",
+      "text": "\"Stop it, guys. It's not a dream -- well, it's a kind of\nwish.\""
+    },
+    {
+      "offset": 4185,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「なれるなれる！　音夢ちゃんなら絶対にいい\n　看護師さんになれるよ！」",
+      "en": "\"You can do it! You could be a great nurse for sure!\"",
+      "text": "\"You can do it! You could be a great nurse for sure!\""
+    },
+    {
+      "offset": 4261,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ま、料理人よりはマシだな」",
+      "en": "\"Well, it's better than becoming a chef.\"",
+      "text": "\"Well, it's better than becoming a chef.\""
+    },
+    {
+      "offset": 4296,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぼそり、と呟いて、少々おきすぎてしまった急\n須からお茶を注ぐ。",
+      "en": "Muttering, I pour the tea from the teapot.",
+      "text": "Muttering, I pour the tea from the teapot."
+    },
+    {
+      "offset": 4392,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「う〜……あ、でも、さくらはどうして先生に\n　なりたくなったの？」",
+      "en": "\"Uhhh... why did you want to become a teacher, Sakura?\"",
+      "text": "\"Uhhh... why did you want to become a teacher, Sakura?\""
+    },
+    {
+      "offset": 4464,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「夢だからだろ？」",
+      "en": "\"She said it was her dream, didn't she?\"",
+      "text": "\"She said it was her dream, didn't she?\""
+    },
+    {
+      "offset": 4517,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「原因だよ。なんか好きだったとか、興味を持っ\n　た理由」",
+      "en": "\"I mean the reason. What made her want to be a teacher?\"",
+      "text": "\"I mean the reason. What made her want to be a teacher?\""
+    },
+    {
+      "offset": 4609,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あにゃ〜」",
+      "en": "\"Anyaah...\"",
+      "text": "\"Anyaah...\""
+    },
+    {
+      "offset": 4658,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「いや、昔見たテレビの先生がかっこ良かった\n　んだよ。問題抱えててもがんばってる姿が」",
+      "en": "\"Actually, the teacher in a TV program I saw was so cool. I\nliked her positive attitude, even thought she had so many\ntroubles.\"",
+      "text": "\"Actually, the teacher in a TV program I saw was so cool. I\nliked her positive attitude, even thought she had so many\ntroubles.\""
+    },
+    {
+      "offset": 4761,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ふ〜ん」",
+      "en": "\"I see.\"",
+      "text": "\"I see.\""
+    },
+    {
+      "offset": 4778,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢が意外に普通の答えだね、と頷くが、俺も\n同じ意見だった。",
+      "en": "Nemu nods, as if to say it was a very ordinary answer. I\nthink so, too.",
+      "text": "Nemu nods, as if to say it was a very ordinary answer. I\nthink so, too."
+    },
+    {
+      "offset": 4874,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あ、ねぇ、お兄ちゃん」",
+      "en": "\"Hey, oniichan.\"",
+      "text": "\"Hey, oniichan.\""
+    },
+    {
+      "offset": 4905,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「なんだ？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 4954,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「明日から、一緒に学校に行こうよ♪」",
+      "en": "\"We can go to school together again.\"",
+      "text": "\"We can go to school together again.\""
+    },
+    {
+      "offset": 4997,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 5012,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "呟いて、なぜか音夢のほうを見てしまう。",
+      "en": "Startled, I involuntarily look at Nemu.",
+      "text": "Startled, I involuntarily look at Nemu."
+    },
+    {
+      "offset": 5085,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あははは。私は構わないよ」",
+      "en": "\"Hahahaha, I don't mind.\"",
+      "text": "\"Hahahaha, I don't mind.\""
+    },
+    {
+      "offset": 5120,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え、あ、うん……」",
+      "en": "\"Uhh, yeah...\"",
+      "text": "\"Uhh, yeah...\""
+    },
+    {
+      "offset": 5147,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まぁ、別に拒否する理由もないか。",
+      "en": "Well, there is no reason to refuse.",
+      "text": "Well, there is no reason to refuse."
+    },
+    {
+      "offset": 5186,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「分かったよ」",
+      "en": "\"All right.\"",
+      "text": "\"All right.\""
+    },
+    {
+      "offset": 5237,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「Ｒｅａｌｌｙ？」",
+      "en": "\"Really?\"",
+      "text": "\"Really?\""
+    },
+    {
+      "offset": 5262,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そのかわり……学園では公私混同はなしだぞ」",
+      "en": "\"But in exchange... You don't mix private and public matters\nat school.\"",
+      "text": "\"But in exchange... You don't mix private and public matters\nat school.\""
+    },
+    {
+      "offset": 5343,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「は〜い♪」",
+      "en": "\"Okay!\"",
+      "text": "\"Okay!\""
+    },
+    {
+      "offset": 5362,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらはそれこそ、学生と同じようなノリで手\nを挙げて喜ぶ。",
+      "en": "Sakura's very excited, raising her hands like a student.",
+      "text": "Sakura's very excited, raising her hands like a student."
+    },
+    {
+      "offset": 5454,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「がんばってね、｛・・・・・／お兄ちゃん｝」",
+      "en": "\"Good luck, 'oniichan'.\"",
+      "text": "\"Good luck, 'oniichan'.\""
+    },
+    {
+      "offset": 5505,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「まぁ、大変だろうけどな」",
+      "en": "\"I know it's not gonna be easy.\"",
+      "text": "\"I know it's not gonna be easy.\""
+    },
+    {
+      "offset": 5538,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "兄妹でちょっとしたコンタクトをとりつつ、さ\nくらの笑顔に思わず頬がゆるんだ。",
+      "en": "We exchange glances, a brother and a sister made happy by\nSakura's smile.",
+      "text": "We exchange glances, a brother and a sister made happy by\nSakura's smile."
+    },
+    {
+      "offset": 5722,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆団欒のひと時◆",
+      "en": "◆Enjoying each other's company◆",
+      "text": "◆Enjoying each other's company◆"
+    },
+    {
+      "offset": 5769,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらの夢が叶った祝いをかねて、音夢と３人\nで夕食を一緒に食べる。",
+      "en": "The three of us ate dinner together to celebrate Sakura\ngetting the job she'd dreamed of.",
+      "text": "The three of us ate dinner together to celebrate Sakura\ngetting the job she'd dreamed of."
+    },
+    {
+      "offset": 5839,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢も機嫌よく、さくらから看護師になれるよ\nと励まされる。",
+      "en": "Nemu was in a good mood, and Sakura encouraged her that she\nwill be a nurse someday.",
+      "text": "Nemu was in a good mood, and Sakura encouraged her that she\nwill be a nurse someday."
+    },
+    {
+      "offset": 5901,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "これから先の学園生活は大変だろうけど、なぜ\nか面白いこともありそうな俺だった。",
+      "en": "I know there'll be some chaos but also fun stuff waiting for\nus in our campus life.",
+      "text": "I know there'll be some chaos but also fun stuff waiting for\nus in our campus life."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "178": "Nemu",
+    "300": "Sakura",
+    "423": "Nemu",
+    "974": "Nemu",
+    "1174": "Nemu",
+    "1267": "Sakura",
+    "1534": "Nemu",
+    "1628": "Sakura",
+    "1788": "Nemu",
+    "1951": "Nemu",
+    "2080": "Sakura",
+    "2131": "Nemu",
+    "2161": "Sakura",
+    "2252": "Junichi, Nemu & Sakura",
+    "2420": "Nemu",
+    "2609": "Sakura",
+    "2735": "Nemu",
+    "2845": "Nemu",
+    "2912": "Sakura",
+    "3167": "Nemu",
+    "3318": "Nemu",
+    "3552": "Nemu",
+    "3719": "Nemu",
+    "3762": "Sakura",
+    "3917": "Nemu",
+    "3962": "Sakura",
+    "4042": "Nemu",
+    "4175": "Sakura",
+    "4384": "Nemu",
+    "4509": "Nemu",
+    "4599": "Sakura",
+    "4648": "Sakura",
+    "4753": "Nemu",
+    "4864": "Sakura",
+    "4944": "Sakura",
+    "5077": "Nemu",
+    "5227": "Sakura",
+    "5333": "Sakura",
+    "5446": "Nemu"
+  }
+}

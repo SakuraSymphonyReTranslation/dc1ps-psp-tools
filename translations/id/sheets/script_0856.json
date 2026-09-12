@@ -1,0 +1,724 @@
+{
+  "scene": "script_0856.obj",
+  "dialogues": [
+    {
+      "offset": 211,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……さて、次は体育か。",
+      "en": "...Let's see, next is gym class.",
+      "text": "...Let's see, next is gym class."
+    },
+    {
+      "offset": 238,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "休み時間に入ると、俺は気合を入れて席を立ち\n上がった。",
+      "en": "As we entered the break period, I gathered my guts and stood\nup.",
+      "text": "As we entered the break period, I gathered my guts and stood\nup."
+    },
+    {
+      "offset": 298,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ほらほら、おまえらとっとと出てけ！」",
+      "en": "\"Alright you guys, get outta here!\"",
+      "text": "\"Alright you guys, get outta here!\""
+    },
+    {
+      "offset": 343,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつものように男連中の背を強引に押して教室\nから追い出す。",
+      "en": "As usual, I chase the other guys out of the classroom.",
+      "text": "As usual, I chase the other guys out of the classroom."
+    },
+    {
+      "offset": 415,
+      "speaker": "Male A",
+      "speaker_jp": "男子Ａ",
+      "jp": "「あー、まーた始まった」",
+      "en": "\"Gaah, it starts.\"",
+      "text": "\"Gaah, it starts.\""
+    },
+    {
+      "offset": 446,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ここしばらく体育の時間には決まって繰り返さ\nれる俺の行動に、男子連中は呆れ笑いを浮かべ\nている。",
+      "en": "The other male students shook their heads in amazement as I\nhurried them out.",
+      "text": "The other male students shook their heads in amazement as I\nhurried them out."
+    },
+    {
+      "offset": 555,
+      "speaker": "Male B",
+      "speaker_jp": "男子Ｂ",
+      "jp": "「そんなに王子様を独り占めしたいかねー」",
+      "en": "\"Don't keep the prince all to yourself~\"",
+      "text": "\"Don't keep the prince all to yourself~\""
+    },
+    {
+      "offset": 602,
+      "speaker": "Male B",
+      "speaker_jp": "男子Ｂ",
+      "jp": "「ふふふッ、何とでもいうがよい、はい行った\n　行った」",
+      "en": "\"Hahaha, say whatever you want, just keep moving.\"",
+      "text": "\"Hahaha, say whatever you want, just keep moving.\""
+    },
+    {
+      "offset": 662,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "蹴出すようにしてなんとか全員追い出した。こ\nれで一安心だ。",
+      "en": "I finally kicked out the last of the stragglers, and\nbreathed a sigh of relief.",
+      "text": "I finally kicked out the last of the stragglers, and\nbreathed a sigh of relief."
+    },
+    {
+      "offset": 726,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はい、邪魔者たちは追い出したぞ」",
+      "en": "\"Okay, the nuisances are gone.\"",
+      "text": "\"Okay, the nuisances are gone.\""
+    },
+    {
+      "offset": 800,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「朝倉君…………やりすぎだってば……」",
+      "en": "\"Asakura... that's rather excessive...\"",
+      "text": "\"Asakura... that's rather excessive...\""
+    },
+    {
+      "offset": 845,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "工藤は困ったように俺を見る。",
+      "en": "Kudou glanced at me worryingly.",
+      "text": "Kudou glanced at me worryingly."
+    },
+    {
+      "offset": 880,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「これくらいが丁度いいんだよ、あいつらは飢\n　えた狼なんだから」",
+      "en": "\"Nah, it was needed. Those guys are like starving wolves.\"",
+      "text": "\"Nah, it was needed. Those guys are like starving wolves.\""
+    },
+    {
+      "offset": 950,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それでなくても最近可愛いくなったと評判なの\nに、飢えた狼の群れの中で、着替えるなんて、\nいくらなんでも危険すぎる。",
+      "en": "With all the rumours about us flying about, and with those\ngossipers out there, it would be far too dangerous.",
+      "text": "With all the rumours about us flying about, and with those\ngossipers out there, it would be far too dangerous."
+    },
+    {
+      "offset": 1067,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の目の黒いうちはそんなこと、工藤にさせる\nわけにはいかない。",
+      "en": "I wouldn't let us undergo that, I thought, as I turned my\nhead to face her.",
+      "text": "I wouldn't let us undergo that, I thought, as I turned my\nhead to face her."
+    },
+    {
+      "offset": 1135,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「それしても、……よくいままで無事だったよ\n　な」",
+      "en": "\"Although... you've done well to not be noticed at all.\"",
+      "text": "\"Although... you've done well to not be noticed at all.\""
+    },
+    {
+      "offset": 1219,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「……隅っこのほうで、目立たないようにぱっ\n　と着替えてたから」",
+      "en": "\"...I go to the corner and change quickly, so that I don't\nstand out.\"",
+      "text": "\"...I go to the corner and change quickly, so that I don't\nstand out.\""
+    },
+    {
+      "offset": 1289,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "工藤は恥ずかしそうに小声で答える。",
+      "en": "Kudou whispered in a tiny voice.",
+      "text": "Kudou whispered in a tiny voice."
+    },
+    {
+      "offset": 1330,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（………………うーん）",
+      "en": "\"(..........Oh.)\"",
+      "text": "\"(..........Oh.)\""
+    },
+    {
+      "offset": 1359,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そ、そーか……目立たないようにして気づかれ\nなければ別に危険はないわけであって……。",
+      "en": "T, that's true... what I've done now has basically made us\nstand out even more...",
+      "text": "T, that's true... what I've done now has basically made us\nstand out even more..."
+    },
+    {
+      "offset": 1449,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（…………もしかしてやっちまったか？　俺？）",
+      "en": "\"(......Did I just do something stupid?)\"",
+      "text": "\"(......Did I just do something stupid?)\""
+    },
+    {
+      "offset": 1500,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「コホン……と、とにかく遠慮せずに着替えろ\n　よ。早くしないと授業が始まるぞ」",
+      "en": "\"Ahem... a, anyway, you should change quickly. Gym's going\nto start soon.\"",
+      "text": "\"Ahem... a, anyway, you should change quickly. Gym's going\nto start soon.\""
+    },
+    {
+      "offset": 1584,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "話を逸らすように工藤を促した。",
+      "en": "I quickly changed the subject.",
+      "text": "I quickly changed the subject."
+    },
+    {
+      "offset": 1632,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「…………………………………………………」",
+      "en": "\".........\"",
+      "text": "\".........\""
+    },
+    {
+      "offset": 1681,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし彼女は着替えようとせず、もじもじとそ\nこに立ち尽くしたままだ。",
+      "en": "But rather than start changing, she stood in place,\nfidgeting slightly.",
+      "text": "But rather than start changing, she stood in place,\nfidgeting slightly."
+    },
+    {
+      "offset": 1755,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……ん？　どうかした？」",
+      "en": "\"...Hm? Something wrong?\"",
+      "text": "\"...Hm? Something wrong?\""
+    },
+    {
+      "offset": 1821,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「朝倉君も……出てって」",
+      "en": "\"Um... Asakura... ahem. Could you.... go out too?\"",
+      "text": "\"Um... Asakura... ahem. Could you.... go out too?\""
+    },
+    {
+      "offset": 1852,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言いながら、後ろのドアを指差す。",
+      "en": "She pointed to the door as she mumbled.",
+      "text": "She pointed to the door as she mumbled."
+    },
+    {
+      "offset": 1895,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ……」",
+      "en": "\"Ah...\"",
+      "text": "\"Ah...\""
+    },
+    {
+      "offset": 1912,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……なるほど、そういうことですか。そいつは\nまったくさっぱり失念していたな。",
+      "en": "...Oh right, that's how it is. It completely slipped my\nmind.",
+      "text": "...Oh right, that's how it is. It completely slipped my\nmind."
+    },
+    {
+      "offset": 1994,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……取りあえず目立たないように一緒に着替\n　える？」",
+      "en": "\"...To stay inconspicious, shouldn't we change together?\"",
+      "text": "\"...To stay inconspicious, shouldn't we change together?\""
+    },
+    {
+      "offset": 2054,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "羞恥に加え、憤りに叶の頬がさらに紅潮する。",
+      "en": "Kudou's cheeks flushed red immediately, partly wtih\nembarassment, and partly with indignation.",
+      "text": "Kudou's cheeks flushed red immediately, partly wtih\nembarassment, and partly with indignation."
+    },
+    {
+      "offset": 2131,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「そんなわけないでしょう！　もう、エッチな\n　んだから！！」",
+      "en": "\"O, o, of course not! That's too embarassing...\"",
+      "text": "\"O, o, of course not! That's too embarassing...\""
+    },
+    {
+      "offset": 2197,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「……はいはい、すみませんでした」",
+      "en": "\"...Please, leave now...\"",
+      "text": "\"...Please, leave now...\""
+    },
+    {
+      "offset": 2250,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は己の体操着を抱えてすごすごとその場を退\n散したのだった。",
+      "en": "Holding my own PE uniform, I dejectedly left the room.",
+      "text": "Holding my own PE uniform, I dejectedly left the room."
+    },
+    {
+      "offset": 2366,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "隣の教室に溜まって着替えていたクラスの奴ら\nは、俺が顔を見せると一斉に冷やかした。",
+      "en": "The taunts started the moment I entered the neighbouring\nclassroom, where all the guys had gathered to change.",
+      "text": "The taunts started the moment I entered the neighbouring\nclassroom, where all the guys had gathered to change."
+    },
+    {
+      "offset": 2460,
+      "speaker": "Boy",
+      "speaker_jp": "男子",
+      "jp": "「なんだ朝倉〜、王子様に嫌われたか」",
+      "en": "\"What happened, Asakura~. Seems the prince rejected you.\"",
+      "text": "\"What happened, Asakura~. Seems the prince rejected you.\""
+    },
+    {
+      "offset": 2536,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「なんぞご無体でも仕掛けたのか？」",
+      "en": "\"Were you forced out lile the rest of us commoners?\"",
+      "text": "\"Were you forced out lile the rest of us commoners?\""
+    },
+    {
+      "offset": 2577,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「お前と一緒にするな」",
+      "en": "\"Don't lump me together with the rest of you.\"",
+      "text": "\"Don't lump me together with the rest of you.\""
+    },
+    {
+      "offset": 2623,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ニヤニヤ笑う杉並の頭を一発はたいて、俺は急\nいで着替え始めた。",
+      "en": "I tapped the sneering Suginami's head with my fist lightly,\nand started changing.",
+      "text": "I tapped the sneering Suginami's head with my fist lightly,\nand started changing."
+    },
+    {
+      "offset": 2701,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 2797,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「キャッッ」",
+      "en": "\"Kyaa!\"",
+      "text": "\"Kyaa!\""
+    },
+    {
+      "offset": 2816,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………っとと」",
+      "en": "\"...Whoa.\"",
+      "text": "\"...Whoa.\""
+    },
+    {
+      "offset": 2841,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "廊下に出たところで眞子とぶつかりそうになっ\nた。",
+      "en": "I collided with Mako as I exited into the corridor.",
+      "text": "I collided with Mako as I exited into the corridor."
+    },
+    {
+      "offset": 2923,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ちょっと〜、気をつけなさいよね」",
+      "en": "\"Geez, be more careful!\"",
+      "text": "\"Geez, be more careful!\""
+    },
+    {
+      "offset": 2964,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「悪ぃ悪ぃ」",
+      "en": "\"Sorry, sorry.\"",
+      "text": "\"Sorry, sorry.\""
+    },
+    {
+      "offset": 2983,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日は女子、これから家庭科か……楽そうで\nいいよな。",
+      "en": "Today, the girls get to do home economics... how easy.",
+      "text": "Today, the girls get to do home economics... how easy."
+    },
+    {
+      "offset": 3041,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（ほんとなら……工藤もそっちで授業を受ける\n　はずなんだよな………………）",
+      "en": "\"(Kudou really should be doing that instead of this\ntorture...)\"",
+      "text": "\"(Kudou really should be doing that instead of this\ntorture...)\""
+    },
+    {
+      "offset": 3121,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子の抱える家庭科の教材を眺めて、ちょっと\n複雑な気持ちになる俺。",
+      "en": "Mako stared at me, holding her home economics items, as I\npondered my complex feelings.",
+      "text": "Mako stared at me, holding her home economics items, as I\npondered my complex feelings."
+    },
+    {
+      "offset": 3221,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………………………………………………」",
+      "en": "\".........\"",
+      "text": "\".........\""
+    },
+    {
+      "offset": 3270,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子は妙な表情で俺の顔をまじまじと眺めた。",
+      "en": "Mako's weird look at me was starting to make me feel\nuncomfortable.",
+      "text": "Mako's weird look at me was starting to make me feel\nuncomfortable."
+    },
+    {
+      "offset": 3319,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……な、なんだよ」",
+      "en": "\"...W, what is it?\"",
+      "text": "\"...W, what is it?\""
+    },
+    {
+      "offset": 3346,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "別にやましいところなどないのだが、じっと見\nられるとたじろぎ気味になる。",
+      "en": "Her staring was making me feel as if I'd done something\nwrong.",
+      "text": "Her staring was making me feel as if I'd done something\nwrong."
+    },
+    {
+      "offset": 3452,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あのさ……こないだから、聞こう聞こうと思っ\n　てたんだけど………………」",
+      "en": "\"Just... thinking about the stuff I've heard lately...\"",
+      "text": "\"Just... thinking about the stuff I've heard lately...\""
+    },
+    {
+      "offset": 3532,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子は一旦言葉をとめた。",
+      "en": "Mako trailed off partway into her sentence.",
+      "text": "Mako trailed off partway into her sentence."
+    },
+    {
+      "offset": 3561,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何かあたりさわりのない表現を探すように、か\nすかに首を傾げておもむろに口を開く。",
+      "en": "I tried to act like I was completely clueless, and she\nopened her mouth again.",
+      "text": "I tried to act like I was completely clueless, and she\nopened her mouth again."
+    },
+    {
+      "offset": 3675,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あんた……いつから属性男好きにチェンジし\n　たのよ？」",
+      "en": "\"You... when did you start liking guys?\"",
+      "text": "\"You... when did you start liking guys?\""
+    },
+    {
+      "offset": 3737,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "（おっと、そう来たか）",
+      "en": "\"(Oh boy, here it comes.)\"",
+      "text": "\"(Oh boy, here it comes.)\""
+    },
+    {
+      "offset": 3766,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はつとめて平静を装いながら答えた。",
+      "en": "I calmed myself as much as possible, and got ready to\nanswer.",
+      "text": "I calmed myself as much as possible, and got ready to\nanswer."
+    },
+    {
+      "offset": 3807,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……別に俺と工藤になんらやましい所は無い、\nフツーにすれば良いのだ。フツーに。",
+      "en": "...There's nothing wrong at all between me and Kudou. It's\nall normal. Completely.",
+      "text": "...There's nothing wrong at all between me and Kudou. It's\nall normal. Completely."
+    },
+    {
+      "offset": 3891,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まぁた、くだらん噂を真に受ける！　お前、\n　進学してもなんにも変わってねーな」",
+      "en": "\"You're still treating such stupid rumours as the truth!\nHah, even after middle school, you haven't changed at all.\"",
+      "text": "\"You're still treating such stupid rumours as the truth!\nHah, even after middle school, you haven't changed at all.\""
+    },
+    {
+      "offset": 3977,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "馬鹿にされたと感じたのだろう。眞子はきっと\n顔をあげ、俺の目の前に指を突きつけてきた。",
+      "en": "Hostility was starting to emnate from her. She faced me\ndirectly, and pointed an accusatory finger.",
+      "text": "Hostility was starting to emnate from her. She faced me\ndirectly, and pointed an accusatory finger."
+    },
+    {
+      "offset": 4097,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「この頃のアンタと工藤君、どー見てもおかし\n　いわよっ！　あれは単なる友情の域を超えて\n　るわ」",
+      "en": "\"You and Kudou have been acting so strange and close\nrecently! That definitely goes further than normal\nfriendship!\"",
+      "text": "\"You and Kudou have been acting so strange and close\nrecently! That definitely goes further than normal\nfriendship!\""
+    },
+    {
+      "offset": 4198,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「断じて俺にはホモっ気などない！　天地神明\n　に誓ってもだ！」",
+      "en": "\"I'm telling you, I'm not a homo! I swear to God, I'm not!\"",
+      "text": "\"I'm telling you, I'm not a homo! I swear to God, I'm not!\""
+    },
+    {
+      "offset": 4266,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "力強く訴えた。",
+      "en": "I appealed strongly.",
+      "text": "I appealed strongly."
+    },
+    {
+      "offset": 4285,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それは嘘じゃないしな。",
+      "en": "That isn't a lie, after all.",
+      "text": "That isn't a lie, after all."
+    },
+    {
+      "offset": 4342,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……やけにはっきり言い切るわねぇ」",
+      "en": "\"...Saying that out of pure desperation, huh.\"",
+      "text": "\"...Saying that out of pure desperation, huh.\""
+    },
+    {
+      "offset": 4385,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なぜなら俺の恋する工藤叶は、れっきとした女\nの子なんだから。",
+      "en": "But it's the truth, since the Kudou Kanae that I love, is\nactually a girl...",
+      "text": "But it's the truth, since the Kudou Kanae that I love, is\nactually a girl..."
+    },
+    {
+      "offset": 4462,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「朝倉、お待たせ」",
+      "en": "\"Asakura, I'm done.\"",
+      "text": "\"Asakura, I'm done.\""
+    },
+    {
+      "offset": 4487,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "からり、とドアが開く気配とともに工藤が顔を\n見せる。",
+      "en": "Suddenly, the door opened, and Kudou walked out.",
+      "text": "Suddenly, the door opened, and Kudou walked out."
+    },
+    {
+      "offset": 4543,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ナイスかバッドか、絶妙すぎるタイミングだっ\nた。",
+      "en": "What absolutely perfect timing.",
+      "text": "What absolutely perfect timing."
+    },
+    {
+      "offset": 4597,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お……おう」",
+      "en": "\"I... see.\"",
+      "text": "\"I... see.\""
+    },
+    {
+      "offset": 4618,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は右手を軽くあげて、無理無理にこしらえた\n笑顔をみせる。",
+      "en": "I waved my hand slightly, and forced a smile.",
+      "text": "I waved my hand slightly, and forced a smile."
+    },
+    {
+      "offset": 4710,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「………………………………………………」",
+      "en": "\".........\"",
+      "text": "\".........\""
+    },
+    {
+      "offset": 4757,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子の疑惑の視線が、俺の後頭部にぶっすりと\n刺さっているのを感じる。",
+      "en": "I could feel Mako's doubtful glare piercing through the back\nof my head.",
+      "text": "I could feel Mako's doubtful glare piercing through the back\nof my head."
+    },
+    {
+      "offset": 4829,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言いたいことは山ほどあるが、どれから口にし\nたものとか迷っている様子だ。",
+      "en": "Although I was talking big just now, my train of thought\ncame to a crashing halt thanks to Kudou.",
+      "text": "Although I was talking big just now, my train of thought\ncame to a crashing halt thanks to Kudou."
+    },
+    {
+      "offset": 4905,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子はいろんなところから噂を集めては来るも\nのの、無節操にそれを広めたりはしない。",
+      "en": "Now this meeting with Mako is sure add even more fuel to the\nfire.",
+      "text": "Now this meeting with Mako is sure add even more fuel to the\nfire."
+    },
+    {
+      "offset": 4991,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何だかんだ言ってこいつはいい奴だから……。",
+      "en": "What can I do to get out of this...",
+      "text": "What can I do to get out of this..."
+    },
+    {
+      "offset": 5045,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「っと！　ほら、工藤、急ぐぜ」",
+      "en": "\"Whoops! Come on Kudou, let's go!\"",
+      "text": "\"Whoops! Come on Kudou, let's go!\""
+    },
+    {
+      "offset": 5093,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「うん」",
+      "en": "\"Yeah.\"",
+      "text": "\"Yeah.\""
+    },
+    {
+      "offset": 5108,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鐘の音に急かされ、俺はごく自然に工藤の手を\nとって走り出した。",
+      "en": "Saved by the bell, I grabbed Kudou's hand and started\nwalking quickly.",
+      "text": "Saved by the bell, I grabbed Kudou's hand and started\nwalking quickly."
+    },
+    {
+      "offset": 5176,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「たっしゃでな〜」",
+      "en": "\"Take care~\"",
+      "text": "\"Take care~\""
+    },
+    {
+      "offset": 5229,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……あんたの言ってること、やっぱ全然説\n　得力ないじゃない！！」",
+      "en": "\"...Your words aren't convincing at all!\"",
+      "text": "\"...Your words aren't convincing at all!\""
+    },
+    {
+      "offset": 5301,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子のそんな捨て台詞を、背中で受け流しなが\nら。",
+      "en": "Mako's thrown words simply bounced off my back.",
+      "text": "Mako's thrown words simply bounced off my back."
+    },
+    {
+      "offset": 5471,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆薔薇色の日々２◆",
+      "en": "◆Rose-Coloured Days 2◆",
+      "text": "◆Rose-Coloured Days 2◆"
+    },
+    {
+      "offset": 5522,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "叶と俺との関係が妙な噂になっているらしい。\n眞子にまでツッコミを入れられてしまったが、",
+      "en": "There's been weird rumours about the connection between me\nand Kanae.",
+      "text": "There's been weird rumours about the connection between me\nand Kanae."
+    },
+    {
+      "offset": 5612,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "仕方ない。これも愛の為だ。",
+      "en": "Mako saw through my facade easily, but it can't be helped.\nIt's all for love.",
+      "text": "Mako saw through my facade easily, but it can't be helped.\nIt's all for love."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "405": "Male A",
+    "545": "Male B",
+    "792": "Kudou",
+    "1211": "Kudou",
+    "1624": "Kudou",
+    "1813": "Kudou",
+    "2123": "Kudou",
+    "2452": "Boy",
+    "2528": "Suginami",
+    "2789": "Mako",
+    "2915": "Mako",
+    "3213": "Mako",
+    "3444": "Mako",
+    "3667": "Mako",
+    "4089": "Mako",
+    "4334": "Mako",
+    "4454": "Kudou",
+    "4702": "Mako",
+    "5085": "Kudou",
+    "5221": "Mako"
+  }
+}

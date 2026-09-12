@@ -1,0 +1,348 @@
+{
+  "scene": "script_0604.obj",
+  "dialogues": [
+    {
+      "offset": 181,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、月城邸に遊びに来ていた。",
+      "en": "I went to Tsukishiro's house to visit.",
+      "text": "I went to Tsukishiro's house to visit."
+    },
+    {
+      "offset": 216,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どことなく、前にも増して柔らかい笑みを浮か\nべる瀬場さん。",
+      "en": "In front of me, was the smiling Seiba-san, his usual smile\nseeming even more bright today.",
+      "text": "In front of me, was the smiling Seiba-san, his usual smile\nseeming even more bright today."
+    },
+    {
+      "offset": 278,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、その隣には、にっこりと笑っている月\n城がいた。",
+      "en": "And beside him, Tsukishiro had a similar, wide smile on\nhers.",
+      "text": "And beside him, Tsukishiro had a similar, wide smile on\nhers."
+    },
+    {
+      "offset": 371,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「朝倉様のおかげで、お嬢様はこんなに元気に\n　なられました……」",
+      "en": "\"The mistress has become so cheerful, all thanks to\nAsakura-sama...\"",
+      "text": "\"The mistress has become so cheerful, all thanks to\nAsakura-sama...\""
+    },
+    {
+      "offset": 441,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「俺だけじゃあないです。美春や、眞子や、え\n　えと、杉並の力があったからですよ」",
+      "en": "\"It wasn't just me.. Miharu, and Mako.... and, er, Suginami,\nall helped too.\"",
+      "text": "\"It wasn't just me.. Miharu, and Mako.... and, er, Suginami,\nall helped too.\""
+    },
+    {
+      "offset": 562,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……先輩達のおかげで、私はもうお話しする\n　のが怖くなくなりました」",
+      "en": "\"...Thanks to everyone, I'm not scared of speaking my mind\nanymore.\"",
+      "text": "\"...Thanks to everyone, I'm not scared of speaking my mind\nanymore.\""
+    },
+    {
+      "offset": 651,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「ピロスがいなくても、もうお話ができるの」",
+      "en": "\"Piros may not be around anymore, but... I can still talk\nnow.\"",
+      "text": "\"Piros may not be around anymore, but... I can still talk\nnow.\""
+    },
+    {
+      "offset": 700,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……ピロスは、残念だったね」",
+      "en": "\"...What happened to Piros was just bad luck.\"",
+      "text": "\"...What happened to Piros was just bad luck.\""
+    },
+    {
+      "offset": 767,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……はい。私のたったひとりの友達でしたか\n　ら」",
+      "en": "\"...Yes. He used to by my only friend, after all.\"",
+      "text": "\"...Yes. He used to by my only friend, after all.\""
+    },
+    {
+      "offset": 867,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「お嬢様は、とても大切にされていましたから\n　ね……。心中お察し致します」",
+      "en": "\"It was quite important to you, indeed... a Romeo and Juliet\nsituation would not have been a horrible comparision.\"",
+      "text": "\"It was quite important to you, indeed... a Romeo and Juliet\nsituation would not have been a horrible comparision.\""
+    },
+    {
+      "offset": 977,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「でも、今は朝倉先輩がいるから……」",
+      "en": "\"But now, I have Asakura-senpai...\"",
+      "text": "\"But now, I have Asakura-senpai...\""
+    },
+    {
+      "offset": 1020,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城がそう言って、ちらりと俺を見る。",
+      "en": "Tsukishiro glanced at me shyly, as she spoke.",
+      "text": "Tsukishiro glanced at me shyly, as she spoke."
+    },
+    {
+      "offset": 1063,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんだか、そう言われると照れくさいな」",
+      "en": "\"That's kinda embarassing...\"",
+      "text": "\"That's kinda embarassing...\""
+    },
+    {
+      "offset": 1140,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「瀬場さん、私、皆さんにお礼がしたいです。\n　何かできることはないかな」",
+      "en": "\"Seiba-san, I wish to show my appreciation to everyone for\nwhat they have done... do you have any ideas on how I can do\nso?\"",
+      "text": "\"Seiba-san, I wish to show my appreciation to everyone for\nwhat they have done... do you have any ideas on how I can do\nso?\""
+    },
+    {
+      "offset": 1229,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「お礼、ですか……」",
+      "en": "\"Show your appreciation, you say...\"",
+      "text": "\"Show your appreciation, you say...\""
+    },
+    {
+      "offset": 1256,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "瀬場さんが、ヒゲを撫でながら、ふうむと｛うな／唸｝る。",
+      "en": "Seiba-san hummed to himself, rubbing his considerable\nmoustache.",
+      "text": "Seiba-san hummed to himself, rubbing his considerable\nmoustache."
+    },
+    {
+      "offset": 1345,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「お世話になった方達をお招きして、お茶会を\n　開くというのはいかがでしょうか？」",
+      "en": "\"Perhaps an invitation to a tea party, for the friends that\nhave looked after you so much, would be in order?\"",
+      "text": "\"Perhaps an invitation to a tea party, for the friends that\nhave looked after you so much, would be in order?\""
+    },
+    {
+      "offset": 1461,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……お茶会」",
+      "en": "\"...A tea party...\"",
+      "text": "\"...A tea party...\""
+    },
+    {
+      "offset": 1493,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「おいしいお茶やお菓子を用意致します。皆さ\n　んで楽しい一時を過ごされてはいかがでしょ\n　う？　どうでしょう、朝倉様」",
+      "en": "\"I would prepare the snacks. I believe it would be an\nenjoyable party for everyone. What do you think,\nAsakura-sama?\"",
+      "text": "\"I would prepare the snacks. I believe it would be an\nenjoyable party for everyone. What do you think,\nAsakura-sama?\""
+    },
+    {
+      "offset": 1616,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「いいんじゃないですか？　きっと楽しいと思\n　います」",
+      "en": "\"It sounds good to me. I'm sure it'd be fun.\"",
+      "text": "\"It sounds good to me. I'm sure it'd be fun.\""
+    },
+    {
+      "offset": 1717,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「じゃあ、そうしましょう。瀬場さん、よろし\n　くお願い致します」",
+      "en": "\"Then, so it shall be. Seiba-san, please begin the\npreparations.\"",
+      "text": "\"Then, so it shall be. Seiba-san, please begin the\npreparations.\""
+    },
+    {
+      "offset": 1826,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「かしこまりました。この瀬場、腕によりをか\n　けて、おいしいものをご用意致します」",
+      "en": "\"At once. This undeserving Seiba, will make even more\ndelicious snacks than I ever have.\"",
+      "text": "\"At once. This undeserving Seiba, will make even more\ndelicious snacks than I ever have.\""
+    },
+    {
+      "offset": 1914,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「……あの、いつも出てくるお菓子や料理って、\n　瀬場さんが作っていたんですか？」",
+      "en": "\"...Um, all the time you served the sweets and food... you\nmade them all, Seiba-san?\"",
+      "text": "\"...Um, all the time you served the sweets and food... you\nmade them all, Seiba-san?\""
+    },
+    {
+      "offset": 2011,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「はい、そうでございますが、なにか？　私こ\n　れでも料理が趣味でして……」",
+      "en": "\"Yes, that is true. Is there something wrong? The culinary\narts are quite interesting to me...\"",
+      "text": "\"Yes, that is true. Is there something wrong? The culinary\narts are quite interesting to me...\""
+    },
+    {
+      "offset": 2119,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「思い出します。あの雪山での潜入捜査……。\n　手持ちの食料は、すっかり底を尽きまして、\n　辺りにあるものを……」",
+      "en": "\"It brings back memories of that freezing mountain, that\nespionage operation... all the rations I had on hand,\nconsumed...\"",
+      "text": "\"It brings back memories of that freezing mountain, that\nespionage operation... all the rations I had on hand,\nconsumed...\""
+    },
+    {
+      "offset": 2236,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「瀬場さん、それ、料理とはちょっと違うんじゃ\n　……」",
+      "en": "\"Seiba-san, I wouldn't exactly call that as participating in\nthe culinary arts...\"",
+      "text": "\"Seiba-san, I wouldn't exactly call that as participating in\nthe culinary arts...\""
+    },
+    {
+      "offset": 2335,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「はっはっはっは、そうですか。これは失礼い\n　たしました」",
+      "en": "\"Ha ha ha ha, I suppose so. Please excuse my rambling.\"",
+      "text": "\"Ha ha ha ha, I suppose so. Please excuse my rambling.\""
+    },
+    {
+      "offset": 2440,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……お茶会は、春休みの終わりの日がいいで\n　すよね」",
+      "en": "\"...The last day of spring break sounds like a good day for\na tea party.\"",
+      "text": "\"...The last day of spring break sounds like a good day for\na tea party.\""
+    },
+    {
+      "offset": 2500,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「そうだな。それまでに、一緒に招待状を書こ\n　うぜ」",
+      "en": "\"That, it does. Let's make the invitation cards together.\"",
+      "text": "\"That, it does. Let's make the invitation cards together.\""
+    },
+    {
+      "offset": 2588,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……はい」",
+      "en": "\"...Okay.\"",
+      "text": "\"...Okay.\""
+    },
+    {
+      "offset": 2618,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「朝倉様、私めがここにいるというのに、なか\n　なか大胆でございますな」",
+      "en": "\"Asakura-sama, perhaps I should do some shopping, and leave\nthe two of you alone?\"",
+      "text": "\"Asakura-sama, perhaps I should do some shopping, and leave\nthe two of you alone?\""
+    },
+    {
+      "offset": 2694,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「え？　あ、あの……その、やだな。そんなつ\n　もりじゃないんだって」",
+      "en": "\"Eh? U, um... n, no, it's not what you're thinking...\"",
+      "text": "\"Eh? U, um... n, no, it's not what you're thinking...\""
+    },
+    {
+      "offset": 2768,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "じゃあ、どんなつもりだと返されそうだけれど、\nそれは言わない約束ということで……。",
+      "en": "Whatever he was thinking, I'm going to have to have him keep\nit from Tsukishiro...",
+      "text": "Whatever he was thinking, I'm going to have to have him keep\nit from Tsukishiro..."
+    },
+    {
+      "offset": 2886,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……朝倉先輩、楽しみですね」",
+      "en": "\"...Asakura-senpai, it'd be lots of fun.\"",
+      "text": "\"...Asakura-senpai, it'd be lots of fun.\""
+    },
+    {
+      "offset": 2923,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな月城の笑顔を見ると、そんなつもりがな\nくても、つい……こうニヤけてしまうんだな、\nこれが。",
+      "en": "Looking at Alice smile like that, I felt like I couldn't\never corrupt that pure innoncence.",
+      "text": "Looking at Alice smile like that, I felt like I couldn't\never corrupt that pure innoncence."
+    },
+    {
+      "offset": 3126,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆お茶会への招待状◆",
+      "en": "◆Invitation to a Tea Party◆",
+      "text": "◆Invitation to a Tea Party◆"
+    },
+    {
+      "offset": 3177,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "笑顔を取り戻した月城。",
+      "en": "The smile had finall returned on Tsukishiro's face.",
+      "text": "The smile had finall returned on Tsukishiro's face."
+    },
+    {
+      "offset": 3204,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "瀬場さんの提案で、美春や杉並を招いて、お茶\n会を開いたら、ということになった。",
+      "en": "At Seiba-san's suggestion, Miharu and Suginami were to be\ninvited to a tea party with us.",
+      "text": "At Seiba-san's suggestion, Miharu and Suginami were to be\ninvited to a tea party with us."
+    },
+    {
+      "offset": 3286,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そうだ。それがいい。",
+      "en": "That sounds really nice.",
+      "text": "That sounds really nice."
+    },
+    {
+      "offset": 3311,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺と月城は、一緒に招待状を書こう、と笑い合\nうのだった。",
+      "en": "Tsukishiro and I ended up making the invitations cards\ntogether, our smiles matching perfectly.",
+      "text": "Tsukishiro and I ended up making the invitations cards\ntogether, our smiles matching perfectly."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "363": "Seiba",
+    "552": "Alice",
+    "641": "Alice",
+    "757": "Alice",
+    "859": "Seiba",
+    "967": "Alice",
+    "1130": "Alice",
+    "1221": "Seiba",
+    "1337": "Seiba",
+    "1451": "Alice",
+    "1485": "Seiba",
+    "1707": "Alice",
+    "1818": "Seiba",
+    "2003": "Seiba",
+    "2111": "Seiba",
+    "2327": "Seiba",
+    "2430": "Alice",
+    "2578": "Alice",
+    "2610": "Seiba",
+    "2876": "Alice"
+  }
+}

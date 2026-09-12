@@ -1,0 +1,55 @@
+{
+  "scene": "script_0092.obj",
+  "dialogues": [
+    {
+      "offset": 131,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まあこんなもんだろ……」",
+      "en": "\"This should do it...\"",
+      "text": "\"This should do it...\""
+    },
+    {
+      "offset": 164,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さてと……寝るか。",
+      "en": "Now then... time for sleep.",
+      "text": "Now then... time for sleep."
+    },
+    {
+      "offset": 187,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 200,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お休み。",
+      "en": "Good night.",
+      "text": "Good night."
+    },
+    {
+      "offset": 405,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆目覚ましセット◆",
+      "en": "◆Setting the Alarm Clock◆",
+      "text": "◆Setting the Alarm Clock◆"
+    },
+    {
+      "offset": 452,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目覚ましをかけたし、寝よ……。",
+      "en": "After setting the alarm clock, it's time for sleep...",
+      "text": "After setting the alarm clock, it's time for sleep..."
+    }
+  ],
+  "choices": [],
+  "names": {}
+}

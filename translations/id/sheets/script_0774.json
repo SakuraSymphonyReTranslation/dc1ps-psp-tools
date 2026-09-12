@@ -1,0 +1,965 @@
+{
+  "scene": "script_0774.obj",
+  "dialogues": [
+    {
+      "offset": 234,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "I couldn't sleep because I was thinking about many things.",
+      "text": "I couldn't sleep because I was thinking about many things."
+    },
+    {
+      "offset": 253,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「朝……か」",
+      "en": "The first day I met her.",
+      "text": "The first day I met her."
+    },
+    {
+      "offset": 272,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "うとうとしかけたのは、窓から日が射し込んで\n来た頃だったと思う。",
+      "en": "The touch I felt when I held her in my arms on the veranda\nby accident.",
+      "text": "The touch I felt when I held her in my arms on the veranda\nby accident."
+    },
+    {
+      "offset": 340,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "丸１日以上眠ったんでなければ、ほとんど眠っ\nてないことになる。",
+      "en": "The taste of the curry and rice she made for me.",
+      "text": "The taste of the curry and rice she made for me."
+    },
+    {
+      "offset": 406,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "時計に目を遣ると、目覚ましが鳴る１０分ほど\n前だった。",
+      "en": "Her tears when she came to see me at the hospital.",
+      "text": "Her tears when she came to see me at the hospital."
+    },
+    {
+      "offset": 466,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……眠い」",
+      "en": "And......",
+      "text": "And......"
+    },
+    {
+      "offset": 513,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頭の芯が重たかった。その重みは色々の想いだ。\n頼子さんとの。",
+      "en": "The door opens.",
+      "text": "The door opens."
+    },
+    {
+      "offset": 577,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "色んな場面が思い出されて、俺をなかなか寝つ\nけさせなかった。",
+      "en": "\"Ah......\"",
+      "text": "\"Ah......\""
+    },
+    {
+      "offset": 641,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "初めて出会った時のこと。",
+      "en": "\"......Good morning.\"",
+      "text": "\"......Good morning.\""
+    },
+    {
+      "offset": 874,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ……」",
+      "en": "\"Good morning.\"",
+      "text": "\"Good morning.\""
+    },
+    {
+      "offset": 891,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「……おはよ」",
+      "en": "\"......Your eyes are red.\"",
+      "text": "\"......Your eyes are red.\""
+    },
+    {
+      "offset": 940,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「おはようございます」",
+      "en": "\"Yeah, I have a pollen allergy. Same as you?\"",
+      "text": "\"Yeah, I have a pollen allergy. Same as you?\""
+    },
+    {
+      "offset": 997,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「……目、赤いですよ？」",
+      "en": "\"Yes, I do too.\"",
+      "text": "\"Yes, I do too.\""
+    },
+    {
+      "offset": 1128,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぐぐっと伸びをして、反動を付け、ベッドから\n起きあがる。",
+      "en": "I stretch and get out of bed. And I tell her while pointing\nat the alarm clock,",
+      "text": "I stretch and get out of bed. And I tell her while pointing\nat the alarm clock,"
+    },
+    {
+      "offset": 1188,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "時計にあごをしゃくって、俺は言った。",
+      "en": "\"I still have 10 more minutes.\"",
+      "text": "\"I still have 10 more minutes.\""
+    },
+    {
+      "offset": 1304,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ、その……余裕をもって起こそうと思った\n　んです。時間をかけて」",
+      "en": "\"Ah, yes, you do...... But I was coming to wake you up well\nin advance so that I can take time to do it.\"",
+      "text": "\"Ah, yes, you do...... But I was coming to wake you up well\nin advance so that I can take time to do it.\""
+    },
+    {
+      "offset": 1378,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「時間をかけて？」",
+      "en": "\"Take time to wake me up?\"",
+      "text": "\"Take time to wake me up?\""
+    },
+    {
+      "offset": 1431,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「はい。……ゆっくりと」",
+      "en": "\"Yes. ......You know, slowly and gently.\"",
+      "text": "\"Yes. ......You know, slowly and gently.\""
+    },
+    {
+      "offset": 1462,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「……なるほど。それもいいな。じゃ、眠り直\n　そうか」",
+      "en": "\"......I see. I like the sound of that. Then I should get\nback to sleep.\"",
+      "text": "\"......I see. I like the sound of that. Then I should get\nback to sleep.\""
+    },
+    {
+      "offset": 1556,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "布団に潜り込んだ時だった。",
+      "en": "And just as I get back into bed,",
+      "text": "And just as I get back into bed,"
+    },
+    {
+      "offset": 1592,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "じりりり……。",
+      "en": "Beep-beep-beep-beep-beep!",
+      "text": "Beep-beep-beep-beep-beep!"
+    },
+    {
+      "offset": 1632,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「残念、時間だ」",
+      "en": "\"Shoot. It's time now.\"",
+      "text": "\"Shoot. It's time now.\""
+    },
+    {
+      "offset": 1657,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ガムテープで固定してある目覚ましに、軽く\nチョップを喰らわせる。",
+      "en": "I give a karate-chop to my alarm clock that's secured with\ntape to the desk.",
+      "text": "I give a karate-chop to my alarm clock that's secured with\ntape to the desk."
+    },
+    {
+      "offset": 1760,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「ええ……ほんとに、残念ですね……」",
+      "en": "\"Yes...... it's unfortunate indeed.\"",
+      "text": "\"Yes...... it's unfortunate indeed.\""
+    },
+    {
+      "offset": 1803,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1850,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「では、朝食の用意はもう出来ていますから」",
+      "en": "\"Breakfast is ready.\"",
+      "text": "\"Breakfast is ready.\""
+    },
+    {
+      "offset": 1899,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「ああ、はい」",
+      "en": "\"Oh, okay.\"",
+      "text": "\"Oh, okay.\""
+    },
+    {
+      "offset": 1932,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1951,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「ふう……何だろ。眠いせいかな。目がしょぼ\n　しょぼしやがる……」",
+      "en": "\"Hmm...... What's this? My eyes are watery...... Is it\nbecause I'm sleepy?\"",
+      "text": "\"Hmm...... What's this? My eyes are watery...... Is it\nbecause I'm sleepy?\""
+    },
+    {
+      "offset": 2023,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぐりぐりと拳を目にあて、ベッドから降り立っ\nた。視界が｛にじ／滲｝んでいる。",
+      "en": "I rub my eyes with my fists as I get out of bed. My vision's\nstill blurry.",
+      "text": "I rub my eyes with my fists as I get out of bed. My vision's\nstill blurry."
+    },
+    {
+      "offset": 2133,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おはよー」",
+      "en": "\"Good morning!\"",
+      "text": "\"Good morning!\""
+    },
+    {
+      "offset": 2185,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「おはようございます」",
+      "en": "\"Good morning.\"",
+      "text": "\"Good morning.\""
+    },
+    {
+      "offset": 2214,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "テーブルの席に着くと、コーヒーカップがすっ\nと置かれた。",
+      "en": "As I sit at the table, she quickly puts my coffee cup in\nfront of me.",
+      "text": "As I sit at the table, she quickly puts my coffee cup in\nfront of me."
+    },
+    {
+      "offset": 2293,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さんきゅ。……ん、何？」",
+      "en": "\"Thank you.......Wh-What?\"",
+      "text": "\"Thank you.......Wh-What?\""
+    },
+    {
+      "offset": 2326,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "口元をじっと見つめてくる頼子さんに、カップ\nを手にしたまま首を傾げる。",
+      "en": "Holding my coffee cup in my hand, I cock my head at her,\nbecause Yoriko-san keeps staring at my mouth.",
+      "text": "Holding my coffee cup in my hand, I cock my head at her,\nbecause Yoriko-san keeps staring at my mouth."
+    },
+    {
+      "offset": 2430,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ、その……前から不思議に思っていたんで\n　すが……」",
+      "en": "\"I...... I have been curious for a long time......\"",
+      "text": "\"I...... I have been curious for a long time......\""
+    },
+    {
+      "offset": 2492,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「うん？」",
+      "en": "\"About what?\"",
+      "text": "\"About what?\""
+    },
+    {
+      "offset": 2520,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「インスタントコーヒーって、その……美味し\n　いですか？」",
+      "en": "\"Does that instant coffee taste...... good?\"",
+      "text": "\"Does that instant coffee taste...... good?\""
+    },
+    {
+      "offset": 2584,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「まあ……まずくはないけど。インスタントは\n　苦手？」",
+      "en": "\"Oh...... it doesn't taste bad. You don't like instant\ncoffee?\"",
+      "text": "\"Oh...... it doesn't taste bad. You don't like instant\ncoffee?\""
+    },
+    {
+      "offset": 2672,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ、はい、そうですね……」",
+      "en": "\"No, not really......\"",
+      "text": "\"No, not really......\""
+    },
+    {
+      "offset": 2707,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「じゃ、今度、コーヒーメーカーでも──」",
+      "en": "\"Then, I can get you a coffee machine...\"",
+      "text": "\"Then, I can get you a coffee machine...\""
+    },
+    {
+      "offset": 2771,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言いかけて、のどが凍り付いた。",
+      "en": "My tongue gets in a twist as I speak.",
+      "text": "My tongue gets in a twist as I speak."
+    },
+    {
+      "offset": 2808,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2827,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「コーヒーメーカーも、良いやつは割と高いん\n　だよな……」",
+      "en": "\"But those coffee machines are very expensive these\ndays......\"",
+      "text": "\"But those coffee machines are very expensive these\ndays......\""
+    },
+    {
+      "offset": 2891,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "むにゃむにゃとそんなことを呟き、カップを傾\nける。",
+      "en": "I murmur ambiguously with a sip of coffee.",
+      "text": "I murmur ambiguously with a sip of coffee."
+    },
+    {
+      "offset": 2975,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「夕飯は、何が食べたいですか？」",
+      "en": "\"What would you like to have for dinner tonight?\"",
+      "text": "\"What would you like to have for dinner tonight?\""
+    },
+    {
+      "offset": 3014,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "湿っぽさのない声音で｛たず／訊｝ねてくる。何だか救わ\nれたような気になって、カップをテーブルに、\n置いた。",
+      "en": "She asks me as if she didn't hear what I just said. I feel\nsaved and put my coffee cup on the table.",
+      "text": "She asks me as if she didn't hear what I just said. I feel\nsaved and put my coffee cup on the table."
+    },
+    {
+      "offset": 3125,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そうだな……。カレーなんかいいかも」",
+      "en": "\"Let me think...... I'd like to have curry and rice.\"",
+      "text": "\"Let me think...... I'd like to have curry and rice.\""
+    },
+    {
+      "offset": 3198,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「分かりました。……腕によりをかけますから、\n　楽しみにしていて下さいね」",
+      "en": "\"Okay. ......I'll do my best to cook it for you. Please look\nforward to it.\"",
+      "text": "\"Okay. ......I'll do my best to cook it for you. Please look\nforward to it.\""
+    },
+    {
+      "offset": 3278,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "浮かべた笑顔に、俺はこくりと頷いた。",
+      "en": "I nod back to her smile.",
+      "text": "I nod back to her smile."
+    },
+    {
+      "offset": 3387,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「行ってらっしゃい」",
+      "en": "\"Have a nice day.\"",
+      "text": "\"Have a nice day.\""
+    },
+    {
+      "offset": 3414,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「行ってきます」",
+      "en": "\"You too.\"",
+      "text": "\"You too.\""
+    },
+    {
+      "offset": 3514,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「グッド・モーニング！」",
+      "en": "\"Good morning!\"",
+      "text": "\"Good morning!\""
+    },
+    {
+      "offset": 3545,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……もーにん」",
+      "en": "\"Morning.\"",
+      "text": "\"Morning.\""
+    },
+    {
+      "offset": 3580,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "投げやりな挨拶を返して、そのまま通り過ぎる。",
+      "en": "I walk past her uncaringly.",
+      "text": "I walk past her uncaringly."
+    },
+    {
+      "offset": 3673,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あにゃ？　どうしたのかな？　元気ないなー」",
+      "en": "\"What? What's wrong? You look down.\"",
+      "text": "\"What? What's wrong? You look down.\""
+    },
+    {
+      "offset": 3724,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "てこてこと横について歩きながら、顔を覗き込\nんでくる。",
+      "en": "She peers at my face, walking briskly to follow me.",
+      "text": "She peers at my face, walking briskly to follow me."
+    },
+    {
+      "offset": 3784,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……朝は、寝起きが悪いんだよ」",
+      "en": "\"......I'm not a morning person.\"",
+      "text": "\"......I'm not a morning person.\""
+    },
+    {
+      "offset": 3853,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「もしかして、頼子ちゃんから話、聞いた？」",
+      "en": "\"Are you down because Yoriko-chan told you about it?\"",
+      "text": "\"Are you down because Yoriko-chan told you about it?\""
+    },
+    {
+      "offset": 3902,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3921,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちびっこいさくらを見下ろす。",
+      "en": "I look at little Sakura.",
+      "text": "I look at little Sakura."
+    },
+    {
+      "offset": 3956,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そういや、お前、公園で何か喋ってたっけか」",
+      "en": "\"Oh, yeah, I remember you were talking to her at the park\nthe other day.\"",
+      "text": "\"Oh, yeah, I remember you were talking to her at the park\nthe other day.\""
+    },
+    {
+      "offset": 4007,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛ずがいこつ／頭蓋骨｝をわしっと掴み、上に引っ張る。",
+      "en": "I grab her head roughly and pull her up.",
+      "text": "I grab her head roughly and pull her up."
+    },
+    {
+      "offset": 4096,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あややや！　も、もげるっ」",
+      "en": "\"Ooooouch! You're gonna pull my head off!\"",
+      "text": "\"Ooooouch! You're gonna pull my head off!\""
+    },
+    {
+      "offset": 4131,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "爪先立ちで、さくらが両手をぱたぱたさせる。\n一つため息をつき、頭を解放した。",
+      "en": "She's on her toes, flapping her arms up and down. I give a\nsigh and let her head go.",
+      "text": "She's on her toes, flapping her arms up and down. I give a\nsigh and let her head go."
+    },
+    {
+      "offset": 4213,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ま、いいか。んなことはどうだって」",
+      "en": "\"Well, you know what? I don't care.\"",
+      "text": "\"Well, you know what? I don't care.\""
+    },
+    {
+      "offset": 4256,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ととと、と小走りに俺の正面に回り込んだ。思\nわず、立ち止まる。",
+      "en": "She trots around in front of me and stops me.",
+      "text": "She trots around in front of me and stops me."
+    },
+    {
+      "offset": 4354,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あの桜を枯らすのはね、ボクなんだよ」",
+      "en": "\"I'm the one who can kill the cherry tree.\"",
+      "text": "\"I'm the one who can kill the cherry tree.\""
+    },
+    {
+      "offset": 4399,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 4435,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ん？　何だって？　……おい、ちょっと待て。\n　お前、背中に何隠してるんだ？」",
+      "en": "\"What? What did you just say? ...... Wait a minute. What are\nyou hiding behind your back?\"",
+      "text": "\"What? What did you just say? ...... Wait a minute. What are\nyou hiding behind your back?\""
+    },
+    {
+      "offset": 4519,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらの小さな身体の陰に、何かがちらりと見\nえた。",
+      "en": "I saw her hiding something behind her back.",
+      "text": "I saw her hiding something behind her back."
+    },
+    {
+      "offset": 4575,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……野球でも始めるのか？」",
+      "en": "\"......Are you gonna start playing baseball or something?\"",
+      "text": "\"......Are you gonna start playing baseball or something?\""
+    },
+    {
+      "offset": 4640,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「にゃっ？　こ、これは……お、おいっちにー、\n　さんしー」",
+      "en": "\"What? Oh, th-this... One, two, three. One, two, three.\"",
+      "text": "\"What? Oh, th-this... One, two, three. One, two, three.\""
+    },
+    {
+      "offset": 4704,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "バットを両手に持ち、身体を妙な具合に、くね\nくね動かし始めた。",
+      "en": "Holding the ends of the metal bat, she starts to move her\nbody from side to side as if she's stretching her back with\nit.",
+      "text": "Holding the ends of the metal bat, she starts to move her\nbody from side to side as if she's stretching her back with\nit."
+    },
+    {
+      "offset": 4772,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「アホらし……」",
+      "en": "\"Stupid......\"",
+      "text": "\"Stupid......\""
+    },
+    {
+      "offset": 4807,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その横をすっと通り過ぎ、道を進む。",
+      "en": "I quietly walk past her.",
+      "text": "I quietly walk past her."
+    },
+    {
+      "offset": 4861,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「だから、ボクが、秘密基地の桜を枯らすのっ」",
+      "en": "\"I said I can kill the cherry tree at your secret hideout.\"",
+      "text": "\"I said I can kill the cherry tree at your secret hideout.\""
+    },
+    {
+      "offset": 4934,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "振り返ると、仁王立ちになったさくらがバット\nを剣のように構えていた。",
+      "en": "As I turn around, Sakura's standing to her full height,\nholding the bat up high as if it's a sword.",
+      "text": "As I turn around, Sakura's standing to her full height,\nholding the bat up high as if it's a sword."
+    },
+    {
+      "offset": 5006,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……何考えているのやら。",
+      "en": "...What the hell is she thinking about?",
+      "text": "...What the hell is she thinking about?"
+    },
+    {
+      "offset": 5037,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ま、とにかく歩こうぜ。遅刻する。……俺が」",
+      "en": "\"Anyway, let's just go. We...... I mean I'll be late.\"",
+      "text": "\"Anyway, let's just go. We...... I mean I'll be late.\""
+    },
+    {
+      "offset": 5088,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "道の向こう側に、くいっとあごをやり、背中を\n向けた。",
+      "en": "I look down the road and turn my back to her.",
+      "text": "I look down the road and turn my back to her."
+    },
+    {
+      "offset": 5222,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あれれれ？　何で？　何で？　怒らないの？」",
+      "en": "Since Sakura quit school, she's been sloppy. And I've no\nidea what's on her mind......",
+      "text": "Since Sakura quit school, she's been sloppy. And I've no\nidea what's on her mind......"
+    },
+    {
+      "offset": 5273,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「何を怒るってんだよ。かったるい」",
+      "en": "\"Whhhhat? Why? Why? Why don't you get mad?\"",
+      "text": "\"Whhhhat? Why? Why? Why don't you get mad?\""
+    },
+    {
+      "offset": 5327,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「だって、あの桜が枯れたら、頼子ちゃんは消\n　えちゃうんだよ？　あんだすたん？」",
+      "en": "\"Why are you mad?\"",
+      "text": "\"Why are you mad?\""
+    },
+    {
+      "offset": 5413,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ああ」",
+      "en": "\"You should be mad, because if the cherry tree dies,\nYoriko-chan will disappear. DO YOU UNDERSTAND?\"",
+      "text": "\"You should be mad, because if the cherry tree dies,\nYoriko-chan will disappear. DO YOU UNDERSTAND?\""
+    },
+    {
+      "offset": 5458,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ふ〜ん……。せっかく、金属バットだって用\n　意したのにな……」",
+      "en": "\"Huh...... I brought this metal bat all the way here for\nnothing...\"",
+      "text": "\"Huh...... I brought this metal bat all the way here for\nnothing...\""
+    },
+    {
+      "offset": 5528,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こんこんと、先端を爪先でけっ飛ばした。",
+      "en": "She kicks the end of the bat with her toes.",
+      "text": "She kicks the end of the bat with her toes."
+    },
+    {
+      "offset": 5573,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あんなあ」",
+      "en": "\"Hey, you.\"",
+      "text": "\"Hey, you.\""
+    },
+    {
+      "offset": 5592,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "望み通り、怒ったような声で俺は言った。",
+      "en": "I make the angry voice she wanted.",
+      "text": "I make the angry voice she wanted."
+    },
+    {
+      "offset": 5637,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お前の思惑はお前のものだろ。俺達二人には、\n　関係がないんだよ」",
+      "en": "\"Your interest is yours. It has nothing to do with us.\"",
+      "text": "\"Your interest is yours. It has nothing to do with us.\""
+    },
+    {
+      "offset": 5739,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うわっ、何それ！　ひっどい言い草！」",
+      "en": "\"What! You're so mean!\"",
+      "text": "\"What! You're so mean!\""
+    },
+    {
+      "offset": 5784,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「知るか」",
+      "en": "\"I don't care.\"",
+      "text": "\"I don't care.\""
+    },
+    {
+      "offset": 5813,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "歩を早め、校門へと向かう。",
+      "en": "I keep walking to the gate.",
+      "text": "I keep walking to the gate."
+    },
+    {
+      "offset": 5844,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "実際のところ、さくらの考えなど知ったことじゃ\nないのだ。",
+      "en": "As a matter of fact, I really don't care what Sakura has on\nher mind.",
+      "text": "As a matter of fact, I really don't care what Sakura has on\nher mind."
+    },
+    {
+      "offset": 5904,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頼子さんが消えると告げ、俺がそれを受け入れ\nた。",
+      "en": "Yoriko-san told me that she has to disappear, and I accepted\nit.",
+      "text": "Yoriko-san told me that she has to disappear, and I accepted\nit."
+    },
+    {
+      "offset": 5956,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "重要なのは、そこの部分だけ。",
+      "en": "That's the only important thing about it.",
+      "text": "That's the only important thing about it."
+    },
+    {
+      "offset": 6004,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「お兄ちゃん！」",
+      "en": "\"Hey, oniichan!\"",
+      "text": "\"Hey, oniichan!\""
+    },
+    {
+      "offset": 6027,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ほとんど小走りになって、俺の横に並んだ。俺\nは足を緩めた。",
+      "en": "She runs after me and comes right up beside me. I slow down\nmy pace for her.",
+      "text": "She runs after me and comes right up beside me. I slow down\nmy pace for her."
+    },
+    {
+      "offset": 6091,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まだ、何かあるのか？」",
+      "en": "\"What else do you want?\"",
+      "text": "\"What else do you want?\""
+    },
+    {
+      "offset": 6157,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ボクのこと……嫌いにならないでよね」",
+      "en": "\"Please don't...... hate me, please?\"",
+      "text": "\"Please don't...... hate me, please?\""
+    },
+    {
+      "offset": 6202,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 6221,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……とりあえず、頭上に振り上げたバットを\n　下ろしてくれたらな」",
+      "en": "\"......I won't if you put down your metal bat that you just\nraised above my head.\"",
+      "text": "\"......I won't if you put down your metal bat that you just\nraised above my head.\""
+    },
+    {
+      "offset": 6323,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あにゃ？　てへへ……ＮＯって言ったら、ぶっ\n　叩こうかと思って」",
+      "en": "\"What? Ha-ha-ha...... I was just getting ready to hit you if\nyou said you would hate me.\"",
+      "text": "\"What? Ha-ha-ha...... I was just getting ready to hit you if\nyou said you would hate me.\""
+    },
+    {
+      "offset": 6395,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "死ぬ。",
+      "en": "She was gonna kill me.",
+      "text": "She was gonna kill me."
+    },
+    {
+      "offset": 6408,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「別に、嫌いにはならねえよ」",
+      "en": "\"I won't hate you.\"",
+      "text": "\"I won't hate you.\""
+    },
+    {
+      "offset": 6443,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらの表情から、こいつはこいつで、何かを\n抱えているんだと悟った。",
+      "en": "I realize from the expression on her face that she's having\nsome problems.",
+      "text": "I realize from the expression on her face that she's having\nsome problems."
+    },
+    {
+      "offset": 6515,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今の俺は、それを一緒に支えることは出来ない\nけれど……。",
+      "en": "But I can't support her right now.",
+      "text": "But I can't support her right now."
+    },
+    {
+      "offset": 6577,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おら、さっさと行こうぜ。さっきも言ったけ\n　ど、遅刻するっての」",
+      "en": "\"Let's just go now. Like I said, I'll be late.\"",
+      "text": "\"Let's just go now. Like I said, I'll be late.\""
+    },
+    {
+      "offset": 6679,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うん」",
+      "en": "\"Okay.\"",
+      "text": "\"Okay.\""
+    },
+    {
+      "offset": 6816,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆さくらが桜を◆",
+      "en": "◆Junichi◆",
+      "text": "◆Junichi◆"
+    },
+    {
+      "offset": 6860,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつも通りの朝。俺と頼子さんは、無理矢理に\nでもいつも通りの日常を送る。",
+      "en": "\"It's morning already......\"",
+      "text": "\"It's morning already......\""
+    },
+    {
+      "offset": 6964,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "家を出て学校に向かう途中、さくらに出会った。",
+      "en": "It was close to dawn when I finally felt sleepy.",
+      "text": "It was close to dawn when I finally felt sleepy."
+    },
+    {
+      "offset": 7013,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらは、珍しく神妙な面持ちにで、あの願い\nの桜を枯らすのは自分なんだと俺に告げるのだっ\nた。",
+      "en": "It means that I haven't slept for 24 hours.",
+      "text": "It means that I haven't slept for 24 hours."
+    },
+    {
+      "offset": 7114,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あの願いの桜が枯れたとき、頼子さんは消えて\nしまうらしい。",
+      "en": "I look at my alarm clock, and I still have 10 more minutes\ntill the time I'm supposed to wake up.",
+      "text": "I look at my alarm clock, and I still have 10 more minutes\ntill the time I'm supposed to wake up."
+    },
+    {
+      "offset": 7176,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "でも、誰が悪いとか、そんな事は関係なかった。\n頼子さんが消えると告げ、俺はそれを受け入れ\nた。",
+      "en": "\"......I am so sleepy.\"",
+      "text": "\"......I am so sleepy.\""
+    },
+    {
+      "offset": 7273,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただ、それだけなんだ。",
+      "en": "I feel heaviness deep within my head. The heaviness is\ncoming from my thoughts about Yoriko-san.",
+      "text": "I feel heaviness deep within my head. The heaviness is\ncoming from my thoughts about Yoriko-san."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "866": "Yoriko",
+    "932": "Yoriko",
+    "989": "Yoriko",
+    "1296": "Yoriko",
+    "1423": "Yoriko",
+    "1752": "Yoriko",
+    "1842": "Yoriko",
+    "2177": "Yoriko",
+    "2422": "Yoriko",
+    "2512": "Yoriko",
+    "2664": "Yoriko",
+    "2967": "Yoriko",
+    "3190": "Yoriko",
+    "3379": "Yoriko",
+    "3504": "Sakura",
+    "3663": "Sakura",
+    "3843": "Sakura",
+    "4086": "Sakura",
+    "4344": "Sakura",
+    "4630": "Sakura",
+    "4851": "Sakura",
+    "5212": "Sakura",
+    "5317": "Sakura",
+    "5448": "Sakura",
+    "5729": "Sakura",
+    "5994": "Sakura",
+    "6147": "Sakura",
+    "6313": "Sakura",
+    "6669": "Sakura"
+  }
+}

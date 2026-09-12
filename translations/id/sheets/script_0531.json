@@ -1,0 +1,1763 @@
+{
+  "scene": "script_0531.obj",
+  "dialogues": [
+    {
+      "offset": 221,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さて、そろそろ時間か」",
+      "en": "Nemu, who was leaning against the wall, got up.",
+      "text": "Nemu, who was leaning against the wall, got up."
+    },
+    {
+      "offset": 452,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……遅いよ、兄さん」",
+      "en": "\"Miharu's house is quite far away from here.\"",
+      "text": "\"Miharu's house is quite far away from here.\""
+    },
+    {
+      "offset": 504,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "壁に背を預けていた音夢が、すっと身体を起こ\nした。",
+      "en": "\"Yeah, that's right.\"",
+      "text": "\"Yeah, that's right.\""
+    },
+    {
+      "offset": 588,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そうだよ。美春の家って、ここから割と離れ\n　ているんだから」",
+      "en": "\"Okay...\"",
+      "text": "\"Okay...\""
+    },
+    {
+      "offset": 656,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「まあ、そうだな」",
+      "en": "\"Wait... Do you know where Miharu lives?\"",
+      "text": "\"Wait... Do you know where Miharu lives?\""
+    },
+    {
+      "offset": 797,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なんで｛にら／睨｝むんだよ」",
+      "en": "\"Why are you staring at me?\"",
+      "text": "\"Why are you staring at me?\""
+    },
+    {
+      "offset": 834,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかめっ面を作ろうとするが、なかなか上手く\nいかなかった。",
+      "en": "I was trying to make a confused look on my face, but it\ndidn't work well.",
+      "text": "I was trying to make a confused look on my face, but it\ndidn't work well."
+    },
+    {
+      "offset": 898,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「とにかく、遅れてるんなら、さっさと行こう」",
+      "en": "\"Let's go. We're late.\"",
+      "text": "\"Let's go. We're late.\""
+    },
+    {
+      "offset": 969,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、兄さん、逃げてる」",
+      "en": "\"Hey, niisan, you're not answering my question.\"",
+      "text": "\"Hey, niisan, you're not answering my question.\""
+    },
+    {
+      "offset": 1000,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やいやいうるさい音夢の声を背に、俺はかまち\nにしゃがみ込んだ。",
+      "en": "I run away from her.",
+      "text": "I run away from her."
+    },
+    {
+      "offset": 1103,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "バスから降りると、そこはもう、島の西側――。\n市営住宅が集まっている地域だ。",
+      "en": "We got off the bus on the west side of the island, the\nresidential district.",
+      "text": "We got off the bus on the west side of the island, the\nresidential district."
+    },
+    {
+      "offset": 1218,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「こっちのほうに来るの、久しぶりかな……」",
+      "en": "\"It's been a while since I last came here.\"",
+      "text": "\"It's been a while since I last came here.\""
+    },
+    {
+      "offset": 1267,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "夜気を吸い込むように大きく胸を膨らませて、\n音夢が言った。",
+      "en": "Said Nemu, taking a deep breath.",
+      "text": "Said Nemu, taking a deep breath."
+    },
+    {
+      "offset": 1331,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まあ、用がなければ、あまり来ない場所では\n　あるよな」",
+      "en": "\"We don't come to the places like this often.\"",
+      "text": "\"We don't come to the places like this often.\""
+    },
+    {
+      "offset": 1421,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「でも、高台まで登ると、割と近いんですよ」",
+      "en": "\"But actually it's close to here if you come from the hill.\"",
+      "text": "\"But actually it's close to here if you come from the hill.\""
+    },
+    {
+      "offset": 1470,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「高台って、桜公園の？　そうなんだ」",
+      "en": "\"The hill in Sakura Park? I didn't know that.\"",
+      "text": "\"The hill in Sakura Park? I didn't know that.\""
+    },
+    {
+      "offset": 1513,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちょっと意外。",
+      "en": "That's surprising.",
+      "text": "That's surprising."
+    },
+    {
+      "offset": 1562,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「まあ、かったるい病に取り憑かれた兄さんは、\n　高台になんか登らないでしょうけど」",
+      "en": "\"I guess you don't want to climb up there because it would\nbe a pain.\"",
+      "text": "\"I guess you don't want to climb up there because it would\nbe a pain.\""
+    },
+    {
+      "offset": 1650,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「何で病が憑くんだよ」",
+      "en": "\"You don't know me.\"",
+      "text": "\"You don't know me.\""
+    },
+    {
+      "offset": 1679,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "憎まれ口の音夢に、肩をすくめてみせた。",
+      "en": "Then I just shrug my shoulders.",
+      "text": "Then I just shrug my shoulders."
+    },
+    {
+      "offset": 1724,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ほら、しょうもないこと言ってないで、さっ\n　さと行くぞ」",
+      "en": "\"Hey, let's get going.\"",
+      "text": "\"Hey, let's get going.\""
+    },
+    {
+      "offset": 1788,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "時計を街灯に向けると、少し遅刻していた。",
+      "en": "I looked at my watch. We're a bit late for the party.",
+      "text": "I looked at my watch. We're a bit late for the party."
+    },
+    {
+      "offset": 1871,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、美春の家の前。",
+      "en": "At Miharu's house.",
+      "text": "At Miharu's house."
+    },
+    {
+      "offset": 1900,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……お前、緊張してるのか？」",
+      "en": "\"Are you nervous?\"",
+      "text": "\"Are you nervous?\""
+    },
+    {
+      "offset": 1970,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「えっ？　う、ううん、そんなことないよ」",
+      "en": "\"No... I'm not.\"",
+      "text": "\"No... I'm not.\""
+    },
+    {
+      "offset": 2017,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あからさまに硬い口調で、音夢が首を横に振る。\nリンリンと、鈴が切なげに鳴った。",
+      "en": "Nemu shakes her head in denial, and the bell around her neck\nrings.",
+      "text": "Nemu shakes her head in denial, and the bell around her neck\nrings."
+    },
+    {
+      "offset": 2101,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……まあ、いいけど。じゃ、押すぞ」",
+      "en": "\"Okay... Here we go...\"",
+      "text": "\"Okay... Here we go...\""
+    },
+    {
+      "offset": 2153,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "覚悟を決めるように宣言して、インターホンに\n指を近づける。",
+      "en": "I was about to ring the doorbell.",
+      "text": "I was about to ring the doorbell."
+    },
+    {
+      "offset": 2228,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あっ」",
+      "en": "\"Ah!\"",
+      "text": "\"Ah!\""
+    },
+    {
+      "offset": 2243,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2262,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「指折りか？　それは、禁じ手すぎるぞ」",
+      "en": "\"Are you trying to break my fingers or something?\"",
+      "text": "\"Are you trying to break my fingers or something?\""
+    },
+    {
+      "offset": 2351,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、あはははは」",
+      "en": "\"H-Hahahaha.\"",
+      "text": "\"H-Hahahaha.\""
+    },
+    {
+      "offset": 2376,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の人差し指が、音夢の柔らかな｛てのひら／掌｝で包み込ま\nれていた。",
+      "en": "Nemu's hand grabbed my finger. Her hand feels a bit sweaty.",
+      "text": "Nemu's hand grabbed my finger. Her hand feels a bit sweaty."
+    },
+    {
+      "offset": 2481,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……ご、ごめん」",
+      "en": "\"S-Sorry...\"",
+      "text": "\"S-Sorry...\""
+    },
+    {
+      "offset": 2506,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢が、そろそろと俺の指を離す。",
+      "en": "\"Ready?\"",
+      "text": "\"Ready?\""
+    },
+    {
+      "offset": 2545,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ここまで来たんだ。もうジタバタするなよ」",
+      "en": "I pushed the button.",
+      "text": "I pushed the button."
+    },
+    {
+      "offset": 2594,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自由になった指で、ボタンを押す。",
+      "en": "That moment we hear noisy footsteps from behind the door.",
+      "text": "That moment we hear noisy footsteps from behind the door."
+    },
+    {
+      "offset": 2631,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、すぐにドアの向こうから、どたどたと騒々\nしい足音が聞こえてきた。",
+      "en": "Thud!",
+      "text": "Thud!"
+    },
+    {
+      "offset": 2753,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「だっ、わわわ！！」",
+      "en": "\"Wow!!\"",
+      "text": "\"Wow!!\""
+    },
+    {
+      "offset": 2791,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ズシャーー！",
+      "en": "Thud!",
+      "text": "Thud!"
+    },
+    {
+      "offset": 2814,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ゴチン！",
+      "en": "Thud!",
+      "text": "Thud!"
+    },
+    {
+      "offset": 2829,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2848,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛あぜん／唖然｝として、道の向こうに目をやる。",
+      "en": "With astonishment, I look over the other side of the street.",
+      "text": "With astonishment, I look over the other side of the street."
+    },
+    {
+      "offset": 2899,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "道路を滑っていった美春らしき物体は、向かい\nの家の塀に激突していた。",
+      "en": "Miharu just slid through the door and crashed into her\nneighbor's fence across the street.",
+      "text": "Miharu just slid through the door and crashed into her\nneighbor's fence across the street."
+    },
+    {
+      "offset": 2973,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……楽しすぎるぞ、おい」",
+      "en": "\"Thanks for the greeting...\"",
+      "text": "\"Thanks for the greeting...\""
+    },
+    {
+      "offset": 3006,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "残り少ない寿命を、自分で自爆してどうする。",
+      "en": "\"You awake?\"",
+      "text": "\"You awake?\""
+    },
+    {
+      "offset": 3116,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あ、えへへ……ついつい、勢い余ってしまい\n　ました」",
+      "en": "\"Hehehe... I got a little carried away.\"",
+      "text": "\"Hehehe... I got a little carried away.\""
+    },
+    {
+      "offset": 3176,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなレベルとも違うと思うが。",
+      "en": "I can't agree more...",
+      "text": "I can't agree more..."
+    },
+    {
+      "offset": 3241,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「おふたりとも、良く来て下さいましたっ！」",
+      "en": "\"Welcome, guys! Thanks for coming!\"",
+      "text": "\"Welcome, guys! Thanks for coming!\""
+    },
+    {
+      "offset": 3290,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「おう、良く来てやったぞ。よきに計らえ」",
+      "en": "\"No problem.\"",
+      "text": "\"No problem.\""
+    },
+    {
+      "offset": 3365,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ささ、早く早く。もう、他の人達は来ちゃっ\n　てますよ」",
+      "en": "\"Please come on in. The others are already here.\"",
+      "text": "\"Please come on in. The others are already here.\""
+    },
+    {
+      "offset": 3436,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺と音夢の手を掴み、ドアへと引っ張っていく。",
+      "en": "She grabbed us by our hands and pulled us to the door.",
+      "text": "She grabbed us by our hands and pulled us to the door."
+    },
+    {
+      "offset": 3520,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え、他の人達って？」",
+      "en": "\"The others?\"",
+      "text": "\"The others?\""
+    },
+    {
+      "offset": 3549,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "逆に引っ張り返したのか、美春の身体がくるり\nとこちらに向いた。",
+      "en": "Nemu pushed Miharu's hand back, and Miharu turned around.",
+      "text": "Nemu pushed Miharu's hand back, and Miharu turned around."
+    },
+    {
+      "offset": 3650,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「友達です。美春の。さ、そんな事より、早く、\n　早くぅ」",
+      "en": "\"These are my friends. Come on in.\"",
+      "text": "\"These are my friends. Come on in.\""
+    },
+    {
+      "offset": 3721,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "手を離し、子供のように、ぱたぱたとドアまで\n疾走する。",
+      "en": "Miharu let go of our hands and ran through the door.",
+      "text": "Miharu let go of our hands and ran through the door."
+    },
+    {
+      "offset": 3781,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「やれやれ」",
+      "en": "\"Hey...\"",
+      "text": "\"Hey...\""
+    },
+    {
+      "offset": 3800,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺もそれについて行くが、もうひとつの足音が\n聞こえなかった。",
+      "en": "I started to walk after her, but then I noticed Nemu was not\ncoming.",
+      "text": "I started to walk after her, but then I noticed Nemu was not\ncoming."
+    },
+    {
+      "offset": 3888,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……音夢？」",
+      "en": "\"Nemu?\"",
+      "text": "\"Nemu?\""
+    },
+    {
+      "offset": 3909,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ドアからの光のせいだろうか、音夢の顔が妙に\n白い。",
+      "en": "Nemu's face looks creamy in the sunlight coming through the\ndoor.",
+      "text": "Nemu's face looks creamy in the sunlight coming through the\ndoor."
+    },
+    {
+      "offset": 3989,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ざわざわと楽しげな居間へと通された。",
+      "en": "We walk through to the living room.",
+      "text": "We walk through to the living room."
+    },
+    {
+      "offset": 4030,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "部屋にいたのは何人かの女の子だった。何とな\nく見覚えがあるが、きっと、美春の友達だろう。",
+      "en": "There are several girls in the room. They must all be\nMiharu's friends because some of them look familiar.",
+      "text": "There are several girls in the room. They must all be\nMiharu's friends because some of them look familiar."
+    },
+    {
+      "offset": 4122,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "顔を知っているのは向こうも同じなのか、笑顔\nで会釈をしてくれた。",
+      "en": "They bow to us with smiles. I guess they may know us.",
+      "text": "They bow to us with smiles. I guess they may know us."
+    },
+    {
+      "offset": 4224,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ささ、上座へどうぞ」",
+      "en": "\"Please take a VIP seat there.\"",
+      "text": "\"Please take a VIP seat there.\""
+    },
+    {
+      "offset": 4253,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「上座もへったくれもあるかっての」",
+      "en": "\"VIP? Whatever...\"",
+      "text": "\"VIP? Whatever...\""
+    },
+    {
+      "offset": 4305,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 4324,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とは言え、テーブルの良い位置に案内してくれ\nたのか、料理に近い。",
+      "en": "This is a nice seat because it is close to the food on the\ntable.",
+      "text": "This is a nice seat because it is close to the food on the\ntable."
+    },
+    {
+      "offset": 4394,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（しかし……どっかで見たな、これ……）",
+      "en": "\"The food looks familiar...\"",
+      "text": "\"The food looks familiar...\""
+    },
+    {
+      "offset": 4439,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "テーブルのそれは、否応を言わせない存在感を\n漂わせている。",
+      "en": "All the dishes are set on the table so nicely. It looks\noverwhelming.",
+      "text": "All the dishes are set on the table so nicely. It looks\noverwhelming."
+    },
+    {
+      "offset": 4501,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何やら心配になってしまうが、まあ、これだけ\nの人数だ、きっと、食べきれるだろ……。",
+      "en": "I'm beginning to worry if we can finish all this food.",
+      "text": "I'm beginning to worry if we can finish all this food."
+    },
+    {
+      "offset": 4600,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「これで、みんな揃いましたね」",
+      "en": "\"Okay, everyone is here now.\"",
+      "text": "\"Okay, everyone is here now.\""
+    },
+    {
+      "offset": 4643,
+      "speaker": "Friend",
+      "speaker_jp": "友達",
+      "jp": "「それじゃ、電気消すね」",
+      "en": "\"Let ms switch off the lights.\"",
+      "text": "\"Let ms switch off the lights.\""
+    },
+    {
+      "offset": 4700,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "パチリ。",
+      "en": "Click.",
+      "text": "Click."
+    },
+    {
+      "offset": 4721,
+      "speaker": "Friend",
+      "speaker_jp": "友達",
+      "jp": "「じゃ、行くよ〜」",
+      "en": "\"Ready?\"",
+      "text": "\"Ready?\""
+    },
+    {
+      "offset": 4746,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "壁際に行っていた女の子が、所定の位置に戻る。",
+      "en": "A girl standing by the window returned to where she was\nsitting.",
+      "text": "A girl standing by the window returned to where she was\nsitting."
+    },
+    {
+      "offset": 4795,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、歌が始まった。誕生日の定番。恒例の\nあの歌だ。",
+      "en": "Then everyone began to sing Happy Birthday.",
+      "text": "Then everyone began to sing Happy Birthday."
+    },
+    {
+      "offset": 4855,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はっぴ、ば〜すで〜、とぅ〜ゆ〜♪」",
+      "en": "\"Happy Birthday to you.\"",
+      "text": "\"Happy Birthday to you.\""
+    },
+    {
+      "offset": 4898,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はっぴ、ば〜すで〜、とぅ〜ゆ〜♪」",
+      "en": "\"Happy Birthday to you.\"",
+      "text": "\"Happy Birthday to you.\""
+    },
+    {
+      "offset": 4941,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（……ん？）",
+      "en": "\"Hmm?\"",
+      "text": "\"Hmm?\""
+    },
+    {
+      "offset": 4960,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふと、音夢の口が全く動いていないことに気が\nついた。",
+      "en": "I noticed that Nemu was not moving her mouth.",
+      "text": "I noticed that Nemu was not moving her mouth."
+    },
+    {
+      "offset": 5016,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "動いてないどころか──唇が固く、引き締めら\nれている。",
+      "en": "Rather, she kept her mouth closed firmly.",
+      "text": "Rather, she kept her mouth closed firmly."
+    },
+    {
+      "offset": 5076,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「──でぃあ、美春〜♪」",
+      "en": "\"----Dear Miharu.\"",
+      "text": "\"----Dear Miharu.\""
+    },
+    {
+      "offset": 5121,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ガタンッ！",
+      "en": "Thud!",
+      "text": "Thud!"
+    },
+    {
+      "offset": 5138,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ……？」",
+      "en": "\"Uh...?\"",
+      "text": "\"Uh...?\""
+    },
+    {
+      "offset": 5157,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ストップボタンを押されたように、歌が止まる。\n室内の全ての視線が、そこに集まっていた。",
+      "en": "Suddenly, everyone stopped singing and turned their eyes to\nwhere the sound came from.",
+      "text": "Suddenly, everyone stopped singing and turned their eyes to\nwhere the sound came from."
+    },
+    {
+      "offset": 5247,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "唐突に立ち上がった、音夢に。",
+      "en": "It was Nemu that abruptly stood up.",
+      "text": "It was Nemu that abruptly stood up."
+    },
+    {
+      "offset": 5293,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、ご、ごめんなさい、私、その──」",
+      "en": "\"Ahh... S-Sorry... I...\"",
+      "text": "\"Ahh... S-Sorry... I...\""
+    },
+    {
+      "offset": 5338,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しどろもどろに不明瞭な言葉を残し、音夢が走\nり去っていった。",
+      "en": "Nemu mumbled a few words and left the room.",
+      "text": "Nemu mumbled a few words and left the room."
+    },
+    {
+      "offset": 5402,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──バタン。遠くで、扉の閉まる音。",
+      "en": "Thud... I heard the door shut.",
+      "text": "Thud... I heard the door shut."
+    },
+    {
+      "offset": 5443,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「！？　い、いつつ……！」",
+      "en": "\"!? Damn Nemu...!\"",
+      "text": "\"!? Damn Nemu...!\""
+    },
+    {
+      "offset": 5476,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "冷たい指で胸を無理矢理引き裂かれるような激\n痛に、思わず身体を折り曲げた。",
+      "en": "Suddenly, a bursting pain strikes me and I bend my body\nover.",
+      "text": "Suddenly, a bursting pain strikes me and I bend my body\nover."
+    },
+    {
+      "offset": 5556,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ぐ……う……？」",
+      "en": "\"Uh... Uh...\"",
+      "text": "\"Uh... Uh...\""
+    },
+    {
+      "offset": 5592,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「せ、先輩！？　ど、どうしました？」",
+      "en": "\"S-Sempai!? What happened?\"",
+      "text": "\"S-Sempai!? What happened?\""
+    },
+    {
+      "offset": 5635,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぽてぽてと、背中が柔らかく叩かれる。優しい\nやつだよな、美春は……。",
+      "en": "Miharu gently pats me on the back. What a generous girl she\nis!",
+      "text": "Miharu gently pats me on the back. What a generous girl she\nis!"
+    },
+    {
+      "offset": 5720,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「先輩？」",
+      "en": "\"Sempai?\"",
+      "text": "\"Sempai?\""
+    },
+    {
+      "offset": 5737,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どか、どか。",
+      "en": "Dub-a-dub.",
+      "text": "Dub-a-dub."
+    },
+    {
+      "offset": 5767,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「……先輩ってば？」",
+      "en": "\"Sempai?\"",
+      "text": "\"Sempai?\""
+    },
+    {
+      "offset": 5794,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ずどっ。ずどっ。",
+      "en": "Rub-a-dub.",
+      "text": "Rub-a-dub."
+    },
+    {
+      "offset": 5817,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ま、待て待て待て」",
+      "en": "\"W-Wait... wait...\"",
+      "text": "\"W-Wait... wait...\""
+    },
+    {
+      "offset": 5844,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "パワーをいや増す攻撃に、俺は何とか身体を起\nこした。",
+      "en": "I managed to get myself up.",
+      "text": "I managed to get myself up."
+    },
+    {
+      "offset": 5926,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "居ない。",
+      "en": "She's gone.",
+      "text": "She's gone."
+    },
+    {
+      "offset": 5939,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "消えた音夢の姿に、さっきの出来事が夢でも幻\nでもないことを実感した。",
+      "en": "Now I realize what happened back there wasn't a dream.",
+      "text": "Now I realize what happened back there wasn't a dream."
+    },
+    {
+      "offset": 6024,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「先輩……音夢先輩は……」",
+      "en": "\"Sempai... What happened to Nemu-sempai?\"",
+      "text": "\"Sempai... What happened to Nemu-sempai?\""
+    },
+    {
+      "offset": 6057,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ああ、その……ったく」",
+      "en": "\"Uhh... I don't know...\"",
+      "text": "\"Uhh... I don't know...\""
+    },
+    {
+      "offset": 6088,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ここまで来て、放っておくことも出来ない。",
+      "en": "I just can't leave Nemu alone.",
+      "text": "I just can't leave Nemu alone."
+    },
+    {
+      "offset": 6135,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「悪い。俺も、ちょっと出る。連れ戻し──て\n　これるかどうかは、わからないけど」",
+      "en": "\"Sorry. Let me go and find her. I'll bring her back, if I\ncan...\"",
+      "text": "\"Sorry. Let me go and find her. I'll bring her back, if I\ncan...\""
+    },
+    {
+      "offset": 6233,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "居間を出ようとした矢先、美春の声に呼び止め\nられた。",
+      "en": "Miharu called after me as I was leaving the living room.",
+      "text": "Miharu called after me as I was leaving the living room."
+    },
+    {
+      "offset": 6302,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あの……音夢先輩に謝っておいてもらえます\n　か。ごめんなさいって……」",
+      "en": "\"Can you please tell her I'm sorry?\"",
+      "text": "\"Can you please tell her I'm sorry?\""
+    },
+    {
+      "offset": 6397,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、ただ口をへの字に曲げた。",
+      "en": "\".........\"",
+      "text": "\".........\""
+    },
+    {
+      "offset": 6432,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "謝らなきゃならないのは、どっちだっての。",
+      "en": "I didn't know how to respond.",
+      "text": "I didn't know how to respond."
+    },
+    {
+      "offset": 6498,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さすがにいない……か」",
+      "en": "Who should be apologizing?",
+      "text": "Who should be apologizing?"
+    },
+    {
+      "offset": 6529,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "右にも左にも、音夢の姿はなかった。",
+      "en": "\"I wonder where she went.\"",
+      "text": "\"I wonder where she went.\""
+    },
+    {
+      "offset": 6570,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……バス停か？」",
+      "en": "I couldn't find Nemu anywhere.",
+      "text": "I couldn't find Nemu anywhere."
+    },
+    {
+      "offset": 6595,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "帰るとしたらそっちの方向だろう。",
+      "en": "\"The bus stop?\"",
+      "text": "\"The bus stop?\""
+    },
+    {
+      "offset": 6667,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\".........\"",
+      "text": "\".........\""
+    },
+    {
+      "offset": 6686,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "人っ子ひとり見あたらない。俺は早速、最初に\nして唯一の候補地を失った。",
+      "en": "No one was there. I can't think of any other places she\ncould possibly be.",
+      "text": "No one was there. I can't think of any other places she\ncould possibly be."
+    },
+    {
+      "offset": 6762,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「他に心当たりなんて、ないしな……」",
+      "en": "\"Where else could she have gone?\"",
+      "text": "\"Where else could she have gone?\""
+    },
+    {
+      "offset": 6805,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢自身が言っていたことを思い出す。島のこっ\nち側には、あまり来ないと……。",
+      "en": "Nemu said she didn't come here very often.",
+      "text": "Nemu said she didn't come here very often."
+    },
+    {
+      "offset": 6887,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……ん？　待てよ……」",
+      "en": "\"Wait...\"",
+      "text": "\"Wait...\""
+    },
+    {
+      "offset": 6918,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その時に、何か言っていなかったか？",
+      "en": "She also said something else.",
+      "text": "She also said something else."
+    },
+    {
+      "offset": 6957,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は記憶を遡り、しばらくして、求めていた答\nえを見つけだした。",
+      "en": "I recall what she said earlier.",
+      "text": "I recall what she said earlier."
+    },
+    {
+      "offset": 7085,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「やっぱり、ここだったか……」",
+      "en": "\"There you are. Don't ever make me do this again.\"",
+      "text": "\"There you are. Don't ever make me do this again.\""
+    },
+    {
+      "offset": 7155,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……ごめんね、兄さん」",
+      "en": "\"I'm sorry, niisan.\"",
+      "text": "\"I'm sorry, niisan.\""
+    },
+    {
+      "offset": 7186,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……いや、その、何だ……」",
+      "en": "\"Well... You know?... Uh...\"",
+      "text": "\"Well... You know?... Uh...\""
+    },
+    {
+      "offset": 7221,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しゅんとして謝られると、さすがにやりにくい。",
+      "en": "I can't come on too strong if she is already so apologetic.",
+      "text": "I can't come on too strong if she is already so apologetic."
+    },
+    {
+      "offset": 7272,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……で、どうしたんだよ、お前は」",
+      "en": "\"What happened, Nemu?\"",
+      "text": "\"What happened, Nemu?\""
+    },
+    {
+      "offset": 7313,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "丸太を切ったようなベンチに、ふたり並んで腰\nかける。",
+      "en": "We sit on the log chair.",
+      "text": "We sit on the log chair."
+    },
+    {
+      "offset": 7399,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 7418,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぽつぽつと灯った光。あの中に、美春の家もあ\nるのだろうか……？",
+      "en": "From the hill I can see the lights in the town. I wonder if\none of those lights comes from Miharu's house.",
+      "text": "From the hill I can see the lights in the town. I wonder if\none of those lights comes from Miharu's house."
+    },
+    {
+      "offset": 7497,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……怖かったの」",
+      "en": "\"I was scared...\"",
+      "text": "\"I was scared...\""
+    },
+    {
+      "offset": 7522,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「怖い？」",
+      "en": "\"Scared?\"",
+      "text": "\"Scared?\""
+    },
+    {
+      "offset": 7567,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うん……」",
+      "en": "\"Yes...\"",
+      "text": "\"Yes...\""
+    },
+    {
+      "offset": 7586,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "遠い目で街を見下ろしながら、音夢がこっくり\nと頷く。",
+      "en": "Nemu nods her head, looking across the town.",
+      "text": "Nemu nods her head, looking across the town."
+    },
+    {
+      "offset": 7642,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その姿は、遠い昔を思い起こさせた。音夢が本\n当に泣き虫だった、あの頃を……。",
+      "en": "Looking at Nemu sideways reminds me of the good old days,\nwhen she was just a crybaby.",
+      "text": "Looking at Nemu sideways reminds me of the good old days,\nwhen she was just a crybaby."
+    },
+    {
+      "offset": 7735,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あの歌を聴いていたら……何だか、我慢でき\n　ないくらい怖くなっちゃって……」",
+      "en": "\"I got scared when I was listening to the song...\"",
+      "text": "\"I got scared when I was listening to the song...\""
+    },
+    {
+      "offset": 7819,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「歌って、誕生日のか？」",
+      "en": "\"The song... You mean the birthday song?\"",
+      "text": "\"The song... You mean the birthday song?\""
+    },
+    {
+      "offset": 7878,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そう」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 7893,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 7912,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あれのどこに、ホラーな要素があるんだ？",
+      "en": "Is that song scary?",
+      "text": "Is that song scary?"
+    },
+    {
+      "offset": 7968,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「みんな、おめでとうって……。美春、誕生日\n　おめでとうって……」",
+      "en": "\"They all said happy birthday Miharu...\"",
+      "text": "\"They all said happy birthday Miharu...\""
+    },
+    {
+      "offset": 8051,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あの場にいたのは……本物の美春じゃないの\n　に……」",
+      "en": "\"But the girl there is not really Miharu...\"",
+      "text": "\"But the girl there is not really Miharu...\""
+    },
+    {
+      "offset": 8111,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 8141,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あそこにいたみんなが、あの子を美春だって\n　思いこんでいた……」",
+      "en": "\"Everyone in that room thinks she is Miharu...\"",
+      "text": "\"Everyone in that room thinks she is Miharu...\""
+    },
+    {
+      "offset": 8224,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「本物の美春が、どこでどうしているか、それ\n　すらも知らずに……」",
+      "en": "\"They don't even know how the real Miharu is doing...\"",
+      "text": "\"They don't even know how the real Miharu is doing...\""
+    },
+    {
+      "offset": 8307,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「それで私、本当に怖くなって……」",
+      "en": "\"So I got scared...\"",
+      "text": "\"So I got scared...\""
+    },
+    {
+      "offset": 8348,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "寒さを堪えるように、その身に何かを留めるよ\nうに、音夢が両肩を｛か／掻｝き抱く。",
+      "en": "Nemu holds her shoulders with her hands as if she was trying\nto bear the cold.",
+      "text": "Nemu holds her shoulders with her hands as if she was trying\nto bear the cold."
+    },
+    {
+      "offset": 8445,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「私の知っている美春が、いなくなっちゃうっ\n　て……」",
+      "en": "\"The Miharu that I know is gone...\"",
+      "text": "\"The Miharu that I know is gone...\""
+    },
+    {
+      "offset": 8505,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……ああ、その……」",
+      "en": "\"Hey... Look...\"",
+      "text": "\"Hey... Look...\""
+    },
+    {
+      "offset": 8534,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何となく分かる。分かるけど……。",
+      "en": "I kind of know how she feels, but...",
+      "text": "I kind of know how she feels, but..."
+    },
+    {
+      "offset": 8573,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……バカ」",
+      "en": "\"...You idiot...\"",
+      "text": "\"...You idiot...\""
+    },
+    {
+      "offset": 8603,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……どうせ私は、バカです……」",
+      "en": "\"I know...\"",
+      "text": "\"I know...\""
+    },
+    {
+      "offset": 8642,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 8661,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とても素直で、兄さん嬉しい。",
+      "en": "She admits it.",
+      "text": "She admits it."
+    },
+    {
+      "offset": 8694,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──が、面白くはないな。",
+      "en": "This soon?",
+      "text": "This soon?"
+    },
+    {
+      "offset": 8725,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「何か……おまえは、勘違いしているぞ」",
+      "en": "\"Nemu, I think you're misunderstanding something.\"",
+      "text": "\"Nemu, I think you're misunderstanding something.\""
+    },
+    {
+      "offset": 8770,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「たぶん、あの美春が……本来の『美春』の居\n　場所を奪ったと、そう思ってるんだろ？」",
+      "en": "\"You think that girl has stolen everything from the real\nMiharu, don't you?\"",
+      "text": "\"You think that girl has stolen everything from the real\nMiharu, don't you?\""
+    },
+    {
+      "offset": 8888,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ……。うん……」",
+      "en": "\"Uh... Yes...\"",
+      "text": "\"Uh... Yes...\""
+    },
+    {
+      "offset": 8915,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「バカ」",
+      "en": "\"Idiot.\"",
+      "text": "\"Idiot.\""
+    },
+    {
+      "offset": 8958,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 8977,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あいつだってな、本物の『美春』とのギャッ\n　プに苦しんでいたんだよ」",
+      "en": "\"She's also been struggling with the gap between her and the\nreal Miharu.\"",
+      "text": "\"She's also been struggling with the gap between her and the\nreal Miharu.\""
+    },
+    {
+      "offset": 9081,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「えっ？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 9098,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「それで、みんなを騙しているみたいで心苦し\n　いって悩んでいたよ」",
+      "en": "\"She's been really suffering because she thinks she is\ndeceiving her friends.\"",
+      "text": "\"She's been really suffering because she thinks she is\ndeceiving her friends.\""
+    },
+    {
+      "offset": 9181,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 9200,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だから、あいつは『美春』の思い出を求めて、\n　島中を探し回ったんだ。少しでも『美春』に\n　近づこうとしてさ……」",
+      "en": "\"That's why she went around the island to look for Miharu's\nmemories. She wanted to get close to the real Miharu as much\nas possible.\"",
+      "text": "\"That's why she went around the island to look for Miharu's\nmemories. She wanted to get close to the real Miharu as much\nas possible.\""
+    },
+    {
+      "offset": 9330,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そう……そんなことがあったんだ」",
+      "en": "\"I didn't know that...\"",
+      "text": "\"I didn't know that...\""
+    },
+    {
+      "offset": 9399,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「それじゃあ、やっぱり……美春は……あの子\n　は、あの子なんだね」",
+      "en": "\"So Miharu... I mean that girl is... just a girl.\"",
+      "text": "\"So Miharu... I mean that girl is... just a girl.\""
+    },
+    {
+      "offset": 9482,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だって、本物の美春だったら、そんなこと考\n　えるはずないもの」",
+      "en": "\"Because the real Miharu would not have to think about it.\"",
+      "text": "\"Because the real Miharu would not have to think about it.\""
+    },
+    {
+      "offset": 9552,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 9571,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう、結局はそういうことになる。そもそも、\nそれは発端から暦先生が言っていたことだ。",
+      "en": "She is right. That's exactly what Koyomi-sensei said.",
+      "text": "She is right. That's exactly what Koyomi-sensei said."
+    },
+    {
+      "offset": 9659,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だから──、",
+      "en": "So...",
+      "text": "So..."
+    },
+    {
+      "offset": 9678,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あいつは、あいつだってコトだな」",
+      "en": "\"She's just a girl...\"",
+      "text": "\"She's just a girl...\""
+    },
+    {
+      "offset": 9730,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、あははは……」",
+      "en": "\"Hahaha...\"",
+      "text": "\"Hahaha...\""
+    },
+    {
+      "offset": 9757,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "乾いた、けれど、それなりに吹っ切れたような\n笑い。",
+      "en": "Nemu's laughing seems a bit artificial.",
+      "text": "Nemu's laughing seems a bit artificial."
+    },
+    {
+      "offset": 9841,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……私、やっぱりバカだね。何だか独り相撲\n　だったみたい」",
+      "en": "\"I AM an idiot. I feel like I was tilting at windmills all\nthis time.\"",
+      "text": "\"I AM an idiot. I feel like I was tilting at windmills all\nthis time.\""
+    },
+    {
+      "offset": 9907,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……そうでもないかもしれないけどな」",
+      "en": "\"I wouldn't say that...\"",
+      "text": "\"I wouldn't say that...\""
+    },
+    {
+      "offset": 9952,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢と同じように、美春もやはり苦しんでいた。\nふたりのその苦しみは、表裏一体なのかもしれ\nない。",
+      "en": "Like Nemu, Miharu was struggling. The pains both of them\nexperienced were like two sides of a coin.",
+      "text": "Like Nemu, Miharu was struggling. The pains both of them\nexperienced were like two sides of a coin."
+    },
+    {
+      "offset": 10051,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "親友――って言葉を、今になって本当に知った\nのかもな。",
+      "en": "This must be what friendship is all about.",
+      "text": "This must be what friendship is all about."
+    },
+    {
+      "offset": 10116,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ま、ともかく。ようやくお前の目が覚めて、\n　兄さんは嬉しいぞ」",
+      "en": "\"I'm glad it's all clear. Now you deserve to be my smart\nsister. \"",
+      "text": "\"I'm glad it's all clear. Now you deserve to be my smart\nsister. \""
+    },
+    {
+      "offset": 10186,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「わっはっはっは」",
+      "en": "\"Hahaha.\"",
+      "text": "\"Hahaha.\""
+    },
+    {
+      "offset": 10239,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……何だか、偉そうですね、兄さん」",
+      "en": "\"Now you sound a bit snobbish, niisan.\"",
+      "text": "\"Now you sound a bit snobbish, niisan.\""
+    },
+    {
+      "offset": 10282,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「はいっ？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 10301,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "宵闇の中、音夢の瞳が危険に輝いていた。",
+      "en": "Nemu's eyes are shining oddly in the darkness.",
+      "text": "Nemu's eyes are shining oddly in the darkness."
+    },
+    {
+      "offset": 10357,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そう言えば……良くも私のこと、何度もバカ\n　呼ばわりしてくれましたわね？」",
+      "en": "\"By the way, why do you keep calling me an idiot?\"",
+      "text": "\"By the way, why do you keep calling me an idiot?\""
+    },
+    {
+      "offset": 10439,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「何度もって……たった、２回じゃないか」",
+      "en": "\"I only said it twice.\"",
+      "text": "\"I only said it twice.\""
+    },
+    {
+      "offset": 10486,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "引きつった笑みを浮かべながら、俺は、湿った\nベンチをじりじりと移動した。",
+      "en": "With a chuckle, I scoot over.",
+      "text": "With a chuckle, I scoot over."
+    },
+    {
+      "offset": 10592,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「０回か、それ以上なんです。私にとっては」",
+      "en": "\"To me, it's either zero or more.\"",
+      "text": "\"To me, it's either zero or more.\""
+    },
+    {
+      "offset": 10641,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "恐ろしく極端な概念を披露すると、音夢は思い\n切り、俺の耳を引っ張った。",
+      "en": "Nemu pulls my ear hard.",
+      "text": "Nemu pulls my ear hard."
+    },
+    {
+      "offset": 10750,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "………。",
+      "en": ".........",
+      "text": "........."
+    },
+    {
+      "offset": 10763,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 10774,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…。",
+      "en": "...",
+      "text": "..."
+    },
+    {
+      "offset": 10809,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、再び誕生日会の席へ。みんな、料理に\n手もつけずに待っていてくれたらしい。",
+      "en": "We went back to the birthday party. Everyone was waiting for\nus to come back, without eating any of the food.",
+      "text": "We went back to the birthday party. Everyone was waiting for\nus to come back, without eating any of the food."
+    },
+    {
+      "offset": 10906,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「先輩〜……。どうしたんです？　耳」",
+      "en": "\"Sempai, what happened to your ear?\"",
+      "text": "\"Sempai, what happened to your ear?\""
+    },
+    {
+      "offset": 10949,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ほっとけ」",
+      "en": "\"Never mind.\"",
+      "text": "\"Never mind.\""
+    },
+    {
+      "offset": 10979,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そうそう。ほっとけばいいの。兄さんの耳は\n　ロバの耳なんだから」",
+      "en": "\"That's right. Don't let it bother you.\"",
+      "text": "\"That's right. Don't let it bother you.\""
+    },
+    {
+      "offset": 11062,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「はあ……」",
+      "en": "\"Okay...\"",
+      "text": "\"Okay...\""
+    },
+    {
+      "offset": 11156,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「でも、そうですね。音夢先輩がそう言うなら」",
+      "en": "\"Okay, if you say so, Nemu-sempai.\"",
+      "text": "\"Okay, if you say so, Nemu-sempai.\""
+    },
+    {
+      "offset": 11218,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そうそう。くすっ、いい子いい子」",
+      "en": "\"That's right. You're a good girl, a good girl.\"",
+      "text": "\"That's right. You're a good girl, a good girl.\""
+    },
+    {
+      "offset": 11259,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "冗談めかして言いながら、音夢が美春の頭を撫\nでる。",
+      "en": "Nemu gently pats Miharu on the head.",
+      "text": "Nemu gently pats Miharu on the head."
+    },
+    {
+      "offset": 11313,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "嬉しそうに笑う美春の顔に、やっぱり尻尾がつ\nいていればなと、そんなことを思う。",
+      "en": "Miharu giggles like a puppy wagging her tail.",
+      "text": "Miharu giggles like a puppy wagging her tail."
+    },
+    {
+      "offset": 11403,
+      "speaker": "Friend",
+      "speaker_jp": "友達",
+      "jp": "「それじゃ、皆さん揃ったところで、改めて」",
+      "en": "\"Okay, let's start over.\"",
+      "text": "\"Okay, let's start over.\""
+    },
+    {
+      "offset": 11473,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "パチリ。",
+      "en": "Click.",
+      "text": "Click."
+    },
+    {
+      "offset": 11486,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "優しいお祝いの歌が、室内に満ちる。",
+      "en": "The birthday song fills the room.",
+      "text": "The birthday song fills the room."
+    },
+    {
+      "offset": 11525,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今度こそ、音夢も元気に歌っていた。",
+      "en": "This time Nemu was singing cheerfully.",
+      "text": "This time Nemu was singing cheerfully."
+    },
+    {
+      "offset": 11576,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その後、誕生日会は楽しく過ぎていった。",
+      "en": "We had a wonderful time at the birthday party.",
+      "text": "We had a wonderful time at the birthday party."
+    },
+    {
+      "offset": 11621,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "が──。",
+      "en": "But...",
+      "text": "But..."
+    },
+    {
+      "offset": 11646,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お開きになり、バス停まで見送りに来てくれた\n美春は、崩れるように地面に倒れ込んでしまっ\nたのだった。",
+      "en": "When she saw us off at the bus stop, Miharu collapsed on the\nground.",
+      "text": "When she saw us off at the bus stop, Miharu collapsed on the\nground."
+    },
+    {
+      "offset": 11853,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆誕生日会◆",
+      "en": "◆Junichi◆",
+      "text": "◆Junichi◆"
+    },
+    {
+      "offset": 11898,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春の誕生日会に音夢と一緒に行く。音夢はま\nだ吹っ切れてない様子だったけど、とりあえず、\nホッとした。",
+      "en": "I said it out loud intentionally because I was a bit\nconcerned about something.",
+      "text": "I said it out loud intentionally because I was a bit\nconcerned about something."
+    },
+    {
+      "offset": 12003,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だけど、誕生日会定番のあの歌が始まったとき、\n音夢が部屋を飛び出してしまった。俺は音夢の\nあとを追う。",
+      "en": "\"What is Nemu gonna do?\"",
+      "text": "\"What is Nemu gonna do?\""
+    },
+    {
+      "offset": 12136,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢は高台の上にいた。音夢はあの美春が、本\n来の『美春』の居場所を奪ってしまうと思って\nいたらしい。",
+      "en": "I got dressed and walked down the stairs.",
+      "text": "I got dressed and walked down the stairs."
+    },
+    {
+      "offset": 12239,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "でも、それは勘違いだと説明する。美春も『美\n春』とのギャップに苦しんでいたことを。",
+      "en": "\"You're late, niisan.\"",
+      "text": "\"You're late, niisan.\""
+    },
+    {
+      "offset": 12351,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それで音夢は吹っ切れたみたいだった。その後\nの誕生日会は楽しく過ぎていった。",
+      "en": "\"Am I?\"",
+      "text": "\"Am I?\""
+    }
+  ],
+  "choices": [],
+  "names": {
+    "444": "Nemu",
+    "580": "Nemu",
+    "727": "Nemu",
+    "961": "Nemu",
+    "1210": "Nemu",
+    "1413": "Nemu",
+    "1554": "Nemu",
+    "1962": "Nemu",
+    "2220": "Nemu",
+    "2343": "Nemu",
+    "2473": "Nemu",
+    "2745": "Miharu",
+    "3108": "Miharu",
+    "3233": "Miharu",
+    "3357": "Miharu",
+    "3512": "Nemu",
+    "3642": "Miharu",
+    "4216": "Miharu",
+    "4297": "Nemu",
+    "4592": "Miharu",
+    "4635": "Friend",
+    "4713": "Friend",
+    "5285": "Nemu",
+    "5584": "Miharu",
+    "5712": "Miharu",
+    "5759": "Miharu",
+    "6016": "Miharu",
+    "6294": "Miharu",
+    "7147": "Nemu",
+    "7391": "Nemu",
+    "7489": "Nemu",
+    "7559": "Nemu",
+    "7727": "Nemu",
+    "7870": "Nemu",
+    "7960": "Nemu",
+    "8043": "Nemu",
+    "8133": "Nemu",
+    "8216": "Nemu",
+    "8299": "Nemu",
+    "8437": "Nemu",
+    "8595": "Nemu",
+    "8880": "Nemu",
+    "8950": "Nemu",
+    "9073": "Nemu",
+    "9173": "Nemu",
+    "9322": "Nemu",
+    "9391": "Nemu",
+    "9474": "Nemu",
+    "9722": "Nemu",
+    "9833": "Nemu",
+    "10231": "Nemu",
+    "10349": "Nemu",
+    "10584": "Nemu",
+    "10898": "Miharu",
+    "10971": "Nemu",
+    "11054": "Miharu",
+    "11148": "Miharu",
+    "11210": "Nemu",
+    "11395": "Friend"
+  }
+}

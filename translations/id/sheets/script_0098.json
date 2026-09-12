@@ -1,0 +1,478 @@
+{
+  "scene": "script_0098.obj",
+  "dialogues": [
+    {
+      "offset": 148,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昼休憩になって、外へ買い物に行こうと、校門\nに向かった。",
+      "en": "My destination was beyond the school gates, to buy some\nstuff.",
+      "text": "My destination was beyond the school gates, to buy some\nstuff."
+    },
+    {
+      "offset": 208,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "すると、そこには月城がいた。",
+      "en": "Right at the school gates, I unexpectedly saw Tsukishiro.",
+      "text": "Right at the school gates, I unexpectedly saw Tsukishiro."
+    },
+    {
+      "offset": 270,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「月城ー。月城も、外へ買い物に行くのか？」",
+      "en": "\"Tsukishiro! Are you heading out to do shopping too?\"",
+      "text": "\"Tsukishiro! Are you heading out to do shopping too?\""
+    },
+    {
+      "offset": 336,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺のことに気が付いた月城がこくんと頷いた。",
+      "en": "Noticing me, she nodded in answer to my question.",
+      "text": "Noticing me, she nodded in answer to my question."
+    },
+    {
+      "offset": 385,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「珍しいよな、こんなところで会うなんて」",
+      "en": "\"Heh, it's odd to meet you here.\"",
+      "text": "\"Heh, it's odd to meet you here.\""
+    },
+    {
+      "offset": 432,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、指先で『一緒に行こう』と促し、学校の\n外へ歩き出す。",
+      "en": "I pointed out the school gates, indirectly suggesting \"let's\ngo together\", and started off.",
+      "text": "I pointed out the school gates, indirectly suggesting \"let's\ngo together\", and started off."
+    },
+    {
+      "offset": 494,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城もその後ろから、トコトコとついてくる。",
+      "en": "Tsukishiro calmly followed behind me.",
+      "text": "Tsukishiro calmly followed behind me."
+    },
+    {
+      "offset": 543,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「昼飯でも買いに出るのか？」",
+      "en": "\"Are you buying lunch?\"",
+      "text": "\"Are you buying lunch?\""
+    },
+    {
+      "offset": 595,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もぞもぞと抱いている人形を手に持ち、",
+      "en": "The gloves came off once again, and after a few pats;",
+      "text": "The gloves came off once again, and after a few pats;"
+    },
+    {
+      "offset": 668,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「ううん、アリスは午後の授業のノートを買い\n　にいくだけだよ」",
+      "en": "\"Nope, Alice is looking for notebooks for the afternoon\nclasses.\"",
+      "text": "\"Nope, Alice is looking for notebooks for the afternoon\nclasses.\""
+    },
+    {
+      "offset": 736,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "人形で話をしていることは、特に追及すること\nはないだろう。",
+      "en": "Getting that doll to talk won't solve anything.",
+      "text": "Getting that doll to talk won't solve anything."
+    },
+    {
+      "offset": 798,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は、たぶんこういうスタンスでしか人と話\nができないんだろう。",
+      "en": "As long as Tsukishiro keeps up this stance, she won't ever\nget used to talking to people.",
+      "text": "As long as Tsukishiro keeps up this stance, she won't ever\nget used to talking to people."
+    },
+    {
+      "offset": 866,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、月城と話をしていて、そう思った。",
+      "en": "I want to get her to talk to me, somehow.",
+      "text": "I want to get her to talk to me, somehow."
+    },
+    {
+      "offset": 911,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ノートなら、購買にもあるんじゃないのか？」",
+      "en": "\"Can't you just buy that at the school's stationery shop?\"",
+      "text": "\"Can't you just buy that at the school's stationery shop?\""
+    },
+    {
+      "offset": 992,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「アリスが使ってるのは、学校には置いてない\n　んだ。だから、外に買いに行くしかないんだ」",
+      "en": "\"The ones Alice uses can't be bought at school. We have no\nchoice but to go out to get it.\"",
+      "text": "\"The ones Alice uses can't be bought at school. We have no\nchoice but to go out to get it.\""
+    },
+    {
+      "offset": 1086,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「大変なんだな。ノートなんて、どれも同じに\n　見えるがね」",
+      "en": "\"That's odd. Notebooks all look the same to me.\"",
+      "text": "\"That's odd. Notebooks all look the same to me.\""
+    },
+    {
+      "offset": 1180,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「アレじゃないと……、ダメ」",
+      "en": "\"That... isn't true.\"",
+      "text": "\"That... isn't true.\""
+    },
+    {
+      "offset": 1215,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「えっ、ああ、うん、そうなのか……。そうだ\n　よな」",
+      "en": "\"Eh, ahh, yeah... of course.\"",
+      "text": "\"Eh, ahh, yeah... of course.\""
+    },
+    {
+      "offset": 1273,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "突然、口を開いた月城に、思わず驚いてしまい、\nそんな生返事を返してしまった。",
+      "en": "Suddenly opening her mouth like that, I could only force out\na vague, stammered reply.",
+      "text": "Suddenly opening her mouth like that, I could only force out\na vague, stammered reply."
+    },
+    {
+      "offset": 1385,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「先輩は、なにかこだわってるものはないの？」",
+      "en": "\"Are you worried about something, senpai?\"",
+      "text": "\"Are you worried about something, senpai?\""
+    },
+    {
+      "offset": 1436,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「こだわり、なぁ。別にないな」",
+      "en": "\"Worried? Ehh, not really.\"",
+      "text": "\"Worried? Ehh, not really.\""
+    },
+    {
+      "offset": 1503,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「──ふうん」",
+      "en": "\"--Hmm.\"",
+      "text": "\"--Hmm.\""
+    },
+    {
+      "offset": 1524,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「ふうん、ってなんでそんなにがっかりしたよ\n　うな反応なんだよ」",
+      "en": "\"Eh? Is that weird?\"",
+      "text": "\"Eh? Is that weird?\""
+    },
+    {
+      "offset": 1624,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「朝倉先輩は、もっと変わった人だと思ってた\n　から……」",
+      "en": "\"We thought you'd be kinda different than you are now...\"",
+      "text": "\"We thought you'd be kinda different than you are now...\""
+    },
+    {
+      "offset": 1686,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「変わった人だと？」",
+      "en": "\"Different?\"",
+      "text": "\"Different?\""
+    },
+    {
+      "offset": 1743,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「ほら、去年のクリスマスパーティーとか、卒\n　業パーティーとか」",
+      "en": "\"Yeah, like how you were during last year's Christmas and\ngraduation parties.\"",
+      "text": "\"Yeah, like how you were during last year's Christmas and\ngraduation parties.\""
+    },
+    {
+      "offset": 1813,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「……有名なのか」",
+      "en": "\"...I'm famous, huh.\"",
+      "text": "\"...I'm famous, huh.\""
+    },
+    {
+      "offset": 1838,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ウチの学校は、なぜか学生参加型の年間行事が\n多く、クリスマスパーティーと卒業パーティー\nもそのうちのひとつだった。",
+      "en": "This school has a lot of yearly events that students have to\nparticipate in, such as the Christmas and graduation\nparties.",
+      "text": "This school has a lot of yearly events that students have to\nparticipate in, such as the Christmas and graduation\nparties."
+    },
+    {
+      "offset": 1955,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "去年のそれらで、俺は裏でいろいろお茶目をやっ\nていたのだ。",
+      "en": "I ended up being involved in a lot of mischief at those\nfunctions last year.",
+      "text": "I ended up being involved in a lot of mischief at those\nfunctions last year."
+    },
+    {
+      "offset": 2017,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並も含め、すっかり風紀委員のブラックリス\nトに載ってしまった。",
+      "en": "Along with Suginami, I was quickly placed on the discplinary\ncommittee's blacklist.",
+      "text": "Along with Suginami, I was quickly placed on the discplinary\ncommittee's blacklist."
+    },
+    {
+      "offset": 2085,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、さすがに今年からは自分も卒業というこ\nともあり、何もすまいと思っているのだが。",
+      "en": "Well, I guess this year being the one I graduate myself, has\nmade me mellow down a bit.",
+      "text": "Well, I guess this year being the one I graduate myself, has\nmade me mellow down a bit."
+    },
+    {
+      "offset": 2205,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「割と、知ってる人は多いんじゃないかな」",
+      "en": "\"Everyone's heard of your exploits.\"",
+      "text": "\"Everyone's heard of your exploits.\""
+    },
+    {
+      "offset": 2252,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「月城も、俺のことを知ってた？」",
+      "en": "\"Tsukishiro, you know about me too?\"",
+      "text": "\"Tsukishiro, you know about me too?\""
+    },
+    {
+      "offset": 2321,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……少しだけ」",
+      "en": "\"...A little.\"",
+      "text": "\"...A little.\""
+    },
+    {
+      "offset": 2344,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「まさか、俺がそんなに有名人だったとは」",
+      "en": "\"Wow, I'm really that famous...\"",
+      "text": "\"Wow, I'm really that famous...\""
+    },
+    {
+      "offset": 2391,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どういう噂かわからないけれど、後輩にまで自\n分の名前が知れ渡っているとなると、なんだか\n嬉しいな。",
+      "en": "I don't normally partake in gossping, but to hear that even\nthe lowerclassmen know my name, gives me a sense of pride.",
+      "text": "I don't normally partake in gossping, but to hear that even\nthe lowerclassmen know my name, gives me a sense of pride."
+    },
+    {
+      "offset": 2492,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わず、鼻がにゅーっと伸びてしまいそうな気\n持ちだ。",
+      "en": "I could practically feel my head getting bigger.",
+      "text": "I could practically feel my head getting bigger."
+    },
+    {
+      "offset": 2580,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「白河先生や、他の先生とかがよく言ってるよ。\n　『３年の朝倉や杉並みたいにはなるな』って」",
+      "en": "\"Shirakawa-sensei and the other senseis talk about you\noften, saying things like \"Don't be like Asakura and\nSuginami from 3rd year\".\"",
+      "text": "\"Shirakawa-sensei and the other senseis talk about you\noften, saying things like \"Don't be like Asakura and\nSuginami from 3rd year\".\""
+    },
+    {
+      "offset": 2676,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2712,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あいつら……人のいないところで、なんてこと\nを……。",
+      "en": "Those people... talking like that about me behind my back...",
+      "text": "Those people... talking like that about me behind my back..."
+    },
+    {
+      "offset": 2768,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "新聞に載ってやるぞ？　『某学園生、教師への\n不信感から、登校拒否！』マスコミに自分でネ\nタをばらまいてやる。",
+      "en": "Wait till they see the newspapers tomorrow... \"Student\nrefuses to go to school!\", how good that'd look.",
+      "text": "Wait till they see the newspapers tomorrow... \"Student\nrefuses to go to school!\", how good that'd look."
+    },
+    {
+      "offset": 2881,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「それにしても、今日はよく喋るじゃないか」",
+      "en": "\"You're sure talking a lot today, aren't you?\"",
+      "text": "\"You're sure talking a lot today, aren't you?\""
+    },
+    {
+      "offset": 2960,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「ボク？　んー、でもボクはアリスの気持ちを\n　代弁してるだけだから」",
+      "en": "\"Me? Mm, but that's because I'm basically a proxy for Alice\ntrying to communicate her feelings.\"",
+      "text": "\"Me? Mm, but that's because I'm basically a proxy for Alice\ntrying to communicate her feelings.\""
+    },
+    {
+      "offset": 3034,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「じゃあ、月城がお喋りしたいってことになる\n　のか？」",
+      "en": "\"Then, Tsukishiro, you like to chit-chat?\"",
+      "text": "\"Then, Tsukishiro, you like to chit-chat?\""
+    },
+    {
+      "offset": 3124,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……別に」",
+      "en": "\"...Not really.\"",
+      "text": "\"...Not really.\""
+    },
+    {
+      "offset": 3143,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "わけわかんねぇ……。",
+      "en": "Incomprehensible...",
+      "text": "Incomprehensible..."
+    },
+    {
+      "offset": 3170,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まあ、いいや。ノート買いに行くっつったら、\n　表通りの文房具屋だろ？　俺もそこに用事が\n　あるから、一緒に行こうぜ」",
+      "en": "\"Well, whatever. I know a good stationery shop at the main\nstreet... I have stuff to do there, shall we go together?\"",
+      "text": "\"Well, whatever. I know a good stationery shop at the main\nstreet... I have stuff to do there, shall we go together?\""
+    },
+    {
+      "offset": 3323,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……うん」",
+      "en": "\"...Okay.\"",
+      "text": "\"...Okay.\""
+    },
+    {
+      "offset": 3355,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「うん、たまには……いいかな」",
+      "en": "\"Yeah, that sounds... good.\"",
+      "text": "\"Yeah, that sounds... good.\""
+    },
+    {
+      "offset": 3401,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうやら、どちらにも嫌われてはいないようだ\nが、好かれてるかと言われると、それはどうだ\nかわからない。",
+      "en": "Doesn't seem like they dislike the idea, but in the same\nvein, I can't really tell whether they enjoy it either.",
+      "text": "Doesn't seem like they dislike the idea, but in the same\nvein, I can't really tell whether they enjoy it either."
+    },
+    {
+      "offset": 3506,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ま、こういう知り合いもたまにはいいだろう。",
+      "en": "Well, at least getting this far is good enough.",
+      "text": "Well, at least getting this far is good enough."
+    },
+    {
+      "offset": 3686,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆代弁者◆",
+      "en": "◆Spokesperson◆",
+      "text": "◆Spokesperson◆"
+    },
+    {
+      "offset": 3733,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昼休憩になり、外へ買い物へ行こうとすると、\n月城に出会った。",
+      "en": "While heading out to do some shopping during lunch break, I\nran into Tsukishiro.",
+      "text": "While heading out to do some shopping during lunch break, I\nran into Tsukishiro."
+    },
+    {
+      "offset": 3797,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が話しかけると、月城は人形を使って、返事\nをしてくれた。",
+      "en": "At my attempts to start conversation, Tsukishiro once again\nused the doll to answer for her.",
+      "text": "At my attempts to start conversation, Tsukishiro once again\nused the doll to answer for her."
+    },
+    {
+      "offset": 3859,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なぜだか、今日に限って、人形はよく喋り、そ\nのことを｛き／訊｝くと『アリスの気持ちを代弁してい\nるだけ』と答えるのだった。",
+      "en": "The limit of what I could find out, was that the doll was\n\"Alice's proxy in trying to communicate her feelings.\"",
+      "text": "The limit of what I could find out, was that the doll was\n\"Alice's proxy in trying to communicate her feelings.\""
+    },
+    {
+      "offset": 3984,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただ、月城本人に訊くと、別に喋りたい、とい\nう訳ではないらしい。",
+      "en": "But when I asked her herself, she said she didn't\nparticularly want to talk.",
+      "text": "But when I asked her herself, she said she didn't\nparticularly want to talk."
+    },
+    {
+      "offset": 4052,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、よくはわからないが、とりあえずは嫌わ\nれていないということだろう。",
+      "en": "Well, I don't understand at all, but it's not something I\ncan't stand, at least.",
+      "text": "Well, I don't understand at all, but it's not something I\ncan't stand, at least."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "658": "Piros",
+    "982": "Piros",
+    "1170": "Alice",
+    "1375": "Piros",
+    "1493": "Piros",
+    "1614": "Piros",
+    "1733": "Piros",
+    "2195": "Piros",
+    "2311": "Alice",
+    "2570": "Piros",
+    "2950": "Piros",
+    "3114": "Alice",
+    "3313": "Alice",
+    "3345": "Piros"
+  }
+}

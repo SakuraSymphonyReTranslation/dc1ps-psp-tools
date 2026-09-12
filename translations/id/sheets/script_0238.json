@@ -1,0 +1,413 @@
+{
+  "scene": "script_0238.obj",
+  "dialogues": [
+    {
+      "offset": 149,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "休みとなると、街中をぶらついている俺は、も\nしかして寂しい人間なんだろうか。",
+      "en": "With nothing to do, shuffling down the street alone, had\nquite a lonely feel to it...",
+      "text": "With nothing to do, shuffling down the street alone, had\nquite a lonely feel to it..."
+    },
+    {
+      "offset": 271,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、朝倉君だ。こんにちは──って」",
+      "en": "\"Ah, Asakura-kun! Good afterno--\"",
+      "text": "\"Ah, Asakura-kun! Good afterno--\""
+    },
+    {
+      "offset": 344,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「わわっ。な、何で泣いてるの？」",
+      "en": "\"Wa, wah! Are you crying?\"",
+      "text": "\"Wa, wah! Are you crying?\""
+    },
+    {
+      "offset": 383,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「はは、この東京砂漠で君に出会えた事が嬉し\n　くてな」",
+      "en": "\"Hahah, meeting you here in this desert of Japan has lifted\nmy spirits!\"",
+      "text": "\"Hahah, meeting you here in this desert of Japan has lifted\nmy spirits!\""
+    },
+    {
+      "offset": 473,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 505,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ん〜……？　春のせい？」",
+      "en": "\"Mm~....? Spring hallucinations?\"",
+      "text": "\"Mm~....? Spring hallucinations?\""
+    },
+    {
+      "offset": 538,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「微妙に失礼な事言うな……」",
+      "en": "\"That's kinda rude...\"",
+      "text": "\"That's kinda rude...\""
+    },
+    {
+      "offset": 603,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「朝倉君って、たまに本気だか冗談だか分から\n　ないんだよね」",
+      "en": "\"I can't tell right now whether you're joking or being\nserious.\"",
+      "text": "\"I can't tell right now whether you're joking or being\nserious.\""
+    },
+    {
+      "offset": 669,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「さらに失礼な。俺はいつだって冗談だ」",
+      "en": "\"So-rry. You know I'm always having a laugh.\"",
+      "text": "\"So-rry. You know I'm always having a laugh.\""
+    },
+    {
+      "offset": 727,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「それはそれで、アレですね」",
+      "en": "\"Quite true, that.\"",
+      "text": "\"Quite true, that.\""
+    },
+    {
+      "offset": 792,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「それで、どうして泣いていたの？」",
+      "en": "\"But anyway, why are you crying?\"",
+      "text": "\"But anyway, why are you crying?\""
+    },
+    {
+      "offset": 833,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "くっと小首を傾げ、俺の目をじっと見つめてく\nる。",
+      "en": "She tilted her head slightly, staring into my eyes.",
+      "text": "She tilted her head slightly, staring into my eyes."
+    },
+    {
+      "offset": 887,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まあ、直前にあくびをしただけなんだけど」",
+      "en": "\"I yawned just a few seconds before.\"",
+      "text": "\"I yawned just a few seconds before.\""
+    },
+    {
+      "offset": 949,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 968,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何かを探るようだった目が、笑いの形に崩れた。",
+      "en": "Perhaps searching for another explanation, a bright smile\ngrew on her face.",
+      "text": "Perhaps searching for another explanation, a bright smile\ngrew on her face."
+    },
+    {
+      "offset": 1049,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「何だ、心配して損しちゃいましたよ」",
+      "en": "\"Is that all? Heh, I was worried that you were really\nsad...\"",
+      "text": "\"Is that all? Heh, I was worried that you were really\nsad...\""
+    },
+    {
+      "offset": 1092,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「もし本気で泣いていたら、慰めてくれた？」",
+      "en": "\"If I was really crying, would you comfort me?\"",
+      "text": "\"If I was really crying, would you comfort me?\""
+    },
+    {
+      "offset": 1171,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「え、そうですね……」",
+      "en": "\"E, eh, I guess so...\"",
+      "text": "\"E, eh, I guess so...\""
+    },
+    {
+      "offset": 1230,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「まあ、やぶさかではないってところです」",
+      "en": "\"To avoid any pain anyway... namely mine.\"",
+      "text": "\"To avoid any pain anyway... namely mine.\""
+    },
+    {
+      "offset": 1277,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「何だそれは」",
+      "en": "\"Psh, what's that supposed to mean.\"",
+      "text": "\"Psh, what's that supposed to mean.\""
+    },
+    {
+      "offset": 1298,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "振り上げていた拳を下ろす。もし慰めてくれる\nなら、１６連射で自分の頭を殴ったのに。",
+      "en": "I lowered my jokingly-raised hand. Although if she had said\nshe wouldn't, I'd probably have knocked her a bit...maybe.",
+      "text": "I lowered my jokingly-raised hand. Although if she had said\nshe wouldn't, I'd probably have knocked her a bit...maybe."
+    },
+    {
+      "offset": 1416,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「何か、買い物ですか？」",
+      "en": "\"Are you shopping?\"",
+      "text": "\"Are you shopping?\""
+    },
+    {
+      "offset": 1447,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「いや、ただぶらぶらしてただけ。ことりは？」",
+      "en": "\"Nah, just messing about. What about you?\"",
+      "text": "\"Nah, just messing about. What about you?\""
+    },
+    {
+      "offset": 1511,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「私は、これからちょっと友達の家に行くんで\n　す」",
+      "en": "\"I was heading to one of my friends' house.\"",
+      "text": "\"I was heading to one of my friends' house.\""
+    },
+    {
+      "offset": 1580,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ほら、今度、卒業パーティーがあるじゃない\n　ですか」",
+      "en": "\"You know that the graduation party is happening soon,\nright?\"",
+      "text": "\"You know that the graduation party is happening soon,\nright?\""
+    },
+    {
+      "offset": 1640,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ああ、うん」",
+      "en": "\"Ahh, yeah.\"",
+      "text": "\"Ahh, yeah.\""
+    },
+    {
+      "offset": 1661,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もう、そんな季節だった。この春、俺達は付属\nを卒業する。",
+      "en": "Right, it's almost time for that. This spring, we're going\nto be graduating from middle school.",
+      "text": "Right, it's almost time for that. This spring, we're going\nto be graduating from middle school."
+    },
+    {
+      "offset": 1721,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本校に移るだけなので、それが大きな変化と言\nえるかどうかは分からないが、一つの節目では\nあるだろう。",
+      "en": "We'd be moving to the main school as well. It's not a huge\nchange, but it represents a major turning point in our young\nlives.",
+      "text": "We'd be moving to the main school as well. It's not a huge\nchange, but it represents a major turning point in our young\nlives."
+    },
+    {
+      "offset": 1826,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「卒業に学生達でパーティーってのも、よく分\n　からん学園だよな」",
+      "en": "\"I really don't understand this school though. A party for\ngraduation?\"",
+      "text": "\"I really don't understand this school though. A party for\ngraduation?\""
+    },
+    {
+      "offset": 1926,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そうですよね。普通は、もっと厳粛？　だと\n　思うんですけど」",
+      "en": "\"That's true. I guess I'd expect a graduation ceremony to be\na bit more solemn...\"",
+      "text": "\"That's true. I guess I'd expect a graduation ceremony to be\na bit more solemn...\""
+    },
+    {
+      "offset": 1994,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ま、かったるい事よりは、楽しい分まだマシ\n　だろうけどな」",
+      "en": "\"Well, even if that's the case, I suppose it could be fun.\"",
+      "text": "\"Well, even if that's the case, I suppose it could be fun.\""
+    },
+    {
+      "offset": 2090,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「これから友達の家に集まってね、それの相談\n　をするんです」",
+      "en": "\"We're gathering at my friend's house to discuss about it.\"",
+      "text": "\"We're gathering at my friend's house to discuss about it.\""
+    },
+    {
+      "offset": 2156,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「なるほど」",
+      "en": "\"I see.\"",
+      "text": "\"I see.\""
+    },
+    {
+      "offset": 2175,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "卒業パーティーってのは、学生達におまかせの\nイベントなので、やりたかったら自主的に動く\nしかない。",
+      "en": "For the graduation party, the school relies on the students\nto come up with it's own events, to show them some\nindependency.",
+      "text": "For the graduation party, the school relies on the students\nto come up with it's own events, to show them some\nindependency."
+    },
+    {
+      "offset": 2276,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "多分、そういう面白いイベントで自主性を高め\nるのが教育の方針なのだろう。",
+      "en": "Or more accurately, the school's probably indirectly\nteaching the students how to take their own initiative\nsometimes.",
+      "text": "Or more accurately, the school's probably indirectly\nteaching the students how to take their own initiative\nsometimes."
+    },
+    {
+      "offset": 2354,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、ことりは何をやんの？」",
+      "en": "\"What would you guys be doing?\"",
+      "text": "\"What would you guys be doing?\""
+    },
+    {
+      "offset": 2402,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「それを、これから決めるんですよ。朝倉君は、\n　何かやるんですか？」",
+      "en": "\"That's what we're trying to think of. What would you be\ndoing?\"",
+      "text": "\"That's what we're trying to think of. What would you be\ndoing?\""
+    },
+    {
+      "offset": 2476,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「いやあ、かったるいんで」",
+      "en": "\"Nothing, sounds troublesome.\"",
+      "text": "\"Nothing, sounds troublesome.\""
+    },
+    {
+      "offset": 2522,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「何かやった方が、思い出になると思いますよ」",
+      "en": "\"You really should, it'd be good memories in the future.\"",
+      "text": "\"You really should, it'd be good memories in the future.\""
+    },
+    {
+      "offset": 2573,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ま。パーティー自体は、参加すると思うけど\n　な」",
+      "en": "\"Well, enjoying the party should be enough for that, in my\nopinion.\"",
+      "text": "\"Well, enjoying the party should be enough for that, in my\nopinion.\""
+    },
+    {
+      "offset": 2659,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「私達の催しを見に来るの、忘れないで下さい\n　ね」",
+      "en": "\"Don't forget to see what we'd be doing, then!\"",
+      "text": "\"Don't forget to see what we'd be doing, then!\""
+    },
+    {
+      "offset": 2715,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「サービスシーンとかがあるならな」",
+      "en": "\"Will there be some fanservice scenes?\"",
+      "text": "\"Will there be some fanservice scenes?\""
+    },
+    {
+      "offset": 2786,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……センス、オヤジですよ」",
+      "en": "\"...You sound like a dirty old man.\"",
+      "text": "\"...You sound like a dirty old man.\""
+    },
+    {
+      "offset": 2851,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「それじゃ、バイバイ」",
+      "en": "\"Anyway, bye bye!\"",
+      "text": "\"Anyway, bye bye!\""
+    },
+    {
+      "offset": 2894,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\".......\"",
+      "text": "\".......\""
+    },
+    {
+      "offset": 2913,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「おやじ、かぁ……」",
+      "en": "\"A dirty old man, huh...\"",
+      "text": "\"A dirty old man, huh...\""
+    },
+    {
+      "offset": 3051,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆ことりの卒業パーティー◆",
+      "en": "◆Kotori's Graduation Party◆",
+      "text": "◆Kotori's Graduation Party◆"
+    },
+    {
+      "offset": 3106,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "友達の家に行く途中だということりに出会った。\n何でも、卒業パーティーでの催しについて話し\n合いに行くのだそうだ。",
+      "en": "I met Kotori while she was on her way to a friend's house.\nShe was going there to discuss about what to do for the\nupcoming graduation party.",
+      "text": "I met Kotori while she was on her way to a friend's house.\nShe was going there to discuss about what to do for the\nupcoming graduation party."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "261": "Kotori",
+    "334": "Kotori",
+    "463": "Kotori",
+    "495": "Kotori",
+    "593": "Kotori",
+    "717": "Kotori",
+    "782": "Kotori",
+    "939": "Kotori",
+    "1039": "Kotori",
+    "1161": "Kotori",
+    "1220": "Kotori",
+    "1406": "Kotori",
+    "1501": "Kotori",
+    "1570": "Kotori",
+    "1916": "Kotori",
+    "2080": "Kotori",
+    "2392": "Kotori",
+    "2512": "Kotori",
+    "2649": "Kotori",
+    "2776": "Kotori",
+    "2841": "Kotori"
+  }
+}

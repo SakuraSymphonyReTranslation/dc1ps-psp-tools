@@ -1,0 +1,582 @@
+{
+  "scene": "script_0781.obj",
+  "dialogues": [
+    {
+      "offset": 203,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぐぃ、と美春が目をつりあげる。",
+      "en": "Miharu has a fierce look in her eyes.",
+      "text": "Miharu has a fierce look in her eyes."
+    },
+    {
+      "offset": 273,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「『病院ではお静かに』……だって、あの看護\n　師さん」",
+      "en": "\"The nurse said to be quiet in the patient's room.\"",
+      "text": "\"The nurse said to be quiet in the patient's room.\""
+    },
+    {
+      "offset": 366,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あはは」",
+      "en": "\"Hahaha!\"",
+      "text": "\"Hahaha!\""
+    },
+    {
+      "offset": 416,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 435,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見舞いにきてくれたふたりを、音夢がぼう、と\n見つめる。",
+      "en": "Nemu looks vaguely at the two girls paying her a visit at\nthe hospital.",
+      "text": "Nemu looks vaguely at the two girls paying her a visit at\nthe hospital."
+    },
+    {
+      "offset": 528,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「でも音夢先輩って、寝るときは病院でもシャ\n　ツなんですねぇ」",
+      "en": "\"Whoa, you wear a shirt even in the hospital bed?\"",
+      "text": "\"Whoa, you wear a shirt even in the hospital bed?\""
+    },
+    {
+      "offset": 596,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あぁ、俺も驚いた」",
+      "en": "\"Yeah, I'm impressed, too.\"",
+      "text": "\"Yeah, I'm impressed, too.\""
+    },
+    {
+      "offset": 623,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "看護師さんも呆れたものだが、音夢はあのシャ\nツ以外のものを着るのを子供みたいに嫌がった\nのだ。",
+      "en": "The nurses are amazed at her as well, but Nemu thinks the\nother kind of clothes make her look childish.",
+      "text": "The nurses are amazed at her as well, but Nemu thinks the\nother kind of clothes make her look childish."
+    },
+    {
+      "offset": 720,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の目が覚めたと病院から連絡を受けたとき、\n音夢を心配した眞子と美春がちょうど家に来た\nのだ。",
+      "en": "When I got a call from the hospital that Nemu had just waken\nup, I came over, along with Mako and Miharu who were\nvisiting because they were worried about Nemu's condition.",
+      "text": "When I got a call from the hospital that Nemu had just waken\nup, I came over, along with Mako and Miharu who were\nvisiting because they were worried about Nemu's condition."
+    },
+    {
+      "offset": 821,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「しかし美春よ……これは……」",
+      "en": "\"But, Miharu. This is...\"",
+      "text": "\"But, Miharu. This is...\""
+    },
+    {
+      "offset": 886,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「お見舞いです！」",
+      "en": "\"Pay her a visit!\"",
+      "text": "\"Pay her a visit!\""
+    },
+    {
+      "offset": 911,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ごわごわとした新聞に包まれた――。",
+      "en": "Something wrapped with rough newspaper...",
+      "text": "Something wrapped with rough newspaper..."
+    },
+    {
+      "offset": 952,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……バナナだな」",
+      "en": "\"It must be bananas.\"",
+      "text": "\"It must be bananas.\""
+    },
+    {
+      "offset": 1005,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「朝倉先輩、エスパー！？」",
+      "en": "\"Wow, Asakura-sempai, are you psychic?!\"",
+      "text": "\"Wow, Asakura-sempai, are you psychic?!\""
+    },
+    {
+      "offset": 1038,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「お前の見舞いの品に関してはエスパーだ」",
+      "en": "\"When it comes to gifts, I am.\"",
+      "text": "\"When it comes to gifts, I am.\""
+    },
+    {
+      "offset": 1113,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ほぇ〜」",
+      "en": "\"Whoa...\"",
+      "text": "\"Whoa...\""
+    },
+    {
+      "offset": 1163,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「いや、入院したって聞いて心配したけど、思っ\n　たより顔色がよくて安心したよ」",
+      "en": "\"I was worried when I heard you were hospitalized, but I'm\nglad you look better than I thought.\"",
+      "text": "\"I was worried when I heard you were hospitalized, but I'm\nglad you look better than I thought.\""
+    },
+    {
+      "offset": 1247,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺達が漫才をしている間に、眞子はベッドに腰\n掛けて音夢の手をとっていた。",
+      "en": "While Miharu and I are doing a comedy routine, Mako's\nholding Nemu's hand, sitting on the bed.",
+      "text": "While Miharu and I are doing a comedy routine, Mako's\nholding Nemu's hand, sitting on the bed."
+    },
+    {
+      "offset": 1358,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あ、美春も、ものすご〜く心配してました\n　よ！！」",
+      "en": "\"Oh, I was so worried about you!!\"",
+      "text": "\"Oh, I was so worried about you!!\""
+    },
+    {
+      "offset": 1449,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「はいはい」",
+      "en": "\"Okay, okay.\"",
+      "text": "\"Okay, okay.\""
+    },
+    {
+      "offset": 1501,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1520,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「どうした音夢？」",
+      "en": "\"What's wrong, Nemu?\"",
+      "text": "\"What's wrong, Nemu?\""
+    },
+    {
+      "offset": 1545,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見事なバナナを棚に置きながら、さきほどから\n一言も口をきかない妹を見る。",
+      "en": "Putting the gorgeous bananas on the shelf, I look at my\nsister, who hasn't spoken for a while.",
+      "text": "Putting the gorgeous bananas on the shelf, I look at my\nsister, who hasn't spoken for a while."
+    },
+    {
+      "offset": 1651,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ……うん」",
+      "en": "\"Uh... mm.\"",
+      "text": "\"Uh... mm.\""
+    },
+    {
+      "offset": 1705,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「もぉ、この不肖美春、音夢先輩のことが心配\n　で心配で、昨日からバナナしか喉を通りませ\n　んでしたよ」",
+      "en": "\"I've been so worried about you, o great Nemu-sempai, that\nsince yesterday I haven't been able to eat anything but\nbananas.\"",
+      "text": "\"I've been so worried about you, o great Nemu-sempai, that\nsince yesterday I haven't been able to eat anything but\nbananas.\""
+    },
+    {
+      "offset": 1812,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「……お前も喉と胃を検査してもらえ」",
+      "en": "\"Why don't you ask a doctor to check your throat and\nstomach?\"",
+      "text": "\"Why don't you ask a doctor to check your throat and\nstomach?\""
+    },
+    {
+      "offset": 1855,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "絶対、レントゲンを撮ったらバナナ型の胃袋が\n写るはずだ。",
+      "en": "I'm sure they'll see your stomach is shaped like a banana.",
+      "text": "I'm sure they'll see your stomach is shaped like a banana."
+    },
+    {
+      "offset": 1950,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「そうそう、遅れたけど、これあたしからのお\n　見舞い」",
+      "en": "\"Oh, I almost forgot, this is a get-well gift from me.\"",
+      "text": "\"Oh, I almost forgot, this is a get-well gift from me.\""
+    },
+    {
+      "offset": 2010,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "白と青い色で揃えられた花束を眞子が差し出し\nてくる。",
+      "en": "Mako hands Nemu a flower bouquet in white and blue.",
+      "text": "Mako hands Nemu a flower bouquet in white and blue."
+    },
+    {
+      "offset": 2068,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……中にショットガンとか入ってないだろう\n　な」",
+      "en": "\"You didn't put a shotgun in there, did you?\"",
+      "text": "\"You didn't put a shotgun in there, did you?\""
+    },
+    {
+      "offset": 2152,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あんた……本校でも相変わらず元気そうね」",
+      "en": "\"You... you're just as lively as always, huh?\"",
+      "text": "\"You... you're just as lively as always, huh?\""
+    },
+    {
+      "offset": 2201,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……おかげさまで」",
+      "en": "\"Thank you, I am.\"",
+      "text": "\"Thank you, I am.\""
+    },
+    {
+      "offset": 2228,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんとなく後ずさりしながら苦笑いを浮かべた。",
+      "en": "Stepping backwards involuntarily, I give a nervous smile.",
+      "text": "Stepping backwards involuntarily, I give a nervous smile."
+    },
+    {
+      "offset": 2312,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ん？　音夢先輩、調子悪いですか？」",
+      "en": "\"Hm? What's wrong, Nemu-sempai?\"",
+      "text": "\"Hm? What's wrong, Nemu-sempai?\""
+    },
+    {
+      "offset": 2388,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え？　……あ、うんん」",
+      "en": "\"What? Uh... uh-huh...\"",
+      "text": "\"What? Uh... uh-huh...\""
+    },
+    {
+      "offset": 2419,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なぜか美春と視線を合わせようとせず、音夢が\n俺を見つめる。",
+      "en": "Nemu gazes at me, avoiding Miharu's eyes.",
+      "text": "Nemu gazes at me, avoiding Miharu's eyes."
+    },
+    {
+      "offset": 2516,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あ、じゃあ美春ちゃん、音夢の顔もみたし、\n　そろそろ」",
+      "en": "\"Well, Nemu looks better, so we'd better get going,\nMiharu-chan.\"",
+      "text": "\"Well, Nemu looks better, so we'd better get going,\nMiharu-chan.\""
+    },
+    {
+      "offset": 2611,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「はい。お名残惜しいですが帰ります……明日\n　も来ますからね、音夢先輩」",
+      "en": "\"Sure. It's been nice seeing you - we'll be back tomorrow.\"",
+      "text": "\"Sure. It's been nice seeing you - we'll be back tomorrow.\""
+    },
+    {
+      "offset": 2689,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の手に自分の頬を重ねて、よよよ、と美春\nが涙を流す。",
+      "en": "Pulling Nemu's hand to her cheek, Miharu sheds a tear.",
+      "text": "Pulling Nemu's hand to her cheek, Miharu sheds a tear."
+    },
+    {
+      "offset": 2784,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うん」",
+      "en": "\"Yeah.\"",
+      "text": "\"Yeah.\""
+    },
+    {
+      "offset": 2799,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「すまないな眞子」",
+      "en": "\"Thanks, Mako.\"",
+      "text": "\"Thanks, Mako.\""
+    },
+    {
+      "offset": 2857,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「いや、あんたも無理しないようにね。それじゃ\n　また学園で会おうね音夢」",
+      "en": "\"No problem. You've got to take it easy, though. See you at\nschool, Nemu.\"",
+      "text": "\"No problem. You've got to take it easy, though. See you at\nschool, Nemu.\""
+    },
+    {
+      "offset": 2947,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春の｛えり／襟｝をつかみながら、眞子が部屋を出て行\nく。",
+      "en": "Grabbing Miharu's neck, Mako walks out of the room.",
+      "text": "Grabbing Miharu's neck, Mako walks out of the room."
+    },
+    {
+      "offset": 3011,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ははは。相変わらずだったな。これで、さく\n　らでも来てたら大変だっただろうけど」",
+      "en": "\"Hahaha. They're the same as usual. But if Sakura were here,\nit couldn't be worse.\"",
+      "text": "\"Hahaha. They're the same as usual. But if Sakura were here,\nit couldn't be worse.\""
+    },
+    {
+      "offset": 3132,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……お兄ちゃん」",
+      "en": "\"Oniichan...\"",
+      "text": "\"Oniichan...\""
+    },
+    {
+      "offset": 3157,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「どうした？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 3178,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少しためらって、音夢が自分の肩を抱く。",
+      "en": "Nemu holds her own shoulders hesitantly.",
+      "text": "Nemu holds her own shoulders hesitantly."
+    },
+    {
+      "offset": 3253,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あの人たち……誰？」",
+      "en": "\"Who are they?\"",
+      "text": "\"Who are they?\""
+    },
+    {
+      "offset": 3282,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3312,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なんで私のシャツのこととか知ってるの？」",
+      "en": "\"Why do they know about my shirt?\"",
+      "text": "\"Why do they know about my shirt?\""
+    },
+    {
+      "offset": 3366,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なんでって……お前……まさか……」",
+      "en": "\"'Why'...? You... Oh, no...\"",
+      "text": "\"'Why'...? You... Oh, no...\""
+    },
+    {
+      "offset": 3409,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それはまるで一昨日の、過去のクラスメイトを\n覚えていなかった俺のように。",
+      "en": "It reminds me of two days ago when I couldn't remember my\nclassmates at all.",
+      "text": "It reminds me of two days ago when I couldn't remember my\nclassmates at all."
+    },
+    {
+      "offset": 3498,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「学園で会おうってなに？　どうして？」",
+      "en": "\"They said they'll see me at school, but why?\"",
+      "text": "\"They said they'll see me at school, but why?\""
+    },
+    {
+      "offset": 3543,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "震えている。",
+      "en": "She is shaking.",
+      "text": "She is shaking."
+    },
+    {
+      "offset": 3590,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「私、どうしてココにいるの？」",
+      "en": "\"Why am I here?\"",
+      "text": "\"Why am I here?\""
+    },
+    {
+      "offset": 3638,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……｛・・・／さくら｝って誰！？」",
+      "en": "\"Who is Sakura!?\"",
+      "text": "\"Who is Sakura!?\""
+    },
+    {
+      "offset": 3681,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3730,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "『自己を失ってまでお兄ちゃんとの思い出を手\n　放したくないの？』",
+      "en": "'You don't want to lose all your memories with him by dying\nyourself, do you?'",
+      "text": "'You don't want to lose all your memories with him by dying\nyourself, do you?'"
+    },
+    {
+      "offset": 3847,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3877,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「助けて……」",
+      "en": "\"Help me...\"",
+      "text": "\"Help me...\""
+    },
+    {
+      "offset": 3910,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢が俺の首にしがみつく。",
+      "en": "Nemu clings to my neck.",
+      "text": "Nemu clings to my neck."
+    },
+    {
+      "offset": 3946,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鈴が鳴る。",
+      "en": "Her bell rings.",
+      "text": "Her bell rings."
+    },
+    {
+      "offset": 3974,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「助けてお兄ちゃん――！」",
+      "en": "\"Help me, oniichan!\"",
+      "text": "\"Help me, oniichan!\""
+    },
+    {
+      "offset": 4125,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆失われた記憶◆",
+      "en": "◆Lost memories◆",
+      "text": "◆Lost memories◆"
+    },
+    {
+      "offset": 4170,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢が入院している病室に、美春と眞子がお見\n舞いにきてくれた。",
+      "en": "Miharu and Mako paid a visit to Nemu in the hospital.",
+      "text": "Miharu and Mako paid a visit to Nemu in the hospital."
+    },
+    {
+      "offset": 4236,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな友達の心配や心が嬉しかったが、なぜか、\n音夢はふたりのことを覚えていなかった――。",
+      "en": "Nemu was grateful for their thoughtfulness, but she didn't\nremember anything about them.",
+      "text": "Nemu was grateful for their thoughtfulness, but she didn't\nremember anything about them."
+    },
+    {
+      "offset": 4328,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、俺のことも兄さんではなく、お兄ちゃ\nんと呼び出した……。",
+      "en": "Moreover, she started to call me not 'niisan' but\n'oniichan'.",
+      "text": "Moreover, she started to call me not 'niisan' but\n'oniichan'."
+    },
+    {
+      "offset": 4396,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それはまるで、過去の出来事を忘れている俺の\n状態とそっくりだった。",
+      "en": "It was exactly the same situation as when I couldn't\nremember my past.",
+      "text": "It was exactly the same situation as when I couldn't\nremember my past."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "265": "Miharu",
+    "358": "Mako",
+    "408": "Nemu",
+    "520": "Miharu",
+    "878": "Miharu",
+    "997": "Miharu",
+    "1105": "Miharu",
+    "1155": "Mako",
+    "1350": "Miharu",
+    "1441": "Mako",
+    "1493": "Nemu",
+    "1643": "Nemu",
+    "1697": "Miharu",
+    "1942": "Mako",
+    "2144": "Mako",
+    "2304": "Miharu",
+    "2380": "Nemu",
+    "2508": "Mako",
+    "2603": "Miharu",
+    "2776": "Nemu",
+    "2849": "Mako",
+    "3124": "Nemu",
+    "3245": "Nemu",
+    "3304": "Nemu",
+    "3490": "Nemu",
+    "3582": "Nemu",
+    "3630": "Nemu",
+    "3720": "Sakura",
+    "3869": "Nemu",
+    "3966": "Nemu"
+  }
+}

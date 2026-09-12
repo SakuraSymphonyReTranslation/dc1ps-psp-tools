@@ -1,0 +1,515 @@
+{
+  "scene": "script_0502.obj",
+  "dialogues": [
+    {
+      "offset": 171,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 225,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……にゃ〜……にゃ〜」",
+      "en": "\"Meow... meow...\"",
+      "text": "\"Meow... meow...\""
+    },
+    {
+      "offset": 256,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "桜の木に手を当てながら、さくらが小さく悲し\nそうに鳴いている。",
+      "en": "Putting her hand on a cherry tree, Sakura cries quietly.",
+      "text": "Putting her hand on a cherry tree, Sakura cries quietly."
+    },
+    {
+      "offset": 322,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "冗談めかした単語なのに、とても暗い。",
+      "en": "It sounds like a joke, but she looks very sad.",
+      "text": "It sounds like a joke, but she looks very sad."
+    },
+    {
+      "offset": 363,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "校内のどこにも居場所がなくて、音夢の携帯に\n留守電をいれて桜並木に｛たたず／佇｝んでいた。",
+      "en": "There was nowhere I could stay at school, so I left a\nmessage on Nemu's cell phone and stood under the cherry\ntrees.",
+      "text": "There was nowhere I could stay at school, so I left a\nmessage on Nemu's cell phone and stood under the cherry\ntrees."
+    },
+    {
+      "offset": 457,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "夜桜はきれいだ。",
+      "en": "The cherry blossoms are really beautiful at night.",
+      "text": "The cherry blossoms are really beautiful at night."
+    },
+    {
+      "offset": 480,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「かったる」",
+      "en": "\"What a pain.\"",
+      "text": "\"What a pain.\""
+    },
+    {
+      "offset": 529,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「Ｓｏｒｒｙ……せっかくの卒業式だったのに」",
+      "en": "\"Sorry about the graduation ceremony.\"",
+      "text": "\"Sorry about the graduation ceremony.\""
+    },
+    {
+      "offset": 580,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とん、と振り返ってそのまま木に背中を預けて、\nさくらが頭を下げる。",
+      "en": "Sakura turns around, bows, and leans back against the tree.",
+      "text": "Sakura turns around, bows, and leans back against the tree."
+    },
+    {
+      "offset": 652,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ、かったるいって言うのはただの口癖だぞ\n　……いや、ただのでもないが」",
+      "en": "\"Oh, that's just my pet phrase, actually it's not just,\nbut...\"",
+      "text": "\"Oh, that's just my pet phrase, actually it's not just,\nbut...\""
+    },
+    {
+      "offset": 762,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うんん。ボクが音夢ちゃんを挑発したのがい\n　けないんだ」",
+      "en": "\"No, I shouldn't have provoked Nemu-chan like that.\"",
+      "text": "\"No, I shouldn't have provoked Nemu-chan like that.\""
+    },
+    {
+      "offset": 826,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……挑発？」",
+      "en": "\"Provoked?\"",
+      "text": "\"Provoked?\""
+    },
+    {
+      "offset": 877,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……ボクがお兄ちゃんから離れろって」",
+      "en": "\"She wanted me to get away from you.\"",
+      "text": "\"She wanted me to get away from you.\""
+    },
+    {
+      "offset": 922,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「？　なんだそれ？」",
+      "en": "\"What do you mean?\"",
+      "text": "\"What do you mean?\""
+    },
+    {
+      "offset": 949,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "身体を真っ直ぐさくらのほうに向ける。",
+      "en": "I turn to face Sakura.",
+      "text": "I turn to face Sakura."
+    },
+    {
+      "offset": 1005,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「音夢ちゃんには分かってたんだよ……うんん。\n　ボクが分かるように言っていたんだ」",
+      "en": "\"I knew... yeah. I knew what Nemu-chan was saying.\"",
+      "text": "\"I knew... yeah. I knew what Nemu-chan was saying.\""
+    },
+    {
+      "offset": 1113,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さんから離れろって……私にしか分からな\n　いように」",
+      "en": "\"She gave me a sign to get away from you.\"",
+      "text": "\"She gave me a sign to get away from you.\""
+    },
+    {
+      "offset": 1175,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「音夢？」",
+      "en": "\"Nemu?\"",
+      "text": "\"Nemu?\""
+    },
+    {
+      "offset": 1192,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "すっ、と音夢が桜並木に姿を現す。",
+      "en": "Suddenly, Nemu's here in the row of cherry blossom trees.",
+      "text": "Suddenly, Nemu's here in the row of cherry blossom trees."
+    },
+    {
+      "offset": 1280,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「音夢ちゃん」",
+      "en": "\"Nemu-chan.\"",
+      "text": "\"Nemu-chan.\""
+    },
+    {
+      "offset": 1329,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「私は……兄さんが誰を好きになってもいいっ\n　て思ってた」",
+      "en": "\"I don't mind if you fall in love with somebody.\"",
+      "text": "\"I don't mind if you fall in love with somebody.\""
+    },
+    {
+      "offset": 1393,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 1408,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "胸が痛い。",
+      "en": "My heart aches.",
+      "text": "My heart aches."
+    },
+    {
+      "offset": 1423,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢も、胸を押さえて深く息をついている。",
+      "en": "Nemu also takes a deep breath, clutching her hands to her\nchest.",
+      "text": "Nemu also takes a deep breath, clutching her hands to her\nchest."
+    },
+    {
+      "offset": 1498,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「白河さんでも、眞子でも……美春でも……」",
+      "en": "\"Like Shirakawa-san, Mako or Miharu...\"",
+      "text": "\"Like Shirakawa-san, Mako or Miharu...\""
+    },
+    {
+      "offset": 1575,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「私は兄さんが好きだけど……兄さんが誰かを\n　好きになったら、やっぱり兄妹だって諦めよ\n　うって思ってた」",
+      "en": "\"I love you, but when you fall in love with somebody, I know\nI have to accept my position as a sister.\"",
+      "text": "\"I love you, but when you fall in love with somebody, I know\nI have to accept my position as a sister.\""
+    },
+    {
+      "offset": 1686,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の深い碧色の瞳が、俺を見つめる。",
+      "en": "Nemu's deep blue eyes gaze at me.",
+      "text": "Nemu's deep blue eyes gaze at me."
+    },
+    {
+      "offset": 1757,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「でも、さくらはダメ」",
+      "en": "\"But, not Sakura.\"",
+      "text": "\"But, not Sakura.\""
+    },
+    {
+      "offset": 1816,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1835,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「音夢」",
+      "en": "\"Nemu?\"",
+      "text": "\"Nemu?\""
+    },
+    {
+      "offset": 1850,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "軽い｛めまい／眩暈｝がする。",
+      "en": "I feel a little dizzy.",
+      "text": "I feel a little dizzy."
+    },
+    {
+      "offset": 1883,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ズキズキ、と胸が痛んだ。",
+      "en": "My heart is aching.",
+      "text": "My heart is aching."
+    },
+    {
+      "offset": 1912,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それは、遠まわしで、凄く分かりやすい告白だっ\nた。",
+      "en": "It was a very indirect but clear confession.",
+      "text": "It was a very indirect but clear confession."
+    },
+    {
+      "offset": 1968,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺はさくらのこと――」",
+      "en": "\"Sakura is...\"",
+      "text": "\"Sakura is...\""
+    },
+    {
+      "offset": 2027,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「好きなんだよ兄さん……兄さんはさくらに惹\n　かれてるの」",
+      "en": "\"I know you like her... you've fallen in love with Sakura.\"",
+      "text": "\"I know you like her... you've fallen in love with Sakura.\""
+    },
+    {
+      "offset": 2121,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「音夢ちゃん、もしかして……」",
+      "en": "\"Nemu-chan, are you...\"",
+      "text": "\"Nemu-chan, are you...\""
+    },
+    {
+      "offset": 2186,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……さくらにだけは渡さない」",
+      "en": "\"I don't want to give you to Sakura.\"",
+      "text": "\"I don't want to give you to Sakura.\""
+    },
+    {
+      "offset": 2256,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "風が吹いた。",
+      "en": "The wind blows.",
+      "text": "The wind blows."
+    },
+    {
+      "offset": 2273,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "桜の枝をざわざわ、と。",
+      "en": "The branches of cherry trees swing.",
+      "text": "The branches of cherry trees swing."
+    },
+    {
+      "offset": 2300,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "乱れ散る。",
+      "en": "Blossoms scatter.",
+      "text": "Blossoms scatter."
+    },
+    {
+      "offset": 2315,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それでいて、決して消えることのない花。",
+      "en": "But, the cherry blossoms still keep blooming.",
+      "text": "But, the cherry blossoms still keep blooming."
+    },
+    {
+      "offset": 2358,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その風と花の幻想的な光景に押されるように、\n音夢が動いた。",
+      "en": "Nemu makes a move in keeping with the extraordinary view of\nthe wind and the flowers.",
+      "text": "Nemu makes a move in keeping with the extraordinary view of\nthe wind and the flowers."
+    },
+    {
+      "offset": 2420,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あまりにも自然に。",
+      "en": "Very naturally.",
+      "text": "Very naturally."
+    },
+    {
+      "offset": 2456,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「私は兄さんのモノだよ」",
+      "en": "\"I am yours, niisan.\"",
+      "text": "\"I am yours, niisan.\""
+    },
+    {
+      "offset": 2500,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「――っ！！」",
+      "en": "\".........!!\"",
+      "text": "\".........!!\""
+    },
+    {
+      "offset": 2542,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "唇をふさがれた。",
+      "en": "She kisses my lips.",
+      "text": "She kisses my lips."
+    },
+    {
+      "offset": 2576,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2595,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の柔らかい匂いが鼻をくすぐる。",
+      "en": "Nemu's gentle scent tickles my nose.",
+      "text": "Nemu's gentle scent tickles my nose."
+    },
+    {
+      "offset": 2670,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2689,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2708,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は身動きが出来なかった。",
+      "en": "I can't move.",
+      "text": "I can't move."
+    },
+    {
+      "offset": 2739,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "避けようとか受け入れようとか、そんな暇さえ\nなくて。",
+      "en": "I didn't have time to think whether I'd accept or avoid her.",
+      "text": "I didn't have time to think whether I'd accept or avoid her."
+    },
+    {
+      "offset": 2795,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それが始まり。",
+      "en": "That is our beginning.",
+      "text": "That is our beginning."
+    },
+    {
+      "offset": 2814,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それが終わり。",
+      "en": "And that is our ending.",
+      "text": "And that is our ending."
+    },
+    {
+      "offset": 2833,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "かったるいとか、そういう次元ではない――。",
+      "en": "It's not something you can call a pain.",
+      "text": "It's not something you can call a pain."
+    },
+    {
+      "offset": 2880,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "夢ではなく現実の――。",
+      "en": "It's not a dream, it's really happening now.",
+      "text": "It's not a dream, it's really happening now."
+    },
+    {
+      "offset": 2907,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何かが。",
+      "en": "Something's happening.",
+      "text": "Something's happening."
+    },
+    {
+      "offset": 3024,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆幕開けのキス◆",
+      "en": "◆It starts with a kiss◆",
+      "text": "◆It starts with a kiss◆"
+    },
+    {
+      "offset": 3077,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "桜並木で音夢と待ち合わせをする。",
+      "en": "I waited for Nemu in the row of cherry trees.",
+      "text": "I waited for Nemu in the row of cherry trees."
+    },
+    {
+      "offset": 3141,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらに対抗意識を燃やす音夢が、突然、俺の\n唇を奪った。",
+      "en": "Nemu felt competitive with Sakura over me. All of a sudden\nshe stole a kiss.",
+      "text": "Nemu felt competitive with Sakura over me. All of a sudden\nshe stole a kiss."
+    },
+    {
+      "offset": 3201,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何かが終わって、何かが始まったような瞬間\nだった。",
+      "en": "It was the moment of the ending, and yet the beginning of\nsomething.",
+      "text": "It was the moment of the ending, and yet the beginning of\nsomething."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "215": "Sakura",
+    "519": "Sakura",
+    "752": "Sakura",
+    "867": "Sakura",
+    "995": "Sakura",
+    "1105": "Nemu",
+    "1270": "Sakura",
+    "1321": "Nemu",
+    "1490": "Nemu",
+    "1567": "Nemu",
+    "1749": "Nemu",
+    "1806": "Sakura",
+    "2019": "Nemu",
+    "2111": "Sakura",
+    "2178": "Nemu",
+    "2448": "Nemu",
+    "2490": "Sakura",
+    "2568": "Nemu",
+    "2660": "Sakura"
+  }
+}

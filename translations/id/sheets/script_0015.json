@@ -1,0 +1,821 @@
+{
+  "scene": "script_0015.obj",
+  "dialogues": [
+    {
+      "offset": 177,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "日曜日の校内はいたってのどかだ。遠くの方か\nら、微かに運動部の掛け声が聞こえてくるのみ。",
+      "en": "Unsurprisingly, there isn't many people in school on a\nSunday. I could hear the faint voices of the exercise club\nin the distance.",
+      "text": "Unsurprisingly, there isn't many people in school on a\nSunday. I could hear the faint voices of the exercise club\nin the distance."
+    },
+    {
+      "offset": 269,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "２月の空気は冷たい。誰もいない校舎には当然\nのように熱気がなく、勝手に身体がブルブル震\nえてしまう。",
+      "en": "The Feburary weather is cold. Couple that with the school\nnot switching on the heaters on Sunday... no wonder that I'm\nshivering.",
+      "text": "The Feburary weather is cold. Couple that with the school\nnot switching on the heaters on Sunday... no wonder that I'm\nshivering."
+    },
+    {
+      "offset": 372,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "コツコツ、と足音が、廊下だけでなく身体の芯\nにも響き渡る。",
+      "en": "My footsteps resounded down the empty corridor as I walked.",
+      "text": "My footsteps resounded down the empty corridor as I walked."
+    },
+    {
+      "offset": 436,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はぁ……なんで俺はここにいるんだ？」",
+      "en": "\"Haa... why did I come here in the first place?\"",
+      "text": "\"Haa... why did I come here in the first place?\""
+    },
+    {
+      "offset": 481,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『俺に会いにきたのだろう？』",
+      "en": "\"To meet me, perhaps?\"",
+      "text": "\"To meet me, perhaps?\""
+    },
+    {
+      "offset": 514,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな声に振り返ると、不敵な笑みを浮かべた\n男……名前も思い出したくもない……が立って\nいた。",
+      "en": "I turned my head to the sound of the voice behind me.\nStanding there was a smiling male, whose name was alien to\nme.",
+      "text": "I turned my head to the sound of the voice behind me.\nStanding there was a smiling male, whose name was alien to\nme."
+    },
+    {
+      "offset": 613,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\".....\"",
+      "text": "\".....\""
+    },
+    {
+      "offset": 632,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あぁ。で、貴方は誰ですか？」",
+      "en": "\"Ahh. Then who are you?'",
+      "text": "\"Ahh. Then who are you?'"
+    },
+    {
+      "offset": 680,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「Ｙｏｕｒ　ｅｍｐｅｒｏｒ」",
+      "en": "\"Your emperor.\"",
+      "text": "\"Your emperor.\""
+    },
+    {
+      "offset": 715,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 767,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 786,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「なんでお前が俺の皇帝なんだ」",
+      "en": "\"Since when did you become my emperor, huh.\"",
+      "text": "\"Since when did you become my emperor, huh.\""
+    },
+    {
+      "offset": 851,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「なんだ、思い出したか」",
+      "en": "\"I see, you remember now.\"",
+      "text": "\"I see, you remember now.\""
+    },
+    {
+      "offset": 882,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こいつは……。",
+      "en": "This guy...",
+      "text": "This guy..."
+    },
+    {
+      "offset": 903,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、なんでお前がここにいるんだ？　しかも、\n　学生服で」",
+      "en": "\"Anyway, what are you doing here? In your school uniform, no\nless.\"",
+      "text": "\"Anyway, what are you doing here? In your school uniform, no\nless.\""
+    },
+    {
+      "offset": 995,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「なに、人がいない方が何かと動きやすくてな」",
+      "en": "\"Monitoring the hallways, of course.\"",
+      "text": "\"Monitoring the hallways, of course.\""
+    },
+    {
+      "offset": 1057,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「そして、黒い服装は人目を忍びやすい」",
+      "en": "\"And my school uniform makes me that much more stealthy\nwhile performing my work.\"",
+      "text": "\"And my school uniform makes me that much more stealthy\nwhile performing my work.\""
+    },
+    {
+      "offset": 1102,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "'......\"",
+      "text": "'......\""
+    },
+    {
+      "offset": 1121,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……はぁ」",
+      "en": "\"......Sigh.\"",
+      "text": "\"......Sigh.\""
+    },
+    {
+      "offset": 1168,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「では、俺はそろそろ任務に戻るとしよう」",
+      "en": "\"If that explains enough, I'd return to my duty.\"",
+      "text": "\"If that explains enough, I'd return to my duty.\""
+    },
+    {
+      "offset": 1229,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "オメガバカが、奇妙に膨れた鞄を手に、教員棟\nのほうへと消えていく。",
+      "en": "The omega idiot, carrying a strangely bulging bag, quickly\ndisappeared into the teacher's room.",
+      "text": "The omega idiot, carrying a strangely bulging bag, quickly\ndisappeared into the teacher's room."
+    },
+    {
+      "offset": 1299,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "授業もないのに、いったい何が詰まっているん\nだか……。",
+      "en": "There aren't any lessons now, so what the hell is he doing?",
+      "text": "There aren't any lessons now, so what the hell is he doing?"
+    },
+    {
+      "offset": 1359,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あまり深くは考えまい」",
+      "en": "\"I shouldn't think too much about this.\"",
+      "text": "\"I shouldn't think too much about this.\""
+    },
+    {
+      "offset": 1390,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並のことは忘れることにして、俺も学園内を\n｛はいかい／徘徊｝する。",
+      "en": "Forgetting about Suginami's affairs, I continue wandering\nthe school grounds.",
+      "text": "Forgetting about Suginami's affairs, I continue wandering\nthe school grounds."
+    },
+    {
+      "offset": 1497,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「つまらん」",
+      "en": "\"Booooring...\"",
+      "text": "\"Booooring...\""
+    },
+    {
+      "offset": 1516,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そもそも、学園の内部なんか見飽きているのに、\nなんで散策なんかしてるんだ？",
+      "en": "I already spend six days a week staring at the school's\ninterior, why did I come here for the seventh again?",
+      "text": "I already spend six days a week staring at the school's\ninterior, why did I come here for the seventh again?"
+    },
+    {
+      "offset": 1594,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 1609,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 1624,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音楽室の扉の前で立ち止まる。",
+      "en": "I stop at the entrance to the music room.",
+      "text": "I stop at the entrance to the music room."
+    },
+    {
+      "offset": 1657,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "微かに、人の声が聞こえた気がした。",
+      "en": "I can hear faint voices coming from inside.",
+      "text": "I can hear faint voices coming from inside."
+    },
+    {
+      "offset": 1696,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ドアに耳を当て、息を潜める。",
+      "en": "I place my ear on the door and silence my breathing.",
+      "text": "I place my ear on the door and silence my breathing."
+    },
+    {
+      "offset": 1729,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 1742,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なにも聞こえない。",
+      "en": "The only thing that graces my ears is a deathly silence.",
+      "text": "The only thing that graces my ears is a deathly silence."
+    },
+    {
+      "offset": 1765,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もっとも音楽室の音が外に漏れるようでは、造\nりに問題ありだが。",
+      "en": "I suppose it's a fair problem if any sound could escape from\na music room.",
+      "text": "I suppose it's a fair problem if any sound could escape from\na music room."
+    },
+    {
+      "offset": 1833,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「自分で言うのもなんだが……むちゃくちゃ怪\n　しげだよな、今の俺」",
+      "en": "\"...I bet I look pretty suspicious too.\"",
+      "text": "\"...I bet I look pretty suspicious too.\""
+    },
+    {
+      "offset": 1905,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それでも止めないのは、休日で誰かが通りかか\nることがないのと、なにより退屈だったから。",
+      "en": "But I didn't feel like stopping. Besides, on a rest day at\nschool, there's not much else to do, and no one to see me\nanyway.",
+      "text": "But I didn't feel like stopping. Besides, on a rest day at\nschool, there's not much else to do, and no one to see me\nanyway."
+    },
+    {
+      "offset": 1995,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 2010,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ま、暇つぶしにはなったか……」",
+      "en": "\"...Guess I'm wasting my time.\"",
+      "text": "\"...Guess I'm wasting my time.\""
+    },
+    {
+      "offset": 2049,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "誰もいるわけがない――。",
+      "en": "Looks like no one's in there--",
+      "text": "Looks like no one's in there--"
+    },
+    {
+      "offset": 2093,
+      "speaker": "???",
+      "speaker_jp": "？？？",
+      "jp": "「違うってば！　そうじゃなくて、こうッ！」",
+      "en": "\"No, wrong! That's not how it's supposed to be, geez!\"",
+      "text": "\"No, wrong! That's not how it's supposed to be, geez!\""
+    },
+    {
+      "offset": 2142,
+      "speaker": "???",
+      "speaker_jp": "？？？",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2161,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんと……まさか本当に人がいたとは……。",
+      "en": "Well... guess there are people inside...",
+      "text": "Well... guess there are people inside..."
+    },
+    {
+      "offset": 2208,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……にしても、なんだか聞き覚えのある声の\n　ような？」",
+      "en": "\"...And why does that voice sound so familiar?\"",
+      "text": "\"...And why does that voice sound so familiar?\""
+    },
+    {
+      "offset": 2270,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "無意識に手がドアノブに伸びる――。",
+      "en": "I unconciously put my hand on the doorknob.",
+      "text": "I unconciously put my hand on the doorknob."
+    },
+    {
+      "offset": 2347,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2366,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうりで聞き覚えがあるわけだ。",
+      "en": "The truth was that I do know the owner of that voice.",
+      "text": "The truth was that I do know the owner of that voice."
+    },
+    {
+      "offset": 2401,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音楽部の練習――にしては、他に人がいないみ\nたいだな。",
+      "en": "It looked like a music club practice session-- except there\nwere only two people inside.",
+      "text": "It looked like a music club practice session-- except there\nwere only two people inside."
+    },
+    {
+      "offset": 2459,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "中では、萌先輩と眞子が楽しげに楽器を鳴らし\nている。",
+      "en": "Inside, Moe-senpai and Mako were happily playing their\ninstruments.",
+      "text": "Inside, Moe-senpai and Mako were happily playing their\ninstruments."
+    },
+    {
+      "offset": 2536,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふたりとも目を閉じて、自分の音楽の世界に浸っ\nている感じだ。",
+      "en": "Both of them had their eyes closed, lost in a world of their\nown.",
+      "text": "Both of them had their eyes closed, lost in a world of their\nown."
+    },
+    {
+      "offset": 2600,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さすがは姉妹だけあって、息はピッタリと言っ\nたところか。",
+      "en": "As can be expected from sisters, their rhythm was in exact\nsynchronization.",
+      "text": "As can be expected from sisters, their rhythm was in exact\nsynchronization."
+    },
+    {
+      "offset": 2660,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただ、眞子はともかく、萌先輩の木琴のほうの\n音は……。",
+      "en": "Mako was playing as normal as a flute can get, but\nMoe-senpai's xylophone playing was somehow...",
+      "text": "Mako was playing as normal as a flute can get, but\nMoe-senpai's xylophone playing was somehow..."
+    },
+    {
+      "offset": 2720,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（微妙だ）",
+      "en": "\"(Subtle...)\"",
+      "text": "\"(Subtle...)\""
+    },
+    {
+      "offset": 2737,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "上手い下手は別にして、流れてくる音色からは、\nふたりの楽しげな気持ちが感じられた。",
+      "en": "It wasn't a case of being skilled or unskilled here. From\nthe flowing music, the whimsical mood of the two could be\nfelt.",
+      "text": "It wasn't a case of being skilled or unskilled here. From\nthe flowing music, the whimsical mood of the two could be\nfelt."
+    },
+    {
+      "offset": 2844,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩たのしそう……って、あれ？",
+      "en": "Moe-senpai especially looked like she was...ehh?",
+      "text": "Moe-senpai especially looked like she was...ehh?"
+    },
+    {
+      "offset": 2881,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "のりのりになった萌先輩の音がさらにぶっ飛ぶ。",
+      "en": "All of a sudden, Moe-senpai's music flew up in terms of\npower.",
+      "text": "All of a sudden, Moe-senpai's music flew up in terms of\npower."
+    },
+    {
+      "offset": 2930,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "このはずし方は……凄い。",
+      "en": "The sudden change in tempo... amazing.",
+      "text": "The sudden change in tempo... amazing."
+    },
+    {
+      "offset": 3027,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ちょっとお姉ちゃん！　また音が外れてる！」",
+      "en": "\"Wait, onee-chan! You fell out of sync again!\"",
+      "text": "\"Wait, onee-chan! You fell out of sync again!\""
+    },
+    {
+      "offset": 3078,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子が口元からフルートを離し、叱責する。",
+      "en": "Mako removed her mouth from her flute to rebuke her sister.",
+      "text": "Mako removed her mouth from her flute to rebuke her sister."
+    },
+    {
+      "offset": 3151,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「え？」",
+      "en": "\"Eh?\"",
+      "text": "\"Eh?\""
+    },
+    {
+      "offset": 3166,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "不思議そうに、萌先輩が手の動きを止める。",
+      "en": "With a perplexed expression, Moe's hands stopped moving.",
+      "text": "With a perplexed expression, Moe's hands stopped moving."
+    },
+    {
+      "offset": 3241,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「“え？”じゃなくて、またズレてるの」",
+      "en": "\"Don't just say \"Eh?\". You slid off there.\"",
+      "text": "\"Don't just say \"Eh?\". You slid off there.\""
+    },
+    {
+      "offset": 3312,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「ごめんなさい」",
+      "en": "\"I'm sorry.\"",
+      "text": "\"I'm sorry.\""
+    },
+    {
+      "offset": 3335,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しゅんとして謝る萌先輩。その姿につい保護し\nたくなる。",
+      "en": "Moe-senpai apologized deeply. Her demeanour made her seem\nmore like a caretaker or guardian.",
+      "text": "Moe-senpai apologized deeply. Her demeanour made her seem\nmore like a caretaker or guardian."
+    },
+    {
+      "offset": 3395,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まあ、いいじゃんか。楽しく演奏できればそ\n　れで」",
+      "en": "\"Aw, it was fine. I thought it was a great performance.\"",
+      "text": "\"Aw, it was fine. I thought it was a great performance.\""
+    },
+    {
+      "offset": 3481,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「えっ」",
+      "en": "\"Ah!\"",
+      "text": "\"Ah!\""
+    },
+    {
+      "offset": 3524,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「朝倉……いつの間に……」",
+      "en": "\"Asakura... how long were you here...\"",
+      "text": "\"Asakura... how long were you here...\""
+    },
+    {
+      "offset": 3557,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「いつの間にか」",
+      "en": "\"The whole time.\"",
+      "text": "\"The whole time.\""
+    },
+    {
+      "offset": 3608,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3627,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "気のせいか、眞子から殺気を感じる。",
+      "en": "I could feel Mako's bloodthirst growing.",
+      "text": "I could feel Mako's bloodthirst growing."
+    },
+    {
+      "offset": 3694,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あ、こんにちは朝倉くん」",
+      "en": "\"Ah, good afternoon, Asakura-kun.\"",
+      "text": "\"Ah, good afternoon, Asakura-kun.\""
+    },
+    {
+      "offset": 3727,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩だけは、にこやかに微笑んで迎えいれて\nくれる。",
+      "en": "In direct contrast, Moe-senpai's greeting was delivered with\na pleasant smile.",
+      "text": "In direct contrast, Moe-senpai's greeting was delivered with\na pleasant smile."
+    },
+    {
+      "offset": 3785,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どうも」",
+      "en": "\"Good afternoon to you too.\"",
+      "text": "\"Good afternoon to you too.\""
+    },
+    {
+      "offset": 3802,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩に挨拶しつつ、眞子との距離を保つ。",
+      "en": "I greeted Moe-senpai, and kept a safe distance from Mako.",
+      "text": "I greeted Moe-senpai, and kept a safe distance from Mako."
+    },
+    {
+      "offset": 3849,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふたりだけでなにやってるんです？」",
+      "en": "\"So, what are you two doing?\"",
+      "text": "\"So, what are you two doing?\""
+    },
+    {
+      "offset": 3918,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「えーと、楽器の練習です」",
+      "en": "\"Uhmmm, we're practicing our music.\"",
+      "text": "\"Uhmmm, we're practicing our music.\""
+    },
+    {
+      "offset": 3951,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「いや、それは見れば分かります。ええ」",
+      "en": "\"No, I can see that, I mean...\"",
+      "text": "\"No, I can see that, I mean...\""
+    },
+    {
+      "offset": 4024,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「４月の入学式のときに演奏する曲の練習」",
+      "en": "\"We're practicing the performance for the opening ceremony\nin April.\"",
+      "text": "\"We're practicing the performance for the opening ceremony\nin April.\""
+    },
+    {
+      "offset": 4071,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ああ、うちらの入学式か。音楽部がやるんだ\n　よな。お前もなんか吹くのか？」",
+      "en": "\"Ah, the opening ceremony for high-school... not\nunsurprising that the music club would perform there. You'd\nbe playing your flute?",
+      "text": "\"Ah, the opening ceremony for high-school... not\nunsurprising that the music club would perform there. You'd\nbe playing your flute?"
+    },
+    {
+      "offset": 4153,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もぅ、そんな時期なんだなと感心する。",
+      "en": "If nothing else, I definitely admire Mako for her musical\nskills.",
+      "text": "If nothing else, I definitely admire Mako for her musical\nskills."
+    },
+    {
+      "offset": 4224,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「｛あたし／新入生｝が吹いてどうするのよ。お姉ちゃんの\n　練習をみてんの」",
+      "en": "\"What would a freshman like me be doing playing there? I'm\njust watching over my sister practicing.\"",
+      "text": "\"What would a freshman like me be doing playing there? I'm\njust watching over my sister practicing.\""
+    },
+    {
+      "offset": 4304,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「萌先輩がでるの？」",
+      "en": "\"Moe-senpai will be playing then?\"",
+      "text": "\"Moe-senpai will be playing then?\""
+    },
+    {
+      "offset": 4357,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 4372,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本人は一抹の不安も感じてなさそうな笑顔。",
+      "en": "A tinge of anxiety marked her words and smile as she\nanswered my question.",
+      "text": "A tinge of anxiety marked her words and smile as she\nanswered my question."
+    },
+    {
+      "offset": 4419,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「大丈夫なのか？」",
+      "en": "\"Will it be okay?\"",
+      "text": "\"Will it be okay?\""
+    },
+    {
+      "offset": 4444,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "聞いた人間は不安で仕方がない。",
+      "en": "It's pretty understandable to be a bit nervous in that\nsituation.",
+      "text": "It's pretty understandable to be a bit nervous in that\nsituation."
+    },
+    {
+      "offset": 4509,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「まあ……あと１ヶ月ちょいあるし」",
+      "en": "\"Well... there's still a month to practice.\"",
+      "text": "\"Well... there's still a month to practice.\""
+    },
+    {
+      "offset": 4550,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "“大丈夫”とは言わないんだな……。",
+      "en": "She didn't answer \"yes\", huh...",
+      "text": "She didn't answer \"yes\", huh..."
+    },
+    {
+      "offset": 4591,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「萌先輩、がんばってくださいね」",
+      "en": "\"Moe-senpai, I'd be rooting for you.\"",
+      "text": "\"Moe-senpai, I'd be rooting for you.\""
+    },
+    {
+      "offset": 4656,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい。ありがとうございます。当日は、真心\n　を込めて歓迎しますね」",
+      "en": "\"Yes, thank you very much. On the day, I'd put all my heart\ninto welcoming you and Mako.\"",
+      "text": "\"Yes, thank you very much. On the day, I'd put all my heart\ninto welcoming you and Mako.\""
+    },
+    {
+      "offset": 4730,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「お願いします」",
+      "en": "\"Please do.\"",
+      "text": "\"Please do.\""
+    },
+    {
+      "offset": 4753,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の言葉に、萌先輩と眞子が顔を見合わせて、\n微笑む。",
+      "en": "At my words, Moe-senpai and Mako both exchanged glances and\nsmiles.",
+      "text": "At my words, Moe-senpai and Mako both exchanged glances and\nsmiles."
+    },
+    {
+      "offset": 4811,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「それじゃあ、がんばってください」",
+      "en": "\"Well then, do your best till then.\"",
+      "text": "\"Well then, do your best till then.\""
+    },
+    {
+      "offset": 4912,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "防音加工の扉を開け、廊下にでる。",
+      "en": "I go out the soundproofed door, back into the corridor.",
+      "text": "I go out the soundproofed door, back into the corridor."
+    },
+    {
+      "offset": 4949,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 4962,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そういや、よく眞子の声が外に漏れたよな……。",
+      "en": "...Speaking of which, amazing that Mako's voice could pierce\nthrough this \"barrier\"...",
+      "text": "...Speaking of which, amazing that Mako's voice could pierce\nthrough this \"barrier\"..."
+    },
+    {
+      "offset": 5122,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆音楽室の個人指導◆",
+      "en": "◆Private Tution in the Music Room◆",
+      "text": "◆Private Tution in the Music Room◆"
+    },
+    {
+      "offset": 5173,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "日曜の音楽室で眞子と萌先輩を見つけた。なん\nでも新入生歓迎会で演奏する曲の練習らしい。",
+      "en": "I saw Moe-senpai and Mako in the music room on Sunday. They\nwere practicing a piece for the freshmen welcoming\nreception.",
+      "text": "I saw Moe-senpai and Mako in the music room on Sunday. They\nwere practicing a piece for the freshmen welcoming\nreception."
+    },
+    {
+      "offset": 5263,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "楽しげに演奏しているのはいいのだけど……先\n輩の音のはずし方は神域に突入していた。",
+      "en": "I felt that the performance was good, but apparently Moe's\nplaying was a bit rushed.",
+      "text": "I felt that the performance was good, but apparently Moe's\nplaying was a bit rushed."
+    },
+    {
+      "offset": 5361,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちなみに、これより前に杉並に会ったことは忘\nれるとしよう。",
+      "en": "On another note, I completely forgot about Suginami's\naffairs earlier.",
+      "text": "On another note, I completely forgot about Suginami's\naffairs earlier."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "672": "Suginami",
+    "759": "Suginami",
+    "843": "Suginami",
+    "987": "Suginami",
+    "1049": "Suginami",
+    "1160": "Suginami",
+    "2083": "???",
+    "3019": "Mako",
+    "3145": "Moe",
+    "3233": "Mako",
+    "3306": "Moe",
+    "3473": "Mako",
+    "3516": "Mako",
+    "3600": "Mako",
+    "3688": "Moe",
+    "3912": "Moe",
+    "4016": "Mako",
+    "4216": "Mako",
+    "4351": "Moe",
+    "4501": "Mako",
+    "4650": "Moe"
+  }
+}

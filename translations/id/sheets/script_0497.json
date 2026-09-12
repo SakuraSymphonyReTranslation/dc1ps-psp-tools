@@ -1,0 +1,1419 @@
+{
+  "scene": "script_0497.obj",
+  "dialogues": [
+    {
+      "offset": 151,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふぅ」",
+      "en": "\"Phew.\"",
+      "text": "\"Phew.\""
+    },
+    {
+      "offset": 166,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "フランクフルトを口に、たこ焼きを手に、中庭\nのベンチに腰を下ろす。",
+      "en": "I sat down on a bench in the courtyard with a hot dog in my\nmouth and an octopus ball in my hand.",
+      "text": "I sat down on a bench in the courtyard with a hot dog in my\nmouth and an octopus ball in my hand."
+    },
+    {
+      "offset": 236,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どこをどう間違っているのか、校舎を歩いてい\nるだけで奇妙な眼差しにさらされていた。",
+      "en": "I'm not sure what was going on, but everybody was looking at\nme with odd eyes as I was walking around in the school\nbuildings.",
+      "text": "I'm not sure what was going on, but everybody was looking at\nme with odd eyes as I was walking around in the school\nbuildings."
+    },
+    {
+      "offset": 322,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なにを評価されているのか知らないが、よほど\n俺と杉並は期待されているらしい……。",
+      "en": "I guess everybody's waiting for Suginami and me to do\nsomething.......",
+      "text": "I guess everybody's waiting for Suginami and me to do\nsomething......."
+    },
+    {
+      "offset": 423,
+      "speaker": "Junichi & A voice",
+      "speaker_jp": "朝倉＆声",
+      "jp": "「人気者はまいるぜ」",
+      "en": "\"I'm so popular.\"",
+      "text": "\"I'm so popular.\""
+    },
+    {
+      "offset": 450,
+      "speaker": "Junichi & A voice",
+      "speaker_jp": "朝倉＆声",
+      "jp": "「あ？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 498,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「よぉ、ご無沙汰」",
+      "en": "\"Hey, long time no see.\"",
+      "text": "\"Hey, long time no see.\""
+    },
+    {
+      "offset": 523,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ひょい、と俺のたこ焼きをひとつ口に放りこん\nで、杉並がベンチの隣に座る。",
+      "en": "Suginami sat next me stealing my octopus ball.",
+      "text": "Suginami sat next me stealing my octopus ball."
+    },
+    {
+      "offset": 629,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「久しぶりだな」",
+      "en": "\"It's been a while.\"",
+      "text": "\"It's been a while.\""
+    },
+    {
+      "offset": 652,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「久しぶりってほどでもないだろうが」",
+      "en": "\"It hasn't been that long.\"",
+      "text": "\"It hasn't been that long.\""
+    },
+    {
+      "offset": 695,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "作り笑いを浮かべながら、なんとなく距離をと\nる。",
+      "en": "I made myself smile and kept my distance from him.",
+      "text": "I made myself smile and kept my distance from him."
+    },
+    {
+      "offset": 747,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いかん、疲れを増幅させるやつに出会ってしまっ\nた……。",
+      "en": "It's too bad that he found me. He makes me even more\ntired......",
+      "text": "It's too bad that he found me. He makes me even more\ntired......"
+    },
+    {
+      "offset": 835,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「警戒するなよ。パーティーにはまだ早い」",
+      "en": "\"Don't be so cautious. It's still too early to party.\"",
+      "text": "\"Don't be so cautious. It's still too early to party.\""
+    },
+    {
+      "offset": 882,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「どうした。感動的な卒業を迎えて、つい感傷\n　的になってるのか」",
+      "en": "\"What happened? Are you feeling down from the sentimental\ngraduation ceremony?\"",
+      "text": "\"What happened? Are you feeling down from the sentimental\ngraduation ceremony?\""
+    },
+    {
+      "offset": 963,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「はっ、柄じゃない」",
+      "en": "\"I'm not that type.\"",
+      "text": "\"I'm not that type.\""
+    },
+    {
+      "offset": 990,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並が手を広げてニヘヘと笑う。",
+      "en": "Suginami opened his arms and smiled.",
+      "text": "Suginami opened his arms and smiled."
+    },
+    {
+      "offset": 1038,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「いやぁ、まいったまいった。講師と風紀委員\n　と中央委員会に｛にら／睨｝まれててな」",
+      "en": "\"It was pretty tough. The teachers, the school committee and\nthe central committee are watching me.\"",
+      "text": "\"It was pretty tough. The teachers, the school committee and\nthe central committee are watching me.\""
+    },
+    {
+      "offset": 1139,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「発信機を他の人間にくっ付けてまいてきた。\n　これで５分は稼げるはずだ」",
+      "en": "\"I put the transmitter on someone else. It should give me at\nleast five minutes.\"",
+      "text": "\"I put the transmitter on someone else. It should give me at\nleast five minutes.\""
+    },
+    {
+      "offset": 1217,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「そりゃ……総力戦だな」",
+      "en": "\"Wow...... that's a tough crowd.\"",
+      "text": "\"Wow...... that's a tough crowd.\""
+    },
+    {
+      "offset": 1276,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「今年は、実力行使で阻止するらしい。ふっ\n　……なりふりかまっていられないらしいな」",
+      "en": "\"I guess they're trying to stop me with force this year.\nThey're pretty desperate.\"",
+      "text": "\"I guess they're trying to stop me with force this year.\nThey're pretty desperate.\""
+    },
+    {
+      "offset": 1366,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "風紀委員と中央委員会といえば、風見学園でも\n最高のエリート集団だ。",
+      "en": "Students who are involved in the school committee and the\ncentral committee are all elites of the Kazami Academy.",
+      "text": "Students who are involved in the school committee and the\ncentral committee are all elites of the Kazami Academy."
+    },
+    {
+      "offset": 1436,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "発信機も盗聴機もお手の物だろうが……。",
+      "en": "I'm sure a transmitter or a wiretap would be no problem for\nthem......",
+      "text": "I'm sure a transmitter or a wiretap would be no problem for\nthem......"
+    },
+    {
+      "offset": 1481,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あいつらに睨まれて、それでも逃げ切れるお\n　前も恐ろしいがな」",
+      "en": "\"I'm more impressed by you being able to flee from them.\"",
+      "text": "\"I'm more impressed by you being able to flee from them.\""
+    },
+    {
+      "offset": 1579,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「朝倉妹だけでもお前が担当してくれれば、相\n　当楽なんだがな」",
+      "en": "\"It would make my life so much easier if you could take care\nof your sister for me.\"",
+      "text": "\"It would make my life so much easier if you could take care\nof your sister for me.\""
+    },
+    {
+      "offset": 1647,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「勘弁してくれ」",
+      "en": "\"Don't even go there.\"",
+      "text": "\"Don't even go there.\""
+    },
+    {
+      "offset": 1681,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「行動パターンが読まれてるからなぁ。さっき\n　まで朝倉妹にだけ追われてたんだ」",
+      "en": "\"She knows my behavioral pattern. She's the hardest one to\nflee from.\"",
+      "text": "\"She knows my behavioral pattern. She's the hardest one to\nflee from.\""
+    },
+    {
+      "offset": 1765,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ごそごそ、と缶ジュースを取り出して、１本を\n俺に投げてよこす。",
+      "en": "He took out some sodas from his bag, and threw one at me.",
+      "text": "He took out some sodas from his bag, and threw one at me."
+    },
+    {
+      "offset": 1833,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お、サンキュって炭酸かい」",
+      "en": "\"Thanks. But don't throw soda, man.\"",
+      "text": "\"Thanks. But don't throw soda, man.\""
+    },
+    {
+      "offset": 1896,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「お前、なんか雰囲気違うぞ」",
+      "en": "\"You look different.\"",
+      "text": "\"You look different.\""
+    },
+    {
+      "offset": 1931,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「あ？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 1946,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ジュースを口につけたまま、杉並が目を細めて\n前を見つめる。",
+      "en": "Suginami narrowed his eyes and looked as he sipped his soda.",
+      "text": "Suginami narrowed his eyes and looked as he sipped his soda."
+    },
+    {
+      "offset": 2010,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……またその話か。耳たこだ」",
+      "en": "\"That again? I'm so sick and tired of it.\"",
+      "text": "\"That again? I'm so sick and tired of it.\""
+    },
+    {
+      "offset": 2047,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "プルタブを開けて、炭酸みたいに息をつく。",
+      "en": "I pulled the can open and sighed.",
+      "text": "I pulled the can open and sighed."
+    },
+    {
+      "offset": 2105,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「みんな心配してるのさ」",
+      "en": "\"Everybody's worried about you.\"",
+      "text": "\"Everybody's worried about you.\""
+    },
+    {
+      "offset": 2136,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「はぁ？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 2153,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "かなり素で反応してしまう。",
+      "en": "I didn't know what to say.",
+      "text": "I didn't know what to say."
+    },
+    {
+      "offset": 2197,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「なんだかんだで、朝倉兄妹がおかしいと、他\n　の連中も――俺もなんか調子でなくてなぁ」",
+      "en": "\"It doesn't feel right if you guys are acting weird.\nEverybody feels that, and it affects me too.\"",
+      "text": "\"It doesn't feel right if you guys are acting weird.\nEverybody feels that, and it affects me too.\""
+    },
+    {
+      "offset": 2289,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2344,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "吹き抜けの青空を見上げた。",
+      "en": "I looked up at the sky.",
+      "text": "I looked up at the sky."
+    },
+    {
+      "offset": 2377,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……なぁ、俺と音夢って兄妹だよな」",
+      "en": "\"Hey, Nemu and I are brother and sister, right?\"",
+      "text": "\"Hey, Nemu and I are brother and sister, right?\""
+    },
+    {
+      "offset": 2431,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「はぁ？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 2448,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今度は杉並がおかしな声を上げる。",
+      "en": "It was his turn to question.",
+      "text": "It was his turn to question."
+    },
+    {
+      "offset": 2487,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いやさ、音夢は……可愛いと思う」",
+      "en": "\"You know...... I think Nemu's cute.\"",
+      "text": "\"You know...... I think Nemu's cute.\""
+    },
+    {
+      "offset": 2539,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「は？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 2554,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――ガン！",
+      "en": "Crash!",
+      "text": "Crash!"
+    },
+    {
+      "offset": 2569,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ん？",
+      "en": "What?",
+      "text": "What?"
+    },
+    {
+      "offset": 2578,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "近くのゴミ箱が揺れている。誰かがぶつかって\nいったのか？",
+      "en": "I saw the garbage can shaking. Did someone run into it?",
+      "text": "I saw the garbage can shaking. Did someone run into it?"
+    },
+    {
+      "offset": 2651,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「お前、頭平気か？」",
+      "en": "\"Hey, are you serious?\"",
+      "text": "\"Hey, are you serious?\""
+    },
+    {
+      "offset": 2678,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ん、ちとキテるかも知れない」",
+      "en": "\"I'm not sure, but I might be going crazy.\"",
+      "text": "\"I'm not sure, but I might be going crazy.\""
+    },
+    {
+      "offset": 2715,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ニヘヘ、と苦笑がもれる。",
+      "en": "I grinned.",
+      "text": "I grinned."
+    },
+    {
+      "offset": 2794,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「相当な状態だと思うぞ」",
+      "en": "\"I think this could be a complicated situation.\"",
+      "text": "\"I think this could be a complicated situation.\""
+    },
+    {
+      "offset": 2825,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ははっ、お前に言われるとは重症だな」",
+      "en": "\"It must be pretty bad if you say so.\"",
+      "text": "\"It must be pretty bad if you say so.\""
+    },
+    {
+      "offset": 2881,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「なんだ？　ついに朝倉妹と、血の繋がりがな\n　いことでも実感したのか？」",
+      "en": "\"So, you finally understand that your sister's adopted and\nnot related to you by blood?\"",
+      "text": "\"So, you finally understand that your sister's adopted and\nnot related to you by blood?\""
+    },
+    {
+      "offset": 2959,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ぶっ――！？」",
+      "en": "\"Wow!?\"",
+      "text": "\"Wow!?\""
+    },
+    {
+      "offset": 2982,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ぐ、げほっ……なんで知ってんだよ！？」",
+      "en": "\"How did you know?\"",
+      "text": "\"How did you know?\""
+    },
+    {
+      "offset": 3029,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "吹きだしたコーラを拭って｛うめ／呻｝く。",
+      "en": "I spilled soda so I had to wipe it.",
+      "text": "I spilled soda so I had to wipe it."
+    },
+    {
+      "offset": 3104,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「や〜っぱりそうなのか」",
+      "en": "\"So I was right......\"",
+      "text": "\"So I was right......\""
+    },
+    {
+      "offset": 3135,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ぐぁ！！」",
+      "en": "\"Shit!!\"",
+      "text": "\"Shit!!\""
+    },
+    {
+      "offset": 3154,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "語るに落ちた。",
+      "en": "It was a trap.",
+      "text": "It was a trap."
+    },
+    {
+      "offset": 3203,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「わははははははははは！　このスーパー公式\n　裏新聞部の俺に隠し事が出来ると思ったか！」",
+      "en": "\"Hahahahaha! You can't hide anything from our super official\nunofficial newspaper club!\"",
+      "text": "\"Hahahahaha! You can't hide anything from our super official\nunofficial newspaper club!\""
+    },
+    {
+      "offset": 3297,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「公式で裏？」",
+      "en": "\"You're officially unofficial?\"",
+      "text": "\"You're officially unofficial?\""
+    },
+    {
+      "offset": 3346,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「調子出てきたみたいじゃないか」",
+      "en": "\"There you go.\"",
+      "text": "\"There you go.\""
+    },
+    {
+      "offset": 3385,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ニヤリ、と杉並が最高の笑みを浮かべた。",
+      "en": "Suginami gave me a great smile.",
+      "text": "Suginami gave me a great smile."
+    },
+    {
+      "offset": 3430,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「な、なんだそりゃ！？」",
+      "en": "\"What's that for?\"",
+      "text": "\"What's that for?\""
+    },
+    {
+      "offset": 3489,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「悩むことじゃないだろうが。正直になれって。\n　面白いことと好きなことやるのが俺達だ」",
+      "en": "\"I'm just telling you to be honest. It's nothing to be\nworried about. We always do what we want and what's fun.\"",
+      "text": "\"I'm just telling you to be honest. It's nothing to be\nworried about. We always do what we want and what's fun.\""
+    },
+    {
+      "offset": 3581,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ただの迷惑野郎じゃねぇかそれは……」",
+      "en": "\"That sounds like an immature troublemaker......\"",
+      "text": "\"That sounds like an immature troublemaker......\""
+    },
+    {
+      "offset": 3637,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「お前は朝倉妹が好きだから悩んでるんだよ」",
+      "en": "\"You're troubled because you love your sister.\"",
+      "text": "\"You're troubled because you love your sister.\""
+    },
+    {
+      "offset": 3691,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ガコン――。",
+      "en": "Crash!",
+      "text": "Crash!"
+    },
+    {
+      "offset": 3710,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 3725,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "またゴミ箱が揺れる。",
+      "en": "I saw the garbage can shake again.",
+      "text": "I saw the garbage can shake again."
+    },
+    {
+      "offset": 3752,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんだあれは？」",
+      "en": "\"What's that?\"",
+      "text": "\"What's that?\""
+    },
+    {
+      "offset": 3805,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ああ、あれな。俺が音が鳴ると動くように改\n　造してるんだよ」",
+      "en": "\"Oh, that? I'm converting that garbage can so that it moves\nwhen it hears noises.\"",
+      "text": "\"Oh, that? I'm converting that garbage can so that it moves\nwhen it hears noises.\""
+    },
+    {
+      "offset": 3873,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "飲み干した缶を、コン、と杉並がゴミ箱に放り\n投げる。",
+      "en": "Suginami threw the empty soda can at the garbage can.",
+      "text": "Suginami threw the empty soda can at the garbage can."
+    },
+    {
+      "offset": 3929,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――コン",
+      "en": "Conk!",
+      "text": "Conk!"
+    },
+    {
+      "offset": 3947,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ガコン――コンコン",
+      "en": "Crash ----conk, conk.",
+      "text": "Crash ----conk, conk."
+    },
+    {
+      "offset": 3983,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「凄いだろう？　ハリウッドも香港のワイヤー\n　アクションもびっくり」",
+      "en": "\"Isn't that great? Hollywood, here I come.\"",
+      "text": "\"Isn't that great? Hollywood, here I come.\""
+    },
+    {
+      "offset": 4057,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「あんなのに技術を集結してもなぁ……誰か\n　が後ろにいて頭ぶつけてるだけなんじゃな\n　いか？」",
+      "en": "\"You're wasting your time...... Isn't there someone behind\nthe garbage can hitting their head on it?\"",
+      "text": "\"You're wasting your time...... Isn't there someone behind\nthe garbage can hitting their head on it?\""
+    },
+    {
+      "offset": 4184,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「それも可だ」",
+      "en": "\"That would be another possibility.\"",
+      "text": "\"That would be another possibility.\""
+    },
+    {
+      "offset": 4205,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「くだらねぇ……用件なしか？」",
+      "en": "\"That's stupid. So what do you want from me?\"",
+      "text": "\"That's stupid. So what do you want from me?\""
+    },
+    {
+      "offset": 4270,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「あぁ。たまたま見かけたから声をかけただけ\n　だ」",
+      "en": "\"I just came to talk to you because I happened to see you\nsitting here.\"",
+      "text": "\"I just came to talk to you because I happened to see you\nsitting here.\""
+    },
+    {
+      "offset": 4326,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「あっそ」",
+      "en": "\"Fine.\"",
+      "text": "\"Fine.\""
+    },
+    {
+      "offset": 4352,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "立ちあがって、ポケットに手をつっこむ。",
+      "en": "I stood up and put my hands in my pockets.",
+      "text": "I stood up and put my hands in my pockets."
+    },
+    {
+      "offset": 4408,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「どこ行くんだ？」",
+      "en": "\"Where are you going?\"",
+      "text": "\"Where are you going?\""
+    },
+    {
+      "offset": 4433,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「あん？　……帰る」",
+      "en": "\"Huh? I'm going home.\"",
+      "text": "\"Huh? I'm going home.\""
+    },
+    {
+      "offset": 4471,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「お、おい、まだ始まったばかりだぞ！？」",
+      "en": "\"Hey, it just started!\"",
+      "text": "\"Hey, it just started!\""
+    },
+    {
+      "offset": 4518,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "背中にかかる声に手を振り返す。",
+      "en": "I waved my hand at him.",
+      "text": "I waved my hand at him."
+    },
+    {
+      "offset": 4555,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……かったりぃんだよ」",
+      "en": "\"But it's a pain.\"",
+      "text": "\"But it's a pain.\""
+    },
+    {
+      "offset": 4586,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "かなり本気で呟く。",
+      "en": "I mumbled seriously.",
+      "text": "I mumbled seriously."
+    },
+    {
+      "offset": 4609,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩や暦先生にも会ってないが、どうにも今\n日は駄目だ……。",
+      "en": "I haven't seen Moe-sempai or Koyomi-sensei, but I can't take\nit anymore.",
+      "text": "I haven't seen Moe-sempai or Koyomi-sensei, but I can't take\nit anymore."
+    },
+    {
+      "offset": 4673,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "誰に会っても、音夢との仲を聞かれることだろ\nう。",
+      "en": "I'm sure they'll ask me about Nemu.",
+      "text": "I'm sure they'll ask me about Nemu."
+    },
+    {
+      "offset": 4738,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「おい、ちょっと待てよ」",
+      "en": "\"Wait. Hold on.\"",
+      "text": "\"Wait. Hold on.\""
+    },
+    {
+      "offset": 4769,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "振り向く。",
+      "en": "I turned around.",
+      "text": "I turned around."
+    },
+    {
+      "offset": 4808,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 4855,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「朝倉妹に捕まったら、なにか言っておこう\n　か？」",
+      "en": "\"Do you want me to say something to your sister?\"",
+      "text": "\"Do you want me to say something to your sister?\""
+    },
+    {
+      "offset": 4911,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……そうだな」",
+      "en": "\"......I guess.\"",
+      "text": "\"......I guess.\""
+    },
+    {
+      "offset": 4934,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少しだけ考えて。",
+      "en": "I thought about it.",
+      "text": "I thought about it."
+    },
+    {
+      "offset": 4955,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "正直になろうと思った。",
+      "en": "I decided to be honest.",
+      "text": "I decided to be honest."
+    },
+    {
+      "offset": 4984,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「無理するなよ――俺はかったりぃんだ」",
+      "en": "\"Take it easy. I'm way too tired.\"",
+      "text": "\"Take it easy. I'm way too tired.\""
+    },
+    {
+      "offset": 5040,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「前と後ろどっち？」",
+      "en": "\"Which one?\"",
+      "text": "\"Which one?\""
+    },
+    {
+      "offset": 5067,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「両方だ。頼むぜ」",
+      "en": "\"Both of them. Thanks.\"",
+      "text": "\"Both of them. Thanks.\""
+    },
+    {
+      "offset": 5103,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「了解。万が一、俺が捕まったらだがな」",
+      "en": "\"I got it. But only if I get caught.\"",
+      "text": "\"I got it. But only if I get caught.\""
+    },
+    {
+      "offset": 5148,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「捕まれバカ」",
+      "en": "\"You should get caught, idiot.\"",
+      "text": "\"You should get caught, idiot.\""
+    },
+    {
+      "offset": 5178,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "憎まれ口を叩いて、また歩き出す。",
+      "en": "I made it sound bad on purpose and turned around.",
+      "text": "I made it sound bad on purpose and turned around."
+    },
+    {
+      "offset": 5215,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……ちくしょう。",
+      "en": "...Shit.",
+      "text": "...Shit."
+    },
+    {
+      "offset": 5236,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "足取りが軽い。",
+      "en": "I feel better.",
+      "text": "I feel better."
+    },
+    {
+      "offset": 5257,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「帰ろうと思ったのに、なんとなく元気が出て\n　きちまったじゃねぇか」",
+      "en": "\"I was thinking about going home, but I feel much better\nnow.\"",
+      "text": "\"I was thinking about going home, but I feel much better\nnow.\""
+    },
+    {
+      "offset": 5343,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 5356,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 5406,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「まったく。迷惑かけてくれる兄妹だなぁ」",
+      "en": "\"Oh man. You two are a bunch of trouble.\"",
+      "text": "\"Oh man. You two are a bunch of trouble.\""
+    },
+    {
+      "offset": 5453,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ベンチに深く座って、ゴミ箱に語りかける。",
+      "en": "He sat on the bench and talked to the garbage can.",
+      "text": "He sat on the bench and talked to the garbage can."
+    },
+    {
+      "offset": 5533,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うぅぅ。迷惑かけてるのは杉並くんですよ〜」",
+      "en": "\"Mm...... You're much more troublesome, Suginami.\"",
+      "text": "\"Mm...... You're much more troublesome, Suginami.\""
+    },
+    {
+      "offset": 5584,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ゴミ箱の影から朝倉妹が立ちあがった。",
+      "en": "Nemu came out of the shadow of the garbage can.",
+      "text": "Nemu came out of the shadow of the garbage can."
+    },
+    {
+      "offset": 5638,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ひどいですよ……なんです、音がすると動く\n　ゴミ箱って」",
+      "en": "\"What was that moving garbage can about?\"",
+      "text": "\"What was that moving garbage can about?\""
+    },
+    {
+      "offset": 5713,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「誤魔化さんといけなかっただろうが」",
+      "en": "\"I had to make an excuse, you know?\"",
+      "text": "\"I had to make an excuse, you know?\""
+    },
+    {
+      "offset": 5784,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「後ろから見てる人に、変な人だって指差され\n　ましたよ私」",
+      "en": "\"Somebody pointed and called me a weirdo from behind.\"",
+      "text": "\"Somebody pointed and called me a weirdo from behind.\""
+    },
+    {
+      "offset": 5848,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しょんぼり、と肩を落として朝倉妹が目の前に\n立ちふさがる。",
+      "en": "Nemu stood in front of me dropping her shoulders, looking\nsad.",
+      "text": "Nemu stood in front of me dropping her shoulders, looking\nsad."
+    },
+    {
+      "offset": 5923,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「１００パーセント自業自得だ」",
+      "en": "\"You asked for it.\"",
+      "text": "\"You asked for it.\""
+    },
+    {
+      "offset": 5960,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "胸ポケットを漁って、卒業式の最後に在校生に\nもらった造花をとりだした。",
+      "en": "Suginami looked into his chest pocket on his uniform and\ntook out the imitation flower he got at the end of the\ngraduation ceremony.",
+      "text": "Suginami looked into his chest pocket on his uniform and\ntook out the imitation flower he got at the end of the\ngraduation ceremony."
+    },
+    {
+      "offset": 6047,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「盗聴機はこれだな？」",
+      "en": "\"So this's the bug.\"",
+      "text": "\"So this's the bug.\""
+    },
+    {
+      "offset": 6104,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……それ、わざと捨てなかったんですね」",
+      "en": "\"You knew it all along, didn't you?\"",
+      "text": "\"You knew it all along, didn't you?\""
+    },
+    {
+      "offset": 6151,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "耳から小型のイヤホンをはずして、朝倉妹も表\n情を柔らかくする。",
+      "en": "Nemu took out the small earphone from her ear and softened\nher attitude.",
+      "text": "Nemu took out the small earphone from her ear and softened\nher attitude."
+    },
+    {
+      "offset": 6230,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「電波の有効半径は１０メートルくらいだから、\n　朝倉兄妹の秘密はばれてないな」",
+      "en": "\"The effective radius of the radio waves is about 10 meters,\nso your secret shouldn't have been heard by anyone.\"",
+      "text": "\"The effective radius of the radio waves is about 10 meters,\nso your secret shouldn't have been heard by anyone.\""
+    },
+    {
+      "offset": 6342,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うぁ、そこまで調べてあったの！？」",
+      "en": "\"You knew that too?\"",
+      "text": "\"You knew that too?\""
+    },
+    {
+      "offset": 6396,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「黒服の集団に比べたら、こんなものは｛じぎ／児戯｝だ\n　な」",
+      "en": "\"This is a toy compared to the men in black.\"",
+      "text": "\"This is a toy compared to the men in black.\""
+    },
+    {
+      "offset": 6462,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "盗聴機もゴミ箱に放りこむ。",
+      "en": "He threw the wiretap into the garbage can.",
+      "text": "He threw the wiretap into the garbage can."
+    },
+    {
+      "offset": 6523,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いつも何と戦ってるんですか……」",
+      "en": "\"Who are you running away from?\"",
+      "text": "\"Who are you running away from?\""
+    },
+    {
+      "offset": 6575,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「みんな信じないだろうが、世界の平和は俺が\n　守っているんだぞ」",
+      "en": "\"I know nobody believes this, but I'm the one who's keeping\npeace in this world.\"",
+      "text": "\"I know nobody believes this, but I'm the one who's keeping\npeace in this world.\""
+    },
+    {
+      "offset": 6673,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……杉並くんに守られてるくらいなら、人類\n　は滅んじゃってもいいかも」",
+      "en": "\"We may be as good as dead, if that's a truth.\"",
+      "text": "\"We may be as good as dead, if that's a truth.\""
+    },
+    {
+      "offset": 6751,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "くすくす、と朝倉妹が微笑む。",
+      "en": "Nemu smiled.",
+      "text": "Nemu smiled."
+    },
+    {
+      "offset": 6797,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「その笑顔を見せてやれよ。あいつにも」",
+      "en": "\"You should give that smile to him.\"",
+      "text": "\"You should give that smile to him.\""
+    },
+    {
+      "offset": 6870,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ……ごめんね」",
+      "en": "\"I'm sorry.\"",
+      "text": "\"I'm sorry.\""
+    },
+    {
+      "offset": 6906,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「謝るのは俺にじゃないっての」",
+      "en": "\"Don't apologize to me.\"",
+      "text": "\"Don't apologize to me.\""
+    },
+    {
+      "offset": 6943,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "両手を組んで、軽く頷く。",
+      "en": "He folded his arm and nods lightly.",
+      "text": "He folded his arm and nods lightly."
+    },
+    {
+      "offset": 7002,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ……じゃあ、ありがとう」",
+      "en": "\"Well...... then, thank you.\"",
+      "text": "\"Well...... then, thank you.\""
+    },
+    {
+      "offset": 7048,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「なぁに、礼には及ばないさ。ちょっと、今日\n　起こる出来事に目をつぶってくれればな」",
+      "en": "\"Don't mention it. You just need to let me go.\"",
+      "text": "\"Don't mention it. You just need to let me go.\""
+    },
+    {
+      "offset": 7166,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「それとこれとは話が別だから」",
+      "en": "\"That's another story.\"",
+      "text": "\"That's another story.\""
+    },
+    {
+      "offset": 7203,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "涙目を拭って、朝倉妹の腕が高速に揺れる。",
+      "en": "Nemu moved her arms really fast wiping her tears from her\neyes.",
+      "text": "Nemu moved her arms really fast wiping her tears from her\neyes."
+    },
+    {
+      "offset": 7261,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ん？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 7276,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ガション、と上げようとした腕がひっかかる。",
+      "en": "He noticed his arm was caught by something as he tried to\nraise his arm.",
+      "text": "He noticed his arm was caught by something as he tried to\nraise his arm."
+    },
+    {
+      "offset": 7336,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 7355,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見ると、ベンチと手首が手錠で繋がれていた。",
+      "en": "He found his arm connected to the bench by handcuffs.",
+      "text": "He found his arm connected to the bench by handcuffs."
+    },
+    {
+      "offset": 7415,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「とっつあん！？」",
+      "en": "\"No way!!\"",
+      "text": "\"No way!!\""
+    },
+    {
+      "offset": 7468,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「それでは、ごきげんよう杉並くん。雰囲気だ\n　けでもパーティー楽しんでね」",
+      "en": "\"Well then. Farewell Suginami. Enjoy the party.\"",
+      "text": "\"Well then. Farewell Suginami. Enjoy the party.\""
+    },
+    {
+      "offset": 7559,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「お、おぃ！　コレこのままにしてどこに行く\n　んだ！？」",
+      "en": "\"Hey! Where are you going leaving me here??\"",
+      "text": "\"Hey! Where are you going leaving me here??\""
+    },
+    {
+      "offset": 7649,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……う〜ん」",
+      "en": "\"Well......\"",
+      "text": "\"Well......\""
+    },
+    {
+      "offset": 7670,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "唇に指を当てて朝倉妹が考える。",
+      "en": "Nemu put her finger on her lip and thought about it.",
+      "text": "Nemu put her finger on her lip and thought about it."
+    },
+    {
+      "offset": 7735,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ナイショ♪」",
+      "en": "\"It's a secret.\"",
+      "text": "\"It's a secret.\""
+    },
+    {
+      "offset": 7765,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "スカートを翻して、校舎には戻らず朝倉妹はそ\nのまま下駄箱に向かって走り去った。",
+      "en": "Nemu flared her skirt and ran to the entrance of the school,\nnot returning to the main building.",
+      "text": "Nemu flared her skirt and ran to the entrance of the school,\nnot returning to the main building."
+    },
+    {
+      "offset": 7860,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 7955,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「まいったな……いつもの通りに戻りすぎだっ\n　ての」",
+      "en": "\"Crap...... She went back to her old self way too fast.\"",
+      "text": "\"Crap...... She went back to her old self way too fast.\""
+    },
+    {
+      "offset": 8013,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頭をかいて、しかし笑みを浮かべた。",
+      "en": "He scratched his head but smiled.",
+      "text": "He scratched his head but smiled."
+    },
+    {
+      "offset": 8082,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「さて、主賓がふたり減ってしまったが……\n　まぁ、眞子でもからかって遊ぶか」",
+      "en": "\"We're two VIP down now... But maybe I can tease Mako.\"",
+      "text": "\"We're two VIP down now... But maybe I can tease Mako.\""
+    },
+    {
+      "offset": 8192,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ん？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 8207,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふと、視線に気づいた。",
+      "en": "He felt something.",
+      "text": "He felt something."
+    },
+    {
+      "offset": 8234,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見渡すと、教員棟の通路に小さな人影が立って、\n朝倉妹が去った方向を見つめている。",
+      "en": "He looked around and found a person standing in a hallway\nclose by, looking at where Nemu has gone to.",
+      "text": "He looked around and found a person standing in a hallway\nclose by, looking at where Nemu has gone to."
+    },
+    {
+      "offset": 8318,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "微かな敵意をもって。",
+      "en": "He felt slight hostility.",
+      "text": "He felt slight hostility."
+    },
+    {
+      "offset": 8343,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "束ねた髪が風になびいている。",
+      "en": "Her long hair was streaming in the wind.",
+      "text": "Her long hair was streaming in the wind."
+    },
+    {
+      "offset": 8406,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……未知の転入生？」",
+      "en": "\"Is that the new girl?\"",
+      "text": "\"Is that the new girl?\""
+    },
+    {
+      "offset": 8435,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、視線を軽く動かした後、その姿は風に\n流されたように消えていた。",
+      "en": "But she disappeared in a moment, as if she was blown away by\nthe wind.",
+      "text": "But she disappeared in a moment, as if she was blown away by\nthe wind."
+    },
+    {
+      "offset": 8539,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……ふむ」",
+      "en": "\"Hmm......\"",
+      "text": "\"Hmm......\""
+    },
+    {
+      "offset": 8586,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……まさに未知だな」",
+      "en": "\"She sure is strange.\"",
+      "text": "\"She sure is strange.\""
+    },
+    {
+      "offset": 8624,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ニヤリと笑い、そのまま髪の中からヘアピンを\n取り出して手錠の鍵穴に重ねた。",
+      "en": "He grinned and took out a bobby pin out of his hair and\nplaced it into the keyhole of the handcuff.",
+      "text": "He grinned and took out a bobby pin out of his hair and\nplaced it into the keyhole of the handcuff."
+    },
+    {
+      "offset": 8719,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――カチリ",
+      "en": "Click...",
+      "text": "Click..."
+    },
+    {
+      "offset": 8849,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆義妹発覚◆",
+      "en": "◆The secret discovered◆",
+      "text": "◆The secret discovered◆"
+    },
+    {
+      "offset": 8890,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "校舎を歩いているだけで奇妙な眼差しにさらさ\nる。まったく、よほど俺と杉並は期待されてい\nるらしい……。",
+      "en": "Everybody was looking at me oddly. They must be thinking\nthat Suginami and I'll do something to stir up the party.",
+      "text": "Everybody was looking at me oddly. They must be thinking\nthat Suginami and I'll do something to stir up the party."
+    },
+    {
+      "offset": 8995,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その杉並が、様子のおかしい俺と音夢を見て、\n俺を励ましに来た。しかも音夢が義妹なことに\n感づいていたとは。",
+      "en": "Suginami came to talk to me since Nemu and I are acting\nweird. He knew that Nemu was my step sister.",
+      "text": "Suginami came to talk to me since Nemu and I are acting\nweird. He knew that Nemu was my step sister."
+    },
+    {
+      "offset": 9104,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "素直になれ……か。まったく、おせっかいな奴\nだ。",
+      "en": "He told me to be honest. Such a nosy guy.",
+      "text": "He told me to be honest. Such a nosy guy."
+    },
+    {
+      "offset": 9156,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "でも、正直になろうと思った。",
+      "en": "But I decided to be honest about it.",
+      "text": "But I decided to be honest about it."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "411": "Junichi & A voice",
+    "490": "Suginami",
+    "621": "Suginami",
+    "827": "Suginami",
+    "955": "Suginami",
+    "1030": "Suginami",
+    "1131": "Suginami",
+    "1268": "Suginami",
+    "1571": "Suginami",
+    "1673": "Suginami",
+    "1888": "Suginami",
+    "2097": "Suginami",
+    "2189": "Suginami",
+    "2423": "Suginami",
+    "2531": "Suginami",
+    "2643": "Suginami",
+    "2786": "Suginami",
+    "2873": "Suginami",
+    "3096": "Suginami",
+    "3195": "Suginami",
+    "3338": "Suginami",
+    "3481": "Suginami",
+    "3629": "Suginami",
+    "3797": "Suginami",
+    "3975": "Suginami",
+    "4176": "Suginami",
+    "4262": "Suginami",
+    "4400": "Suginami",
+    "4463": "Suginami",
+    "4730": "Suginami",
+    "4847": "Suginami",
+    "5032": "Suginami",
+    "5095": "Suginami",
+    "5398": "Suginami",
+    "5525": "Nemu",
+    "5630": "Nemu",
+    "5705": "Suginami",
+    "5776": "Nemu",
+    "5915": "Suginami",
+    "6039": "Suginami",
+    "6096": "Nemu",
+    "6222": "Suginami",
+    "6334": "Nemu",
+    "6388": "Suginami",
+    "6515": "Nemu",
+    "6567": "Suginami",
+    "6665": "Nemu",
+    "6789": "Suginami",
+    "6862": "Nemu",
+    "6898": "Suginami",
+    "6994": "Nemu",
+    "7040": "Suginami",
+    "7158": "Nemu",
+    "7253": "Suginami",
+    "7328": "Suginami",
+    "7407": "Suginami",
+    "7460": "Nemu",
+    "7551": "Suginami",
+    "7641": "Nemu",
+    "7727": "Nemu",
+    "7852": "Suginami",
+    "7947": "Suginami",
+    "8074": "Suginami",
+    "8184": "Suginami",
+    "8398": "Suginami",
+    "8531": "Suginami",
+    "8578": "Suginami"
+  }
+}

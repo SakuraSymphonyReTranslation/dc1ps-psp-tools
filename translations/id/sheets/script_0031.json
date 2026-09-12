@@ -1,0 +1,106 @@
+{
+  "scene": "script_0031.obj",
+  "dialogues": [
+    {
+      "offset": 166,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「分かってると思うけど、今週の金曜、土曜は\n　学年末試験だからね。ちゃんとベンキョしな\n　よ。赤点とったら、追試だからね」",
+      "en": "\"Don't forget, this Friday and Saturday will be the days of\nthe year-end examinations. Make sure you study hard for\nthem. Those who fail will have to take the supplementary\nexaminations.\"",
+      "text": "\"Don't forget, this Friday and Saturday will be the days of\nthe year-end examinations. Make sure you study hard for\nthem. Those who fail will have to take the supplementary\nexaminations.\""
+    },
+    {
+      "offset": 302,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「そうそう。あたしの研究に協力してくれたら、\n　無条件で１００点にしてあげるよ」",
+      "en": "\"That reminds me. For those who wish to help with my\nresearch, you must score no less than 100 marks for these\nexams.\"",
+      "text": "\"That reminds me. For those who wish to help with my\nresearch, you must score no less than 100 marks for these\nexams.\""
+    },
+    {
+      "offset": 388,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言って、暦先生が週番に合図を送り、ＨＲ\nが終了する。",
+      "en": "Koyomi-sensei assigned the weekly duties, then ended\nHomeroom.",
+      "text": "Koyomi-sensei assigned the weekly duties, then ended\nHomeroom."
+    },
+    {
+      "offset": 479,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 494,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（無条件で１００点ね……）",
+      "en": "\"(No less than 100 marks...)\"",
+      "text": "\"(No less than 100 marks...)\""
+    },
+    {
+      "offset": 527,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "殉職後の二階級特進と同じような気が……。",
+      "en": "That's like those soldiers dying honourably in battle\ngetting several promotions...",
+      "text": "That's like those soldiers dying honourably in battle\ngetting several promotions..."
+    },
+    {
+      "offset": 572,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、とにかく、今はこれからどうするかを早\n急に考えねば。",
+      "en": "In any case, I have to think quickly about what I want to do\ntoday.",
+      "text": "In any case, I have to think quickly about what I want to do\ntoday."
+    },
+    {
+      "offset": 634,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "じきに、さくらのやつもここに来るだろう。",
+      "en": "Sakura's surely going to drop by soon.",
+      "text": "Sakura's surely going to drop by soon."
+    },
+    {
+      "offset": 679,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、せっかく再会したんだし、さりげなく校\n門辺りで待っていてやってもいいのだが……。",
+      "en": "Well, maybe since we've already had the requisite \"tearful\nreunion\", maybe she'd just be waiting casually for me around\nschool...",
+      "text": "Well, maybe since we've already had the requisite \"tearful\nreunion\", maybe she'd just be waiting casually for me around\nschool..."
+    },
+    {
+      "offset": 873,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆週末は試験◆",
+      "en": "◆Weekend examinations◆",
+      "text": "◆Weekend examinations◆"
+    },
+    {
+      "offset": 916,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "授業の最後に暦先生が、週末の学年末試験につ\nいて注意を促した。",
+      "en": "At the end of the lesson, Koyomi-sensei warned us of the\nexaminations to come at the end of the school week.",
+      "text": "At the end of the lesson, Koyomi-sensei warned us of the\nexaminations to come at the end of the school week."
+    },
+    {
+      "offset": 982,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "赤点も嫌だが、協力すれば１００点が保障され\nるという先生の研究も、十二分に嫌だよな。",
+      "en": "I wouldn't want to fail them, but it'd be even worse to get\n100 marks and be forced into doing research with her...",
+      "text": "I wouldn't want to fail them, but it'd be even worse to get\n100 marks and be forced into doing research with her..."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "160": "Koyomi",
+    "296": "Koyomi"
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "scene": "script_0794.obj",
+  "dialogues": [
+    {
+      "offset": 141,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "夢の終わりのその後。",
+      "en": "It was the tree I made a promise to.",
+      "text": "It was the tree I made a promise to."
+    },
+    {
+      "offset": 168,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "The tree that I promised to protect Nemu under.",
+      "text": "The tree that I promised to protect Nemu under."
+    },
+    {
+      "offset": 187,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この初音島で桜が枯れた。",
+      "en": "I came to see it.",
+      "text": "I came to see it."
+    },
+    {
+      "offset": 216,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それは約束の木。",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 237,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢を守ると約束した木。",
+      "en": "After I had a happy dream, I felt good, and......",
+      "text": "After I had a happy dream, I felt good, and......"
+    },
+    {
+      "offset": 266,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それを見に来た。",
+      "en": "Then I become sad realizing the reality.",
+      "text": "Then I become sad realizing the reality."
+    },
+    {
+      "offset": 289,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 308,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "幸福な夢を見た後は気分がよくて――。",
+      "en": "I pulled out the letter from my pocket.",
+      "text": "I pulled out the letter from my pocket."
+    },
+    {
+      "offset": 349,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "現実に気づいて物悲しくなる。",
+      "en": "The sender and the receiver of the letter had the same\naddresses.",
+      "text": "The sender and the receiver of the letter had the same\naddresses."
+    },
+    {
+      "offset": 384,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "It was a letter from Nemu to me.",
+      "text": "It was a letter from Nemu to me."
+    },
+    {
+      "offset": 403,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はポケットから手紙を出した。",
+      "en": "---- Don't open it if I'm here.",
+      "text": "---- Don't open it if I'm here."
+    },
+    {
+      "offset": 438,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "差出人と受取人の住所が同じ手紙。",
+      "en": "That was what it said on the envelope.",
+      "text": "That was what it said on the envelope."
+    },
+    {
+      "offset": 475,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢から俺への手紙。",
+      "en": "I wonder what the mailman thought about it.",
+      "text": "I wonder what the mailman thought about it."
+    },
+    {
+      "offset": 500,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――もし、私がいる場合はあけないで下さい。",
+      "en": "I decided to open the letter.",
+      "text": "I decided to open the letter."
+    },
+    {
+      "offset": 659,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『親愛なる兄さんへ』",
+      "en": "\"Dear niisan.\"",
+      "text": "\"Dear niisan.\""
+    },
+    {
+      "offset": 697,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『この手紙を読んでいるのは春ですか？　それ\n　とも、もう冬になっていますか？』",
+      "en": "\"I wonder if it's spring or winter by the time you read this\nletter.\"",
+      "text": "\"I wonder if it's spring or winter by the time you read this\nletter.\""
+    },
+    {
+      "offset": 792,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『とにかく、ちゃんとご飯を食べていますか？\n　遅刻しないで学園に通えていますか？』",
+      "en": "\"Are you eating well? Are you going to school on time?\"",
+      "text": "\"Are you eating well? Are you going to school on time?\""
+    },
+    {
+      "offset": 891,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『うん。気になるよ……』",
+      "en": "\"Yes, I'm worried about you......\"",
+      "text": "\"Yes, I'm worried about you......\""
+    },
+    {
+      "offset": 933,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『花は枯れるほうがきれいだと言うけど、私は\n　やっぱり枯れなくてもきれいだと思います』",
+      "en": "\"People say that flowers are beautiful because they die, but\nI think they're still beautiful even if they don't die.\"",
+      "text": "\"People say that flowers are beautiful because they die, but\nI think they're still beautiful even if they don't die.\""
+    },
+    {
+      "offset": 1036,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『あははは……なに書いてるんだろうね』",
+      "en": "\"Hahaha...... what am I talking about?\"",
+      "text": "\"Hahaha...... what am I talking about?\""
+    },
+    {
+      "offset": 1092,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『あのね、桜の花を見ちゃうと、なんとなく私\n　を思い出しちゃうかも知れないけど』",
+      "en": "\"You know, you may remember me when you look at the cherry\nblossom, but.\"",
+      "text": "\"You know, you may remember me when you look at the cherry\nblossom, but.\""
+    },
+    {
+      "offset": 1189,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『そんなの１年に１回くらいでいいから――う\n　ん』",
+      "en": "\"Keep it once a year, or something like that......\"",
+      "text": "\"Keep it once a year, or something like that......\""
+    },
+    {
+      "offset": 1256,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『ごめんなさい……って謝ると怒ると思うけど、\n　やっぱりごめんなさい』",
+      "en": "\"I'm sorry...... You might be upset if I apologize, but I'm\nsorry.\"",
+      "text": "\"I'm sorry...... You might be upset if I apologize, but I'm\nsorry.\""
+    },
+    {
+      "offset": 1343,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『ごめんなさい』",
+      "en": "\"I'm sorry.\"",
+      "text": "\"I'm sorry.\""
+    },
+    {
+      "offset": 1377,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『ごめんなさい……』",
+      "en": "\"I'm sorry......\"",
+      "text": "\"I'm sorry......\""
+    },
+    {
+      "offset": 1415,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『ずるいよね』",
+      "en": "\"I think it's unfair.\"",
+      "text": "\"I think it's unfair.\""
+    },
+    {
+      "offset": 1447,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『この手紙はずるい』",
+      "en": "\"This letter's unfair.\"",
+      "text": "\"This letter's unfair.\""
+    },
+    {
+      "offset": 1485,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『忘れて欲しいと言いながら、これで兄さんの\n　心に、また私が刻まれることを知っている』",
+      "en": "\"I'm telling you that you should forget about me, but I know\nyou'll remember me even more by reading this letter.\"",
+      "text": "\"I'm telling you that you should forget about me, but I know\nyou'll remember me even more by reading this letter.\""
+    },
+    {
+      "offset": 1588,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『あの、兄さんと見てたドラマ覚えてる？』",
+      "en": "\"Do you remember that soap opera we saw together?\"",
+      "text": "\"Do you remember that soap opera we saw together?\""
+    },
+    {
+      "offset": 1646,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『私の嫌いだった部分を、私が演じてしまって\n　るよね』",
+      "en": "\"I think I'm acting the part I hated now.\"",
+      "text": "\"I think I'm acting the part I hated now.\""
+    },
+    {
+      "offset": 1717,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『……うん。よく分からなくなってきた』",
+      "en": "\"Well...... I'm not sure what I want to talk about.\"",
+      "text": "\"Well...... I'm not sure what I want to talk about.\""
+    },
+    {
+      "offset": 1773,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『えっとね、言いたいことはひとつなの』",
+      "en": "\"Well, there's only one thing I want to say.\"",
+      "text": "\"Well, there's only one thing I want to say.\""
+    },
+    {
+      "offset": 1829,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『もし、私と兄さんがすれ違って会えなかった\n　ら兄さんは後悔すると思ったから』",
+      "en": "\"I thought you'd regret it if you couldn't find me.\"",
+      "text": "\"I thought you'd regret it if you couldn't find me.\""
+    },
+    {
+      "offset": 1924,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『だから気にしないでください』",
+      "en": "\"Please don't be so sad.\"",
+      "text": "\"Please don't be so sad.\""
+    },
+    {
+      "offset": 1972,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『私は幸せ者でした』",
+      "en": "\"I was really happy.\"",
+      "text": "\"I was really happy.\""
+    },
+    {
+      "offset": 1999,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 2014,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2033,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふと、その辺りの文字の下に、消しゴムで消し\nた跡を見つけた。",
+      "en": "Then, I found a mark which was erased by an eraser under\nthat line.",
+      "text": "Then, I found a mark which was erased by an eraser under\nthat line."
+    },
+    {
+      "offset": 2097,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "紙を光に透かす。",
+      "en": "I held the letter against the light.",
+      "text": "I held the letter against the light."
+    },
+    {
+      "offset": 2118,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "桜の花を抜けて、ほの赤く染まった光に文字が\n浮かぶ。",
+      "en": "I could see her writing if I held the letter up to the light\nstreaming through the cherry tree, tinted red by its\nblossoms.",
+      "text": "I could see her writing if I held the letter up to the light\nstreaming through the cherry tree, tinted red by its\nblossoms."
+    },
+    {
+      "offset": 2187,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『もし、叶うのなら――』",
+      "en": "\"If my wish could come true......\"",
+      "text": "\"If my wish could come true......\""
+    },
+    {
+      "offset": 2229,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『私は桜の木に生まれ変わってでもいいから、\n　兄さんと一緒にいたい』",
+      "en": "\"I want to be with you, even if I was reborn as a cherry\ntree.\"",
+      "text": "\"I want to be with you, even if I was reborn as a cherry\ntree.\""
+    },
+    {
+      "offset": 2314,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『……一緒にいたかった』",
+      "en": "\"I wanted to be with you......\"",
+      "text": "\"I wanted to be with you......\""
+    },
+    {
+      "offset": 2356,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『何年も、何十年も……』",
+      "en": "\"For many years, and decades......\"",
+      "text": "\"For many years, and decades......\""
+    },
+    {
+      "offset": 2387,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そこで途切れていた。",
+      "en": "And that was the end of it.",
+      "text": "And that was the end of it."
+    },
+    {
+      "offset": 2414,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2433,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……はは」",
+      "en": "\"......Haha.\"",
+      "text": "\"......Haha.\""
+    },
+    {
+      "offset": 2452,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "最後の文章を読んで、思わず笑ってしまった。",
+      "en": "I read the last line and it made me laugh.",
+      "text": "I read the last line and it made me laugh."
+    },
+    {
+      "offset": 2501,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あいつ……」",
+      "en": "\"Nemu......\"",
+      "text": "\"Nemu......\""
+    },
+    {
+      "offset": 2522,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どこまでも青い空を見上げる。",
+      "en": "I looked up at the blue sky.",
+      "text": "I looked up at the blue sky."
+    },
+    {
+      "offset": 2603,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『最後にお節介ですが――』",
+      "en": "\"I know this isn't my business, but......\"",
+      "text": "\"I know this isn't my business, but......\""
+    },
+    {
+      "offset": 2647,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『妹に操なんて立てないで、ちゃんと新しい恋\n　人作りなさいよ』",
+      "en": "\"Don't feel guilty, and you should have a girlfriend.\"",
+      "text": "\"Don't feel guilty, and you should have a girlfriend.\""
+    },
+    {
+      "offset": 2726,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『世話焼きの妹より』",
+      "en": "\"From your nosy sister.\"",
+      "text": "\"From your nosy sister.\""
+    },
+    {
+      "offset": 2764,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『大好きな兄さんへ』",
+      "en": "\"To my dear niisan.\"",
+      "text": "\"To my dear niisan.\""
+    },
+    {
+      "offset": 2906,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆お別れの後の手紙◆",
+      "en": "◆After the end of my dream.◆",
+      "text": "◆After the end of my dream.◆"
+    },
+    {
+      "offset": 2963,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "枯れた桜の木の前で音夢からの手紙の封を切る。",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3012,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "手紙にこめられた音夢の想い。その恥ずかしい\nまでに真っ直ぐな想いに思わず笑みがこぼれた\nのだった。",
+      "en": "The cherry tree died on Hatsune Island.",
+      "text": "The cherry tree died on Hatsune Island."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "651": "Nemu",
+    "689": "Nemu",
+    "784": "Nemu",
+    "883": "Nemu",
+    "925": "Nemu",
+    "1028": "Nemu",
+    "1084": "Nemu",
+    "1181": "Nemu",
+    "1248": "Nemu",
+    "1335": "Nemu",
+    "1369": "Nemu",
+    "1407": "Nemu",
+    "1439": "Nemu",
+    "1477": "Nemu",
+    "1580": "Nemu",
+    "1638": "Nemu",
+    "1709": "Nemu",
+    "1765": "Nemu",
+    "1821": "Nemu",
+    "1916": "Nemu",
+    "1964": "Nemu",
+    "2179": "Nemu",
+    "2221": "Nemu",
+    "2306": "Nemu",
+    "2348": "Nemu",
+    "2595": "Nemu",
+    "2639": "Nemu",
+    "2718": "Nemu",
+    "2756": "Nemu"
+  }
+}

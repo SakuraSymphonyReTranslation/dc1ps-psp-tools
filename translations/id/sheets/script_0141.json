@@ -1,0 +1,771 @@
+{
+  "scene": "script_0141.obj",
+  "dialogues": [
+    {
+      "offset": 147,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さて、今日は何を食うか……」",
+      "en": "\"Now, what should I eat today...\"",
+      "text": "\"Now, what should I eat today...\""
+    },
+    {
+      "offset": 184,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昼休憩になり、学食でも行って来るかと、廊下\nを歩いていると、環の姿が見えた。",
+      "en": "It was lunch break. Walking down corridors to get to the\ncafeteria, I saw Tamaki.",
+      "text": "It was lunch break. Walking down corridors to get to the\ncafeteria, I saw Tamaki."
+    },
+    {
+      "offset": 264,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環の背中に声を掛ける。",
+      "en": "I called out to her from behind.",
+      "text": "I called out to her from behind."
+    },
+    {
+      "offset": 293,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「よぉ、環」",
+      "en": "\"Hey, Tamaki.\"",
+      "text": "\"Hey, Tamaki.\""
+    },
+    {
+      "offset": 348,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「あら、朝倉様」",
+      "en": "\"My, Asakura-sama.\"",
+      "text": "\"My, Asakura-sama.\""
+    },
+    {
+      "offset": 371,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「やあ、環も買い物か？」",
+      "en": "\"You're buying lunch today?\"",
+      "text": "\"You're buying lunch today?\""
+    },
+    {
+      "offset": 428,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ええ。今日はお弁当を忘れてしまって……」",
+      "en": "\"Yes. I forgot to bring my lunch today...\"",
+      "text": "\"Yes. I forgot to bring my lunch today...\""
+    },
+    {
+      "offset": 477,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ふーん」",
+      "en": "\"Hrm.\"",
+      "text": "\"Hrm.\""
+    },
+    {
+      "offset": 520,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「朝倉様は？」",
+      "en": "\"What about you?\"",
+      "text": "\"What about you?\""
+    },
+    {
+      "offset": 541,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「今日は、学食にでも行こうかと思って」",
+      "en": "\"I thought I'd go to the cafeteria for lunch today.\"",
+      "text": "\"I thought I'd go to the cafeteria for lunch today.\""
+    },
+    {
+      "offset": 612,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そうですか……」",
+      "en": "\"I see...\"",
+      "text": "\"I see...\""
+    },
+    {
+      "offset": 637,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そうだ、一緒に学食へ行かないか？　たまに\n　は一緒にメシを食うのも悪くない」",
+      "en": "\"Hey, why don't we go together? It'd be fun to eat\ntogether.\"",
+      "text": "\"Hey, why don't we go together? It'd be fun to eat\ntogether.\""
+    },
+    {
+      "offset": 747,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「本当ですか？」",
+      "en": "\"Are you certain?\"",
+      "text": "\"Are you certain?\""
+    },
+    {
+      "offset": 770,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「二人で食った方がご飯もうまいし」",
+      "en": "\"The food tastes better when you're eating wtih someone\nelse.\"",
+      "text": "\"The food tastes better when you're eating wtih someone\nelse.\""
+    },
+    {
+      "offset": 837,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「あ、はい、じゃあ付いて行きます」",
+      "en": "\"Ah, yes. I will follow you.\"",
+      "text": "\"Ah, yes. I will follow you.\""
+    },
+    {
+      "offset": 887,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は俺の横には並ばずに、本当に後ろから『付\nいてきて』いる。",
+      "en": "Rather than walking beside me, she was literally following\nme from behind.",
+      "text": "Rather than walking beside me, she was literally following\nme from behind."
+    },
+    {
+      "offset": 951,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『男の人の半歩下がって後ろで歩く』を実践し\nているのだろうか？",
+      "en": "Is she trying to put that \"every successful man has a good\nwoman behind him\" phrase into practice?",
+      "text": "Is she trying to put that \"every successful man has a good\nwoman behind him\" phrase into practice?"
+    },
+    {
+      "offset": 1017,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それとも、俺と環の関係が｛いいなずけ／許嫁｝だからというの\nを意識しているのだろうか？",
+      "en": "And perhaps, unconsciously thinking about her place as my\nsupposed fiancee?",
+      "text": "And perhaps, unconsciously thinking about her place as my\nsupposed fiancee?"
+    },
+    {
+      "offset": 1107,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もしそうだとしたら、とても古風だ……。",
+      "en": "If that's so, it's a really old custom....",
+      "text": "If that's so, it's a really old custom...."
+    },
+    {
+      "offset": 1150,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さすが大和撫子。",
+      "en": "A traditional Japanese lady, indeed.",
+      "text": "A traditional Japanese lady, indeed."
+    },
+    {
+      "offset": 1171,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "食堂で弓を放った人物と同一とは思えない。",
+      "en": "It's hard to believe that this is the same girl who fired an\narrow right through the cafeteria.",
+      "text": "It's hard to believe that this is the same girl who fired an\narrow right through the cafeteria."
+    },
+    {
+      "offset": 1216,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなことを考える。",
+      "en": "Then I remembered.",
+      "text": "Then I remembered."
+    },
+    {
+      "offset": 1241,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "前に俺、後ろに環の一列の状態を保ったまま、\n食堂にたどり着く。",
+      "en": "Before, I had done the same thing, following her to the\ncafeteria from behind.",
+      "text": "Before, I had done the same thing, following her to the\ncafeteria from behind."
+    },
+    {
+      "offset": 1307,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちなみに、環が後ろに下がっていた理由は、",
+      "en": "THe reason I did so, is probably the same as the reason she\ndoes so now.",
+      "text": "THe reason I did so, is probably the same as the reason she\ndoes so now."
+    },
+    {
+      "offset": 1352,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『廊下が狭いから』だったからだと、他の学生\nとすれ違う時にやっと気づいた。",
+      "en": "Because the corridor is too damn narrow.",
+      "text": "Because the corridor is too damn narrow."
+    },
+    {
+      "offset": 1455,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さてと、何食うべ」",
+      "en": "\"Hm, what to eat...\"",
+      "text": "\"Hm, what to eat...\""
+    },
+    {
+      "offset": 1482,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "食券のボタンを見つめながら、環と二人で悩む。",
+      "en": "Looking at the meal ticket buttons, the two of us pondered\non our meal.",
+      "text": "Looking at the meal ticket buttons, the two of us pondered\non our meal."
+    },
+    {
+      "offset": 1564,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「何か、オススメのメニューはありますか？」",
+      "en": "\"Is there anything that's recommended on the menu?\"",
+      "text": "\"Is there anything that's recommended on the menu?\""
+    },
+    {
+      "offset": 1613,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「オススメねえ……」",
+      "en": "\"Recommended, huh...\"",
+      "text": "\"Recommended, huh...\""
+    },
+    {
+      "offset": 1640,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ないことはないが、しょせん学食のメニュー\n　だからな、それほど期待しない方がいいぞ」",
+      "en": "\"Not really... this is a school cafeteria menu, don't get\nyour hopes up.\"",
+      "text": "\"Not really... this is a school cafeteria menu, don't get\nyour hopes up.\""
+    },
+    {
+      "offset": 1741,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そうですか。でも、朝倉様のオススメならきっ\n　と大丈夫でしょう」",
+      "en": "\"I see. If it is recommended by you though, it should be\nfine.\"",
+      "text": "\"I see. If it is recommended by you though, it should be\nfine.\""
+    },
+    {
+      "offset": 1813,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はお金を入れ、中華丼のボタンを押す。",
+      "en": "I put some money inside, and pressed the chuukadon button.",
+      "text": "I put some money inside, and pressed the chuukadon button."
+    },
+    {
+      "offset": 1884,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「それは何ですか？」",
+      "en": "\"What would that be?\"",
+      "text": "\"What would that be?\""
+    },
+    {
+      "offset": 1911,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ああ、中華丼。うずらたまごがキュートなメ\n　ニューだ」",
+      "en": "\"Ahh, it's chuukadon. It's quail and egg mixed up in a cute\nbox.\"",
+      "text": "\"Ahh, it's chuukadon. It's quail and egg mixed up in a cute\nbox.\""
+    },
+    {
+      "offset": 1999,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「中華丼……ああ、小さい頃に食べた記憶があ\n　ります」",
+      "en": "\"Chuukadon... ah yes, I remember tasting it as a child.\"",
+      "text": "\"Chuukadon... ah yes, I remember tasting it as a child.\""
+    },
+    {
+      "offset": 2085,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「でも、もうここ何年か口にしてません」",
+      "en": "\"But I have not eaten it for several years.\"",
+      "text": "\"But I have not eaten it for several years.\""
+    },
+    {
+      "offset": 2130,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「環ってば、変わってるな……。普段何を食べ\n　てるんだ？」",
+      "en": "\"You're a different one, heh... what do you normally eat,\nthen?\"",
+      "text": "\"You're a different one, heh... what do you normally eat,\nthen?\""
+    },
+    {
+      "offset": 2203,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「あ、あの｛しんせん／神饌｝って言って、大体は普通の食事\n　と同じなんですけど」",
+      "en": "\"W, well, the food and alcohol served as offering for the\nGods, isn't that different from normal.\"",
+      "text": "\"W, well, the food and alcohol served as offering for the\nGods, isn't that different from normal.\""
+    },
+    {
+      "offset": 2298,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「神様に供えたものの残りです」",
+      "en": "\"The leftovers from the Gods, I mean.\"",
+      "text": "\"The leftovers from the Gods, I mean.\""
+    },
+    {
+      "offset": 2335,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ふーん」",
+      "en": "\"Hrm.\"",
+      "text": "\"Hrm.\""
+    },
+    {
+      "offset": 2352,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "神が大食いだと、飯抜きなのだろうか？",
+      "en": "God must be quite the picky eater, if he leaves leftovers?",
+      "text": "God must be quite the picky eater, if he leaves leftovers?"
+    },
+    {
+      "offset": 2393,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……異文化コミュニケーションだな。",
+      "en": "...Probably just a misunderstanding in communications.",
+      "text": "...Probably just a misunderstanding in communications."
+    },
+    {
+      "offset": 2434,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、何にするんだ？　早く決めないと、休み\n　時間終わっちまうぞ」",
+      "en": "\"Anyway, what are you eating? Better decide before lunch\nbreak ends.\"",
+      "text": "\"Anyway, what are you eating? Better decide before lunch\nbreak ends.\""
+    },
+    {
+      "offset": 2515,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「じゃ、これを……」",
+      "en": "\"I'd take this, then...\"",
+      "text": "\"I'd take this, then...\""
+    },
+    {
+      "offset": 2542,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環が選んだのは、山菜うどんだった。",
+      "en": "She ended up choosing sansai noodles.",
+      "text": "She ended up choosing sansai noodles."
+    },
+    {
+      "offset": 2581,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "中央のテーブルに席を取り、トレーを置く。",
+      "en": "We chose a table at the center of the cafeteria, putting our\ntrays on it.",
+      "text": "We chose a table at the center of the cafeteria, putting our\ntrays on it."
+    },
+    {
+      "offset": 2628,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さて、いただきます」",
+      "en": "\"Thank you for the meal.\"",
+      "text": "\"Thank you for the meal.\""
+    },
+    {
+      "offset": 2683,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「いただきます」",
+      "en": "\"Thank you for the meal.\"",
+      "text": "\"Thank you for the meal.\""
+    },
+    {
+      "offset": 2706,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は箸を割る。",
+      "en": "Tamaki split her chopsticks with finesse.",
+      "text": "Tamaki split her chopsticks with finesse."
+    },
+    {
+      "offset": 2725,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はれんげで中華丼を口に含む。",
+      "en": "Meanwhile, I brought a spoonful of my chuukadon to my mouth.",
+      "text": "Meanwhile, I brought a spoonful of my chuukadon to my mouth."
+    },
+    {
+      "offset": 2779,
+      "speaker": "Female Student 1",
+      "speaker_jp": "女子学生１",
+      "jp": "「ねえねえ、あの人って……」",
+      "en": "\"Hey hey, isn't that...\"",
+      "text": "\"Hey hey, isn't that...\""
+    },
+    {
+      "offset": 2831,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はふと、後ろの女の子の声を耳にする。",
+      "en": "My ears caught wind of a girl's voice behind me.",
+      "text": "My ears caught wind of a girl's voice behind me."
+    },
+    {
+      "offset": 2888,
+      "speaker": "Female Student 1",
+      "speaker_jp": "女子学生１",
+      "jp": "「ほら、あれ例の……」",
+      "en": "\"Wasn't she the one who...\"",
+      "text": "\"Wasn't she the one who...\""
+    },
+    {
+      "offset": 2929,
+      "speaker": "Female Student 2",
+      "speaker_jp": "女子学生２",
+      "jp": "「ああ、あの人の近くに行くと変なことが起こ\n　るっていう……」",
+      "en": "\"Yeah, don't get too close to her, something weird might\nhappen...\"",
+      "text": "\"Yeah, don't get too close to her, something weird might\nhappen...\""
+    },
+    {
+      "offset": 2997,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "気がつくと、俺と環は何人かの学生の視線を受\nけていた。",
+      "en": "I then realized that it wasn't just them, but several pairs\nof eyes that were watching us.",
+      "text": "I then realized that it wasn't just them, but several pairs\nof eyes that were watching us."
+    },
+    {
+      "offset": 3055,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "正確に言うと、俺ではなく環が、だ。",
+      "en": "Or more accurately, watching Tamaki.",
+      "text": "Or more accurately, watching Tamaki."
+    },
+    {
+      "offset": 3125,
+      "speaker": "Male Student 1",
+      "speaker_jp": "男子学生１",
+      "jp": "「怖いよな……また何か起こるのかな」",
+      "en": "\"It's scary... who knows what'd happen with her.\"",
+      "text": "\"It's scary... who knows what'd happen with her.\""
+    },
+    {
+      "offset": 3180,
+      "speaker": "Male Student 2",
+      "speaker_jp": "男子学生２",
+      "jp": "「あまり、近寄らないほうがいいぞ」",
+      "en": "\"Better not to take risks.\"",
+      "text": "\"Better not to take risks.\""
+    },
+    {
+      "offset": 3221,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "学生たちは、環を見て｛おび／怯｝えたように噂している。",
+      "en": "The students were watching her in fear, as they gossiped\namongst themselves.",
+      "text": "The students were watching her in fear, as they gossiped\namongst themselves."
+    },
+    {
+      "offset": 3280,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目の前で丼が割れれば、まあ、無理もないと言\nえなくもないが……。",
+      "en": "Well, having seen a bowl split into half by her, it isn't\ntoo unreasonable for them to be frightened...",
+      "text": "Well, having seen a bowl split into half by her, it isn't\ntoo unreasonable for them to be frightened..."
+    },
+    {
+      "offset": 3348,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環を見ると、箸を止め、俯いている。",
+      "en": "I turned my gaze back to Tamaki. Her chopsticks had stopped\nmoving, and her head was bowed.",
+      "text": "I turned my gaze back to Tamaki. Her chopsticks had stopped\nmoving, and her head was bowed."
+    },
+    {
+      "offset": 3389,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3408,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こういう時は、どうするべきなんだ？",
+      "en": "What can I do in this sort of situation?",
+      "text": "What can I do in this sort of situation?"
+    },
+    {
+      "offset": 3449,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「場所、変えようか？」",
+      "en": "\"Shall we move?\"",
+      "text": "\"Shall we move?\""
+    },
+    {
+      "offset": 3478,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "食堂に誘ったのは、実はまずかったのだろうか？",
+      "en": "I was the one who suggested coming here, after all...",
+      "text": "I was the one who suggested coming here, after all..."
+    },
+    {
+      "offset": 3527,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もちろん、遅かれ早かれ、学園に居る限りいつ\nか一度はこの場に来ることになるのだろうが。",
+      "en": "Of course, this isn't the first time she's set foot in the\ncafeteria.",
+      "text": "Of course, this isn't the first time she's set foot in the\ncafeteria."
+    },
+    {
+      "offset": 3617,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "でも、中傷を受けてまで居るべき場所ではない。",
+      "en": "But having to endure all this talking about her...",
+      "text": "But having to endure all this talking about her..."
+    },
+    {
+      "offset": 3699,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「いえ、いいんです」",
+      "en": "\"No, it's fine.\"",
+      "text": "\"No, it's fine.\""
+    },
+    {
+      "offset": 3726,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は、にっこりと俺に微笑む。",
+      "en": "Tamaki looked up to me, giving me as wide a smile as she\ncould muster.",
+      "text": "Tamaki looked up to me, giving me as wide a smile as she\ncould muster."
+    },
+    {
+      "offset": 3770,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「慣れてますから、平気です。わたくしにとっ\n　ては、朝倉様とご飯が食べられる方が数倍嬉\n　しいです」",
+      "en": "\"I am used to it. The chance to eat with you far outweighs\neverything else.\"",
+      "text": "\"I am used to it. The chance to eat with you far outweighs\neverything else.\""
+    },
+    {
+      "offset": 3875,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺と？",
+      "en": "With me?",
+      "text": "With me?"
+    },
+    {
+      "offset": 3914,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「だって、許嫁なのに、こうして食事をするの\n　も初めてなんですよ」",
+      "en": "\"After all, it's the first time I've eaten with my\nfiancee...\"",
+      "text": "\"After all, it's the first time I've eaten with my\nfiancee...\""
+    },
+    {
+      "offset": 3986,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「許嫁、ねぇ……」",
+      "en": "\"Fiancee, huh...\"",
+      "text": "\"Fiancee, huh...\""
+    },
+    {
+      "offset": 4011,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなこと、言われるまで忘れていた。",
+      "en": "I'd forgotten about that.",
+      "text": "I'd forgotten about that."
+    },
+    {
+      "offset": 4052,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もちろん、許嫁にされていること自体を忘れて\nいる訳ではないけれど、日常生活で、それを意\n識することはない。",
+      "en": "Of course, not the fact itself, but more of it's existence\ndue to the everyday troubles of life.",
+      "text": "Of course, not the fact itself, but more of it's existence\ndue to the everyday troubles of life."
+    },
+    {
+      "offset": 4161,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、それもこれも理由がハッキリしないこと\nと、だからといって何かを強制させられてる訳\nではないことが原因だろう。",
+      "en": "The reason for it isn't clear now anyway, so there's no\npoint in forcing it.",
+      "text": "The reason for it isn't clear now anyway, so there's no\npoint in forcing it."
+    },
+    {
+      "offset": 4306,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「それより、朝倉様の方こそ、不快な思いをし\n　なかったか心配です」",
+      "en": "\"I am more concerned with your own discomfort at the\nsituation.\"",
+      "text": "\"I am more concerned with your own discomfort at the\nsituation.\""
+    },
+    {
+      "offset": 4387,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「せっかくのお昼休みなのに、嫌な思いをさせ\n　てしまって……」",
+      "en": "\"It's lunch break after all, having to deal with this...\"",
+      "text": "\"It's lunch break after all, having to deal with this...\""
+    },
+    {
+      "offset": 4455,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「大丈夫だよ。俺は気にしてないから……」",
+      "en": "\"I'm fine. Don't worry about me...\"",
+      "text": "\"I'm fine. Don't worry about me...\""
+    },
+    {
+      "offset": 4528,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「よかった……」",
+      "en": "\"That's a relief...\"",
+      "text": "\"That's a relief...\""
+    },
+    {
+      "offset": 4551,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 4596,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「朝倉様に、そう言ってもらえて……」",
+      "en": "\"To hear that from you, is...\"",
+      "text": "\"To hear that from you, is...\""
+    },
+    {
+      "offset": 4639,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「環……」",
+      "en": "\"Tamaki...\"",
+      "text": "\"Tamaki...\""
+    },
+    {
+      "offset": 4656,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どういう理由があったのかわからないけれど、\nきっと何かあったんだろう。",
+      "en": "I may not know why, what or how, but something definitely\nhappened.",
+      "text": "I may not know why, what or how, but something definitely\nhappened."
+    },
+    {
+      "offset": 4730,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "変な冗談で、校内で弓矢をぶっ放すなんてあり\n得ないし。",
+      "en": "Something more than just that bow and arrow stunt in the\ncafeteria.",
+      "text": "Something more than just that bow and arrow stunt in the\ncafeteria."
+    },
+    {
+      "offset": 4788,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ま、環に関しては、わからないことだらけだけ\nれど、今はただ待つことにしよう。",
+      "en": "I'd just have to wait for a time where I can fully\nunderstand everything.",
+      "text": "I'd just have to wait for a time where I can fully\nunderstand everything."
+    },
+    {
+      "offset": 4868,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なにせ、俺と環の間には『深い絆』があるのだ\nから……。",
+      "en": "This, and the \"deep bond\" that we have...",
+      "text": "This, and the \"deep bond\" that we have..."
+    },
+    {
+      "offset": 5055,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆食堂での噂◆",
+      "en": "◆Cafeteria Rumours?◆",
+      "text": "◆Cafeteria Rumours?◆"
+    },
+    {
+      "offset": 5098,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "弁当を忘れたという環を連れ、昼休み食堂へ行っ\nた。",
+      "en": "The lunch-less Tamaki accompanied me to the cafeteria during\nlunch break.",
+      "text": "The lunch-less Tamaki accompanied me to the cafeteria during\nlunch break."
+    },
+    {
+      "offset": 5152,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "食堂では、学生たちが環のことを噂している。",
+      "en": "At the location itself, Tamaki was subject to cruel gossping\nfrom the students around us.",
+      "text": "At the location itself, Tamaki was subject to cruel gossping\nfrom the students around us."
+    },
+    {
+      "offset": 5199,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そりゃあ、食堂で、弓矢をぶっぱなして、丼を\nまっぷたつにすりゃ、誰もが怖がるよな。",
+      "en": "Of course, having seen her split a bowl into two with her\nbow and arrows, who wouldn't be frightened.",
+      "text": "Of course, having seen her split a bowl into two with her\nbow and arrows, who wouldn't be frightened."
+    },
+    {
+      "offset": 5285,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は『慣れているから平気』と笑って言った。",
+      "en": "Tamaki eventually laughed it off, saying that she was used\nto it.",
+      "text": "Tamaki eventually laughed it off, saying that she was used\nto it."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "342": "Tamaki",
+    "422": "Tamaki",
+    "514": "Tamaki",
+    "606": "Tamaki",
+    "741": "Tamaki",
+    "831": "Tamaki",
+    "1558": "Tamaki",
+    "1735": "Tamaki",
+    "1878": "Tamaki",
+    "1993": "Tamaki",
+    "2079": "Tamaki",
+    "2197": "Tamaki",
+    "2292": "Tamaki",
+    "2509": "Tamaki",
+    "2677": "Tamaki",
+    "2765": "Female Student 1",
+    "2874": "Female Student 1",
+    "2915": "Female Student 2",
+    "3111": "Male Student 1",
+    "3166": "Male Student 2",
+    "3693": "Tamaki",
+    "3764": "Tamaki",
+    "3908": "Tamaki",
+    "4300": "Tamaki",
+    "4381": "Tamaki",
+    "4522": "Tamaki",
+    "4590": "Tamaki"
+  }
+}

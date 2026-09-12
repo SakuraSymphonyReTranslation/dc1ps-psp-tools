@@ -1,0 +1,445 @@
+{
+  "scene": "script_0086.obj",
+  "dialogues": [
+    {
+      "offset": 151,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふぅ……いい天気だな」",
+      "en": "\"Hoo... good weather.\"",
+      "text": "\"Hoo... good weather.\""
+    },
+    {
+      "offset": 182,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "空を仰ぎ見て、雲のない青い空とその｛はる／遥｝か手前\nにある桜の花を眺める。",
+      "en": "I stared up at the sky, cloudless and blue, partially hidden\nby bundles of sakura petals.",
+      "text": "I stared up at the sky, cloudless and blue, partially hidden\nby bundles of sakura petals."
+    },
+    {
+      "offset": 262,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "公園では、散歩をしたりベンチで読書をしたり、\nキャッチボールをしたりお弁当を食べたりして、\n皆が午後のひとときを過ごしている。",
+      "en": "There were people talking walks, reading at benches, playing\ncatch, eating lunchboxes, and other activities to pass the\nafternoon.",
+      "text": "There were people talking walks, reading at benches, playing\ncatch, eating lunchboxes, and other activities to pass the\nafternoon."
+    },
+    {
+      "offset": 393,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺はどうするかな」",
+      "en": "\"I wonder what I should do.\"",
+      "text": "\"I wonder what I should do.\""
+    },
+    {
+      "offset": 420,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ざっ、と辺りを見渡して、まぁ、いつものコー\nスで行くことにした。",
+      "en": "Looking around the park, I chose the one I did the most\nbefore.",
+      "text": "Looking around the park, I chose the one I did the most\nbefore."
+    },
+    {
+      "offset": 513,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "芝生の上に寝転がり、空を見上げる。",
+      "en": "I found a nice grassy field to lie on, and looked up at the\nsky.",
+      "text": "I found a nice grassy field to lie on, and looked up at the\nsky."
+    },
+    {
+      "offset": 552,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "太陽がぽかぽかと光を注いでいて、気持ちいい。\n目を｛つむ／瞑｝ると、まるで太陽に抱かれているみたい\nだ。",
+      "en": "The sun's rays shining down felt good. I slowly closed my\neyes, preventing the sun from penetrating them.",
+      "text": "The sun's rays shining down felt good. I slowly closed my\neyes, preventing the sun from penetrating them."
+    },
+    {
+      "offset": 673,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 692,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おやすみなさい」",
+      "en": "\"Good night.\"",
+      "text": "\"Good night.\""
+    },
+    {
+      "offset": 717,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 730,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 745,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 764,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん……」",
+      "en": "\"Mm....\"",
+      "text": "\"Mm....\""
+    },
+    {
+      "offset": 813,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 830,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「やばっ！？」",
+      "en": "\"Oh crap!?\"",
+      "text": "\"Oh crap!?\""
+    },
+    {
+      "offset": 851,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつの間にか、本気で寝てしまったのか。",
+      "en": "I had taken a really long nap.",
+      "text": "I had taken a really long nap."
+    },
+    {
+      "offset": 896,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「早く帰らないと！」",
+      "en": "\"If I don't rush back...!\"",
+      "text": "\"If I don't rush back...!\""
+    },
+    {
+      "offset": 923,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢にどやされる。",
+      "en": "I'd be at the mercy of Nemu.",
+      "text": "I'd be at the mercy of Nemu."
+    },
+    {
+      "offset": 946,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "よっ――と飛び起き、服についた草を払い落と\nして、駆け出す。",
+      "en": "I quickly jumped to my feet, brushed off the grass on my\nclothes, and dashed away.",
+      "text": "I quickly jumped to my feet, brushed off the grass on my\nclothes, and dashed away."
+    },
+    {
+      "offset": 1051,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "外灯の消えたドアの前で家の鍵を取り出し、鍵\n穴に差し込む。",
+      "en": "The lights at the door were switched off. I took out my key\nand inserted it into the keyhole.",
+      "text": "The lights at the door were switched off. I took out my key\nand inserted it into the keyhole."
+    },
+    {
+      "offset": 1118,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "カチャリ――",
+      "en": "--*turn*",
+      "text": "--*turn*"
+    },
+    {
+      "offset": 1137,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（音夢のやつ怒ってるかな……）",
+      "en": "\"(Nemu's going to be pissed...)\"",
+      "text": "\"(Nemu's going to be pissed...)\""
+    },
+    {
+      "offset": 1174,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言い訳を考えつつ、ドアのノブを回す。",
+      "en": "Thinking while acting, I turned the doorknob.",
+      "text": "Thinking while acting, I turned the doorknob."
+    },
+    {
+      "offset": 1215,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ガンッ――",
+      "en": "--*bang*",
+      "text": "--*bang*"
+    },
+    {
+      "offset": 1232,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ガン？」",
+      "en": "\"Bang?\"",
+      "text": "\"Bang?\""
+    },
+    {
+      "offset": 1249,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ドアは少し開いたところで、それ以上引けなく\nなる。",
+      "en": "The door opened slightly, but wouldn't go any further.",
+      "text": "The door opened slightly, but wouldn't go any further."
+    },
+    {
+      "offset": 1303,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見ると、ドアにチェーンが繋がっていた。",
+      "en": "Has the door has been chain-latched...?",
+      "text": "Has the door has been chain-latched...?"
+    },
+    {
+      "offset": 1348,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「うっそ、マジ！？」",
+      "en": "\"No way, seriously!?\"",
+      "text": "\"No way, seriously!?\""
+    },
+    {
+      "offset": 1375,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おい、音夢ッ！　いないのか、おいっ！」",
+      "en": "\"Oy, Nemuu! Are you there, oy!\"",
+      "text": "\"Oy, Nemuu! Are you there, oy!\""
+    },
+    {
+      "offset": 1422,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ドアの隙間から、家の中に向かって声をかける。",
+      "en": "I placed my mouth at the slight gap of the door, and shouted\ninto the house.",
+      "text": "I placed my mouth at the slight gap of the door, and shouted\ninto the house."
+    },
+    {
+      "offset": 1484,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あら、どちら様ですかぁ？」",
+      "en": "\"My, who is it?\"",
+      "text": "\"My, who is it?\""
+    },
+    {
+      "offset": 1519,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "隙間から、ひょいっと顔が覗いた。",
+      "en": "A face came peeping out from the gap.",
+      "text": "A face came peeping out from the gap."
+    },
+    {
+      "offset": 1558,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや、俺だけど……」",
+      "en": "\"I, it's me...\"",
+      "text": "\"I, it's me...\""
+    },
+    {
+      "offset": 1598,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ああ、兄さんでしたか。どうしたんです？」",
+      "en": "\"Ahh, nii-san. What's wrong?\"",
+      "text": "\"Ahh, nii-san. What's wrong?\""
+    },
+    {
+      "offset": 1647,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あの、ドアがこれ以上開かないんだけど」",
+      "en": "\"Uhm, the door won't open any further than this.\"",
+      "text": "\"Uhm, the door won't open any further than this.\""
+    },
+    {
+      "offset": 1705,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そりゃあ、チェーンがかかってますから」",
+      "en": "\"That's because I put the chain latch on it.\"",
+      "text": "\"That's because I put the chain latch on it.\""
+    },
+    {
+      "offset": 1752,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "当然のことのように、音夢が言う。",
+      "en": "Nemu said that matter-of-factly.",
+      "text": "Nemu said that matter-of-factly."
+    },
+    {
+      "offset": 1789,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いや、そうなんだけど。",
+      "en": "No, that's not what I meant...",
+      "text": "No, that's not what I meant..."
+    },
+    {
+      "offset": 1818,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あの……音夢さん。これ、はずしてもらえな\n　いでしょうか？」",
+      "en": "\"Uhmm... Nemu-san. Could you remove the chain latch?\"",
+      "text": "\"Uhmm... Nemu-san. Could you remove the chain latch?\""
+    },
+    {
+      "offset": 1897,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ダメです」",
+      "en": "\"I can not.\"",
+      "text": "\"I can not.\""
+    },
+    {
+      "offset": 1916,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 1935,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "きっぱりあっさり、拒否される。",
+      "en": "Her denial was quick and clear.",
+      "text": "Her denial was quick and clear."
+    },
+    {
+      "offset": 1983,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いま何時だと思ってるの！？　しばらく、そ\n　こで頭を冷やしてなさいッ！」",
+      "en": "\"Just what time do yoiu think it is!? You can sit there and\nlet your head freeze for awhile!\"",
+      "text": "\"Just what time do yoiu think it is!? You can sit there and\nlet your head freeze for awhile!\""
+    },
+    {
+      "offset": 2063,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぴしゃりと言い放ち、俺に背を向け居間に戻っ\nてしまう。",
+      "en": "With awfully harsh words, she went back to the living room.",
+      "text": "With awfully harsh words, she went back to the living room."
+    },
+    {
+      "offset": 2123,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2142,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 2155,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――ぐすん。",
+      "en": "--Sniff.",
+      "text": "--Sniff."
+    },
+    {
+      "offset": 2172,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は家のドアを閉め、その前に座り込んだ。",
+      "en": "I closed the door to the house, and sat on the steps in\nfront of it.",
+      "text": "I closed the door to the house, and sat on the steps in\nfront of it."
+    },
+    {
+      "offset": 2217,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 2230,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あぁ――今夜は月が綺麗だ。",
+      "en": "Ahh--the moon is beautiful tonight.",
+      "text": "Ahh--the moon is beautiful tonight."
+    },
+    {
+      "offset": 2372,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆門限破り◆",
+      "en": "◆Past Curfew◆",
+      "text": "◆Past Curfew◆"
+    },
+    {
+      "offset": 2425,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いい天気。ぽかぽかといい陽気。そんな訳で、\nつい眠くなってしまった。",
+      "en": "The weather was good, and the sun was just strong enough.\nBecause of that, I ended up falling asleep.",
+      "text": "The weather was good, and the sun was just strong enough.\nBecause of that, I ended up falling asleep."
+    },
+    {
+      "offset": 2533,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目が覚めると、夜になっていた。",
+      "en": "By the time I woke up, it was night.",
+      "text": "By the time I woke up, it was night."
+    },
+    {
+      "offset": 2595,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ドアにチェーンが掛かっていて、家に入れない。\n音夢から締め出しを食らってしまったのだ……。",
+      "en": "The door to my home was chain-latched, so I couldn't go in.\nI've been shut out by Nemu...",
+      "text": "The door to my home was chain-latched, so I couldn't go in.\nI've been shut out by Nemu..."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "1476": "Nemu",
+    "1590": "Nemu",
+    "1697": "Nemu",
+    "1889": "Nemu",
+    "1975": "Nemu"
+  }
+}

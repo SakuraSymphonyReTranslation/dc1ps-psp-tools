@@ -1,0 +1,106 @@
+{
+  "scene": "script_0435.obj",
+  "dialogues": [
+    {
+      "offset": 167,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「作るのがかったるい」",
+      "en": "\"It's a pain in the neck to make.\"",
+      "text": "\"It's a pain in the neck to make.\""
+    },
+    {
+      "offset": 226,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「――うにゃ！？」",
+      "en": "\"Huh!?\"",
+      "text": "\"Huh!?\""
+    },
+    {
+      "offset": 251,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うむ。我ながら見事な切り返しだ」",
+      "en": "\"Hm, that was a clever thing to say.\"",
+      "text": "\"Hm, that was a clever thing to say.\""
+    },
+    {
+      "offset": 322,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「どうして、腕組んでしみじみと頷くか\n　なぁ……」",
+      "en": "\"Why are you nodding like that with your arms folded?\"",
+      "text": "\"Why are you nodding like that with your arms folded?\""
+    },
+    {
+      "offset": 390,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぱたり、と縁側にさくらが倒れこむ。",
+      "en": "Sakura lies down on the porch.",
+      "text": "Sakura lies down on the porch."
+    },
+    {
+      "offset": 431,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ははは、まぁ、そう肩を落とすな」",
+      "en": "\"Hahaha, don't feel discouraged.\"",
+      "text": "\"Hahaha, don't feel discouraged.\""
+    },
+    {
+      "offset": 472,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "作るのはかったるいけれど、それに見合った味\nがあるのだ。",
+      "en": "It's tiring to make, but there's a a certain taste that's\nbest.",
+      "text": "It's tiring to make, but there's a a certain taste that's\nbest."
+    },
+    {
+      "offset": 532,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もちろん、そんなかったるいこと、口にはしな\nいが。",
+      "en": "Of course, I won't bother to say that.",
+      "text": "Of course, I won't bother to say that."
+    },
+    {
+      "offset": 588,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さて、今日の夕方くらいまでは時間がある。\n　どこか、腹ごしらえ出来るところで話をしよ\n　う」",
+      "en": "\"Well, we have lots of time until this evening. Let's talk\nabout something while we eat.\"",
+      "text": "\"Well, we have lots of time until this evening. Let's talk\nabout something while we eat.\""
+    },
+    {
+      "offset": 805,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆カレーだるい◆",
+      "en": "◆Bother in making curry◆",
+      "text": "◆Bother in making curry◆"
+    },
+    {
+      "offset": 860,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その心は――作るのがかったるい。これにつき\nた。",
+      "en": "Why is that?... It's a pain in the neck to make. That's it.",
+      "text": "Why is that?... It's a pain in the neck to make. That's it."
+    },
+    {
+      "offset": 912,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "肩を落とすさくらに笑いかけながら、昼飯を食\nべるために外出することにした。",
+      "en": "I smiled at Sakura who felt discouraged, and we decided to\ngo out for lunch.",
+      "text": "I smiled at Sakura who felt discouraged, and we decided to\ngo out for lunch."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "216": "Sakura",
+    "312": "Sakura"
+  }
+}

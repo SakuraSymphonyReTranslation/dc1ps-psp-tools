@@ -1,0 +1,980 @@
+{
+  "scene": "script_0596.obj",
+  "dialogues": [
+    {
+      "offset": 167,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……さくら」",
+      "en": "\"Sakura...\"",
+      "text": "\"Sakura...\""
+    },
+    {
+      "offset": 188,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そういえばあいつ、今日はやけに不安定だった。",
+      "en": "She looked very down today when I think about it.",
+      "text": "She looked very down today when I think about it."
+    },
+    {
+      "offset": 237,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あの時、無理にでも引き止めてベッドに押し込\nんでおけば……。",
+      "en": "I should have forced her to stay in my bed.",
+      "text": "I should have forced her to stay in my bed."
+    },
+    {
+      "offset": 303,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……いや、なんか言葉が卑猥だが違うぞ」",
+      "en": "\"It sounds obscene, but it's not.\"",
+      "text": "\"It sounds obscene, but it's not.\""
+    },
+    {
+      "offset": 350,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頭を振って窓の外を見る。",
+      "en": "I look outside the window shaking my head.",
+      "text": "I look outside the window shaking my head."
+    },
+    {
+      "offset": 379,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらの家に変化は見られないが、もちろん屋\n根を見ただけで、あいつの寝顔を確認したわけ\nじゃない。",
+      "en": "Her house still looks normal, but I don't know about her,\nbecause I can only see the roof, not her face.",
+      "text": "Her house still looks normal, but I don't know about her,\nbecause I can only see the roof, not her face."
+    },
+    {
+      "offset": 482,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……かったりぃな」",
+      "en": "\"Oh, what a pain in the neck...\"",
+      "text": "\"Oh, what a pain in the neck...\""
+    },
+    {
+      "offset": 509,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ベッドから降りて、制服の上着を羽織る。",
+      "en": "I put on my uniform jacket and get out of bed.",
+      "text": "I put on my uniform jacket and get out of bed."
+    },
+    {
+      "offset": 575,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の部屋を確認してもよかったのだが、どう\nしてもさくらが気になる。",
+      "en": "I could have checked Nemu's room, but I'm still worried\nabout Sakura.",
+      "text": "I could have checked Nemu's room, but I'm still worried\nabout Sakura."
+    },
+    {
+      "offset": 670,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まだ冷え込みが残る明け方の外気。",
+      "en": "The air is chilly at dawn.",
+      "text": "The air is chilly at dawn."
+    },
+    {
+      "offset": 707,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "かすかに東の空が明るくなっていた。",
+      "en": "I can see light in the east of the sky.",
+      "text": "I can see light in the east of the sky."
+    },
+    {
+      "offset": 746,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "街はまだ眠っている。",
+      "en": "The town is still quiet.",
+      "text": "The town is still quiet."
+    },
+    {
+      "offset": 771,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今、何時だろう。",
+      "en": "I wonder what time it is.",
+      "text": "I wonder what time it is."
+    },
+    {
+      "offset": 792,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなことを考えつつ、さくらの家の門をくぐ\nる。",
+      "en": "I pass the gate to Sakura's house thinking like that.",
+      "text": "I pass the gate to Sakura's house thinking like that."
+    },
+    {
+      "offset": 869,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 888,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さすがに戸は閉まっていたので庭にまわる。",
+      "en": "As I expected, the door was locked, so I go around to the\nyard.",
+      "text": "As I expected, the door was locked, so I go around to the\nyard."
+    },
+    {
+      "offset": 933,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の部屋に伸びる桜を見つめながら、ぐるり、\nとさくらの部屋の縁側に――。",
+      "en": "Looking at the cherry tree growing toward my room, I walk\naround to the porch next to her room.",
+      "text": "Looking at the cherry tree growing toward my room, I walk\naround to the porch next to her room."
+    },
+    {
+      "offset": 1029,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「っ……ひっく……」",
+      "en": "\"......oohh...ooh...\"",
+      "text": "\"......oohh...ooh...\""
+    },
+    {
+      "offset": 1056,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "小さなむせび泣きが耳を打つ。",
+      "en": "I hear a sob.",
+      "text": "I hear a sob."
+    },
+    {
+      "offset": 1104,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ダメ……なんで……ここまで我慢してたのに\n　……」",
+      "en": "\"No... why? I've been patient until now...\"",
+      "text": "\"No... why? I've been patient until now...\""
+    },
+    {
+      "offset": 1175,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あんな夢を見るから……音夢ちゃんが……こ\n　れじゃあボクの存在はまるで……」",
+      "en": "\"Since Nemu-chan had a dream like that... This was my whole\nexistence...\"",
+      "text": "\"Since Nemu-chan had a dream like that... This was my whole\nexistence...\""
+    },
+    {
+      "offset": 1259,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「さくら？」",
+      "en": "\"Sakura?\"",
+      "text": "\"Sakura?\""
+    },
+    {
+      "offset": 1291,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「――っ！？」",
+      "en": "\".........!?\"",
+      "text": "\".........!?\""
+    },
+    {
+      "offset": 1312,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暗がりの中で小さな影が動く。",
+      "en": "A tiny shadow moves in the darkness.",
+      "text": "A tiny shadow moves in the darkness."
+    },
+    {
+      "offset": 1345,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "正直、ほっとした。",
+      "en": "To be honest, I feel relieved.",
+      "text": "To be honest, I feel relieved."
+    },
+    {
+      "offset": 1368,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あいつが泣いてるときに来れてよかった。",
+      "en": "I am glad that I came here when she was crying.",
+      "text": "I am glad that I came here when she was crying."
+    },
+    {
+      "offset": 1411,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢みたいに分かりやすいやつじゃないから、\n朝になったらもう、分からなかっただろうから\n……。",
+      "en": "Because she's not like Nemu who remembers everything next\nmorning.",
+      "text": "Because she's not like Nemu who remembers everything next\nmorning."
+    },
+    {
+      "offset": 1510,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「泣いてるよなお前」",
+      "en": "\"You're really crying.\"",
+      "text": "\"You're really crying.\""
+    },
+    {
+      "offset": 1550,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「っす……なんで、お兄ちゃんココに……？」",
+      "en": "\"Uh, why are you here, oniichan?\"",
+      "text": "\"Uh, why are you here, oniichan?\""
+    },
+    {
+      "offset": 1599,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そりゃ……」",
+      "en": "\"Because...\"",
+      "text": "\"Because...\""
+    },
+    {
+      "offset": 1620,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さっきまで夢に見ていた縁側に手をつく。",
+      "en": "I put the hands on the porch that was in my dream earlier.",
+      "text": "I put the hands on the porch that was in my dream earlier."
+    },
+    {
+      "offset": 1665,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お前の泣き声がうるさくて、眠れなかったん\n　だよ」",
+      "en": "\"I couldn't sleep because I heard you crying.\"",
+      "text": "\"I couldn't sleep because I heard you crying.\""
+    },
+    {
+      "offset": 1736,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「にゃ？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 1753,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「こいよ、月がきれいだ……見事な満月……っ\n　てわけにはいかないけどな」",
+      "en": "\"Come outside and see the moon. It's not a full moon yet,\nbut it's beautiful.\"",
+      "text": "\"Come outside and see the moon. It's not a full moon yet,\nbut it's beautiful.\""
+    },
+    {
+      "offset": 1831,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "縁側に座って空を見上げた。",
+      "en": "I sit on the porch and look up at the sky.",
+      "text": "I sit on the porch and look up at the sky."
+    },
+    {
+      "offset": 1862,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "薄っぺらい三日月が、空の笑顔のように張り付\nいている。",
+      "en": "The crescent moon is smiling in the sky.",
+      "text": "The crescent moon is smiling in the sky."
+    },
+    {
+      "offset": 1935,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1954,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「なんだ、来ないのか？」",
+      "en": "\"Don't you want to come outside?\"",
+      "text": "\"Don't you want to come outside?\""
+    },
+    {
+      "offset": 1998,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……涙で顔がぐちょぐちょだから嫌だ」",
+      "en": "\"My face is messed up with tears.\"",
+      "text": "\"My face is messed up with tears.\""
+    },
+    {
+      "offset": 2043,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そうか。まぁ、そこにいてもいいや」",
+      "en": "\"I see. Then, you stay there.\"",
+      "text": "\"I see. Then, you stay there.\""
+    },
+    {
+      "offset": 2086,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "小さく笑って頷く。",
+      "en": "I nod with a smile.",
+      "text": "I nod with a smile."
+    },
+    {
+      "offset": 2124,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「本当にボクの泣き声が聞こえたの？」",
+      "en": "\"Are you sure you heard me crying?\"",
+      "text": "\"Are you sure you heard me crying?\""
+    },
+    {
+      "offset": 2167,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あぁ」",
+      "en": "\"Yeah.\"",
+      "text": "\"Yeah.\""
+    },
+    {
+      "offset": 2195,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「音夢ちゃんじゃなくて？」",
+      "en": "\"Wasn't it Nemu-chan?\"",
+      "text": "\"Wasn't it Nemu-chan?\""
+    },
+    {
+      "offset": 2228,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ざざ、と畳をこする音。",
+      "en": "The sound of a squeak against the tatami mat.",
+      "text": "The sound of a squeak against the tatami mat."
+    },
+    {
+      "offset": 2257,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんで音夢が出てくるんだ？」",
+      "en": "\"Why did you bring up Nemu now?\"",
+      "text": "\"Why did you bring up Nemu now?\""
+    },
+    {
+      "offset": 2307,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「普通お兄ちゃんの部屋で聞こえる声って、音\n　夢ちゃんのものだと思うけど」",
+      "en": "\"When you hear something in your room, it must be usually\nNemu-chan, right?\"",
+      "text": "\"When you hear something in your room, it must be usually\nNemu-chan, right?\""
+    },
+    {
+      "offset": 2387,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2406,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「それもそうだな」",
+      "en": "\"You're right.\"",
+      "text": "\"You're right.\""
+    },
+    {
+      "offset": 2431,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ははは、と自分でも可笑しかった。",
+      "en": "I laughed at myself.",
+      "text": "I laughed at myself."
+    },
+    {
+      "offset": 2470,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんとなく、お前のような気がしてさ」",
+      "en": "\"For some reason, I thought it was you.\"",
+      "text": "\"For some reason, I thought it was you.\""
+    },
+    {
+      "offset": 2528,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「笑い事じゃないよそれ……」",
+      "en": "\"It's not a laughing matter.\"",
+      "text": "\"It's not a laughing matter.\""
+    },
+    {
+      "offset": 2563,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「でも、お前が泣いてたから当たりだろ」",
+      "en": "\"But I was right since you were crying.\"",
+      "text": "\"But I was right since you were crying.\""
+    },
+    {
+      "offset": 2621,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そうだけどさぁ」",
+      "en": "\"Well, that's true.\"",
+      "text": "\"Well, that's true.\""
+    },
+    {
+      "offset": 2646,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「はは……」",
+      "en": "\"Haha...\"",
+      "text": "\"Haha...\""
+    },
+    {
+      "offset": 2665,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "手を軽く握って開く。",
+      "en": "I squeeze my hands and open again.",
+      "text": "I squeeze my hands and open again."
+    },
+    {
+      "offset": 2692,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なにかお菓子を食べたいかさくら？」",
+      "en": "\"Do you want to eat a snack, Sakura?\"",
+      "text": "\"Do you want to eat a snack, Sakura?\""
+    },
+    {
+      "offset": 2748,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 2763,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こんぺいとうを作って、夜空にかざして星と重\nねる。",
+      "en": "I made a star-shaped candy, then held it up to overlap a\nreal star in the night sky.",
+      "text": "I made a star-shaped candy, then held it up to overlap a\nreal star in the night sky."
+    },
+    {
+      "offset": 2824,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや、これってさ、すげーくだらない｛・・／魔法｝だ\n　と思ってたんだよ」",
+      "en": "\"Well, I completely believe this is a ridiculous magic.\"",
+      "text": "\"Well, I completely believe this is a ridiculous magic.\""
+    },
+    {
+      "offset": 2904,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぽんぽん、と饅頭やかりんとうなんかを並べて\nいく。",
+      "en": "I lay down a steamed bean-jam bun, a sweet pretzel and few\nmore things.",
+      "text": "I lay down a steamed bean-jam bun, a sweet pretzel and few\nmore things."
+    },
+    {
+      "offset": 2960,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「和菓子を出せたって、基本的に食べるって以\n　外に使い道ないだろう？」",
+      "en": "\"Even if I can make Japanese snacks appear, all you do is\neat them up.\"",
+      "text": "\"Even if I can make Japanese snacks appear, all you do is\neat them up.\""
+    },
+    {
+      "offset": 3036,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ばあちゃんが他にも魔法を見せてくれたら、\n　それも使えるようになっていたのかも知れな\n　いけどさ」",
+      "en": "\"If grandma showed me a different magic other than that, I\ncould've been using it.\"",
+      "text": "\"If grandma showed me a different magic other than that, I\ncould've been using it.\""
+    },
+    {
+      "offset": 3141,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「でもさ……これはこれで、初めて悪くないっ\n　て思ったよ」",
+      "en": "\"But to be honest, for the first time I thought this isn't a\nbad power.\"",
+      "text": "\"But to be honest, for the first time I thought this isn't a\nbad power.\""
+    },
+    {
+      "offset": 3218,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……なんで？」",
+      "en": "\"Why?\"",
+      "text": "\"Why?\""
+    },
+    {
+      "offset": 3241,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "随分と落ち着きを取り戻した声が響いた。",
+      "en": "Her voice sounds calm now.",
+      "text": "Her voice sounds calm now."
+    },
+    {
+      "offset": 3286,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや、だってさ、泣いてるやつを笑わせられ\n　るんだぜ」",
+      "en": "\"Well, because it can stop a crying child from crying.\"",
+      "text": "\"Well, because it can stop a crying child from crying.\""
+    },
+    {
+      "offset": 3348,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "調子が良くて、ぽんぽん、と和菓子を生み出し\nていく。",
+      "en": "I create many Japanese snacks, one after another.",
+      "text": "I create many Japanese snacks, one after another."
+    },
+    {
+      "offset": 3406,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「モノを壊すとかさ、瞬間移動とかもかっこい\n　いけどさ、これって他人のためにしか使えねぇ\n　だろ？」",
+      "en": "\"Magic that can break things or make things move is cool,\nbut this magic is only to make other people happy, right?\"",
+      "text": "\"Magic that can break things or make things move is cool,\nbut this magic is only to make other people happy, right?\""
+    },
+    {
+      "offset": 3524,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……ボク？」",
+      "en": "\"Me?\"",
+      "text": "\"Me?\""
+    },
+    {
+      "offset": 3545,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 3573,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「泣いてる子を笑わせるって……ボクのために\n　その力って使えるようになったのかな？」",
+      "en": "\"Make a crying child smile... Do you use the magic only for\nme?\"",
+      "text": "\"Make a crying child smile... Do you use the magic only for\nme?\""
+    },
+    {
+      "offset": 3663,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「え……あ、そうだな……」",
+      "en": "\"Um...Uh...well...\"",
+      "text": "\"Um...Uh...well...\""
+    },
+    {
+      "offset": 3696,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もうひとり、あの頃に泣き虫だったやつはいた\nけれど。",
+      "en": "I know there was one other person who was a crybaby.",
+      "text": "I know there was one other person who was a crybaby."
+    },
+    {
+      "offset": 3754,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「音夢には内緒にしてたし、この力を普通に使っ\n　てるのはお前にだけだな」",
+      "en": "\"I haven't told Nemu about this, so I use this only for you\nso far.\"",
+      "text": "\"I haven't told Nemu about this, so I use this only for you\nso far.\""
+    },
+    {
+      "offset": 3845,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そっか」",
+      "en": "\"I see.\"",
+      "text": "\"I see.\""
+    },
+    {
+      "offset": 3862,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「よく考えたらな」",
+      "en": "\"When I think about it...\"",
+      "text": "\"When I think about it...\""
+    },
+    {
+      "offset": 3887,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "指をこすり合わせて、夜桜に目を向ける。",
+      "en": "I look at the cherry blossoms at night, rubbing my fingers\ntogether.",
+      "text": "I look at the cherry blossoms at night, rubbing my fingers\ntogether."
+    },
+    {
+      "offset": 3932,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「じゃあ、さっきのはやっぱり、さくらの夢だっ\n　たのか」",
+      "en": "\"Aahh, it was Sakura's dream, wasn't it?\"",
+      "text": "\"Aahh, it was Sakura's dream, wasn't it?\""
+    },
+    {
+      "offset": 4007,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ぅにゃ！？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 4028,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暗闇の中からさくらが姿を現す。",
+      "en": "Sakura suddenly appears in the darkness.",
+      "text": "Sakura suddenly appears in the darkness."
+    },
+    {
+      "offset": 4111,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「み、みゃ、み、見たの！？」",
+      "en": "\"Di-du-did you see it?\"",
+      "text": "\"Di-du-did you see it?\""
+    },
+    {
+      "offset": 4146,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「見たぞ」",
+      "en": "\"Yeah, I did.\"",
+      "text": "\"Yeah, I did.\""
+    },
+    {
+      "offset": 4163,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その前に、みゃ、ってなんだ。",
+      "en": "What is 'du', anyway?",
+      "text": "What is 'du', anyway?"
+    },
+    {
+      "offset": 4228,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゃ！　うにゃにゃにゃにゃにゃにゃ！」",
+      "en": "\"Hmmma! Waaaaaahhh!\"",
+      "text": "\"Hmmma! Waaaaaahhh!\""
+    },
+    {
+      "offset": 4277,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……なんだよ」",
+      "en": "\"What is it?\"",
+      "text": "\"What is it?\""
+    },
+    {
+      "offset": 4333,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「人の夢を見るなんてプライバシーの侵害だぁ！\n　訴訟国家をなめるなよ！」",
+      "en": "\"Seeing other people's dreams is an invasion of privacy!\nDon't underestimate a litigious country!\"",
+      "text": "\"Seeing other people's dreams is an invasion of privacy!\nDon't underestimate a litigious country!\""
+    },
+    {
+      "offset": 4411,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「なんだそれは」",
+      "en": "\"What are you talking about?\"",
+      "text": "\"What are you talking about?\""
+    },
+    {
+      "offset": 4434,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "掴みかかろうとするさくらから逃げるように立\nち上がって、桜の舞う庭に立つ。",
+      "en": "I run away from Sakura, who looks like she's about to attack\nme, and stand in the yard under the cherry blossom trees.",
+      "text": "I run away from Sakura, who looks like she's about to attack\nme, and stand in the yard under the cherry blossom trees."
+    },
+    {
+      "offset": 4514,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「懐かしい夢だったな」",
+      "en": "\"The dream made me feel nostalgic.\"",
+      "text": "\"The dream made me feel nostalgic.\""
+    },
+    {
+      "offset": 4573,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「恥ずかしいよぉ」",
+      "en": "\"It's embarrassing.\"",
+      "text": "\"It's embarrassing.\""
+    },
+    {
+      "offset": 4598,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「俺は嬉しかったぞ」",
+      "en": "\"I liked it, though.\"",
+      "text": "\"I liked it, though.\""
+    },
+    {
+      "offset": 4625,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まるで熱に浮かされるように、夢見ごこちに言\n葉がこぼれてくる。",
+      "en": "I keep talking dreamily, as if I were delirious with fever.",
+      "text": "I keep talking dreamily, as if I were delirious with fever."
+    },
+    {
+      "offset": 4723,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゃ〜」",
+      "en": "\"Hm...\"",
+      "text": "\"Hm...\""
+    },
+    {
+      "offset": 4742,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「はははは」",
+      "en": "\"Hahahaha.\"",
+      "text": "\"Hahahaha.\""
+    },
+    {
+      "offset": 4761,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月と桜の魔力なのか、なんだか、さくらの一挙\n動が可愛く見え――。",
+      "en": "It might be the power of the moon or the cherry blossoms,\nbut I start to see Sakura as adorable in every way.",
+      "text": "It might be the power of the moon or the cherry blossoms,\nbut I start to see Sakura as adorable in every way."
+    },
+    {
+      "offset": 4831,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ははは……？」",
+      "en": "\"Hahaha...?\"",
+      "text": "\"Hahaha...?\""
+    },
+    {
+      "offset": 4862,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ドクン。",
+      "en": "Throb.",
+      "text": "Throb."
+    },
+    {
+      "offset": 4875,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鼓動が大きく跳ねる。",
+      "en": "I feel my pulse quicken.",
+      "text": "I feel my pulse quicken."
+    },
+    {
+      "offset": 4902,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ……ぐ」",
+      "en": "\"Ahhh...\"",
+      "text": "\"Ahhh...\""
+    },
+    {
+      "offset": 4921,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "胸にヒビが入ったような鋭い痛みが襲ってくる。",
+      "en": "A sharp pain runs through my chest.",
+      "text": "A sharp pain runs through my chest."
+    },
+    {
+      "offset": 5002,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……あ」",
+      "en": "\"Oh...\"",
+      "text": "\"Oh...\""
+    },
+    {
+      "offset": 5019,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ばっ、とさくらが胸元を押さえてうずくまる。",
+      "en": "Sakura bends over, touching her chest.",
+      "text": "Sakura bends over, touching her chest."
+    },
+    {
+      "offset": 5068,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ど、どうした？」",
+      "en": "\"What happened?\"",
+      "text": "\"What happened?\""
+    },
+    {
+      "offset": 5093,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一瞬の痛みではあったが、このまま死んでしま\nうのではという怖さに汗をかいていた。",
+      "en": "I start to sweat with fear, thinking I might die of this\nmomentary pain.",
+      "text": "I start to sweat with fear, thinking I might die of this\nmomentary pain."
+    },
+    {
+      "offset": 5209,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「お兄ちゃん、音夢ちゃん大丈夫！？」",
+      "en": "\"Is Nemu-chan okay, oniichan?\"",
+      "text": "\"Is Nemu-chan okay, oniichan?\""
+    },
+    {
+      "offset": 5252,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「え？　音夢？」",
+      "en": "\"What? Nemu?\"",
+      "text": "\"What? Nemu?\""
+    },
+    {
+      "offset": 5305,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「Ｈｕｒｒｙ！　早く見に行って！！」",
+      "en": "\"Hurry! Go check her now!\"",
+      "text": "\"Hurry! Go check her now!\""
+    },
+    {
+      "offset": 5348,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 5367,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらがなにを焦っているのか分からない。",
+      "en": "I have no idea why Sakura is so upset.",
+      "text": "I have no idea why Sakura is so upset."
+    },
+    {
+      "offset": 5412,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただ、今は――この夜だけは、なにが起こって\nも不思議でない気がした。",
+      "en": "But right now, just in this moment, I know anything could\nhappen.",
+      "text": "But right now, just in this moment, I know anything could\nhappen."
+    },
+    {
+      "offset": 5486,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「分かった」",
+      "en": "\"Okay.\"",
+      "text": "\"Okay.\""
+    },
+    {
+      "offset": 5535,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 5554,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "青い顔をしたさくらも心配だったが、俺は自分\nの家を見上げてから音夢の部屋へと急いだ。",
+      "en": "I'm worried about Sakura, who's looking pale, but anyway, I\nrushed over to Nemu's room in my house.",
+      "text": "I'm worried about Sakura, who's looking pale, but anyway, I\nrushed over to Nemu's room in my house."
+    },
+    {
+      "offset": 5746,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆泣き虫さくら◆",
+      "en": "◆Crybaby Sakura◆",
+      "text": "◆Crybaby Sakura◆"
+    },
+    {
+      "offset": 5798,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらがひとりで泣いているような気がして、\n面倒だったが隣の家に向かう。",
+      "en": "I felt like Sakura was crying on her own, so I walked over\nto next door, even thought I was tired.",
+      "text": "I felt like Sakura was crying on her own, so I walked over\nto next door, even thought I was tired."
+    },
+    {
+      "offset": 5902,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なぜか本当に泣いていたさくらを慰め、話をし\nているうちに、自分の和菓子を出す力がさくら\nの涙を止める為のモノのような気がしてきた。",
+      "en": "As I talked to her trying to calm her down, I started to\nthink my magic that makes snacks could have been given to me\nso that I could stop her from crying.",
+      "text": "As I talked to her trying to calm her down, I started to\nthink my magic that makes snacks could have been given to me\nso that I could stop her from crying."
+    },
+    {
+      "offset": 6035,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、落ち着きを取り戻したさくらから、今\n度は音夢ちゃんが泣いているかも知れないとい\nう言葉を聞き、慌てて家に引き返した。",
+      "en": "Then Sakura told me that Nemu might be crying, so I rushed\nback to my house.",
+      "text": "Then Sakura told me that Nemu might be crying, so I rushed\nback to my house."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "1019": "Sakura",
+    "1094": "Sakura",
+    "1165": "Sakura",
+    "1281": "Sakura",
+    "1540": "Sakura",
+    "1726": "Sakura",
+    "1925": "Sakura",
+    "1988": "Sakura",
+    "2114": "Sakura",
+    "2185": "Sakura",
+    "2297": "Sakura",
+    "2518": "Sakura",
+    "2611": "Sakura",
+    "2738": "Sakura",
+    "3208": "Sakura",
+    "3514": "Sakura",
+    "3563": "Sakura",
+    "3835": "Sakura",
+    "3997": "Sakura",
+    "4101": "Sakura",
+    "4218": "Sakura",
+    "4323": "Sakura",
+    "4563": "Sakura",
+    "4713": "Sakura",
+    "4992": "Sakura",
+    "5199": "Sakura",
+    "5295": "Sakura",
+    "5525": "Sakura"
+  }
+}

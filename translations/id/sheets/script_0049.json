@@ -1,0 +1,225 @@
+{
+  "scene": "script_0049.obj",
+  "dialogues": [
+    {
+      "offset": 149,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぷらぷら商店街を歩いていると、ふいに後ろか\nら肩を叩かれた。",
+      "en": "As I wandered aimlessly around the shopping district, I felt\na knock on my shoulder.",
+      "text": "As I wandered aimlessly around the shopping district, I felt\na knock on my shoulder."
+    },
+    {
+      "offset": 248,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「よ、朝倉。暇そうだな」",
+      "en": "\"Yo, Asakura. You look free.\"",
+      "text": "\"Yo, Asakura. You look free.\""
+    },
+    {
+      "offset": 279,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「別にそういうわけじゃ……これからどこへ行\n　こうかと、綿密な計画を練っていたところだ」",
+      "en": "\"Not really... I actually have a painfully detailed schedule\nof which places I loiter at, by the minute.\"",
+      "text": "\"Not really... I actually have a painfully detailed schedule\nof which places I loiter at, by the minute.\""
+    },
+    {
+      "offset": 417,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「そういうのを暇って言うんだろ」",
+      "en": "\"What Suginami said, basically.\"",
+      "text": "\"What Suginami said, basically.\""
+    },
+    {
+      "offset": 456,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並の後ろから顔を出した工藤が苦笑する。",
+      "en": "Right after Suginami came Kudou, smiling wryly.",
+      "text": "Right after Suginami came Kudou, smiling wryly."
+    },
+    {
+      "offset": 531,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「どうだ、朝倉？　久方ぶりに｛エアホッケー／肉弾戦｝といかん\n　か」",
+      "en": "\"Asakura, how about a game of air hockey? We haven't played\nthat in a long time.\"",
+      "text": "\"Asakura, how about a game of air hockey? We haven't played\nthat in a long time.\""
+    },
+    {
+      "offset": 605,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「｛エアホッケー／肉弾戦｝ねぇ」",
+      "en": "\"Air hockey, huh.\"",
+      "text": "\"Air hockey, huh.\""
+    },
+    {
+      "offset": 644,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "最近身体動かしてないからな〜。",
+      "en": "I don't feel like moving around a lot~.",
+      "text": "I don't feel like moving around a lot~."
+    },
+    {
+      "offset": 709,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「お、また『かったりぃ』が出るか？」",
+      "en": "\"Hmm, another \"how troublesome\" from you, I bet?\"",
+      "text": "\"Hmm, another \"how troublesome\" from you, I bet?\""
+    },
+    {
+      "offset": 752,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ニヤニヤと笑う杉並、俺は、なんだかよく分か\nらんが悔しい気持ちになって言い返した。",
+      "en": "Suginami grinned widely at me. His words somehow vexed me,\nand I decided to take up his offer.",
+      "text": "Suginami grinned widely at me. His words somehow vexed me,\nand I decided to take up his offer."
+    },
+    {
+      "offset": 840,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……誰が！　よし、受けてやろうじゃねーか」",
+      "en": "\"...No way! I accept your challenge.\"",
+      "text": "\"...No way! I accept your challenge.\""
+    },
+    {
+      "offset": 919,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「うむ、それでこそ｛おとこ／漢｝というものよ。工藤、公\n　平を期すためだ。ジャッジを頼むぞ」",
+      "en": "\"Mm, now that's more like a man! Kudou, you're a fair\nperson. I'd leave the judging to you.\"",
+      "text": "\"Mm, now that's more like a man! Kudou, you're a fair\nperson. I'd leave the judging to you.\""
+    },
+    {
+      "offset": 1045,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「は！？　お、俺が？」",
+      "en": "\"Hah!? M, me?\"",
+      "text": "\"Hah!? M, me?\""
+    },
+    {
+      "offset": 1074,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いきなり名指しで審判に抜擢された工藤が目を\nしばたかせる。",
+      "en": "Being appointed as judge rather abruptly, Kudou looked at us\nin surprise.",
+      "text": "Being appointed as judge rather abruptly, Kudou looked at us\nin surprise."
+    },
+    {
+      "offset": 1138,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そうだな、我ら共通の友人たるお前なら、厳\n　正に勝負を見張ってくれるだろう」",
+      "en": "\"Yeah, since you're a common friend, we can expect complete\nimpartiality from you.\"",
+      "text": "\"Yeah, since you're a common friend, we can expect complete\nimpartiality from you.\""
+    },
+    {
+      "offset": 1250,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「なんでそうなるかな……べつに、フツーに順\n　番で遊べばいいじゃないか。ゲームなんだし」",
+      "en": "\"Even so... it's just a game, why are you two so serious\nabout it?\"",
+      "text": "\"Even so... it's just a game, why are you two so serious\nabout it?\""
+    },
+    {
+      "offset": 1344,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちっちっち、と指を振る俺と杉並の仕草が見事\nにユニゾンする。",
+      "en": "Tsk tsk tsk, Suginami and I waved our fingers at Kudou in\nperfect unison.",
+      "text": "Tsk tsk tsk, Suginami and I waved our fingers at Kudou in\nperfect unison."
+    },
+    {
+      "offset": 1438,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「分かっとらんな。遊びに本気を出してこそ大\n　人の男というものだ」",
+      "en": "\"You don't understand. A true man treats everything he does\nseriously!\"",
+      "text": "\"You don't understand. A true man treats everything he does\nseriously!\""
+    },
+    {
+      "offset": 1510,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「そうとも！　なぁ、友よ」",
+      "en": "\"Indeed, my friend!\"",
+      "text": "\"Indeed, my friend!\""
+    },
+    {
+      "offset": 1543,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺と杉並はがしりと腕を組み合った。",
+      "en": "Our arms joined in unity.",
+      "text": "Our arms joined in unity."
+    },
+    {
+      "offset": 1612,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「はぁ……ユルいんだか熱いんだか。俺、未だ\n　にお前らがよく分からないよ」",
+      "en": "\"Haah... one time cool as ice, another hot-blooded. I'd\nnever understand you two.\"",
+      "text": "\"Haah... one time cool as ice, another hot-blooded. I'd\nnever understand you two.\""
+    },
+    {
+      "offset": 1692,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "困ったように溜息をつく工藤を引き摺るように\nして、俺達はゲーセンへと向かった。",
+      "en": "He released a long sigh as we dragged him to the game\ncenter.",
+      "text": "He released a long sigh as we dragged him to the game\ncenter."
+    },
+    {
+      "offset": 1903,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆｛エアホッケー／肉弾戦｝◆",
+      "en": "◆Air Hockey◆",
+      "text": "◆Air Hockey◆"
+    },
+    {
+      "offset": 1960,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並から｛エアホッケー／肉弾戦｝の勝負を持ちかけられた。",
+      "en": "Suginami challenged me to a battle of air hockey.",
+      "text": "Suginami challenged me to a battle of air hockey."
+    },
+    {
+      "offset": 2021,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "望むところである。",
+      "en": "As he wished.",
+      "text": "As he wished."
+    },
+    {
+      "offset": 2044,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、俺と杉並は強制的に審判に抜擢した工\n藤を、引き摺るように、｛ゲーセン／戦場｝へと向かったのだっ\nた。",
+      "en": "Once that was decided, we dragged Kudou along with us to the\ngame center, forcing him to be our judge.",
+      "text": "Once that was decided, we dragged Kudou along with us to the\ngame center, forcing him to be our judge."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "240": "Suginami",
+    "409": "Kudou",
+    "523": "Suginami",
+    "701": "Suginami",
+    "911": "Suginami",
+    "1037": "Kudou",
+    "1242": "Kudou",
+    "1430": "Suginami",
+    "1604": "Kudou"
+  }
+}

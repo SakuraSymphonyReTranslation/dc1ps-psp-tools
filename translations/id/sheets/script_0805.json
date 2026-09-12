@@ -1,0 +1,542 @@
+{
+  "scene": "script_0805.obj",
+  "dialogues": [
+    {
+      "offset": 220,
+      "speaker": "Newscaster",
+      "speaker_jp": "キャスター",
+      "jp": "『次は、枯れない桜の花が散ってしまうという、\n　ショッキングなニュースです』",
+      "en": "\"Next up, we have some shocking news on the unwithering\nsakura petals.\"",
+      "text": "\"Next up, we have some shocking news on the unwithering\nsakura petals.\""
+    },
+    {
+      "offset": 302,
+      "speaker": "Newscaster",
+      "speaker_jp": "キャスター",
+      "jp": "「……は？」",
+      "en": "\"...Huh?\"",
+      "text": "\"...Huh?\""
+    },
+    {
+      "offset": 321,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "耳を疑い、かぶりついたトーストをそのままに、\nテレビに目を向ける。",
+      "en": "My ears picked up at the words, as I turned away from my\ntoast and to the TV.",
+      "text": "My ears picked up at the words, as I turned away from my\ntoast and to the TV."
+    },
+    {
+      "offset": 410,
+      "speaker": "Newcaster",
+      "speaker_jp": "キャスター",
+      "jp": "『散らない桜が咲く島として有名な初音島で、\n　桜の木の花が散っているのが今朝、桜公園を\n　散歩していた男性によって発見されました』",
+      "en": "\"A man passing by the giant sakura tree has alerted us that\nthe giant sakura tree, famous in hatsunejima, has lost it's\npetals.\"",
+      "text": "\"A man passing by the giant sakura tree has alerted us that\nthe giant sakura tree, famous in hatsunejima, has lost it's\npetals.\""
+    },
+    {
+      "offset": 545,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……今度は、目も疑わなければならなくなった。\n残りは、正気か電波しかない。",
+      "en": "...I couldn't believe what I was hearing, but the news then\nbrought us a visual.",
+      "text": "...I couldn't believe what I was hearing, but the news then\nbrought us a visual."
+    },
+    {
+      "offset": 623,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見慣れた桜の大木。しかし、その姿は、まるで\n見慣れないものだった。",
+      "en": "It was the ever-present giant sakura tree. However, I was\nseeing it in a way I had never seen it before.",
+      "text": "It was the ever-present giant sakura tree. However, I was\nseeing it in a way I had never seen it before."
+    },
+    {
+      "offset": 693,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "花びらが、散ってしまっている。",
+      "en": "Shed of all it's petals.",
+      "text": "Shed of all it's petals."
+    },
+    {
+      "offset": 730,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そんな、バカな……」",
+      "en": "\"How can that be...\"",
+      "text": "\"How can that be...\""
+    },
+    {
+      "offset": 759,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "半ば呆然と呟く。",
+      "en": "I murmured in amazement.",
+      "text": "I murmured in amazement."
+    },
+    {
+      "offset": 794,
+      "speaker": "Newscaster",
+      "speaker_jp": "キャスター",
+      "jp": "『原因については現在、全く判っておらず、島\n　の研究機関が原因の調査を……』",
+      "en": "\"The reason for this is currently unknown, however, the\nisland's research centre are working on their\ninvestigation...\"",
+      "text": "\"The reason for this is currently unknown, however, the\nisland's research centre are working on their\ninvestigation...\""
+    },
+    {
+      "offset": 876,
+      "speaker": "Newscaster",
+      "speaker_jp": "キャスター",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 895,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "口調も変えず、ニュースキャスターは次の話題\nを提供する。",
+      "en": "With a sudden change of tone, the newcaster moved on to the\nnext news story.",
+      "text": "With a sudden change of tone, the newcaster moved on to the\nnext news story."
+    },
+    {
+      "offset": 957,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "パチンッ――。リモコンのスイッチを押した。",
+      "en": "I switched the television off with the remote control.",
+      "text": "I switched the television off with the remote control."
+    },
+    {
+      "offset": 1011,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……まあ、火山が噴火したわけでもなし、気\n　にしても仕方がないか」",
+      "en": "\"...Well, this isn't a volcanic eruption or something,\nshouldn't worry about something that's already happened.\"",
+      "text": "\"...Well, this isn't a volcanic eruption or something,\nshouldn't worry about something that's already happened.\""
+    },
+    {
+      "offset": 1085,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "というか、気にしたところで、何が出来るはず\nもない。",
+      "en": "Although I said that, a tiny part of me couldn't help\nworrying.",
+      "text": "Although I said that, a tiny part of me couldn't help\nworrying."
+    },
+    {
+      "offset": 1141,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "たとえ、世界で一番優秀な樹医だとしても、ど\nうしようもないんじゃないだろうか。",
+      "en": "After all, this isn't the world's biggest and most famous\nsakura tree for nothing.",
+      "text": "After all, this isn't the world's biggest and most famous\nsakura tree for nothing."
+    },
+    {
+      "offset": 1223,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あの桜は、ただの桜じゃない──なかった──\nのだから。",
+      "en": "Those sakura petals -- they aren't normal sakura petals.",
+      "text": "Those sakura petals -- they aren't normal sakura petals."
+    },
+    {
+      "offset": 1283,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……おっと。遅れる遅れる」",
+      "en": "\"...Whoa, I'm going to be late!\"",
+      "text": "\"...Whoa, I'm going to be late!\""
+    },
+    {
+      "offset": 1318,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "桜が枯れた事は、遅刻の理由にはならないだろ\nう。",
+      "en": "Koyomi-sensei won't exactly accept thought over the wilting\nsakura petals as an acceptable excuse for tardiness.",
+      "text": "Koyomi-sensei won't exactly accept thought over the wilting\nsakura petals as an acceptable excuse for tardiness."
+    },
+    {
+      "offset": 1415,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "前に後ろに、風見学園の学生達が歩いている。",
+      "en": "I walked to Kazami Academy, with it's students behind and in\nfront of me.",
+      "text": "I walked to Kazami Academy, with it's students behind and in\nfront of me."
+    },
+    {
+      "offset": 1462,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "時折耳に会話が飛び込んでくるのだが、その話\n題は決まって──。",
+      "en": "As I casually overheard some of their conversations, the\nsubject was obvious.",
+      "text": "As I casually overheard some of their conversations, the\nsubject was obvious."
+    },
+    {
+      "offset": 1540,
+      "speaker": "Female Student",
+      "speaker_jp": "女子学生",
+      "jp": "「ねえねえ、あの桜が枯れちゃったらしいよ。\n　信じられないよね〜」",
+      "en": "\"Hey, have you heard? Those sakura petals have withered...\nit's unbelievable!\"",
+      "text": "\"Hey, have you heard? Those sakura petals have withered...\nit's unbelievable!\""
+    },
+    {
+      "offset": 1612,
+      "speaker": "Female Student",
+      "speaker_jp": "女子学生",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 1631,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自分に置き換えてみればよく分かる。",
+      "en": "I knew exactly what she was feeling.",
+      "text": "I knew exactly what she was feeling."
+    },
+    {
+      "offset": 1670,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "誰だって、寝て覚めてみたら、丸坊主の自分を\n発見した──なんて状況、信じたくはないだろ\nう。",
+      "en": "Anyone who just woke up from sleep to see the sight of that\nbald giant sakura tree; it's nearly impossible to believe.",
+      "text": "Anyone who just woke up from sleep to see the sight of that\nbald giant sakura tree; it's nearly impossible to believe."
+    },
+    {
+      "offset": 1765,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "けど、今回の神の見えざるバリカンは、自分を\n標的にしたわけではないし、ましてや、元々が\n異常だったものを、正常へと正したのだ。",
+      "en": "But now, God had taken his scissors and returned what was an\nabnormality in the world back to normalcy.",
+      "text": "But now, God had taken his scissors and returned what was an\nabnormality in the world back to normalcy."
+    },
+    {
+      "offset": 1894,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなわけで──。",
+      "en": "And that's why--",
+      "text": "And that's why--"
+    },
+    {
+      "offset": 1929,
+      "speaker": "Male Student",
+      "speaker_jp": "男子学生",
+      "jp": "「ま、とうとうくたばったんだろ。負けた途端\n　老人になっちまった、最凶死刑囚みたいな？」",
+      "en": "\"Bah, no use talking about crap like that. It just finally\ngave up, that's all.\"",
+      "text": "\"Bah, no use talking about crap like that. It just finally\ngave up, that's all.\""
+    },
+    {
+      "offset": 2023,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "聞こえてくる声は、どれもこれも、楽しげで、\n無責任で、脳天気なものだった。",
+      "en": "The next voice I heard was a particularly uncaring one, full\nof self-enjoyment and irresponsibility.",
+      "text": "The next voice I heard was a particularly uncaring one, full\nof self-enjoyment and irresponsibility."
+    },
+    {
+      "offset": 2101,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、俺もその一員なんだけど。",
+      "en": "Well, I can't say I'm not like that sometimes either.",
+      "text": "Well, I can't say I'm not like that sometimes either."
+    },
+    {
+      "offset": 2205,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ、ことり、おはよっす」",
+      "en": "\"Ah, Kotori, morning.\"",
+      "text": "\"Ah, Kotori, morning.\""
+    },
+    {
+      "offset": 2251,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ……朝倉君。その……おはよう」",
+      "en": "\"Ah... Asakura-kun. Umm... good morning.\"",
+      "text": "\"Ah... Asakura-kun. Umm... good morning.\""
+    },
+    {
+      "offset": 2292,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「なあなあ、テレビ見た？　あの桜が枯れたっ\n　てさ」",
+      "en": "\"Did you see, on TV? The sakura petals have withered.\"",
+      "text": "\"Did you see, on TV? The sakura petals have withered.\""
+    },
+    {
+      "offset": 2363,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「う、うん……見たよ」",
+      "en": "\"Y, yeah... I saw.\"",
+      "text": "\"Y, yeah... I saw.\""
+    },
+    {
+      "offset": 2446,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「何か、びっくりだよな。あれが枯れるなんて。\n　物心ついた時から、ずっと咲いてたし」",
+      "en": "\"It's so surprising to see them all withered like that. In\nmy mind, I thought it would be blooming forever.\"",
+      "text": "\"It's so surprising to see them all withered like that. In\nmy mind, I thought it would be blooming forever.\""
+    },
+    {
+      "offset": 2549,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2618,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ま、あれだ。これで、来年の花見がぐっと楽\n　しみになったよな。はは……は？」",
+      "en": "\"Well, I guess this means we have to postpone any more\nflower-viewing sesssions for next year, haha...ha?\"",
+      "text": "\"Well, I guess this means we have to postpone any more\nflower-viewing sesssions for next year, haha...ha?\""
+    },
+    {
+      "offset": 2702,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2721,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうしたんだろう？　ことりの奴、ずっと浮か\nない顔してるけど……。",
+      "en": "What's happening? She's looking oddly depressed today...",
+      "text": "What's happening? She's looking oddly depressed today..."
+    },
+    {
+      "offset": 2793,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……ことり？」",
+      "en": "\"...Kotori?\"",
+      "text": "\"...Kotori?\""
+    },
+    {
+      "offset": 2829,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「え？」",
+      "en": "\"Eh?\"",
+      "text": "\"Eh?\""
+    },
+    {
+      "offset": 2844,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「どうしたんだよ？　元気ないように見えるけ\n　ど……頭痛か？」",
+      "en": "\"What's wrong? You're looking down... are you having a\nheadache again?\"",
+      "text": "\"What's wrong? You're looking down... are you having a\nheadache again?\""
+    },
+    {
+      "offset": 2912,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "前にことりは、頭痛持ちだって言っていた事が\nある。",
+      "en": "Remembering Kotori's problems with it before, I brought it\nup again as a possible reason.",
+      "text": "Remembering Kotori's problems with it before, I brought it\nup again as a possible reason."
+    },
+    {
+      "offset": 2981,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ううん……頭は、痛くない……」",
+      "en": "\"No... my head is fine...\"",
+      "text": "\"No... my head is fine...\""
+    },
+    {
+      "offset": 3020,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「じゃ、寝不足とか？」",
+      "en": "\"Lack of sleep, maybe?\"",
+      "text": "\"Lack of sleep, maybe?\""
+    },
+    {
+      "offset": 3062,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3111,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「なんでもないよ」",
+      "en": "\"No, that's not it...\"",
+      "text": "\"No, that's not it...\""
+    },
+    {
+      "offset": 3136,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりは緩く首を振った。",
+      "en": "Kotori slowly shook her head.",
+      "text": "Kotori slowly shook her head."
+    },
+    {
+      "offset": 3167,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なら、いいんだけど」",
+      "en": "\"Well then...\"",
+      "text": "\"Well then...\""
+    },
+    {
+      "offset": 3196,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「何かあった時は言ってくれよな」",
+      "en": "\"If you really have any problems, don't be afraid to tell\nme.\"",
+      "text": "\"If you really have any problems, don't be afraid to tell\nme.\""
+    },
+    {
+      "offset": 3235,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりは小さくうなずくのだった。",
+      "en": "Kotori gave me a slow, short nod.",
+      "text": "Kotori gave me a slow, short nod."
+    },
+    {
+      "offset": 3340,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「朝倉よ。俺は今、久方ぶりに身体を突き上げ\n　るような興奮を感じているぞ」",
+      "en": "\"Asakura. Right now, I feel the excitement of my body pushed\nup against yours.\"",
+      "text": "\"Asakura. Right now, I feel the excitement of my body pushed\nup against yours.\""
+    },
+    {
+      "offset": 3420,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「俺にそれを訴えなくていいぞ」",
+      "en": "\"Any more words and I'd file a lawsuit.\"",
+      "text": "\"Any more words and I'd file a lawsuit.\""
+    },
+    {
+      "offset": 3468,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「おお！　みなまで言わなくても、分かってく\n　れるのかお前は。さすが俺の友！」",
+      "en": "\"Ohh! Brilliant work my friend, you got my meaning the first\ntime!\"",
+      "text": "\"Ohh! Brilliant work my friend, you got my meaning the first\ntime!\""
+    },
+    {
+      "offset": 3564,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並は去っていった。",
+      "en": "Suginami left for his desk.",
+      "text": "Suginami left for his desk."
+    },
+    {
+      "offset": 3591,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……なんなんだ？　あいつは……」",
+      "en": "\"...What the hell's wrong with him?...\"",
+      "text": "\"...What the hell's wrong with him?...\""
+    },
+    {
+      "offset": 3632,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふと、ことりに視線を向けた。",
+      "en": "My mind quickly focused back on Kotori.",
+      "text": "My mind quickly focused back on Kotori."
+    },
+    {
+      "offset": 3665,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "席に着いたことりは、いつものように誰かと喋っ\nたりはしていなかった。",
+      "en": "She was just quietly sitting at her desk. Normally she'd be\nlively talking to our classmates at this time.",
+      "text": "She was just quietly sitting at her desk. Normally she'd be\nlively talking to our classmates at this time."
+    },
+    {
+      "offset": 3737,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "机に肘を突き、両手を額に押しつけて、じっと\n机に顔を向けている。表情は窺えない。",
+      "en": "Her elbows were on the desk, her two hands supporting her\nforehead. Her face stared straight into the desk,\nexpressionless.",
+      "text": "Her elbows were on the desk, her two hands supporting her\nforehead. Her face stared straight into the desk,\nexpressionless."
+    },
+    {
+      "offset": 3823,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3842,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうしたんだろうな、本当に。",
+      "en": "Really, what's wrong with her...?",
+      "text": "Really, what's wrong with her...?"
+    },
+    {
+      "offset": 3993,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆枯れた桜◆",
+      "en": "◆Withered Sakura Petals◆",
+      "text": "◆Withered Sakura Petals◆"
+    },
+    {
+      "offset": 4038,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "枯れない桜が枯れたらしい。マジか……？",
+      "en": "It seems like that unwithering sakura petals had, well,\nwithered. Was it true...?",
+      "text": "It seems like that unwithering sakura petals had, well,\nwithered. Was it true...?"
+    },
+    {
+      "offset": 4117,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかしそんな事とは関係なく学園はある。",
+      "en": "But that weird occurence had nothing to do with school.",
+      "text": "But that weird occurence had nothing to do with school."
+    },
+    {
+      "offset": 4197,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "教室に着く前ことりと会ったのだが、何故か元\n気がないようだった。頭痛だろうか……？",
+      "en": "I met Kotori in front of the classroom, but she seemed\ndepressed. Is she having a headache...?",
+      "text": "I met Kotori in front of the classroom, but she seemed\ndepressed. Is she having a headache...?"
+    }
+  ],
+  "choices": [],
+  "names": {
+    "206": "Newscaster",
+    "396": "Newcaster",
+    "780": "Newscaster",
+    "1528": "Female Student",
+    "1917": "Male Student",
+    "2241": "Kotori",
+    "2353": "Kotori",
+    "2539": "Kotori",
+    "2819": "Kotori",
+    "2971": "Kotori",
+    "3052": "Kotori",
+    "3101": "Kotori",
+    "3332": "Suginami",
+    "3460": "Suginami"
+  }
+}

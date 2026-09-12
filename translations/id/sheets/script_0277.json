@@ -1,0 +1,474 @@
+{
+  "scene": "script_0277.obj",
+  "dialogues": [
+    {
+      "offset": 145,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "渡り廊下を通って特別校舎の廊下を歩く。",
+      "en": "I walked through the breezeway that connected my school\nbuilding to the teachers' building.",
+      "text": "I walked through the breezeway that connected my school\nbuilding to the teachers' building."
+    },
+    {
+      "offset": 190,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「渡り廊下が全校舎と繋がっているのは、ほん\n　と便利だよな」",
+      "en": "\"These breezeways make getting to the other buildings so\neasy.\"",
+      "text": "\"These breezeways make getting to the other buildings so\neasy.\""
+    },
+    {
+      "offset": 256,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あの渡り廊下がなかったら、付属の１階に下り\nてから、特別校舎の屋上に行かなきゃならない。",
+      "en": "Without the breezeway, I'd have to go down to the first\nfloor of my building, go to the entrance to the teachers'\nbuilding, and then climb to the rooftop.",
+      "text": "Without the breezeway, I'd have to go down to the first\nfloor of my building, go to the entrance to the teachers'\nbuilding, and then climb to the rooftop."
+    },
+    {
+      "offset": 348,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩の暖かい手料理を食べるためとは言え、\nそんな大遠征はしないだろう。",
+      "en": "That would be too much trouble, even though I'd get to eat\nMoe-sempai's delicious home-cooked meal.",
+      "text": "That would be too much trouble, even though I'd get to eat\nMoe-sempai's delicious home-cooked meal."
+    },
+    {
+      "offset": 426,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「よっと……あれ？」",
+      "en": "\"......Huh?\"",
+      "text": "\"......Huh?\""
+    },
+    {
+      "offset": 453,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "特別校舎の階段を上り、４階に来たところで萌\n先輩と眞子の姿を見つけた。",
+      "en": "When I reached the fourth floor of the teachers' building, I\nfound Moe-sempai.",
+      "text": "When I reached the fourth floor of the teachers' building, I\nfound Moe-sempai."
+    },
+    {
+      "offset": 527,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふたりとも困惑した眼差しを階段の上に向け、\n突っ立っているがどうしたのだろう？",
+      "en": "She was standing alone and staring at the top of the stairs,\nwith a troubled expression in her eyes.",
+      "text": "She was standing alone and staring at the top of the stairs,\nwith a troubled expression in her eyes."
+    },
+    {
+      "offset": 611,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どうしたんです？」",
+      "en": "\"Sempai?\"",
+      "text": "\"Sempai?\""
+    },
+    {
+      "offset": 685,
+      "speaker": "Moe",
+      "speaker_jp": "眞子",
+      "jp": "「えっ？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 728,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あっ……朝倉くん……」",
+      "en": "\"Oh...... Asakura-kun......\"",
+      "text": "\"Oh...... Asakura-kun......\""
+    },
+    {
+      "offset": 776,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "緊張が和らいだかのように、頬が緩む。",
+      "en": "She smiled softly and gave a sigh of relief.",
+      "text": "She smiled softly and gave a sigh of relief."
+    },
+    {
+      "offset": 819,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そこになんかあるの？」",
+      "en": "\"Is there something up there?\"",
+      "text": "\"Is there something up there?\""
+    },
+    {
+      "offset": 850,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "上を見るが、別に屋上へ続く階段が封鎖されて\nいるわけでもなさそうだ。",
+      "en": "I looked up the stairs, but nothing seemed to be different.",
+      "text": "I looked up the stairs, but nothing seemed to be different."
+    },
+    {
+      "offset": 950,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「それが……」",
+      "en": "\"Well......\"",
+      "text": "\"Well......\""
+    },
+    {
+      "offset": 982,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あれよ、あれ」",
+      "en": "She trailed off and looked up again.",
+      "text": "She trailed off and looked up again."
+    },
+    {
+      "offset": 1005,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言って、ふたりがまた上のほうを見上げる。",
+      "en": "\"?\"",
+      "text": "\"?\""
+    },
+    {
+      "offset": 1056,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「？」",
+      "en": "I also looked upward toward the stairs. This time, I\nfollowed her eyes.",
+      "text": "I also looked upward toward the stairs. This time, I\nfollowed her eyes."
+    },
+    {
+      "offset": 1069,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺も、もう一度階段を見上げた。今度はふたり\nの視線の先を探る。",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1135,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "視線の先に、こげ茶色の物体があった。",
+      "en": "There was a dark brown object.",
+      "text": "There was a dark brown object."
+    },
+    {
+      "offset": 1178,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（ゴミ？）",
+      "en": "(Is that garbage?)",
+      "text": "(Is that garbage?)"
+    },
+    {
+      "offset": 1195,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう俺が思った瞬間、そいつがゴソゴソっと動\nいた。",
+      "en": "At that moment, the object suddenly moved.",
+      "text": "At that moment, the object suddenly moved."
+    },
+    {
+      "offset": 1251,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1270,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "足が８本ある生物……。",
+      "en": "A creature with eight legs......",
+      "text": "A creature with eight legs......"
+    },
+    {
+      "offset": 1299,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「クモ――？」",
+      "en": "\"Is that...... a spider?\"",
+      "text": "\"Is that...... a spider?\""
+    },
+    {
+      "offset": 1329,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「は、はい……」",
+      "en": "\"Y, yes......\"",
+      "text": "\"Y, yes......\""
+    },
+    {
+      "offset": 1413,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだ……。",
+      "en": "Oh......",
+      "text": "Oh......"
+    },
+    {
+      "offset": 1432,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「もしかして、ふたりともクモ、だめなの？」",
+      "en": "\"Are you afraid of spiders or something?\"",
+      "text": "\"Are you afraid of spiders or something?\""
+    },
+    {
+      "offset": 1507,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい……虫は苦手なんです」",
+      "en": "\"Yes...... I'm afraid of bugs......\"",
+      "text": "\"Yes...... I'm afraid of bugs......\""
+    },
+    {
+      "offset": 1570,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「当たり前じゃない」",
+      "en": "\"Oh...... I didn't know that.\"",
+      "text": "\"Oh...... I didn't know that.\""
+    },
+    {
+      "offset": 1597,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「萌先輩はともかく、眞子は意外だ」",
+      "en": "I'm surprised. I thought she was always calm and never\nafraid of anything.",
+      "text": "I'm surprised. I thought she was always calm and never\nafraid of anything."
+    },
+    {
+      "offset": 1863,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やっぱ女の子だな。ふたりとも。",
+      "en": "Looks like she's a girl after all.",
+      "text": "Looks like she's a girl after all."
+    },
+    {
+      "offset": 1900,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「じゃあ、ちょっと待ってて。俺がなんとかし\n　ますから」",
+      "en": "\"Wait here for a second. I'll take care of it.\"",
+      "text": "\"Wait here for a second. I'll take care of it.\""
+    },
+    {
+      "offset": 1988,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あ、はい」",
+      "en": "\"Ah, okay.\"",
+      "text": "\"Ah, okay.\""
+    },
+    {
+      "offset": 2019,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "近くの特別教室に入り、掃除用具入れから、ホ\nウキを持ち出して階段に戻る。",
+      "en": "I went inside a nearby classroom, and got the broom from the\nlocker.",
+      "text": "I went inside a nearby classroom, and got the broom from the\nlocker."
+    },
+    {
+      "offset": 2109,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（そーっと……そーっと……）",
+      "en": "(Creep...... creep......)",
+      "text": "(Creep...... creep......)"
+    },
+    {
+      "offset": 2144,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "足音を忍ばせ、１段ずつ階段を上る。",
+      "en": "With stealthy movement, I carefully climbed the stairs.",
+      "text": "With stealthy movement, I carefully climbed the stairs."
+    },
+    {
+      "offset": 2185,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（……………………）",
+      "en": "(........................)",
+      "text": "(........................)"
+    },
+    {
+      "offset": 2212,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（…………）",
+      "en": "(............)",
+      "text": "(............)"
+    },
+    {
+      "offset": 2231,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あと１メートル……。",
+      "en": "I'm 1 meter away......",
+      "text": "I'm 1 meter away......"
+    },
+    {
+      "offset": 2258,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（……）",
+      "en": "(......)",
+      "text": "(......)"
+    },
+    {
+      "offset": 2273,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そっと、対象物の目の前にホウキの毛を持って\nいく。",
+      "en": "I slowly brought the broom in front of the target.",
+      "text": "I slowly brought the broom in front of the target."
+    },
+    {
+      "offset": 2327,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思惑通りホウキの上に乗って来たクモをつれて、\n階段の踊場まで行く。",
+      "en": "As I expected, the spider walked up to the broom, and I took\nhim to the end of the stairway.",
+      "text": "As I expected, the spider walked up to the broom, and I took\nhim to the end of the stairway."
+    },
+    {
+      "offset": 2399,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「よっと」",
+      "en": "\"There.\"",
+      "text": "\"There.\""
+    },
+    {
+      "offset": 2416,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ホウキを窓の外に突き出し、くるりと手を捻る。",
+      "en": "I stuck the broom outside the window and turned it down.",
+      "text": "I stuck the broom outside the window and turned it down."
+    },
+    {
+      "offset": 2467,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「達者でな」",
+      "en": "\"Farewell!\"",
+      "text": "\"Farewell!\""
+    },
+    {
+      "offset": 2505,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふぅ……ふたりとも、もう大丈夫だよ」",
+      "en": "\"Moe-sempai...... You're safe now.\"",
+      "text": "\"Moe-sempai...... You're safe now.\""
+    },
+    {
+      "offset": 2595,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「ありがとうございます。凄いです、朝倉くん」",
+      "en": "\"Thank you very much. You're amazing, Asakura-kun!\"",
+      "text": "\"Thank you very much. You're amazing, Asakura-kun!\""
+    },
+    {
+      "offset": 2661,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "別にたいしたことでもないけど、ちょっと嬉し\nい。",
+      "en": "\"No problem.\"",
+      "text": "\"No problem.\""
+    },
+    {
+      "offset": 2794,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "褒めているようには聞こえないぞ、こら。",
+      "en": "It's not a big deal, but I felt a little proud.",
+      "text": "It's not a big deal, but I felt a little proud."
+    },
+    {
+      "offset": 2839,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「じゃあ、行きましょうか」",
+      "en": "\"Shall we go now?\"",
+      "text": "\"Shall we go now?\""
+    },
+    {
+      "offset": 2881,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 2896,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ホウキを元に戻して屋上に上がる。",
+      "en": "I returned the broom and went up to the rooftop.",
+      "text": "I returned the broom and went up to the rooftop."
+    },
+    {
+      "offset": 2933,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日の鍋は、いつもよりもちょっとだけ美味し\nく感じられそうな気がした。",
+      "en": "I think the hot pot will taste even better today.",
+      "text": "I think the hot pot will taste even better today."
+    },
+    {
+      "offset": 3129,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆クモが苦手◆",
+      "en": "◆Afraid of spiders◆",
+      "text": "◆Afraid of spiders◆"
+    },
+    {
+      "offset": 3172,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鍋をごちそうになろうと屋上へ向かっていると、\n萌先輩に出会った。",
+      "en": "I bumped into Moe-sempai as I was heading toward the roof\ntop to get some lunch.",
+      "text": "I bumped into Moe-sempai as I was heading toward the roof\ntop to get some lunch."
+    },
+    {
+      "offset": 3240,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "階段の下に立ち、屋上へと向かう先を見て、困\n惑の表情を浮かべる萌先輩。と、そこには、ク\nモが居た。",
+      "en": "She was looking up at the stairs with a troubled expression\non her face. There was a spider up ahead on the stairs.",
+      "text": "She was looking up at the stairs with a troubled expression\non her face. There was a spider up ahead on the stairs."
+    },
+    {
+      "offset": 3341,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、そのクモを校舎の外に逃がしてやったの\nだった。",
+      "en": "I led the spider out of the building.",
+      "text": "I led the spider out of the building."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "677": "Moe",
+    "722": "Moe",
+    "944": "Moe",
+    "974": "Mako",
+    "1323": "Moe",
+    "1501": "Moe",
+    "1562": "Mako",
+    "1982": "Moe",
+    "2589": "Moe",
+    "2875": "Moe"
+  }
+}

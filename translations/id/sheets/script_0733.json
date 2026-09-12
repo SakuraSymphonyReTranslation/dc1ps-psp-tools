@@ -1,0 +1,466 @@
+{
+  "scene": "script_0733.obj",
+  "dialogues": [
+    {
+      "offset": 211,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "半ドンの放課後。",
+      "en": "It's after school on a half-day.",
+      "text": "It's after school on a half-day."
+    },
+    {
+      "offset": 232,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺達３人は商店街の茶屋に集まり、さくらの無\n実を証明するための会議をすることになった。",
+      "en": "The three of us met at a cafeteria to talk about how to\nprove Sakura's innocent.",
+      "text": "The three of us met at a cafeteria to talk about how to\nprove Sakura's innocent."
+    },
+    {
+      "offset": 407,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「さて――」",
+      "en": "\"Now...\"",
+      "text": "\"Now...\""
+    },
+    {
+      "offset": 426,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "異様な文字の書かれた画用紙をしまって、杉並\nが頷く。",
+      "en": "Suginami nods and puts away a piece of notepaper with weird\nthings written on it.",
+      "text": "Suginami nods and puts away a piece of notepaper with weird\nthings written on it."
+    },
+    {
+      "offset": 484,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ちょっと待て杉並……さくら｛・・・／ちゃん｝、ってな\n　んだ？」",
+      "en": "\"Wait a second, Suginami. What's 'Sakura-chan' about?\"",
+      "text": "\"Wait a second, Suginami. What's 'Sakura-chan' about?\""
+    },
+    {
+      "offset": 567,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「こういうのは雰囲気が大切だからな。徹夜の\n　すえの傑作だ」",
+      "en": "\"It's all about the atmosphere. It was a masterpiece created\nin an all-night vigil.\"",
+      "text": "\"It's all about the atmosphere. It was a masterpiece created\nin an all-night vigil.\""
+    },
+    {
+      "offset": 668,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「すいません、桜餅のセット３つくださ〜い♪」",
+      "en": "\"Excuse me, can I have three sets of cherry rice cake?\"",
+      "text": "\"Excuse me, can I have three sets of cherry rice cake?\""
+    },
+    {
+      "offset": 719,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……はぁ」",
+      "en": "\"Huhh...\"",
+      "text": "\"Huhh...\""
+    },
+    {
+      "offset": 768,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ため息をついて空を見上げる。",
+      "en": "I sigh and look up at the sky.",
+      "text": "I sigh and look up at the sky."
+    },
+    {
+      "offset": 801,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まったくもって、だるいの極地に到達しそうだ。",
+      "en": "This is an ultimate tiring situation for me.",
+      "text": "This is an ultimate tiring situation for me."
+    },
+    {
+      "offset": 909,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "よくなんとか３人組とかあるが、このメンバー\nは、ボケとかツッコミを超えた理解不能の構成\nなのだろう。",
+      "en": "I know a group of three is a classic comedy setup, but I\nbelieve this one is beyond a joke. Perhaps we can be an\nincomprehensible group.",
+      "text": "I know a group of three is a classic comedy setup, but I\nbelieve this one is beyond a joke. Perhaps we can be an\nincomprehensible group."
+    },
+    {
+      "offset": 1014,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、あれから３日かけて、考えてきた作戦の\n　発表だろうが」",
+      "en": "\"Anyway, this is the time to show our strategy after three\ndays of thinking.\"",
+      "text": "\"Anyway, this is the time to show our strategy after three\ndays of thinking.\""
+    },
+    {
+      "offset": 1108,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「あぁ、その件だが――」",
+      "en": "\"Yeah, about the issue...\"",
+      "text": "\"Yeah, about the issue...\""
+    },
+    {
+      "offset": 1139,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お品書きを開きながら、杉並がことりに目配せ\nする。",
+      "en": "Opening the list, Suginami gives Kotori a significant look.",
+      "text": "Opening the list, Suginami gives Kotori a significant look."
+    },
+    {
+      "offset": 1225,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あのね、時間もないし、適任の仕事を３人で\n　役割分担しようと思うの」",
+      "en": "\"You know what? We don't have much time, so we should share\nthe roles.\"",
+      "text": "\"You know what? We don't have much time, so we should share\nthe roles.\""
+    },
+    {
+      "offset": 1301,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「役割分担？」",
+      "en": "\"Share the roles?\"",
+      "text": "\"Share the roles?\""
+    },
+    {
+      "offset": 1352,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「うん。私が事件と関係のある人への聞き込み\n　を、杉並くんが学園のデータを調べるの」",
+      "en": "\"Yeah. I interview people who've been involved in the\nincidents, and Suginami checks the school database.\"",
+      "text": "\"Yeah. I interview people who've been involved in the\nincidents, and Suginami checks the school database.\""
+    },
+    {
+      "offset": 1442,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「まぁ、妥当なところか」",
+      "en": "\"Well, I think it's reasonable.\"",
+      "text": "\"Well, I think it's reasonable.\""
+    },
+    {
+      "offset": 1473,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "緑茶をすすりながら考える。",
+      "en": "I think about it while sipping green tea.",
+      "text": "I think about it while sipping green tea."
+    },
+    {
+      "offset": 1504,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりは人受けがいいし、逆に杉並を対人関係\nの仕事に就かせるのは自爆行為だ。",
+      "en": "Kotori's very friendly with people, so that role is perfect\nfor her, and we don't want to give this job to Suginami,\nwho's not good at human relations.",
+      "text": "Kotori's very friendly with people, so that role is perfect\nfor her, and we don't want to give this job to Suginami,\nwho's not good at human relations."
+    },
+    {
+      "offset": 1584,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "となると、自然と単独行動になるわけだ。",
+      "en": "That means I act all by myself.",
+      "text": "That means I act all by myself."
+    },
+    {
+      "offset": 1629,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺は？　あんまり得意なことはないけど、こ\n　とりの手伝いでもしようか？」",
+      "en": "\"How about me? I don't have many skills, but I want to\nsupport her somehow.\"",
+      "text": "\"How about me? I don't have many skills, but I want to\nsupport her somehow.\""
+    },
+    {
+      "offset": 1737,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「お前には、重要な仕事を残しておいた……く\n　くく」",
+      "en": "\"I have the most important job for you, heh heh heh.\"",
+      "text": "\"I have the most important job for you, heh heh heh.\""
+    },
+    {
+      "offset": 1795,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『スーパー納豆あんみつ　３０００円（税抜）』\nで指を止めたまま、杉並が嫌な笑いを浮かべる。",
+      "en": "'Super sweet fermented-beans parfait, 3000 yen, no tax'.\nSuginami gives a creepy grin with still fingers.",
+      "text": "'Super sweet fermented-beans parfait, 3000 yen, no tax'.\nSuginami gives a creepy grin with still fingers."
+    },
+    {
+      "offset": 1891,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「電話番とかだとすごく嬉しいんだけどな……」",
+      "en": "\"It'd be great if I could be on phone duty...\"",
+      "text": "\"It'd be great if I could be on phone duty...\""
+    },
+    {
+      "offset": 1942,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言うだけ言ってみて、無理だと悟る。",
+      "en": "I say all I can think of, but then discover it's a futile\nrequest.",
+      "text": "I say all I can think of, but then discover it's a futile\nrequest."
+    },
+    {
+      "offset": 2013,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「朝倉君には、なるべく芳乃さんと一緒にいて\n　欲しいの」",
+      "en": "\"I want you to hang around Yoshino-san as much as you can.\"",
+      "text": "\"I want you to hang around Yoshino-san as much as you can.\""
+    },
+    {
+      "offset": 2075,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「護衛……って言うか、見張りか」",
+      "en": "\"I'm a bodyguard or a kind of lookout, huh?\"",
+      "text": "\"I'm a bodyguard or a kind of lookout, huh?\""
+    },
+    {
+      "offset": 2114,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なにか事件があったときに、最低でもさくらと\n俺が一緒にいれば保険にはなるか。",
+      "en": "In case something happens to her, I can protect her at\nleast.",
+      "text": "In case something happens to her, I can protect her at\nleast."
+    },
+    {
+      "offset": 2226,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「適材適所なんだよ」",
+      "en": "\"Placing the right person in the right place.\"",
+      "text": "\"Placing the right person in the right place.\""
+    },
+    {
+      "offset": 2253,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「分かったよ。まぁ、誰かがさくら自身を見守っ\n　ててやらんとな」",
+      "en": "\"Okay, I got it. In any case, somebody has to watch over\nher, right?\"",
+      "text": "\"Okay, I got it. In any case, somebody has to watch over\nher, right?\""
+    },
+    {
+      "offset": 2353,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ん、なんか嬉しそうね？」",
+      "en": "\"Hm, you look so happy.\"",
+      "text": "\"Hm, you look so happy.\""
+    },
+    {
+      "offset": 2386,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そうか？」",
+      "en": "\"Do I?\"",
+      "text": "\"Do I?\""
+    },
+    {
+      "offset": 2405,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頬杖をついて湯飲みを口にくわえる。",
+      "en": "Resting my chin in my hand, I hold the teacup with my mouth.",
+      "text": "Resting my chin in my hand, I hold the teacup with my mouth."
+    },
+    {
+      "offset": 2476,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ふふふ……じゃ、そういうことで第一回目の\n　会議を終了します」",
+      "en": "\"Heehee... This is all for the first meeting.\"",
+      "text": "\"Heehee... This is all for the first meeting.\""
+    },
+    {
+      "offset": 2574,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「出来ればベッドの中まで守って尽くして――\n　ぶっ！？」",
+      "en": "\"If you can, you could protect her all the way inside her\nbed - Guhh!\"",
+      "text": "\"If you can, you could protect her all the way inside her\nbed - Guhh!\""
+    },
+    {
+      "offset": 2645,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢直伝の裏拳を杉並にぶちこんで、ことりに\n詰め寄る。",
+      "en": "I give him a punch that I learned from Nemu and walk over to\nKotori.",
+      "text": "I give him a punch that I learned from Nemu and walk over to\nKotori."
+    },
+    {
+      "offset": 2705,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「終わりって、まだ役職だけしか決めてないの\n　に？　杉並がこの前もらってたプリントは？」",
+      "en": "\"All we're doing today is assigning roles? What about the\nbatch of copies Suginami got yesterday?\"",
+      "text": "\"All we're doing today is assigning roles? What about the\nbatch of copies Suginami got yesterday?\""
+    },
+    {
+      "offset": 2829,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あのね。朝倉君やさしいから、余計な情報\n　を知っちゃってると顔に出ちゃいそうだっ\n　て……そのあたりは杉並君と私でやるから」",
+      "en": "\"Listen. We're worried that you're too nice, so you might\nshow some concerns on your face if we give you too much\ninformation. Don't worry about the papers, Suginami and I\nwill handle it.\"",
+      "text": "\"Listen. We're worried that you're too nice, so you might\nshow some concerns on your face if we give you too much\ninformation. Don't worry about the papers, Suginami and I\nwill handle it.\""
+    },
+    {
+      "offset": 2960,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "両手のひらを合わせながら、ことりがごめんね、\nと舌をだす。",
+      "en": "Kotori sticks her tongue out saying sorry, and puts her\nhands together in an apologetic gesture.",
+      "text": "Kotori sticks her tongue out saying sorry, and puts her\nhands together in an apologetic gesture."
+    },
+    {
+      "offset": 3057,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「まぁ、いざとなったら、夜道でストッキング\n　でもかぶって尾行を――ぐっ！？」",
+      "en": "\"Well, in case of emergency, you put a stocking on your head\nand follow her.\"",
+      "text": "\"Well, in case of emergency, you put a stocking on your head\nand follow her.\""
+    },
+    {
+      "offset": 3150,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "足を踏んづけて頭の下がったところに、ショー\nトアッパーを打ち込む。",
+      "en": "I step on his foot first, then I give an uppercut to his\nchin when he looks down.",
+      "text": "I step on his foot first, then I give an uppercut to his\nchin when he looks down."
+    },
+    {
+      "offset": 3222,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「分かった。じゃあ、なにか用事があったとき\n　だけお互いに連絡をするってことだな」",
+      "en": "\"Okay. We contact each other only when we need to, right?\"",
+      "text": "\"Okay. We contact each other only when we need to, right?\""
+    },
+    {
+      "offset": 3340,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「うん」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 3355,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぎゅっ、と両の拳を握り締めてことりが俺を見\n上げる。",
+      "en": "Making a determined fist with both hands, Kotori looks up at\nme.",
+      "text": "Making a determined fist with both hands, Kotori looks up at\nme."
+    },
+    {
+      "offset": 3443,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「がんば♪」",
+      "en": "\"Let's do it!\"",
+      "text": "\"Let's do it!\""
+    },
+    {
+      "offset": 3462,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「気張っちゃいけないんだろ？」",
+      "en": "\"I mustn't put in too much effort, right?\"",
+      "text": "\"I mustn't put in too much effort, right?\""
+    },
+    {
+      "offset": 3529,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、そうでした」",
+      "en": "\"Oh, you're right.\"",
+      "text": "\"Oh, you're right.\""
+    },
+    {
+      "offset": 3554,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふたりで顔を見合わせて苦笑いを浮かべる。",
+      "en": "We look at each other and exchange wry smiles.",
+      "text": "We look at each other and exchange wry smiles."
+    },
+    {
+      "offset": 3601,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「それじゃあ、俺はさっそく行動を開始するわ」",
+      "en": "\"Well, I'll get going.\"",
+      "text": "\"Well, I'll get going.\""
+    },
+    {
+      "offset": 3663,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「青春だ……ぐっ！？」",
+      "en": "\"Blossom of youth!!\"",
+      "text": "\"Blossom of youth!!\""
+    },
+    {
+      "offset": 3692,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "長机を支えに立ち上がろうとした物体を踏み潰\nして、俺は帰路についた。",
+      "en": "I stand up from the long table and head home.",
+      "text": "I stand up from the long table and head home."
+    },
+    {
+      "offset": 3890,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆さくら先生を助ける会◆",
+      "en": "◆The committee to save Sakura-sensei◆",
+      "text": "◆The committee to save Sakura-sensei◆"
+    },
+    {
+      "offset": 3951,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "半ドンの土曜日、茶屋でことりや杉並と一緒に、\nさくらを助ける案を練る。",
+      "en": "In a half-day on Saturday, I discussed ideas for saving\nSakura with Suginami and Kotori at the cafeteria.",
+      "text": "In a half-day on Saturday, I discussed ideas for saving\nSakura with Suginami and Kotori at the cafeteria."
+    },
+    {
+      "offset": 4025,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あまり思い切ったことは出来ないが、アリバイ\nや本人を見張る意味をこめて、俺の仕事はさく\nらを一日中監視することになった。",
+      "en": "I was given the job to monitor Sakura all day long as a\nbodyguard to establish her alibi.",
+      "text": "I was given the job to monitor Sakura all day long as a\nbodyguard to establish her alibi."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "399": "Suginami",
+    "559": "Suginami",
+    "658": "Kotori",
+    "1100": "Suginami",
+    "1215": "Kotori",
+    "1342": "Kotori",
+    "1729": "Suginami",
+    "2003": "Kotori",
+    "2216": "Kotori",
+    "2343": "Kotori",
+    "2466": "Kotori",
+    "2566": "Suginami",
+    "2819": "Kotori",
+    "3049": "Suginami",
+    "3330": "Kotori",
+    "3433": "Kotori",
+    "3519": "Kotori",
+    "3655": "Suginami"
+  }
+}

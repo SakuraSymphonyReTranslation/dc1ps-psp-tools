@@ -1,0 +1,504 @@
+{
+  "scene": "script_0057.obj",
+  "dialogues": [
+    {
+      "offset": 157,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "不必要に騒がしかった１日も終わり、晴れて学\n園という名の｛おり／檻｝から解放される。",
+      "en": "An exhausting day is finally over, and I'm released from the\njail called school.",
+      "text": "An exhausting day is finally over, and I'm released from the\njail called school."
+    },
+    {
+      "offset": 247,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あぁ、疲れた」",
+      "en": "\"Oh, I'm so exhausted.\"",
+      "text": "\"Oh, I'm so exhausted.\""
+    },
+    {
+      "offset": 270,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "背伸びしてから、そのまま肩を落とす。",
+      "en": "I stretch my body, then my shoulders droop.",
+      "text": "I stretch my body, then my shoulders droop."
+    },
+    {
+      "offset": 311,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんかどたばたと落ち着かない日だったな……。",
+      "en": "What a busy day it's been.",
+      "text": "What a busy day it's been."
+    },
+    {
+      "offset": 362,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……しかし、ひとりで下校ってのも悲しい」",
+      "en": "\"But it's kinda sad to go home alone.\"",
+      "text": "\"But it's kinda sad to go home alone.\""
+    },
+    {
+      "offset": 411,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "かったるいなぁと、もたもたしているうちに、\n同じ方向に帰るやつは、あらかた消えていた。",
+      "en": "While I've been plodding along exhaustedly, everybody who's\ngoing in my direction has already gone.",
+      "text": "While I've been plodding along exhaustedly, everybody who's\ngoing in my direction has already gone."
+    },
+    {
+      "offset": 501,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢もせっかく同じクラスになったのに、恥ず\nかしがって先に帰っちゃうし……。",
+      "en": "I'm in the same class as Nemu now, but she went home by\nherself, feeling embarrassed to go home with me.",
+      "text": "I'm in the same class as Nemu now, but she went home by\nherself, feeling embarrassed to go home with me."
+    },
+    {
+      "offset": 583,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まぁ、確か今日は好きなドラマの再放送だと\n　か言ってたからそれだろうけど」",
+      "en": "\"Well, she said her favorite TV drama was on today, so she\nhad to, I guess.\"",
+      "text": "\"Well, she said her favorite TV drama was on today, so she\nhad to, I guess.\""
+    },
+    {
+      "offset": 665,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ひとりならひとりらしく、ゆっくりとした歩調\nでグラウンドを縦断して校門を出る。",
+      "en": "I cross the field at a steady pace and walk out of the\nschool gate, all alone.",
+      "text": "I cross the field at a steady pace and walk out of the\nschool gate, all alone."
+    },
+    {
+      "offset": 812,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「お兄ちゃ〜ん！」",
+      "en": "\"Oniichan~!\"",
+      "text": "\"Oniichan~!\""
+    },
+    {
+      "offset": 837,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あぁ……忘れてた」",
+      "en": "\"Oh, I forgot about her.\"",
+      "text": "\"Oh, I forgot about her.\""
+    },
+    {
+      "offset": 864,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "振り返ってひょこひょこ、と揺れる髪をみつけ\nて、帰宅の方向が同じやつが増えたのを思い出\nした。",
+      "en": "Turning around, I see the swinging hair that reminds me of\none person I can go home with.",
+      "text": "Turning around, I see the swinging hair that reminds me of\none person I can go home with."
+    },
+    {
+      "offset": 961,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "駆け寄ってくるさくらを待つ。",
+      "en": "I wait for Sakura as she runs toward me.",
+      "text": "I wait for Sakura as she runs toward me."
+    },
+    {
+      "offset": 1031,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「｛はい／Ｈｉ｝♪　これからお帰り？」",
+      "en": "\"Hi! Are you going home now?\"",
+      "text": "\"Hi! Are you going home now?\""
+    },
+    {
+      "offset": 1076,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "満面の笑みが俺を見上げる。",
+      "en": "She beams up at me.",
+      "text": "She beams up at me."
+    },
+    {
+      "offset": 1109,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あぁ。お前も遅かったな」",
+      "en": "\"Oh, I didn't know you were still here.\"",
+      "text": "\"Oh, I didn't know you were still here.\""
+    },
+    {
+      "offset": 1172,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「まだ転入の手続きとかあったし、色々な人に\n　引き止められてたから」",
+      "en": "\"I had some things to do in the transfer procedure, and then\npeople held me up for a chat.\"",
+      "text": "\"I had some things to do in the transfer procedure, and then\npeople held me up for a chat.\""
+    },
+    {
+      "offset": 1246,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そりゃまた、人気者だな」",
+      "en": "\"Oh man, you must be very popular.\"",
+      "text": "\"Oh man, you must be very popular.\""
+    },
+    {
+      "offset": 1309,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「う〜ん。でも、みんなして食べ物もってきた\n　り、頭をなでてくるから髪が乱れてちと困る\n　……」",
+      "en": "\"Well, everybody brought me some kind of food, and stroked\nmy head so that my hair got messy.\"",
+      "text": "\"Well, everybody brought me some kind of food, and stroked\nmy head so that my hair got messy.\""
+    },
+    {
+      "offset": 1410,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "わたわた、とさくらが頭をなでる。",
+      "en": "She fixes her hair.",
+      "text": "She fixes her hair."
+    },
+    {
+      "offset": 1447,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それは、マスコットか珍獣の人気に近い気もす\nるぞ俺は……。",
+      "en": "It sounds like she's popular the way a mascot or an exotic\nanimal would be.",
+      "text": "It sounds like she's popular the way a mascot or an exotic\nanimal would be."
+    },
+    {
+      "offset": 1511,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、もう帰るんだよな？」",
+      "en": "\"Are you going home now?\"",
+      "text": "\"Are you going home now?\""
+    },
+    {
+      "offset": 1574,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「イエス。お兄ちゃん一緒に帰ろう♪」",
+      "en": "\"Yes. Let's go home together, oniichan.\"",
+      "text": "\"Yes. Let's go home together, oniichan.\""
+    },
+    {
+      "offset": 1617,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「どのみち家の方向が同じだろうが」",
+      "en": "\"You know we're going the same direction.\"",
+      "text": "\"You know we're going the same direction.\""
+    },
+    {
+      "offset": 1658,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぶっきらぼうに言って、｛あくび／欠伸｝をこらえながら歩\nき出す。",
+      "en": "After I replied bluntly, I start walking, trying to keep\nfrom yawning.",
+      "text": "After I replied bluntly, I start walking, trying to keep\nfrom yawning."
+    },
+    {
+      "offset": 1798,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あはははは」",
+      "en": "\"Ahahaha...\"",
+      "text": "\"Ahahaha...\""
+    },
+    {
+      "offset": 1819,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「なんだ急に気持ち悪いな……」",
+      "en": "\"What? Don't laugh at me.\"",
+      "text": "\"What? Don't laugh at me.\""
+    },
+    {
+      "offset": 1891,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「いや、変わってないから。そのめんどくさそ\n　うな歩き方とか」",
+      "en": "\"It's just, you haven't changed at all. Like the tired way\nyou walk.\"",
+      "text": "\"It's just, you haven't changed at all. Like the tired way\nyou walk.\""
+    },
+    {
+      "offset": 1959,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そうか？」",
+      "en": "\"Really?\"",
+      "text": "\"Really?\""
+    },
+    {
+      "offset": 1978,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんとなく足元を見つめるが、自分の歩き方な\nんて覚えてないぞ。",
+      "en": "I look at my steps, but how do I remember the way I walked\nbefore?",
+      "text": "I look at my steps, but how do I remember the way I walked\nbefore?"
+    },
+    {
+      "offset": 2076,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「こんなだよ」",
+      "en": "\"You walk like this.\"",
+      "text": "\"You walk like this.\""
+    },
+    {
+      "offset": 2097,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の真似なのか、背中を丸めて、気だるそうに\nさくらが隣を歩く。",
+      "en": "Sakura imitates me by walking along hunching her back,\nlooking tired.",
+      "text": "Sakura imitates me by walking along hunching her back,\nlooking tired."
+    },
+    {
+      "offset": 2195,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「――って、微妙に猫背だよね？」",
+      "en": "\"It's subtly hunchback, isn't it?\"",
+      "text": "\"It's subtly hunchback, isn't it?\""
+    },
+    {
+      "offset": 2234,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……子供の頃、お前がずっと背中に張り付い\n　ていたから曲がっちまったんだよ」",
+      "en": "\"When you were little, I used to carry you around on my\nback. That's why I got a hunchback.\"",
+      "text": "\"When you were little, I used to carry you around on my\nback. That's why I got a hunchback.\""
+    },
+    {
+      "offset": 2348,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うわっ！　なにそれ！？」",
+      "en": "\"Whoa! What do you mean?\"",
+      "text": "\"Whoa! What do you mean?\""
+    },
+    {
+      "offset": 2381,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そのまんまの意味だ」",
+      "en": "\"I mean what I said.\"",
+      "text": "\"I mean what I said.\""
+    },
+    {
+      "offset": 2440,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「喧嘩売ってる！？　売ってるよね？」",
+      "en": "\"You're looking for trouble, aren't you?\"",
+      "text": "\"You're looking for trouble, aren't you?\""
+    },
+    {
+      "offset": 2483,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "腕をまくって、さくらが拳に息を吹きかける。",
+      "en": "Sakura rolls up her sleeves and breathes on her fist.",
+      "text": "Sakura rolls up her sleeves and breathes on her fist."
+    },
+    {
+      "offset": 2532,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……ぷ……あはははは！」",
+      "en": "\"Puh... Ahahaha!\"",
+      "text": "\"Puh... Ahahaha!\""
+    },
+    {
+      "offset": 2595,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゃ？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 2614,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そうそう、それだそれだ！」",
+      "en": "\"Yeah, that's it!\"",
+      "text": "\"Yeah, that's it!\""
+    },
+    {
+      "offset": 2649,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだか嬉しくて――たしかに笑みがこぼれる\nな、これは。",
+      "en": "I feel happy... This really makes me laugh.",
+      "text": "I feel happy... This really makes me laugh."
+    },
+    {
+      "offset": 2711,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お前だって変わってないぞ……いや、身体と\n　かじゃなくて雰囲気が」",
+      "en": "\"You haven't changed at all either... Um, I mean not your\nbody but your character.\"",
+      "text": "\"You haven't changed at all either... Um, I mean not your\nbody but your character.\""
+    },
+    {
+      "offset": 2815,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そんなことないよ〜。一人前のレディになっ\n　ていますもん」",
+      "en": "\"I don't think so. I am a lady now.\"",
+      "text": "\"I don't think so. I am a lady now.\""
+    },
+    {
+      "offset": 2881,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ツンと、どう勘違いしているのかさくらが澄ま\nした表情を作る。",
+      "en": "Misunderstanding me, Sakura makes a grown-up expression.",
+      "text": "Misunderstanding me, Sakura makes a grown-up expression."
+    },
+    {
+      "offset": 2947,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お兄ちゃん、なんて言ってるうちはまだまだ\n　だ」",
+      "en": "\"As long as you call me 'oniichan', you're not there yet.\"",
+      "text": "\"As long as you call me 'oniichan', you're not there yet.\""
+    },
+    {
+      "offset": 3033,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うっ……えーと、呼び方変えようか？」",
+      "en": "\"Oh... Should I change the way I call you then?\"",
+      "text": "\"Oh... Should I change the way I call you then?\""
+    },
+    {
+      "offset": 3078,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「は？　なんだ、本当に変えるのか？」",
+      "en": "\"Huh? Are you serious?\"",
+      "text": "\"Huh? Are you serious?\""
+    },
+    {
+      "offset": 3151,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「兄者とか、兄貴とか……うん、いいかも♪」",
+      "en": "\"Like 'anija', or 'aniki'... Yeah, it sounds good.\"",
+      "text": "\"Like 'anija', or 'aniki'... Yeah, it sounds good.\""
+    },
+    {
+      "offset": 3200,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「良くない！　頼む、今のままでいってくれ」",
+      "en": "\"It doesn't! Please keep the way you've been calling me.\"",
+      "text": "\"It doesn't! Please keep the way you've been calling me.\""
+    },
+    {
+      "offset": 3262,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「分かったよ兄貴！」",
+      "en": "\"Understood, aniki!\"",
+      "text": "\"Understood, aniki!\""
+    },
+    {
+      "offset": 3289,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ピトッ、と足にはりついてくる。",
+      "en": "She clings to my legs.",
+      "text": "She clings to my legs."
+    },
+    {
+      "offset": 3324,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "全然分かってねぇ……。",
+      "en": "I guess she has no idea what I was talking about.",
+      "text": "I guess she has no idea what I was talking about."
+    },
+    {
+      "offset": 3351,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こうなったら、家まではまだ時間はあるから、\nたっぷりと話をつけるしかないだろう。",
+      "en": "I have enough time to talk sense into her before we get\nhome.",
+      "text": "I have enough time to talk sense into her before we get\nhome."
+    },
+    {
+      "offset": 3437,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「とりあえずだな……」",
+      "en": "\"Anyhow...\"",
+      "text": "\"Anyhow...\""
+    },
+    {
+      "offset": 3466,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "空を見上げてため息をついた。",
+      "en": "I took a sigh, looking up at the sky.",
+      "text": "I took a sigh, looking up at the sky."
+    },
+    {
+      "offset": 3501,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺はかったりぃ」",
+      "en": "\"I'm tired...\"",
+      "text": "\"I'm tired...\""
+    },
+    {
+      "offset": 3659,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆兄貴と兄者◆",
+      "en": "◆Anija or Aniki◆",
+      "text": "◆Anija or Aniki◆"
+    },
+    {
+      "offset": 3706,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "校門で待ち伏せしていたさくらと一緒に帰宅す\nることになる。",
+      "en": "I found that Sakura had been waiting for me at the school\ngate, and we end up going home together.",
+      "text": "I found that Sakura had been waiting for me at the school\ngate, and we end up going home together."
+    },
+    {
+      "offset": 3768,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "かったりぃ、と呟いていると、その口癖とか猫\n背とかを笑われるし、兄貴とか兄者なんて呼ば\nれることになった……。",
+      "en": "While I was mumbling about how tired I was, she laughed at\nthe things I said and my hunchback. And then she started to\ncall me 'anija' or 'aniki'.",
+      "text": "While I was mumbling about how tired I was, she laughed at\nthe things I said and my hunchback. And then she started to\ncall me 'anija' or 'aniki'."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "802": "Sakura",
+    "1021": "Sakura",
+    "1162": "Sakura",
+    "1299": "Sakura",
+    "1564": "Sakura",
+    "1788": "Sakura",
+    "1881": "Sakura",
+    "2066": "Sakura",
+    "2185": "Sakura",
+    "2338": "Sakura",
+    "2430": "Sakura",
+    "2585": "Sakura",
+    "2805": "Sakura",
+    "3023": "Sakura",
+    "3141": "Sakura",
+    "3252": "Sakura"
+  }
+}

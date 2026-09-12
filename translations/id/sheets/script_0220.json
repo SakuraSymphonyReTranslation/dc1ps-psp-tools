@@ -1,0 +1,408 @@
+{
+  "scene": "script_0220.obj",
+  "dialogues": [
+    {
+      "offset": 151,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さって、試験も終わったし、今日だけは騒ぐ\n　とするか――」",
+      "en": "\"Well, now that the exams are over, I'm going to have some\nfun today......!\"",
+      "text": "\"Well, now that the exams are over, I'm going to have some\nfun today......!\""
+    },
+    {
+      "offset": 255,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さん、試験は出来ましたか？」",
+      "en": "\"How were your exams, niisan?\"",
+      "text": "\"How were your exams, niisan?\""
+    },
+    {
+      "offset": 294,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢がにこやかにやって来て、嫌なことを｛き／訊｝い\nてくる。",
+      "en": "Nemu came over to me with a smile on her face, and asked me\nsomething I didn't want to talk about.",
+      "text": "Nemu came over to me with a smile on her face, and asked me\nsomething I didn't want to talk about."
+    },
+    {
+      "offset": 360,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さぁ、どうだろう。後は講師が決めることだ\n　からな」",
+      "en": "\"I don't know. I did what I could do. It's up to the\nteachers now.\"",
+      "text": "\"I don't know. I did what I could do. It's up to the\nteachers now.\""
+    },
+    {
+      "offset": 448,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「講師の方が採点する前から、結果は決まって\n　いると思いますけど？」",
+      "en": "\"I think the results are already decided before the teachers\ncheck them.\"",
+      "text": "\"I think the results are already decided before the teachers\ncheck them.\""
+    },
+    {
+      "offset": 522,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「分からんぞ、もしかしたらオマケしてくれる\n　かもしれな……ありえない」",
+      "en": "\"Who knows? They might give me some free points...... not.\"",
+      "text": "\"Who knows? They might give me some free points...... not.\""
+    },
+    {
+      "offset": 600,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自分で言ってて悲しくなってきた。",
+      "en": "I felt silly for saying that.",
+      "text": "I felt silly for saying that."
+    },
+    {
+      "offset": 639,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、お前は出来たのか？」",
+      "en": "\"So how did you do?\"",
+      "text": "\"So how did you do?\""
+    },
+    {
+      "offset": 700,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「当然です。学業は学生の勤めですから」",
+      "en": "\"Of course I did well. My work as a student is to study.\"",
+      "text": "\"Of course I did well. My work as a student is to study.\""
+    },
+    {
+      "offset": 745,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 764,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さすが裏モード。言葉の響きが違う。",
+      "en": "That's my sister. Her outlook's always different.",
+      "text": "That's my sister. Her outlook's always different."
+    },
+    {
+      "offset": 833,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「これから風紀委員の活動で商店街の巡回に行\n　きますけど、兄さんも寄り道などせず、まっ\n　すぐ家に帰ってくださいね」",
+      "en": "\"I'm going to patrol the city now. You must go home right\naway, and stay out of trouble.\"",
+      "text": "\"I'm going to patrol the city now. You must go home right\naway, and stay out of trouble.\""
+    },
+    {
+      "offset": 971,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "凄みのある、にこやかな笑みを浮かべ、音夢が\n仕事へと向かう。",
+      "en": "She smiled softly and went off to work.",
+      "text": "She smiled softly and went off to work."
+    },
+    {
+      "offset": 1035,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 1050,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……それは無理ってもんです」",
+      "en": "\"......No way!\"",
+      "text": "\"......No way!\""
+    },
+    {
+      "offset": 1087,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "わせわせと鞄に荷物をまとめ、帰り支度をする。\n無論、行き先は家ではない。",
+      "en": "I started packing my bag so I could leave. Of course, my\ndestination isn't home.",
+      "text": "I started packing my bag so I could leave. Of course, my\ndestination isn't home."
+    },
+    {
+      "offset": 1201,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「こんにちは、朝倉くん」",
+      "en": "\"Hello, Asakura-kun.\"",
+      "text": "\"Hello, Asakura-kun.\""
+    },
+    {
+      "offset": 1232,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「え、あれ？　どうしたんです先輩？」",
+      "en": "\"Hey, Moe-sempai! What are you doing here?\"",
+      "text": "\"Hey, Moe-sempai! What are you doing here?\""
+    },
+    {
+      "offset": 1275,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "顔をあげた先に、萌先輩の微笑んだ顔があった。\n付属の教室に来るなんて珍しい。",
+      "en": "When I looked up, I saw Moe-sempai's face in front of me.\nIt's rare to see her in this building.",
+      "text": "When I looked up, I saw Moe-sempai's face in front of me.\nIt's rare to see her in this building."
+    },
+    {
+      "offset": 1357,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「眞子ですか？」",
+      "en": "\"Are you looking for Mako?\"",
+      "text": "\"Are you looking for Mako?\""
+    },
+    {
+      "offset": 1406,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 1447,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「今日は部活があるので、迎えに来たんです」",
+      "en": "\"I came to get her because we have a club meeting.\"",
+      "text": "\"I came to get her because we have a club meeting.\""
+    },
+    {
+      "offset": 1496,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「そうか、今日で試験が終わりだから、部活が\n　あるんだ」",
+      "en": "\"Oh, you have a meeting because all the exams are over\ntoday, huh?\"",
+      "text": "\"Oh, you have a meeting because all the exams are over\ntoday, huh?\""
+    },
+    {
+      "offset": 1584,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 1599,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "試験が終わったって言うのに、大変だな……。",
+      "en": "What a bother after finally finishing all the exams......",
+      "text": "What a bother after finally finishing all the exams......"
+    },
+    {
+      "offset": 1681,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あれ？　お姉ちゃん、何してるの？」",
+      "en": "\"Hey, what are you doing here, oneechan?\"",
+      "text": "\"Hey, what are you doing here, oneechan?\""
+    },
+    {
+      "offset": 1724,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鞄を持った眞子が、俺の机によってくる。",
+      "en": "Mako came close to my desk with her bag in her hand.",
+      "text": "Mako came close to my desk with her bag in her hand."
+    },
+    {
+      "offset": 1814,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「眞子ちゃんを迎えに来たの」",
+      "en": "\"I came to get you, Mako-chan.\"",
+      "text": "\"I came to get you, Mako-chan.\""
+    },
+    {
+      "offset": 1877,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「だったら声をかけてくれればいいのに」",
+      "en": "\"Why didn't you talk to me then?\"",
+      "text": "\"Why didn't you talk to me then?\""
+    },
+    {
+      "offset": 1931,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「ごめんなさい。眞子ちゃんお友達と話してた\n　から、朝倉くんにご挨拶していたの」",
+      "en": "\"I'm sorry. I saw you talking with your friends, so I just\ndecided to say hi to Asakura-kun.\"",
+      "text": "\"I'm sorry. I saw you talking with your friends, so I just\ndecided to say hi to Asakura-kun.\""
+    },
+    {
+      "offset": 2028,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「別にいいの、そんなの」",
+      "en": "\"You didn't have to do that.\"",
+      "text": "\"You didn't have to do that.\""
+    },
+    {
+      "offset": 2059,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……別にいいってのは、どっちのことだ？」",
+      "en": "\"......Are you talking about you, or me?\"",
+      "text": "\"......Are you talking about you, or me?\""
+    },
+    {
+      "offset": 2108,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "友達と話している時に、声を掛けてもいいって\nことか、それとも俺に挨拶なんかしなくていいっ\nてことか――。",
+      "en": "Is she saying that Moe-sempai didn't have to hesitate to\ntalk to her, or Moe-sempai didn't have to say hi to me?",
+      "text": "Is she saying that Moe-sempai didn't have to hesitate to\ntalk to her, or Moe-sempai didn't have to say hi to me?"
+    },
+    {
+      "offset": 2228,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「両方」",
+      "en": "\"Both.\"",
+      "text": "\"Both.\""
+    },
+    {
+      "offset": 2243,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2262,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言うと思ってたよ。",
+      "en": "I thought she'd say that.",
+      "text": "I thought she'd say that."
+    },
+    {
+      "offset": 2298,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「じゃあ、お姉ちゃん、行こ」",
+      "en": "\"Well let's go, oneechan.\"",
+      "text": "\"Well let's go, oneechan.\""
+    },
+    {
+      "offset": 2359,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「それじゃあ、朝倉くん。私たちはお先に失礼\n　しますね」",
+      "en": "\"Yes...... See you later, Asakura-kun. We'll be going now.\"",
+      "text": "\"Yes...... See you later, Asakura-kun. We'll be going now.\""
+    },
+    {
+      "offset": 2421,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「ええ。部活がんばってください」",
+      "en": "\"Yes. Good luck with the meeting.\"",
+      "text": "\"Yes. Good luck with the meeting.\""
+    },
+    {
+      "offset": 2477,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "微笑む萌先輩にこちらも微笑み返して、ふたり\nを見送る。",
+      "en": "I smiled back at Moe-sempai, and saw them off.",
+      "text": "I smiled back at Moe-sempai, and saw them off."
+    },
+    {
+      "offset": 2537,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……さて、帰って寝るか」",
+      "en": "\"......Well, I should go home and take a nap.\"",
+      "text": "\"......Well, I should go home and take a nap.\""
+    },
+    {
+      "offset": 2570,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 2585,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……じゃなくて」",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 2610,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "廊下に出ようとしたところで教室に戻る。",
+      "en": "\"......That's not it.\"",
+      "text": "\"......That's not it.\""
+    },
+    {
+      "offset": 2653,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、クラスを見回し親しい友達を探しあて、\n輪の中に加わった。",
+      "en": "I went back to the classroom as I tried to step out.",
+      "text": "I went back to the classroom as I tried to step out."
+    },
+    {
+      "offset": 2850,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆眞子を迎えに来た◆",
+      "en": "◆Moe-sempai came to get Mako◆",
+      "text": "◆Moe-sempai came to get Mako◆"
+    },
+    {
+      "offset": 2899,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "テスト終了の解放感に浸っていると、音楽部の\n部活に行くため、萌先輩が眞子を迎えに来た。",
+      "en": "When I was feeling relieved that the exams were over,\nMoe-sempai came into the classroom to get Mako. They're\ngoing to a music club meeting.",
+      "text": "When I was feeling relieved that the exams were over,\nMoe-sempai came into the classroom to get Mako. They're\ngoing to a music club meeting."
+    },
+    {
+      "offset": 2989,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "テストが終わったばかりだというのに、大変だ\nな。",
+      "en": "What a bother after finally finishing all the exams......",
+      "text": "What a bother after finally finishing all the exams......"
+    }
+  ],
+  "choices": [],
+  "names": {
+    "247": "Nemu",
+    "440": "Nemu",
+    "692": "Nemu",
+    "825": "Nemu",
+    "1195": "Moe",
+    "1400": "Moe",
+    "1441": "Moe",
+    "1578": "Moe",
+    "1673": "Mako",
+    "1808": "Moe",
+    "1869": "Mako",
+    "1925": "Moe",
+    "2020": "Mako",
+    "2220": "Mako",
+    "2290": "Mako",
+    "2353": "Moe"
+  }
+}

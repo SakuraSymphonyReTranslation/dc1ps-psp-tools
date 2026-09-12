@@ -1,0 +1,139 @@
+{
+  "scene": "script_0151.obj",
+  "dialogues": [
+    {
+      "offset": 181,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや、やっぱり自分のことは自分でやるよ」",
+      "en": "\"Well, I should take care of it by myself.\"",
+      "text": "\"Well, I should take care of it by myself.\""
+    },
+    {
+      "offset": 260,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「え〜！？」",
+      "en": "\"Are you sure?\"",
+      "text": "\"Are you sure?\""
+    },
+    {
+      "offset": 279,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「え〜、じゃないっての。勉強は自分でやらな\n　きゃ身につかないと言うしな」",
+      "en": "\"Yes, I am sure! I think it's more efficient if you study by\nyourself.\"",
+      "text": "\"Yes, I am sure! I think it's more efficient if you study by\nyourself.\""
+    },
+    {
+      "offset": 359,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "腕組みして頷く。",
+      "en": "I nod with my arms folded.",
+      "text": "I nod with my arms folded."
+    },
+    {
+      "offset": 380,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それに、さくらと勉強しようとしても、音夢を\n巻き込んで騒ぎになるだけかも知れん。",
+      "en": "Besides, if I study with Sakura, I know it could cause\ntrouble if Nemu gets involved.",
+      "text": "Besides, if I study with Sakura, I know it could cause\ntrouble if Nemu gets involved."
+    },
+    {
+      "offset": 466,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「じゃ、そういうことで」",
+      "en": "\"So, well then.\"",
+      "text": "\"So, well then.\""
+    },
+    {
+      "offset": 527,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ねぇ、お手て繋がなくてもいいからやろう\n　よ〜」",
+      "en": "\"C'mon, let's study together, even if you don't need to hold\nmy hand.\"",
+      "text": "\"C'mon, let's study together, even if you don't need to hold\nmy hand.\""
+    },
+    {
+      "offset": 583,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「こらっ！　足にしがみつくな！」",
+      "en": "\"Hey! Don't hang on my leg!\"",
+      "text": "\"Hey! Don't hang on my leg!\""
+    },
+    {
+      "offset": 622,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "おお、軽いから、さくらがしがみついたまま持\nち上がるぞ。",
+      "en": "She's light enough that I can lift her body even while she\nis hanging on to my leg.",
+      "text": "She's light enough that I can lift her body even while she\nis hanging on to my leg."
+    },
+    {
+      "offset": 714,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あはははは」",
+      "en": "\"Hahahaha!\"",
+      "text": "\"Hahahaha!\""
+    },
+    {
+      "offset": 735,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「だからって面白くないわ〜！」",
+      "en": "\"It's not funny!\"",
+      "text": "\"It's not funny!\""
+    },
+    {
+      "offset": 810,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 850,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "結局、夕暮れまでさくらに追いまわされてテス\nト前日の貴重な時間を失った。",
+      "en": "After all that, I wasted my study time being chased around\nby Sakura until dusk.",
+      "text": "After all that, I wasted my study time being chased around\nby Sakura until dusk."
+    },
+    {
+      "offset": 1066,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆自分で勉強◆",
+      "en": "◆Study by myself◆",
+      "text": "◆Study by myself◆"
+    },
+    {
+      "offset": 1125,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自分のことは自分でやろうと思ったら、今度は\n逆に、さくらに一緒にやろうとせがまれる。",
+      "en": "When I decided I should study by myself, Sakura begged to\nstudy with me.",
+      "text": "When I decided I should study by myself, Sakura begged to\nstudy with me."
+    },
+    {
+      "offset": 1213,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな風にじゃれているうちに日が暮れてし\nまい、貴重なテスト前の時間を潰してしまっ\nた……。",
+      "en": "I didn't get any time to study for tomorrow's test, because\nwe were messing around with each other until dusk.",
+      "text": "I didn't get any time to study for tomorrow's test, because\nwe were messing around with each other until dusk."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "250": "Sakura",
+    "517": "Sakura",
+    "704": "Sakura"
+  }
+}

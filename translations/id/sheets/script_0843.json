@@ -1,0 +1,1717 @@
+{
+  "scene": "script_0843.obj",
+  "dialogues": [
+    {
+      "offset": 155,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「うーむ……」",
+      "en": "\"Hmm......\"",
+      "text": "\"Hmm......\""
+    },
+    {
+      "offset": 176,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まだ来てないのか……。",
+      "en": "She's still not here......",
+      "text": "She's still not here......"
+    },
+    {
+      "offset": 203,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "１時限目が終わり、休み時間に萌先輩の教室を\n覗いてみたが、まだ来ていなかった。",
+      "en": "The first period ended, and I came to look inside\nMoe-sempai's classroom but she was still not there.",
+      "text": "The first period ended, and I came to look inside\nMoe-sempai's classroom but she was still not there."
+    },
+    {
+      "offset": 287,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（眞子にでも｛き／訊｝いてみるか……）",
+      "en": "(Maybe I'll go ask Mako......)",
+      "text": "(Maybe I'll go ask Mako......)"
+    },
+    {
+      "offset": 332,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は階段を下りて、１組の教室に向かった。",
+      "en": "I went down the stairs and headed toward Class 1.",
+      "text": "I went down the stairs and headed toward Class 1."
+    },
+    {
+      "offset": 410,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "１階に下りたところで、俺のクラスから出てき\nた眞子を見つける。",
+      "en": "When I got to the first floor, I saw Mako coming out of my\nclassroom.",
+      "text": "When I got to the first floor, I saw Mako coming out of my\nclassroom."
+    },
+    {
+      "offset": 478,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おい、眞子」",
+      "en": "\"Hey, Mako.\"",
+      "text": "\"Hey, Mako.\""
+    },
+    {
+      "offset": 510,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あっ、朝倉」",
+      "en": "\"Oh, Asakura.\"",
+      "text": "\"Oh, Asakura.\""
+    },
+    {
+      "offset": 569,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あんた、どこ行ってたのよ」",
+      "en": "\"Where were you?\"",
+      "text": "\"Where were you?\""
+    },
+    {
+      "offset": 604,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ちょっとな……」",
+      "en": "\"Well......\"",
+      "text": "\"Well......\""
+    },
+    {
+      "offset": 629,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「それより、萌先輩って、今日学園に来てない\n　のか？」",
+      "en": "\"By the way, is Moe-sempai not coming to the school today?\"",
+      "text": "\"By the way, is Moe-sempai not coming to the school today?\""
+    },
+    {
+      "offset": 717,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「え……休みだけど」",
+      "en": "\"What? She's absent today......\"",
+      "text": "\"What? She's absent today......\""
+    },
+    {
+      "offset": 744,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちょっと沈み気味に眞子が答える。",
+      "en": "Mako answered with a sad face.",
+      "text": "Mako answered with a sad face."
+    },
+    {
+      "offset": 783,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そうか……なんだ、休みだったのか」",
+      "en": "\"Oh...... She's not coming, huh?\"",
+      "text": "\"Oh...... She's not coming, huh?\""
+    },
+    {
+      "offset": 826,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうやら無駄足で、憂鬱な気分は杞憂ですんで\nしまったようだ。",
+      "en": "I guess I was just wasting my time.",
+      "text": "I guess I was just wasting my time."
+    },
+    {
+      "offset": 903,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あたしも、ちょっと話があるんだけど」",
+      "en": "\"I needed to talk to you about something.\"",
+      "text": "\"I needed to talk to you about something.\""
+    },
+    {
+      "offset": 948,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「なんだ？」",
+      "en": "\"What is it?\"",
+      "text": "\"What is it?\""
+    },
+    {
+      "offset": 978,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……ちょっと一緒に来てくれる？」",
+      "en": "\"......Can you come with me?\"",
+      "text": "\"......Can you come with me?\""
+    },
+    {
+      "offset": 1028,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言って、俺の返事を聞かずに、眞子が背を\n向けて歩き出す。",
+      "en": "She spoke and started walking before I said anything.",
+      "text": "She spoke and started walking before I said anything."
+    },
+    {
+      "offset": 1094,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おい、ちょっと待てって」",
+      "en": "\"Hey, wait a second.\"",
+      "text": "\"Hey, wait a second.\""
+    },
+    {
+      "offset": 1127,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "呼び止める俺を無視して、階段をのぼっていく。",
+      "en": "She ignored me and started going up the stairs.",
+      "text": "She ignored me and started going up the stairs."
+    },
+    {
+      "offset": 1178,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ったく、仕方ないな……」",
+      "en": "\"What the hell does she want......?\"",
+      "text": "\"What the hell does she want......?\""
+    },
+    {
+      "offset": 1211,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺も眞子を追いかけて階段を上る。",
+      "en": "I followed her and climbed up the stairs.",
+      "text": "I followed her and climbed up the stairs."
+    },
+    {
+      "offset": 1274,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 1322,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんだよ、こんな所まで連れてきて」",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 1365,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "強い風に吹かれながら、眞子の横顔を見つめる。",
+      "en": "\"What do you want from me, and why did you bring me all the\nway up here?\"",
+      "text": "\"What do you want from me, and why did you bring me all the\nway up here?\""
+    },
+    {
+      "offset": 1449,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1496,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……はぁ」",
+      "en": "\"......Huh.\"",
+      "text": "\"......Huh.\""
+    },
+    {
+      "offset": 1515,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子は黙ったまま遠くの海を見下ろしていたが、\nやがて何かを決意したように振り返った。",
+      "en": "She remained silent and stared down at the ocean, but then\nshe suddenly turned around toward me.",
+      "text": "She remained silent and stared down at the ocean, but then\nshe suddenly turned around toward me."
+    },
+    {
+      "offset": 1638,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あんたさ……お姉ちゃんと最近会ってる？」",
+      "en": "\"Have you been seeing my sister lately......?\"",
+      "text": "\"Have you been seeing my sister lately......?\""
+    },
+    {
+      "offset": 1687,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「えっ」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 1702,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いきなり萌先輩のことを言われ、ドキリとする。",
+      "en": "My heart pounded when she asked me about Moe-sempai all of a\nsudden.",
+      "text": "My heart pounded when she asked me about Moe-sempai all of a\nsudden."
+    },
+    {
+      "offset": 1753,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「な、なんだよ……いきなり」",
+      "en": "\"Why are you suddenly asking me this......?\"",
+      "text": "\"Why are you suddenly asking me this......?\""
+    },
+    {
+      "offset": 1799,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「お姉ちゃんとうまくいってるの？」",
+      "en": "\"Is everything going fine between the two of you?\"",
+      "text": "\"Is everything going fine between the two of you?\""
+    },
+    {
+      "offset": 1840,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……そんなの、おまえに関係ないだろう」",
+      "en": "\"......That's none of your business......\"",
+      "text": "\"......That's none of your business......\""
+    },
+    {
+      "offset": 1887,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "先輩とのことを見透かされたみたいで、ぶっき\nらぼうに答えてしまう。",
+      "en": "I answered bluntly as I felt like she already knew happened\nbetween me and Moe-sempai.",
+      "text": "I answered bluntly as I felt like she already knew happened\nbetween me and Moe-sempai."
+    },
+    {
+      "offset": 1970,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あんた……お姉ちゃんをどうして、放ってお\n　くのよ」",
+      "en": "\"Why are you ignoring my sister?\"",
+      "text": "\"Why are you ignoring my sister?\""
+    },
+    {
+      "offset": 2030,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「それは……」",
+      "en": "\"Well......\"",
+      "text": "\"Well......\""
+    },
+    {
+      "offset": 2051,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "フラれたんだから、仕方ないじゃないか……。",
+      "en": "I was dumped, I have no choice......",
+      "text": "I was dumped, I have no choice......"
+    },
+    {
+      "offset": 2100,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おまえには関係ないだろう――」",
+      "en": "\"It's none of your business......\"",
+      "text": "\"It's none of your business......\""
+    },
+    {
+      "offset": 2167,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「関係あるのよ！」",
+      "en": "\"It is my business!\"",
+      "text": "\"It is my business!\""
+    },
+    {
+      "offset": 2192,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……なんだよ急に？」",
+      "en": "\"......What's wrong with you?\"",
+      "text": "\"......What's wrong with you?\""
+    },
+    {
+      "offset": 2249,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「お姉ちゃんはあたしの大事な家族なんだよ？　\n　あんた、音夢に何かあっても放っておくの？」",
+      "en": "\"My sister's my family. Would you leave Nemu alone if\nsomething happened to her?\"",
+      "text": "\"My sister's my family. Would you leave Nemu alone if\nsomething happened to her?\""
+    },
+    {
+      "offset": 2345,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子が声を荒げる。",
+      "en": "Mako raised her voice.",
+      "text": "Mako raised her voice."
+    },
+    {
+      "offset": 2368,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "確かに、屋上でなければマズい声量だ。",
+      "en": "I'm glad we're on the rooftop.",
+      "text": "I'm glad we're on the rooftop."
+    },
+    {
+      "offset": 2411,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……色恋沙汰は口出し出来ないだろうが」",
+      "en": "\"......I can't get into her love life......\"",
+      "text": "\"......I can't get into her love life......\""
+    },
+    {
+      "offset": 2458,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "仕方なくぶっきらぼうに呟く。",
+      "en": "I muttered bluntly.",
+      "text": "I muttered bluntly."
+    },
+    {
+      "offset": 2521,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「そりゃ！　……そうだけどさぁ」",
+      "en": "\"I know that...... but......\"",
+      "text": "\"I know that...... but......\""
+    },
+    {
+      "offset": 2560,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子が肩を落とす。",
+      "en": "Mako shrugged her shoulders.",
+      "text": "Mako shrugged her shoulders."
+    },
+    {
+      "offset": 2596,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「せっかくお姉ちゃんが明るくなったのにさ……\n　あたし、なにも出来なくて悔しくて」",
+      "en": "\"Moe was finally becoming so happy...... I'm frustrated that\nI can't do anything to cheer her up......\"",
+      "text": "\"Moe was finally becoming so happy...... I'm frustrated that\nI can't do anything to cheer her up......\""
+    },
+    {
+      "offset": 2684,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2731,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「でも、お姉ちゃんに避けられるなんて……いっ\n　たい何したのよ？」",
+      "en": "\"What did you do to make her avoid you?\"",
+      "text": "\"What did you do to make her avoid you?\""
+    },
+    {
+      "offset": 2803,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「何って……言われても……」",
+      "en": "\"Well...... we did a lot, but......\"",
+      "text": "\"Well...... we did a lot, but......\""
+    },
+    {
+      "offset": 2838,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頭をかいて青空を見上げてしまう。",
+      "en": "I scratched my head and looked up at the sky.",
+      "text": "I scratched my head and looked up at the sky."
+    },
+    {
+      "offset": 2875,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふぅ……若いな俺も。",
+      "en": "Huh...... I'm still young.",
+      "text": "Huh...... I'm still young."
+    },
+    {
+      "offset": 2902,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「それに思い当たらないから、俺も実際困って\n　るんだ」",
+      "en": "\"I can't think of anything, so that's why I'm frustrated\ntoo!\"",
+      "text": "\"I can't think of anything, so that's why I'm frustrated\ntoo!\""
+    },
+    {
+      "offset": 2990,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「よぉく考えてみなさい。絶対何かしてるって」",
+      "en": "\"Think about it again. You must have done something to her.\"",
+      "text": "\"Think about it again. You must have done something to her.\""
+    },
+    {
+      "offset": 3041,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子が確信をもって決めつける。",
+      "en": "\"Are you an investigator or something?\"",
+      "text": "\"Are you an investigator or something?\""
+    },
+    {
+      "offset": 3145,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「もぅ、せっかく、人が心配してやってんだか\n　ら！　原因が分かったらカツ丼でもなんでも\n　｛おご／奢｝ってあげるわよ！」",
+      "en": "\"I'm just worried! If you find out what's wrong, I'll get\nyou anything you want to eat!\"",
+      "text": "\"I'm just worried! If you find out what's wrong, I'll get\nyou anything you want to eat!\""
+    },
+    {
+      "offset": 3270,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「そうだなぁ……」",
+      "en": "\"Let me think......\"",
+      "text": "\"Let me think......\""
+    },
+    {
+      "offset": 3295,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "桜が枯れたって言っても、眞子には分からない\nだろうな。",
+      "en": "She probably won't understand if I tell her that the cherry\nblossom died.",
+      "text": "She probably won't understand if I tell her that the cherry\nblossom died."
+    },
+    {
+      "offset": 3355,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そうだ、萌先輩にはたしか幼なじみの男がい\n　るだろう？」",
+      "en": "\"Well, Moe-sempai has a childhood friend, doesn't she?\"",
+      "text": "\"Well, Moe-sempai has a childhood friend, doesn't she?\""
+    },
+    {
+      "offset": 3447,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「えっ……」",
+      "en": "\"What......?\"",
+      "text": "\"What......?\""
+    },
+    {
+      "offset": 3466,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鳩が豆鉄砲くらったよりも｛ひど／酷｝い顔をみせる。",
+      "en": "She reacted with a shocked expression, as if she was a\npigeon hit by a BB gun.",
+      "text": "She reacted with a shocked expression, as if she was a\npigeon hit by a BB gun."
+    },
+    {
+      "offset": 3534,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……ど、どうして、あんたが啓くんのことを\n　知ってるの」",
+      "en": "\"......H-How do you know about Kei-kun?\"",
+      "text": "\"......H-How do you know about Kei-kun?\""
+    },
+    {
+      "offset": 3598,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「別に……」",
+      "en": "\"Well......\"",
+      "text": "\"Well......\""
+    },
+    {
+      "offset": 3617,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "夢で見たとは、間違っても言えない。",
+      "en": "I can't tell her that I saw him in a dream.",
+      "text": "I can't tell her that I saw him in a dream."
+    },
+    {
+      "offset": 3658,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そいつと萌先輩が仲良く――」",
+      "en": "\"He and Moe-sempai were......\"",
+      "text": "\"He and Moe-sempai were......\""
+    },
+    {
+      "offset": 3725,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「有り得ない……」",
+      "en": "\"No way......\"",
+      "text": "\"No way......\""
+    },
+    {
+      "offset": 3755,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 3770,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "呟きに顔を向けると、眞子が緊張した面持ちで、\n虚ろに視線をさまよわせていた。",
+      "en": "When I looked at Mako, her eyes were swimming as if she was\nextremely nervous.",
+      "text": "When I looked at Mako, her eyes were swimming as if she was\nextremely nervous."
+    },
+    {
+      "offset": 3863,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「だって、啓くんは……」",
+      "en": "\"Because Kei-kun is......\"",
+      "text": "\"Because Kei-kun is......\""
+    },
+    {
+      "offset": 3894,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そのまま、黙りこくってしまう。",
+      "en": "She closed her mouth.",
+      "text": "She closed her mouth."
+    },
+    {
+      "offset": 3931,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どうしたんだ？」",
+      "en": "\"What is it?\"",
+      "text": "\"What is it?\""
+    },
+    {
+      "offset": 3967,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3986,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なにか迷っているような表情で眞子が俯むいて\nしまう。",
+      "en": "Mako looked away with a confused look.",
+      "text": "Mako looked away with a confused look."
+    },
+    {
+      "offset": 4044,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「何かあるのか？」",
+      "en": "\"Is something wrong?\"",
+      "text": "\"Is something wrong?\""
+    },
+    {
+      "offset": 4080,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 4099,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだか、空気が重い。",
+      "en": "The atmosphere seemed heavy.",
+      "text": "The atmosphere seemed heavy."
+    },
+    {
+      "offset": 4126,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩が俺を捨ててあの男の子の元にいったと\nしても、眞子の顔色は重過ぎる。",
+      "en": "The way Mako looked was out of the ordinary.",
+      "text": "The way Mako looked was out of the ordinary."
+    },
+    {
+      "offset": 4206,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まぁ、俺が言うのもなんだが、あの啓一って\n　やつは悪い奴には見えないし……」",
+      "en": "\"Well, I don't know if I should be saying this, but that guy\nKeiichi doesn't look like a bad guy......\"",
+      "text": "\"Well, I don't know if I should be saying this, but that guy\nKeiichi doesn't look like a bad guy......\""
+    },
+    {
+      "offset": 4301,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「啓くんは……いい奴だったけど」",
+      "en": "\"Kei-kun was a nice person......\"",
+      "text": "\"Kei-kun was a nice person......\""
+    },
+    {
+      "offset": 4340,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「しかし、そんな簡単に萌先輩をあきらめたわ\n　けじゃないぞ！　今度会ってしっかり話をす\n　れば――」",
+      "en": "\"But it doesn't mean that I gave up on Moe-sempai! I'm going\nto see her tomorrow and talk......\"",
+      "text": "\"But it doesn't mean that I gave up on Moe-sempai! I'm going\nto see her tomorrow and talk......\""
+    },
+    {
+      "offset": 4445,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言葉が止まった。",
+      "en": "I stopped talking.",
+      "text": "I stopped talking."
+    },
+    {
+      "offset": 4466,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何かがおかしい。",
+      "en": "Something's definitely wrong.",
+      "text": "Something's definitely wrong."
+    },
+    {
+      "offset": 4489,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なぁ、眞子……今お前、なんか変な言い方し\n　なかったか？」",
+      "en": "\"Hey Mako...... You just said that in a weird way......\"",
+      "text": "\"Hey Mako...... You just said that in a weird way......\""
+    },
+    {
+      "offset": 4555,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いい奴――｛・・・／だった｝？",
+      "en": "Kei 'was' a good person......?",
+      "text": "Kei 'was' a good person......?"
+    },
+    {
+      "offset": 4603,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「啓くんは……もう……でるから……」",
+      "en": "\"Kei-kun is...... any more......\"",
+      "text": "\"Kei-kun is...... any more......\""
+    },
+    {
+      "offset": 4646,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "消え入りそうな声で眞子が何かを呟く。",
+      "en": "Mako muttered something with a fading voice.",
+      "text": "Mako muttered something with a fading voice."
+    },
+    {
+      "offset": 4689,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なに？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 4734,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「啓くんは、もう死んでるのっ！」",
+      "en": "\"Kei-kun isn't alive any more!\"",
+      "text": "\"Kei-kun isn't alive any more!\""
+    },
+    {
+      "offset": 4773,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……なっ……」",
+      "en": "\"......What......?\"",
+      "text": "\"......What......?\""
+    },
+    {
+      "offset": 4796,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "死んでる？",
+      "en": "He's dead?",
+      "text": "He's dead?"
+    },
+    {
+      "offset": 4813,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なに、言ってるんだお前？」",
+      "en": "\"What are you saying?\"",
+      "text": "\"What are you saying?\""
+    },
+    {
+      "offset": 4848,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "冗談にしかならないのに、眞子は一片の笑みを\n浮かべることなく瞳を伏せる。",
+      "en": "This was a bad joke, but she remained looking away without\nsmiling.",
+      "text": "This was a bad joke, but she remained looking away without\nsmiling."
+    },
+    {
+      "offset": 4926,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「バカ言うなよ！　萌先輩は、もう一度そいつ\n　に会うって言ってたんだぞ！？」",
+      "en": "\"Don't be silly! Moe-sempai said she's going to see him\nagain!\"",
+      "text": "\"Don't be silly! Moe-sempai said she's going to see him\nagain!\""
+    },
+    {
+      "offset": 5008,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「死んでる人間に、どうやって会うんだ！？」",
+      "en": "\"How can she see someone who's dead already?\"",
+      "text": "\"How can she see someone who's dead already?\""
+    },
+    {
+      "offset": 5085,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「会えるの……夢の中なら……」",
+      "en": "\"She can see him...... in her dreams......\"",
+      "text": "\"She can see him...... in her dreams......\""
+    },
+    {
+      "offset": 5122,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………？」",
+      "en": "\"............?\"",
+      "text": "\"............?\""
+    },
+    {
+      "offset": 5143,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今度こそ、俺も言葉を失った。",
+      "en": "This time I was lost for words.",
+      "text": "This time I was lost for words."
+    },
+    {
+      "offset": 5189,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「子供の頃、お姉ちゃん言ってたの……夢の中\n　で啓くんに会えるって」",
+      "en": "\"When we were younger, oneechan used to tell me that she can\nsee Kei-kun in her dreams......\"",
+      "text": "\"When we were younger, oneechan used to tell me that she can\nsee Kei-kun in her dreams......\""
+    },
+    {
+      "offset": 5274,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「自分の身体のなかに、啓くんの魂が宿ってい\n　るって、信じてるの」",
+      "en": "\"She believes that Kei-kun's spirit is resting inside of her\nbody.\"",
+      "text": "\"She believes that Kei-kun's spirit is resting inside of her\nbody.\""
+    },
+    {
+      "offset": 5346,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなバカな……。",
+      "en": "No way......",
+      "text": "No way......"
+    },
+    {
+      "offset": 5371,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「い、いくら萌先輩だって、そんなこと……」",
+      "en": "\"I don't think that's true......\"",
+      "text": "\"I don't think that's true......\""
+    },
+    {
+      "offset": 5442,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『幽霊だって魂だって在りますよ』",
+      "en": "\"Ghosts and spirits do exist.\"",
+      "text": "\"Ghosts and spirits do exist.\""
+    },
+    {
+      "offset": 5484,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『だって、存在しないものに、言葉はつきませ\n　んから』",
+      "en": "\"If there are no such things, why are there words for it?\"",
+      "text": "\"If there are no such things, why are there words for it?\""
+    },
+    {
+      "offset": 5591,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 5610,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あれは……」",
+      "en": "\"That was......\"",
+      "text": "\"That was......\""
+    },
+    {
+      "offset": 5631,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あれはそういう意味だったのか？",
+      "en": "She really meant it when it happened?",
+      "text": "She really meant it when it happened?"
+    },
+    {
+      "offset": 5679,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「だから、薬まで飲んで眠ってたんだから……」",
+      "en": "\"That's why she takes drugs in order to fall asleep......\"",
+      "text": "\"That's why she takes drugs in order to fall asleep......\""
+    },
+    {
+      "offset": 5730,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「薬」",
+      "en": "\"Drugs?\"",
+      "text": "\"Drugs?\""
+    },
+    {
+      "offset": 5743,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「それって……」",
+      "en": "\"You mean......\"",
+      "text": "\"You mean......\""
+    },
+    {
+      "offset": 5777,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「お姉ちゃんがいつも飲んでたやつ……あれ、\n　睡眠薬なんだ」",
+      "en": "\"Those pills she was taking, they were sleeping pills.\"",
+      "text": "\"Those pills she was taking, they were sleeping pills.\""
+    },
+    {
+      "offset": 5854,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……バカだよ」",
+      "en": "\"......She's stupid.\"",
+      "text": "\"......She's stupid.\""
+    },
+    {
+      "offset": 5879,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 5898,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お互いに正面に立っているのに、視線がぶつか\nらない。",
+      "en": "We were standing face to face but couldn't look in each\nother's eyes.",
+      "text": "We were standing face to face but couldn't look in each\nother's eyes."
+    },
+    {
+      "offset": 5954,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何を言っても、今では風にかき消されてしまい\nそうな声しか出そうにない。",
+      "en": "No matter what I say, the wind would blow my words away. I\ncouldn't speak out loud.",
+      "text": "No matter what I say, the wind would blow my words away. I\ncouldn't speak out loud."
+    },
+    {
+      "offset": 6028,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いや……。",
+      "en": "But......",
+      "text": "But......"
+    },
+    {
+      "offset": 6043,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それでも……。",
+      "en": "I should still say something......",
+      "text": "I should still say something......"
+    },
+    {
+      "offset": 6069,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……萌先輩は……どこにいるんだ？」",
+      "en": "\"Where's Moe-sempai now......?\"",
+      "text": "\"Where's Moe-sempai now......?\""
+    },
+    {
+      "offset": 6140,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「えっ？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 6157,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「どこにいる？」",
+      "en": "\"Where is she?\"",
+      "text": "\"Where is she?\""
+    },
+    {
+      "offset": 6191,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「だって……朝倉……」",
+      "en": "\"But...... Asakura......\"",
+      "text": "\"But...... Asakura......\""
+    },
+    {
+      "offset": 6220,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今度こそ鳩が銀球鉄砲をくらったような顔の眞\n子に、笑いかける。",
+      "en": "I smiled at her surprised face.",
+      "text": "I smiled at her surprised face."
+    },
+    {
+      "offset": 6288,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おまえ、俺を誰だと思ってるんだ？」",
+      "en": "\"Who do you think I am?\"",
+      "text": "\"Who do you think I am?\""
+    },
+    {
+      "offset": 6359,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「変態」",
+      "en": "\"A pervert.\"",
+      "text": "\"A pervert.\""
+    },
+    {
+      "offset": 6374,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ぐっ！？」",
+      "en": "\"Ugh!\"",
+      "text": "\"Ugh!\""
+    },
+    {
+      "offset": 6393,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ま……まぁ、そういう冗談はおいておいてだ」",
+      "en": "\"Enough with the jokes......\"",
+      "text": "\"Enough with the jokes......\""
+    },
+    {
+      "offset": 6444,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだか、こんな時まで言い切られてしまうこ\nとに胸が痛む。",
+      "en": "It's hurtful to hear her say things like that, given the\ncircumstances.",
+      "text": "It's hurtful to hear her say things like that, given the\ncircumstances."
+    },
+    {
+      "offset": 6508,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺は、｛・・／あの｝萌先輩の恋人だぞ！」",
+      "en": "\"I'm Moe-sempai's boyfriend!\"",
+      "text": "\"I'm Moe-sempai's boyfriend!\""
+    },
+    {
+      "offset": 6557,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そうとも。ちょっとやそっとのことで挫けてい\nたらキリが無い。",
+      "en": "Yes, I am. I can't let one small incident ruin this.",
+      "text": "Yes, I am. I can't let one small incident ruin this."
+    },
+    {
+      "offset": 6651,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あ……いや、なにバカなこと言ってんのよ」",
+      "en": "\"Oh...... I mean, why are you being so silly?\"",
+      "text": "\"Oh...... I mean, why are you being so silly?\""
+    },
+    {
+      "offset": 6700,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「真面目な話だろうが」",
+      "en": "\"I'm being serious.\"",
+      "text": "\"I'm being serious.\""
+    },
+    {
+      "offset": 6757,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 6804,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ふっ……」",
+      "en": "\"Huh......\"",
+      "text": "\"Huh......\""
+    },
+    {
+      "offset": 6834,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「そうだね。あのお姉ちゃんの恋人になれるく\n　らいだもんね……あんたは！」",
+      "en": "\"You're right. You're crazy enough to be my sister's\nboyfriend!\"",
+      "text": "\"You're right. You're crazy enough to be my sister's\nboyfriend!\""
+    },
+    {
+      "offset": 6914,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子が小さくでも微笑む。",
+      "en": "Mako slightly smiled.",
+      "text": "Mako slightly smiled."
+    },
+    {
+      "offset": 6945,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いまいち、自慢になるかどうかはビミョーな\n　ところだけどな」",
+      "en": "\"I don't know if I'm supposed to be proud about that......\"",
+      "text": "\"I don't know if I'm supposed to be proud about that......\""
+    },
+    {
+      "offset": 7013,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺も苦笑いを浮かべながら肩をすくめた。",
+      "en": "I shrugged my shoulders as I smiled wryly.",
+      "text": "I shrugged my shoulders as I smiled wryly."
+    },
+    {
+      "offset": 7086,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「でさ……悪いんだけど、お姉ちゃんの居場所\n　はあたしも知らないんだ」",
+      "en": "What a pain.",
+      "text": "What a pain."
+    },
+    {
+      "offset": 7162,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「家で寝てるんじゃないのか？」",
+      "en": "\"Well, I'm sorry, but I don't even know where she is.\"",
+      "text": "\"Well, I'm sorry, but I don't even know where she is.\""
+    },
+    {
+      "offset": 7227,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「それが……朝にはベッドが空になってい\n　て……」",
+      "en": "\"She might be sleeping at home?\"",
+      "text": "\"She might be sleeping at home?\""
+    },
+    {
+      "offset": 7283,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「はぁ！？」",
+      "en": "\"Well...... her bed was empty this morning......\"",
+      "text": "\"Well...... her bed was empty this morning......\""
+    },
+    {
+      "offset": 7302,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わず変なところで驚いてしまう。",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 7341,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「有り得ないだろう、それは？」",
+      "en": "I replied with a surprised voice.",
+      "text": "I replied with a surprised voice."
+    },
+    {
+      "offset": 7406,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あたしだってビックリしたわよ！　だから、\n　あんたに声かけたんじゃない！」",
+      "en": "\"No way, are you serious?\"",
+      "text": "\"No way, are you serious?\""
+    },
+    {
+      "offset": 7488,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「そりゃ、心配にもなるか」",
+      "en": "\"I was surprised too! That's why I came to talk to you!\"",
+      "text": "\"I was surprised too! That's why I came to talk to you!\""
+    },
+    {
+      "offset": 7521,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "むしろ、前日から帰っていないほうが、どこか\nで寝ているんじゃないか、と思えるくらいだか\nらな。",
+      "en": "\"Right. That's a problem.\"",
+      "text": "\"Right. That's a problem.\""
+    },
+    {
+      "offset": 7620,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「早起きってのは……何かあったのか」",
+      "en": "If she hasn't been home since last night, at least we can\nassume that she fell asleep somewhere.",
+      "text": "If she hasn't been home since last night, at least we can\nassume that she fell asleep somewhere."
+    },
+    {
+      "offset": 7691,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……うん」",
+      "en": "\"I can't believe she actually woke up early...... I wonder\nwhat happened.\"",
+      "text": "\"I can't believe she actually woke up early...... I wonder\nwhat happened.\""
+    },
+    {
+      "offset": 7710,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「そうか。サンキュ」",
+      "en": "\"......Yeah.\"",
+      "text": "\"......Yeah.\""
+    },
+    {
+      "offset": 7765,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ちょっと、どこ行くのよ朝倉っ！」",
+      "en": "\"Hey, where are you going, Asakura?\"",
+      "text": "\"Hey, where are you going, Asakura?\""
+    },
+    {
+      "offset": 7815,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "突然に背を向けた俺に眞子が声をかけてくる。",
+      "en": "Mako called me as I turned around all of a sudden.",
+      "text": "Mako called me as I turned around all of a sudden."
+    },
+    {
+      "offset": 7864,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「今から萌先輩を探しに行く！　代返頼むぞ！」",
+      "en": "\"I'm going to look for Moe-sempai now! You answer the call\nfor me in class!\"",
+      "text": "\"I'm going to look for Moe-sempai now! You answer the call\nfor me in class!\""
+    },
+    {
+      "offset": 7926,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「代返って無茶言わないでよ！」",
+      "en": "\"Don't be ridiculous!\"",
+      "text": "\"Don't be ridiculous!\""
+    },
+    {
+      "offset": 7963,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あぁ、もうじれったいな」",
+      "en": "\"You're so irritating!\"",
+      "text": "\"You're so irritating!\""
+    },
+    {
+      "offset": 7996,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "足踏みしながら振り返る。",
+      "en": "I stomped my feet and looked back.",
+      "text": "I stomped my feet and looked back."
+    },
+    {
+      "offset": 8027,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんとかしろっての」",
+      "en": "\"You just take care of it!\"",
+      "text": "\"You just take care of it!\""
+    },
+    {
+      "offset": 8089,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「そもそもクラスが違うでしょうが！」",
+      "en": "\"But we're not even in the same class!\"",
+      "text": "\"But we're not even in the same class!\""
+    },
+    {
+      "offset": 8132,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ふぅ〜、まったく使えない奴だ」",
+      "en": "\"Huh...... You're so useless.\"",
+      "text": "\"Huh...... You're so useless.\""
+    },
+    {
+      "offset": 8171,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やれやれ、と深夜の通販番組なみに大きく首を\n振る。",
+      "en": "I shook my head like I do toward the midnight shopping\nprogram.",
+      "text": "I shook my head like I do toward the midnight shopping\nprogram."
+    },
+    {
+      "offset": 8255,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あ、あんたねぇ……絶対に知っててやってる\n　でしょ！？」",
+      "en": "\"You...... you're just trying to give me a hard time, aren't\nyou?\"",
+      "text": "\"You...... you're just trying to give me a hard time, aren't\nyou?\""
+    },
+    {
+      "offset": 8319,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ｈａｈａｈａ。まさかシンディ。そんなこと\n　有り得ないよ」",
+      "en": "\"Hahaha. No way, Cindy. Why would I do that?\"",
+      "text": "\"Hahaha. No way, Cindy. Why would I do that?\""
+    },
+    {
+      "offset": 8413,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「か……ぐぐ……！」",
+      "en": "\"Ugh......!\"",
+      "text": "\"Ugh......!\""
+    },
+    {
+      "offset": 8440,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 8459,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ははは」",
+      "en": "\"Hahaha.\"",
+      "text": "\"Hahaha.\""
+    },
+    {
+      "offset": 8504,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ぁ？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 8519,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わず吹き出してしまった。",
+      "en": "I laughed hard at her.",
+      "text": "I laughed hard at her."
+    },
+    {
+      "offset": 8552,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どうだ元気出ただろう？」",
+      "en": "\"How's that? Don't you feel better?\"",
+      "text": "\"How's that? Don't you feel better?\""
+    },
+    {
+      "offset": 8613,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あ、え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 8632,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「前にも言っただろうが。おまえはそれくらい\n　が可愛いんだって」",
+      "en": "\"I told you before. You're cute just like that.\"",
+      "text": "\"I told you before. You're cute just like that.\""
+    },
+    {
+      "offset": 8702,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "意地わるく笑いながら肩をすくめる。",
+      "en": "I shrugged my shoulders with a mischievous smile.",
+      "text": "I shrugged my shoulders with a mischievous smile."
+    },
+    {
+      "offset": 8771,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「朝倉、あんたってやつは……」",
+      "en": "\"Asakura, you are......\"",
+      "text": "\"Asakura, you are......\""
+    },
+    {
+      "offset": 8808,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「そうじゃないと、可愛くなさ過ぎちまうだろ」",
+      "en": "\"Cheer up, or you won't look cute!\"",
+      "text": "\"Cheer up, or you won't look cute!\""
+    },
+    {
+      "offset": 8887,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あんたってやつは……本当にその余計な一言\n　さえなきゃ……！！」",
+      "en": "\"Only if you can shut your mouth......!!\"",
+      "text": "\"Only if you can shut your mouth......!!\""
+    },
+    {
+      "offset": 8959,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「本当に行くぞ」",
+      "en": "\"I'm going now.\"",
+      "text": "\"I'm going now.\""
+    },
+    {
+      "offset": 8991,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "手を上げて走り出す。",
+      "en": "I waved my hand and started running.",
+      "text": "I waved my hand and started running."
+    },
+    {
+      "offset": 9029,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あ、朝倉……あとひとつだけ」",
+      "en": "\"Oh, Asakura, one more thing......\"",
+      "text": "\"Oh, Asakura, one more thing......\""
+    },
+    {
+      "offset": 9066,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……なんだよ。用件は１回で済ませよ」",
+      "en": "\"......What is it? Don't keep telling me lots of things!\"",
+      "text": "\"......What is it? Don't keep telling me lots of things!\""
+    },
+    {
+      "offset": 9111,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "仕方なくまた振り向いてしまう。",
+      "en": "Once again I turned around toward her.",
+      "text": "Once again I turned around toward her."
+    },
+    {
+      "offset": 9181,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あのさ……あんたには悪いんだけど、元気が\n　出てるところで。でも、知っておいたほうが\n　いいと思って」",
+      "en": "\"Umm...... I feel bad, but I need to tell you something\nbecause you're starting to feel better.\"",
+      "text": "\"Umm...... I feel bad, but I need to tell you something\nbecause you're starting to feel better.\""
+    },
+    {
+      "offset": 9290,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「なんだ？　もぅ、ここまで来たら何言われて\n　も変わらないぞ」",
+      "en": "\"What is it? Nothing's going to make me feel worse.\"",
+      "text": "\"What is it? Nothing's going to make me feel worse.\""
+    },
+    {
+      "offset": 9358,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぎゅっ、と拳を握り締めて眞子が頷く。",
+      "en": "Mako nodded as she tightly balled up her fist.",
+      "text": "Mako nodded as she tightly balled up her fist."
+    },
+    {
+      "offset": 9429,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「啓くんが死んだの……交通事故なんだ」",
+      "en": "\"Kei died in an accident......\"",
+      "text": "\"Kei died in an accident......\""
+    },
+    {
+      "offset": 9474,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "風に負けないようにか、眞子が大きな声で叫ぶ。",
+      "en": "Mako screamed out so her voice wouldn't be blown away by the\nwind.",
+      "text": "Mako screamed out so her voice wouldn't be blown away by the\nwind."
+    },
+    {
+      "offset": 9525,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 9555,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あんたと同じで、お姉ちゃんかばって死んだ\n　んだよ……分かる？」",
+      "en": "\"He died when he tried to save my sister...... just like\nyou. You understand?\"",
+      "text": "\"He died when he tried to save my sister...... just like\nyou. You understand?\""
+    },
+    {
+      "offset": 9627,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ははは……」",
+      "en": "\"Hahaha......\"",
+      "text": "\"Hahaha......\""
+    },
+    {
+      "offset": 9648,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わず笑みがこぼれてしまう。",
+      "en": "I couldn't help but to smile.",
+      "text": "I couldn't help but to smile."
+    },
+    {
+      "offset": 9683,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そりゃ……これ以上ないってくらい、強力な\n　｛ライバル／恋敵｝だな」",
+      "en": "\"Well...... That means he's a huge rival for me.\"",
+      "text": "\"Well...... That means he's a huge rival for me.\""
+    },
+    {
+      "offset": 9759,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "かすかに全身が汗ばむ。",
+      "en": "My entire body was sweating.",
+      "text": "My entire body was sweating."
+    },
+    {
+      "offset": 9786,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "死んだ人間は、想像しだいでいくらでもかっこ\nよくなるからな……。",
+      "en": "A dead person can be glamorized, it just takes\nimagination......",
+      "text": "A dead person can be glamorized, it just takes\nimagination......"
+    },
+    {
+      "offset": 9884,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「助けてあげて。お姉ちゃんを……」",
+      "en": "\"Please help my sister......\"",
+      "text": "\"Please help my sister......\""
+    },
+    {
+      "offset": 9936,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「啓くんも、こんなこと望んでないはずだから」",
+      "en": "\"I know Keis-kun wouldn't want this either.\"",
+      "text": "\"I know Keis-kun wouldn't want this either.\""
+    },
+    {
+      "offset": 9987,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ま、｛ライバル／恋敵｝の心配まではしてやれるかどうか知\n　らんがな」",
+      "en": "\"I don't know if I'd care about what my rival thinks.\"",
+      "text": "\"I don't know if I'd care about what my rival thinks.\""
+    },
+    {
+      "offset": 10063,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "出来るだけ軽さを意識して笑う。",
+      "en": "I tried to smile as lightly as I could.",
+      "text": "I tried to smile as lightly as I could."
+    },
+    {
+      "offset": 10128,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あのさ」",
+      "en": "\"Hey,\"",
+      "text": "\"Hey,\""
+    },
+    {
+      "offset": 10173,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あんたなら出来ると思うよ！」",
+      "en": "\"I think you can do it!\"",
+      "text": "\"I think you can do it!\""
+    },
+    {
+      "offset": 10210,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 10238,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "駆けながら、なにげなく呟く。",
+      "en": "I muttered as I ran.",
+      "text": "I muttered as I ran."
+    },
+    {
+      "offset": 10273,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「やっぱ、笑顔は似合わないか」",
+      "en": "\"You don't look like you were really smiling.\"",
+      "text": "\"You don't look like you were really smiling.\""
+    },
+    {
+      "offset": 10321,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「！　だから、あんたってやつは――！」",
+      "en": "\"Hey you!!\"",
+      "text": "\"Hey you!!\""
+    },
+    {
+      "offset": 10366,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子のいつもの叫び声を背中に聞きながら、俺\nは重たい鉄の扉を開いた。",
+      "en": "As I hear Mako's usual scream, I opened the heavy steel door\nof the rooftop.",
+      "text": "As I hear Mako's usual scream, I opened the heavy steel door\nof the rooftop."
+    },
+    {
+      "offset": 10556,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆眞子のハッパ◆",
+      "en": "◆Mako's pep talk◆",
+      "text": "◆Mako's pep talk◆"
+    },
+    {
+      "offset": 10601,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子にハッパを掛けられてしまった。",
+      "en": "Mako cheered me up.",
+      "text": "Mako cheered me up."
+    },
+    {
+      "offset": 10640,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そうだよな、俺は萌先輩の恋人なんだ。俺が、\n萌先輩を助けなくちゃ。",
+      "en": "That's right. I'm her boyfriend. I have to save Moe-sempai.",
+      "text": "That's right. I'm her boyfriend. I have to save Moe-sempai."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "502": "Mako",
+    "561": "Mako",
+    "709": "Mako",
+    "895": "Mako",
+    "970": "Mako",
+    "1441": "Mako",
+    "1488": "Mako",
+    "1630": "Mako",
+    "1791": "Mako",
+    "1962": "Mako",
+    "2159": "Mako",
+    "2241": "Mako",
+    "2513": "Mako",
+    "2588": "Mako",
+    "2723": "Mako",
+    "2982": "Mako",
+    "3137": "Mako",
+    "3439": "Mako",
+    "3526": "Mako",
+    "3717": "Mako",
+    "3855": "Mako",
+    "3959": "Mako",
+    "4072": "Mako",
+    "4293": "Mako",
+    "4595": "Mako",
+    "4726": "Mako",
+    "5077": "Mako",
+    "5181": "Mako",
+    "5266": "Mako",
+    "5671": "Mako",
+    "5769": "Mako",
+    "5846": "Mako",
+    "6132": "Mako",
+    "6183": "Mako",
+    "6351": "Mako",
+    "6643": "Mako",
+    "6749": "Mako",
+    "6796": "Mako",
+    "6826": "Mako",
+    "7078": "Mako",
+    "7219": "Mako",
+    "7398": "Mako",
+    "7683": "Mako",
+    "7757": "Mako",
+    "7918": "Mako",
+    "8081": "Mako",
+    "8247": "Mako",
+    "8405": "Mako",
+    "8496": "Mako",
+    "8605": "Mako",
+    "8763": "Mako",
+    "8879": "Mako",
+    "9021": "Mako",
+    "9173": "Mako",
+    "9421": "Mako",
+    "9547": "Mako",
+    "9876": "Mako",
+    "9928": "Mako",
+    "10120": "Mako",
+    "10165": "Mako",
+    "10313": "Mako"
+  }
+}

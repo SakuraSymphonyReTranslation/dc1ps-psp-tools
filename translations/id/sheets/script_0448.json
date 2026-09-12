@@ -1,0 +1,957 @@
+{
+  "scene": "script_0448.obj",
+  "dialogues": [
+    {
+      "offset": 212,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「いやにご機嫌だね」",
+      "en": "\"Why are you here anyway? Still in the morning.\"",
+      "text": "\"Why are you here anyway? Still in the morning.\""
+    },
+    {
+      "offset": 354,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "別に笑うつもりじゃないんだけど、自然と顔が\nそうなってしまう。",
+      "en": "\"I've got nothing to do. Besides, it's boring to stay at\nhome.\"",
+      "text": "\"I've got nothing to do. Besides, it's boring to stay at\nhome.\""
+    },
+    {
+      "offset": 448,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「と言うか、なんで午前中なのに、朝倉がここ\n　にいるのかな？」",
+      "en": "\"Aren't you gonna have a graduation party or something?\"",
+      "text": "\"Aren't you gonna have a graduation party or something?\""
+    },
+    {
+      "offset": 516,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「いやぁ、いろいろやることは終わっちゃって。\n　２年生とかはまだ授業あるし。家にひとりで\n　いても、つまんないんですよ」",
+      "en": "\"No such plans.\"",
+      "text": "\"No such plans.\""
+    },
+    {
+      "offset": 763,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「やれやれ。付属生活の最後だってのに相変わ\n　らず“かったるい”ってヤツかい？」",
+      "en": "\"This is your last year on this campus. Don't spend it just\ngoofing around.\"",
+      "text": "\"This is your last year on this campus. Don't spend it just\ngoofing around.\""
+    },
+    {
+      "offset": 849,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「なんなら、何か学園史に残るようなことを考\n　えましょうか？」",
+      "en": "\"Do you want me to do something big -- like historic?\"",
+      "text": "\"Do you want me to do something big -- like historic?\""
+    },
+    {
+      "offset": 943,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「……いいよ、あんたはろくでもないことをし\n　そうだから」",
+      "en": "\"No thanks. I don't trust you with that.\"",
+      "text": "\"No thanks. I don't trust you with that.\""
+    },
+    {
+      "offset": 1090,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「あたし、観てたテレビが、臨時ニュースで潰\n　されるのは嫌いなんだ」",
+      "en": "\"Too bad. I could do something really newsworthy.\"",
+      "text": "\"Too bad. I could do something really newsworthy.\""
+    },
+    {
+      "offset": 1164,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「なおさら残念」",
+      "en": "\"I hate to be interrupted by breaking news when I'm watching\nmy favorite show on TV.\"",
+      "text": "\"I hate to be interrupted by breaking news when I'm watching\nmy favorite show on TV.\""
+    },
+    {
+      "offset": 1213,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「まぁ、天枷がこっちへ来るまで暇なら、あた\n　しの仕事を手伝ってよ。バイト代払うから」",
+      "en": "\"Sorry to hear that.\"",
+      "text": "\"Sorry to hear that.\""
+    },
+    {
+      "offset": 1305,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「いいんすか？　講師がそんなことをして」",
+      "en": "\"Why don't you help me out while waiting for Amakase? I'll\npay you.\"",
+      "text": "\"Why don't you help me out while waiting for Amakase? I'll\npay you.\""
+    },
+    {
+      "offset": 1404,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……さいですか。",
+      "en": "\"Are you allowed to do that?\"",
+      "text": "\"Are you allowed to do that?\""
+    },
+    {
+      "offset": 1453,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「やることは単純明快。あたしが書いている最\n　中の天枷のレポートをまとめてくれればいい」",
+      "en": "\"I'm the law here.\"",
+      "text": "\"I'm the law here.\""
+    },
+    {
+      "offset": 1547,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「最重要機密なんじゃなかったんスか？」",
+      "en": "No objection...",
+      "text": "No objection..."
+    },
+    {
+      "offset": 1601,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「そういう部分は見せないの。任せるのは朝倉\n　がもう知ってる部分だけだから」",
+      "en": "\"It's easy. You just put together the report on Amakase I'm\nworking on.\"",
+      "text": "\"It's easy. You just put together the report on Amakase I'm\nworking on.\""
+    },
+    {
+      "offset": 1683,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言って、暦先生が、いたずらっぽく微笑む。",
+      "en": "\"Isn't that supposed to be Top Secret?\"",
+      "text": "\"Isn't that supposed to be Top Secret?\""
+    },
+    {
+      "offset": 1739,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「それに見せたってどうせ、内容なんかわかん\n　ないでしょ？」",
+      "en": "\"You'll be working on something you already know about,\nanyway you wouldn't be able to guess what parts are Top\nSecret, would you?\"",
+      "text": "\"You'll be working on something you already know about,\nanyway you wouldn't be able to guess what parts are Top\nSecret, would you?\""
+    },
+    {
+      "offset": 1805,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「いやぁ、わかるかもしれないですよ」",
+      "en": "\"Maybe... I would...\"",
+      "text": "\"Maybe... I would...\""
+    },
+    {
+      "offset": 1874,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「そういう台詞は、せめて杉並や水越よりいい\n　点をとってから言ってくれ」",
+      "en": "\"Save your breath. You can only say that when you start to\noutperform Suginami and Mizukoshi on exams.\"",
+      "text": "\"Save your breath. You can only say that when you start to\noutperform Suginami and Mizukoshi on exams.\""
+    },
+    {
+      "offset": 1952,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「はっはっは。この歳でボクの頭脳の力が知れ\n　渡っては、悪の組織に利用されてしまいます\n　よ。まずはそのための力を蓄えて……」",
+      "en": "\"Hahaha. If my intelligence became known to everyone, some\nbad guys might find out and try to exploit it. That's why\nI'm training myself to fight against those...\"",
+      "text": "\"Hahaha. If my intelligence became known to everyone, some\nbad guys might find out and try to exploit it. That's why\nI'm training myself to fight against those...\""
+    },
+    {
+      "offset": 2109,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「じゃ、あたしは授業に行ってくるから、パソ\n　コンで今開いている画面のテキストデータを\n　日付ごとにまとめといて」",
+      "en": "\"I've got to go to class. Sort that data on the screen by\ndate, will you?\"",
+      "text": "\"I've got to go to class. Sort that data on the screen by\ndate, will you?\""
+    },
+    {
+      "offset": 2228,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……無視かよ。ナイーブな｛おれ／生徒｝の心が傷つくぜ。",
+      "en": "I haven't finished my monologue...",
+      "text": "I haven't finished my monologue..."
+    },
+    {
+      "offset": 2296,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "先生は、書類をまとめると、白衣をひるがえし\nて部屋を出ていった。",
+      "en": "After sorting some files out on the desk, Koyomi-sensei left\nthe room.",
+      "text": "After sorting some files out on the desk, Koyomi-sensei left\nthe room."
+    },
+    {
+      "offset": 2364,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は先生の椅子に座り、パソコンと向かい合う。\nそんなに経験があるほうではないが、マウスを\n操作し、キーを叩く程度はできる。",
+      "en": "I sit on her chair and begin to work. I don't have much of\nwork experience, but typing isn't a hard thing to do.",
+      "text": "I sit on her chair and begin to work. I don't have much of\nwork experience, but typing isn't a hard thing to do."
+    },
+    {
+      "offset": 2538,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「うあぁ……肩がいてぇ」",
+      "en": "\"Oh... I've got a stiff back.\"",
+      "text": "\"Oh... I've got a stiff back.\""
+    },
+    {
+      "offset": 2569,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "慣れない事務作業をすると、肩に来るな。",
+      "en": "This administrative work hurts my shoulders.",
+      "text": "This administrative work hurts my shoulders."
+    },
+    {
+      "offset": 2612,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "レポートは結構量があって、まとめるのがひと\n苦労だった。",
+      "en": "It was quite a bit of work because there were a lot of\nreports to put together.",
+      "text": "It was quite a bit of work because there were a lot of\nreports to put together."
+    },
+    {
+      "offset": 2705,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ただいまぁ」",
+      "en": "\"I'm back.\"",
+      "text": "\"I'm back.\""
+    },
+    {
+      "offset": 2726,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お昼前になって、ようやく先生が帰ってきた。",
+      "en": "Koyomi-sensei came back right before noon.",
+      "text": "Koyomi-sensei came back right before noon."
+    },
+    {
+      "offset": 2801,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「あれ？　元気ないねぇ。そんなに難しい仕事\n　を頼んだつもりは、なかったんだけど……」",
+      "en": "\"What's up? You look tired. I hope I didn't give you too\nmuch work to do.\"",
+      "text": "\"What's up? You look tired. I hope I didn't give you too\nmuch work to do.\""
+    },
+    {
+      "offset": 2893,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「そうですか？」",
+      "en": "\"Do I look tired?\"",
+      "text": "\"Do I look tired?\""
+    },
+    {
+      "offset": 2942,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「なんとなく。今朝は笑ってたのにさ」",
+      "en": "\"Sort of. Compared with this morning when you were smiling.\"",
+      "text": "\"Sort of. Compared with this morning when you were smiling.\""
+    },
+    {
+      "offset": 2985,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そういう風に見えちゃうか。そうかもしれない\nけど。",
+      "en": "I have no idea how I look most of the time.",
+      "text": "I have no idea how I look most of the time."
+    },
+    {
+      "offset": 3050,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「お昼、食べるでしょ？　買ってきたよ」",
+      "en": "\"You want lunch, right? I got you something.\"",
+      "text": "\"You want lunch, right? I got you something.\""
+    },
+    {
+      "offset": 3095,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "先生がそう言って、机の上にサンドイッチやら\nおにぎりやらの入った袋を置いた。",
+      "en": "Koyomi-sensei puts a bag full of food on the desk.",
+      "text": "Koyomi-sensei puts a bag full of food on the desk."
+    },
+    {
+      "offset": 3177,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……先生は、美春の記憶のこと、どう思いま\n　すか？」",
+      "en": "\"Koyomi-sensei, what do you make of Miharu's memories?\"",
+      "text": "\"Koyomi-sensei, what do you make of Miharu's memories?\""
+    },
+    {
+      "offset": 3263,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ああ、そのことか」",
+      "en": "\"Ah, that thing...\"",
+      "text": "\"Ah, that thing...\""
+    },
+    {
+      "offset": 3290,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "先生が妙に納得した顔をする。",
+      "en": "Koyomi-sensei gives me a serious look.",
+      "text": "Koyomi-sensei gives me a serious look."
+    },
+    {
+      "offset": 3325,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「やっぱり、美春には『天枷美春』の記憶はな\n　いんですか？　それが、美春の身体の不調を\n　引き起こしてるんですか？」",
+      "en": "\"Do you really think Miharu has no memories of Miharu\nAmakase? And is that the reason why she gets sick?\"",
+      "text": "\"Do you really think Miharu has no memories of Miharu\nAmakase? And is that the reason why she gets sick?\""
+    },
+    {
+      "offset": 3472,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ふむ……」",
+      "en": "\"Hmm...\"",
+      "text": "\"Hmm...\""
+    },
+    {
+      "offset": 3491,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "先生は、ため息を吐き、もうひとつの椅子に腰\nを降ろした。",
+      "en": "Koyomi-sensei sighs deeply and sits on the other chair.",
+      "text": "Koyomi-sensei sighs deeply and sits on the other chair."
+    },
+    {
+      "offset": 3579,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「前も言ったけれど、あたしが楽観的な見方を\n　するわけにはいかないからね、立場上」",
+      "en": "\"As I said before, I can't always be 100% positive on this.\"",
+      "text": "\"As I said before, I can't always be 100% positive on this.\""
+    },
+    {
+      "offset": 3676,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「天枷に、記憶のデータが入っていないという\n　のは設計上の紛れもない事実だ。不調もそれ\n　が原因だと考えるのが一番わかりやすい」",
+      "en": "\"It's an architectural truth that Amakase has no memory\ndata. I think her shutting down can be attributed to that.\"",
+      "text": "\"It's an architectural truth that Amakase has no memory\ndata. I think her shutting down can be attributed to that.\""
+    },
+    {
+      "offset": 3809,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "先生のレポートには、これまで俺が報告してき\nたことが細大漏らさずに記されていた。",
+      "en": "Koyomi-sensei's report has all the detailed descriptions\nthat I told her about.",
+      "text": "Koyomi-sensei's report has all the detailed descriptions\nthat I told her about."
+    },
+    {
+      "offset": 3893,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春の不調のこと。その原因について。そして、\nその結果、予想されること……。",
+      "en": "Miharu's health condition, its cause and effect, and\npredictions.",
+      "text": "Miharu's health condition, its cause and effect, and\npredictions."
+    },
+    {
+      "offset": 3984,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「造ったあたしが言うのもなんだけど、あの人\n　工知能はまだ未知数なんだ。人間の脳だって、\n　まだまだ不明なことだらけだし」",
+      "en": "\"Artificial intelligence is uncharted territory. Regarding\nour own brains, there are a lot of things we don't\nunderstand.\"",
+      "text": "\"Artificial intelligence is uncharted territory. Regarding\nour own brains, there are a lot of things we don't\nunderstand.\""
+    },
+    {
+      "offset": 4120,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「アレは、そういう｛あいまい／曖昧｝なテクノロジーを含め\n　て造られているんだよ」",
+      "en": "\"She was built on such a fuzzy technology as well. In fact,\nthere may be a possibility that some kind of memory data\nslipped into her system.\"",
+      "text": "\"She was built on such a fuzzy technology as well. In fact,\nthere may be a possibility that some kind of memory data\nslipped into her system.\""
+    },
+    {
+      "offset": 4208,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暦先生はそこで言葉を切り、じっと俺のほうを\n見つめた。",
+      "en": "\"So that means...\"",
+      "text": "\"So that means...\""
+    },
+    {
+      "offset": 4277,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「まあ実際、記憶データのようなものが紛れて\n　いる可能性もないわけじゃない」",
+      "en": "\"The possibility works both ways. Maybe there is, and maybe\nnot.\"",
+      "text": "\"The possibility works both ways. Maybe there is, and maybe\nnot.\""
+    },
+    {
+      "offset": 4475,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "カチリとライターのふたが開く。オイル独特の\n匂いが漂ってきた。",
+      "en": "Koyomi-sensei lights a cigarette up. I can smell something\noily.",
+      "text": "Koyomi-sensei lights a cigarette up. I can smell something\noily."
+    },
+    {
+      "offset": 4548,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あの……信じてもらえないかも知れないけど、\n　俺、時々、人の夢を見ることがあるんです」",
+      "en": "\"Uh... You may not believe this, but sometimes I find myself\nin other people's dreams.\"",
+      "text": "\"Uh... You may not believe this, but sometimes I find myself\nin other people's dreams.\""
+    },
+    {
+      "offset": 4679,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「夢を見る？」",
+      "en": "\"Other people's dreams?\"",
+      "text": "\"Other people's dreams?\""
+    },
+    {
+      "offset": 4700,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛けげん／怪訝｝そうな暦先生に、俺は頷いた。",
+      "en": "\"While sleeping, somebody else's dream just gets into in my\ndream. I know it sounds ridiculous, but it's true.\"",
+      "text": "\"While sleeping, somebody else's dream just gets into in my\ndream. I know it sounds ridiculous, but it's true.\""
+    },
+    {
+      "offset": 4895,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「いや、別に否定はしないよ。正面切って信じ\n　てるとも言わないけどさ。そういう類の話を\n　他にも知ってるから」",
+      "en": "\"I can either ignore that or believe it, but I've heard of\nthat kind of story before.\"",
+      "text": "\"I can either ignore that or believe it, but I've heard of\nthat kind of story before.\""
+    },
+    {
+      "offset": 5010,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「俺……美春の夢を見たんです。最初は子供の\n　頃の俺と音夢と美春の３人で遊んでいる夢」",
+      "en": "\"I was in Miharu's dream. Nemu, Miharu and I were all kids\nand playing together.\"",
+      "text": "\"I was in Miharu's dream. Nemu, Miharu and I were all kids\nand playing together.\""
+    },
+    {
+      "offset": 5102,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「そして、夕べまた見たんです。最初の夢より\n　もっと明確な夢です。昔、ある場所で美春と\n　一緒に遊んだときの夢です」",
+      "en": "\"Then I had a dream again last night. It was much clearer\nthis time. Miharu and I were playing somewhere.\"",
+      "text": "\"Then I had a dream again last night. It was much clearer\nthis time. Miharu and I were playing somewhere.\""
+    },
+    {
+      "offset": 5232,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「それで、朝倉は天枷の記憶について、肯定的\n　だったんだね」",
+      "en": "\"No wonder you were so sure about Amakase's dream.\"",
+      "text": "\"No wonder you were so sure about Amakase's dream.\""
+    },
+    {
+      "offset": 5298,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は無言で頷いた。",
+      "en": "I nodded yes.",
+      "text": "I nodded yes."
+    },
+    {
+      "offset": 5349,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「夢なんてモノも実際はまだはっきりしない。\n　夢は、様々な情報を処理している時の情報の\n　流れを見ているものだっていう見方もある」",
+      "en": "\"There is so much stuff we don't know yet about dreams. Some\npeople say dreams are like a flow of information running\nthrough our brains when they're processing information.\"",
+      "text": "\"There is so much stuff we don't know yet about dreams. Some\npeople say dreams are like a flow of information running\nthrough our brains when they're processing information.\""
+    },
+    {
+      "offset": 5493,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「実際は、あたしだってわからないから否定的\n　な意見で通させてもらってるんだ」",
+      "en": "\"Since we can't explain this, I have no choice but to play\non the safe side.\"",
+      "text": "\"Since we can't explain this, I have no choice but to play\non the safe side.\""
+    },
+    {
+      "offset": 5577,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぷはぁと、天井に向けてケムリが吐かれる。",
+      "en": "The smoke Koyomi-sensei exhales floats up to the ceiling.",
+      "text": "The smoke Koyomi-sensei exhales floats up to the ceiling."
+    },
+    {
+      "offset": 5633,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「そりゃ、天枷が記憶を持ってるってほうが、\n　あたしだって嬉しいさ。研究だって進むし、\n　何よりあの子が喜ぶからね」",
+      "en": "\"Honestly, I'd be happy if Amakase truly did have her\nmemories because it could advance our research, but most of\nall, it'd make Amakase happy.\"",
+      "text": "\"Honestly, I'd be happy if Amakase truly did have her\nmemories because it could advance our research, but most of\nall, it'd make Amakase happy.\""
+    },
+    {
+      "offset": 5763,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「だからこそ、敢えて言うよ。思い出探しなん\n　てやめな」",
+      "en": "\"So let me get this straight. Stop searching for her\nmemories.\"",
+      "text": "\"So let me get this straight. Stop searching for her\nmemories.\""
+    },
+    {
+      "offset": 5825,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「えっ？」",
+      "en": "\"Amakase is a working prototype. She was not built to\nfunction on a long term basis anyway.\"",
+      "text": "\"Amakase is a working prototype. She was not built to\nfunction on a long term basis anyway.\""
+    },
+    {
+      "offset": 5851,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「天枷はプロトタイプだ。あくまで『本人』の\n　代わりなんだから、もともと長期運用を想定\n　して設計されたわけじゃない」",
+      "en": "\"What does that mean?\"",
+      "text": "\"What does that mean?\""
+    },
+    {
+      "offset": 5974,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「というと……」",
+      "en": "\"She is not going to live for long, and Amakase knows it\ntoo.\"",
+      "text": "\"She is not going to live for long, and Amakase knows it\ntoo.\""
+    },
+    {
+      "offset": 6006,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「その寿命は短いってこと。天枷だって言わな\n　いかもしれないけど、それは知ってるよ」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 6096,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「そんな、だって……」",
+      "en": "\"It's not unique to Amakase. We'll all have to say goodbye\nto people we love someday. No one is an exception.\"",
+      "text": "\"It's not unique to Amakase. We'll all have to say goodbye\nto people we love someday. No one is an exception.\""
+    },
+    {
+      "offset": 6134,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「別に天枷に限ったことじゃない。別れなんて\n　モノは誰にだってあるさ。あたしにだって、\n　クラスの連中だってそうだよ」",
+      "en": "\"It's a matter of when we say it.\"",
+      "text": "\"It's a matter of when we say it.\""
+    },
+    {
+      "offset": 6266,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ちょっと早いか、ちょっと遅いかの違いだけ」",
+      "en": "\"Overburdening the brain will shorten her life. If her\ndisorder continues, that's going to critically shorten her\nlife.\"",
+      "text": "\"Overburdening the brain will shorten her life. If her\ndisorder continues, that's going to critically shorten her\nlife.\""
+    },
+    {
+      "offset": 6326,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「負担をかけるということは、いわば命を削る\n　行為だ。これ以上、エラーが続くようなら、\n　間違いなく天枷の寿命は縮まる」",
+      "en": "\"Why would one want to shorten one's life on purpose? Is\nthat logical even though we all say goodbye in the end\nanyway?\"",
+      "text": "\"Why would one want to shorten one's life on purpose? Is\nthat logical even though we all say goodbye in the end\nanyway?\""
+    },
+    {
+      "offset": 6451,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「…………」",
+      "en": "\"Don't you forget what I said today, Asakura. Especially, if\nyou truly love Amakase.\"",
+      "text": "\"Don't you forget what I said today, Asakura. Especially, if\nyou truly love Amakase.\""
+    },
+    {
+      "offset": 6479,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「いくら別れが確定的だと言っても、それをわ\n　ざわざ自分で縮めることはないだろう？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 6580,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「朝倉も、天枷のことが好きなら、その辺をも\n　う少し考えてくれ」",
+      "en": "\"Don't you love her?\"",
+      "text": "\"Don't you love her?\""
+    },
+    {
+      "offset": 6650,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「――は？」",
+      "en": "\"Wait. How would you know that...?\"",
+      "text": "\"Wait. How would you know that...?\""
+    },
+    {
+      "offset": 6700,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「天枷のこと、好きなんだろう？」",
+      "en": "\"My hunch was right.\"",
+      "text": "\"My hunch was right.\""
+    },
+    {
+      "offset": 6739,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ちょ、ちょっと待ってくださいよ、なんでそ\n　んなこと……知って――」",
+      "en": "\"Uh...\"",
+      "text": "\"Uh...\""
+    },
+    {
+      "offset": 6852,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ああ、やっぱりそうなんだ」",
+      "en": "\"Amakase looked very happy today. So I thought something\nvery nice must've happened.\"",
+      "text": "\"Amakase looked very happy today. So I thought something\nvery nice must've happened.\""
+    },
+    {
+      "offset": 6904,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、カマをかけられたことに気づいた。",
+      "en": "\"Hmm...\"",
+      "text": "\"Hmm...\""
+    },
+    {
+      "offset": 6958,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「いやあ、天枷も今日はやけにご機嫌だったか\n　らさ。なんかあったんだろうって推察してた\n　けど」",
+      "en": "\"Hahaha. I think it's a good thing.\"",
+      "text": "\"Hahaha. I think it's a good thing.\""
+    },
+    {
+      "offset": 7059,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「うう……」",
+      "en": "\"Don't you think it's weird? Miharu is a robot.\"",
+      "text": "\"Don't you think it's weird? Miharu is a robot.\""
+    },
+    {
+      "offset": 7107,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「がらにもなく照れるなよ。いいことじゃん。\n　あたしは賛成だよ」",
+      "en": "\"No, I don't. Do you think it's weird, Asakura?\"",
+      "text": "\"No, I don't. Do you think it's weird, Asakura?\""
+    },
+    {
+      "offset": 7177,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「先生は変に思わないですか？　美春はロボッ\n　トだってのに」",
+      "en": "\"I don't know. It just happened, and I love her now.\"",
+      "text": "\"I don't know. It just happened, and I love her now.\""
+    },
+    {
+      "offset": 7269,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「別に。朝倉だって、なんとも思っていないん\n　だろう？」",
+      "en": "\"There's nothing wrong about that. What's important is your\nfeelings.\"",
+      "text": "\"There's nothing wrong about that. What's important is your\nfeelings.\""
+    },
+    {
+      "offset": 7331,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「なんだか、普通に……気がついたら、好きに\n　なってたっていうか」",
+      "en": "\"Amakase looked so happy and excited. So did you guys...\"",
+      "text": "\"Amakase looked so happy and excited. So did you guys...\""
+    },
+    {
+      "offset": 7429,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「だったら何の問題もないだろ。大切なのは、\n　お互いの気持ちなんだからさ」",
+      "en": "\"Well, yesterday...\"",
+      "text": "\"Well, yesterday...\""
+    },
+    {
+      "offset": 7518,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「と言うか、天枷もご機嫌ってことは、やっぱ\n　アレだよね」",
+      "en": "\"Teehee. Did you guys kiss? Oh, I envy you guys!\"",
+      "text": "\"Teehee. Did you guys kiss? Oh, I envy you guys!\""
+    },
+    {
+      "offset": 7582,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「はぁ……その、昨日」",
+      "en": "\"Oh, no!\"",
+      "text": "\"Oh, no!\""
+    },
+    {
+      "offset": 7648,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「くくく、若いっていいねぇ。うらやましいよ。\n　で、キスとかしたの？」",
+      "en": "\"Oh, not yet?! You should go for it, Asakura!\"",
+      "text": "\"Oh, not yet?! You should go for it, Asakura!\""
+    },
+    {
+      "offset": 7867,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この人は、まったく……。",
+      "en": "\"S-Sensei!\"",
+      "text": "\"S-Sensei!\""
+    },
+    {
+      "offset": 7924,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「あはは、悪い悪い――」",
+      "en": "\"Just kidding.\"",
+      "text": "\"Just kidding.\""
+    },
+    {
+      "offset": 7989,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「でも、だからだよ」",
+      "en": "\"But... That's why...\"",
+      "text": "\"But... That's why...\""
+    },
+    {
+      "offset": 8016,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "先生が不意に真面目な顔つきに戻る。",
+      "en": "Suddenly Koyomi-sensei looks at me seriously.",
+      "text": "Suddenly Koyomi-sensei looks at me seriously."
+    },
+    {
+      "offset": 8066,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「天枷のことが大事なら、そのことをもっとよ\n　く考えてくれ」",
+      "en": "\"If you care about Amakase, you've got to think what I said\ntoday.\"",
+      "text": "\"If you care about Amakase, you've got to think what I said\ntoday.\""
+    },
+    {
+      "offset": 8141,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ないかもしれない記憶を思い出すということ\n　も、身体に負担を与えるけど……」",
+      "en": "\"It'll be a burden on her if she tries to get memories that\ndon't exist.\"",
+      "text": "\"It'll be a burden on her if she tries to get memories that\ndon't exist.\""
+    },
+    {
+      "offset": 8234,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「記憶を思い出せば、それも確実に負担になる\n　ことは覚えておくんだよ」",
+      "en": "\"Furthermore, if she gets her memory back, it'll still be a\nhuge burden on her. Remember that.\"",
+      "text": "\"Furthermore, if she gets her memory back, it'll still be a\nhuge burden on her. Remember that.\""
+    },
+    {
+      "offset": 8310,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「でも……」",
+      "en": "\"As I said before, it's not possible with today's technology\nto implant someone's memory into someone else's.\"",
+      "text": "\"As I said before, it's not possible with today's technology\nto implant someone's memory into someone else's.\""
+    },
+    {
+      "offset": 8338,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「言ったろ？　今の技術じゃ、人間の記憶を移\n　植すること自体、無理なんだ」",
+      "en": "\"You can imagine what would happen if you put more stuff\ninto a bag full of stuff already.\"",
+      "text": "\"You can imagine what would happen if you put more stuff\ninto a bag full of stuff already.\""
+    },
+    {
+      "offset": 8513,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなことをすれば、袋は破れて、モノは――。",
+      "en": "Eventually, the bag would get torn apart. Then things inside\nwould be...",
+      "text": "Eventually, the bag would get torn apart. Then things inside\nwould be..."
+    },
+    {
+      "offset": 8562,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は頭を強く横に振った。",
+      "en": "I shake my head hard.",
+      "text": "I shake my head hard."
+    },
+    {
+      "offset": 8619,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「そこのところ、よくわかった上で、行動して\n　ほしいんだ」",
+      "en": "\"You must make the right decision.\"",
+      "text": "\"You must make the right decision.\""
+    },
+    {
+      "offset": 8683,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "灰皿にタバコが押しつけられる。",
+      "en": "Koyomi-sensei puts her cigarette out on the ashtray.",
+      "text": "Koyomi-sensei puts her cigarette out on the ashtray."
+    },
+    {
+      "offset": 8729,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「あたしだって、天枷は娘みたいなものなんだ\n　から……」",
+      "en": "\"Amakase is like a daughter to me...\"",
+      "text": "\"Amakase is like a daughter to me...\""
+    },
+    {
+      "offset": 8800,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "先生はすっと立ち上がり、窓のそばへ立った。",
+      "en": "Koyomi-sensei stands by the window.",
+      "text": "Koyomi-sensei stands by the window."
+    },
+    {
+      "offset": 8858,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「一年中、同じ景色が続くのは、この島くらい\n　のものだろうね」",
+      "en": "\"It's only on this island where you have the same view\nthroughout the whole year.\"",
+      "text": "\"It's only on this island where you have the same view\nthroughout the whole year.\""
+    },
+    {
+      "offset": 8926,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "窓の外は、相変わらず、桜の花びらがひらひら\nと舞っていた。",
+      "en": "Outside the window, I see cherry blossom petals fluttering\nin the wind.",
+      "text": "Outside the window, I see cherry blossom petals fluttering\nin the wind."
+    },
+    {
+      "offset": 8988,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思い出探し……。やっぱり、美春のためには、\nやめさせるほうがいいのかな。",
+      "en": "Looking for her memories... I guess I should stop her from\ndoing it.",
+      "text": "Looking for her memories... I guess I should stop her from\ndoing it."
+    },
+    {
+      "offset": 9064,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうにかまとめ終わったレポートを眺めながら、\n俺はそう思った。",
+      "en": "While looking down at the report, I wonder what to do.",
+      "text": "While looking down at the report, I wonder what to do."
+    },
+    {
+      "offset": 9234,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆暦先生の忠告◆",
+      "en": "◆Koyomi◆",
+      "text": "◆Koyomi◆"
+    },
+    {
+      "offset": 9279,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暦先生から思い出探しをやめるように忠告され\nた。",
+      "en": "\"Nothing much.\"",
+      "text": "\"Nothing much.\""
+    },
+    {
+      "offset": 9331,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もともと短い美春の寿命。それをさらに縮める\n行為だから、美春のことが好きならその辺をも\nう少し考えて欲しいと。",
+      "en": "\"You're not convincing, especially with that grin on your\nface.\"",
+      "text": "\"You're not convincing, especially with that grin on your\nface.\""
+    },
+    {
+      "offset": 9444,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思い出探し……。やっぱり、美春のためには、\nやめさせるほうがいいのかな？",
+      "en": "I didn't even know I was smiling.",
+      "text": "I didn't even know I was smiling."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "206": "Koyomi",
+    "442": "Koyomi",
+    "757": "Koyomi",
+    "937": "Koyomi",
+    "1084": "Koyomi",
+    "1207": "Koyomi",
+    "1447": "Koyomi",
+    "1595": "Koyomi",
+    "1733": "Koyomi",
+    "1868": "Koyomi",
+    "2103": "Koyomi",
+    "2699": "Koyomi",
+    "2795": "Koyomi",
+    "2936": "Koyomi",
+    "3044": "Koyomi",
+    "3257": "Koyomi",
+    "3466": "Koyomi",
+    "3573": "Koyomi",
+    "3670": "Koyomi",
+    "3978": "Koyomi",
+    "4114": "Koyomi",
+    "4271": "Koyomi",
+    "4673": "Koyomi",
+    "4889": "Koyomi",
+    "5226": "Koyomi",
+    "5343": "Koyomi",
+    "5487": "Koyomi",
+    "5627": "Koyomi",
+    "5757": "Koyomi",
+    "5845": "Koyomi",
+    "6000": "Koyomi",
+    "6128": "Koyomi",
+    "6260": "Koyomi",
+    "6320": "Koyomi",
+    "6473": "Koyomi",
+    "6574": "Koyomi",
+    "6694": "Koyomi",
+    "6846": "Koyomi",
+    "6952": "Koyomi",
+    "7101": "Koyomi",
+    "7263": "Koyomi",
+    "7423": "Koyomi",
+    "7512": "Koyomi",
+    "7642": "Koyomi",
+    "7918": "Koyomi",
+    "7983": "Koyomi",
+    "8060": "Koyomi",
+    "8135": "Koyomi",
+    "8228": "Koyomi",
+    "8332": "Koyomi",
+    "8613": "Koyomi",
+    "8723": "Koyomi",
+    "8852": "Koyomi"
+  }
+}

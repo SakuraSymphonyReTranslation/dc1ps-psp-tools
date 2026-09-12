@@ -1,0 +1,620 @@
+{
+  "scene": "script_0045.obj",
+  "dialogues": [
+    {
+      "offset": 149,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――とは言え、６年ぶりに再会したっていうの\nに逃げ回っていても可哀相だよな……。",
+      "en": "Well, it would be pathetic to try to avoid her when we've\njust been reunited after six years.",
+      "text": "Well, it would be pathetic to try to avoid her when we've\njust been reunited after six years."
+    },
+    {
+      "offset": 235,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……別に何かあるわけじゃないんだ」",
+      "en": "\"I don't think anything bad will happen.\"",
+      "text": "\"I don't think anything bad will happen.\""
+    },
+    {
+      "offset": 278,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もう、あの頃と違って、さくらだって精神的に\n成長している｛・・／はず｝だ。",
+      "en": "I'm sure Sakura has matured emotionally. I hope.",
+      "text": "I'm sure Sakura has matured emotionally. I hope."
+    },
+    {
+      "offset": 356,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "意味もなく叩いてきたり、わけも分からず怒鳴っ\nたりすることもない｛・・／はず｝。",
+      "en": "I don't think she's likely to hit me without reason, or\nshout without understanding.",
+      "text": "I don't think she's likely to hit me without reason, or\nshout without understanding."
+    },
+    {
+      "offset": 442,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さっきは久しぶりの再会で、ちょっと慌てて\n　いただけさ」",
+      "en": "\"I know I lost my cool a little bit when I was reunited with\nher out of the blue.\"",
+      "text": "\"I know I lost my cool a little bit when I was reunited with\nher out of the blue.\""
+    },
+    {
+      "offset": 506,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんとなく窓の外に目を向けながら、｛さわ／爽｝やかな\n笑顔を浮かべる。",
+      "en": "Looking out the window for no reason, I smile.",
+      "text": "Looking out the window for no reason, I smile."
+    },
+    {
+      "offset": 615,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「なに企んでるの朝倉？」",
+      "en": "\"What are you up to, Asakura?\"",
+      "text": "\"What are you up to, Asakura?\""
+    },
+    {
+      "offset": 658,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "通り抜けざまに、俺の顔を見て眞子が顔をしか\nめていた。",
+      "en": "Mako makes a face at me as she passes me.",
+      "text": "Mako makes a face at me as she passes me."
+    },
+    {
+      "offset": 716,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 729,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、しばらくして、廊下に続く扉の影にピョコ\nピョコと耳のような物が見え出した。",
+      "en": "After a while, I spot an object like an ear peeking in and\nout from behind the door.",
+      "text": "After a while, I spot an object like an ear peeking in and\nout from behind the door."
+    },
+    {
+      "offset": 811,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それはその場で揺れながら、何度か決心するよ\nうに動くのだが、すぐに引っ込んでしまう。",
+      "en": "It tries to come out, swings around, and then goes back\nquickly again.",
+      "text": "It tries to come out, swings around, and then goes back\nquickly again."
+    },
+    {
+      "offset": 924,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なにやってるんだ？」",
+      "en": "\"What are you doing here?\"",
+      "text": "\"What are you doing here?\""
+    },
+    {
+      "offset": 993,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うわぁ！？」",
+      "en": "\"Waa!\"",
+      "text": "\"Waa!\""
+    },
+    {
+      "offset": 1014,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「おっと」",
+      "en": "\"Oops!\"",
+      "text": "\"Oops!\""
+    },
+    {
+      "offset": 1043,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "驚いて倒れそうになるさくらを、慌てて引き起\nこす。",
+      "en": "She starts to fall over in surprise, so I catch her.",
+      "text": "She starts to fall over in surprise, so I catch her."
+    },
+    {
+      "offset": 1097,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "腕にかかった体重は、本当に子供みたいに軽い。",
+      "en": "The weight in my arms really feels as light as a child.",
+      "text": "The weight in my arms really feels as light as a child."
+    },
+    {
+      "offset": 1148,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あっ悪りぃ。引っ張っちゃったけど、腕とか\n　痛くないか？」",
+      "en": "\"Oops, I pulled your arms. Are you okay?\"",
+      "text": "\"Oops, I pulled your arms. Are you okay?\""
+    },
+    {
+      "offset": 1214,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだか足元が落ち着いてなさそうで、しっか\nり立たせて顔を見つめる。",
+      "en": "She looks wobbly, so I let her stand up first, watching her\nface.",
+      "text": "She looks wobbly, so I let her stand up first, watching her\nface."
+    },
+    {
+      "offset": 1301,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1355,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……あははは、やっぱりお兄ちゃんだっ。や\n　さしい♪」",
+      "en": "\"Ahahaha.....You're my oniichan. You're so nice.\"",
+      "text": "\"Ahahaha.....You're my oniichan. You're so nice.\""
+    },
+    {
+      "offset": 1417,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ば、馬鹿かお前！」",
+      "en": "\"Don't be silly!\"",
+      "text": "\"Don't be silly!\""
+    },
+    {
+      "offset": 1444,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こっ恥ずかしいことを平然と言われて、こっち\nの頬が熱くなる。",
+      "en": "My cheeks flush when I hear her bold remark.",
+      "text": "My cheeks flush when I hear her bold remark."
+    },
+    {
+      "offset": 1540,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「えへへへ……う〜んとね、ご飯食べない？」",
+      "en": "\"Teehee... Would you like to eat something now?\"",
+      "text": "\"Teehee... Would you like to eat something now?\""
+    },
+    {
+      "offset": 1589,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「昼休みってのは昼飯を食べるもんだ」",
+      "en": "\"At lunchtime, everybody's supposed to eat lunch.\"",
+      "text": "\"At lunchtime, everybody's supposed to eat lunch.\""
+    },
+    {
+      "offset": 1644,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぶっきらぼうに言って教室に引き返す。",
+      "en": "I go back to the classroom with this blunt reply.",
+      "text": "I go back to the classroom with this blunt reply."
+    },
+    {
+      "offset": 1723,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「失礼しま〜す」",
+      "en": "\"Excuse me~.\"",
+      "text": "\"Excuse me~.\""
+    },
+    {
+      "offset": 1746,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "後ろからついてくる気配に、なぜか、懐かしさ\nがこみ上げてくる。",
+      "en": "I'm struck by a sense of nostalgia when she follows me.",
+      "text": "I'm struck by a sense of nostalgia when she follows me."
+    },
+    {
+      "offset": 1812,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は自分の前の席が空いていることを確かめて\nその椅子の向きをひっくり返した。",
+      "en": "After I make sure the seat in front of me's empty, I turn it\naround toward me.",
+      "text": "After I make sure the seat in front of me's empty, I turn it\naround toward me."
+    },
+    {
+      "offset": 1929,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「サンクス」",
+      "en": "\"Thanks.\"",
+      "text": "\"Thanks.\""
+    },
+    {
+      "offset": 1948,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「普通だからいいって。別に感謝するほどのこ\n　とじゃない」",
+      "en": "\"I usually do this, so there's nothing to thank me for.\"",
+      "text": "\"I usually do this, so there's nothing to thank me for.\""
+    },
+    {
+      "offset": 2025,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……あはは。お兄ちゃん変わってない。ずっ\n　とそのままでいてくれたんだね」",
+      "en": "\"Haha. You're still the same. Thank God, you haven't changed\nat all.\"",
+      "text": "\"Haha. You're still the same. Thank God, you haven't changed\nat all.\""
+    },
+    {
+      "offset": 2107,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「なにが？」",
+      "en": "\"What about?\"",
+      "text": "\"What about?\""
+    },
+    {
+      "offset": 2156,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「なにか見返りを求めてやってるんじゃないん\n　だよね」",
+      "en": "\"But you're not doing this in exchange for something, are\nyou?\"",
+      "text": "\"But you're not doing this in exchange for something, are\nyou?\""
+    },
+    {
+      "offset": 2216,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「世間一般的に普通だ」",
+      "en": "\"Generally, it's a normal thing to do.\"",
+      "text": "\"Generally, it's a normal thing to do.\""
+    },
+    {
+      "offset": 2245,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頬杖をついてため息をつく。",
+      "en": "I give a sigh, resting my cheek on my hand.",
+      "text": "I give a sigh, resting my cheek on my hand."
+    },
+    {
+      "offset": 2276,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんでこう、こいつは俺を持ち上げたがるのだ\nろう。",
+      "en": "Why does she want to overinterpret my actions like this?",
+      "text": "Why does she want to overinterpret my actions like this?"
+    },
+    {
+      "offset": 2362,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あれ、音夢ちゃんは？」",
+      "en": "\"Oh, where's Nemu-chan?\"",
+      "text": "\"Oh, where's Nemu-chan?\""
+    },
+    {
+      "offset": 2393,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "椅子につく前に教室を見回して、さくらが首を\nメトロノームのように傾ける。",
+      "en": "Before sitting down, Sakura looks around the classroom and\ntilts her head like a metronome.",
+      "text": "Before sitting down, Sakura looks around the classroom and\ntilts her head like a metronome."
+    },
+    {
+      "offset": 2471,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あぁ、いつもは教室なんだけど、今日は珍し\n　く食堂かどっかに行ったぞ」",
+      "en": "\"Well, she usually eats in the classroom, but she must be at\nthe dining hall for a change today.\"",
+      "text": "\"Well, she usually eats in the classroom, but she must be at\nthe dining hall for a change today.\""
+    },
+    {
+      "offset": 2549,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "クラスメイトの視線を無視して、俺は自分の席\nについてため息をついた。",
+      "en": "I sigh and sit down, ignoring the curious eyes of my\nclassmates.",
+      "text": "I sigh and sit down, ignoring the curious eyes of my\nclassmates."
+    },
+    {
+      "offset": 2653,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……そうなんだ。まっ、いっか。ところでお\n　兄ちゃんのご飯は？」",
+      "en": "\"I see. Oh, well. What did you bring today, oniichan?\"",
+      "text": "\"I see. Oh, well. What did you bring today, oniichan?\""
+    },
+    {
+      "offset": 2725,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "片手におさまるような小さなお弁当箱を広げて\nさくらが今度は反対方向に首をかしげる。",
+      "en": "Opening the little lunch box in her hand, Sakura tilts her\nhead the other way this time.",
+      "text": "Opening the little lunch box in her hand, Sakura tilts her\nhead the other way this time."
+    },
+    {
+      "offset": 2813,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ダイエット中」",
+      "en": "\"I'm on a diet.\"",
+      "text": "\"I'm on a diet.\""
+    },
+    {
+      "offset": 2836,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "弁当を持参していない俺では、購買か食堂に行\nく時間がなかったのだから仕方ない。",
+      "en": "What can I do with no lunch box and no time to go to the\ndining hall or the shop?",
+      "text": "What can I do with no lunch box and no time to go to the\ndining hall or the shop?"
+    },
+    {
+      "offset": 2950,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そっか……これ食べる？」",
+      "en": "\"Okay then... Do you want to eat some of these?\"",
+      "text": "\"Okay then... Do you want to eat some of these?\""
+    },
+    {
+      "offset": 2983,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "これ、と傾けられた弁当箱には、そぼろご飯や\n卵焼きとか、うさぎの形に切られたリンゴがは\nいっていた。",
+      "en": "The lunchbox she shows me has rice with scrambled eggs,\nfried egg and bunny-shaped apple pieces.",
+      "text": "The lunchbox she shows me has rice with scrambled eggs,\nfried egg and bunny-shaped apple pieces."
+    },
+    {
+      "offset": 3088,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いいよ。そんな量じゃ俺が食ったら一口だ」",
+      "en": "\"It's okay. I could eat all that with one bite.\"",
+      "text": "\"It's okay. I could eat all that with one bite.\""
+    },
+    {
+      "offset": 3167,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「う〜ん……じゃあ、これ全部食べて――」",
+      "en": "\"Oh come on... then, you can eat all of them.\"",
+      "text": "\"Oh come on... then, you can eat all of them.\""
+    },
+    {
+      "offset": 3214,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「いいからお前が食え！」",
+      "en": "\"Don't worry about me! You should eat.\"",
+      "text": "\"Don't worry about me! You should eat.\""
+    },
+    {
+      "offset": 3257,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頭を押さえて、弁当箱に顔を近づけさせる。",
+      "en": "I press her head down to bring her face close to her\nlunchbox.",
+      "text": "I press her head down to bring her face close to her\nlunchbox."
+    },
+    {
+      "offset": 3317,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あややややや！」",
+      "en": "\"Ow, ow, ow!\"",
+      "text": "\"Ow, ow, ow!\""
+    },
+    {
+      "offset": 3342,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「まったく、なんでも食って早く大きくなれよ」",
+      "en": "\"Damn! You've got to get bigger by eating everything you\ncan.\"",
+      "text": "\"Damn! You've got to get bigger by eating everything you\ncan.\""
+    },
+    {
+      "offset": 3428,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ご飯はちゃんと食べてるもん……いいじゃん\n　背が低くったって」",
+      "en": "\"I do eat everything, though. What's wrong with being\nshort?\"",
+      "text": "\"I do eat everything, though. What's wrong with being\nshort?\""
+    },
+    {
+      "offset": 3498,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あ。",
+      "en": "Oh.",
+      "text": "Oh."
+    },
+    {
+      "offset": 3507,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そういえば、子供の頃から背の低さを気にして\nたよなコイツ……。",
+      "en": "Now I remember, she's been self-conscious about her height\nsince she was little.",
+      "text": "Now I remember, she's been self-conscious about her height\nsince she was little."
+    },
+    {
+      "offset": 3575,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「悪い」",
+      "en": "\"Sorry.\"",
+      "text": "\"Sorry.\""
+    },
+    {
+      "offset": 3620,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「？　なにが？」",
+      "en": "\"? What?\"",
+      "text": "\"? What?\""
+    },
+    {
+      "offset": 3643,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「いや……いいんだ」",
+      "en": "\"Well, nothing.\"",
+      "text": "\"Well, nothing.\""
+    },
+    {
+      "offset": 3670,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なぜだか笑いがこみあげてきて、俺は目を閉じ\nて首をふった。",
+      "en": "I feel like laughing all of a sudden, but instead, I shake\nmy head and close my eyes.",
+      "text": "I feel like laughing all of a sudden, but instead, I shake\nmy head and close my eyes."
+    },
+    {
+      "offset": 3734,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「早く食えよ」",
+      "en": "\"Go ahead and eat!\"",
+      "text": "\"Go ahead and eat!\""
+    },
+    {
+      "offset": 3785,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うん」",
+      "en": "\"Sure.\"",
+      "text": "\"Sure.\""
+    },
+    {
+      "offset": 3800,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちょっと不慣れな感じの箸を手に、美味しそう\nにご飯を口に運ぶさくらんぼ。",
+      "en": "Sakuranbo eats happily, holding her chopsticks uncertainly.",
+      "text": "Sakuranbo eats happily, holding her chopsticks uncertainly."
+    },
+    {
+      "offset": 3908,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「美味しいよ？」",
+      "en": "\"It's good.\"",
+      "text": "\"It's good.\""
+    },
+    {
+      "offset": 3931,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「よかったな……俺が作ったんじゃないけど」",
+      "en": "\"Good for you... I didn't make it, though.\"",
+      "text": "\"Good for you... I didn't make it, though.\""
+    },
+    {
+      "offset": 4010,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「えへへへへ」",
+      "en": "\"Haha....\"",
+      "text": "\"Haha....\""
+    },
+    {
+      "offset": 4031,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見ている者の心があったまる笑顔。",
+      "en": "Her beautiful smile makes me warm.",
+      "text": "Her beautiful smile makes me warm."
+    },
+    {
+      "offset": 4068,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "変わっていないようで、変わってしまった関係\nだが、それはそれで悪くなかった。",
+      "en": "I'm not sure if our relationship has changed or not, but I'm\nokay with what we have now.",
+      "text": "I'm not sure if our relationship has changed or not, but I'm\nokay with what we have now."
+    },
+    {
+      "offset": 4148,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まぁ、また始まりからだ。",
+      "en": "Well, it gets to start all over again.",
+      "text": "Well, it gets to start all over again."
+    },
+    {
+      "offset": 4192,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「美味しいよ」",
+      "en": "\"It's so delicious.\"",
+      "text": "\"It's so delicious.\""
+    },
+    {
+      "offset": 4213,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一口食べるごとに、さくらがわざわざ俺に話し\nかけてくる。",
+      "en": "Sakura talks to me in between every bite she takes.",
+      "text": "Sakura talks to me in between every bite she takes."
+    },
+    {
+      "offset": 4273,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "腹は減っていたが、それが気にならないくらい\nなにかが身体の中につまった昼休みだった。",
+      "en": "I know I was hungry, but somehow today I feel full without\nbothering.",
+      "text": "I know I was hungry, but somehow today I feel full without\nbothering."
+    },
+    {
+      "offset": 4490,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆小さなお弁当◆",
+      "en": "◆Small lunch box◆",
+      "text": "◆Small lunch box◆"
+    },
+    {
+      "offset": 4535,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昼休み、転校してきたさくらが張り切って教室\nにのりこんでくる。",
+      "en": "At lunch recess, the transfer student, Sakura, rushed into\nthe classroom.",
+      "text": "At lunch recess, the transfer student, Sakura, rushed into\nthe classroom."
+    },
+    {
+      "offset": 4601,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "長い別れに比べれば、昼休みなんて短い時間だ\nが、お弁当をつつきながらにこやかに笑うさく\nらに、なんだか心を癒されてしまった。",
+      "en": "Lunch recess is too short to compare to the time we've been\napart, but Sakura's smile while she's eating calms my soul.",
+      "text": "Lunch recess is too short to compare to the time we've been\napart, but Sakura's smile while she's eating calms my soul."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "607": "Mako",
+    "983": "Sakura",
+    "1291": "Sakura",
+    "1345": "Sakura",
+    "1530": "Sakura",
+    "1713": "Sakura",
+    "1919": "Sakura",
+    "2015": "Sakura",
+    "2146": "Sakura",
+    "2352": "Sakura",
+    "2643": "Sakura",
+    "2940": "Sakura",
+    "3157": "Sakura",
+    "3307": "Sakura",
+    "3418": "Sakura",
+    "3610": "Sakura",
+    "3775": "Sakura",
+    "3898": "Sakura",
+    "4000": "Sakura",
+    "4182": "Sakura"
+  }
+}

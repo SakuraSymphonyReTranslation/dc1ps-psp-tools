@@ -1,0 +1,934 @@
+{
+  "scene": "script_0863.obj",
+  "dialogues": [
+    {
+      "offset": 201,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「杉並、おはよっす」",
+      "en": "\"Mornin', Suginami.\"",
+      "text": "\"Mornin', Suginami.\""
+    },
+    {
+      "offset": 261,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「よぉ」",
+      "en": "\"Yo.\"",
+      "text": "\"Yo.\""
+    },
+    {
+      "offset": 276,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつものように挨拶を交す。",
+      "en": "As always, morning greetings.",
+      "text": "As always, morning greetings."
+    },
+    {
+      "offset": 307,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつものような、親友同士の軽い朝の挨拶。",
+      "en": "As always, light chatter with friends in the morning.",
+      "text": "As always, light chatter with friends in the morning."
+    },
+    {
+      "offset": 387,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「おはよう、杉並」",
+      "en": "\"Good morning, Suginami.\"",
+      "text": "\"Good morning, Suginami.\""
+    },
+    {
+      "offset": 412,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "続いて教室に入ってきた叶も、いつものように\n軽く杉並に声をかける。",
+      "en": "Following close behind, Kanae greeted Suginami as usual as\nwell.",
+      "text": "Following close behind, Kanae greeted Suginami as usual as\nwell."
+    },
+    {
+      "offset": 517,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「よ」",
+      "en": "\"Yo.\"",
+      "text": "\"Yo.\""
+    },
+    {
+      "offset": 563,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「…………………………………」",
+      "en": "\".........\"",
+      "text": "\".........\""
+    },
+    {
+      "offset": 600,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「…………………………………」",
+      "en": "\".........\"",
+      "text": "\".........\""
+    },
+    {
+      "offset": 649,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "叶は俺の顔をちらりと見あげ、そのまま自分の\n席についた。",
+      "en": "Kanae glanced at me for a second, then went to her desk.",
+      "text": "Kanae glanced at me for a second, then went to her desk."
+    },
+    {
+      "offset": 709,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺もあえて声をかけることはせず、ただそれを\n見送る。",
+      "en": "As soon as I heard her voice, I did the same as well.",
+      "text": "As soon as I heard her voice, I did the same as well."
+    },
+    {
+      "offset": 800,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「お前たち、何かあったのか？」",
+      "en": "\"What's up with you two?\"",
+      "text": "\"What's up with you two?\""
+    },
+    {
+      "offset": 837,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな俺達を見て、杉並は｛いぶか／訝｝しげな表情で｛たず／訊｝ね\nてきた。",
+      "en": "Looking at us suspiciously, he raised his doubt.",
+      "text": "Looking at us suspiciously, he raised his doubt."
+    },
+    {
+      "offset": 917,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「何かって？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 966,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「いや………………その」",
+      "en": "\"Eh...... you know.\"",
+      "text": "\"Eh...... you know.\""
+    },
+    {
+      "offset": 997,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並にしては妙に歯切れの悪い調子で切り出す。",
+      "en": "He gritted his teeth, as I refused to answer directly.",
+      "text": "He gritted his teeth, as I refused to answer directly."
+    },
+    {
+      "offset": 1076,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「王子様と喧嘩でもしてるのか？　最近妙に素っ\n　気無いじゃないか」",
+      "en": "\"Did you quarrel with your prince? Both of you have been\nacting strange recently.\"",
+      "text": "\"Did you quarrel with your prince? Both of you have been\nacting strange recently.\""
+    },
+    {
+      "offset": 1148,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「別にこんなもんだろ。だいたい、もともと何\n　もなかったのをお前らが妙に誤解してただけ\n　なんだから」",
+      "en": "\"Not particularly. It's you people who misunderstood things\nthat're the weird ones.\"",
+      "text": "\"Not particularly. It's you people who misunderstood things\nthat're the weird ones.\""
+    },
+    {
+      "offset": 1255,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はこともなげに答えた。",
+      "en": "I answered without a care in the world.",
+      "text": "I answered without a care in the world."
+    },
+    {
+      "offset": 1314,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ふぅん………………」",
+      "en": "\"Humph...\"",
+      "text": "\"Humph...\""
+    },
+    {
+      "offset": 1343,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "微妙に複雑そうな杉並を無視して席につく。",
+      "en": "Deciding not to press any further, Suginami returned to his\nseat.",
+      "text": "Deciding not to press any further, Suginami returned to his\nseat."
+    },
+    {
+      "offset": 1388,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "誰も俺や叶に冷やかしの声をかけてくる者はい\nない。",
+      "en": "No one else tried to talk to either of us.",
+      "text": "No one else tried to talk to either of us."
+    },
+    {
+      "offset": 1442,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "人の噂も七十五日……。",
+      "en": "These people can gossip for like 75 days straight...",
+      "text": "These people can gossip for like 75 days straight..."
+    },
+    {
+      "offset": 1469,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "実際にはそんなに時間がたっているわけではな\nいのだが……。",
+      "en": "Of course, it didn't take that long for the gossip revolving\naround us to die down...",
+      "text": "Of course, it didn't take that long for the gossip revolving\naround us to die down..."
+    },
+    {
+      "offset": 1531,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "移り気なクラスの連中は、早くも違う噂に飛び\nついて俺達のことを忘れ始めているようだ。",
+      "en": "These fickle gossipers, as soon as they heard a different\nand more scandalous rumour, the original one was forgotten.",
+      "text": "These fickle gossipers, as soon as they heard a different\nand more scandalous rumour, the original one was forgotten."
+    },
+    {
+      "offset": 1619,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あれから、俺と叶は電話で長く話し合った。",
+      "en": "Kanae and I talked on the phone about this, for a very long\ntime.",
+      "text": "Kanae and I talked on the phone about this, for a very long\ntime."
+    },
+    {
+      "offset": 1664,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が出した結論、それは、恋人としての語らい\nを慎むこと……。",
+      "en": "The conclusion I came up with, was that we had to be more\ncareful about how we acted in public.",
+      "text": "The conclusion I came up with, was that we had to be more\ncareful about how we acted in public."
+    },
+    {
+      "offset": 1728,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "叶の秘密を……そして俺達の関係を守るために\nは、そうするしかないと思った。",
+      "en": "In order to protect our connection, and her secret... that's\nthe only thing we could do, I thought.",
+      "text": "In order to protect our connection, and her secret... that's\nthe only thing we could do, I thought."
+    },
+    {
+      "offset": 1806,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺達は以前のように――いや、はたから見れば\nさらに冷淡な「ただ単に同じクラスにいるだけ\nの存在」となっていた。",
+      "en": "So we had to go back to being indifferent, just being\n\"people who happen to be in the same class\".",
+      "text": "So we had to go back to being indifferent, just being\n\"people who happen to be in the same class\"."
+    },
+    {
+      "offset": 1919,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "必要最低限しか言葉を交さないクラスメイト。",
+      "en": "Simply classmates, with the barest minimum of communication.",
+      "text": "Simply classmates, with the barest minimum of communication."
+    },
+    {
+      "offset": 1966,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなのは噂好きな奴らにとって何の興味も呼\nび起こさない。",
+      "en": "The busybodies soon lost interest at the lack of anything\nhappening between us.",
+      "text": "The busybodies soon lost interest at the lack of anything\nhappening between us."
+    },
+    {
+      "offset": 2040,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今の奴らのターゲットは俺と叶ではなく……。\n叶と――。",
+      "en": "Now, their target isn't Kanae and myself anymore... It's\nKanae and--",
+      "text": "Now, their target isn't Kanae and myself anymore... It's\nKanae and--"
+    },
+    {
+      "offset": 2103,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 2195,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「……ことり、一緒に食堂行こうぜ」",
+      "en": "\"...Kotori, let's go to the cafeteria.\"",
+      "text": "\"...Kotori, let's go to the cafeteria.\""
+    },
+    {
+      "offset": 2236,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "４時限目が終わると、工藤はまっすぐことりの\n席へ向かった。俺に一度も目を向けることなく。",
+      "en": "As soon as 4th period ended, Kudou went straight for\nKotori's desk. I didn't even look in their direction.",
+      "text": "As soon as 4th period ended, Kudou went straight for\nKotori's desk. I didn't even look in their direction."
+    },
+    {
+      "offset": 2365,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ……………………うん」",
+      "en": "\"Ah... okay.\"",
+      "text": "\"Ah... okay.\""
+    },
+    {
+      "offset": 2398,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちら、と俺の方を見ながら叶と共に教室を出る\nことり。",
+      "en": "Kotori gave me a worried glance before leaving the classroom\nwith Kanae.",
+      "text": "Kotori gave me a worried glance before leaving the classroom\nwith Kanae."
+    },
+    {
+      "offset": 2466,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな二人を眺めながら好き勝手な会話が交さ\nれる。",
+      "en": "The nosey gossipers, seeing the two of them leaev together,\nimmediately started their trash.",
+      "text": "The nosey gossipers, seeing the two of them leaev together,\nimmediately started their trash."
+    },
+    {
+      "offset": 2530,
+      "speaker": "Guy B",
+      "speaker_jp": "男子Ｂ",
+      "jp": "「工藤と白河は決定かな」",
+      "en": "\"Looks like Kudou's chosen Shirakawa.\"",
+      "text": "\"Looks like Kudou's chosen Shirakawa.\""
+    },
+    {
+      "offset": 2569,
+      "speaker": "Guy C",
+      "speaker_jp": "男子Ｃ",
+      "jp": "「っぽいよな、あの様子じゃ。あ〜あ、工藤相\n　手じゃ太刀打ちできないぜ」",
+      "en": "\"Sure what it looks like. Haaah, no way I could match up to\nhim for Shirakawa's heart.\"",
+      "text": "\"Sure what it looks like. Haaah, no way I could match up to\nhim for Shirakawa's heart.\""
+    },
+    {
+      "offset": 2647,
+      "speaker": "Guy C",
+      "speaker_jp": "男子Ｃ",
+      "jp": "（………………………………………）",
+      "en": "\"(.........)\"",
+      "text": "\"(.........)\""
+    },
+    {
+      "offset": 2688,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺達の疑惑に代わって再浮上してきたのは叶と\nことりの噂だった。",
+      "en": "The main thing that kept the relationship between Kanae and\nI from surfacing, was the new one between Kanae and Kotori.",
+      "text": "The main thing that kept the relationship between Kanae and\nI from surfacing, was the new one between Kanae and Kotori."
+    },
+    {
+      "offset": 2754,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりは……叶のことを知っているんだろうか？",
+      "en": "Kotori... does she... know about Kanae?",
+      "text": "Kotori... does she... know about Kanae?"
+    },
+    {
+      "offset": 2805,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（……多分、全部分かっているんだろうな）",
+      "en": "\"(...She probably knows everything.)\"",
+      "text": "\"(...She probably knows everything.)\""
+    },
+    {
+      "offset": 2852,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "おそらく、俺よりもずっと以前から。",
+      "en": "Perhaps even before I did.",
+      "text": "Perhaps even before I did."
+    },
+    {
+      "offset": 2891,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自分に正直に、と忠告したことりの言葉を思い\n出す。",
+      "en": "She was the one who told me to be honest with myself back\nthen.",
+      "text": "She was the one who told me to be honest with myself back\nthen."
+    },
+    {
+      "offset": 2945,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりは叶の事情を知っているからこそ、とも\nすれば不名誉に発展しかねない噂を敢えて流れ\nるがままにさせておいたのだろう。",
+      "en": "If she knows about Kanae, then she probably figured out what\nwe're trying to do, and appears to be playing the part well.",
+      "text": "If she knows about Kanae, then she probably figured out what\nwe're trying to do, and appears to be playing the part well."
+    },
+    {
+      "offset": 3070,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（ことりは立派だよな、それに引き換え……）",
+      "en": "\"(She's really something, that Kotori. I, on the other\nhand...)\"",
+      "text": "\"(She's really something, that Kotori. I, on the other\nhand...)\""
+    },
+    {
+      "offset": 3124,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この俺はどうだ？",
+      "en": "What about me...?",
+      "text": "What about me...?"
+    },
+    {
+      "offset": 3145,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まだあれから一週間も経たないっていうのに\n……。",
+      "en": "Not even a week had passed since we decided on that...",
+      "text": "Not even a week had passed since we decided on that..."
+    },
+    {
+      "offset": 3197,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こんなにも苦しい。",
+      "en": "But already it's incredibly painful.",
+      "text": "But already it's incredibly painful."
+    },
+    {
+      "offset": 3220,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "でも、俺はこのまま卒業までの長い時間を叶と\nすれ違いながら過ごさなくてはならない。",
+      "en": "I wouldn't be able to stand keeping this distance all the\nway till graduation.",
+      "text": "I wouldn't be able to stand keeping this distance all the\nway till graduation."
+    },
+    {
+      "offset": 3306,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "果たしてそんなことに耐えられるだろうか。",
+      "en": "I can't be expected to bear with it till then.",
+      "text": "I can't be expected to bear with it till then."
+    },
+    {
+      "offset": 3351,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当はいつだってあいつの側にいてやりたい。",
+      "en": "All I really want, is to be by her side.",
+      "text": "All I really want, is to be by her side."
+    },
+    {
+      "offset": 3398,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつだって笑顔でいれるよう守ってやりたい。",
+      "en": "To be able to protect her smile always...",
+      "text": "To be able to protect her smile always..."
+    },
+    {
+      "offset": 3447,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや、いてやりたいんじゃないんだ……」",
+      "en": "\"...No, that's not what I really want...\"",
+      "text": "\"...No, that's not what I really want...\""
+    },
+    {
+      "offset": 3494,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "側にいてやりたいとか、幸せにしてやりたいと\nか、そんなのはただの傲慢だ。",
+      "en": "Saying that I want to be by her side, that's just my pride\nspeaking.",
+      "text": "Saying that I want to be by her side, that's just my pride\nspeaking."
+    },
+    {
+      "offset": 3570,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ほんとうは、",
+      "en": "The real truth is,",
+      "text": "The real truth is,"
+    },
+    {
+      "offset": 3587,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が側にいて欲しいだけなんだよ。",
+      "en": "I want her to be by my side.",
+      "text": "I want her to be by my side."
+    },
+    {
+      "offset": 3624,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 3698,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鳴り響く電話のベルに、俺はベッドからがばと\n身を起こした。",
+      "en": "The ringing tone of the phone got me off the bed quickly.",
+      "text": "The ringing tone of the phone got me off the bed quickly."
+    },
+    {
+      "offset": 3760,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "時計を見れば、ジャスト０時。",
+      "en": "I looked at the clock; exactly 12 midnight.",
+      "text": "I looked at the clock; exactly 12 midnight."
+    },
+    {
+      "offset": 3793,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつもの約束の時間だ。",
+      "en": "The promised time.",
+      "text": "The promised time."
+    },
+    {
+      "offset": 3820,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "大急ぎでドアを開け、電話口に走る。",
+      "en": "I crashed open the door, and ran to the telephone.",
+      "text": "I crashed open the door, and ran to the telephone."
+    },
+    {
+      "offset": 3907,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「もしもし叶？」",
+      "en": "\"Hello, Kanae?\"",
+      "text": "\"Hello, Kanae?\""
+    },
+    {
+      "offset": 3930,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "必死で息切れを抑える俺の耳に、くすくすと笑\nい声が響いた。",
+      "en": "As I tried to calm myself, short of breath, a familiar\ngiggle rang into my ear.",
+      "text": "As I tried to calm myself, short of breath, a familiar\ngiggle rang into my ear."
+    },
+    {
+      "offset": 4010,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "『朝倉君ってば、私じゃなかったらどうする気\n　なの？』",
+      "en": "\"Asakura-kun, if that wasn't me, you'd have been in\ntrouble.\"",
+      "text": "\"Asakura-kun, if that wasn't me, you'd have been in\ntrouble.\""
+    },
+    {
+      "offset": 4070,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「あ……そんなこと考えてもみなかった」",
+      "en": "\"Ah... I didn't think about that.\"",
+      "text": "\"Ah... I didn't think about that.\""
+    },
+    {
+      "offset": 4115,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自分の慌てぶりが恥ずかしいやらなんやらで、\n頭をかく。",
+      "en": "I slapped my forehead. That hastiness could've led to a lot\nof embarassment...",
+      "text": "I slapped my forehead. That hastiness could've led to a lot\nof embarassment..."
+    },
+    {
+      "offset": 4173,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "毎晩、真夜中０時にかかって来る叶からの電話。",
+      "en": "Every night, Kanae would call at 12 midnight on the dot.",
+      "text": "Every night, Kanae would call at 12 midnight on the dot."
+    },
+    {
+      "offset": 4222,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当は俺からも電話したい所なんだけど、叶の\n家の事情を考えるとなかなかそれもかなわない。",
+      "en": "I would've wanted to be able to call her instead, but she\nalready has her own problems with her family and me.",
+      "text": "I would've wanted to be able to call her instead, but she\nalready has her own problems with her family and me."
+    },
+    {
+      "offset": 4314,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "怪しまれるとまずいしな……。",
+      "en": "Can't make it even more suspicious...",
+      "text": "Can't make it even more suspicious..."
+    },
+    {
+      "offset": 4347,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いつもお布団を被って電話してるんだよ」、\nそう話す叶の、その姿を想像して笑ってしまう。",
+      "en": "I could see in my imagination, her grandma asking why she's\nalways hiding under her covers while on the phone...",
+      "text": "I could see in my imagination, her grandma asking why she's\nalways hiding under her covers while on the phone..."
+    },
+    {
+      "offset": 4441,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お前、今日体育の後具合悪そうだったけど\n　……大丈夫か？」",
+      "en": "\"You seemed in a bad state after gym class... are you okay?\"",
+      "text": "\"You seemed in a bad state after gym class... are you okay?\""
+    },
+    {
+      "offset": 4518,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "『うん……ちょっとペース配分間違えちゃった\n　みたい。でも、すぐ治ったし』",
+      "en": "\"Yeah... I didn't pace myself too well, it seems. I'm fine\nnow, though.\"",
+      "text": "\"Yeah... I didn't pace myself too well, it seems. I'm fine\nnow, though.\""
+    },
+    {
+      "offset": 4598,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「無理すんなよ」",
+      "en": "\"Don't overexert yourself, okay?\"",
+      "text": "\"Don't overexert yourself, okay?\""
+    },
+    {
+      "offset": 4632,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "『ふふ、心配してくれてありがとう』",
+      "en": "\"Hehe, thanks for your concern.\"",
+      "text": "\"Hehe, thanks for your concern.\""
+    },
+    {
+      "offset": 4673,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「そういや古文の時間にさ、覚えてるか？　田\n　端の奴が……」",
+      "en": "\"And hey, do you remember literature class? That idiot\nTahata...\"",
+      "text": "\"And hey, do you remember literature class? That idiot\nTahata...\""
+    },
+    {
+      "offset": 4739,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こうして、昼間顔を合わせて話せなかったぶん\nだけ、お喋りをし合う。",
+      "en": "Since we couldn't talk face to face during the day, we\ntalked as much as we could now.",
+      "text": "Since we couldn't talk face to face during the day, we\ntalked as much as we could now."
+    },
+    {
+      "offset": 4809,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "学校のこと、友達のこと、楽しかったこと。",
+      "en": "About school, about friends, about fun stuff.",
+      "text": "About school, about friends, about fun stuff."
+    },
+    {
+      "offset": 4854,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日は月が綺麗だねとか、",
+      "en": "About how the moon is pretty tonight,",
+      "text": "About how the moon is pretty tonight,"
+    },
+    {
+      "offset": 4883,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "雨が降っているねだとか。",
+      "en": "About how it's been raining so often lately.",
+      "text": "About how it's been raining so often lately."
+    },
+    {
+      "offset": 4912,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それは本当に他の人が聞いたらくだらないと思\nうような事ばかりで、",
+      "en": "This is just normal everyday chatter that isn't worth\nthinking about to most people,",
+      "text": "This is just normal everyday chatter that isn't worth\nthinking about to most people,"
+    },
+    {
+      "offset": 4980,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "でも二人にとっては、世界を繋ぐ唯一の大切な\n時間だった。",
+      "en": "But for us, the only time where we could be together, it was\nthe most important thing we had.",
+      "text": "But for us, the only time where we could be together, it was\nthe most important thing we had."
+    },
+    {
+      "offset": 5053,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "『……朝倉君』",
+      "en": "\"...Asakura-kun.\"",
+      "text": "\"...Asakura-kun.\""
+    },
+    {
+      "offset": 5074,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「ん？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 5089,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "会話の隙間に叶がふいに声を落とした。",
+      "en": "During a pause in conversation, Kanae's voice suddenly\nbecame softer.",
+      "text": "During a pause in conversation, Kanae's voice suddenly\nbecame softer."
+    },
+    {
+      "offset": 5148,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "『……私、また朝倉君と一緒にお弁当食べたい』",
+      "en": "\"...I, I want to spend lunchtime eating with you again.\"",
+      "text": "\"...I, I want to spend lunchtime eating with you again.\""
+    },
+    {
+      "offset": 5199,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「…………叶」",
+      "en": "\"...Kanae.\"",
+      "text": "\"...Kanae.\""
+    },
+    {
+      "offset": 5231,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "『ふたり並んで登校したり、休み時間にお喋り\n　したり……ふつうの女の子みたいに、ただ好\n　きな人と一緒に……………………』",
+      "en": "\"I want to walk to school together with you, talk to you\nduring breaks... just like a normal girl, being with her\nloved one...\"",
+      "text": "\"I want to walk to school together with you, talk to you\nduring breaks... just like a normal girl, being with her\nloved one...\""
+    },
+    {
+      "offset": 5358,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "声をつまらせる叶。",
+      "en": "Her voice had fallen to a whisper.",
+      "text": "Her voice had fallen to a whisper."
+    },
+    {
+      "offset": 5383,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……叶、俺」",
+      "en": "\"...Kanae, I...\"",
+      "text": "\"...Kanae, I...\""
+    },
+    {
+      "offset": 5404,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、叶の声はすぐに元気なトーンを取り戻\nした。",
+      "en": "But, her voice quickly returned back to a normal, energetic\ntone.",
+      "text": "But, her voice quickly returned back to a normal, energetic\ntone."
+    },
+    {
+      "offset": 5471,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "『ごめんね……ワガママなこと言って』",
+      "en": "\"Sorry... I was just being selfish there.\"",
+      "text": "\"Sorry... I was just being selfish there.\""
+    },
+    {
+      "offset": 5529,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "『朝倉君のそばにいられるだけで、私はとって\n　も幸せだよ』",
+      "en": "\"As long as I can be by your side now, I'd be happy.\"",
+      "text": "\"As long as I can be by your side now, I'd be happy.\""
+    },
+    {
+      "offset": 5593,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「叶……」",
+      "en": "\"Kanae...\"",
+      "text": "\"Kanae...\""
+    },
+    {
+      "offset": 5610,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が口を開きかけたとき、急に電話の音声がく\nぐもった。叶が手で送話口を｛ふさ／塞｝いだらしい。こ\nほこほと咳き込む声がかすかに聞こえた。",
+      "en": "Before I could open my mouth to speak any further, the sound\nfrom the other line turned to muffled coughing.",
+      "text": "Before I could open my mouth to speak any further, the sound\nfrom the other line turned to muffled coughing."
+    },
+    {
+      "offset": 5751,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「叶！？　どうかしたのか」",
+      "en": "\"Kanae!? What's wrong?\"",
+      "text": "\"Kanae!? What's wrong?\""
+    },
+    {
+      "offset": 5795,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "『なんでもない……ちょっとむせただけ』",
+      "en": "\"Nothing... just accidentally dropped the phone.\"",
+      "text": "\"Nothing... just accidentally dropped the phone.\""
+    },
+    {
+      "offset": 5851,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "『じゃあ朝倉君、長くなっちゃったからそろそ\n　ろ切るね。また明日学園で』",
+      "en": "\"Anyway Asakura-kun, I can't stay on the phone too long, so\nI'd hang up now. See you at school tomorrow!\"",
+      "text": "\"Anyway Asakura-kun, I can't stay on the phone too long, so\nI'd hang up now. See you at school tomorrow!\""
+    },
+    {
+      "offset": 5929,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「あ………………ああ。またな」",
+      "en": "\"Ah........ ahh, see you.\"",
+      "text": "\"Ah........ ahh, see you.\""
+    },
+    {
+      "offset": 5970,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "電話を切った後も、俺の耳の奥には小さな咳が\n残って離れなかった。",
+      "en": "Even after the line was disconnected, the muffled sound of\ncoughing wouldn't leave my ears.",
+      "text": "Even after the line was disconnected, the muffled sound of\ncoughing wouldn't leave my ears."
+    },
+    {
+      "offset": 6038,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何年もの間……叶は、男として生きるためにど\nれだけの無理を重ねて来たんだろう？",
+      "en": "How many years has it been since she started acting like a\nguy... has all that stress finailly built up?",
+      "text": "How many years has it been since she started acting like a\nguy... has all that stress finailly built up?"
+    },
+    {
+      "offset": 6120,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "彼女の｛きゃしゃ／華奢｝な身体には相当の負担が掛かってい\nるに違いない。",
+      "en": "There's no doubt that that delicate body is taking on\nunneccessary strains, perhaps even more now.",
+      "text": "There's no doubt that that delicate body is taking on\nunneccessary strains, perhaps even more now."
+    },
+    {
+      "offset": 6198,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「くそっ……」",
+      "en": "\"Crap...\"",
+      "text": "\"Crap...\""
+    },
+    {
+      "offset": 6219,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何か俺にできることはないのか！",
+      "en": "Isn't there anything I can do!?",
+      "text": "Isn't there anything I can do!?"
+    },
+    {
+      "offset": 6256,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（叶………………）",
+      "en": "\"(Kanae........)\"",
+      "text": "\"(Kanae........)\""
+    },
+    {
+      "offset": 6399,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆ただのクラスメイト◆",
+      "en": "◆Just Another Classmate◆",
+      "text": "◆Just Another Classmate◆"
+    },
+    {
+      "offset": 6454,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あれから俺達は今までどおり、普通のクラスメ\nイトとして振舞うようにした。今ではそういっ\nた噂を聞く事もほとんどない。",
+      "en": "Kanae and I started our lives as nothing more than normal\nclassmates. It worked, as the rumours quickly shifted away\nfrom us.",
+      "text": "Kanae and I started our lives as nothing more than normal\nclassmates. It worked, as the rumours quickly shifted away\nfrom us."
+    },
+    {
+      "offset": 6573,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただ、毎晩、真夜中の電話だけが俺達を繋いで\nいた。",
+      "en": "The only link we had, was the conversations we had at the\ndead of the night.",
+      "text": "The only link we had, was the conversations we had at the\ndead of the night."
+    },
+    {
+      "offset": 6627,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あの｛きゃしゃ／華奢｝な女の子が、男として生きる為には、\n果たしてどんなに苦労がいることだろう。",
+      "en": "That delicate body trying to live like a man's, must be\ngoing through lots of pain...",
+      "text": "That delicate body trying to live like a man's, must be\ngoing through lots of pain..."
+    },
+    {
+      "offset": 6727,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "彼女の体には相当の負担が溜まっているはずだっ\nた。",
+      "en": "Her body's had more than it's fair share of burden already.",
+      "text": "Her body's had more than it's fair share of burden already."
+    },
+    {
+      "offset": 6781,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "叶を守りたい、俺は心からそう思ったのだった。",
+      "en": "From the bottom of my heart, I want to protect her.",
+      "text": "From the bottom of my heart, I want to protect her."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "253": "Suginami",
+    "379": "Kudou",
+    "509": "Suginami",
+    "555": "Kudou",
+    "792": "Suginami",
+    "958": "Suginami",
+    "1068": "Suginami",
+    "1306": "Suginami",
+    "2187": "Kudou",
+    "2355": "Kotori",
+    "2520": "Guy B",
+    "2559": "Guy C",
+    "4002": "Kudou",
+    "4510": "Kudou",
+    "4624": "Kudou",
+    "5045": "Kudou",
+    "5140": "Kudou",
+    "5223": "Kudou",
+    "5463": "Kudou",
+    "5521": "Kudou",
+    "5787": "Kudou",
+    "5843": "Kudou"
+  }
+}

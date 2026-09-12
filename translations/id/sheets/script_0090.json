@@ -1,0 +1,999 @@
+{
+  "scene": "script_0090.obj",
+  "dialogues": [
+    {
+      "offset": 145,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暇つぶしになるかと、神社にやってきた。",
+      "en": "With nothing to do, I headed to the shrine.",
+      "text": "With nothing to do, I headed to the shrine."
+    },
+    {
+      "offset": 188,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環がいるかもしれないし……。",
+      "en": "Tamaki might be there, after all...",
+      "text": "Tamaki might be there, after all..."
+    },
+    {
+      "offset": 221,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "最初に言われたあの言葉……。",
+      "en": "Those words she said to me from the start...",
+      "text": "Those words she said to me from the start..."
+    },
+    {
+      "offset": 254,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺と環の間には深い絆がある……。",
+      "en": "The supposed deep bond that we have...",
+      "text": "The supposed deep bond that we have..."
+    },
+    {
+      "offset": 291,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それが、俺達が｛いいなずけ／許嫁｝となっている根拠でもある\nわけだが……。",
+      "en": "And, the very reason why we're supposed to be fiancees...",
+      "text": "And, the very reason why we're supposed to be fiancees..."
+    },
+    {
+      "offset": 369,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "正直、さっぱり分からない。",
+      "en": "To be perfectly honest, I completely didn't know anything\nabout it.",
+      "text": "To be perfectly honest, I completely didn't know anything\nabout it."
+    },
+    {
+      "offset": 400,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、そのうちに分かることなのかも知れない\nが……。",
+      "en": "Well, something might be known on her side of the fence...",
+      "text": "Well, something might be known on her side of the fence..."
+    },
+    {
+      "offset": 456,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環のことをもっとよく知れば、答えも早く見つ\nかるかもしれないな。",
+      "en": "The better I get to know Tamaki, the faster I'd find an\nanswer... probably.",
+      "text": "The better I get to know Tamaki, the faster I'd find an\nanswer... probably."
+    },
+    {
+      "offset": 526,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふう、やれやれ」",
+      "en": "\"Whew, man.\"",
+      "text": "\"Whew, man.\""
+    },
+    {
+      "offset": 551,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ここの石段は本当に手こずる。",
+      "en": "These flight of steps is a serious workout.",
+      "text": "These flight of steps is a serious workout."
+    },
+    {
+      "offset": 584,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、上りきった者にだけご利益があるってこ\nとなのかもしれないが……。",
+      "en": "I suppose that's the trial to overcome, to attain the reward\nfrom above...",
+      "text": "I suppose that's the trial to overcome, to attain the reward\nfrom above..."
+    },
+    {
+      "offset": 658,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ご利益＝巫女装束の環、か？",
+      "en": "That is, Tamaki in her Miko outfit...",
+      "text": "That is, Tamaki in her Miko outfit..."
+    },
+    {
+      "offset": 689,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "悪くはないよな。確かにかわいいし……。",
+      "en": "Certainly something worth working for. She looks really cute\nin it...",
+      "text": "Certainly something worth working for. She looks really cute\nin it..."
+    },
+    {
+      "offset": 732,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 747,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "い、いかん。動機が不純すぎる。",
+      "en": "Crap, I'm thinking bad things again.",
+      "text": "Crap, I'm thinking bad things again."
+    },
+    {
+      "offset": 782,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、石段の途中でそのご利益に会う。",
+      "en": "Just then, the \"reward\" appeared, as I finished scaling the\nsteps.",
+      "text": "Just then, the \"reward\" appeared, as I finished scaling the\nsteps."
+    },
+    {
+      "offset": 823,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「よお」",
+      "en": "\"Hey.\"",
+      "text": "\"Hey.\""
+    },
+    {
+      "offset": 874,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「あら、こんにちは」",
+      "en": "\"My, good afternoon.\"",
+      "text": "\"My, good afternoon.\""
+    },
+    {
+      "offset": 901,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "石畳を｛ほうき／箒｝ではたいていた環は、俺に気づいて笑\n顔を見せる。",
+      "en": "She was sweeping the stone pathways with a broom. Her face\nlit up as she noticed who had greeted her.",
+      "text": "She was sweeping the stone pathways with a broom. Her face\nlit up as she noticed who had greeted her."
+    },
+    {
+      "offset": 975,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さっきまで、一緒の教室にいたけどな」",
+      "en": "\"We haven't really talked much since, well, that time.\"",
+      "text": "\"We haven't really talked much since, well, that time.\""
+    },
+    {
+      "offset": 1046,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そういえば……そうですね」",
+      "en": "\"That is true, now that you mention it.\"",
+      "text": "\"That is true, now that you mention it.\""
+    },
+    {
+      "offset": 1081,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "つられたように環もクスっと笑う。",
+      "en": "\"She giggled cutely at my observation.",
+      "text": "\"She giggled cutely at my observation."
+    },
+    {
+      "offset": 1120,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「それにしても大変だな、こんな広い場所の掃\n　除なんて」",
+      "en": "\"And you have to clean this huge place? Geez.\"",
+      "text": "\"And you have to clean this huge place? Geez.\""
+    },
+    {
+      "offset": 1208,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ええ。これが巫女の務めですから……」",
+      "en": "\"Yes. It is the duty of a Miko, after all...\"",
+      "text": "\"Yes. It is the duty of a Miko, after all...\""
+    },
+    {
+      "offset": 1253,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「巫女の務め、ね……」",
+      "en": "\"The duty of a Miko, huh...\"",
+      "text": "\"The duty of a Miko, huh...\""
+    },
+    {
+      "offset": 1291,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「朝倉様は、今日はどうなさったんですか？」",
+      "en": "\"And what might you be here for, Asakura-sama?\"",
+      "text": "\"And what might you be here for, Asakura-sama?\""
+    },
+    {
+      "offset": 1340,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「いや、ご利益を得たいなあ、と」",
+      "en": "\"Oh, nothing, I've already gotten my reward.\"",
+      "text": "\"Oh, nothing, I've already gotten my reward.\""
+    },
+    {
+      "offset": 1388,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ご利益？　……何のですか？」",
+      "en": "\"Reward? ...What might you mean?\"",
+      "text": "\"Reward? ...What might you mean?\""
+    },
+    {
+      "offset": 1425,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ま、気にするな」",
+      "en": "\"Eh, don't mind me.\"",
+      "text": "\"Eh, don't mind me.\""
+    },
+    {
+      "offset": 1450,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "巫女装束の環とは口が裂けても言えない。",
+      "en": "I wouldn't say any more to the Miko-clad Tamaki.",
+      "text": "I wouldn't say any more to the Miko-clad Tamaki."
+    },
+    {
+      "offset": 1504,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「それにしても、よくいらしてくれましたね」",
+      "en": "\"Ah, before I forget; welcome to our shrine.\"",
+      "text": "\"Ah, before I forget; welcome to our shrine.\""
+    },
+    {
+      "offset": 1553,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "心なしか、弾んだ声で環は話す。",
+      "en": "Without an ounce of refrain, her voice rang out loud and\ntrue.",
+      "text": "Without an ounce of refrain, her voice rang out loud and\ntrue."
+    },
+    {
+      "offset": 1616,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「こんなところでも何ですから、よろしければ、\n　お茶でも召し上がりますか？」",
+      "en": "\"Whatever your purpose is, would you like to have some tea\nfirst?\"",
+      "text": "\"Whatever your purpose is, would you like to have some tea\nfirst?\""
+    },
+    {
+      "offset": 1698,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「おう、では有難く頂戴しよう」",
+      "en": "\"Oh, yes please.\"",
+      "text": "\"Oh, yes please.\""
+    },
+    {
+      "offset": 1744,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環の後ろについて行き、社務所の奥にある座敷\nに座った。",
+      "en": "I followed behind Tamaki to the shrine office, taking a seat\nin the tatami mat-ridden room.",
+      "text": "I followed behind Tamaki to the shrine office, taking a seat\nin the tatami mat-ridden room."
+    },
+    {
+      "offset": 1854,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「どうぞ」",
+      "en": "\"Please.\"",
+      "text": "\"Please.\""
+    },
+    {
+      "offset": 1871,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環がお茶を目の前に置く。",
+      "en": "Tamaki served a cup of tea to me.",
+      "text": "Tamaki served a cup of tea to me."
+    },
+    {
+      "offset": 1902,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「かたじけない」",
+      "en": "\"Many thanks.\"",
+      "text": "\"Many thanks.\""
+    },
+    {
+      "offset": 1925,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……って、",
+      "en": "...Huh.",
+      "text": "...Huh."
+    },
+    {
+      "offset": 1940,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なぜか環と話していると、言語感覚が変になる。",
+      "en": "Why am I talking so weirdly, when I talk to her?",
+      "text": "Why am I talking so weirdly, when I talk to her?"
+    },
+    {
+      "offset": 1989,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつもは使っていないような言葉で会話をして\nしまう。",
+      "en": "I'm usually pretty casual in my normal speech.",
+      "text": "I'm usually pretty casual in my normal speech."
+    },
+    {
+      "offset": 2045,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環の丁寧さに反発するものなのだろうか。",
+      "en": "Tamaki's sheer politeness must be reflecting off me.",
+      "text": "Tamaki's sheer politeness must be reflecting off me."
+    },
+    {
+      "offset": 2090,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あれ？　神社のお茶って甘いって聞いたこと\n　があるけど……」",
+      "en": "\"...Hrm? I've heard before that the shrine's tea was sweet,\nbut this isn't...\"",
+      "text": "\"...Hrm? I've heard before that the shrine's tea was sweet,\nbut this isn't...\""
+    },
+    {
+      "offset": 2167,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「それは、お寺で飲む甘茶のことですね」",
+      "en": "\"That would only be served at temples.\"",
+      "text": "\"That would only be served at temples.\""
+    },
+    {
+      "offset": 2212,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「あ、お寺だっけ？」",
+      "en": "\"Ah, at temples?\"",
+      "text": "\"Ah, at temples?\""
+    },
+    {
+      "offset": 2265,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ここは神社ですから……」",
+      "en": "\"And this is a mere shrine, so...\"",
+      "text": "\"And this is a mere shrine, so...\""
+    },
+    {
+      "offset": 2298,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「……俺の勘違いか」",
+      "en": "\"...My mistake.\"",
+      "text": "\"...My mistake.\""
+    },
+    {
+      "offset": 2342,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "中途半端な知識で、環との会話を盛り上げよう\nとしたが、どうも出鼻でくじかれてしまった。",
+      "en": "I shouldn't show my ignorance at something she's obviously\nan expert on...",
+      "text": "I shouldn't show my ignorance at something she's obviously\nan expert on..."
+    },
+    {
+      "offset": 2432,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "会って間もないせいか、どうもまだ環という女\nの子を掴みにくい。",
+      "en": "Not to mention I've only just met her recently; I still\nhaven't really grappled onto what kind of girl she is.",
+      "text": "Not to mention I've only just met her recently; I still\nhaven't really grappled onto what kind of girl she is."
+    },
+    {
+      "offset": 2498,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛・・／許嫁｝だというのに。",
+      "en": "...And she's supposed to be my fiancee.",
+      "text": "...And she's supposed to be my fiancee."
+    },
+    {
+      "offset": 2542,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「朝倉様、どうかなさいました？」",
+      "en": "\"Asakura-sama, is something wrong?\"",
+      "text": "\"Asakura-sama, is something wrong?\""
+    },
+    {
+      "offset": 2581,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「いや、別に……」",
+      "en": "\"No, nothing...\"",
+      "text": "\"No, nothing...\""
+    },
+    {
+      "offset": 2606,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "無駄に話を合わせずに、いつもの俺のペースで\n話す方がいいかもしれない。",
+      "en": "Rather than talking about mindless things, I should just try\ntalking at my own pace.",
+      "text": "Rather than talking about mindless things, I should just try\ntalking at my own pace."
+    },
+    {
+      "offset": 2682,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「平日の神社って、静かなんだな」",
+      "en": "\"The shrine seems really quiet on weekdays.\"",
+      "text": "\"The shrine seems really quiet on weekdays.\""
+    },
+    {
+      "offset": 2730,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そうですね。祭りの時はすごく｛にぎ／賑｝やかですが」",
+      "en": "\"Indeed. Our busiest times are during festivals.\"",
+      "text": "\"Indeed. Our busiest times are during festivals.\""
+    },
+    {
+      "offset": 2791,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ここは……神主さんを見ないけど、どうした\n　の？」",
+      "en": "\"I haven't seen any... priests around, though. What's with\nthat?\"",
+      "text": "\"I haven't seen any... priests around, though. What's with\nthat?\""
+    },
+    {
+      "offset": 2858,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ええ、以前の宮司が体調を壊してしまって」",
+      "en": "\"Yes, the previous chief priest encountered some health\nproblems.\"",
+      "text": "\"Yes, the previous chief priest encountered some health\nproblems.\""
+    },
+    {
+      "offset": 2916,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「代わりに、わたくしの父が宮司を勤めること\n　になったのですが……」",
+      "en": "\"My father was called in to take the place of chief priest\nduring the former chief priest's recuperation...\"",
+      "text": "\"My father was called in to take the place of chief priest\nduring the former chief priest's recuperation...\""
+    },
+    {
+      "offset": 3016,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「巫女だけでもとりあえず早く来て欲しい、と\n　言われて」",
+      "en": "\"And he needed a Miko around as well, to ensure the upkeep\nof the shrine.\"",
+      "text": "\"And he needed a Miko around as well, to ensure the upkeep\nof the shrine.\""
+    },
+    {
+      "offset": 3078,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「それでこの時期に転校してきたって訳か」",
+      "en": "\"So that's why you transferred to our school at this odd\ntime...\"",
+      "text": "\"So that's why you transferred to our school at this odd\ntime...\""
+    },
+    {
+      "offset": 3151,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「はい……。それに……学校のことも……」",
+      "en": "\"Yes... and that school...\"",
+      "text": "\"Yes... and that school...\""
+    },
+    {
+      "offset": 3198,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「学校のこと？」",
+      "en": "\"That school?\"",
+      "text": "\"That school?\""
+    },
+    {
+      "offset": 3247,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「あ、い、いえ、何でもありません」",
+      "en": "\"Ah, u, um, please forget what I said.\"",
+      "text": "\"Ah, u, um, please forget what I said.\""
+    },
+    {
+      "offset": 3288,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は急に、俺から目を反らす。",
+      "en": "Tamaki's eyes turned away, avoiding my gaze.",
+      "text": "Tamaki's eyes turned away, avoiding my gaze."
+    },
+    {
+      "offset": 3340,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なにか、言いにくいことか？」",
+      "en": "\"What were you trying to say?\"",
+      "text": "\"What were you trying to say?\""
+    },
+    {
+      "offset": 3386,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3405,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は、ちょっと困ったような表情を見せる。",
+      "en": "She seemed embarassed and worried at the same time.",
+      "text": "She seemed embarassed and worried at the same time."
+    },
+    {
+      "offset": 3452,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まあ、言いたくなかったらいいけど。困った\n　ことがあったら言ってくれ。助けになるぞ」",
+      "en": "\"Well, if you don't want to talk about it, fine... but if\nit's something worrying, let me know. I'd try my best to\nhelp.\"",
+      "text": "\"Well, if you don't want to talk about it, fine... but if\nit's something worrying, let me know. I'd try my best to\nhelp.\""
+    },
+    {
+      "offset": 3570,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「はい。ありがとうございます。でも、大丈夫\n　です」",
+      "en": "\"I'm doing fine... but thank you.\"",
+      "text": "\"I'm doing fine... but thank you.\""
+    },
+    {
+      "offset": 3628,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そうか」",
+      "en": "\"Alright.\"",
+      "text": "\"Alright.\""
+    },
+    {
+      "offset": 3645,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とはいえ、気になってしまう。",
+      "en": "Or so I said, but I couldn't help wondering.",
+      "text": "Or so I said, but I couldn't help wondering."
+    },
+    {
+      "offset": 3678,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、言いにくいことを無理に｛き／訊｝くことはな\nいよな……。",
+      "en": "But it looks like saying what it is would really be too much\nfor her...",
+      "text": "But it looks like saying what it is would really be too much\nfor her..."
+    },
+    {
+      "offset": 3765,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ところで、前から気になってたんだけど、巫\n　女って実際は何をしてるんだ？」",
+      "en": "\"By the way, I was thinking about this earlier... what\nexactly does a Miko actually do?\"",
+      "text": "\"By the way, I was thinking about this earlier... what\nexactly does a Miko actually do?\""
+    },
+    {
+      "offset": 3847,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は別の方向に話を振ることにした。",
+      "en": "A change of direction in the conversation might be best.",
+      "text": "A change of direction in the conversation might be best."
+    },
+    {
+      "offset": 3897,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そうですね。色々なことをしますよ」",
+      "en": "\"Well, our job cannot be defined very easily. Miko tend to\ndo several different things.\"",
+      "text": "\"Well, our job cannot be defined very easily. Miko tend to\ndo several different things.\""
+    },
+    {
+      "offset": 3966,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「朝倉様は、巫女はどんなことをしてるとお思\n　いですか？」",
+      "en": "\"What comes to your mind, when you think about the duties of\na Miko, Asakura-sama?\"",
+      "text": "\"What comes to your mind, when you think about the duties of\na Miko, Asakura-sama?\""
+    },
+    {
+      "offset": 4030,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「む……」",
+      "en": "\"Hm...\"",
+      "text": "\"Hm...\""
+    },
+    {
+      "offset": 4047,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "質問を質問で返してきた。なかなかやるな。",
+      "en": "Answering my question with a question, huh. Not bad...",
+      "text": "Answering my question with a question, huh. Not bad..."
+    },
+    {
+      "offset": 4094,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そうだなぁ……。おみくじを売ったり、お札\n　を売ったり……」",
+      "en": "\"Well... selling oracle scrolls, and charms...\"",
+      "text": "\"Well... selling oracle scrolls, and charms...\""
+    },
+    {
+      "offset": 4188,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「それから？」",
+      "en": "\"And?\"",
+      "text": "\"And?\""
+    },
+    {
+      "offset": 4209,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「うーん」",
+      "en": "\"Um...\"",
+      "text": "\"Um...\""
+    },
+    {
+      "offset": 4226,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "巫女装束で、参拝にくる人の心を和ませる。",
+      "en": "A costume-clad figure that worshippers feel peace at?",
+      "text": "A costume-clad figure that worshippers feel peace at?"
+    },
+    {
+      "offset": 4271,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "んな訳はないか……。",
+      "en": "But that isn't just it...",
+      "text": "But that isn't just it..."
+    },
+    {
+      "offset": 4296,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 4339,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「だいたい当たってますね」",
+      "en": "\"You are more or less correct.\"",
+      "text": "\"You are more or less correct.\""
+    },
+    {
+      "offset": 4372,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「でも、いくらなんでもそれだけじゃないよな」",
+      "en": "\"Surely that isn't all, though.\"",
+      "text": "\"Surely that isn't all, though.\""
+    },
+    {
+      "offset": 4449,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「あとは、境内の掃除もそうですが、お茶やお\n　花や琴や舞も習うんですよ」",
+      "en": "\"There is also the maintenance of the shrine area, and the\nlearning of customs such as flowers, tea, the harp...\"",
+      "text": "\"There is also the maintenance of the shrine area, and the\nlearning of customs such as flowers, tea, the harp...\""
+    },
+    {
+      "offset": 4527,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「へえ。そんなことも習うんだ。すごいな」",
+      "en": "\"Ah, you learn all that... amazing.\"",
+      "text": "\"Ah, you learn all that... amazing.\""
+    },
+    {
+      "offset": 4600,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「お祭りの際、祈願者の前で舞うんです」",
+      "en": "\"Before festivals begin, we are also required to perform a\nritual dance in front of the worshippers.\"",
+      "text": "\"Before festivals begin, we are also required to perform a\nritual dance in front of the worshippers.\""
+    },
+    {
+      "offset": 4645,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そういや、そんなの見たことがあるな」",
+      "en": "\"Heh, I remember something like that.\"",
+      "text": "\"Heh, I remember something like that.\""
+    },
+    {
+      "offset": 4690,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ううむ、巫女ってのは、大変なんだな。カワイ\nイ服を着てるだけじゃないらしい。",
+      "en": "Man, Miko have it pretty tough. They're definitely not just\nwearing cute costumes.",
+      "text": "Man, Miko have it pretty tough. They're definitely not just\nwearing cute costumes."
+    },
+    {
+      "offset": 4772,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「な、な、その舞ってやつ、ちょっと見せてく\n　れない？」",
+      "en": "\"H, hey, could I have a glimpse of that dance you\nmentioned?\"",
+      "text": "\"H, hey, could I have a glimpse of that dance you\nmentioned?\""
+    },
+    {
+      "offset": 4860,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「わたくしの……舞ですか？」",
+      "en": "\"My... dance?\"",
+      "text": "\"My... dance?\""
+    },
+    {
+      "offset": 4895,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「習ってるんだろ？　見てみたいんだ」",
+      "en": "\"You have learnt it, right? I want to see it.\"",
+      "text": "\"You have learnt it, right? I want to see it.\""
+    },
+    {
+      "offset": 4964,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ええ……でも、まだお見せする程のものでは」",
+      "en": "\"Yes... but it is not something worth watching, yet.\"",
+      "text": "\"Yes... but it is not something worth watching, yet.\""
+    },
+    {
+      "offset": 5015,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そっか……、残念だ。でも、いつか見せてく\n　れると嬉しいな」",
+      "en": "\"I see... oh well. I'd be glad to watch it whenever you're\nready, though.\"",
+      "text": "\"I see... oh well. I'd be glad to watch it whenever you're\nready, though.\""
+    },
+    {
+      "offset": 5109,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そうですね……ではいずれ」",
+      "en": "\"I will keep that in mind.\"",
+      "text": "\"I will keep that in mind.\""
+    },
+    {
+      "offset": 5144,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ああ、楽しみにしてるよ」",
+      "en": "\"Yeah, it'd be fun.\"",
+      "text": "\"Yeah, it'd be fun.\""
+    },
+    {
+      "offset": 5203,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「よろしければ、今度、朝倉様にも舞を教えま\n　しょうか？」",
+      "en": "\"Perhaps I could teach you about the ritual dance, as well?\"",
+      "text": "\"Perhaps I could teach you about the ritual dance, as well?\""
+    },
+    {
+      "offset": 5267,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「俺が……？」",
+      "en": "\"Me...?\"",
+      "text": "\"Me...?\""
+    },
+    {
+      "offset": 5297,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「巫女だけじゃなく、男の方も踊ることはある\n　んですよ」",
+      "en": "\"The dance is not just for Miko to perform, men can perform\nit as well.\"",
+      "text": "\"The dance is not just for Miko to perform, men can perform\nit as well.\""
+    },
+    {
+      "offset": 5359,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「男の舞、ねぇ……」",
+      "en": "\"A man's dance, eh...\"",
+      "text": "\"A man's dance, eh...\""
+    },
+    {
+      "offset": 5386,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、巫女の踊りに、男の姿を当てはめる。赤\nと白の袴を身にまとったひげ面の男の踊りが脳\n裏に浮かぶ。",
+      "en": "My imagination started running, with the thought of a male\nperforming a woman's dance, in full red and white hakama...",
+      "text": "My imagination started running, with the thought of a male\nperforming a woman's dance, in full red and white hakama..."
+    },
+    {
+      "offset": 5491,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ダメダメ、男の舞なんて、やってらんないっ\n　ての」",
+      "en": "\"N, no thanks, I don't think I could do it.\"",
+      "text": "\"N, no thanks, I don't think I could do it.\""
+    },
+    {
+      "offset": 5549,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "人前であんな格好をして踊るなんて、とんでも\nない。かったるすぎる。",
+      "en": "Dancing like that in full public view, that'd be way too\ntroublesome...",
+      "text": "Dancing like that in full public view, that'd be way too\ntroublesome..."
+    },
+    {
+      "offset": 5630,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そうですか。気が変わったら言って下さいね」",
+      "en": "\"Alright. If you ever change your mind, let me know.\"",
+      "text": "\"Alright. If you ever change your mind, let me know.\""
+    },
+    {
+      "offset": 5681,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「変わったらな」",
+      "en": "\"I won't.\"",
+      "text": "\"I won't.\""
+    },
+    {
+      "offset": 5704,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "おそらくは、ないだろう……。",
+      "en": "No way that'd happen...",
+      "text": "No way that'd happen..."
+    },
+    {
+      "offset": 5765,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、しばらく環と時間を過ごした。",
+      "en": "Time passed quickly, spending it with Tamaki like that.",
+      "text": "Time passed quickly, spending it with Tamaki like that."
+    },
+    {
+      "offset": 5804,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環が掃除の続きをしなければならないとのこと\nなので、家に帰ることにした。",
+      "en": "Tamaki had to concentrate on her cleaning to finish it, so I\nwent home.",
+      "text": "Tamaki had to concentrate on her cleaning to finish it, so I\nwent home."
+    },
+    {
+      "offset": 5880,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "結局、環のことや許嫁のことは、大してわから\nなかったが、巫女の知識が身についただけでも\n今日は収穫としよう。",
+      "en": "In the end, I didn't know any more about our supposed\nfiancee connection, but I learnt a lot about Miko.",
+      "text": "In the end, I didn't know any more about our supposed\nfiancee connection, but I learnt a lot about Miko."
+    },
+    {
+      "offset": 5991,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ご利益があるかもしれない。",
+      "en": "It wasn't a bad tradeoff, overall.",
+      "text": "It wasn't a bad tradeoff, overall."
+    },
+    {
+      "offset": 6022,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環のことは、おいおいわかってくるに違いない。",
+      "en": "I'm also slowly learning more and more about Tamaki.",
+      "text": "I'm also slowly learning more and more about Tamaki."
+    },
+    {
+      "offset": 6071,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少なくとも、この時期に転校してきた理由もわ\nかった訳だし。",
+      "en": "And at least, I found out the reason why she transferred\nschools at this time, as well.",
+      "text": "And at least, I found out the reason why she transferred\nschools at this time, as well."
+    },
+    {
+      "offset": 6133,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "気になることも言っていたけれど……。",
+      "en": "But it doesn't seem like the entire reason...",
+      "text": "But it doesn't seem like the entire reason..."
+    },
+    {
+      "offset": 6303,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆転校の理由◆",
+      "en": "◆Season Of Transference?◆",
+      "text": "◆Season Of Transference?◆"
+    },
+    {
+      "offset": 6346,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "神社へ行くと、環が石段を掃除していた。",
+      "en": "I headed to the shrine, and found Tamaki sweeping the stone\nsteps.",
+      "text": "I headed to the shrine, and found Tamaki sweeping the stone\nsteps."
+    },
+    {
+      "offset": 6389,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お茶を勧められて話をすると、環が転校してき\nた理由を聞かされた。",
+      "en": "While having a cup of tea with her, I found out why she\nmoved here at such an odd time.",
+      "text": "While having a cup of tea with her, I found out why she\nmoved here at such an odd time."
+    },
+    {
+      "offset": 6457,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ここの宮司が体調を崩し、そのために環の家族\nが呼ばれたらしい。",
+      "en": "The chief priest's health had deteroriated, so her family\nwas called here.",
+      "text": "The chief priest's health had deteroriated, so her family\nwas called here."
+    },
+    {
+      "offset": 6523,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "他にも理由がありそうだったが……。",
+      "en": "But there seems to be some other reason...",
+      "text": "But there seems to be some other reason..."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "868": "Tamaki",
+    "1040": "Tamaki",
+    "1202": "Tamaki",
+    "1285": "Tamaki",
+    "1382": "Tamaki",
+    "1498": "Tamaki",
+    "1610": "Tamaki",
+    "1848": "Tamaki",
+    "2161": "Tamaki",
+    "2259": "Tamaki",
+    "2536": "Tamaki",
+    "2724": "Tamaki",
+    "2852": "Tamaki",
+    "2910": "Tamaki",
+    "3010": "Tamaki",
+    "3145": "Tamaki",
+    "3241": "Tamaki",
+    "3380": "Tamaki",
+    "3564": "Tamaki",
+    "3891": "Tamaki",
+    "3960": "Tamaki",
+    "4182": "Tamaki",
+    "4333": "Tamaki",
+    "4443": "Tamaki",
+    "4594": "Tamaki",
+    "4854": "Tamaki",
+    "4958": "Tamaki",
+    "5103": "Tamaki",
+    "5197": "Tamaki",
+    "5291": "Tamaki",
+    "5624": "Tamaki"
+  }
+}

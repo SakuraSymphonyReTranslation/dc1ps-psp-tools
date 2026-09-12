@@ -1,0 +1,39 @@
+{
+  "scene": "script_0101.obj",
+  "dialogues": [
+    {
+      "offset": 131,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「うーん……やっと昼か」",
+      "en": "\"Hoo... finally noon...\"",
+      "text": "\"Hoo... finally noon...\""
+    },
+    {
+      "offset": 162,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "腹減ったな……。",
+      "en": "I'm starved...",
+      "text": "I'm starved..."
+    },
+    {
+      "offset": 287,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆昼が来た◆",
+      "en": "◆Noon arrives◆",
+      "text": "◆Noon arrives◆"
+    },
+    {
+      "offset": 328,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "腹減ったなぁ……。",
+      "en": "I'm starved...",
+      "text": "I'm starved..."
+    }
+  ],
+  "choices": [],
+  "names": {}
+}

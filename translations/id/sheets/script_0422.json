@@ -1,0 +1,830 @@
+{
+  "scene": "script_0422.obj",
+  "dialogues": [
+    {
+      "offset": 180,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――穏やかな風が吹いている。",
+      "en": "---I felta nice wind blowing.",
+      "text": "---I felta nice wind blowing."
+    },
+    {
+      "offset": 213,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "時間が遅いためか屋上には人の姿はなく、俺と\n音夢のふたりだけしかいない。",
+      "en": "There was only us on the roof top since it was late in the\nafternoon.",
+      "text": "There was only us on the roof top since it was late in the\nafternoon."
+    },
+    {
+      "offset": 289,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "屋上から望む景色は爽やか過ぎていて、今の俺\nには逆に嫌味にすら感じた。",
+      "en": "Everything seemed so perfect, from this point up on the\nroof, that it felt too much to me.",
+      "text": "Everything seemed so perfect, from this point up on the\nroof, that it felt too much to me."
+    },
+    {
+      "offset": 363,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "このまま時間が止まってしまえばいいと――か\nなり本気で願ったりしているのだが。",
+      "en": "And I found myself wishing I could stop time and stay in\nthis moment forever......",
+      "text": "And I found myself wishing I could stop time and stay in\nthis moment forever......"
+    },
+    {
+      "offset": 447,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ううう……」",
+      "en": "\"Mm......\"",
+      "text": "\"Mm......\""
+    },
+    {
+      "offset": 468,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あ、涙がこぼれそう……だって男の子だもん。",
+      "en": "Wow, tears?",
+      "text": "Wow, tears?"
+    },
+    {
+      "offset": 528,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あのね、空ばっか見上げてなくていいから。\n　本当に美味しいんだよ」",
+      "en": "\"Hey, don't look at the sky like that. The food's really\ngood.\"",
+      "text": "\"Hey, don't look at the sky like that. The food's really\ngood.\""
+    },
+    {
+      "offset": 638,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いやさ……見た目だけはいつも美味しそうな\n　んだけどな」",
+      "en": "\"Right...... it always looks delicious.\"",
+      "text": "\"Right...... it always looks delicious.\""
+    },
+    {
+      "offset": 702,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "現実に立ち返って、チラシを座布団代わりにし\nてあぐらをかく。",
+      "en": "I came back to reality and grabbed a flier to sit on.",
+      "text": "I came back to reality and grabbed a flier to sit on."
+    },
+    {
+      "offset": 800,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ね、兄さん。｛だま／騙｝されたと思って♪」",
+      "en": "\"Come on! Trust me.\"",
+      "text": "\"Come on! Trust me.\""
+    },
+    {
+      "offset": 851,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……その言葉だけは聞きたくなかったぞ」",
+      "en": "\"......That was the last thing I wanted to hear.\"",
+      "text": "\"......That was the last thing I wanted to hear.\""
+    },
+    {
+      "offset": 930,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いいから、食べてみて｛まず／不味｝かったら文句を言っ\n　てよぉ！」",
+      "en": "\"Go for it. You can complain after you try it!\"",
+      "text": "\"Go for it. You can complain after you try it!\""
+    },
+    {
+      "offset": 1004,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ずい、と弁当を音夢が突き出してくる。",
+      "en": "Nemu pushed the bento box toward me.",
+      "text": "Nemu pushed the bento box toward me."
+    },
+    {
+      "offset": 1047,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「分かったよ。｛はし／箸｝くれ」",
+      "en": "\"Fine. Give me some chopsticks.\"",
+      "text": "\"Fine. Give me some chopsticks.\""
+    },
+    {
+      "offset": 1118,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うん♪　ちょっと待ってて……」",
+      "en": "\"Okay. Hold on......\"",
+      "text": "\"Okay. Hold on......\""
+    },
+    {
+      "offset": 1157,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ごそごそ、と脇の手提げを音夢が漁る。",
+      "en": "Nemu looked into the bag she had by her side.",
+      "text": "Nemu looked into the bag she had by her side."
+    },
+    {
+      "offset": 1198,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "漁る。",
+      "en": "She looked in it.",
+      "text": "She looked in it."
+    },
+    {
+      "offset": 1209,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "漁る……。",
+      "en": "And looked some more......",
+      "text": "And looked some more......"
+    },
+    {
+      "offset": 1258,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あれ？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 1275,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 1322,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いや、ちょっと待ってて……」",
+      "en": "\"Wait, hold on......\"",
+      "text": "\"Wait, hold on......\""
+    },
+    {
+      "offset": 1359,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「まさか忘れたのか？」",
+      "en": "\"Don't tell me you forgot my chopsticks.\"",
+      "text": "\"Don't tell me you forgot my chopsticks.\""
+    },
+    {
+      "offset": 1399,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「う、う〜ん……いつも自分のぶんだけだった\n　からそのまま」",
+      "en": "\"Well...... it's usually just for me so......\"",
+      "text": "\"Well...... it's usually just for me so......\""
+    },
+    {
+      "offset": 1465,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そうかそうか」",
+      "en": "\"Oh, right.\"",
+      "text": "\"Oh, right.\""
+    },
+    {
+      "offset": 1520,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なんで嬉しそうなのよ〜」",
+      "en": "\"Why do you look so happy?\"",
+      "text": "\"Why do you look so happy?\""
+    },
+    {
+      "offset": 1553,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いやぁ、人間、悲しみも感｛きわ／極｝まると笑みが浮\n　かぶものだ」",
+      "en": "\"I guess it's like when you smile when you're really sad.\"",
+      "text": "\"I guess it's like when you smile when you're really sad.\""
+    },
+    {
+      "offset": 1627,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "腕組みしつつ、思わず｛さわ／爽｝やかな笑みを浮かべて\nしまう。",
+      "en": "I folded my arms and smiled.",
+      "text": "I folded my arms and smiled."
+    },
+    {
+      "offset": 1693,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "対照的にぶすっ、としていた音夢だが、急に笑\nみを浮かべて――。",
+      "en": "Nemu looked unhappy in contrast, but then she smiled all of\na sudden.",
+      "text": "Nemu looked unhappy in contrast, but then she smiled all of\na sudden."
+    },
+    {
+      "offset": 1793,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いいもん箸なんて１本あれば十分です……は\n　い、あ〜んして」",
+      "en": "\"All we need is just one pair of chopsticks...... here, open\nyour mouth.\"",
+      "text": "\"All we need is just one pair of chopsticks...... here, open\nyour mouth.\""
+    },
+    {
+      "offset": 1861,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1880,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "卵焼きが挟まれた箸が、俺の口元に伸ばされて\nいた。",
+      "en": "I found a pair of chopsticks with an omelet roll in front of\nmy mouth.",
+      "text": "I found a pair of chopsticks with an omelet roll in front of\nmy mouth."
+    },
+    {
+      "offset": 1947,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ〜ん」",
+      "en": "\"Open your mouth.\"",
+      "text": "\"Open your mouth.\""
+    },
+    {
+      "offset": 1964,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1994,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ほら、美味しいから♪」",
+      "en": "\"Don't worry, it's good.\"",
+      "text": "\"Don't worry, it's good.\""
+    },
+    {
+      "offset": 2025,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぱく、と卵焼きの半分を毒見だとかじって、残\nりをそのまま差し出してくる。",
+      "en": "She ate half of the omelet to ensure that it was edible, and\nshe gave me the rest of the half.",
+      "text": "She ate half of the omelet to ensure that it was edible, and\nshe gave me the rest of the half."
+    },
+    {
+      "offset": 2103,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2157,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――すっく。",
+      "en": "----I jumped up...",
+      "text": "----I jumped up..."
+    },
+    {
+      "offset": 2174,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思いきり立ち上がって走り出す。",
+      "en": "and started to run.",
+      "text": "and started to run."
+    },
+    {
+      "offset": 2222,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え、ちょっと兄さん！？」",
+      "en": "\"What? Hey, niisan!\"",
+      "text": "\"What? Hey, niisan!\""
+    },
+    {
+      "offset": 2255,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "声を無視して校舎への扉を駆け抜ける。",
+      "en": "I ignored her and ran through the door to the main building.",
+      "text": "I ignored her and ran through the door to the main building."
+    },
+    {
+      "offset": 2333,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 2379,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 2425,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 2517,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ん、朝倉？　なにやってんの」",
+      "en": "\"Huh? Asakura, what are you doing?\"",
+      "text": "\"Huh? Asakura, what are you doing?\""
+    },
+    {
+      "offset": 2554,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「眞子ッ！」",
+      "en": "\"Mako!\"",
+      "text": "\"Mako!\""
+    },
+    {
+      "offset": 2573,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見知った声に慌てて足を止める。",
+      "en": "I stopped when I heard the familiar voice.",
+      "text": "I stopped when I heard the familiar voice."
+    },
+    {
+      "offset": 2610,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……はぁはぁ」",
+      "en": "\"Huff, puff...\"",
+      "text": "\"Huff, puff...\""
+    },
+    {
+      "offset": 2661,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「また、なにか悪さして追いかけられてるの？」",
+      "en": "\"Did you do something bad and try to run away?\"",
+      "text": "\"Did you do something bad and try to run away?\""
+    },
+    {
+      "offset": 2712,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ま、眞子……」",
+      "en": "\"Mako......\"",
+      "text": "\"Mako......\""
+    },
+    {
+      "offset": 2735,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "わなわな、と手を持ち上げる。",
+      "en": "I raised my shaky hands.",
+      "text": "I raised my shaky hands."
+    },
+    {
+      "offset": 2798,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「なによ……なんか事故でもあったの？」",
+      "en": "\"What? Did you have an accident or something?\"",
+      "text": "\"What? Did you have an accident or something?\""
+    },
+    {
+      "offset": 2843,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「なにを、とち狂ったんだ？」",
+      "en": "\"It was crazy.\"",
+      "text": "\"It was crazy.\""
+    },
+    {
+      "offset": 2889,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「は？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 2904,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「なんなんだあいつはッ！？」",
+      "en": "\"What's happened to her!?\"",
+      "text": "\"What's happened to her!?\""
+    },
+    {
+      "offset": 2967,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あんたが、なんなのよ……」",
+      "en": "\"What happened to you?\"",
+      "text": "\"What happened to you?\""
+    },
+    {
+      "offset": 3002,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3021,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "息を落ち着けようと窓の外に目を向けた。",
+      "en": "I looked outside to calm myself down.",
+      "text": "I looked outside to calm myself down."
+    },
+    {
+      "offset": 3066,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「陽気のせいか？」",
+      "en": "\"Is it because of the nice weather?\"",
+      "text": "\"Is it because of the nice weather?\""
+    },
+    {
+      "offset": 3119,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ね、あたしもう行っていい？」",
+      "en": "\"Hey, do you mind if I go now?\"",
+      "text": "\"Hey, do you mind if I go now?\""
+    },
+    {
+      "offset": 3156,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「なんか今朝から頭のネジが飛んでいるような\n　気はしていたんだが……」",
+      "en": "\"I knew something was off since this morning......\"",
+      "text": "\"I knew something was off since this morning......\""
+    },
+    {
+      "offset": 3232,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛あご／顎｝に手を当てる。",
+      "en": "I rubbed my forehead.",
+      "text": "I rubbed my forehead."
+    },
+    {
+      "offset": 3276,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「杉並の話？」",
+      "en": "\"Are you talking about Suginami?\"",
+      "text": "\"Are you talking about Suginami?\""
+    },
+    {
+      "offset": 3297,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「とりあえず本人に確認してみるか」",
+      "en": "\"I think I should ask her myself.\"",
+      "text": "\"I think I should ask her myself.\""
+    },
+    {
+      "offset": 3338,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "呟いて、また小走りに屋上へ向かう。",
+      "en": "I mumbled and started to run back to the rooftop.",
+      "text": "I mumbled and started to run back to the rooftop."
+    },
+    {
+      "offset": 3399,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……なんなの、いったい！？」",
+      "en": "\"......What the hell's wrong with him?\"",
+      "text": "\"......What the hell's wrong with him?\""
+    },
+    {
+      "offset": 3436,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子が背中で声を発したが、まったくその通り\nだ。",
+      "en": "Mako said behind me...",
+      "text": "Mako said behind me..."
+    },
+    {
+      "offset": 3539,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ぽつ〜ん」",
+      "en": "\"I'm so alone.\"",
+      "text": "\"I'm so alone.\""
+    },
+    {
+      "offset": 3558,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「おっし、ただいま」",
+      "en": "\"Hey, I'm back.\"",
+      "text": "\"Hey, I'm back.\""
+    },
+    {
+      "offset": 3585,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "屋上の扉をぶち開けて、しゅた、と手をかざす。",
+      "en": "I opened the door to the rooftop loudly, and raised my hand\nto greet her.",
+      "text": "I opened the door to the rooftop loudly, and raised my hand\nto greet her."
+    },
+    {
+      "offset": 3669,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、兄さん……どうしたのよ急に走り出して。\n　トイレ？」",
+      "en": "\"Hey, niisan...... What happened to leave like that? Did you\nhave to go to the restroom?\"",
+      "text": "\"Hey, niisan...... What happened to leave like that? Did you\nhave to go to the restroom?\""
+    },
+    {
+      "offset": 3733,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛りちぎ／律儀｝に弁当をそのままに、音夢が立ち上がった。",
+      "en": "Nemu stood up still holding the bento box.",
+      "text": "Nemu stood up still holding the bento box."
+    },
+    {
+      "offset": 3796,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「似たようなものだ」",
+      "en": "\"Something like that.\"",
+      "text": "\"Something like that.\""
+    },
+    {
+      "offset": 3823,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "チラシに腰をおろして頷く。",
+      "en": "I nodded and sat down on the flier.",
+      "text": "I nodded and sat down on the flier."
+    },
+    {
+      "offset": 3856,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、さっきのはなんの冗談だ？」",
+      "en": "\"So, what was that all about?\"",
+      "text": "\"So, what was that all about?\""
+    },
+    {
+      "offset": 3906,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「さっきの？」",
+      "en": "\"What's that?\"",
+      "text": "\"What's that?\""
+    },
+    {
+      "offset": 3927,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「その……あ〜ん、て」",
+      "en": "\"You know...... the open your mouth thing...\"",
+      "text": "\"You know...... the open your mouth thing...\""
+    },
+    {
+      "offset": 3956,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あまりの台詞のこっぱずかしさに、頬が熱を帯\nびるのが分かる。",
+      "en": "What she said was so embarrassing, I felt my cheeks getting\nred when she repeated it.",
+      "text": "What she said was so embarrassing, I felt my cheeks getting\nred when she repeated it."
+    },
+    {
+      "offset": 4050,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「は、箸がないんだから仕方ないし……ああい\n　うのは仕方ないでしょ！」",
+      "en": "\"Well, there's only one pair of chopsticks and there was no\nother way!\"",
+      "text": "\"Well, there's only one pair of chopsticks and there was no\nother way!\""
+    },
+    {
+      "offset": 4154,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「写真撮るときに、つい『チーズ』って言っちゃ\n　うのと同じですぅ」",
+      "en": "\"It's kind of like saying 'Cheese' when you take a picture.\"",
+      "text": "\"It's kind of like saying 'Cheese' when you take a picture.\""
+    },
+    {
+      "offset": 4226,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いや、そうなんだけどさ……」",
+      "en": "\"Well, I guess......\"",
+      "text": "\"Well, I guess......\""
+    },
+    {
+      "offset": 4263,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛さすが／流石｝に手づかみで食えとは言わないだろうが、\nあんまりにもいきなりだし。",
+      "en": "I'm sure she wouldn't tell me to eat with my hands, but I\ndidn't see that coming.",
+      "text": "I'm sure she wouldn't tell me to eat with my hands, but I\ndidn't see that coming."
+    },
+    {
+      "offset": 4379,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「それに……」",
+      "en": "\"And......\"",
+      "text": "\"And......\""
+    },
+    {
+      "offset": 4400,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 4419,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なぜか胸がドキドキする。",
+      "en": "I don't know why, but my heart's pounding.",
+      "text": "I don't know why, but my heart's pounding."
+    },
+    {
+      "offset": 4465,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "可笑しなことに、音夢のうつむいたり、上目遣\nいで俺の様子をうかがったり――。",
+      "en": "It's so weird, but the way she looks down, or looks up at\nme---",
+      "text": "It's so weird, but the way she looks down, or looks up at\nme---"
+    },
+    {
+      "offset": 4545,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな、ちょっとした仕草が可愛く見える。",
+      "en": "Seems really cute.",
+      "text": "Seems really cute."
+    },
+    {
+      "offset": 4620,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「デ、デートだって言ったでしょ？」",
+      "en": "\"I told you it's a date.\"",
+      "text": "\"I told you it's a date.\""
+    },
+    {
+      "offset": 4661,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……じ、自分で言ってて恥ずかしがるなよ」",
+      "en": "\"Don't get embarrassed by saying it yourself.\"",
+      "text": "\"Don't get embarrassed by saying it yourself.\""
+    },
+    {
+      "offset": 4710,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お互いに口が上手く回らなくて、しどろもどろ\nな会話にしかならない。",
+      "en": "We couldn't talk well, and we were stumbling to talk to each\nother.",
+      "text": "We couldn't talk well, and we were stumbling to talk to each\nother."
+    },
+    {
+      "offset": 4810,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「こほん……とりあえず、こうしないとご飯が\n　食べられないんだからお覚悟を」",
+      "en": "\"Anyways...... you should make up your mind, because this is\nthe only way you can eat lunch.\"",
+      "text": "\"Anyways...... you should make up your mind, because this is\nthe only way you can eat lunch.\""
+    },
+    {
+      "offset": 4892,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なんの覚悟だ」",
+      "en": "\"About what?\"",
+      "text": "\"About what?\""
+    },
+    {
+      "offset": 4943,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ほら……あ、あ〜ん」",
+      "en": "\"Here...... open your mouth.\"",
+      "text": "\"Here...... open your mouth.\""
+    },
+    {
+      "offset": 4972,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だ、だから恥ずかしいならやるなっての！」",
+      "en": "\"Don't get embarrassed doing that!\"",
+      "text": "\"Don't get embarrassed doing that!\""
+    },
+    {
+      "offset": 5049,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「仕方ないでしょうが！」",
+      "en": "\"I just can't help it!\"",
+      "text": "\"I just can't help it!\""
+    },
+    {
+      "offset": 5089,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 5102,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ギャアギャアわめきながら、そう言えば箸だけ\n借りて自分で食べればいいと思ったのは１０分\n後のことだった。",
+      "en": "Afterwards, I realized what I should have done was to borrow\nher chopsticks and eat it myself. But it was 10 minutes\nlater.",
+      "text": "Afterwards, I realized what I should have done was to borrow\nher chopsticks and eat it myself. But it was 10 minutes\nlater."
+    },
+    {
+      "offset": 5310,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆箸一膳◆",
+      "en": "◆A pair of chopsticks◆",
+      "text": "◆A pair of chopsticks◆"
+    },
+    {
+      "offset": 5351,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "弁当だけ持ってきて箸を一膳しか持ってこなかっ\nた音夢。これで助かるかと思いきや、“あ〜ん”\nと言いだして……。",
+      "en": "Nemu brought lunch boxes but she only brought one pair of\nchopsticks. I thought I didn't have to eat her lunch but she\ntold me to open my mouth......",
+      "text": "Nemu brought lunch boxes but she only brought one pair of\nchopsticks. I thought I didn't have to eat her lunch but she\ntold me to open my mouth......"
+    },
+    {
+      "offset": 5464,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お互いにギャアギャアわめきながら、そう言え\nば箸だけ借りて自分で食べればいいと思ったの\nは、１０分後のことだった。",
+      "en": "We were feeling awkward about it, but then I realized ten\nminutes later that I should have borrowed her chopsticks and\neaten it myself.",
+      "text": "We were feeling awkward about it, but then I realized ten\nminutes later that I should have borrowed her chopsticks and\neaten it myself."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "520": "Nemu",
+    "792": "Nemu",
+    "922": "Nemu",
+    "1110": "Nemu",
+    "1250": "Nemu",
+    "1314": "Nemu",
+    "1391": "Nemu",
+    "1512": "Nemu",
+    "1785": "Nemu",
+    "1939": "Nemu",
+    "1986": "Nemu",
+    "2214": "Nemu",
+    "2509": "Mako",
+    "2653": "Mako",
+    "2790": "Mako",
+    "2881": "Mako",
+    "2959": "Mako",
+    "3111": "Mako",
+    "3268": "Mako",
+    "3391": "Mako",
+    "3531": "Nemu",
+    "3661": "Nemu",
+    "3898": "Nemu",
+    "4042": "Nemu",
+    "4146": "Nemu",
+    "4371": "Nemu",
+    "4612": "Nemu",
+    "4802": "Nemu",
+    "4935": "Nemu",
+    "5041": "Nemu"
+  }
+}

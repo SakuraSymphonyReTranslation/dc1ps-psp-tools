@@ -1,0 +1,166 @@
+{
+  "scene": "script_0258.obj",
+  "dialogues": [
+    {
+      "offset": 144,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……先輩」",
+      "en": "\"...Senpai.\"",
+      "text": "\"...Senpai.\""
+    },
+    {
+      "offset": 163,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "アリス――？",
+      "en": "Alice--?",
+      "text": "Alice--?"
+    },
+    {
+      "offset": 195,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……先輩、おはようございます」",
+      "en": "\"...Senpai, good morning.\"",
+      "text": "\"...Senpai, good morning.\""
+    },
+    {
+      "offset": 234,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 253,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 277,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「いい加減にしろ！」",
+      "en": "\"Get up already!\"",
+      "text": "\"Get up already!\""
+    },
+    {
+      "offset": 315,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "バコッ――！",
+      "en": "--*thwack!*",
+      "text": "--*thwack!*"
+    },
+    {
+      "offset": 334,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ぐっ……」",
+      "en": "\"Gurf...\"",
+      "text": "\"Gurf...\""
+    },
+    {
+      "offset": 408,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「やっと起きたか……」",
+      "en": "\"Finally awake...\"",
+      "text": "\"Finally awake...\""
+    },
+    {
+      "offset": 437,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "出席簿をもった暦先生が、俺を見下ろしている。",
+      "en": "Koyomi-sensei was holding the class register, staring down\nat me.",
+      "text": "Koyomi-sensei was holding the class register, staring down\nat me."
+    },
+    {
+      "offset": 488,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あれ……暦先生、何してんの？」",
+      "en": "\"Ahh.... Koyomi-sensei, what's up?\"",
+      "text": "\"Ahh.... Koyomi-sensei, what's up?\""
+    },
+    {
+      "offset": 536,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「授業だ。もう終わったけどな」",
+      "en": "\"Class is still on. If you want to sleep, wait a few more\nminutes for it to end.\"",
+      "text": "\"Class is still on. If you want to sleep, wait a few more\nminutes for it to end.\""
+    },
+    {
+      "offset": 573,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "出席簿片手に、暦先生が教壇に戻っていく。",
+      "en": "Holding the register in one hand, Koyomi-sensei returned to\nher desk.",
+      "text": "Holding the register in one hand, Koyomi-sensei returned to\nher desk."
+    },
+    {
+      "offset": 629,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「じゃあ週番、号令」",
+      "en": "\"Now, weekly duty?\"",
+      "text": "\"Now, weekly duty?\""
+    },
+    {
+      "offset": 656,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "週番の号令を聞きながら、俺は｛あくび／欠伸｝をかみ殺し\nた……。",
+      "en": "If I yawn while the weekly duty is doing his stuff, she'd\nkill me for sure...",
+      "text": "If I yawn while the weekly duty is doing his stuff, she'd\nkill me for sure..."
+    },
+    {
+      "offset": 724,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつの間にか、２時限目の授業――終わってた\nんだな……。",
+      "en": "And the usual two-period class then ended...",
+      "text": "And the usual two-period class then ended..."
+    },
+    {
+      "offset": 895,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆アリスの夢◆",
+      "en": "◆I Dream of Alice◆",
+      "text": "◆I Dream of Alice◆"
+    },
+    {
+      "offset": 931,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "アリスの夢を見た。",
+      "en": "I had a dream of Alice.",
+      "text": "I had a dream of Alice."
+    },
+    {
+      "offset": 954,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "アリスが、俺を優しく起こしてくれる夢だ……。",
+      "en": "One where she was gently waking me up...",
+      "text": "One where she was gently waking me up..."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "134": "Alice",
+    "185": "Alice",
+    "271": "Koyomi",
+    "402": "Koyomi",
+    "530": "Koyomi",
+    "623": "Koyomi"
+  }
+}

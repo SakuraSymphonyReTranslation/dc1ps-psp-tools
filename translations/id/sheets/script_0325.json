@@ -1,0 +1,414 @@
+{
+  "scene": "script_0325.obj",
+  "dialogues": [
+    {
+      "offset": 141,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "明日学校へ行けば、もう学校には来る必要はな\nくなる。",
+      "en": "Once school lets out tomorrow, there'd be no more reason to\ngo back.",
+      "text": "Once school lets out tomorrow, there'd be no more reason to\ngo back."
+    },
+    {
+      "offset": 197,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もちろん、来てもいいんだけど、俺がわざわざ\n来る訳がない。",
+      "en": "Of course, it's not like I CAN'T, but there just wouldn't be\na reason for me to do so.",
+      "text": "Of course, it's not like I CAN'T, but there just wouldn't be\na reason for me to do so."
+    },
+    {
+      "offset": 259,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、ここの月城の草は気になるんだよなぁ。",
+      "en": "However, there's still Tsukishiro's plant to think about.",
+      "text": "However, there's still Tsukishiro's plant to think about."
+    },
+    {
+      "offset": 308,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "気になったら、なった時に見に来ればいいか。\n別に家から遠い訳じゃないし。",
+      "en": "When I'd think about it, I'd probably end up dropping by.\nIt's not a problem of distance, since the school is quite\nclose to my home.",
+      "text": "When I'd think about it, I'd probably end up dropping by.\nIt's not a problem of distance, since the school is quite\nclose to my home."
+    },
+    {
+      "offset": 384,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "でも、たぶん気になるんだろうなぁ。｛しんし／真摯｝な目\nで草の成長を見守っている月城を見ていると、\nどうも放っておけない。",
+      "en": "And seeing those eyes of Tsukishiro, working so hard to make\nthat plant grow, protecting it, makes me feel that I can't\nleave her alone.",
+      "text": "And seeing those eyes of Tsukishiro, working so hard to make\nthat plant grow, protecting it, makes me feel that I can't\nleave her alone."
+    },
+    {
+      "offset": 509,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それに、あの草も初めて見た時から比べれば、\nなんだか成長してる気もするし。",
+      "en": "Not to mention, comparing how it looked when I first saw it\nto now, it seems ot have grown ever-so-slightly stronger.",
+      "text": "Not to mention, comparing how it looked when I first saw it\nto now, it seems ot have grown ever-so-slightly stronger."
+    },
+    {
+      "offset": 589,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「月城、時々ここに来てもいいかな」",
+      "en": "\"Tsukishiro, will it be all right if I stop by here every\nnow and then?\"",
+      "text": "\"Tsukishiro, will it be all right if I stop by here every\nnow and then?\""
+    },
+    {
+      "offset": 670,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……あの」",
+      "en": "\"...Ahh...\"",
+      "text": "\"...Ahh...\""
+    },
+    {
+      "offset": 702,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……ええと」",
+      "en": "\"...Um...\"",
+      "text": "\"...Um...\""
+    },
+    {
+      "offset": 723,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は、しどろもどろに返事をし、眉をひそめ\nながら首を傾げた後、手袋を外し、人形……ピ\nロスに触れた。",
+      "en": "Her reply was mumbled, her eyebrows knitted. Eventually, she\ntook off her gloves, and started caressing that doll...\nPiros.",
+      "text": "Her reply was mumbled, her eyebrows knitted. Eventually, she\ntook off her gloves, and started caressing that doll...\nPiros."
+    },
+    {
+      "offset": 860,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「この花をめちゃめちゃにしないって約束して\n　くれたら、来てもいいよ」",
+      "en": "\"As long as you promise not to do anything rash with the\nplant, come whenever you want.\"",
+      "text": "\"As long as you promise not to do anything rash with the\nplant, come whenever you want.\""
+    },
+    {
+      "offset": 936,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "無口な月城と違って、ピロスという名前の人形\nはよく喋る。",
+      "en": "Unlike the tight-lipped Tsukishiro, the doll named Piros\nseemed to love the sound of it's own voice.",
+      "text": "Unlike the tight-lipped Tsukishiro, the doll named Piros\nseemed to love the sound of it's own voice."
+    },
+    {
+      "offset": 998,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「めちゃめちゃになんてしないさ。俺はそんな\n　つもりでここに来てる訳じゃないからな」",
+      "en": "\"Of course I wouldn't. There's no reason for me to come here\njust to do that.\"",
+      "text": "\"Of course I wouldn't. There's no reason for me to come here\njust to do that.\""
+    },
+    {
+      "offset": 1118,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「それなら、いいけど……朝倉先輩は、どうし\n　てここに来るの？」",
+      "en": "\"Then that'd be fine, but... why would you want to come\nhere, Asakura-senpai?\"",
+      "text": "\"Then that'd be fine, but... why would you want to come\nhere, Asakura-senpai?\""
+    },
+    {
+      "offset": 1188,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「それは、……自分でもよくわからないんだけ\n　どな、月城のことがなんだか放っておけなく\n　てさ」",
+      "en": "\"Well... I can't explain it very well myself, but I just\ndon't want to leave Tsukishiro alone.\"",
+      "text": "\"Well... I can't explain it very well myself, but I just\ndon't want to leave Tsukishiro alone.\""
+    },
+    {
+      "offset": 1319,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「……ボクのことは？」",
+      "en": "\"...Me?\"",
+      "text": "\"...Me?\""
+    },
+    {
+      "offset": 1348,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「……お前は、いつも月城と一緒だろ？」",
+      "en": "\"...You're always with Tsukishiro, right?\"",
+      "text": "\"...You're always with Tsukishiro, right?\""
+    },
+    {
+      "offset": 1406,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「……ボクのことは、放っておけなくないの？」",
+      "en": "\"...You don't want to leave me alone?\"",
+      "text": "\"...You don't want to leave me alone?\""
+    },
+    {
+      "offset": 1457,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「……ああ、放っておけないよ。お前も」",
+      "en": "\"...Yeah, I won't leave you alone too.\"",
+      "text": "\"...Yeah, I won't leave you alone too.\""
+    },
+    {
+      "offset": 1532,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「……そっか」",
+      "en": "\"...I see.\"",
+      "text": "\"...I see.\""
+    },
+    {
+      "offset": 1553,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "人形相手になにやってんだか。",
+      "en": "It's still immensely odd to converse wtih a doll.",
+      "text": "It's still immensely odd to converse wtih a doll."
+    },
+    {
+      "offset": 1586,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "でも、これってもしかして、人形を通して、月\n城と会話をしてることになるのかな。",
+      "en": "But maybe, it would be the same thing as talking to\nTsukishiro through it.",
+      "text": "But maybe, it would be the same thing as talking to\nTsukishiro through it."
+    },
+    {
+      "offset": 1668,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "たとえば、どういう理屈か、人形は月城の気持\nちを言葉にする力がある。",
+      "en": "In other words, maybe she has a power to make dolls\ncommunicate her feelings for her.",
+      "text": "In other words, maybe she has a power to make dolls\ncommunicate her feelings for her."
+    },
+    {
+      "offset": 1740,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は、あまり喋りたくはないのだけれど、ど\nうしても自分の言葉だけではどうしようもない\n時には、人形を使う……。",
+      "en": "Tsukishiro may not like, or want to talk, but at times where\nshe does need to say something, using a doll to\ncommunicate...",
+      "text": "Tsukishiro may not like, or want to talk, but at times where\nshe does need to say something, using a doll to\ncommunicate..."
+    },
+    {
+      "offset": 1855,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんとも奇妙な話だ。",
+      "en": "It's a strange theory, to be sure.",
+      "text": "It's a strange theory, to be sure."
+    },
+    {
+      "offset": 1880,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……でも、だからどうだって感じなんだよな。",
+      "en": "...But I can't think of any other explanation.",
+      "text": "...But I can't think of any other explanation."
+    },
+    {
+      "offset": 1927,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "正直、自分がメルヘンの世界に生きてきて、何\n年か経ってる訳だけど、やっぱりその手の事象\nへの耐性って減った気がする。",
+      "en": "Having lived with fairlytale-like powers myself for so long\nanyway, I'd hardly be able to pass phenomena like that off\neasily.",
+      "text": "Having lived with fairlytale-like powers myself for so long\nanyway, I'd hardly be able to pass phenomena like that off\neasily."
+    },
+    {
+      "offset": 2048,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「じゃあ、気が向いたら、来るよ。月城もピロ\n　スも｛・・・／どっち｝も気になるからな」",
+      "en": "\"Anyway, I'd drop by every now and then, if both of you\ndon't mind.\"",
+      "text": "\"Anyway, I'd drop by every now and then, if both of you\ndon't mind.\""
+    },
+    {
+      "offset": 2170,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「うん。ボクも先輩が来るのは、そんなに嫌い\n　じゃないから」",
+      "en": "\"Okay. I don't mind at all if you come for a visit.\"",
+      "text": "\"Okay. I don't mind at all if you come for a visit.\""
+    },
+    {
+      "offset": 2236,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「そうですか、そりゃよかった。月城は……、\n　俺が来てもいいのか？」",
+      "en": "\"That's good. Tsukishiro... what about you?\"",
+      "text": "\"That's good. Tsukishiro... what about you?\""
+    },
+    {
+      "offset": 2310,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "人形ではなくて、月城に話しかける。人形の言\n葉がたとえ月城の言葉であろうとなかろうと、\nやはり本人の口から直接聞きたいものだ。",
+      "en": "I aimed my question not at the doll, but at Tsukishiro. I\nstill wanted to hear it from the person herself.",
+      "text": "I aimed my question not at the doll, but at Tsukishiro. I\nstill wanted to hear it from the person herself."
+    },
+    {
+      "offset": 2471,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……私は」",
+      "en": "\"...I...\"",
+      "text": "\"...I...\""
+    },
+    {
+      "offset": 2503,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「アリス、無理をしなくていいんだよ」",
+      "en": "\"Alice, don't push yourself too hard.\"",
+      "text": "\"Alice, don't push yourself too hard.\""
+    },
+    {
+      "offset": 2576,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……私も」",
+      "en": "\"...I, too...\"",
+      "text": "\"...I, too...\""
+    },
+    {
+      "offset": 2608,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「言いにくいことは全部ボクが言うから」",
+      "en": "\"You can let me handle all the talking if you need me to...\"",
+      "text": "\"You can let me handle all the talking if you need me to...\""
+    },
+    {
+      "offset": 2683,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……私も、先輩が来るのは、嫌いじゃないで\n　す」",
+      "en": "\"...I also won't mind if senpai comes.\"",
+      "text": "\"...I also won't mind if senpai comes.\""
+    },
+    {
+      "offset": 2739,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は、そう言ってポケットに仕舞っていた手\n袋をいそいそと手にはめる。",
+      "en": "Quickly after saying that, she took out the gloves from her\npocket.",
+      "text": "Quickly after saying that, she took out the gloves from her\npocket."
+    },
+    {
+      "offset": 2845,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……先輩、サヨナラ」",
+      "en": "\"...Senpai, farewell.\"",
+      "text": "\"...Senpai, farewell.\""
+    },
+    {
+      "offset": 2883,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は、手袋をはめ終わると、鞄を持ち、もの\nを言わなくなった人形を抱きかかえ、すたすた\nと公園に向かって走っていった。",
+      "en": "Putting on her gloves, grabbing her bag, and taking the\nnow-silent doll with her, she ran off towards the direction\nof the park.",
+      "text": "Putting on her gloves, grabbing her bag, and taking the\nnow-silent doll with her, she ran off towards the direction\nof the park."
+    },
+    {
+      "offset": 3006,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ま、いっか……」",
+      "en": "\"Oh well...\"",
+      "text": "\"Oh well...\""
+    },
+    {
+      "offset": 3031,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだか奇妙な会話だった気がするけど、なん\nだか初めてまともに月城の言葉を聞いた気がす\nる。",
+      "en": "It was a strange conversation, but it was the first time I\nmanaged to get such an honest, upfront reply out of her.",
+      "text": "It was a strange conversation, but it was the first time I\nmanaged to get such an honest, upfront reply out of her."
+    },
+    {
+      "offset": 3126,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そのうち、心を開いてくれそうな……気がしな\nくもなかった。",
+      "en": "Maybe, just maybe, her heart is starting to open up.",
+      "text": "Maybe, just maybe, her heart is starting to open up."
+    },
+    {
+      "offset": 3317,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆嫌いじゃないです◆",
+      "en": "◆I Won't Mind◆",
+      "text": "◆I Won't Mind◆"
+    },
+    {
+      "offset": 3366,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "明日が終われば、基本的に学校へは来なくてよ\nくなる。",
+      "en": "After tomorrow, I don't need to go to school anymore.",
+      "text": "After tomorrow, I don't need to go to school anymore."
+    },
+    {
+      "offset": 3422,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、月城に、それでも時々ここへ様子を見に\n来ていいかと｛たず／訊｝ねる。",
+      "en": "So in turn, I asked Tsukishiro whether I could come by every\nnow and then, to check on the plant and them.",
+      "text": "So in turn, I asked Tsukishiro whether I could come by every\nnow and then, to check on the plant and them."
+    },
+    {
+      "offset": 3500,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は、人形を使って『来てもいい』と答える。\nそして『どうして、先輩はここに来るのか』と\n聞いてくるのだった。",
+      "en": "Tsukishiro used the doll to answer \"It's fine if you come\".\nFollowing up with \"Why do you want to come?\"",
+      "text": "Tsukishiro used the doll to answer \"It's fine if you come\".\nFollowing up with \"Why do you want to come?\""
+    },
+    {
+      "offset": 3613,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、月城とその草が気になるから、放ってお\nけないから来るのだと答えた。俺は、月城に、\n俺のことは嫌いか？　と訊ねた。",
+      "en": "I answered that I didn't want to leave her, or the plant,\nalone. In turn, I asked whether she minded me.",
+      "text": "I answered that I didn't want to leave her, or the plant,\nalone. In turn, I asked whether she minded me."
+    },
+    {
+      "offset": 3734,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は、しどろもどになりながらも、自分の声\nで『嫌いではない』と答えた。",
+      "en": "Although she stumbled and stuttered, she eventually manage\nto answer, with her own voice, \"I don't mind.\"",
+      "text": "Although she stumbled and stuttered, she eventually manage\nto answer, with her own voice, \"I don't mind.\""
+    },
+    {
+      "offset": 3810,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そのうち、心を開いてくれるのでは……。そう\n思うのだった。",
+      "en": "Maybe, just maybe, her heart is starting to open up.",
+      "text": "Maybe, just maybe, her heart is starting to open up."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "660": "Alice",
+    "692": "Alice",
+    "850": "Piros",
+    "1108": "Piros",
+    "1309": "Piros",
+    "1396": "Piros",
+    "1522": "Piros",
+    "2160": "Piros",
+    "2461": "Alice",
+    "2493": "Piros",
+    "2566": "Alice",
+    "2598": "Piros",
+    "2673": "Alice",
+    "2835": "Alice"
+  }
+}

@@ -1,0 +1,2381 @@
+{
+  "scene": "script_0382.obj",
+  "dialogues": [
+    {
+      "offset": 200,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 213,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 226,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "声が聞こえる……。",
+      "en": "A voice rang through my head...",
+      "text": "A voice rang through my head..."
+    },
+    {
+      "offset": 249,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "遠くのように聞こえて、近いようにも聞こえる。",
+      "en": "It felt like it was calling me from both afar, and up close.",
+      "text": "It felt like it was calling me from both afar, and up close."
+    },
+    {
+      "offset": 298,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "幼い子供たちが何処かで遊んでいる……。",
+      "en": "A gaggle of children were playing somewhere...",
+      "text": "A gaggle of children were playing somewhere..."
+    },
+    {
+      "offset": 341,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……どうやら俺は、また誰かの夢に入ってしまっ\nたらしい。",
+      "en": "...Looks like I've entered someone else's dream, again.",
+      "text": "...Looks like I've entered someone else's dream, again."
+    },
+    {
+      "offset": 401,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "誰の、夢だ？",
+      "en": "Whose dream is this?",
+      "text": "Whose dream is this?"
+    },
+    {
+      "offset": 418,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう思った途端、目の前に｛まり／鞠｝を手にした女の子\nが見えた。",
+      "en": "As if answering my thoughts, a vision of a young girl\nappeared in front of me. She was holding a ball.",
+      "text": "As if answering my thoughts, a vision of a young girl\nappeared in front of me. She was holding a ball."
+    },
+    {
+      "offset": 486,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少女は鞠をついて、遊んでいた。遊ぶ子供の声\nは何人も聞こえるのに、少女の周りには誰もい\nない。",
+      "en": "She was playing with the ball, by herself. I could hear\nplayful voices elsewhere, but no one was around her.",
+      "text": "She was playing with the ball, by herself. I could hear\nplayful voices elsewhere, but no one was around her."
+    },
+    {
+      "offset": 583,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただ一人、鞠をついている姿はなんか寂しい。",
+      "en": "She had to be lonely, playing with that ball alone...",
+      "text": "She had to be lonely, playing with that ball alone..."
+    },
+    {
+      "offset": 630,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……友達いないのか？",
+      "en": "...Doesn't she have any friends?",
+      "text": "...Doesn't she have any friends?"
+    },
+    {
+      "offset": 655,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "不意に５人の少年が少女を取り囲んだ。",
+      "en": "Suddenly, five boys appeared, surrounding the girl.",
+      "text": "Suddenly, five boys appeared, surrounding the girl."
+    },
+    {
+      "offset": 711,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「何……？」",
+      "en": "\"Huh...?\"",
+      "text": "\"Huh...?\""
+    },
+    {
+      "offset": 740,
+      "speaker": "Boys",
+      "speaker_jp": "少年たち",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 759,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "５人の少年は、｛おび／怯｝える少女を取り囲み、威圧す\nるようにジッと｛にら／睨｝みつけている。",
+      "en": "The 5 of them stood, surrounding the frightened girl,\nglaring at her menacingly.",
+      "text": "The 5 of them stood, surrounding the frightened girl,\nglaring at her menacingly."
+    },
+    {
+      "offset": 857,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少女が逃げようとすると、その行く手を一人が\n通せんぼするように｛ふさ／塞｝いだ。",
+      "en": "The girl seemed to want to run away, but every escape route\nwas covered.",
+      "text": "The girl seemed to want to run away, but every escape route\nwas covered."
+    },
+    {
+      "offset": 941,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "別の方向へ逃げようとするが、同じだった。逃\nげられない少女は、ますます怯えていた。",
+      "en": "No matter where she looked, all she saw were the boys. She\ngrew increasingly scared.",
+      "text": "No matter where she looked, all she saw were the boys. She\ngrew increasingly scared."
+    },
+    {
+      "offset": 1037,
+      "speaker": "Boy 1",
+      "speaker_jp": "少年１",
+      "jp": "「お前が変なこと言うから、本当になったじゃ\n　ねえか」",
+      "en": "\"All those weird things you said really came true.\"",
+      "text": "\"All those weird things you said really came true.\""
+    },
+    {
+      "offset": 1105,
+      "speaker": "Boy 2",
+      "speaker_jp": "少年２",
+      "jp": "「お前のせいで中西は犬にかまれたんだ」",
+      "en": "\"Nakamura got bitten by a dog because of you!\"",
+      "text": "\"Nakamura got bitten by a dog because of you!\""
+    },
+    {
+      "offset": 1156,
+      "speaker": "Nakamura",
+      "speaker_jp": "中西",
+      "jp": "「ほら、見ろよ」",
+      "en": "\"Yeah, look at this!\"",
+      "text": "\"Yeah, look at this!\""
+    },
+    {
+      "offset": 1179,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "中西、と呼ばれた少年は、少女に足に巻いてあ\nる包帯を見せる。",
+      "en": "The boy, apparently named Nakamura, showed the girl his\nbandaged leg.",
+      "text": "The boy, apparently named Nakamura, showed the girl his\nbandaged leg."
+    },
+    {
+      "offset": 1258,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「でも、わたし、神様の声を聞いたんだもん\n　……」",
+      "en": "\"B, but, I only heard it from God...\"",
+      "text": "\"B, but, I only heard it from God...\""
+    },
+    {
+      "offset": 1314,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "怯えながらも、少女は少年たちに言葉を返す。",
+      "en": "She was trembling, but still tried to reply.",
+      "text": "She was trembling, but still tried to reply."
+    },
+    {
+      "offset": 1361,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それがいけなかったのかもしれない。少年たち\nの目に、明らかに怒りの色が浮かんだ。",
+      "en": "Maybe it wasn't the smartest move, though... there was clear\nanger in the boys' eyes.",
+      "text": "Maybe it wasn't the smartest move, though... there was clear\nanger in the boys' eyes."
+    },
+    {
+      "offset": 1455,
+      "speaker": "Boy 1",
+      "speaker_jp": "少年１",
+      "jp": "「またその話かよ。おまえ、でたらめ言ってん\n　じゃないぞ」",
+      "en": "\"That nonsense again. Don't talk rubbish!\"",
+      "text": "\"That nonsense again. Don't talk rubbish!\""
+    },
+    {
+      "offset": 1527,
+      "speaker": "Boy 2",
+      "speaker_jp": "少年２",
+      "jp": "「神様の声なんて、聞こえる訳ないだろ！」",
+      "en": "\"Why would God want to talk to you!\"",
+      "text": "\"Why would God want to talk to you!\""
+    },
+    {
+      "offset": 1582,
+      "speaker": "Boy 3",
+      "speaker_jp": "少年３",
+      "jp": "「嘘つくのは、いい加減やめろよな」",
+      "en": "\"Stop lying already.\"",
+      "text": "\"Stop lying already.\""
+    },
+    {
+      "offset": 1636,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「だって、聞こえたもん！」",
+      "en": "\"B, but, I can!!\"",
+      "text": "\"B, but, I can!!\""
+    },
+    {
+      "offset": 1675,
+      "speaker": "Nakamura",
+      "speaker_jp": "中西",
+      "jp": "「聞こえるわけねえよ。聞こえたら魔女だ」",
+      "en": "\"Are you saying you're some witch?\"",
+      "text": "\"Are you saying you're some witch?\""
+    },
+    {
+      "offset": 1735,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「聞こえたもん……」",
+      "en": "\"I... can hear it...\"",
+      "text": "\"I... can hear it...\""
+    },
+    {
+      "offset": 1762,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "小さくなる声……。",
+      "en": "A barely audible whisper...",
+      "text": "A barely audible whisper..."
+    },
+    {
+      "offset": 1785,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "瞳を潤ませながら、少女は必死に答えようとす\nる。",
+      "en": "Her eyes were watering, as she desperately pleaded.",
+      "text": "Her eyes were watering, as she desperately pleaded."
+    },
+    {
+      "offset": 1837,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、それははかない抵抗だった……。",
+      "en": "But it was futile resistance...",
+      "text": "But it was futile resistance..."
+    },
+    {
+      "offset": 1890,
+      "speaker": "Boy 1",
+      "speaker_jp": "少年１",
+      "jp": "「やっぱり、魔女だ」",
+      "en": "\"She really is a witch.\"",
+      "text": "\"She really is a witch.\""
+    },
+    {
+      "offset": 1925,
+      "speaker": "Boys",
+      "speaker_jp": "少年達",
+      "jp": "「魔女、魔女、魔女――」",
+      "en": "\"Witch, witch, witch~~\"",
+      "text": "\"Witch, witch, witch~~\""
+    },
+    {
+      "offset": 1956,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少年達は一斉に魔女コールをする。",
+      "en": "The boys taunted her in perfect synchronization.",
+      "text": "The boys taunted her in perfect synchronization."
+    },
+    {
+      "offset": 1993,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少女は、鞠をを抱きしめて唇を噛んでいる。",
+      "en": "The girl continued clutching the ball tightly. Her lips were\nquivering.",
+      "text": "The girl continued clutching the ball tightly. Her lips were\nquivering."
+    },
+    {
+      "offset": 2038,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目には、今にも涙が溢れそうだ。",
+      "en": "Tears started to drop down the corners of her eyes.",
+      "text": "Tears started to drop down the corners of her eyes."
+    },
+    {
+      "offset": 2073,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんてやつらだ。一人の女の子をよってたかっ\nて……。",
+      "en": "The hell's up with these brats? Ganging up on a poor girl...",
+      "text": "The hell's up with these brats? Ganging up on a poor girl..."
+    },
+    {
+      "offset": 2129,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "夢を見るだけじゃなく、手を出すことも出来た\nら、すぐに止めに行くのに。",
+      "en": "If only this wasn't a dream, I'd be putting a stop to this\nnonsense immediately...",
+      "text": "If only this wasn't a dream, I'd be putting a stop to this\nnonsense immediately..."
+    },
+    {
+      "offset": 2213,
+      "speaker": "Boy 6",
+      "speaker_jp": "少年６",
+      "jp": "「おーい。そいつはいじめちゃだめだ！　いじ\n　めると、悪いことが起こっちゃうぜ」",
+      "en": "\"Hey, you better stop bullying her! Bad things will happen!\"",
+      "text": "\"Hey, you better stop bullying her! Bad things will happen!\""
+    },
+    {
+      "offset": 2299,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さらに別の仲間らしいのがやってきて、少女を\n取り囲んでいる少年たちに言った。",
+      "en": "Another boy, seemingly a friend of the group, called out to\nthe boys surrounding her.",
+      "text": "Another boy, seemingly a friend of the group, called out to\nthe boys surrounding her."
+    },
+    {
+      "offset": 2389,
+      "speaker": "Boy 1",
+      "speaker_jp": "少年１",
+      "jp": "「なんだよ。悪いことって？」",
+      "en": "\"What do you mean, bad things?\"",
+      "text": "\"What do you mean, bad things?\""
+    },
+    {
+      "offset": 2432,
+      "speaker": "Boy 6",
+      "speaker_jp": "少年６",
+      "jp": "「おかんが言ってたんだ。そいつは神社の子だ\n　から、いじめるとバチが当たるって」",
+      "en": "\"Bad things! That girl's a child from the shrine, you'd be\npunished by God if you bully her!\"",
+      "text": "\"Bad things! That girl's a child from the shrine, you'd be\npunished by God if you bully her!\""
+    },
+    {
+      "offset": 2526,
+      "speaker": "Boy 1",
+      "speaker_jp": "少年１",
+      "jp": "「え？　それ本当か？」",
+      "en": "\"Ehh? Really?\"",
+      "text": "\"Ehh? Really?\""
+    },
+    {
+      "offset": 2555,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その瞬間。",
+      "en": "At that moment.",
+      "text": "At that moment."
+    },
+    {
+      "offset": 2570,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少年６人の１２の目が一斉に、沈痛な面持ちを\nした女の子の顔に注がれる。",
+      "en": "The 12 pairs of eyes belonging to the 6 boys locked on to\nthe still-cowering girl.",
+      "text": "The 12 pairs of eyes belonging to the 6 boys locked on to\nthe still-cowering girl."
+    },
+    {
+      "offset": 2644,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どこか、場の空気が変わったような気がした。",
+      "en": "The air seems to have changed...",
+      "text": "The air seems to have changed..."
+    },
+    {
+      "offset": 2706,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "（みんな、怖い……）",
+      "en": "\"(Everyone's so... scary...)\"",
+      "text": "\"(Everyone's so... scary...)\""
+    },
+    {
+      "offset": 2733,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "女の子の思念が俺の脳にダイレクトに入ってく\nる。やけに言葉が鮮明に聞こえるようになった。",
+      "en": "The girl's thoughts were communicated directly to my brain.\nEach word seemed clear as day to me.",
+      "text": "The girl's thoughts were communicated directly to my brain.\nEach word seemed clear as day to me."
+    },
+    {
+      "offset": 2840,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "（なんで、そんな目で見るの……？）",
+      "en": "\"(Why are they looking at me like that...?)\"",
+      "text": "\"(Why are they looking at me like that...?)\""
+    },
+    {
+      "offset": 2881,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少年達の目は今までと違っていた。例えて言え\nば、冷たいガラスのような目だ。",
+      "en": "The boys' eyes had changed. Instead of firey or taunting,\nthey were cold and unnerving.",
+      "text": "The boys' eyes had changed. Instead of firey or taunting,\nthey were cold and unnerving."
+    },
+    {
+      "offset": 2959,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何か得体の知れないものを見るような……。自\n分とは異質なものに対する恐怖と嫌悪……。",
+      "en": "Looking at my own gender behaving like that, made me\ndisgusted.",
+      "text": "Looking at my own gender behaving like that, made me\ndisgusted."
+    },
+    {
+      "offset": 3062,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "（どうして、そんな目で見るの……？）",
+      "en": "\"(Why do they stare like that...)\"",
+      "text": "\"(Why do they stare like that...)\""
+    },
+    {
+      "offset": 3118,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "（わたしは……ただ、神様の声が聞こえるだけ\n　なのに）",
+      "en": "\"(I can... only hear God's voice...)\"",
+      "text": "\"(I can... only hear God's voice...)\""
+    },
+    {
+      "offset": 3186,
+      "speaker": "Boy 1",
+      "speaker_jp": "少年１",
+      "jp": "「こいつには、もう関わるのやめようぜ」",
+      "en": "\"We better stop bothering with her from now on.\"",
+      "text": "\"We better stop bothering with her from now on.\""
+    },
+    {
+      "offset": 3239,
+      "speaker": "Boy 2",
+      "speaker_jp": "少年２",
+      "jp": "「そ、そうだよな。俺たちまで何かあったら怖\n　いからな」",
+      "en": "\"Y, yeah... I'm scared, something might happen to us!\"",
+      "text": "\"Y, yeah... I'm scared, something might happen to us!\""
+    },
+    {
+      "offset": 3309,
+      "speaker": "Boy 3",
+      "speaker_jp": "少年３",
+      "jp": "「魔女に呪われるなんて、冗談じゃないぜ」",
+      "en": "\"The curse of a witch is scary!\"",
+      "text": "\"The curse of a witch is scary!\""
+    },
+    {
+      "offset": 3369,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3388,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "女の子は溢れる涙をぐっと堪えている。その耐\nえる姿は……すごく痛々しかった。",
+      "en": "The girl silently stood there, doing her best to keep\nherself from crying... it pained my heart.",
+      "text": "The girl silently stood there, doing her best to keep\nherself from crying... it pained my heart."
+    },
+    {
+      "offset": 3483,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "（この人達の前では泣きたくない）",
+      "en": "\"(I don't want to cry in front of them...)\"",
+      "text": "\"(I don't want to cry in front of them...)\""
+    },
+    {
+      "offset": 3522,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな女の子の気持ちが、俺に伝わってくる。",
+      "en": "The girls feelings were clearly communiacted to me.",
+      "text": "The girls feelings were clearly communiacted to me."
+    },
+    {
+      "offset": 3579,
+      "speaker": "Boy 1",
+      "speaker_jp": "少年１",
+      "jp": "「行こうぜ」",
+      "en": "\"Let's go.\"",
+      "text": "\"Let's go.\""
+    },
+    {
+      "offset": 3606,
+      "speaker": "Boys",
+      "speaker_jp": "少年達",
+      "jp": "「おう」",
+      "en": "\"Yeah.\"",
+      "text": "\"Yeah.\""
+    },
+    {
+      "offset": 3621,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少年達は、女の子の前を去っていった。",
+      "en": "The boys then walked away from her.",
+      "text": "The boys then walked away from her."
+    },
+    {
+      "offset": 3662,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "女の子は、鞠をもう一度、力いっぱい抱きしめ\nる。",
+      "en": "The girl, once again, started clutching the ball tightly.",
+      "text": "The girl, once again, started clutching the ball tightly."
+    },
+    {
+      "offset": 3714,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "女の子の瞳からは、一筋の涙がこぼれ落ちた。",
+      "en": "A line of liquid dripped down her eyes, and off her cheek.",
+      "text": "A line of liquid dripped down her eyes, and off her cheek."
+    },
+    {
+      "offset": 3761,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鞠に当たり、小さな染みになる。",
+      "en": "it struck the ball, leaving a wet spot.",
+      "text": "it struck the ball, leaving a wet spot."
+    },
+    {
+      "offset": 3796,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "堪えて、堪えて……、やっと流すことのできた\n悲しい涙だった……。",
+      "en": "She endured, and endured.... until finally, one sad tear\nescaped...",
+      "text": "She endured, and endured.... until finally, one sad tear\nescaped..."
+    },
+    {
+      "offset": 3879,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "（……どうして……？）",
+      "en": "\"(...Why...?)\"",
+      "text": "\"(...Why...?)\""
+    },
+    {
+      "offset": 3921,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "（……わたしは、魔女なのかな？）",
+      "en": "\"(...I'm... a witch...?)\"",
+      "text": "\"(...I'm... a witch...?)\""
+    },
+    {
+      "offset": 3973,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "（みんなに不幸を運んじゃうのかな……）",
+      "en": "\"(I do give everyone bad luck...)\"",
+      "text": "\"(I do give everyone bad luck...)\""
+    },
+    {
+      "offset": 4031,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "（わたしは、ダメな子なのかな……）",
+      "en": "\"(I'm really... a bad girl...)\"",
+      "text": "\"(I'm really... a bad girl...)\""
+    },
+    {
+      "offset": 4085,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「……っく……っく……」",
+      "en": "\"...hic... hic...\"",
+      "text": "\"...hic... hic...\""
+    },
+    {
+      "offset": 4116,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "女の子の瞳から、次から次へとドロップのよう\nな涙の雫が溢れ落ちる。",
+      "en": "The girl's tears started streaming, one-by-one, like a\nwaterfall.",
+      "text": "The girl's tears started streaming, one-by-one, like a\nwaterfall."
+    },
+    {
+      "offset": 4186,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あまりにもかわいそうで、夢でなければ……抱\nきしめているところだ。",
+      "en": "What a sad dream this is... I wanted to hug her, and tell\nher it was just a dream.",
+      "text": "What a sad dream this is... I wanted to hug her, and tell\nher it was just a dream."
+    },
+    {
+      "offset": 4256,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、今の俺には何もできない。",
+      "en": "But, I simply can't do anything as I am.",
+      "text": "But, I simply can't do anything as I am."
+    },
+    {
+      "offset": 4308,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「……っく……うっ……」",
+      "en": "\"...sniff... hic...\"",
+      "text": "\"...sniff... hic...\""
+    },
+    {
+      "offset": 4339,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "女の子は泣きながら、走り去っていった。",
+      "en": "The girl eventually ran off, still crying.",
+      "text": "The girl eventually ran off, still crying."
+    },
+    {
+      "offset": 4404,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "女の子がいたのは、環の住んでいる神社だった。",
+      "en": "The scene changed, to the shrine where Tamaki stays in.",
+      "text": "The scene changed, to the shrine where Tamaki stays in."
+    },
+    {
+      "offset": 4453,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、あの御神木の｛まき／槙｝の木の下にたどり着く\nと、",
+      "en": "She eventually reached the tree, and...",
+      "text": "She eventually reached the tree, and..."
+    },
+    {
+      "offset": 4530,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「うあぁぁぁ……あぁぁ……！」",
+      "en": "\"Uwaahhh.... wahhhhhhh...!\"",
+      "text": "\"Uwaahhh.... wahhhhhhh...!\""
+    },
+    {
+      "offset": 4567,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "堪えきれなくなった想いが、声となって、女の\n子の口からほとばしり出た。",
+      "en": "All her pent up emotions were released from her mouth and\neyes.",
+      "text": "All her pent up emotions were released from her mouth and\neyes."
+    },
+    {
+      "offset": 4641,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とめどなく頬を伝う涙。",
+      "en": "The tears seemed to flow endlessly down.",
+      "text": "The tears seemed to flow endlessly down."
+    },
+    {
+      "offset": 4668,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "泣き声は、神社の境内に空しく響き渡る。",
+      "en": "Her wails resounded around the deserted shrine grounds.",
+      "text": "Her wails resounded around the deserted shrine grounds."
+    },
+    {
+      "offset": 4711,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "夢であることが、こんなに切ないなんてな。",
+      "en": "I didn't know dreams could be as painful as this.",
+      "text": "I didn't know dreams could be as painful as this."
+    },
+    {
+      "offset": 4756,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、こんな小さな子はあの辺りじゃ見たこ\nとがないな。",
+      "en": "Besides this girl, I couldn't see anything else.",
+      "text": "Besides this girl, I couldn't see anything else."
+    },
+    {
+      "offset": 4816,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "誰かの想像の夢なのか、もしくは小さな頃の思\nい出なのか……。",
+      "en": "Rather than some dream brought up from imagination, this\nseems like a childhood memory...",
+      "text": "Rather than some dream brought up from imagination, this\nseems like a childhood memory..."
+    },
+    {
+      "offset": 4890,
+      "speaker": "Boy",
+      "speaker_jp": "男の子",
+      "jp": "「どうして泣いてるの？」",
+      "en": "\"Why are you crying?\"",
+      "text": "\"Why are you crying?\""
+    },
+    {
+      "offset": 4934,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「……え？」",
+      "en": "\"...Eh?\"",
+      "text": "\"...Eh?\""
+    },
+    {
+      "offset": 4953,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "不意に声が聞こえ、一瞬、泣き止み、辺りをキョ\nロキョロと見渡す。",
+      "en": "The sudden voice caused her tears to run dry, and she looked\naround frantically.",
+      "text": "The sudden voice caused her tears to run dry, and she looked\naround frantically."
+    },
+    {
+      "offset": 5031,
+      "speaker": "Boy",
+      "speaker_jp": "男の子",
+      "jp": "「こっち、こっち。上だよ、上」",
+      "en": "\"I'm up here, up!\"",
+      "text": "\"I'm up here, up!\""
+    },
+    {
+      "offset": 5068,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "女の子が声のした方を見上げると、顔は良く見\nえないが、男の子が槙の木の枝に腰掛けている\nのが見えた。",
+      "en": "I looked up with the girl. I didn't have a clear view, but\nmade out the sihoulette of a boy sitting on a branch.",
+      "text": "I looked up with the girl. I didn't have a clear view, but\nmade out the sihoulette of a boy sitting on a branch."
+    },
+    {
+      "offset": 5186,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「だあれ？」",
+      "en": "\"Who's that?\"",
+      "text": "\"Who's that?\""
+    },
+    {
+      "offset": 5213,
+      "speaker": "Boy",
+      "speaker_jp": "男の子",
+      "jp": "「登ってくれば、わかるよ」",
+      "en": "\"If you can climb up here, you'd find out.\"",
+      "text": "\"If you can climb up here, you'd find out.\""
+    },
+    {
+      "offset": 5259,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 5286,
+      "speaker": "Boy",
+      "speaker_jp": "男の子",
+      "jp": "「どうした？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 5320,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「スカートだもん。登れないよ」",
+      "en": "\"...I'm wearing a skirt. I can't climb up!\"",
+      "text": "\"...I'm wearing a skirt. I can't climb up!\""
+    },
+    {
+      "offset": 5365,
+      "speaker": "Boy",
+      "speaker_jp": "男の子",
+      "jp": "「そんなの気にするなよ」",
+      "en": "\"Don't worry about that.\"",
+      "text": "\"Don't worry about that.\""
+    },
+    {
+      "offset": 5409,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 5428,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "女の子は辺りに誰もいないのを確認し、槙の木\nをよじ登り始める。",
+      "en": "The girl looked around first, to make sure no one was\nwatching. She then began her slow ascent.",
+      "text": "The girl looked around first, to make sure no one was\nwatching. She then began her slow ascent."
+    },
+    {
+      "offset": 5509,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「……っ、よいしょっ」",
+      "en": "\"...H, here...\"",
+      "text": "\"...H, here...\""
+    },
+    {
+      "offset": 5538,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "小さな手と足をいっぱい広げて、一生懸命に登\nる。",
+      "en": "Her little hands and legs stretched with all their might, as\nshe climbed as hard as she could.",
+      "text": "Her little hands and legs stretched with all their might, as\nshe climbed as hard as she could."
+    },
+    {
+      "offset": 5600,
+      "speaker": "Boy",
+      "speaker_jp": "男の子",
+      "jp": "「ほら。つかまれよ」",
+      "en": "\"There, I have you.\"",
+      "text": "\"There, I have you.\""
+    },
+    {
+      "offset": 5627,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "男の子は女の子の手をつかんで、枝へと引っ張\nりあげた。",
+      "en": "The boy grabbed onto the girl's hand, and helped her up to\nthe branch he was sitting on.",
+      "text": "The boy grabbed onto the girl's hand, and helped her up to\nthe branch he was sitting on."
+    },
+    {
+      "offset": 5700,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「あ、ありがとう……」",
+      "en": "\"T, thank you...\"",
+      "text": "\"T, thank you...\""
+    },
+    {
+      "offset": 5729,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、男の子の顔は逆光になって見えない。",
+      "en": "The boy's face was still hidden to me, thanks to the glare\nfrom the sun behind him.",
+      "text": "The boy's face was still hidden to me, thanks to the glare\nfrom the sun behind him."
+    },
+    {
+      "offset": 5791,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「うわあ。高いね」",
+      "en": "\"Wow, we're so high up!\"",
+      "text": "\"Wow, we're so high up!\""
+    },
+    {
+      "offset": 5816,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "女の子は自分がさっきまでいた場所を見下ろし\nながら、目を丸くしていた。",
+      "en": "Looking at where she started from, her eyes grew wide.",
+      "text": "Looking at where she started from, her eyes grew wide."
+    },
+    {
+      "offset": 5900,
+      "speaker": "Boy",
+      "speaker_jp": "男の子",
+      "jp": "「泣いてばかりいないで、これ食ってさ、元気\n　出せよ」",
+      "en": "\"You cried so much... have this, it should cheer you up.\"",
+      "text": "\"You cried so much... have this, it should cheer you up.\""
+    },
+    {
+      "offset": 5960,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "男の子が差し出した手のひらには、いつの間に\nか、一つの栗饅頭が乗っていた。",
+      "en": "The boy offered his hand to the girl, revealing a chestnut\nmanjuu on it. When did it get there...?",
+      "text": "The boy offered his hand to the girl, revealing a chestnut\nmanjuu on it. When did it get there...?"
+    },
+    {
+      "offset": 6053,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「わあ、栗饅頭だ。どうしたの、これ？」",
+      "en": "\"Wah, a chestnut manjuu! Why's this here?\"",
+      "text": "\"Wah, a chestnut manjuu! Why's this here?\""
+    },
+    {
+      "offset": 6098,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "男の子は、黙って栗饅頭を女の子に渡す。",
+      "en": "The boy silently gave the chestnut manjuu to the girl.",
+      "text": "The boy silently gave the chestnut manjuu to the girl."
+    },
+    {
+      "offset": 6156,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「もらってもいいの？」",
+      "en": "\"Is it really okay for me to eat this?\"",
+      "text": "\"Is it really okay for me to eat this?\""
+    },
+    {
+      "offset": 6193,
+      "speaker": "Boy",
+      "speaker_jp": "男の子",
+      "jp": "「その為に出したんだよ」",
+      "en": "\"That's why I made it.\"",
+      "text": "\"That's why I made it.\""
+    },
+    {
+      "offset": 6224,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "女の子は栗饅頭を一口かじる。",
+      "en": "The girl put the whole chestnut manjuu in her mouth.",
+      "text": "The girl put the whole chestnut manjuu in her mouth."
+    },
+    {
+      "offset": 6272,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「おいしい！」",
+      "en": "\"It's yummy!\"",
+      "text": "\"It's yummy!\""
+    },
+    {
+      "offset": 6301,
+      "speaker": "Boy",
+      "speaker_jp": "男の子",
+      "jp": "「よかった」",
+      "en": "\"That's good.\"",
+      "text": "\"That's good.\""
+    },
+    {
+      "offset": 6333,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「ほんと、おいしい。ウフフ……」",
+      "en": "\"Hehe, it really is...\"",
+      "text": "\"Hehe, it really is...\""
+    },
+    {
+      "offset": 6380,
+      "speaker": "Boy",
+      "speaker_jp": "男の子",
+      "jp": "「やっと笑ったな」",
+      "en": "\"You finally smiled.\"",
+      "text": "\"You finally smiled.\""
+    },
+    {
+      "offset": 6418,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「……！」",
+      "en": "\"......!\"",
+      "text": "\"......!\""
+    },
+    {
+      "offset": 6435,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "女の子がハッとする。ごく自然に笑っていた自\n分に驚くみたいに。",
+      "en": "The girl put a hand over her mouth, as if trying to hide it.\nShe seemed genuinely shocked that she was smiling...",
+      "text": "The girl put a hand over her mouth, as if trying to hide it.\nShe seemed genuinely shocked that she was smiling..."
+    },
+    {
+      "offset": 6516,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「あなたは、わたしのことをいじめないの？」",
+      "en": "\"You... aren't going to bully me?\"",
+      "text": "\"You... aren't going to bully me?\""
+    },
+    {
+      "offset": 6573,
+      "speaker": "Boy",
+      "speaker_jp": "男の子",
+      "jp": "「なんで？」",
+      "en": "\"Why would I?\"",
+      "text": "\"Why would I?\""
+    },
+    {
+      "offset": 6605,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「だって、みんな、わたしのこと魔女って言う\n　もん」",
+      "en": "\"Because everyone calls me a witch...\"",
+      "text": "\"Because everyone calls me a witch...\""
+    },
+    {
+      "offset": 6671,
+      "speaker": "Boy",
+      "speaker_jp": "男の子",
+      "jp": "「魔女なのか？」",
+      "en": "\"Are you a witch?\"",
+      "text": "\"Are you a witch?\""
+    },
+    {
+      "offset": 6694,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "女の子は首を大きく横に振る。",
+      "en": "The girl shook her head rapidly.",
+      "text": "The girl shook her head rapidly."
+    },
+    {
+      "offset": 6737,
+      "speaker": "Boy",
+      "speaker_jp": "男の子",
+      "jp": "「魔女は｛ほうき／箒｝に乗ってるだろ？　でもキミは乗っ\n　てないじゃん」",
+      "en": "\"Witches ride on brooms, right? You don't have one.\"",
+      "text": "\"Witches ride on brooms, right? You don't have one.\""
+    },
+    {
+      "offset": 6828,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「うん」",
+      "en": "\"Yea...\"",
+      "text": "\"Yea...\""
+    },
+    {
+      "offset": 6851,
+      "speaker": "Boy",
+      "speaker_jp": "男の子",
+      "jp": "「それに、魔女って魔法で人を幸せにするんだ\n　ぞ。本当はすごいんだからな」",
+      "en": "\"Besides, witches who use their magic to help people are\nreally awesome!\"",
+      "text": "\"Besides, witches who use their magic to help people are\nreally awesome!\""
+    },
+    {
+      "offset": 6944,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「そうなの？」",
+      "en": "\"Really?\"",
+      "text": "\"Really?\""
+    },
+    {
+      "offset": 6973,
+      "speaker": "Boy",
+      "speaker_jp": "男の子",
+      "jp": "「そうだよ。だから、魔女って言われたら、喜\n　ばなくちゃ」",
+      "en": "\"Really. So you should be happy to be called a witch!\"",
+      "text": "\"Really. So you should be happy to be called a witch!\""
+    },
+    {
+      "offset": 7050,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「ふぅん、そうなんだ」",
+      "en": "\"Ahh, I understand!\"",
+      "text": "\"Ahh, I understand!\""
+    },
+    {
+      "offset": 7087,
+      "speaker": "Boy",
+      "speaker_jp": "男の子",
+      "jp": "「そうさ」",
+      "en": "\"Yes, you do.\"",
+      "text": "\"Yes, you do.\""
+    },
+    {
+      "offset": 7117,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「うん……」",
+      "en": "\"Mm...\"",
+      "text": "\"Mm...\""
+    },
+    {
+      "offset": 7136,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "女の子の顔に、ホッとしたような笑みが広がる。",
+      "en": "The girl's face relaxed into a relieved smile.",
+      "text": "The girl's face relaxed into a relieved smile."
+    },
+    {
+      "offset": 7185,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "二人は、いつしか地面に下りていた。それでも\n男の子の顔は見えない。",
+      "en": "The two eventually dropped to the ground. But the boy's face\nwas still hidden.",
+      "text": "The two eventually dropped to the ground. But the boy's face\nwas still hidden."
+    },
+    {
+      "offset": 7270,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "（何だろう、この気持ち……）",
+      "en": "\"(What is this feeling...)\"",
+      "text": "\"(What is this feeling...)\""
+    },
+    {
+      "offset": 7305,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "また、女の子の気持ちが聞こえてくる。",
+      "en": "The girl's thoughts flowed into me once again.",
+      "text": "The girl's thoughts flowed into me once again."
+    },
+    {
+      "offset": 7382,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "（この子……わたしのこと……変な目で見てな\n　い……）",
+      "en": "\"(This boy... he isn't looking at me weirdly...)\"",
+      "text": "\"(This boy... he isn't looking at me weirdly...)\""
+    },
+    {
+      "offset": 7455,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "（すごくあったかい……）",
+      "en": "\"(It feels so warm...)\"",
+      "text": "\"(It feels so warm...)\""
+    },
+    {
+      "offset": 7499,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "（不思議だな……。それに、神様の声が聞こえ\n　ないや）",
+      "en": "\"(It's so weird... and I can't hear God's voice now...)\"",
+      "text": "\"(It's so weird... and I can't hear God's voice now...)\""
+    },
+    {
+      "offset": 7572,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "（こんなの、初めて……）",
+      "en": "\"(This is the first time...)\"",
+      "text": "\"(This is the first time...)\""
+    },
+    {
+      "offset": 7616,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「ねえ、わたしと友達になってくれない？」",
+      "en": "\"Hey, will you be my friend?\"",
+      "text": "\"Hey, will you be my friend?\""
+    },
+    {
+      "offset": 7671,
+      "speaker": "Boy",
+      "speaker_jp": "男の子",
+      "jp": "「友達？　そういうのは、お願いしてなるもん\n　じゃないよ」",
+      "en": "\"Friends? You don't have to ask me that.\"",
+      "text": "\"Friends? You don't have to ask me that.\""
+    },
+    {
+      "offset": 7748,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「……嫌なの？」",
+      "en": "\"...You don't wanna?\"",
+      "text": "\"...You don't wanna?\""
+    },
+    {
+      "offset": 7779,
+      "speaker": "Boy",
+      "speaker_jp": "男の子",
+      "jp": "「そんなことはない」",
+      "en": "\"Not at all.\"",
+      "text": "\"Not at all.\""
+    },
+    {
+      "offset": 7819,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「じゃ、お嫁さんにして」",
+      "en": "\"Then, I want to be your wife!\"",
+      "text": "\"Then, I want to be your wife!\""
+    },
+    {
+      "offset": 7858,
+      "speaker": "Boy",
+      "speaker_jp": "男の子",
+      "jp": "「お嫁さん？」",
+      "en": "\"My... wife?\"",
+      "text": "\"My... wife?\""
+    },
+    {
+      "offset": 7892,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「嫌？」",
+      "en": "\"No?\"",
+      "text": "\"No?\""
+    },
+    {
+      "offset": 7915,
+      "speaker": "Boy",
+      "speaker_jp": "男の子",
+      "jp": "「嫌じゃないけど……」",
+      "en": "\"It's not that...\"",
+      "text": "\"It's not that...\""
+    },
+    {
+      "offset": 7957,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「じゃ、約束。はい」",
+      "en": "\"Then, promise me!\"",
+      "text": "\"Then, promise me!\""
+    },
+    {
+      "offset": 7984,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "女の子が小指を差し出す。それが意味するのは、\nもちろん一つだろう。",
+      "en": "The girl stuck out her pinky. That obviously meant only one\nthing.",
+      "text": "The girl stuck out her pinky. That obviously meant only one\nthing."
+    },
+    {
+      "offset": 8064,
+      "speaker": "Boy",
+      "speaker_jp": "男の子",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 8083,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "男の子が黙って、小指を絡める。",
+      "en": "The boy silently stuck out his, as well.",
+      "text": "The boy silently stuck out his, as well."
+    },
+    {
+      "offset": 8133,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「ゆ〜びき〜りげ〜んまん……♪」",
+      "en": "\"Fingers linked?\"",
+      "text": "\"Fingers linked?\""
+    },
+    {
+      "offset": 8172,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "次の瞬間、目の前で光が弾けて、真っ白になっ\nた。",
+      "en": "Right after, my vision exploded into sheer white.",
+      "text": "Right after, my vision exploded into sheer white."
+    },
+    {
+      "offset": 8236,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 8249,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 8262,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "白い部屋の中……。",
+      "en": "A white room...",
+      "text": "A white room..."
+    },
+    {
+      "offset": 8285,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さっきとは違う女の子が、ぽつんと一人、椅子\nに腰掛けている。",
+      "en": "A girl, seemingly different from the last one, was sitting\nin a chair.",
+      "text": "A girl, seemingly different from the last one, was sitting\nin a chair."
+    },
+    {
+      "offset": 8349,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さっきの子供じゃない。けれど、それほど歳が\n離れているわけではなさそうだ。",
+      "en": "It wasn't the girl from the last dream... but the only\ndifference between them seemed to be age.",
+      "text": "It wasn't the girl from the last dream... but the only\ndifference between them seemed to be age."
+    },
+    {
+      "offset": 8427,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、その女の子は環に似ていた。おそらく\n環本人に、違いない。",
+      "en": "And she looks quite like Tamaki... it probably is her.",
+      "text": "And she looks quite like Tamaki... it probably is her."
+    },
+    {
+      "offset": 8495,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そういえば、さっきの女の子も心なしか環に似\nていたような気がする。",
+      "en": "...Now that I think about it, the previous girl looked like\na young Tamaki too...",
+      "text": "...Now that I think about it, the previous girl looked like\na young Tamaki too..."
+    },
+    {
+      "offset": 8565,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "じゃあ、さっきから俺が見させられている夢は、\n環の夢──なのか？",
+      "en": "So, the dream I saw just now... that was Tamaki's dream?",
+      "text": "So, the dream I saw just now... that was Tamaki's dream?"
+    },
+    {
+      "offset": 8633,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "白い部屋──白い光の中に、環が吸い込まれて\nいく。",
+      "en": "In the white room--in the middle of the whiteness, Tamaki\ninhaled and exhaled deeply.",
+      "text": "In the white room--in the middle of the whiteness, Tamaki\ninhaled and exhaled deeply."
+    },
+    {
+      "offset": 8687,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何処からか、声が聞こえてくる。それは環の耳\nに残っている声のようだった。",
+      "en": "So many voices poured from the whiteness. They were the\nwords that Tamaki had heard around her.",
+      "text": "So many voices poured from the whiteness. They were the\nwords that Tamaki had heard around her."
+    },
+    {
+      "offset": 8779,
+      "speaker": "Classmate",
+      "speaker_jp": "クラスメート",
+      "jp": "「ねえ、胡ノ宮さんって、未来が見えるんで\n　しょ？」",
+      "en": "\"Hey, Konomiya-san can see the future?\"",
+      "text": "\"Hey, Konomiya-san can see the future?\""
+    },
+    {
+      "offset": 8851,
+      "speaker": "Classmate",
+      "speaker_jp": "クラスメート",
+      "jp": "「すごいわね。私の未来も見てくれない？」",
+      "en": "\"That's amazing. Can you see my future?\"",
+      "text": "\"That's amazing. Can you see my future?\""
+    },
+    {
+      "offset": 8912,
+      "speaker": "Classmate",
+      "speaker_jp": "クラスメート",
+      "jp": "「胡ノ宮さん、一緒にお昼ご飯食べよう」",
+      "en": "\"Konomiya-san, let's have lunch together!\"",
+      "text": "\"Konomiya-san, let's have lunch together!\""
+    },
+    {
+      "offset": 8971,
+      "speaker": "Classmate",
+      "speaker_jp": "クラスメート",
+      "jp": "「私達、友達よね。お願い、私と彼がどうなる\n　か教えて」",
+      "en": "\"We're friends, right? Please tell me how my boyfriend and I\nwill end up!\"",
+      "text": "\"We're friends, right? Please tell me how my boyfriend and I\nwill end up!\""
+    },
+    {
+      "offset": 9047,
+      "speaker": "Classmate",
+      "speaker_jp": "クラスメート",
+      "jp": "「え？　私が事故に遭う？　冗談じゃないわよ」",
+      "en": "\"Eh? I'd meet with an accident? Don't joke around!\"",
+      "text": "\"Eh? I'd meet with an accident? Don't joke around!\""
+    },
+    {
+      "offset": 9112,
+      "speaker": "Classmate",
+      "speaker_jp": "クラスメート",
+      "jp": "「もっとまともな未来だと思ってた……。がっ\n　かり……」",
+      "en": "\"I thought you'd be more serious about it... how\ndisappointing.\"",
+      "text": "\"I thought you'd be more serious about it... how\ndisappointing.\""
+    },
+    {
+      "offset": 9183,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "（みんな、なんて勝手なんだろう……）",
+      "en": "\"(Everyone only thinks about themselves...)\"",
+      "text": "\"(Everyone only thinks about themselves...)\""
+    },
+    {
+      "offset": 9235,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "（……人の未来なんて知りたくないのに……）",
+      "en": "\"(...I don't want to see other people's futures...)\"",
+      "text": "\"(...I don't want to see other people's futures...)\""
+    },
+    {
+      "offset": 9293,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "（人の未来なんて、知らなければ……）",
+      "en": "\"(Because if I see them...)\"",
+      "text": "\"(Because if I see them...)\""
+    },
+    {
+      "offset": 9345,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "（でも……見えてしまう……）",
+      "en": "\"(But... no matter what I do, I always see it...)\"",
+      "text": "\"(But... no matter what I do, I always see it...)\""
+    },
+    {
+      "offset": 9389,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "（せめて、少しでもコントロールできれば……）",
+      "en": "\"(If only I could control it, even a little...)\"",
+      "text": "\"(If only I could control it, even a little...)\""
+    },
+    {
+      "offset": 9449,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "（巫女の厳しい修行に耐えれば、きっと、神様\n　が守ってくれる……）",
+      "en": "\"(But this is the fate of all Miko... I must endure, and\nsurely God will protect me...)\"",
+      "text": "\"(But this is the fate of all Miko... I must endure, and\nsurely God will protect me...)\""
+    },
+    {
+      "offset": 9530,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "（きっと……）",
+      "en": "\"(Surely...)\"",
+      "text": "\"(Surely...)\""
+    },
+    {
+      "offset": 9553,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 9566,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 9607,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目が、覚めた。",
+      "en": "My eyes opened.",
+      "text": "My eyes opened."
+    },
+    {
+      "offset": 9626,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 9641,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "夢から覚めた後も、まだ環の思念が残っている\nような気がして、呆然としてしまう。",
+      "en": "Even after the dream ended, I could feel Tamaki's thoughts\nwithin me.",
+      "text": "Even after the dream ended, I could feel Tamaki's thoughts\nwithin me."
+    },
+    {
+      "offset": 9723,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あの、木の上の少年……。",
+      "en": "That boy, at the treetop...",
+      "text": "That boy, at the treetop..."
+    },
+    {
+      "offset": 9752,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あれは、俺だ。",
+      "en": "It has to be me.",
+      "text": "It has to be me."
+    },
+    {
+      "offset": 9771,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、槙の木の上で、あいつに会ってたんだ。",
+      "en": "It was on top of that tree, that I met... her.",
+      "text": "It was on top of that tree, that I met... her."
+    },
+    {
+      "offset": 9818,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あんな出来事があったのに、どうして俺は今ま\nで環のことを忘れていたんだろう。",
+      "en": "Considering what I did there though, how could I forget\nabout her?",
+      "text": "Considering what I did there though, how could I forget\nabout her?"
+    },
+    {
+      "offset": 9898,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まるで夢でも見ているような気分だ。（実際に\n夢に見ただけなのだが）",
+      "en": "It felt like I was watching a dream. (Which I was really\ndoing anyway)",
+      "text": "It felt like I was watching a dream. (Which I was really\ndoing anyway)"
+    },
+    {
+      "offset": 9968,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あれは、本当に俺なのだろうか。",
+      "en": "Was that really me?",
+      "text": "Was that really me?"
+    },
+    {
+      "offset": 10003,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうして、あの時の記憶がないのだろう。",
+      "en": "Why don't I have any memories of that event?",
+      "text": "Why don't I have any memories of that event?"
+    },
+    {
+      "offset": 10046,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思い出したのか、環の夢を見せられて、そんな\n出来事があったように思っているだけなのか。",
+      "en": "My inability to remember it, and Tamaki's dream, made the\nincident circle around my head even more.",
+      "text": "My inability to remember it, and Tamaki's dream, made the\nincident circle around my head even more."
+    },
+    {
+      "offset": 10138,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……痛ッ」",
+      "en": "\"...It hurts...\"",
+      "text": "\"...It hurts...\""
+    },
+    {
+      "offset": 10157,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思い出そうとすると、頭がずきんと痛んだ。",
+      "en": "Thinking too hard about it was making my head hurt.",
+      "text": "Thinking too hard about it was making my head hurt."
+    },
+    {
+      "offset": 10202,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうやら、その記憶の前後も、ぼやけているよ\nうで、正確にいつ頃の出来事なのかが思い出せ\nない。",
+      "en": "It's never easy to recall memories from young... that may be\nthe reason why I don't remember it.",
+      "text": "It's never easy to recall memories from young... that may be\nthe reason why I don't remember it."
+    },
+    {
+      "offset": 10299,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただ……、あの時に作った栗饅頭の感触と、受\nけ取った環の少し冷たい手……。それだけは、\nなんとなく、よみがえってきた気がした。",
+      "en": "Yet... the feeling of creating that chestnut manjuu, and the\ntouch of her hand, seemed to linger inside...",
+      "text": "Yet... the feeling of creating that chestnut manjuu, and the\ntouch of her hand, seemed to linger inside..."
+    },
+    {
+      "offset": 10428,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なぜ、それが今まで思い出せなかったのか……、\nいや、記憶がなかったのかわからないけれど、\nあれが俺と環が｛いいなずけ／許嫁｝である理由だろうか。",
+      "en": "Why can't I remember it... regardless, that's undoubtedly\nthe reason for our engagement.",
+      "text": "Why can't I remember it... regardless, that's undoubtedly\nthe reason for our engagement."
+    },
+    {
+      "offset": 10575,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "子どもの約束といえば、ちょっとつたないけれ\nど、それでもケッコンの約束には間違いない。",
+      "en": "It may have been merely a promise to marry, made as a child,\nbut it was still one.",
+      "text": "It may have been merely a promise to marry, made as a child,\nbut it was still one."
+    },
+    {
+      "offset": 10665,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、環もそれを忘れているというのは、お\nかしな話だし、『深い絆』というには、ちょっ\nとお粗末すぎるのではないか。",
+      "en": "But that doesn't explain why she doesn't remember it either,\nor the \"deep bond\" that we share.",
+      "text": "But that doesn't explain why she doesn't remember it either,\nor the \"deep bond\" that we share."
+    },
+    {
+      "offset": 10784,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とはいえ、さっきの夢も俺の記憶が｛あいまい／曖昧｝である\n以上、本当の出来事かどうかわからないのだけ\nれど。",
+      "en": "So basically, thanks to the ambiguity of dreams, many things\nstill remain unknown.",
+      "text": "So basically, thanks to the ambiguity of dreams, many things\nstill remain unknown."
+    },
+    {
+      "offset": 10895,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それにしても、環にあんな過去があったなんて\nな……。",
+      "en": "Tamaki had that kind of past, huh...",
+      "text": "Tamaki had that kind of past, huh..."
+    },
+    {
+      "offset": 10951,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環があまり人と打ち解けないのは、人の未来が\n見えてしまうからだ。",
+      "en": "She was never one to throw off her reservedness in the first\nplace. And with the ability to see people's futures...",
+      "text": "She was never one to throw off her reservedness in the first\nplace. And with the ability to see people's futures..."
+    },
+    {
+      "offset": 11019,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その能力を知ってしまった人は、環を好奇の目\nで見て、自分の未来に対する欲望を、環にぶつ\nけてくる。",
+      "en": "People who knew that, were curious about their own futures,\nand wanted Tamaki to see theirs.",
+      "text": "People who knew that, were curious about their own futures,\nand wanted Tamaki to see theirs."
+    },
+    {
+      "offset": 11120,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環に求めているのは、ただそれだけだ。",
+      "en": "It was simply begging Tamaki for a favour, nothing more.",
+      "text": "It was simply begging Tamaki for a favour, nothing more."
+    },
+    {
+      "offset": 11161,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "友達としてではなく、未来が見える人として。",
+      "en": "They weren't friends. Just people trying to peek into the\nfourth dimension.",
+      "text": "They weren't friends. Just people trying to peek into the\nfourth dimension."
+    },
+    {
+      "offset": 11208,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環も、見えてしまったら、聞かれたら、伝えな\nくてはいけないと思うのだろう。",
+      "en": "And when Tamaki did see the future, hear God's word about\nit, would she have wanted to say it either?",
+      "text": "And when Tamaki did see the future, hear God's word about\nit, would she have wanted to say it either?"
+    },
+    {
+      "offset": 11286,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "常に良い未来ならいいが、違う未来もある。",
+      "en": "It's fine if it's a good future, but if it's a bad one...",
+      "text": "It's fine if it's a good future, but if it's a bad one..."
+    },
+    {
+      "offset": 11331,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな時、相手に自分の能力を知られないよう\nに、不幸を回避する方法。",
+      "en": "It seems she'd been using her power to save other people\nfrom misfortune, while still hiding it...",
+      "text": "It seems she'd been using her power to save other people\nfrom misfortune, while still hiding it..."
+    },
+    {
+      "offset": 11403,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "学園で噂になったような、突拍子もない行動。",
+      "en": "The school'd been gabbing about it for ages, about her weird\nbehaviour.",
+      "text": "The school'd been gabbing about it for ages, about her weird\nbehaviour."
+    },
+    {
+      "offset": 11450,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "予知能力を知られるより、変人扱いをされた方\nがいい、という選択なのだろう。",
+      "en": "Whether to have everyone know about her clairvoyancy, or\nthink of her as a weirdo...",
+      "text": "Whether to have everyone know about her clairvoyancy, or\nthink of her as a weirdo..."
+    },
+    {
+      "offset": 11528,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなに、悩むなよ。",
+      "en": "Don't worry yourself so much about it.",
+      "text": "Don't worry yourself so much about it."
+    },
+    {
+      "offset": 11553,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう声をかけてやりたかった。そんな言葉が慰\nめにならないと解っていても。",
+      "en": "I found myself saying that unconsciously. I wanted to say\nthose words to her, to comfort her.",
+      "text": "I found myself saying that unconsciously. I wanted to say\nthose words to her, to comfort her."
+    },
+    {
+      "offset": 11629,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やりきれない気持ちになって、ベッドを出た。",
+      "en": "Carrying the weight of nearly unbearable feelings, I finally\ngot out of bed.",
+      "text": "Carrying the weight of nearly unbearable feelings, I finally\ngot out of bed."
+    },
+    {
+      "offset": 11740,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昨日で、学校はとりあえず終わったはずなのに、\nどうやら俺は今日学校に行かなければならない\nらしい。",
+      "en": "School more or less ended yesterday, so there's no reason\nfor me to go there.",
+      "text": "School more or less ended yesterday, so there's no reason\nfor me to go there."
+    },
+    {
+      "offset": 11841,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昨日、帰ろうとした直前に、暦先生にとっ掴ま\nり、ちょっとだけ先生の手伝いをさせられるこ\nとになった。",
+      "en": "Except for my encounter with Koyomi-sensei yesterday, when\nshe strongarmed me into helping her with her \"projects\".",
+      "text": "Except for my encounter with Koyomi-sensei yesterday, when\nshe strongarmed me into helping her with her \"projects\"."
+    },
+    {
+      "offset": 11944,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なぜ、俺なのかというと、俺が『誠実』で『従\n順』で『頼りになる』からだそうだ。",
+      "en": "Why did I accept? Because I'm \"sincere\", \"obedient\", and\n\"helpful\", of course.",
+      "text": "Why did I accept? Because I'm \"sincere\", \"obedient\", and\n\"helpful\", of course."
+    },
+    {
+      "offset": 12026,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──どこがだよ！",
+      "en": "--Haha, who am I kidding.",
+      "text": "--Haha, who am I kidding."
+    },
+    {
+      "offset": 12047,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "学校に着くと、環が来るのが見えた。どうやら、\n彼女も何かの理由で学校に来ているということ\nか。",
+      "en": "As I arrived at school, I saw the figure of Tamaki. It\nseemed she had some reason to come to school too.",
+      "text": "As I arrived at school, I saw the figure of Tamaki. It\nseemed she had some reason to come to school too."
+    },
+    {
+      "offset": 12144,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まだ、どんな風に声をかけたらいいのか、決め\nてないのに。",
+      "en": "With the dream still replaying constantly in my head, I\ndidn't know how I should greet her...",
+      "text": "With the dream still replaying constantly in my head, I\ndidn't know how I should greet her..."
+    },
+    {
+      "offset": 12204,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "悩んでると、会ったりするんだよな……。偶然\nにも出来すぎてるぞ。",
+      "en": "As I wracked my poor brain trying to come up with an answer,\nmy legs kept moving to the point where she noticed me\nherself.",
+      "text": "As I wracked my poor brain trying to come up with an answer,\nmy legs kept moving to the point where she noticed me\nherself."
+    },
+    {
+      "offset": 12310,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「おはようございます。朝倉様」",
+      "en": "\"Good morning, Asakura-sama.\"",
+      "text": "\"Good morning, Asakura-sama.\""
+    },
+    {
+      "offset": 12347,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は、何事もなかったように話しかけてくる。",
+      "en": "Tamaki greeted me with her usual mix of calmness and\ninnocence.",
+      "text": "Tamaki greeted me with her usual mix of calmness and\ninnocence."
+    },
+    {
+      "offset": 12394,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ま、当たり前か。",
+      "en": "Well, of course she would.",
+      "text": "Well, of course she would."
+    },
+    {
+      "offset": 12415,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は予知能力はあっても、俺がどんな能力を持っ\nているのかまでは分からないんだろう。",
+      "en": "She may be able to see the future, but she can't see the\npowers I have...",
+      "text": "She may be able to see the future, but she can't see the\npowers I have..."
+    },
+    {
+      "offset": 12501,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "逆に、知ったら……どう思うだろう？",
+      "en": "If she knew, and she knew that I knew... what would she\nthink?",
+      "text": "If she knew, and she knew that I knew... what would she\nthink?"
+    },
+    {
+      "offset": 12542,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おっす。おはよさん」",
+      "en": "\"Yo, mornin'.\"",
+      "text": "\"Yo, mornin'.\""
+    },
+    {
+      "offset": 12571,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "努めて普通に振舞う。",
+      "en": "I forced myself to return her greeting as normally as\npossible.",
+      "text": "I forced myself to return her greeting as normally as\npossible."
+    },
+    {
+      "offset": 12596,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "が、やはり今日の夢のことが気になって仕方が\nない。",
+      "en": "I really can't forget about the dream, though.",
+      "text": "I really can't forget about the dream, though."
+    },
+    {
+      "offset": 12650,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "尋ねるべきなんだろうが……。",
+      "en": "But how should I ask about it...",
+      "text": "But how should I ask about it..."
+    },
+    {
+      "offset": 12683,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こういう話は、タイミングが大切だからな。",
+      "en": "Timing is of utmost importance on sensitive matters like\nthis...",
+      "text": "Timing is of utmost importance on sensitive matters like\nthis..."
+    },
+    {
+      "offset": 12728,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いや、うだうだ悩むより、単刀直入に聞いた方\nがいい。",
+      "en": "I should just cut the useless crap and get to the heart of\nthe matter...",
+      "text": "I should just cut the useless crap and get to the heart of\nthe matter..."
+    },
+    {
+      "offset": 12784,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『急いては事を仕損じる』だ。",
+      "en": "Act first, get in trouble later, as they say.",
+      "text": "Act first, get in trouble later, as they say."
+    },
+    {
+      "offset": 12817,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いや違った。えっと……そうじゃなくて……。",
+      "en": "...Wait, that's not how it goes...hm.",
+      "text": "...Wait, that's not how it goes...hm."
+    },
+    {
+      "offset": 12864,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とにかく『当たって砕けろ』だ。",
+      "en": "In any case, the direct approach seems the best.",
+      "text": "In any case, the direct approach seems the best."
+    },
+    {
+      "offset": 12901,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あのさ、環……」",
+      "en": "\"Hey, Tamaki...\"",
+      "text": "\"Hey, Tamaki...\""
+    },
+    {
+      "offset": 12926,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が話を切り出そうとしたその瞬間……。",
+      "en": "Just as I was about to start some conversation...",
+      "text": "Just as I was about to start some conversation..."
+    },
+    {
+      "offset": 13004,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「朝倉先輩」",
+      "en": "\"Asakura-senpai!!\"",
+      "text": "\"Asakura-senpai!!\""
+    },
+    {
+      "offset": 13023,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春が見ていたかのように声をかけてくる。",
+      "en": "Miharu made her presence known, with the sound of her shrill\nvoice.",
+      "text": "Miharu made her presence known, with the sound of her shrill\nvoice."
+    },
+    {
+      "offset": 13106,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんだ、わんこ」",
+      "en": "\"What is it, puppy.\"",
+      "text": "\"What is it, puppy.\""
+    },
+    {
+      "offset": 13170,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「もう。わんこじゃありませんよぉ」",
+      "en": "\"Geez, I'm not a puppy!\"",
+      "text": "\"Geez, I'm not a puppy!\""
+    },
+    {
+      "offset": 13211,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「じゃ、ブルドックか？」",
+      "en": "\"A bulldog, then?\"",
+      "text": "\"A bulldog, then?\""
+    },
+    {
+      "offset": 13270,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ひどーい。朝倉先輩。それもわんこです」",
+      "en": "\"That's meaaaan, Asakura-senpai! And that's still a puppy!\"",
+      "text": "\"That's meaaaan, Asakura-senpai! And that's still a puppy!\""
+    },
+    {
+      "offset": 13317,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「そうか」",
+      "en": "\"My mistake.\"",
+      "text": "\"My mistake.\""
+    },
+    {
+      "offset": 13334,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当は、こんなギャグを美春と言っている場合\nでは無いのだが……。",
+      "en": "This really isn't the time to be cracking jokes like this...",
+      "text": "This really isn't the time to be cracking jokes like this..."
+    },
+    {
+      "offset": 13443,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「先輩、お隣の方はもしや……」",
+      "en": "\"Senpai, next to you, she's...\"",
+      "text": "\"Senpai, next to you, she's...\""
+    },
+    {
+      "offset": 13480,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あ、ああ……」",
+      "en": "\"U, um...\"",
+      "text": "\"U, um...\""
+    },
+    {
+      "offset": 13529,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「胡ノ宮環と申します」",
+      "en": "\"I am Konomiya Tamaki.\"",
+      "text": "\"I am Konomiya Tamaki.\""
+    },
+    {
+      "offset": 13597,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「やっぱり。あの、有名な方ですね〜」",
+      "en": "\"Just as I thought. You're famous here~\"",
+      "text": "\"Just as I thought. You're famous here~\""
+    },
+    {
+      "offset": 13657,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は黙って下を向く。",
+      "en": "Tamaki silently lowered her head.",
+      "text": "Tamaki silently lowered her head."
+    },
+    {
+      "offset": 13712,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「風紀委員の天枷美春といいます。よろしくで\n　す」",
+      "en": "\"I'm Amakase Miharu, of the discplinary committee. Nice to\nmeet you!\"",
+      "text": "\"I'm Amakase Miharu, of the discplinary committee. Nice to\nmeet you!\""
+    },
+    {
+      "offset": 13796,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ちなみに風紀委員は、学校の秩序と平和を守\n　るために日夜戦っているのです」",
+      "en": "\"By the way, the discplinary committee is the faction formed\nto protect the order and safety of the school, day-by-day.\"",
+      "text": "\"By the way, the discplinary committee is the faction formed\nto protect the order and safety of the school, day-by-day.\""
+    },
+    {
+      "offset": 13878,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「その台詞は、特撮アニメの影響か？」",
+      "en": "\"...The way you phrase it, makes it sound like you've been\ninfluenced by those superhero anime.\"",
+      "text": "\"...The way you phrase it, makes it sound like you've been\ninfluenced by those superhero anime.\""
+    },
+    {
+      "offset": 13949,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「違いますよ。常々、美春が思ってることに決\n　まってるじゃないですか」",
+      "en": "\"Nope! My ideas are entirely my own!\"",
+      "text": "\"Nope! My ideas are entirely my own!\""
+    },
+    {
+      "offset": 14025,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ふーん。そうだったのか。初耳だな」",
+      "en": "\"Oh yes, I'm sure they are.\"",
+      "text": "\"Oh yes, I'm sure they are.\""
+    },
+    {
+      "offset": 14096,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「今日も美春は学校のしもべとなり、働くので\n　すよ」",
+      "en": "\"For today, I am once again a servant of the school!\"",
+      "text": "\"For today, I am once again a servant of the school!\""
+    },
+    {
+      "offset": 14182,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「西に誰かが転んだら助け起こし、東に誰かが\n　突き飛ばされたら手当てに行くのです」",
+      "en": "\"Whether trouble springs from the east, or hazards at the\nwest, I will rush to the scene of the crime!\"",
+      "text": "\"Whether trouble springs from the east, or hazards at the\nwest, I will rush to the scene of the crime!\""
+    },
+    {
+      "offset": 14298,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「では、美春はこれで失礼します。先輩も、そ\n　の人に突き飛ばされないよう、気をつけてく\n　ださいね」",
+      "en": "\"So, please excuse me. Senpai, if you wish to continue\nassociating with this guy, be careful as well!\"",
+      "text": "\"So, please excuse me. Senpai, if you wish to continue\nassociating with this guy, be careful as well!\""
+    },
+    {
+      "offset": 14403,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、美春は環の方を見る。",
+      "en": "Miharu turned to Tamaki as she talked.",
+      "text": "Miharu turned to Tamaki as she talked."
+    },
+    {
+      "offset": 14460,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さらっと、とんでもねぇこと言いやがる。",
+      "en": "What an offensive thing to say...",
+      "text": "What an offensive thing to say..."
+    },
+    {
+      "offset": 14503,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "無邪気に発言しているだけに、かえって恐ろし\nいが、めちゃくちゃ失礼である。",
+      "en": "Knowing her though, she said it of pure innocence, not of\nmalice or anything.",
+      "text": "Knowing her though, she said it of pure innocence, not of\nmalice or anything."
+    },
+    {
+      "offset": 14583,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そんなこと、ねえよ」",
+      "en": "\"Don't say it like that.\"",
+      "text": "\"Don't say it like that.\""
+    },
+    {
+      "offset": 14629,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日の夢を見たせいなのか。",
+      "en": "That dream I saw was affecting me lots.",
+      "text": "That dream I saw was affecting me lots."
+    },
+    {
+      "offset": 14660,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環の気持ちを考えると、俺だけでもかばってや\nりたくなる。",
+      "en": "I was thinking a lot more about her feelings now.",
+      "text": "I was thinking a lot more about her feelings now."
+    },
+    {
+      "offset": 14720,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は、そのままでいいんだよ。",
+      "en": "She should be fine with that...",
+      "text": "She should be fine with that..."
+    },
+    {
+      "offset": 14753,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が環でも、多分、そうだっただろうから。",
+      "en": "The way we are now, anyway.",
+      "text": "The way we are now, anyway."
+    },
+    {
+      "offset": 14828,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あ、そうですね。……すいません」",
+      "en": "\"Ah, yeah... I'm sorry.\"",
+      "text": "\"Ah, yeah... I'm sorry.\""
+    },
+    {
+      "offset": 14869,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春も気づいたのか、急にしおらしくなる。",
+      "en": "Noticing her rudeness herself, she quickly changed her tune.",
+      "text": "Noticing her rudeness herself, she quickly changed her tune."
+    },
+    {
+      "offset": 14953,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「いいんですよ。気にしないでください」",
+      "en": "\"It is fine, do not worry about it.\"",
+      "text": "\"It is fine, do not worry about it.\""
+    },
+    {
+      "offset": 14998,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は、苦笑いをして言った。",
+      "en": "Tamaki smiled at her, wistfully.",
+      "text": "Tamaki smiled at her, wistfully."
+    },
+    {
+      "offset": 15031,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さ、教室へ行くか」",
+      "en": "\"Let's go to our classrooms.\"",
+      "text": "\"Let's go to our classrooms.\""
+    },
+    {
+      "offset": 15097,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「はい、朝倉先輩」",
+      "en": "\"Right, Asakura-senpai.\"",
+      "text": "\"Right, Asakura-senpai.\""
+    },
+    {
+      "offset": 15131,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「はい……」",
+      "en": "\"Yes...\"",
+      "text": "\"Yes...\""
+    },
+    {
+      "offset": 15150,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "結局、話すタイミングを失って、俺は環に例の\nことを｛たず／訊｝ねるのをやめた。",
+      "en": "With the timing shattered to pieces, I refrained from\nenquiring any further about Tamaki's powers.",
+      "text": "With the timing shattered to pieces, I refrained from\nenquiring any further about Tamaki's powers."
+    },
+    {
+      "offset": 15232,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は環と美春を促し、校舎へと向かった。",
+      "en": "Instead, the three of us walked quietly into school.",
+      "text": "Instead, the three of us walked quietly into school."
+    },
+    {
+      "offset": 15397,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆環の夢◆",
+      "en": "◆Tamaki's Childhood Days?◆",
+      "text": "◆Tamaki's Childhood Days?◆"
+    },
+    {
+      "offset": 15448,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "幼い頃の環の夢を見る。",
+      "en": "I saw a dream of Tamaki's childhood.",
+      "text": "I saw a dream of Tamaki's childhood."
+    },
+    {
+      "offset": 15475,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "同級生にいじめられた環は、槙の木の下で泣い\nていると、木の上の男の子に声をかけられる。",
+      "en": "She was bullied by her classmates, and cried under a tree. A\nboy called out to her from the top of the tree...",
+      "text": "She was bullied by her classmates, and cried under a tree. A\nboy called out to her from the top of the tree..."
+    },
+    {
+      "offset": 15565,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "男の子は、環に栗饅頭をプレゼントする。",
+      "en": "The boy presented a chestnut manjuu to Tamaki as a present.",
+      "text": "The boy presented a chestnut manjuu to Tamaki as a present."
+    },
+    {
+      "offset": 15608,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その男の子は、幼い頃の俺だった。",
+      "en": "No doubt, that boy was me when I was young.",
+      "text": "No doubt, that boy was me when I was young."
+    },
+    {
+      "offset": 15645,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その時に、約束をしたらしい……。",
+      "en": "It seems we promised ourselves during that time...",
+      "text": "It seems we promised ourselves during that time..."
+    },
+    {
+      "offset": 15682,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、登校中の環に、そのことを｛たず／訊｝ねようと思っ\nたが、美春の乱入により、タイミングを失って\nしまった。",
+      "en": "On the way to school with Tamaki, I tried to ask about it,\nbut the interefering Miharu threw the timing off.",
+      "text": "On the way to school with Tamaki, I tried to ask about it,\nbut the interefering Miharu threw the timing off."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "701": "Girl",
+    "728": "Boys",
+    "1027": "Boy 1",
+    "1095": "Boy 2",
+    "1148": "Nakamura",
+    "1248": "Girl",
+    "1445": "Boy 1",
+    "1517": "Boy 2",
+    "1572": "Boy 3",
+    "1626": "Girl",
+    "1667": "Nakamura",
+    "1725": "Girl",
+    "1880": "Boy 1",
+    "1915": "Boys",
+    "2203": "Boy 6",
+    "2379": "Boy 1",
+    "2422": "Boy 6",
+    "2516": "Boy 1",
+    "2696": "Girl",
+    "2830": "Girl",
+    "3052": "Girl",
+    "3108": "Girl",
+    "3176": "Boy 1",
+    "3229": "Boy 2",
+    "3299": "Boy 3",
+    "3359": "Girl",
+    "3473": "Girl",
+    "3569": "Boy 1",
+    "3596": "Boys",
+    "3869": "Girl",
+    "3911": "Girl",
+    "3963": "Girl",
+    "4021": "Girl",
+    "4075": "Girl",
+    "4298": "Girl",
+    "4520": "Girl",
+    "4880": "Boy",
+    "4924": "Girl",
+    "5021": "Boy",
+    "5176": "Girl",
+    "5203": "Boy",
+    "5249": "Girl",
+    "5276": "Boy",
+    "5310": "Girl",
+    "5355": "Boy",
+    "5399": "Girl",
+    "5499": "Girl",
+    "5590": "Boy",
+    "5690": "Girl",
+    "5781": "Girl",
+    "5890": "Boy",
+    "6043": "Girl",
+    "6146": "Girl",
+    "6183": "Boy",
+    "6262": "Girl",
+    "6291": "Boy",
+    "6323": "Girl",
+    "6370": "Boy",
+    "6408": "Girl",
+    "6506": "Girl",
+    "6563": "Boy",
+    "6595": "Girl",
+    "6661": "Boy",
+    "6727": "Boy",
+    "6818": "Girl",
+    "6841": "Boy",
+    "6934": "Girl",
+    "6963": "Boy",
+    "7040": "Girl",
+    "7077": "Boy",
+    "7107": "Girl",
+    "7260": "Girl",
+    "7372": "Girl",
+    "7445": "Girl",
+    "7489": "Girl",
+    "7562": "Girl",
+    "7606": "Girl",
+    "7661": "Boy",
+    "7738": "Girl",
+    "7769": "Boy",
+    "7809": "Girl",
+    "7848": "Boy",
+    "7882": "Girl",
+    "7905": "Boy",
+    "7947": "Girl",
+    "8054": "Boy",
+    "8123": "Girl",
+    "8763": "Classmate",
+    "8835": "Classmate",
+    "8896": "Classmate",
+    "8955": "Classmate",
+    "9031": "Classmate",
+    "9096": "Classmate",
+    "9177": "Tamaki",
+    "9229": "Tamaki",
+    "9287": "Tamaki",
+    "9339": "Tamaki",
+    "9383": "Tamaki",
+    "9443": "Tamaki",
+    "9524": "Tamaki",
+    "12304": "Tamaki",
+    "12996": "Miharu",
+    "13162": "Miharu",
+    "13262": "Miharu",
+    "13435": "Miharu",
+    "13523": "Tamaki",
+    "13589": "Miharu",
+    "13704": "Miharu",
+    "13788": "Miharu",
+    "13941": "Miharu",
+    "14088": "Miharu",
+    "14174": "Miharu",
+    "14290": "Miharu",
+    "14820": "Miharu",
+    "14947": "Tamaki",
+    "15089": "Miharu",
+    "15125": "Tamaki"
+  }
+}

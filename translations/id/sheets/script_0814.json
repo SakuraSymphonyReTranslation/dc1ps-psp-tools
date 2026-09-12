@@ -1,0 +1,697 @@
+{
+  "scene": "script_0814.obj",
+  "dialogues": [
+    {
+      "offset": 183,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こっちにもいないか……。",
+      "en": "There's no one here either...",
+      "text": "There's no one here either..."
+    },
+    {
+      "offset": 212,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "おかしいな。",
+      "en": "This is strange.",
+      "text": "This is strange."
+    },
+    {
+      "offset": 229,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の時計、狂ってんのかな？",
+      "en": "Did my watch stop?",
+      "text": "Did my watch stop?"
+    },
+    {
+      "offset": 260,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、校舎にある時計を見る。",
+      "en": "I took a quick check of the school clock.",
+      "text": "I took a quick check of the school clock."
+    },
+    {
+      "offset": 293,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ホームルーム開始時間の５分前。",
+      "en": "5 minutes till homeroom would've started.",
+      "text": "5 minutes till homeroom would've started."
+    },
+    {
+      "offset": 328,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やっぱり、狂ってないよな……。",
+      "en": "My watch appears to be working fine...",
+      "text": "My watch appears to be working fine..."
+    },
+    {
+      "offset": 363,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日、環が待ち合わせ場所にこなかったのだ。",
+      "en": "Tamaki and I had arranged to meet here today.",
+      "text": "Tamaki and I had arranged to meet here today."
+    },
+    {
+      "offset": 410,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつもは３０分前には必ず来ている環が、今日\nは来ていない。",
+      "en": "She's usually 30 minutes early, but today, she wasn't here\nat all.",
+      "text": "She's usually 30 minutes early, but today, she wasn't here\nat all."
+    },
+    {
+      "offset": 472,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ま、人間、たまには寝坊することもあるんだろ\nうけど。",
+      "en": "Well, she's human after all, she could've just slept in.",
+      "text": "Well, she's human after all, she could've just slept in."
+    },
+    {
+      "offset": 528,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それにしても、遅いなあ。",
+      "en": "But she's still pretty late...",
+      "text": "But she's still pretty late..."
+    },
+    {
+      "offset": 557,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……何か、あったのかな？",
+      "en": "...Could something have happened?",
+      "text": "...Could something have happened?"
+    },
+    {
+      "offset": 586,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ひょっとしたら、風邪でもひいたのかもしれな\nい。",
+      "en": "Maybe she caught a cold or fever...",
+      "text": "Maybe she caught a cold or fever..."
+    },
+    {
+      "offset": 638,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まさか、事故なんて事は……？",
+      "en": "Or even perhaps, a traffic accident...?",
+      "text": "Or even perhaps, a traffic accident...?"
+    },
+    {
+      "offset": 671,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そ、そんなはず無いよな。",
+      "en": "Gah, I shouldn't think about that.",
+      "text": "Gah, I shouldn't think about that."
+    },
+    {
+      "offset": 700,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "縁起でもない……。",
+      "en": "It'd be a bad omen...",
+      "text": "It'd be a bad omen..."
+    },
+    {
+      "offset": 725,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あっ」",
+      "en": "\"Ah!\"",
+      "text": "\"Ah!\""
+    },
+    {
+      "offset": 740,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "校門の方から、環の姿が見える。",
+      "en": "I finally saw Tamaki's figure approaching the school gates.",
+      "text": "I finally saw Tamaki's figure approaching the school gates."
+    },
+    {
+      "offset": 775,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は大きく手を振る。",
+      "en": "I gave a big wave at her.",
+      "text": "I gave a big wave at her."
+    },
+    {
+      "offset": 800,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は早足で、俺の元へと歩いてくる。",
+      "en": "She briskly walked up to me.",
+      "text": "She briskly walked up to me."
+    },
+    {
+      "offset": 877,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ごめんなさい遅れてしまって」",
+      "en": "\"Please pardon my tardiness...\"",
+      "text": "\"Please pardon my tardiness...\""
+    },
+    {
+      "offset": 914,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "はあはあ、と息を切らせながら環が俺に謝る。",
+      "en": "She was panting heavily as she apologized.",
+      "text": "She was panting heavily as she apologized."
+    },
+    {
+      "offset": 961,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "別に走ってきたわけじゃないのに、何でこんな\nに苦しそうなんだろう？",
+      "en": "She wasn't really running, why's she so out of breath?",
+      "text": "She wasn't really running, why's she so out of breath?"
+    },
+    {
+      "offset": 1031,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "おまけに、環の顔色は、血の気が引いてしまっ\nている。",
+      "en": "Her face was flushed with red as well.",
+      "text": "Her face was flushed with red as well."
+    },
+    {
+      "offset": 1087,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それに、身体もだるそうだ。",
+      "en": "And her body seemed unstable.",
+      "text": "And her body seemed unstable."
+    },
+    {
+      "offset": 1118,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "触れたら、今にも倒れてしまいそうで、危なっ\nかしい。",
+      "en": "It seemed like she was on the verge of collapse.",
+      "text": "It seemed like she was on the verge of collapse."
+    },
+    {
+      "offset": 1176,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「大丈夫か？　なんだか、顔色が悪いみたいだ\n　けど……」",
+      "en": "\"Are you okay? You don't look so hot...\"",
+      "text": "\"Are you okay? You don't look so hot...\""
+    },
+    {
+      "offset": 1264,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そうでしょうか？」",
+      "en": "\"Is that so?\"",
+      "text": "\"Is that so?\""
+    },
+    {
+      "offset": 1291,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は、いつもよりも、か細い声で答える。",
+      "en": "Tamaki spoke, in an even fainter voice than usual.",
+      "text": "Tamaki spoke, in an even fainter voice than usual."
+    },
+    {
+      "offset": 1334,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "明らかに、身体が参っている証拠だろう。",
+      "en": "It was obvious that her body was being strained to the\nlimit.",
+      "text": "It was obvious that her body was being strained to the\nlimit."
+    },
+    {
+      "offset": 1405,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「最近、頭痛が少しひどくなっていて、……薬\n　を飲んでもあまり効かないんです」",
+      "en": "\"The headaches have been getting worse recently... medicine\ndo not seem to have any effect.\"",
+      "text": "\"The headaches have been getting worse recently... medicine\ndo not seem to have any effect.\""
+    },
+    {
+      "offset": 1489,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「学校、休んだ方がいいんじゃないのか？」",
+      "en": "\"Why don't you rest for awhile at school?\"",
+      "text": "\"Why don't you rest for awhile at school?\""
+    },
+    {
+      "offset": 1536,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は、静かに首を横に振る。",
+      "en": "Tamaki silently shook her head no.",
+      "text": "Tamaki silently shook her head no."
+    },
+    {
+      "offset": 1595,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「……でも、今日も巫女部がありますし」",
+      "en": "\"...There's the Miko Club...\"",
+      "text": "\"...There's the Miko Club...\""
+    },
+    {
+      "offset": 1640,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「一日ぐらい、休んだって平気だろ」",
+      "en": "\"It'd be okay if you take a break from it for one day.\"",
+      "text": "\"It'd be okay if you take a break from it for one day.\""
+    },
+    {
+      "offset": 1690,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「それに……」",
+      "en": "\"And...\"",
+      "text": "\"And...\""
+    },
+    {
+      "offset": 1711,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「…………？」",
+      "en": "\"......?\"",
+      "text": "\"......?\""
+    },
+    {
+      "offset": 1758,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「……朝倉様にお会いしたくて」",
+      "en": "\"...I wanted to see you...\"",
+      "text": "\"...I wanted to see you...\""
+    },
+    {
+      "offset": 1795,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「環……」",
+      "en": "\"Tamaki...\"",
+      "text": "\"Tamaki...\""
+    },
+    {
+      "offset": 1838,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ウフフ……」",
+      "en": "\"Ehehe...\"",
+      "text": "\"Ehehe...\""
+    },
+    {
+      "offset": 1859,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は顔は、微笑んでいる。",
+      "en": "A giggle escaped from her lips.",
+      "text": "A giggle escaped from her lips."
+    },
+    {
+      "offset": 1888,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、相当具合が悪いのか、顔はどことなく\n暗い。",
+      "en": "But it looked so out-of-place, with the condition she was\nin.",
+      "text": "But it looked so out-of-place, with the condition she was\nin."
+    },
+    {
+      "offset": 1942,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その様子が、どこか辛そうに見える。",
+      "en": "It pained my heart to see her this way.",
+      "text": "It pained my heart to see her this way."
+    },
+    {
+      "offset": 1985,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「環……」",
+      "en": "\"Tamaki...\"",
+      "text": "\"Tamaki...\""
+    },
+    {
+      "offset": 2028,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「はい？」",
+      "en": "\"Yes?\"",
+      "text": "\"Yes?\""
+    },
+    {
+      "offset": 2050,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「無理……しないでほしいんだ」",
+      "en": "\"I... don't want you to push yourself so hard.\"",
+      "text": "\"I... don't want you to push yourself so hard.\""
+    },
+    {
+      "offset": 2087,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、自分の素直な気持ちを環にぶつける。",
+      "en": "I told her my honest feelings.",
+      "text": "I told her my honest feelings."
+    },
+    {
+      "offset": 2160,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2179,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「俺に会いたいと言ってくれるのは、正直嬉し\n　い、だけど……」",
+      "en": "\"I'm happy that you wanted to see me so badly, but...\"",
+      "text": "\"I'm happy that you wanted to see me so badly, but...\""
+    },
+    {
+      "offset": 2256,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2275,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「環が倒れてしまうことの方が、イヤだよ」",
+      "en": "\"If it makes you collapse... it's not worth it.\"",
+      "text": "\"If it makes you collapse... it's not worth it.\""
+    },
+    {
+      "offset": 2331,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2350,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は、俯いていたが、ゆっくりと口を開く。",
+      "en": "Tamaki hung her head, and slowly opened her mouth.",
+      "text": "Tamaki hung her head, and slowly opened her mouth."
+    },
+    {
+      "offset": 2423,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「心配掛けて、ごめんなさい……でも……」",
+      "en": "\"I'm sorry for making you worry... but...\"",
+      "text": "\"I'm sorry for making you worry... but...\""
+    },
+    {
+      "offset": 2470,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2515,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「自分の身体のことは、自分が一番よく分かっ\n　てますから……」",
+      "en": "\"I'm the one who would know my body best...\"",
+      "text": "\"I'm the one who would know my body best...\""
+    },
+    {
+      "offset": 2609,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「だから、大丈夫です」",
+      "en": "\"So, I am fine.\"",
+      "text": "\"So, I am fine.\""
+    },
+    {
+      "offset": 2655,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は、一生懸命、俺に微笑もうとする。",
+      "en": "Tamaki gave me a smile with all she could.",
+      "text": "Tamaki gave me a smile with all she could."
+    },
+    {
+      "offset": 2696,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、それがかえって、環の具合がより悪い\nのではないか、と思えてしまう。",
+      "en": "But even then, she seemed so pained to do so.",
+      "text": "But even then, she seemed so pained to do so."
+    },
+    {
+      "offset": 2774,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見ていて痛々しい……。",
+      "en": "I couldn't bear to see it...",
+      "text": "I couldn't bear to see it..."
+    },
+    {
+      "offset": 2801,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は一体、何のためにそんなに無理をしている\nのだろう。",
+      "en": "Why on earth is Tamaki pushing herself so hard?",
+      "text": "Why on earth is Tamaki pushing herself so hard?"
+    },
+    {
+      "offset": 2859,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そうまでして、環が得たいものは、なんなのだ\nろう。",
+      "en": "It's not like she's gaining anything from it...",
+      "text": "It's not like she's gaining anything from it..."
+    },
+    {
+      "offset": 2913,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "支えてやりたいのに、俺は環の支えになってい\nない気がする。",
+      "en": "I said I would support her, but it seemed like I was failing\nat my job.",
+      "text": "I said I would support her, but it seemed like I was failing\nat my job."
+    },
+    {
+      "offset": 2975,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こんなに無理するまで、何が環を追い詰めてい\nるのか？",
+      "en": "What's driving her to the wall so much that she'd go to\nthese lengths?",
+      "text": "What's driving her to the wall so much that she'd go to\nthese lengths?"
+    },
+    {
+      "offset": 3031,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺には、見当もつかない。",
+      "en": "I couldn't figure it out at all.",
+      "text": "I couldn't figure it out at all."
+    },
+    {
+      "offset": 3060,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただ、力になってやりたいという想いだけが、\n空回りする。",
+      "en": "Even if I had more power, I would still feel useless...",
+      "text": "Even if I had more power, I would still feel useless..."
+    },
+    {
+      "offset": 3120,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、環に『無理するなよ』としか、言ってあ\nげられないんだろうか？",
+      "en": "Isn't just telling her not to overdo it, enough?",
+      "text": "Isn't just telling her not to overdo it, enough?"
+    },
+    {
+      "offset": 3192,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……環」",
+      "en": "\"...Tamaki.\"",
+      "text": "\"...Tamaki.\""
+    },
+    {
+      "offset": 3235,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「はい？」",
+      "en": "\"Yes?\"",
+      "text": "\"Yes?\""
+    },
+    {
+      "offset": 3252,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3297,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「どうしたんですか？」",
+      "en": "\"Is something the matter?\"",
+      "text": "\"Is something the matter?\""
+    },
+    {
+      "offset": 3326,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は弱々しく微笑む。",
+      "en": "Tamaki smiled weakly.",
+      "text": "Tamaki smiled weakly."
+    },
+    {
+      "offset": 3353,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……授業、遅れるぞ」",
+      "en": "\"...You're gonna be late for the lesson.\"",
+      "text": "\"...You're gonna be late for the lesson.\""
+    },
+    {
+      "offset": 3408,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「はい」",
+      "en": "\"Ah, yes.\"",
+      "text": "\"Ah, yes.\""
+    },
+    {
+      "offset": 3423,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こんな言葉しか掛けられないなんて。",
+      "en": "I couldn't get it out.",
+      "text": "I couldn't get it out."
+    },
+    {
+      "offset": 3462,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "情けない。",
+      "en": "I'm pitiful.",
+      "text": "I'm pitiful."
+    },
+    {
+      "offset": 3477,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "でも、何て言っていいのかわからない。",
+      "en": "But to be honest, I didn't know what to say either.",
+      "text": "But to be honest, I didn't know what to say either."
+    },
+    {
+      "offset": 3518,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうして、教科書にはこういう日本語は載って\nないのだろうか？",
+      "en": "Why don't the textbooks teach this kind of thing?",
+      "text": "Why don't the textbooks teach this kind of thing?"
+    },
+    {
+      "offset": 3582,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "役に立たない、と、思った。",
+      "en": "I'm really completely useless.",
+      "text": "I'm really completely useless."
+    },
+    {
+      "offset": 3613,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は環の手を引き、校舎へと入っていった。",
+      "en": "Dejected, I took Tamaki's hand, and entered the school\ngrounds.",
+      "text": "Dejected, I took Tamaki's hand, and entered the school\ngrounds."
+    },
+    {
+      "offset": 3762,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆無理をする環◆",
+      "en": "◆Tamaki, Overdoing It?◆",
+      "text": "◆Tamaki, Overdoing It?◆"
+    },
+    {
+      "offset": 3807,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "朝、環と待ち合わせをすると、環が来ない。",
+      "en": "Tamaki and I arranged to meet in the morning, but she wasn't\nthere yet when I reached there.",
+      "text": "Tamaki and I arranged to meet in the morning, but she wasn't\nthere yet when I reached there."
+    },
+    {
+      "offset": 3852,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しばらくしてやって来る環。聞けば、今日も頭\n痛がしたのだという。",
+      "en": "Eventually she arrived, and delivered to me the news that\nshe was still suffering from headaches.",
+      "text": "Eventually she arrived, and delivered to me the news that\nshe was still suffering from headaches."
+    },
+    {
+      "offset": 3920,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が無理して学校に来ることは無いと言うと、\n巫女部のこともあるけれど俺に会いたいからだ\nともいうのだった。",
+      "en": "I told her not to push herself just to come to school, but\nshe wanted to for the club... and to see me.",
+      "text": "I told her not to push herself just to come to school, but\nshe wanted to for the club... and to see me."
+    },
+    {
+      "offset": 4029,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "嬉しいけど、そんなに、無理しなくてもいいの\nに……。",
+      "en": "I'm really happy she cares so much for me, but that's too\nmuch...",
+      "text": "I'm really happy she cares so much for me, but that's too\nmuch..."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "871": "Tamaki",
+    "1258": "Tamaki",
+    "1399": "Tamaki",
+    "1589": "Tamaki",
+    "1684": "Tamaki",
+    "1752": "Tamaki",
+    "1832": "Tamaki",
+    "2022": "Tamaki",
+    "2154": "Tamaki",
+    "2250": "Tamaki",
+    "2325": "Tamaki",
+    "2417": "Tamaki",
+    "2509": "Tamaki",
+    "2603": "Tamaki",
+    "3229": "Tamaki",
+    "3291": "Tamaki",
+    "3402": "Tamaki"
+  }
+}

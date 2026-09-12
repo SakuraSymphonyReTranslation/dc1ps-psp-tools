@@ -1,0 +1,756 @@
+{
+  "scene": "script_0400.obj",
+  "dialogues": [
+    {
+      "offset": 198,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ただいま〜」",
+      "en": "\"I'm home.\"",
+      "text": "\"I'm home.\""
+    },
+    {
+      "offset": 219,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「おかえり」",
+      "en": "\"Hey, you're back.\"",
+      "text": "\"Hey, you're back.\""
+    },
+    {
+      "offset": 238,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "廊下に声をかけると、音夢がいそいそと部屋に\n入ってくる。",
+      "en": "I answered and Nemu came into my room.",
+      "text": "I answered and Nemu came into my room."
+    },
+    {
+      "offset": 333,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ただいま」",
+      "en": "\"I'm home.\"",
+      "text": "\"I'm home.\""
+    },
+    {
+      "offset": 352,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「おつかれだな。今日は暇だったから、俺が飯\n　を作ったぞ……しかも、めんどくさいカレー\n　だ」",
+      "en": "\"You must be tired. I made dinner because I had enough time\ntoday. And it's a curry which takes ages to make.\"",
+      "text": "\"You must be tired. I made dinner because I had enough time\ntoday. And it's a curry which takes ages to make.\""
+    },
+    {
+      "offset": 490,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「わっ、ホント？　やった、お腹ぺこぺこで」",
+      "en": "\"Wow, really? I'm so hungry.\"",
+      "text": "\"Wow, really? I'm so hungry.\""
+    },
+    {
+      "offset": 539,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢は喜ぶが、カレーにしたのは大量に作って\nおけば明日以降も食べられるからだ。",
+      "en": "Nemu's really happy, but I made curry because if I make\nenough then I can eat for few days.",
+      "text": "Nemu's really happy, but I made curry because if I make\nenough then I can eat for few days."
+    },
+    {
+      "offset": 623,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まぁ待ってろ、すぐに温めてやるから」",
+      "en": "\"Hold on. I'll heat it up right now.\"",
+      "text": "\"Hold on. I'll heat it up right now.\""
+    },
+    {
+      "offset": 699,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いいよぉ。用意くらい自分でするから！」",
+      "en": "\"I'll do that myself.\"",
+      "text": "\"I'll do that myself.\""
+    },
+    {
+      "offset": 746,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いいから待て」",
+      "en": "\"No, just wait.\"",
+      "text": "\"No, just wait.\""
+    },
+    {
+      "offset": 778,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "慌てる音夢をソファーに座らせて台所に向かう。",
+      "en": "I made Nemu sit on the sofa, and headed to the kitchen.",
+      "text": "I made Nemu sit on the sofa, and headed to the kitchen."
+    },
+    {
+      "offset": 840,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「片付けくらい私がやるからねぇ」",
+      "en": "\"I'll do the clean up, okay?\"",
+      "text": "\"I'll do the clean up, okay?\""
+    },
+    {
+      "offset": 879,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "背中の声を無視して、カレーと、冷蔵庫からサ\nラダとデザートのプリンを引っ張り出して盆に\n載せる。",
+      "en": "I ignored her and placed the curry, the salad and the\npudding for dessert on the tray.",
+      "text": "I ignored her and placed the curry, the salad and the\npudding for dessert on the tray."
+    },
+    {
+      "offset": 980,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……あ、持ってくのが面倒になってきた」",
+      "en": "\"......It seems like too much trouble to take the tray to\nthe living room.\"",
+      "text": "\"......It seems like too much trouble to take the tray to\nthe living room.\""
+    },
+    {
+      "offset": 1038,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……あのねぇ」",
+      "en": "\"......Oh my god.\"",
+      "text": "\"......Oh my god.\""
+    },
+    {
+      "offset": 1061,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「冗談だ」",
+      "en": "\"I'm just joking.\"",
+      "text": "\"I'm just joking.\""
+    },
+    {
+      "offset": 1089,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「冗談でも、持っていくのくらい私が――」",
+      "en": "\"I can at least bring the ----\"",
+      "text": "\"I can at least bring the ----\""
+    },
+    {
+      "offset": 1136,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いいから座ってろよ」",
+      "en": "\"Never mind, and just sit down.\"",
+      "text": "\"Never mind, and just sit down.\""
+    },
+    {
+      "offset": 1176,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あうぅぅ……ごめんね兄さん」",
+      "en": "\"Mm...... Sorry.\"",
+      "text": "\"Mm...... Sorry.\""
+    },
+    {
+      "offset": 1213,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なに謝ってるんだお前？」",
+      "en": "\"Why are you apologizing?\"",
+      "text": "\"Why are you apologizing?\""
+    },
+    {
+      "offset": 1246,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "テーブルに料理を並べて、音夢の横に腰を下ろ\nす。",
+      "en": "I put the food on the table, and sat down next to Nemu.",
+      "text": "I put the food on the table, and sat down next to Nemu."
+    },
+    {
+      "offset": 1333,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え、いや……色々と」",
+      "en": "\"Well, you know......\"",
+      "text": "\"Well, you know......\""
+    },
+    {
+      "offset": 1362,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「俺はなにもしてないっての。掃除も洗濯もお\n　前がやってくれてるんだからな」",
+      "en": "\"I'm not doing anything. You do all the cleaning and the\nlaundry and stuff.\"",
+      "text": "\"I'm not doing anything. You do all the cleaning and the\nlaundry and stuff.\""
+    },
+    {
+      "offset": 1472,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そうなんだけどさぁ……って、スプーンも\n　フォークもないよ？」",
+      "en": "\"Well that's right...... but I'm talking about the spoons\nand the forks......\"",
+      "text": "\"Well that's right...... but I'm talking about the spoons\nand the forks......\""
+    },
+    {
+      "offset": 1542,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "皿を持ち上げて音夢が首をかしげる。",
+      "en": "Nemu tilted her head as she lifted the plate.",
+      "text": "Nemu tilted her head as she lifted the plate."
+    },
+    {
+      "offset": 1583,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ、忘れた」",
+      "en": "\"Oh, I forgot.\"",
+      "text": "\"Oh, I forgot.\""
+    },
+    {
+      "offset": 1632,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「はいはい。もぅ、しょうがないなぁ兄さんは」",
+      "en": "\"Yeah, yeah. That's what I'm saying...\"",
+      "text": "\"Yeah, yeah. That's what I'm saying...\""
+    },
+    {
+      "offset": 1692,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なぜか嬉しそうに立ち上がって、音夢が軽い足\n取りで戻ってくる。",
+      "en": "Nemu stood up happily and came back quick.",
+      "text": "Nemu stood up happily and came back quick."
+    },
+    {
+      "offset": 1804,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ふふ〜ん♪」",
+      "en": "\"Hmm-mm-mm, lala...\"",
+      "text": "\"Hmm-mm-mm, lala...\""
+    },
+    {
+      "offset": 1825,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "スプーンを見せびらかして音夢が笑う。",
+      "en": "Nemu laughs, showing off her spoon.",
+      "text": "Nemu laughs, showing off her spoon."
+    },
+    {
+      "offset": 1868,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……変な奴」",
+      "en": "\"......You're weird.\"",
+      "text": "\"......You're weird.\""
+    },
+    {
+      "offset": 1920,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「変な奴ってね……あ、そうそう兄さん。今の\n　で思い出したんだけど、風紀委員の仕事手伝\n　わない？」",
+      "en": "\"I'm weird? Oh, that reminds me. Do you want to help with\nthe school committee work?\"",
+      "text": "\"I'm weird? Oh, that reminds me. Do you want to help with\nthe school committee work?\""
+    },
+    {
+      "offset": 2025,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なり？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 2042,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あまりにも｛きてれつ／奇天烈｝なお願いに、思わずキャラが\n変わる。",
+      "en": "What a weird request!",
+      "text": "What a weird request!"
+    },
+    {
+      "offset": 2142,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いや、今日の委員会の打ち合わせで、変な人\n　の思考パターンが分かれば、未然に対策を立\n　てられるって話が出たの」",
+      "en": "\"Well, we had a meeting today, and we talked about how we\ncan plan to prevent things if we understand how weird people\nthink.\"",
+      "text": "\"Well, we had a meeting today, and we talked about how we\ncan plan to prevent things if we understand how weird people\nthink.\""
+    },
+    {
+      "offset": 2272,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「つまり、毒をもって毒を制す！」",
+      "en": "\"To fight fire with fire!\"",
+      "text": "\"To fight fire with fire!\""
+    },
+    {
+      "offset": 2311,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2330,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "毒を盛って毒を制す、の間違いなんじゃないか\nそれは？",
+      "en": "What's she talking about?",
+      "text": "What's she talking about?"
+    },
+    {
+      "offset": 2388,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「柄じゃない……そもそも、俺はその変な奴と\n　して認識されてるのか？」",
+      "en": "\"Me? ......I'm a weird person?\"",
+      "text": "\"Me? ......I'm a weird person?\""
+    },
+    {
+      "offset": 2492,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「当たり前じゃない」",
+      "en": "\"Of course!\"",
+      "text": "\"Of course!\""
+    },
+    {
+      "offset": 2519,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、心が痛い」",
+      "en": "\"Wow, I'm hurt.\"",
+      "text": "\"Wow, I'm hurt.\""
+    },
+    {
+      "offset": 2542,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は杉並と同レベルか……。",
+      "en": "Am I at the same level as Suginami?",
+      "text": "Am I at the same level as Suginami?"
+    },
+    {
+      "offset": 2575,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ちょっと品行方正に生きてみようかと思っ\n　ちゃったぞ」",
+      "en": "\"That makes me think I should start to live right and\nsquare.\"",
+      "text": "\"That makes me think I should start to live right and\nsquare.\""
+    },
+    {
+      "offset": 2665,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いや、そうしてくれると私は凄く助かるんだ\n　けど……」",
+      "en": "\"Well, that would help me a lot.\"",
+      "text": "\"Well, that would help me a lot.\""
+    },
+    {
+      "offset": 2727,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「人生に刺激は必要だろう？」",
+      "en": "\"Don't you need stimulation in your life?\"",
+      "text": "\"Don't you need stimulation in your life?\""
+    },
+    {
+      "offset": 2790,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「はいはい……兄さんの性格なんてすぐには直\n　らないんだからいいの」",
+      "en": "\"Right...... I understand your personality won't change\nanytime soon.\"",
+      "text": "\"Right...... I understand your personality won't change\nanytime soon.\""
+    },
+    {
+      "offset": 2892,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「でさ、手伝って、お願いっ！」",
+      "en": "\"So, can you help us? Please?\"",
+      "text": "\"So, can you help us? Please?\""
+    },
+    {
+      "offset": 2929,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ふぅむ……」",
+      "en": "\"Well......\"",
+      "text": "\"Well......\""
+    },
+    {
+      "offset": 2950,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんとなく嫌な立場だが、おかしな話、上手く\nいけば音夢の仕事も楽になるのか。",
+      "en": "It doesn't sound too flattering, but it could help Nemu if\nit goes well......",
+      "text": "It doesn't sound too flattering, but it could help Nemu if\nit goes well......"
+    },
+    {
+      "offset": 3032,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「とりあえずカレーを食え。冷めるし」",
+      "en": "\"Eat your curry first. It'll get cold.\"",
+      "text": "\"Eat your curry first. It'll get cold.\""
+    },
+    {
+      "offset": 3114,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「う、うん。いただきます」",
+      "en": "\"Right. Thanks.\"",
+      "text": "\"Right. Thanks.\""
+    },
+    {
+      "offset": 3167,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "カチャカチャと音夢が皿にスプーンをさしこむ\nが、俺のことを気にして口元まで運ばない。",
+      "en": "She acts like she's going to eat it, but she won't eat it\nwaiting for me.",
+      "text": "She acts like she's going to eat it, but she won't eat it\nwaiting for me."
+    },
+    {
+      "offset": 3257,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「でもさぁ、よく話を持ってきたな。普段のお\n　前なら断られると思うだろう？」",
+      "en": "\"I'm amazed that you actually brought this to me. You\nthought that I'll refuse, didn't you?\"",
+      "text": "\"I'm amazed that you actually brought this to me. You\nthought that I'll refuse, didn't you?\""
+    },
+    {
+      "offset": 3378,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、あのね、思い出を増やして欲しいから、\n　兄さんには出来るだけ学園にいて欲しいの」",
+      "en": "\"Well, I want you to have more memories, and I want you to\nspend as much time at school as possible.\"",
+      "text": "\"Well, I want you to have more memories, and I want you to\nspend as much time at school as possible.\""
+    },
+    {
+      "offset": 3470,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なに慌ててるんだ？",
+      "en": "Why is she panicking?",
+      "text": "Why is she panicking?"
+    },
+    {
+      "offset": 3526,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「でね、もしＯＫなら私と一緒に行動して欲し\n　いの」",
+      "en": "\"And if it's okay with you, I want you to pair up with me.\"",
+      "text": "\"And if it's okay with you, I want you to pair up with me.\""
+    },
+    {
+      "offset": 3584,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え……あ、そっか」",
+      "en": "\"Huh? Okay......\"",
+      "text": "\"Huh? Okay......\""
+    },
+    {
+      "offset": 3639,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「な、なに！？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 3662,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いや、別に……」",
+      "en": "\"No, nothing......\"",
+      "text": "\"No, nothing......\""
+    },
+    {
+      "offset": 3687,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "結局こいつ、俺と一緒に居たいのか。",
+      "en": "So she wants to be with me.",
+      "text": "So she wants to be with me."
+    },
+    {
+      "offset": 3726,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自意識過剰な気もするが、なんだか照れくさかっ\nた。",
+      "en": "I was embarrassed as I thought I might have given in too\neasily.",
+      "text": "I was embarrassed as I thought I might have given in too\neasily."
+    },
+    {
+      "offset": 3810,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「う……まぁ、嫌なら別にいいけどさ」",
+      "en": "\"Well...... you don't have to, if you don't want to.\"",
+      "text": "\"Well...... you don't have to, if you don't want to.\""
+    },
+    {
+      "offset": 3853,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんて言いながら、なぜか音夢はプリンのフタ\nをはがしにかかっている。",
+      "en": "Nemu was opening the lid of the pudding as she talked.",
+      "text": "Nemu was opening the lid of the pudding as she talked."
+    },
+    {
+      "offset": 3927,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「分かったよ。面倒だから２日に１ぺんくらい\n　なら構わん。とりあえず明日からだな」",
+      "en": "\"Fine. I don't mind if it was once in two days or something.\nDoes it start tomorrow?\"",
+      "text": "\"Fine. I don't mind if it was once in two days or something.\nDoes it start tomorrow?\""
+    },
+    {
+      "offset": 4043,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「本当に！？」",
+      "en": "\"Are you sure?\"",
+      "text": "\"Are you sure?\""
+    },
+    {
+      "offset": 4064,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「野武士に二言はない」",
+      "en": "\"A samurai never breaks his word.\"",
+      "text": "\"A samurai never breaks his word.\""
+    },
+    {
+      "offset": 4121,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うわっ、びっくり！　嬉しい！」",
+      "en": "\"Wow, I'm so surprised! I'm so happy!\"",
+      "text": "\"Wow, I'm so surprised! I'm so happy!\""
+    },
+    {
+      "offset": 4160,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……なにが嬉しいんだ？」",
+      "en": "\"......Why does that make you happy?\"",
+      "text": "\"......Why does that make you happy?\""
+    },
+    {
+      "offset": 4221,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、違うわよ！　これで仕事が楽になると思っ\n　ただけですぅ！」",
+      "en": "\"Oh, no, no! I just thought it would make my job easier, and\nthat's all.\"",
+      "text": "\"Oh, no, no! I just thought it would make my job easier, and\nthat's all.\""
+    },
+    {
+      "offset": 4291,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「へぇ〜」",
+      "en": "\"I see.\"",
+      "text": "\"I see.\""
+    },
+    {
+      "offset": 4336,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「な、なによその、悟りきったような目は！」",
+      "en": "\"What? Why are you looking at me like that?\"",
+      "text": "\"What? Why are you looking at me like that?\""
+    },
+    {
+      "offset": 4390,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「それは――ん？」",
+      "en": "\"Is that --- Huh?\"",
+      "text": "\"Is that --- Huh?\""
+    },
+    {
+      "offset": 4424,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "唐突に玄関が開いた音がして、ばたばた、と騒\nがしい音がこだまする。",
+      "en": "The front door opened suddenly, and I heard the sound of\nsomeone walking the hallway.",
+      "text": "The front door opened suddenly, and I heard the sound of\nsomeone walking the hallway."
+    },
+    {
+      "offset": 4509,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "『なんかカレーの匂いがするぞ。インド〜♪』",
+      "en": "\"It smells like a curry! India!!\"",
+      "text": "\"It smells like a curry! India!!\""
+    },
+    {
+      "offset": 4573,
+      "speaker": "Utamaru",
+      "speaker_jp": "うたまる",
+      "jp": "『にゃ〜♪』",
+      "en": "\"Meow.\"",
+      "text": "\"Meow.\""
+    },
+    {
+      "offset": 4605,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "『うにゃ？　猫はカレー食べてもいいんだっ　\n　け？』",
+      "en": "\"Huh? Can a cat eat curry?\"",
+      "text": "\"Huh? Can a cat eat curry?\""
+    },
+    {
+      "offset": 4678,
+      "speaker": "Utamaru",
+      "speaker_jp": "うたまる",
+      "jp": "『にゃにゃ？』",
+      "en": "\"Meow, meow?\"",
+      "text": "\"Meow, meow?\""
+    },
+    {
+      "offset": 4712,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "『ま、いいや。食べさせてみれば分かるし』",
+      "en": "\"Oh well. I'll find out.\"",
+      "text": "\"Oh well. I'll find out.\""
+    },
+    {
+      "offset": 4774,
+      "speaker": "Utamaru",
+      "speaker_jp": "うたまる",
+      "jp": "『にゃ〜！！』",
+      "en": "\"Meow!!\"",
+      "text": "\"Meow!!\""
+    },
+    {
+      "offset": 4795,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どたばた、と足音が廊下に響く。",
+      "en": "The sound of footsteps echoed in the hallway.",
+      "text": "The sound of footsteps echoed in the hallway."
+    },
+    {
+      "offset": 4832,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 4884,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 4903,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とりあえず、この部屋にさくらが｛たど／辿｝り着く前に\n音夢に確認することがあった。",
+      "en": "I had to confirm one thing with Nemu before Sakura gets\nhere.",
+      "text": "I had to confirm one thing with Nemu before Sakura gets\nhere."
+    },
+    {
+      "offset": 4991,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あれは要注意なんだろうが、俺にも行動パター\n　ンなんて分からんぞ」",
+      "en": "\"That could be one of the weird people, but even I won't be\nable to tell you.\"",
+      "text": "\"That could be one of the weird people, but even I won't be\nable to tell you.\""
+    },
+    {
+      "offset": 5093,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そうだね……でもいいの♪」",
+      "en": "\"You're right...... but that's okay.\"",
+      "text": "\"You're right...... but that's okay.\""
+    },
+    {
+      "offset": 5128,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言って、音夢はくすっ、と笑いながらカレーを\n美味しそうに口にした。",
+      "en": "Nemu laughed and then she ate her curry.",
+      "text": "Nemu laughed and then she ate her curry."
+    },
+    {
+      "offset": 5314,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆毒を盛って毒を制す◆",
+      "en": "◆To fight fire with fire◆",
+      "text": "◆To fight fire with fire◆"
+    },
+    {
+      "offset": 5367,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢から一緒に風紀委員の仕事を手伝って欲し\nいと頼まれる。",
+      "en": "Nemu asked me to help her with school committee work.",
+      "text": "Nemu asked me to help her with school committee work."
+    },
+    {
+      "offset": 5429,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "毒をもって毒を制す作戦らしいが……つまると\nころ、俺と一緒に居たいらしい。",
+      "en": "She said she needs my help, but I think she just wants to be\nwith me.",
+      "text": "She said she needs my help, but I think she just wants to be\nwith me."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "190": "Nemu",
+    "325": "Nemu",
+    "482": "Nemu",
+    "691": "Nemu",
+    "832": "Nemu",
+    "1030": "Nemu",
+    "1081": "Nemu",
+    "1168": "Nemu",
+    "1325": "Nemu",
+    "1464": "Nemu",
+    "1624": "Nemu",
+    "1796": "Nemu",
+    "1912": "Nemu",
+    "2134": "Nemu",
+    "2264": "Nemu",
+    "2484": "Nemu",
+    "2657": "Nemu",
+    "2782": "Nemu",
+    "2884": "Nemu",
+    "3106": "Nemu",
+    "3370": "Nemu",
+    "3518": "Nemu",
+    "3631": "Nemu",
+    "3802": "Nemu",
+    "4035": "Nemu",
+    "4113": "Nemu",
+    "4213": "Nemu",
+    "4328": "Nemu",
+    "4499": "Sakura",
+    "4561": "Utamaru",
+    "4595": "Sakura",
+    "4666": "Utamaru",
+    "4702": "Sakura",
+    "4762": "Utamaru",
+    "4876": "Nemu",
+    "5085": "Nemu"
+  }
+}

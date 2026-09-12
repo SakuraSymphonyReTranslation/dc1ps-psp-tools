@@ -1,0 +1,518 @@
+{
+  "scene": "script_0384.obj",
+  "dialogues": [
+    {
+      "offset": 137,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何となく、などと言いつつ学園に来たものの、\n当然のようにやる事がない。",
+      "en": "As expected, once I actually hit school, I quickly found\nthat there was nothing for sometone like me to do.",
+      "text": "As expected, once I actually hit school, I quickly found\nthat there was nothing for sometone like me to do."
+    },
+    {
+      "offset": 213,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「暇だ……」",
+      "en": "\"Bored...\"",
+      "text": "\"Bored...\""
+    },
+    {
+      "offset": 232,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "忙しげに立ち回っている学生達の姿を、ぼんや\nりと追う。何だか、水槽の魚になった気分。",
+      "en": "I cast my gaze on the students scurrying back and forth.\nThey looked like fish in a water tank.",
+      "text": "I cast my gaze on the students scurrying back and forth.\nThey looked like fish in a water tank."
+    },
+    {
+      "offset": 320,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こんなに手持ち｛ぶさた／無沙汰｝だと、さすがに寂しくな\nる。家に帰って、寝ようかな……。",
+      "en": "Nothing for me to do here, I should just go home and\nsleep...",
+      "text": "Nothing for me to do here, I should just go home and\nsleep..."
+    },
+    {
+      "offset": 447,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「よう、朝倉。こんな時に椅子にぬぼっと座っ\n　てるなんざ、お前も奇特な奴だなあ」",
+      "en": "\"Yo, Asakura. Sitting, so filled with inactivity, in your\nchair like that, you're a model student for the entire\nstudent body.\"",
+      "text": "\"Yo, Asakura. Sitting, so filled with inactivity, in your\nchair like that, you're a model student for the entire\nstudent body.\""
+    },
+    {
+      "offset": 533,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「そういうお前は、ニカニカとして楽しそうだ\n　な、コノヤロ」",
+      "en": "\"You're no better, standing there grinning like a stupid\nidiot.\"",
+      "text": "\"You're no better, standing there grinning like a stupid\nidiot.\""
+    },
+    {
+      "offset": 627,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「おう。こんな時こそ暗躍しないで、何が学生\n　生活かっ」",
+      "en": "\"Oh, I'm stealthily manouvering through the hallways,\ncarrying out my observations of student life.\"",
+      "text": "\"Oh, I'm stealthily manouvering through the hallways,\ncarrying out my observations of student life.\""
+    },
+    {
+      "offset": 689,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「いや、暗躍はせんだろ」",
+      "en": "\"No you're not.\"",
+      "text": "\"No you're not.\""
+    },
+    {
+      "offset": 720,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "冷静にツッコミを入れる。",
+      "en": "I played the straight guy to perfection.",
+      "text": "I played the straight guy to perfection."
+    },
+    {
+      "offset": 779,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「お前、窓際族みたいに椅子で背中丸めてい\n　るぐらいだったら、何か参加したらどうな\n　んだ？」",
+      "en": "\"Why are you just sitting there like some deadbeat anyway?\nWhy don't you go help in the events if you have nothing to\ndo?\"",
+      "text": "\"Why are you just sitting there like some deadbeat anyway?\nWhy don't you go help in the events if you have nothing to\ndo?\""
+    },
+    {
+      "offset": 878,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「何かって言われてもな……」",
+      "en": "\"Don't feel like it...\"",
+      "text": "\"Don't feel like it...\""
+    },
+    {
+      "offset": 913,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今さら……という感が強い。",
+      "en": "That's how I feel now, anyway...",
+      "text": "That's how I feel now, anyway..."
+    },
+    {
+      "offset": 974,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「何だったら、こっちの企画に、一口参加させ\n　てやってもいいぞ」",
+      "en": "\"Or you could help me with my project.\"",
+      "text": "\"Or you could help me with my project.\""
+    },
+    {
+      "offset": 1044,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "にやっと笑う。俺は、面倒臭そうに手を振った。",
+      "en": "One of THOSE smiles. I waved my hand at him, bothered.",
+      "text": "One of THOSE smiles. I waved my hand at him, bothered."
+    },
+    {
+      "offset": 1095,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「帰って、ベッドに潜り込んだ方がまだマシだ」",
+      "en": "\"I'd rather be home and snug in my bed.\"",
+      "text": "\"I'd rather be home and snug in my bed.\""
+    },
+    {
+      "offset": 1157,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「お前が参加するなら心強かったんだが……強\n　制はすまい。命あってのものだねだからな」",
+      "en": "\"Your participation would make the success of the project\nguaranteed. You have an obligation to do so, with your life\nif needed.\"",
+      "text": "\"Your participation would make the success of the project\nguaranteed. You have an obligation to do so, with your life\nif needed.\""
+    },
+    {
+      "offset": 1249,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「一体お前は何をするつもりなんだ？」",
+      "en": "\"Just what kind of project is this?\"",
+      "text": "\"Just what kind of project is this?\""
+    },
+    {
+      "offset": 1303,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「トップシークレットだ」",
+      "en": "\"Top Secret.\"",
+      "text": "\"Top Secret.\""
+    },
+    {
+      "offset": 1334,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "\".......\"",
+      "text": "\".......\""
+    },
+    {
+      "offset": 1381,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「そういやお前、最近、白河ことりと仲いいん\n　だって？」",
+      "en": "\"Lately, you've been pretty friendly with Shirakawa Kotori,\nhaven't you?\"",
+      "text": "\"Lately, you've been pretty friendly with Shirakawa Kotori,\nhaven't you?\""
+    },
+    {
+      "offset": 1443,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………？　何だ、それ？」",
+      "en": "\".......? What's that supposed to mean?\"",
+      "text": "\".......? What's that supposed to mean?\""
+    },
+    {
+      "offset": 1489,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「何だもナンも、そのままの意味だ」",
+      "en": "\"It meant exactly what I said.\"",
+      "text": "\"It meant exactly what I said.\""
+    },
+    {
+      "offset": 1530,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「俺と、ことりが……？」",
+      "en": "\"Kotori, and me...?\"",
+      "text": "\"Kotori, and me...?\""
+    },
+    {
+      "offset": 1572,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「白河ことりに関してはかなり確実な噂を聞い\n　ていたんだがな」",
+      "en": "\"The matters concerning Shirakawa Kotori would gain far more\ncredence if they come from you, now.\"",
+      "text": "\"The matters concerning Shirakawa Kotori would gain far more\ncredence if they come from you, now.\""
+    },
+    {
+      "offset": 1640,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「何だよ、確実な噂って」",
+      "en": "\"What are you trying to say.\"",
+      "text": "\"What are you trying to say.\""
+    },
+    {
+      "offset": 1682,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「白河ことりの隣に立つに相応しい男って、ど\n　んな男だと思う？」",
+      "en": "\"What do you think are characteristics that a man would need\nto be suitable for Kotori?\"",
+      "text": "\"What do you think are characteristics that a man would need\nto be suitable for Kotori?\""
+    },
+    {
+      "offset": 1752,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ことりの隣か……」",
+      "en": "\"Suitable for Kotori...\"",
+      "text": "\"Suitable for Kotori...\""
+    },
+    {
+      "offset": 1779,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「まぁ、そんじょそこらの男じゃ駄目だろうな」",
+      "en": "\"It's practically impossible for someone to be that.\"",
+      "text": "\"It's practically impossible for someone to be that.\""
+    },
+    {
+      "offset": 1841,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「で、だ。そのそんじょそこらの男ではない男\n　が、今、風見学園にはいるだろう？」",
+      "en": "\"Well, then apparently there's a man in this school who\nmakes the impossible possible, no?\"",
+      "text": "\"Well, then apparently there's a man in this school who\nmakes the impossible possible, no?\""
+    },
+    {
+      "offset": 1927,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「いるか？」",
+      "en": "\"There is?\"",
+      "text": "\"There is?\""
+    },
+    {
+      "offset": 1957,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……まぁ、男になんか興味ないだろうから、\n　知らなくてもいい話だがな」",
+      "en": "\"...Well, if she wasn't interested in any men around, that\nwould be good news for a lot of people.\"",
+      "text": "\"...Well, if she wasn't interested in any men around, that\nwould be good news for a lot of people.\""
+    },
+    {
+      "offset": 2035,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並が言う。",
+      "en": "Suginami continued talking.",
+      "text": "Suginami continued talking."
+    },
+    {
+      "offset": 2065,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……だが、そんな噂をはねのける、ホットな\n　噂を俺は入手したわけだ」",
+      "en": "\"...And relating to that, I've recently obtained the latest\ngossip regarding Shirakawa Kotori.\"",
+      "text": "\"...And relating to that, I've recently obtained the latest\ngossip regarding Shirakawa Kotori.\""
+    },
+    {
+      "offset": 2141,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「何だよ、それ」",
+      "en": "\"Which is?\"",
+      "text": "\"Which is?\""
+    },
+    {
+      "offset": 2175,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「朝、学園に来る時、やたらと親しげに、白河\n　ことりがお前の名前を呼んだとか呼ばないと\n　か」",
+      "en": "\"This morning, you were found heading to school with\nShirakawa Kotori.\"",
+      "text": "\"This morning, you were found heading to school with\nShirakawa Kotori.\""
+    },
+    {
+      "offset": 2274,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "\".......\"",
+      "text": "\".......\""
+    },
+    {
+      "offset": 2293,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "早速かよ。",
+      "en": "That was quick.",
+      "text": "That was quick."
+    },
+    {
+      "offset": 2321,
+      "speaker": "Sugianmi",
+      "speaker_jp": "杉並",
+      "jp": "「しかも、そのまま手を繋いで、どこか繁華街\n　の方へ消えていったって話だ」",
+      "en": "\"And later, both of you were holding hands and disappeared\ninto the shopping district while talking.\"",
+      "text": "\"And later, both of you were holding hands and disappeared\ninto the shopping district while talking.\""
+    },
+    {
+      "offset": 2429,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……とすると、今ここに居るお前は何者？　\n　コピーロボット？」",
+      "en": "\"...In other words, who are you? A robot clone?\"",
+      "text": "\"...In other words, who are you? A robot clone?\""
+    },
+    {
+      "offset": 2499,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「知るか」",
+      "en": "\"Oh, you found out.\"",
+      "text": "\"Oh, you found out.\""
+    },
+    {
+      "offset": 2516,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やくたいもないお言葉に、頭がきりきりと痛む。",
+      "en": "His completely idiotic words made my head hurt.",
+      "text": "His completely idiotic words made my head hurt."
+    },
+    {
+      "offset": 2595,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「お前、暇なら、音楽室にでも行ったらどう\n　だ？」",
+      "en": "\"If you're bored, why don't you go to the music room?\"",
+      "text": "\"If you're bored, why don't you go to the music room?\""
+    },
+    {
+      "offset": 2651,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「あん？」",
+      "en": "\"Ahn?\"",
+      "text": "\"Ahn?\""
+    },
+    {
+      "offset": 2679,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「これも噂になっているが、白河とその友人達\n　が何かをやっているらしいぞ」",
+      "en": "\"I've heard that Shirakawa and her friends were doing\nsomething there.\"",
+      "text": "\"I've heard that Shirakawa and her friends were doing\nsomething there.\""
+    },
+    {
+      "offset": 2759,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ふむ……」",
+      "en": "\"Hm...\"",
+      "text": "\"Hm...\""
+    },
+    {
+      "offset": 2778,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "確かに、家に帰って寝るよりは倍はマシだろう。",
+      "en": "Well, the chances of me going home and sleeping are twice as\nsmall,",
+      "text": "Well, the chances of me going home and sleeping are twice as\nsmall,"
+    },
+    {
+      "offset": 2827,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ここでぼうっとしているよりは４倍マシで、杉\n並の相手をしているよりは、２５６倍マシだ。",
+      "en": "The chances of me staying here, four times as small, and the\nchances of me wanting to talk with Suginami more was 256\ntimes as small.",
+      "text": "The chances of me staying here, four times as small, and the\nchances of me wanting to talk with Suginami more was 256\ntimes as small."
+    },
+    {
+      "offset": 2919,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お前も、天文学的数字の確率で、たまにはい\n　い事言うな」",
+      "en": "\"Against all logical odds, you've actually managed to\nsuggest something good.\"",
+      "text": "\"Against all logical odds, you've actually managed to\nsuggest something good.\""
+    },
+    {
+      "offset": 3011,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「はっはっは。お前が、俺の｛げんせつ／言説｝の意図を理解\n　出来る確率が、天文学的数字なのだ」",
+      "en": "\"Ha ha ha, there's a reason why I suggested that, it's all\nwritten in the stars.\"",
+      "text": "\"Ha ha ha, there's a reason why I suggested that, it's all\nwritten in the stars.\""
+    },
+    {
+      "offset": 3111,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「はっはっは」",
+      "en": "\"Ha ha ha.\"",
+      "text": "\"Ha ha ha.\""
+    },
+    {
+      "offset": 3143,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「はっはっは」",
+      "en": "\"Ha ha ha.\"",
+      "text": "\"Ha ha ha.\""
+    },
+    {
+      "offset": 3164,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……むなしい」",
+      "en": "\"...This is stupid.\"",
+      "text": "\"...This is stupid.\""
+    },
+    {
+      "offset": 3187,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "笑い疲れ、鞄を手に立ち上がった。",
+      "en": "Tired of fake laughter, I sling my bag onto my shoulder.",
+      "text": "Tired of fake laughter, I sling my bag onto my shoulder."
+    },
+    {
+      "offset": 3254,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「帰るのか？」",
+      "en": "\"Going home?\"",
+      "text": "\"Going home?\""
+    },
+    {
+      "offset": 3275,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「いや、とりあえずは、音楽室に行ってみる」",
+      "en": "\"Nah, going to the music room.\"",
+      "text": "\"Nah, going to the music room.\""
+    },
+    {
+      "offset": 3335,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ま、頑張れや」",
+      "en": "\"Then good luck.\"",
+      "text": "\"Then good luck.\""
+    },
+    {
+      "offset": 3358,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "にやっと笑う杉並に、俺は肩をすくめてみせた。",
+      "en": "Suginami grinned widely, patting my shoulder.",
+      "text": "Suginami grinned widely, patting my shoulder."
+    },
+    {
+      "offset": 3409,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「何をだっての……」",
+      "en": "\"What the hell are you talking about...\"",
+      "text": "\"What the hell are you talking about...\""
+    },
+    {
+      "offset": 3554,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆音楽室へ◆",
+      "en": "◆To the Music Room◆",
+      "text": "◆To the Music Room◆"
+    },
+    {
+      "offset": 3595,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暇である。",
+      "en": "Boredom.",
+      "text": "Boredom."
+    },
+    {
+      "offset": 3610,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はやはり、ことりの練習風景を見に行く事に\nした。",
+      "en": "In the end, I decided to see Kotori's practice session in\nthe music room.",
+      "text": "In the end, I decided to see Kotori's practice session in\nthe music room."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "439": "Suginami",
+    "619": "Suginami",
+    "771": "Suginami",
+    "966": "Suginami",
+    "1149": "Suginami",
+    "1295": "Suginami",
+    "1373": "Suginami",
+    "1481": "Suginami",
+    "1564": "Suginami",
+    "1674": "Suginami",
+    "1833": "Suginami",
+    "1949": "Suginami",
+    "2057": "Suginami",
+    "2167": "Suginami",
+    "2313": "Sugianmi",
+    "2421": "Suginami",
+    "2587": "Suginami",
+    "2671": "Suginami",
+    "3003": "Suginami",
+    "3135": "Suginami",
+    "3246": "Suginami",
+    "3327": "Suginami"
+  }
+}

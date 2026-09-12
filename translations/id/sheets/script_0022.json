@@ -1,0 +1,864 @@
+{
+  "scene": "script_0022.obj",
+  "dialogues": [
+    {
+      "offset": 157,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "日曜の午後は、街中の散歩がよく似合う。一人\nでぶらぶらするこの心地よさ。",
+      "en": "Sunday afternoon, I'm walking down a nameless street. All by\nmyself, just idly loitering around.",
+      "text": "Sunday afternoon, I'm walking down a nameless street. All by\nmyself, just idly loitering around."
+    },
+    {
+      "offset": 233,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と言いつつ、誰か居てくれたらなあ、などと思っ\nたり。",
+      "en": "Then again, I certainly wouldn't mind if someone else was\nwalking with me.",
+      "text": "Then again, I certainly wouldn't mind if someone else was\nwalking with me."
+    },
+    {
+      "offset": 289,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "かわいい彼女と二人きり、とか。",
+      "en": "Such as a couple of cute girls.",
+      "text": "Such as a couple of cute girls."
+    },
+    {
+      "offset": 326,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「う……寒っ……」",
+      "en": "\"Br.... cold...\"",
+      "text": "\"Br.... cold...\""
+    },
+    {
+      "offset": 351,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そろそろ春の足音が聞こえてきたとは言え、２\n月の空気はまだまだ身を引き締めてくれる。商\n店街を行く人も、冬の装いが目立つ。",
+      "en": "Although spring is coming, the Feburary weather is still\nstiffening to the body. People still walk around in winter\nclothing. ;[name]",
+      "text": "Although spring is coming, the Feburary weather is still\nstiffening to the body. People still walk around in winter\nclothing. ;[name]"
+    },
+    {
+      "offset": 478,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「やば……マジ寒い……」",
+      "en": "\"It's... really friggin cold...\"",
+      "text": "\"It's... really friggin cold...\""
+    },
+    {
+      "offset": 509,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思ったより、軽装過ぎたらしい。",
+      "en": "Looks like it's not the time for light wear yet...",
+      "text": "Looks like it's not the time for light wear yet..."
+    },
+    {
+      "offset": 546,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「誰か、セーターでも編んでくれねえかな……」",
+      "en": "\"Someone, please knit a sweater for me right now...\"",
+      "text": "\"Someone, please knit a sweater for me right now...\""
+    },
+    {
+      "offset": 597,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やくたいもない事を考えつつ、本屋やＣＤショッ\nプを中心に、商店街をぶらぶらした。",
+      "en": "Thinking crazy thoughts, I enter a book and CD shop for the\nwarmth, and continue loafing around.",
+      "text": "Thinking crazy thoughts, I enter a book and CD shop for the\nwarmth, and continue loafing around."
+    },
+    {
+      "offset": 681,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "………。",
+      "en": ".........",
+      "text": "........."
+    },
+    {
+      "offset": 694,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 705,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…。",
+      "en": "...",
+      "text": "..."
+    },
+    {
+      "offset": 714,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "初音島は本日も平穏だった。",
+      "en": "Hatsunejima is pretty quiet today.",
+      "text": "Hatsunejima is pretty quiet today."
+    },
+    {
+      "offset": 747,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「てか、暇だ……」",
+      "en": "\"Time to leave...\"",
+      "text": "\"Time to leave...\""
+    },
+    {
+      "offset": 772,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そろそろ帰ろうかとも思うが、せっかく外に出\nたのだから、他の場所にも寄りたい気もする。",
+      "en": "As I gradually leave the shop, I started thinking of other\nplaces to go.",
+      "text": "As I gradually leave the shop, I started thinking of other\nplaces to go."
+    },
+    {
+      "offset": 864,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふむ………」",
+      "en": "\"Hm...\"",
+      "text": "\"Hm...\""
+    },
+    {
+      "offset": 885,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "人混みはかったるいし、映画をひとりで見るの\nもあれだ。ましてや喫茶店とかに入ってもな。",
+      "en": "I don't feel like being in a crowd today, so going to a\nmovie is out of the question. To say nothing of going to a\ncoffeeshop.",
+      "text": "I don't feel like being in a crowd today, so going to a\nmovie is out of the question. To say nothing of going to a\ncoffeeshop."
+    },
+    {
+      "offset": 977,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「無難に公園でも行ってみるか……」",
+      "en": "\"I guess the safest option would be the park...\"",
+      "text": "\"I guess the safest option would be the park...\""
+    },
+    {
+      "offset": 1063,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "テレビじゃ、４月になると『桜の花も満開にな\nりすっかり春気分です』なんて言うけれど、こ\nの島じゃ、そんな言葉は的はずれだ。",
+      "en": "I saw from the TV once that sakura trees are in full bloom\nin April, but that's a law of nature that doesn't apply\nhere.",
+      "text": "I saw from the TV once that sakura trees are in full bloom\nin April, but that's a law of nature that doesn't apply\nhere."
+    },
+    {
+      "offset": 1188,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "掃除をしても掃除をしても、まるで足りないほ\nどに、絶え間なく花びらの散る公園。",
+      "en": "This park continually gets cleaned up, yet the sakura petals\ncontinue to fall to the point where it's hard to walk\nthrough.",
+      "text": "This park continually gets cleaned up, yet the sakura petals\ncontinue to fall to the point where it's hard to walk\nthrough."
+    },
+    {
+      "offset": 1272,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……それにしても誰もいないな」",
+      "en": "\"...And that may be why no one else is around.\"",
+      "text": "\"...And that may be why no one else is around.\""
+    },
+    {
+      "offset": 1311,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "予想はしていたが、公園には散歩をしている老\n人がぽつぽつといる程度で、数える程もいない。",
+      "en": "As I predicted, the only ones walking around the park are a\nfew elderly people.",
+      "text": "As I predicted, the only ones walking around the park are a\nfew elderly people."
+    },
+    {
+      "offset": 1403,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "普通に公園内をぶらついてもつまらない。俺は、\n道筋から外れ、桜の林の中へ入っていく。",
+      "en": "I'd be bored if I take the normal route through as well.\nInstead, I go off the path and into the forest of sakura\ntrees.",
+      "text": "I'd be bored if I take the normal route through as well.\nInstead, I go off the path and into the forest of sakura\ntrees."
+    },
+    {
+      "offset": 1491,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "桜の花の匂いがより強く｛びこう／鼻腔｝をくすぐる。思わ\nず触れた桜の木の幹からは、しっとりと冷たい\n感触が伝わってくる。",
+      "en": "The smell of the sakura petals grew stronger. If I touch one\nof the sakura tree's trunks now, it'd feel cold to the\ntouch.",
+      "text": "The smell of the sakura petals grew stronger. If I touch one\nof the sakura tree's trunks now, it'd feel cold to the\ntouch."
+    },
+    {
+      "offset": 1614,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見上げると、空が見えないくらい覆い尽くされ\nた薄い桃色の景色。",
+      "en": "As I look up, the sky was hidden, covered by a thin shade of\npink.",
+      "text": "As I look up, the sky was hidden, covered by a thin shade of\npink."
+    },
+    {
+      "offset": 1682,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……そうだ、あそこに行ってみるか」",
+      "en": "\"...Hm, I should go there.\"",
+      "text": "\"...Hm, I should go there.\""
+    },
+    {
+      "offset": 1725,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この近くに、子供の頃、秘密基地と呼んでいた\n場所があった。",
+      "en": "Close to here is the secret base I used to have as a child.",
+      "text": "Close to here is the secret base I used to have as a child."
+    },
+    {
+      "offset": 1787,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もちろん、今の目で見れば、大層なもんじゃな\nい。",
+      "en": "Of course, if I look at it now, it wasn't much of one.",
+      "text": "Of course, if I look at it now, it wasn't much of one."
+    },
+    {
+      "offset": 1839,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "けれど、ガキにとっては、両手を広げても追い\nつかないくらい、大切な場所。",
+      "en": "But when I was a kid, and when it was bigger than my hands\noutstretched, it was a very important place for me.",
+      "text": "But when I was a kid, and when it was bigger than my hands\noutstretched, it was a very important place for me."
+    },
+    {
+      "offset": 1917,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そうだな……行ってみよう」",
+      "en": "\"Right.. I'd go.\"",
+      "text": "\"Right.. I'd go.\""
+    },
+    {
+      "offset": 1952,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "呟いた時には、足が勝手に動いていた。",
+      "en": "As I murmured that, my feet started heading in the direction\nof that place.",
+      "text": "As I murmured that, my feet started heading in the direction\nof that place."
+    },
+    {
+      "offset": 2057,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "満開の桜。",
+      "en": "The sakura are in full bloom.",
+      "text": "The sakura are in full bloom."
+    },
+    {
+      "offset": 2072,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何歳になるのか考えると、気が遠くなってしま\nうような、太い幹。",
+      "en": "Ever since young, I always thought of this huge sakura tree\nas my second home.",
+      "text": "Ever since young, I always thought of this huge sakura tree\nas my second home."
+    },
+    {
+      "offset": 2138,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見る者を圧倒するようで、何だか、優しくもあ\nる。",
+      "en": "To others, it looks overwhelming, yet it has such a gentle\nair to it.",
+      "text": "To others, it looks overwhelming, yet it has such a gentle\nair to it."
+    },
+    {
+      "offset": 2192,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……ってか、今見ても、すごいなこれは」",
+      "en": "\"...Even if I look at it now, it's still amazing.\"",
+      "text": "\"...Even if I look at it now, it's still amazing.\""
+    },
+    {
+      "offset": 2239,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつだったか夢でも見たような気がするが……。",
+      "en": "It's like experiencing a dream.",
+      "text": "It's like experiencing a dream."
+    },
+    {
+      "offset": 2288,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "花の香り。",
+      "en": "The fragrance of the flowers.",
+      "text": "The fragrance of the flowers."
+    },
+    {
+      "offset": 2303,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "吹き抜ける風。",
+      "en": "The lightly blowing wind.",
+      "text": "The lightly blowing wind."
+    },
+    {
+      "offset": 2322,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "唇に張り付いた花びら。",
+      "en": "The sakura petals that cling to ones lips.",
+      "text": "The sakura petals that cling to ones lips."
+    },
+    {
+      "offset": 2349,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな｛もろもろ／諸々｝が、夢とは比較にならない程の濃密\nさで迫ってくる。",
+      "en": "All these various things mirror the dreams I've often had.",
+      "text": "All these various things mirror the dreams I've often had."
+    },
+    {
+      "offset": 2429,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん……？」",
+      "en": "\"Hm...?\"",
+      "text": "\"Hm...?\""
+    },
+    {
+      "offset": 2455,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "不意に、すぐ近くから、歌声が聞こえてきた。",
+      "en": "Suddenly, nearby, I could hear someone singing.",
+      "text": "Suddenly, nearby, I could hear someone singing."
+    },
+    {
+      "offset": 2504,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……歌？　こんな所で？」",
+      "en": "\"...Singing? In this place?\"",
+      "text": "\"...Singing? In this place?\""
+    },
+    {
+      "offset": 2537,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "妖精でも歌っているのかなんて、妙な事を考え\nてしまう。",
+      "en": "Sounding like a fairy's song, I thought weirdly.",
+      "text": "Sounding like a fairy's song, I thought weirdly."
+    },
+    {
+      "offset": 2595,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "場所も意外だが、その歌声の綺麗な事。",
+      "en": "While the location might be odd, the singing itself is\nbeautiful.",
+      "text": "While the location might be odd, the singing itself is\nbeautiful."
+    },
+    {
+      "offset": 2636,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "外国の歌らしく、言葉は聞き取れないが、メロ\nディの美しさはすぐに分かる。",
+      "en": "It's a foreign song. While the words are incomprehensible to\nme, I can at least tell that the melody is beautiful.",
+      "text": "It's a foreign song. While the words are incomprehensible to\nme, I can at least tell that the melody is beautiful."
+    },
+    {
+      "offset": 2714,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「誰なんだ？」",
+      "en": "\"Who is it?\"",
+      "text": "\"Who is it?\""
+    },
+    {
+      "offset": 2735,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "すぐ近く──桜の大木の背後へと回り込む。",
+      "en": "I slowly move closer to the sound of the song-- from the\nrear of the huge sakura tree.",
+      "text": "I slowly move closer to the sound of the song-- from the\nrear of the huge sakura tree."
+    },
+    {
+      "offset": 2813,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "桜の花びらが舞い散る中で、少女が髪をなびか\nせながら、歌声を奏でていた。",
+      "en": "Within the dancing sakura petals, a young girl, her hair\nfluttering, was singing her song.",
+      "text": "Within the dancing sakura petals, a young girl, her hair\nfluttering, was singing her song."
+    },
+    {
+      "offset": 2889,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "身体が動かない。",
+      "en": "Her body was completely still.",
+      "text": "Her body was completely still."
+    },
+    {
+      "offset": 2910,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見とれるというのは、こういうことなんだなと\n思いながら、ただただ歌声を感じていた。",
+      "en": "I can't think of anything to say or do, just stare and feel\nthe song.",
+      "text": "I can't think of anything to say or do, just stare and feel\nthe song."
+    },
+    {
+      "offset": 2996,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "………。",
+      "en": ".........",
+      "text": "........."
+    },
+    {
+      "offset": 3009,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 3020,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…。",
+      "en": "...",
+      "text": "..."
+    },
+    {
+      "offset": 3098,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……え？」",
+      "en": "\"...Eh?\"",
+      "text": "\"...Eh?\""
+    },
+    {
+      "offset": 3117,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……あ？」",
+      "en": "\"...Ah?\"",
+      "text": "\"...Ah?\""
+    },
+    {
+      "offset": 3136,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "猿の惑星で人間を発見してしまったように、二\n人、見つめ合う。",
+      "en": "Like humans from the planet of the apes meeting, we stared\nat each other.",
+      "text": "Like humans from the planet of the apes meeting, we stared\nat each other."
+    },
+    {
+      "offset": 3200,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "歌声は途絶えてしまい、今はただ、耳の中に余\n韻として残っているのみ。",
+      "en": "The singing ceased immediately. My ear still felt the\nreveberations of her song.",
+      "text": "The singing ceased immediately. My ear still felt the\nreveberations of her song."
+    },
+    {
+      "offset": 3274,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3323,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3355,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あの……」",
+      "en": "\"Uhm...\"",
+      "text": "\"Uhm...\""
+    },
+    {
+      "offset": 3374,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ん？」",
+      "en": "'Y, yes?\"",
+      "text": "'Y, yes?\""
+    },
+    {
+      "offset": 3419,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「いつから、そこに居ました？」",
+      "en": "\"How long have you been here?\"",
+      "text": "\"How long have you been here?\""
+    },
+    {
+      "offset": 3486,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……私、歌っていると、周りの事が頭に入ら\n　なくなっちゃうんですよね」",
+      "en": "\"...When I sing, I completely forget about everything around\nme.\"",
+      "text": "\"...When I sing, I completely forget about everything around\nme.\""
+    },
+    {
+      "offset": 3564,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "てへへと笑って、頭をこつんと小突いた。",
+      "en": "She giggled slightly, and poked her head.",
+      "text": "She giggled slightly, and poked her head."
+    },
+    {
+      "offset": 3607,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな風にすると、さっきの堂々たる歌いっぷ\nりが、何だか嘘みたいに思えてくる。",
+      "en": "With these conditions, and given the amazing song I just\nheard, I thought of making a joke.",
+      "text": "With these conditions, and given the amazing song I just\nheard, I thought of making a joke."
+    },
+    {
+      "offset": 3691,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「３日くらい前かな」",
+      "en": "\"About 3 days.\"",
+      "text": "\"About 3 days.\""
+    },
+    {
+      "offset": 3748,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……えっ？」",
+      "en": "\"...Ehh?\"",
+      "text": "\"...Ehh?\""
+    },
+    {
+      "offset": 3769,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3818,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……何だ、冗談ですか」",
+      "en": "\"....Oh, it's a joke.\"",
+      "text": "\"....Oh, it's a joke.\""
+    },
+    {
+      "offset": 3879,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「それで、いつからです？」",
+      "en": "\"Really now, how long have you been here?\"",
+      "text": "\"Really now, how long have you been here?\""
+    },
+    {
+      "offset": 3912,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「いつからっていうか、まあ、２、３分だと思\n　うけど」",
+      "en": "\"When, well, around 2-3 minutes ago or so.\"",
+      "text": "\"When, well, around 2-3 minutes ago or so.\""
+    },
+    {
+      "offset": 3972,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と言いつつ、時間の感覚なんてなかったので、\nよく分からない。",
+      "en": "Although I said that, I had completely lost all sense of\ntime while listening to her song.",
+      "text": "Although I said that, I had completely lost all sense of\ntime while listening to her song."
+    },
+    {
+      "offset": 4036,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、１時間ではないと思うが……。",
+      "en": "Well, it's probably no longer than an hour...",
+      "text": "Well, it's probably no longer than an hour..."
+    },
+    {
+      "offset": 4107,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「今の歌、１０分の曲なんですよ」",
+      "en": "\"That song was a 10-minute tune.\"",
+      "text": "\"That song was a 10-minute tune.\""
+    },
+    {
+      "offset": 4146,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「え？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 4191,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「だから、１０分より長いって事はないと思う\n　んです」",
+      "en": "\"So, you couldn't have been here longer than 10 minutes, I\nthink.\"",
+      "text": "\"So, you couldn't have been here longer than 10 minutes, I\nthink.\""
+    },
+    {
+      "offset": 4251,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ああ、なるほどな。そういやさっきも、キリ\n　のいいところで、俺の事に気が付いたみたい\n　だし」",
+      "en": "\"Ahh, I see. You left off at a great time to notice me as\nwell, then.\"",
+      "text": "\"Ahh, I see. You left off at a great time to notice me as\nwell, then.\""
+    },
+    {
+      "offset": 4382,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「はい」",
+      "en": "\"Yep!\"",
+      "text": "\"Yep!\""
+    },
+    {
+      "offset": 4397,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "にっこりと笑う。思わず、頭をぐしゃぐしゃと\nやりたくなるくらい、人なつこい笑顔。",
+      "en": "She laughed with a sweet smile, a smile filled with\ntenderness. Just then, a sakura petal floated into her face.",
+      "text": "She laughed with a sweet smile, a smile filled with\ntenderness. Just then, a sakura petal floated into her face."
+    },
+    {
+      "offset": 4481,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぐしゃぐしゃ。",
+      "en": "*gushagusha*",
+      "text": "*gushagusha*"
+    },
+    {
+      "offset": 4532,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……って、わわわ。な、何ですか？　急に」",
+      "en": "\"whawhawha, what was that? It happened so fast...\"",
+      "text": "\"whawhawha, what was that? It happened so fast...\""
+    },
+    {
+      "offset": 4581,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「こんなところで歌ってるから、桜の花びらが\n　ついてるんだよ」",
+      "en": "\"The sakura petals must be delighted that you were singing\nhere, and were showing their appreciation.\"",
+      "text": "\"The sakura petals must be delighted that you were singing\nhere, and were showing their appreciation.\""
+    },
+    {
+      "offset": 4649,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言いつつ、位置のずれた帽子を元に戻した。",
+      "en": "While saying that, I grabbed her hat, which slipped off her\nhead, and returned it to it's original position.",
+      "text": "While saying that, I grabbed her hat, which slipped off her\nhead, and returned it to it's original position."
+    },
+    {
+      "offset": 4696,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「良し、もう大丈夫」",
+      "en": "\"There we go, good as ever.\"",
+      "text": "\"There we go, good as ever.\""
+    },
+    {
+      "offset": 4753,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ありがとうございます。こういうのって、自\n　分じゃ気づけないですからね」",
+      "en": "\"Thank you. I only just noticed that.\"",
+      "text": "\"Thank you. I only just noticed that.\""
+    },
+    {
+      "offset": 4833,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ああ」",
+      "en": "\"No problem.\"",
+      "text": "\"No problem.\""
+    },
+    {
+      "offset": 4848,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "というか、元から花びらなんてついてないから、\n絶対気づけないと思うけどな。",
+      "en": "It's not exactly easy to predict the falling patterns of a\nfalling sakura petal anyway...",
+      "text": "It's not exactly easy to predict the falling patterns of a\nfalling sakura petal anyway..."
+    },
+    {
+      "offset": 4926,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "単にぐしゃぐしゃっとやりたくなっただけだし。",
+      "en": "It'd be simpler to think that it just wanted to fall there.",
+      "text": "It'd be simpler to think that it just wanted to fall there."
+    },
+    {
+      "offset": 5007,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「え？　それってセクハラですか？！」",
+      "en": "\"Ehh?! Isn't that sexual harassment?!\"",
+      "text": "\"Ehh?! Isn't that sexual harassment?!\""
+    },
+    {
+      "offset": 5067,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……は？」",
+      "en": "\"...Wha?\"",
+      "text": "\"...Wha?\""
+    },
+    {
+      "offset": 5116,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、いえ。こっちの話です」",
+      "en": "\"Ah, never mind. What were we saying?\"",
+      "text": "\"Ah, never mind. What were we saying?\""
+    },
+    {
+      "offset": 5151,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "う〜ん、何なんだろうか、この会話の間は。",
+      "en": "Oy, what's with these weird conversation bits?",
+      "text": "Oy, what's with these weird conversation bits?"
+    },
+    {
+      "offset": 5213,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "野球のつもりが、テニスボールをミットに収め\nてしまったような、そんな感じ。",
+      "en": "It's like trying to catch a tennis ball with a baseball\nglove; that's how I felt trying to catch what she was saying\nat times.",
+      "text": "It's like trying to catch a tennis ball with a baseball\nglove; that's how I felt trying to catch what she was saying\nat times."
+    },
+    {
+      "offset": 5293,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ていうか、俺の事、覚えてる？」",
+      "en": "\"Anyway, any chance that you remember me?\"",
+      "text": "\"Anyway, any chance that you remember me?\""
+    },
+    {
+      "offset": 5332,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さすがに、初対面の人間に、あんな事はしない。",
+      "en": "But for a first meeting for her, it couldn't really happen.",
+      "text": "But for a first meeting for her, it couldn't really happen."
+    },
+    {
+      "offset": 5413,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「え……？」",
+      "en": "\"Ehh...?\"",
+      "text": "\"Ehh...?\""
+    },
+    {
+      "offset": 5432,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その驚きに、微妙に悲しくなる。人から忘れら\nれるってのは切ないものだ。",
+      "en": "The surprise on her face made me feel slightly disappointed.\nAm I such an easily forgettable person?",
+      "text": "The surprise on her face made me feel slightly disappointed.\nAm I such an easily forgettable person?"
+    },
+    {
+      "offset": 5506,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は目の前の人物と初めてまともに会話した時\nのことを思い出した。",
+      "en": "I start to remember the first conversation I had with the\nperson in front of me.",
+      "text": "I start to remember the first conversation I had with the\nperson in front of me."
+    },
+    {
+      "offset": 5574,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……って、あれがまともかどうかは微妙なとこ\nだけど。",
+      "en": "...And I suppose there was nothing \"slightly\" about it.",
+      "text": "...And I suppose there was nothing \"slightly\" about it."
+    },
+    {
+      "offset": 5738,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆ことりとの再会◆",
+      "en": "◆Reunion with Kotori◆",
+      "text": "◆Reunion with Kotori◆"
+    },
+    {
+      "offset": 5788,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何となく行った桜公園。",
+      "en": "I ended up in the Sakura Park.",
+      "text": "I ended up in the Sakura Park."
+    },
+    {
+      "offset": 5853,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そこで、ことりに出会った。ことりは歌を歌っ\nていた。",
+      "en": "I met up with Kotori there. She was singing a song.",
+      "text": "I met up with Kotori there. She was singing a song."
+    },
+    {
+      "offset": 5909,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だけど、俺のことを思い出せないことりに、俺\nはショックを受ける。",
+      "en": "However, I got a shock when she couldn't remember me.",
+      "text": "However, I got a shock when she couldn't remember me."
+    },
+    {
+      "offset": 5977,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……なんで忘れてるかなぁ。",
+      "en": "...How could you have forgotten!",
+      "text": "...How could you have forgotten!"
+    }
+  ],
+  "choices": [],
+  "names": {
+    "3088": "Kotori",
+    "3313": "Kotori",
+    "3345": "Kotori",
+    "3409": "Kotori",
+    "3476": "Kotori",
+    "3738": "Kotori",
+    "3808": "Kotori",
+    "3869": "Kotori",
+    "4097": "Kotori",
+    "4181": "Kotori",
+    "4372": "Kotori",
+    "4522": "Kotori",
+    "4743": "Kotori",
+    "4997": "Kotori",
+    "5106": "Kotori",
+    "5403": "Kotori"
+  }
+}

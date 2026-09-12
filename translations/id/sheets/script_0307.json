@@ -1,0 +1,394 @@
+{
+  "scene": "script_0307.obj",
+  "dialogues": [
+    {
+      "offset": 155,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふぅ……」",
+      "en": "\"Phew......\"",
+      "text": "\"Phew......\""
+    },
+    {
+      "offset": 174,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "心の中でアクセルから足をはなす。",
+      "en": "I slowed down a little.",
+      "text": "I slowed down a little."
+    },
+    {
+      "offset": 211,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "背後に吸い込まれるようにして流れていた背景\nが、ゆっくりとした流れのものに変わる。",
+      "en": "The passing surroundings slowed down too.",
+      "text": "The passing surroundings slowed down too."
+    },
+    {
+      "offset": 297,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "加速と減速をスムーズに繰り返し、コーナーを\n無駄なく曲がって、ようやく校門が目視できる\n所まで来たのだ。",
+      "en": "I adjusted my speed up and down to make smooth turns round\nthe corners, and I finally got close enough to see the\nschool gate.",
+      "text": "I adjusted my speed up and down to make smooth turns round\nthe corners, and I finally got close enough to see the\nschool gate."
+    },
+    {
+      "offset": 406,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんとかなりそうだな」",
+      "en": "\"I think I can make it in time.\"",
+      "text": "\"I think I can make it in time.\""
+    },
+    {
+      "offset": 437,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日も最後尾からの逆転劇。",
+      "en": "I passed so many students on the way again today.",
+      "text": "I passed so many students on the way again today."
+    },
+    {
+      "offset": 470,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「超音速の騎士と呼んでくれ」",
+      "en": "\"Call me the knight of speed.\"",
+      "text": "\"Call me the knight of speed.\""
+    },
+    {
+      "offset": 505,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "人のいない桜並木を歩く。",
+      "en": "I walked down the street with the cherry blossom trees.",
+      "text": "I walked down the street with the cherry blossom trees."
+    },
+    {
+      "offset": 547,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「朝倉〜っ」",
+      "en": "\"Asakura!\"",
+      "text": "\"Asakura!\""
+    },
+    {
+      "offset": 566,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「お？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 581,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "背後から、眞子の声と駆け足が聞こえる。",
+      "en": "I heard Mako's voice and her footsteps from behind me.",
+      "text": "I heard Mako's voice and her footsteps from behind me."
+    },
+    {
+      "offset": 664,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あんた……速いわね」",
+      "en": "\"You're......fast.\"",
+      "text": "\"You're......fast.\""
+    },
+    {
+      "offset": 693,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "振り返ると、へばった顔の眞子がひざに手をつ\nいて俺を見上げていた。",
+      "en": "I turned around to see an exhausted Mako bending over and\nholding onto her knees.",
+      "text": "I turned around to see an exhausted Mako bending over and\nholding onto her knees."
+    },
+    {
+      "offset": 793,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「途中で見かけたのに……ぜんぜん追いつけな\n　いんだもん」",
+      "en": "\"I saw you a way back...... but I couldn't catch up to you.\"",
+      "text": "\"I saw you a way back...... but I couldn't catch up to you.\""
+    },
+    {
+      "offset": 857,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ようやく膝から手を離し、背を伸ばす。",
+      "en": "She let go of her knees and straightened her back.",
+      "text": "She let go of her knees and straightened her back."
+    },
+    {
+      "offset": 900,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ところで萌先輩は？」",
+      "en": "\"Where's Moe-sempai?\"",
+      "text": "\"Where's Moe-sempai?\""
+    },
+    {
+      "offset": 929,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子の後ろの道には、萌先輩の姿はなかった。",
+      "en": "There was no sign of Moe-sempai behind her.",
+      "text": "There was no sign of Moe-sempai behind her."
+    },
+    {
+      "offset": 976,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺につられて加速した眞子に、置いてきぼりで\nも食らったか。",
+      "en": "Did she leave Moe-sempai behind in order to catch up to me?",
+      "text": "Did she leave Moe-sempai behind in order to catch up to me?"
+    },
+    {
+      "offset": 1068,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「準備に手間取ってたんで先に出てきた」",
+      "en": "\"I left her at home as she was slow getting ready.\"",
+      "text": "\"I left her at home as she was slow getting ready.\""
+    },
+    {
+      "offset": 1113,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「おいおい」",
+      "en": "\"Heeeey.\"",
+      "text": "\"Heeeey.\""
+    },
+    {
+      "offset": 1160,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「しょうがないでしょう。ほんとに遅いんだか\n　ら」",
+      "en": "\"I can't help it. She's really slow.\"",
+      "text": "\"I can't help it. She's really slow.\""
+    },
+    {
+      "offset": 1216,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「いいじゃないか、待ってあげても。遅刻の１\n　回や２回、どうってことないって。俺が保証\n　する」",
+      "en": "\"You can wait for her. It's not a big deal to be late once\nor twice. I guarantee you.\"",
+      "text": "\"You can wait for her. It's not a big deal to be late once\nor twice. I guarantee you.\""
+    },
+    {
+      "offset": 1345,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「言葉の重みが違うわね」",
+      "en": "\"That doesn't sound so convincing.\"",
+      "text": "\"That doesn't sound so convincing.\""
+    },
+    {
+      "offset": 1376,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「まぁな」",
+      "en": "\"Oh well.\"",
+      "text": "\"Oh well.\""
+    },
+    {
+      "offset": 1421,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「でもクラス委員長が遅刻するわけにもいかな\n　いでしょう？」",
+      "en": "\"The prefect can't be late.\"",
+      "text": "\"The prefect can't be late.\""
+    },
+    {
+      "offset": 1487,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「俺は気にしないけど」",
+      "en": "\"I wouldn't mind.\"",
+      "text": "\"I wouldn't mind.\""
+    },
+    {
+      "offset": 1544,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あんたの意見は全てにおいて除外」",
+      "en": "\"Your opinion doesn't count.\"",
+      "text": "\"Your opinion doesn't count.\""
+    },
+    {
+      "offset": 1585,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1632,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「それにあたしは３ヵ年皆勤賞がかかってんの\n　よ」",
+      "en": "\"I'm also up for the award for three years of perfect\nattendance.\"",
+      "text": "\"I'm also up for the award for three years of perfect\nattendance.\""
+    },
+    {
+      "offset": 1688,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「へぇ」",
+      "en": "\"Oh yeah?\"",
+      "text": "\"Oh yeah?\""
+    },
+    {
+      "offset": 1703,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いるんだな、そういうやつ。",
+      "en": "There's actually someone like her.",
+      "text": "There's actually someone like her."
+    },
+    {
+      "offset": 1736,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なるほど。馬鹿は風邪ひか……」",
+      "en": "\"I see. I heard a proverb before that 'only an idiot doesn't\ncatch a cold'......\"",
+      "text": "\"I see. I heard a proverb before that 'only an idiot doesn't\ncatch a cold'......\""
+    },
+    {
+      "offset": 1799,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ゴスッ――",
+      "en": "Smack-----",
+      "text": "Smack-----"
+    },
+    {
+      "offset": 1816,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ぐほっ……」",
+      "en": "\"Arrgg......\"",
+      "text": "\"Arrgg......\""
+    },
+    {
+      "offset": 1877,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "バタッ――",
+      "en": "Thump.",
+      "text": "Thump."
+    },
+    {
+      "offset": 1897,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": "............",
+      "text": "............"
+    },
+    {
+      "offset": 1925,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あ、急がないと」",
+      "en": "\"Oh, I better hurry.\"",
+      "text": "\"Oh, I better hurry.\""
+    },
+    {
+      "offset": 1950,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子の駆け足が遠ざかる。",
+      "en": "Mako's footsteps were getting further away.",
+      "text": "Mako's footsteps were getting further away."
+    },
+    {
+      "offset": 1979,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ま、待て眞子……。",
+      "en": "Wait, Mako......",
+      "text": "Wait, Mako......"
+    },
+    {
+      "offset": 2002,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "地面に手をつこうとするが、身体が言うことを\nきかない。",
+      "en": "I tried to get up, but my body didn't respond.",
+      "text": "I tried to get up, but my body didn't respond."
+    },
+    {
+      "offset": 2060,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 2075,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（ち、遅刻！？）",
+      "en": "(Am I going to be late!?)",
+      "text": "(Am I going to be late!?)"
+    },
+    {
+      "offset": 2098,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 2111,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぐふっ……。",
+      "en": "Arrgg.......",
+      "text": "Arrgg......."
+    },
+    {
+      "offset": 2250,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆３ヵ年皆勤賞◆",
+      "en": "◆The award of perfect attendance◆",
+      "text": "◆The award of perfect attendance◆"
+    },
+    {
+      "offset": 2303,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "学園へ向かっていると、後ろから眞子がやって\n来た。",
+      "en": "Mako caught up to me on the way to school.",
+      "text": "Mako caught up to me on the way to school."
+    },
+    {
+      "offset": 2357,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子は何でも、３ヵ年皆勤賞を狙っているらし\nい。やれやれ、優等生ですな。",
+      "en": "She said she's up for the award for three years of perfect\nattendance. She's such a prefect student.",
+      "text": "She said she's up for the award for three years of perfect\nattendance. She's such a prefect student."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "539": "Mako",
+    "656": "Mako",
+    "785": "Mako",
+    "1060": "Mako",
+    "1152": "Mako",
+    "1337": "Mako",
+    "1413": "Mako",
+    "1536": "Mako",
+    "1624": "Mako",
+    "1917": "Mako"
+  }
+}

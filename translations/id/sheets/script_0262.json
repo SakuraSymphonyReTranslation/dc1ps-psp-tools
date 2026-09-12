@@ -1,0 +1,141 @@
+{
+  "scene": "script_0262.obj",
+  "dialogues": [
+    {
+      "offset": 140,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ほら朝倉、起きろ」",
+      "en": "\"I won't dismiss the class if you don't wake up.\"",
+      "text": "\"I won't dismiss the class if you don't wake up.\""
+    },
+    {
+      "offset": 167,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暦先生――？",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 272,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 296,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「いい加減にしろ！」",
+      "en": "\"Wake up, already!\"",
+      "text": "\"Wake up, already!\""
+    },
+    {
+      "offset": 334,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "バコッ――！",
+      "en": "Smack---!",
+      "text": "Smack---!"
+    },
+    {
+      "offset": 353,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ぐっ……」",
+      "en": "\"Arrgg......\"",
+      "text": "\"Arrgg......\""
+    },
+    {
+      "offset": 427,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「やっと起きたか……」",
+      "en": "\"Finally......\"",
+      "text": "\"Finally......\""
+    },
+    {
+      "offset": 456,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "出席簿をもった暦先生が、俺を見下ろしている。",
+      "en": "The teacher was looking down on me with her attendance book\nin her hand.",
+      "text": "The teacher was looking down on me with her attendance book\nin her hand."
+    },
+    {
+      "offset": 507,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あれ……暦先生、何してんの？」",
+      "en": "\"What...... what are you doing?\"",
+      "text": "\"What...... what are you doing?\""
+    },
+    {
+      "offset": 555,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「授業だ。もう終わったけどな」",
+      "en": "\"I was teaching the class. It's over now though.\"",
+      "text": "\"I was teaching the class. It's over now though.\""
+    },
+    {
+      "offset": 592,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "出席簿片手に、暦先生が教壇に戻っていく。",
+      "en": "Koyomi-sensei went back to the front with her attendance\nbook in her hand.",
+      "text": "Koyomi-sensei went back to the front with her attendance\nbook in her hand."
+    },
+    {
+      "offset": 648,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「じゃあ週番、号令」",
+      "en": "\"The prefect, please.\"",
+      "text": "\"The prefect, please.\""
+    },
+    {
+      "offset": 675,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "週番の号令を聞きながら、俺は｛あくび／欠伸｝をかみ殺し\nた……。",
+      "en": "I tried not to yawn......",
+      "text": "I tried not to yawn......"
+    },
+    {
+      "offset": 743,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつの間にか、２時限目の授業――終わってた\nんだな……。",
+      "en": "The second class of the day...... was already over......",
+      "text": "The second class of the day...... was already over......"
+    },
+    {
+      "offset": 914,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆痛いよ暦先生◆",
+      "en": "◆Koyomi◆",
+      "text": "◆Koyomi◆"
+    },
+    {
+      "offset": 959,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が爆睡していたせいで、授業が終れないでい\nたらしい。暦先生の出席簿の一撃で目を覚ます\nと、授業が終った。",
+      "en": "Koyomi-sensei...?",
+      "text": "Koyomi-sensei...?"
+    }
+  ],
+  "choices": [],
+  "names": {
+    "134": "Koyomi",
+    "290": "Koyomi",
+    "421": "Koyomi",
+    "549": "Koyomi",
+    "642": "Koyomi"
+  }
+}

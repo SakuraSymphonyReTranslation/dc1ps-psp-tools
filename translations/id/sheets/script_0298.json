@@ -1,0 +1,722 @@
+{
+  "scene": "script_0298.obj",
+  "dialogues": [
+    {
+      "offset": 161,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "真っ直ぐ家に帰るのもなんなので、学園から公\n園に足を向けてみる。",
+      "en": "Instead of going straight home, I walk to the park.",
+      "text": "Instead of going straight home, I walk to the park."
+    },
+    {
+      "offset": 229,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりがいるかな、と桜の林に入ったりもした\nけれど、今日は用事があったみたいだ。",
+      "en": "I look for Kotori among the cherry blossom trees, but she\nisn't there. She must be busy today.",
+      "text": "I look for Kotori among the cherry blossom trees, but she\nisn't there. She must be busy today."
+    },
+    {
+      "offset": 315,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……さて、どうしよっかな」",
+      "en": "\"Well, what am I gonna do now?\"",
+      "text": "\"Well, what am I gonna do now?\""
+    },
+    {
+      "offset": 350,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただの散歩になったとしても、そう悪くない陽\n気と雰囲気なのだが、家に遠回りになったぶん\nの手間をどうにかしたい。",
+      "en": "It's turned out to be a boring walk, but the weather's\nlovely, so I want to make this detour meaningful.",
+      "text": "It's turned out to be a boring walk, but the weather's\nlovely, so I want to make this detour meaningful."
+    },
+    {
+      "offset": 467,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「音夢にお土産でも買ってってやるか」",
+      "en": "\"I'll buy Nemu a souvenir.\"",
+      "text": "\"I'll buy Nemu a souvenir.\""
+    },
+    {
+      "offset": 510,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "公園の中にいつも開いている屋台を遠くに見て、\n財布の中身を確認する。",
+      "en": "I check inside my wallet, looking at the vendor the other\nside of the park.",
+      "text": "I check inside my wallet, looking at the vendor the other\nside of the park."
+    },
+    {
+      "offset": 582,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "う〜ん、小銭で重い……。",
+      "en": "Hmm... It's heavy with lots of coins.",
+      "text": "Hmm... It's heavy with lots of coins."
+    },
+    {
+      "offset": 611,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美味しいチョコバナナの屋台があるとか聞いた\nのだが、いくらかなぁ。",
+      "en": "I heard there's a vendor who sells chocolate-coated bananas,\nbut I wonder how much they are.",
+      "text": "I heard there's a vendor who sells chocolate-coated bananas,\nbut I wonder how much they are."
+    },
+    {
+      "offset": 696,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「海〜、海はいいよぉ、日本海がいいよぉ♪」",
+      "en": "\"The sea... I love the sea, especially Japanese seas.\"",
+      "text": "\"The sea... I love the sea, especially Japanese seas.\""
+    },
+    {
+      "offset": 745,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 764,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……なんだ！？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 789,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "存在が不穏当な発言を耳にして振り返ると、ひょ\nこひょこ、と金髪とその頭の上の猫が揺れてい\nた。",
+      "en": "Hearing a strange remark, I turn around. Then I see blonde\nhair, with a cat wobbling around on top of it.",
+      "text": "Hearing a strange remark, I turn around. Then I see blonde\nhair, with a cat wobbling around on top of it."
+    },
+    {
+      "offset": 939,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あ、お兄ちゃん発見」",
+      "en": "\"Hey, I found you, oniichan.\"",
+      "text": "\"Hey, I found you, oniichan.\""
+    },
+    {
+      "offset": 983,
+      "speaker": "Utamaru",
+      "speaker_jp": "うたまる",
+      "jp": "「にゃ？」",
+      "en": "\"Meow?\"",
+      "text": "\"Meow?\""
+    },
+    {
+      "offset": 1000,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらが足と手を伸ばしたまま、コマみたいに\n振り向いたので、頭の上の猫がふらふらと揺れ\nる。",
+      "en": "Sakura straightens her arms and legs and spins around like a\ntop, making the cat on her head wobble.",
+      "text": "Sakura straightens her arms and legs and spins around like a\ntop, making the cat on her head wobble."
+    },
+    {
+      "offset": 1127,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「珍しいところで会うね……運命？」",
+      "en": "\"What a coincidence to see you here! Could it be destiny?\"",
+      "text": "\"What a coincidence to see you here! Could it be destiny?\""
+    },
+    {
+      "offset": 1168,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ベートーベンなんてどうでもいいけど、確か\n　に珍しいところで会うな」",
+      "en": "\"I don't care about Beethoven's piano works, but it's a real\nsurprise to see you here.\"",
+      "text": "\"I don't care about Beethoven's piano works, but it's a real\nsurprise to see you here.\""
+    },
+    {
+      "offset": 1244,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "猫のバランスを支えてやりながら頷く。",
+      "en": "She nods, holding the cat so that it doesn't fall off.",
+      "text": "She nods, holding the cat so that it doesn't fall off."
+    },
+    {
+      "offset": 1285,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "日曜とかだと誰に会っても不思議ではないが、\n学園の帰りとなると珍しい。",
+      "en": "It's possible to run into somebody you know on Sunday, but\nit doesn't happen so often after school.",
+      "text": "It's possible to run into somebody you know on Sunday, but\nit doesn't happen so often after school."
+    },
+    {
+      "offset": 1359,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まぁ、島の東側に住んでるヤツは、ここにいれ\nば結構見かけるものだが。",
+      "en": "Well, you see them often if you live in the east side of the\nisland.",
+      "text": "Well, you see them often if you live in the east side of the\nisland."
+    },
+    {
+      "offset": 1446,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あ、お兄ちゃん暇？」",
+      "en": "\"Oh, do you have some time now?\"",
+      "text": "\"Oh, do you have some time now?\""
+    },
+    {
+      "offset": 1475,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「暇だぞ……生きてるだけで精一杯って感じだ\n　けどな」",
+      "en": "\"Yes, I do. Actually, I'm busy just being alive.\"",
+      "text": "\"Yes, I do. Actually, I'm busy just being alive.\""
+    },
+    {
+      "offset": 1565,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あのねあのね、友達に見晴らしのいいところ\n　があるって聞いたんだけど一緒に行く？」",
+      "en": "\"Listen, a friend of mine told me there's a scenic lookout\naround here. Do you want to go there with me?\"",
+      "text": "\"Listen, a friend of mine told me there's a scenic lookout\naround here. Do you want to go there with me?\""
+    },
+    {
+      "offset": 1655,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頭のてっぺんから大きく横に手を広げて、すご\nいんだよぉ、とさくらが笑う。",
+      "en": "Sakura smiles, spreading her arms wide as she tells me how\nbeautiful it is.",
+      "text": "Sakura smiles, spreading her arms wide as she tells me how\nbeautiful it is."
+    },
+    {
+      "offset": 1733,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「海か？」",
+      "en": "\"By the sea?\"",
+      "text": "\"By the sea?\""
+    },
+    {
+      "offset": 1780,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そうだよ。よく知ってるね」",
+      "en": "\"Yes. How did you know?\"",
+      "text": "\"Yes. How did you know?\""
+    },
+    {
+      "offset": 1815,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そりゃ、あんだけ歌ってればな……。",
+      "en": "Anyone could guess if you sing about it so many times...",
+      "text": "Anyone could guess if you sing about it so many times..."
+    },
+    {
+      "offset": 1869,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ね、行こーよ！」",
+      "en": "\"Let's go!\"",
+      "text": "\"Let's go!\""
+    },
+    {
+      "offset": 1894,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「別にいいけど」",
+      "en": "\"I don't mind.\"",
+      "text": "\"I don't mind.\""
+    },
+    {
+      "offset": 1947,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「にゃはは。ダメだよ、そんな｛あいまい／曖昧｝なこと言っ\n　てると人生楽しめないよ。ラッキー・ゴー・\n　ハッピーだよ♪」",
+      "en": "\"Hahaha. C'mon, you can't be so ambiguous, otherwise you\nwon't have much fun in your life. Be happy-go-lucky!\"",
+      "text": "\"Hahaha. C'mon, you can't be so ambiguous, otherwise you\nwon't have much fun in your life. Be happy-go-lucky!\""
+    },
+    {
+      "offset": 2102,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「笑うカドには福来る」",
+      "en": "\"They say fortune comes in at the merry gate.\"",
+      "text": "\"They say fortune comes in at the merry gate.\""
+    },
+    {
+      "offset": 2131,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「お前が近くにいれば十分だろ」",
+      "en": "\"You would bring me enough luck, I guess.\"",
+      "text": "\"You would bring me enough luck, I guess.\""
+    },
+    {
+      "offset": 2198,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゃ？」",
+      "en": "\"Hmm?\"",
+      "text": "\"Hmm?\""
+    },
+    {
+      "offset": 2217,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見上げてくるさくらに小さく笑いかける。",
+      "en": "I give a little smile at Sakura, who is glancing up at me.",
+      "text": "I give a little smile at Sakura, who is glancing up at me."
+    },
+    {
+      "offset": 2262,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いつも俺の側に来ちゃ笑ってるんだから」",
+      "en": "\"Every time you appear, you make me smile.\"",
+      "text": "\"Every time you appear, you make me smile.\""
+    },
+    {
+      "offset": 2322,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2371,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「えへへへへ♪」",
+      "en": "\"Teeheehee!\"",
+      "text": "\"Teeheehee!\""
+    },
+    {
+      "offset": 2394,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当に、見た目だけなら天使が寄って来そうな\n幸せそうな、だらしない顔だな。",
+      "en": "She looks so happy. She's smiling so much it could attract\nangels.",
+      "text": "She looks so happy. She's smiling so much it could attract\nangels."
+    },
+    {
+      "offset": 2472,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぎゅっ、と上着の｛すそ／裾｝をつかんで、ねー、と笑う。",
+      "en": "Sakura laughs, pulling my sleeve.",
+      "text": "Sakura laughs, pulling my sleeve."
+    },
+    {
+      "offset": 2563,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そういえば、笑うカドの“カド”ってなにか\n　な？」",
+      "en": "\"By the way, what does that saying mean by 'the merry\ngate'?\"",
+      "text": "\"By the way, what does that saying mean by 'the merry\ngate'?\""
+    },
+    {
+      "offset": 2621,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "曲がり角のことかな？　なんて、さくらが恐ろ\nしい呟きを残す。",
+      "en": "She's seriously wondering if it means a house gate.",
+      "text": "She's seriously wondering if it means a house gate."
+    },
+    {
+      "offset": 2687,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……いつも朗らかなやつは、転校生と曲がり\n　角でぶつかるってことじゃないか」",
+      "en": "\"I think it means that happy people bash into new students\nat the gate.\"",
+      "text": "\"I think it means that happy people bash into new students\nat the gate.\""
+    },
+    {
+      "offset": 2812,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゃ……奥が深い……」",
+      "en": "\"Hmm... You're so intelligent.\"",
+      "text": "\"Hmm... You're so intelligent.\""
+    },
+    {
+      "offset": 2845,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「お前も転校生ならそれくらいしないとな」",
+      "en": "\"If you're a new student, you should experience it.\"",
+      "text": "\"If you're a new student, you should experience it.\""
+    },
+    {
+      "offset": 2922,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「次から気をつけるよ」",
+      "en": "\"I'll try next time.\"",
+      "text": "\"I'll try next time.\""
+    },
+    {
+      "offset": 2951,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "冗談に真面目に答えるさくらから空に視線を移\nして、そういえば高台に行くには階段を上る必\n要があったことを思い出す。",
+      "en": "I lift my eyes from Sakura, failing to get the joke, up to\nthe sky, and remember we have to use the steps to go up the\nhill.",
+      "text": "I lift my eyes from Sakura, failing to get the joke, up to\nthe sky, and remember we have to use the steps to go up the\nhill."
+    },
+    {
+      "offset": 3068,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あぁ――。",
+      "en": "Oh...",
+      "text": "Oh..."
+    },
+    {
+      "offset": 3199,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うみ〜！！」",
+      "en": "\"The sea!!\"",
+      "text": "\"The sea!!\""
+    },
+    {
+      "offset": 3220,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……はぁはぁ」",
+      "en": "\"Huff, puff.\"",
+      "text": "\"Huff, puff.\""
+    },
+    {
+      "offset": 3256,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「う〜み〜！！」",
+      "en": "\"THE SEA!!\"",
+      "text": "\"THE SEA!!\""
+    },
+    {
+      "offset": 3279,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「はぁ……やっと着いたか」",
+      "en": "\"Oh, God... this is a pain.\"",
+      "text": "\"Oh, God... this is a pain.\""
+    },
+    {
+      "offset": 3312,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ベンチでため息をつきながら、海に向かって意\n味もなく叫ぶさくらを見つめる。",
+      "en": "I finally catch my breath enough to speak.",
+      "text": "I finally catch my breath enough to speak."
+    },
+    {
+      "offset": 3405,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「広い、大きい、青い〜！！」",
+      "en": "Taking a breather on the bench, I watch Sakura chattering at\nthe ocean.",
+      "text": "Taking a breather on the bench, I watch Sakura chattering at\nthe ocean."
+    },
+    {
+      "offset": 3440,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……うるさいぞ」",
+      "en": "\"So big, large and blue!\"",
+      "text": "\"So big, large and blue!\""
+    },
+    {
+      "offset": 3465,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "子供を叱り付ける親父ほどの元気はない。",
+      "en": "\"Be quiet...\"",
+      "text": "\"Be quiet...\""
+    },
+    {
+      "offset": 3523,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うわ、うわぁ、日本の海だよ！　飛行機から\n　見てもいまいち実感なかったけど、海の匂い\n　がするよ！」",
+      "en": "I don't have the energy to scold the child like a father.",
+      "text": "I don't have the energy to scold the child like a father."
+    },
+    {
+      "offset": 3630,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……そうか」",
+      "en": "\"Wow, wow, this is the Japanese sea! When I saw it from the\nairplane, I couldn't really feel what it was like, but now I\ncan smell it for real!\"",
+      "text": "\"Wow, wow, this is the Japanese sea! When I saw it from the\nairplane, I couldn't really feel what it was like, but now I\ncan smell it for real!\""
+    },
+    {
+      "offset": 3651,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なにがそんなに嬉しいのか。",
+      "en": "\"I see...\"",
+      "text": "\"I see...\""
+    },
+    {
+      "offset": 3714,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……海だ」",
+      "en": "I don't know why she is so happy.",
+      "text": "I don't know why she is so happy."
+    },
+    {
+      "offset": 3733,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"...It's the sea.\"",
+      "text": "\"...It's the sea.\""
+    },
+    {
+      "offset": 3752,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらが静かに海を見つめる。",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3785,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなさくらを、俺は静かに見つめる。",
+      "en": "Sakura looks at the ocean quietly.",
+      "text": "Sakura looks at the ocean quietly."
+    },
+    {
+      "offset": 3826,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "And I look at Sakura quietly.",
+      "text": "And I look at Sakura quietly."
+    },
+    {
+      "offset": 3839,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あぁ、そうか。",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 3858,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しばらく頬杖をついてぼう、としていると、ふ\nと思いついた。",
+      "en": "Oh, I see.",
+      "text": "Oh, I see."
+    },
+    {
+      "offset": 3920,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらのやつ、ここの景色が懐かしいんだ。",
+      "en": "As I daydream with my chin in my hand, I remember something.",
+      "text": "As I daydream with my chin in my hand, I remember something."
+    },
+    {
+      "offset": 3997,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ねぇ、お兄ちゃん、この海の向こうにはなに\n　があるんだろう？」",
+      "en": "\"Hey, oniichan, do you know what's beyond this ocean?\"",
+      "text": "\"Hey, oniichan, do you know what's beyond this ocean?\""
+    },
+    {
+      "offset": 4067,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どこか方角も分からない方向に手を向けて、さ\nくらが目を輝かせる。",
+      "en": "Sakura's eyes sparkle as she points her hand towards the\nunknown.",
+      "text": "Sakura's eyes sparkle as she points her hand towards the\nunknown."
+    },
+    {
+      "offset": 4137,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さぁ……ずっと海があって、どこかの陸地に\n　｛たど／辿｝り付くんじゃないかな」",
+      "en": "\"Well, I think it goes all the way to another continent.\"",
+      "text": "\"Well, I think it goes all the way to another continent.\""
+    },
+    {
+      "offset": 4253,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……そうかな？」",
+      "en": "\"Do you think so?\"",
+      "text": "\"Do you think so?\""
+    },
+    {
+      "offset": 4278,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ん？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 4306,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ボクはまだ、どんなに科学が発達しても、み\n　んなの知らないことがあると思うよ」",
+      "en": "\"I think there'll always be things that nobody can find out,\neven if science marches on.\"",
+      "text": "\"I think there'll always be things that nobody can find out,\neven if science marches on.\""
+    },
+    {
+      "offset": 4392,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「船乗りにでもなって探すか？」",
+      "en": "\"Do you want to become a sailor and find out?\"",
+      "text": "\"Do you want to become a sailor and find out?\""
+    },
+    {
+      "offset": 4442,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「お兄ちゃんと一緒なら、ボクは喜んでいく\n　よ♪」",
+      "en": "\"I'd love to, if you'll come with me.\"",
+      "text": "\"I'd love to, if you'll come with me.\""
+    },
+    {
+      "offset": 4498,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……そうか」",
+      "en": "\"Really...\"",
+      "text": "\"Really...\""
+    },
+    {
+      "offset": 4519,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しみじみ、と口元を隠しつつ笑う。",
+      "en": "I smile, covering my mouth with my hand.",
+      "text": "I smile, covering my mouth with my hand."
+    },
+    {
+      "offset": 4556,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらが手を振り上げて大きく笑う。",
+      "en": "Sakura laughs loudly and raises her arms.",
+      "text": "Sakura laughs loudly and raises her arms."
+    },
+    {
+      "offset": 4627,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ボクはフック船長だ！」",
+      "en": "\"I am Captain Hook!\"",
+      "text": "\"I am Captain Hook!\""
+    },
+    {
+      "offset": 4658,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……そりゃ海賊だよ」",
+      "en": "\"He's a pirate, though.\"",
+      "text": "\"He's a pirate, though.\""
+    },
+    {
+      "offset": 4711,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ベンチにそのまま寝そべって目を閉じる。",
+      "en": "I close my eyes, lying on the bench.",
+      "text": "I close my eyes, lying on the bench."
+    },
+    {
+      "offset": 4754,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まぶたを日が焼く。",
+      "en": "I can feel the warmth of the sunlight on my eyelids.",
+      "text": "I can feel the warmth of the sunlight on my eyelids."
+    },
+    {
+      "offset": 4777,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その日は、さくらの夢の航海日誌を日暮れまで\n聞いていた。",
+      "en": "I listened to the tales from Sakura's ship's log until\nevening.",
+      "text": "I listened to the tales from Sakura's ship's log until\nevening."
+    },
+    {
+      "offset": 4966,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆海〜◆",
+      "en": "◆Ocean...◆",
+      "text": "◆Ocean...◆"
+    },
+    {
+      "offset": 5015,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんとなく公園の屋台で買い食いしようと思っ\nていたら、さくらに出会った。",
+      "en": "I ran into Sakura at the park while I was thinking of buying\nsomething to eat from a pushcart vendor.",
+      "text": "I ran into Sakura at the park while I was thinking of buying\nsomething to eat from a pushcart vendor."
+    },
+    {
+      "offset": 5126,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そのままふたりで高台に登ると、さくらは俺と\n一緒だったら、この広い海に冒険に出てもいい\nなんて言い出してしまった。",
+      "en": "We went up a hill together, and Sakura mentioned that she'd\nlike to go off adventuring on the ocean, if I'd go with her.",
+      "text": "We went up a hill together, and Sakura mentioned that she'd\nlike to go off adventuring on the ocean, if I'd go with her."
+    },
+    {
+      "offset": 5243,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その空想の冒険談に耳を澄ましながら、うらら\nかな春の日の午後を満喫した。",
+      "en": "I enjoyed the glorious spring afternoon, listening to her\nstories of adventure in an imaginary world.",
+      "text": "I enjoyed the glorious spring afternoon, listening to her\nstories of adventure in an imaginary world."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "686": "Sakura",
+    "929": "Sakura",
+    "971": "Utamaru",
+    "1117": "Sakura",
+    "1436": "Sakura",
+    "1555": "Sakura",
+    "1770": "Sakura",
+    "1859": "Sakura",
+    "1937": "Sakura",
+    "2092": "Sakura",
+    "2188": "Sakura",
+    "2312": "Sakura",
+    "2361": "Sakura",
+    "2553": "Sakura",
+    "2802": "Sakura",
+    "2912": "Sakura",
+    "3189": "Sakura",
+    "3246": "Sakura",
+    "3395": "Sakura",
+    "3513": "Sakura",
+    "3704": "Sakura",
+    "3987": "Sakura",
+    "4243": "Sakura",
+    "4296": "Sakura",
+    "4432": "Sakura",
+    "4617": "Sakura"
+  }
+}

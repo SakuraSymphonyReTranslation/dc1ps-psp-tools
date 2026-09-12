@@ -1,0 +1,937 @@
+{
+  "scene": "script_0466.obj",
+  "dialogues": [
+    {
+      "offset": 155,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ウエー、やっと終わった〜」",
+      "en": "\"I finished my work, Koyomi-sensei.\"",
+      "text": "\"I finished my work, Koyomi-sensei.\""
+    },
+    {
+      "offset": 190,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暦先生に頼まれた仕事が、ようやくひと段落し\nた。",
+      "en": "I said, while looking at the computer screen.",
+      "text": "I said, while looking at the computer screen."
+    },
+    {
+      "offset": 242,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "結局、雑用というか、なんというか、そういう\n仕事だ。",
+      "en": "\"Sempai, it's me, Miharu.\"",
+      "text": "\"Sempai, it's me, Miharu.\""
+    },
+    {
+      "offset": 391,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんてことを言われたが、はたして本当に役に\n立つのやら……。",
+      "en": "That voice...",
+      "text": "That voice..."
+    },
+    {
+      "offset": 455,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "がらりと入り口のドアが開く。",
+      "en": "\"Miharu, are you okay now?\"",
+      "text": "\"Miharu, are you okay now?\""
+    },
+    {
+      "offset": 490,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「先生、仕事、終わりましたから」",
+      "en": "\"Don't worry about it. I'm just glad you're all right.\"",
+      "text": "\"Don't worry about it. I'm just glad you're all right.\""
+    },
+    {
+      "offset": 529,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうせ、暦先生だろうと、俺はパソコン画面か\nら目を離すことなく、答える。",
+      "en": "I feel relieved to see Miharu looking fine.",
+      "text": "I feel relieved to see Miharu looking fine."
+    },
+    {
+      "offset": 618,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「先輩、美春です〜」",
+      "en": "\"I'm much better now. I also got my spring wound up.\"",
+      "text": "\"I'm much better now. I also got my spring wound up.\""
+    },
+    {
+      "offset": 645,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その声は……。",
+      "en": "Then Miharu raises her fist in the air.",
+      "text": "Then Miharu raises her fist in the air."
+    },
+    {
+      "offset": 666,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「美春、もういいのか？」",
+      "en": "\"Take it easy. Would you like a coffee?\"",
+      "text": "\"Take it easy. Would you like a coffee?\""
+    },
+    {
+      "offset": 735,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「はい。何とか……。充分休みましたし。心配\n　かけてごめんなさい」",
+      "en": "\"Oh, I'll do it.\"",
+      "text": "\"Oh, I'll do it.\""
+    },
+    {
+      "offset": 852,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春の元気な顔を見て、ようやく安心できた気\nがする。",
+      "en": "\"That's okay.\"",
+      "text": "\"That's okay.\""
+    },
+    {
+      "offset": 1016,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春がそう言って、ガッツポーズを取る。",
+      "en": "I sit Miharu on the chair, and get two cups ready.",
+      "text": "I sit Miharu on the chair, and get two cups ready."
+    },
+    {
+      "offset": 1061,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ま、病み上がりなんだから座っとけよ。そう\n　だ、コーヒー飲むか？」",
+      "en": "I pour hot water into the cups.",
+      "text": "I pour hot water into the cups."
+    },
+    {
+      "offset": 1146,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あ、そういうのは、美春がやりますよぉ」",
+      "en": "\"I never thought I'd collapse during class.\"",
+      "text": "\"I never thought I'd collapse during class.\""
+    },
+    {
+      "offset": 1231,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、美春を椅子に座らせて、紙コップをふた\nつ用意する。",
+      "en": "It must've have been one of the blackouts she talked about.\nI think it was a pretty nasty one this time.",
+      "text": "It must've have been one of the blackouts she talked about.\nI think it was a pretty nasty one this time."
+    },
+    {
+      "offset": 1291,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "紙コップに熱い湯が注がれ、コーヒーのかけら\nが、みるみるうちに溶けていく。",
+      "en": "\"Listen, Miharu...\"",
+      "text": "\"Listen, Miharu...\""
+    },
+    {
+      "offset": 1404,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「いやー、失敗失敗。まさか、授業中に倒れる\n　とは思いませんでしたよ」",
+      "en": "\"Yes?\"",
+      "text": "\"Yes?\""
+    },
+    {
+      "offset": 1480,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "たぶん、前に言ってた“記憶が飛ぶ”ってヤツ\nのひどいバージョンに陥ったんだろうな。",
+      "en": "Holding her cup, Miharu looks straight at me.",
+      "text": "Holding her cup, Miharu looks straight at me."
+    },
+    {
+      "offset": 1568,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「それでさ、美春……」",
+      "en": "\"I was thinking... Maybe we should stop looking for your\nmemories.\"",
+      "text": "\"I was thinking... Maybe we should stop looking for your\nmemories.\""
+    },
+    {
+      "offset": 1608,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「なんですか？　先輩」",
+      "en": "\"Why? Sempai, what do you mean?\"",
+      "text": "\"Why? Sempai, what do you mean?\""
+    },
+    {
+      "offset": 1637,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春は、俺の手からコーヒーを受け取りながら、\nその真っ直ぐな目で俺を見る。",
+      "en": "\"I don't want to see you suffer any more, Miharu.\"",
+      "text": "\"I don't want to see you suffer any more, Miharu.\""
+    },
+    {
+      "offset": 1816,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「え、先輩。それ、どういうことです？」",
+      "en": "\"But... Uh...\"",
+      "text": "\"But... Uh...\""
+    },
+    {
+      "offset": 1990,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春が立ち上がり、口を挟もうとする。",
+      "en": "Miharu gets up and tries to interrupt.",
+      "text": "Miharu gets up and tries to interrupt."
+    },
+    {
+      "offset": 2031,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "が、それをやめ、そのまま立ちつくす。",
+      "en": "But she gives up. She keeps standing.",
+      "text": "But she gives up. She keeps standing."
+    },
+    {
+      "offset": 2074,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「暦先生に言われたんだ。…って、前から言わ\n　れてるんだけど」",
+      "en": "\"Koyomi-sensei warned me again.\"",
+      "text": "\"Koyomi-sensei warned me again.\""
+    },
+    {
+      "offset": 2142,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「記憶を思い出したって、それは美春の身体に\n　負担をかけるんだって。確実に命を縮めるか\n　らだって」",
+      "en": "\"She said bringing your memories back is bad for you, and it\nwill kill you.\"",
+      "text": "\"She said bringing your memories back is bad for you, and it\nwill kill you.\""
+    },
+    {
+      "offset": 2247,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺は、ずーっと美春と一緒にいられるものだ\n　と思いこんでた。いつまでも、一緒に楽しく\n　過ごせるはずだと信じていた」",
+      "en": "\"I thought I was going to be able to stay with you\nforever...\"",
+      "text": "\"I thought I was going to be able to stay with you\nforever...\""
+    },
+    {
+      "offset": 2370,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「けど、よく考えたら、そんなことないんだよ\n　な。美春との別れは、そんなに遠くはないん\n　だ……」",
+      "en": "\"But then I found that it's not like that. We might have to\nsay good bye to each other sooner than we think.\"",
+      "text": "\"But then I found that it's not like that. We might have to\nsay good bye to each other sooner than we think.\""
+    },
+    {
+      "offset": 2484,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「先生、そんなこと言ってたんですか？」",
+      "en": "\"Did Koyomi-sensei say that?\"",
+      "text": "\"Did Koyomi-sensei say that?\""
+    },
+    {
+      "offset": 2529,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「そんなことって、美春自身のことだろ？」",
+      "en": "\"Yeah. It's about you, Miharu.\"",
+      "text": "\"Yeah. It's about you, Miharu.\""
+    },
+    {
+      "offset": 2604,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「美春は、自分の寿命が短いことは知っていま\n　すよ。それは目が覚めた時から、わかってた\n　ことですもん」",
+      "en": "\"I know my lifespan is short. I've known it since I woke\nup.\"",
+      "text": "\"I know my lifespan is short. I've known it since I woke\nup.\""
+    },
+    {
+      "offset": 2713,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「そんな軽く言うなよ。人間にたとえると死ん\n　じゃうのと同じだろ？　怖くないのか」",
+      "en": "\"You ought to be more serious about this. We're talking\nabout your death! Aren't you afraid of dying?\"",
+      "text": "\"You ought to be more serious about this. We're talking\nabout your death! Aren't you afraid of dying?\""
+    },
+    {
+      "offset": 2829,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あはは、そうですね。でも、美春は変なとこ\n　ろで機械的に出来てまして。純粋な生命体で\n　はないですから」",
+      "en": "\"Hahaha. Sometimes I think so robotically. After all, I'm\nnot a pure life form.\"",
+      "text": "\"Hahaha. Sometimes I think so robotically. After all, I'm\nnot a pure life form.\""
+    },
+    {
+      "offset": 2940,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「けど、俺は……せっかく美春を好きになって、\n　それで、これからいろんなことをするんだと\n　思ってたのに……」",
+      "en": "\"I finally come to realize my true feelings for you. I was\nthinking of us doing so many things together.\"",
+      "text": "\"I finally come to realize my true feelings for you. I was\nthinking of us doing so many things together.\""
+    },
+    {
+      "offset": 3083,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「それは、美春も同じです……。けど、最初か\n　ら決まっていたことだから」",
+      "en": "\"Me too. But I'm destined to live this way.\"",
+      "text": "\"Me too. But I'm destined to live this way.\""
+    },
+    {
+      "offset": 3161,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「美春と一緒にいろんなとこに遊びに行ったり、\n　いろんなモノ食べたり、ずーっとおしゃべり\n　したり……」",
+      "en": "\"We could go to a lot of places, eat a lot of stuff and talk\nall day long together.\"",
+      "text": "\"We could go to a lot of places, eat a lot of stuff and talk\nall day long together.\""
+    },
+    {
+      "offset": 3281,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「美春もそう強く願ってました」",
+      "en": "\"I think so too.\"",
+      "text": "\"I think so too.\""
+    },
+    {
+      "offset": 3318,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「だったら……」",
+      "en": "\"Then why?\"",
+      "text": "\"Then why?\""
+    },
+    {
+      "offset": 3369,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「だからです。美春は、充実した毎日を送りた\n　いと思ってます。先輩とだけじゃなく、さっ\n　ちんや洋子や……音夢先輩とも」",
+      "en": "\"That's why I want to lead a full life every day with you,\nwith Sacchin, Yoko... and Nemu-sempai.\"",
+      "text": "\"That's why I want to lead a full life every day with you,\nwith Sacchin, Yoko... and Nemu-sempai.\""
+    },
+    {
+      "offset": 3505,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「だからこそ、思い出探しはやめたくないです」",
+      "en": "\"I don't want to stop looking for my memories. I don't care\nabout whether I can live a long life or not. I just want to\nlive for people, not just for myself.\"",
+      "text": "\"I don't want to stop looking for my memories. I don't care\nabout whether I can live a long life or not. I just want to\nlive for people, not just for myself.\""
+    },
+    {
+      "offset": 3556,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「美春……」",
+      "en": "\"Miharu...\"",
+      "text": "\"Miharu...\""
+    },
+    {
+      "offset": 3586,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「美春は自分のために、ほんの少し長生きする\n　ことよりも、たくさんの人達のために生きた\n　いんです」",
+      "en": "\"I know I'm being selfish, considering all the troubles I've\ncaused you guys.\"",
+      "text": "\"I know I'm being selfish, considering all the troubles I've\ncaused you guys.\""
+    },
+    {
+      "offset": 3691,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「…………」",
+      "en": "\"I want to be with you as long as possible, Miharu. I just\nhate to see you suffer.\"",
+      "text": "\"I want to be with you as long as possible, Miharu. I just\nhate to see you suffer.\""
+    },
+    {
+      "offset": 3738,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「美春はわがままだと思います……。先輩や先\n　生にこれだけ迷惑をかけて」",
+      "en": "\"I want to live my life for the people who care about me.\"",
+      "text": "\"I want to live my life for the people who care about me.\""
+    },
+    {
+      "offset": 3816,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「俺は少しでも美春と長くいたい。それに、苦\n　しんでいる姿も見たくないんだ」",
+      "en": "\"You still don't get it. You're only thinking about yourself\nbecause you know how much I care about you, Miharu!\"",
+      "text": "\"You still don't get it. You're only thinking about yourself\nbecause you know how much I care about you, Miharu!\""
+    },
+    {
+      "offset": 4010,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「わがままだよ……。わがまま過ぎるよ。俺が\n　どれだけ美春のことを想っているか知ってる\n　くせに」",
+      "en": "\"I'm sorry, sempai...\"",
+      "text": "\"I'm sorry, sempai...\""
+    },
+    {
+      "offset": 4141,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ごめんなさい、先輩……」",
+      "en": "\"But... I know that's who you are, and that's who I fell in\nlove with.\"",
+      "text": "\"But... I know that's who you are, and that's who I fell in\nlove with.\""
+    },
+    {
+      "offset": 4174,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「でも、俺は美春のそういうところを好きになっ\n　たんだよな……」",
+      "en": "\"I know what I am and who I am.\"",
+      "text": "\"I know what I am and who I am.\""
+    },
+    {
+      "offset": 4323,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ひとつだけ、約束してくれ」",
+      "en": "\"Promise me one thing.\"",
+      "text": "\"Promise me one thing.\""
+    },
+    {
+      "offset": 4386,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「なんですか？」",
+      "en": "\"What is it?\"",
+      "text": "\"What is it?\""
+    },
+    {
+      "offset": 4409,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「最期は、美春と一緒に居たい」",
+      "en": "\"I want to be with you when you have to go.\"",
+      "text": "\"I want to be with you when you have to go.\""
+    },
+    {
+      "offset": 4474,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「約束です。美春も最期は先輩と一緒に居たい\n　ですから」",
+      "en": "\"Yes. I promise. I want to be with you as well in the last\nchapter of my life.\"",
+      "text": "\"Yes. I promise. I want to be with you as well in the last\nchapter of my life.\""
+    },
+    {
+      "offset": 4536,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「美春……」",
+      "en": "\"Miharu...\"",
+      "text": "\"Miharu...\""
+    },
+    {
+      "offset": 4555,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は椅子から立ち上がり、美春のそばに寄る。",
+      "en": "I stand up and come close to Miharu.",
+      "text": "I stand up and come close to Miharu."
+    },
+    {
+      "offset": 4632,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「止まるのは怖くないように作ってあるけれど、\n　別れが寂しくないようには作ってないみたい\n　ですから……」",
+      "en": "\"I'm not built to be afraid when I get shut down, but not\nwhen I miss somebody.\"",
+      "text": "\"I'm not built to be afraid when I get shut down, but not\nwhen I miss somebody.\""
+    },
+    {
+      "offset": 4743,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "覗き込んだ美春の目には、ゆらゆらと揺れる俺\nが映っていた。",
+      "en": "I can see myself reflected in her tearful eyes.",
+      "text": "I can see myself reflected in her tearful eyes."
+    },
+    {
+      "offset": 4805,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "瞳を潤ませた美春の首筋に手を添え、そっと引\nき寄せる。",
+      "en": "I put my hand on the nape of her neck and pull her up to me.",
+      "text": "I put my hand on the nape of her neck and pull her up to me."
+    },
+    {
+      "offset": 4890,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「先輩……」",
+      "en": "\"Sempai...\"",
+      "text": "\"Sempai...\""
+    },
+    {
+      "offset": 4909,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春が目を閉じると、｛まぶた／瞼｝から溢れた涙がひと筋、\nつーっと流れ落ちた。",
+      "en": "When she closes her eyes, a tear runs straight down her\nface.",
+      "text": "When she closes her eyes, a tear runs straight down her\nface."
+    },
+    {
+      "offset": 4991,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それを親指で拭いながら、俺は美春にキスをし\nた。",
+      "en": "I wipe it off her face with my thumb and kiss her.",
+      "text": "I wipe it off her face with my thumb and kiss her."
+    },
+    {
+      "offset": 5043,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思った以上に柔らかく、冷たかった。",
+      "en": "Her lips feel more gentle and colder than I'd thought.",
+      "text": "Her lips feel more gentle and colder than I'd thought."
+    },
+    {
+      "offset": 5082,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "けれど、彼女の吐息は温かかった。",
+      "en": "Her breath feels warm.",
+      "text": "Her breath feels warm."
+    },
+    {
+      "offset": 5132,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ん……」",
+      "en": "\"Mmm...\"",
+      "text": "\"Mmm...\""
+    },
+    {
+      "offset": 5149,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、そのまま美春を抱き寄せ、キスを続ける。",
+      "en": "I pull her towards me and keep kissing her.",
+      "text": "I pull her towards me and keep kissing her."
+    },
+    {
+      "offset": 5198,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛きゃしゃ／華奢｝な美春の身体が、俺にぴたりと密着する。",
+      "en": "Her slender body sticks to me.",
+      "text": "Her slender body sticks to me."
+    },
+    {
+      "offset": 5259,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "キスはただ、重ねるだけの他愛もないものだっ\nたけれど、長く長く重ねていた。",
+      "en": "Kissing is just the simple act of putting our lips together.\nBut we keep kissing for so long.",
+      "text": "Kissing is just the simple act of putting our lips together.\nBut we keep kissing for so long."
+    },
+    {
+      "offset": 5337,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、どれだけの時間が過ぎたかわからない\nけれど、（５分だったのか、１時間だったのか）\n互いに唇を離した。",
+      "en": "I don't know how long we were kissing each other (could have\nbeen 5 minutes or an hour), but we finally let go of each\nother's lips.",
+      "text": "I don't know how long we were kissing each other (could have\nbeen 5 minutes or an hour), but we finally let go of each\nother's lips."
+    },
+    {
+      "offset": 5450,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「少しくらい、心配かけたっていいさ。美春が、\n　自分の思うように生きてくれるのが、一番嬉\n　しいんだから」",
+      "en": "\"You can make me worry a little bit. I'm happy as long as\nyou live your life with no regret.\"",
+      "text": "\"You can make me worry a little bit. I'm happy as long as\nyou live your life with no regret.\""
+    },
+    {
+      "offset": 5594,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「美春は、先輩の――そう言ってくれるところ\n　が大好きです」",
+      "en": "\"That means a lot to me. That's why I love you.\"",
+      "text": "\"That means a lot to me. That's why I love you.\""
+    },
+    {
+      "offset": 5660,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "彼女はそう言って笑った。",
+      "en": "She smiles.",
+      "text": "She smiles."
+    },
+    {
+      "offset": 5691,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「美春……」",
+      "en": "\"Miharu...\"",
+      "text": "\"Miharu...\""
+    },
+    {
+      "offset": 5710,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もう一度、美春のことを抱きしめたくて、手を\n伸ばす。",
+      "en": "I want to hold Miharu again, so I reach out to her.",
+      "text": "I want to hold Miharu again, so I reach out to her."
+    },
+    {
+      "offset": 5768,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――がらり",
+      "en": "The door opens.",
+      "text": "The door opens."
+    },
+    {
+      "offset": 5794,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「お疲れ〜。あれ、天枷。もういいのかい？」",
+      "en": "\"Hello. Oh, hi, Amakase! Are you okay now?\"",
+      "text": "\"Hello. Oh, hi, Amakase! Are you okay now?\""
+    },
+    {
+      "offset": 5843,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "背後から、場にそぐわない、おちゃらけた声が\n聞こえてきた。",
+      "en": "And I hear some out-of-place voices from behind her.",
+      "text": "And I hear some out-of-place voices from behind her."
+    },
+    {
+      "offset": 5940,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あ、白河先生。はい、もうすっかり」",
+      "en": "\"Uh, yes. Shirakawa-sensei... I feel much better now.\"",
+      "text": "\"Uh, yes. Shirakawa-sensei... I feel much better now.\""
+    },
+    {
+      "offset": 5992,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……絶妙のタイミングで、邪魔をする人だなぁ。\nもしかして、ずっと扉の向こうで聞いてた？",
+      "en": "Gee, thanks for showing up at such a bad time...",
+      "text": "Gee, thanks for showing up at such a bad time..."
+    },
+    {
+      "offset": 6129,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「朝倉〜、頼んでた仕事は？」",
+      "en": "\"Asakura. Are you done with the work I asked you to do?\"",
+      "text": "\"Asakura. Are you done with the work I asked you to do?\""
+    },
+    {
+      "offset": 6164,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「終わりましたよ、ちゃんと」",
+      "en": "\"Yes, absolutely.\"",
+      "text": "\"Yes, absolutely.\""
+    },
+    {
+      "offset": 6225,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「おや、えらい不機嫌だね。何かあったの？」",
+      "en": "\"What's up? You look very upset.\"",
+      "text": "\"What's up? You look very upset.\""
+    },
+    {
+      "offset": 6274,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ぶぇつにぃ、何でもないですよ」",
+      "en": "\"Nothing...\"",
+      "text": "\"Nothing...\""
+    },
+    {
+      "offset": 6313,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぷいと横を向く俺。",
+      "en": "I just look away.",
+      "text": "I just look away."
+    },
+    {
+      "offset": 6366,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あははは……」",
+      "en": "\"Hahaha...\"",
+      "text": "\"Hahaha...\""
+    },
+    {
+      "offset": 6398,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「……天枷まで」",
+      "en": "\"Amakase...\"",
+      "text": "\"Amakase...\""
+    },
+    {
+      "offset": 6447,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「あ、そうだ。朝倉のためにさぁ、仕事持って\n　きてあげたよ。他の先生も乗り気でさぁ」",
+      "en": "\"Oh, I brought you some more work to do. Other teachers like\nthis idea.\"",
+      "text": "\"Oh, I brought you some more work to do. Other teachers like\nthis idea.\""
+    },
+    {
+      "offset": 6537,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言って、俺の前にどさりとプリントの束を\n置く。",
+      "en": "Koyomi-sensei drops a pile of paper on the desk in front of\nme.",
+      "text": "Koyomi-sensei drops a pile of paper on the desk in front of\nme."
+    },
+    {
+      "offset": 6619,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「あはは。朝倉が暇してるって伝えたらさぁ、\n　みんな喜んで仕事を作ってくれて」",
+      "en": "\"Hahaha. I told them that you were just goofing around. So\nthey got me these for you to do.\"",
+      "text": "\"Hahaha. I told them that you were just goofing around. So\nthey got me these for you to do.\""
+    },
+    {
+      "offset": 6703,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この人は、人間の皮を被った悪鬼ですな。",
+      "en": "She must be a devil pretending to be a human.",
+      "text": "She must be a devil pretending to be a human."
+    },
+    {
+      "offset": 6776,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「美春も手伝ってあげますよ。そしたら、すぐ\n　に終わりますよ」",
+      "en": "\"I'll help you. we can do it quicker that way.\"",
+      "text": "\"I'll help you. we can do it quicker that way.\""
+    },
+    {
+      "offset": 6870,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ああ、それいいねぇ」",
+      "en": "\"That's a good idea.\"",
+      "text": "\"That's a good idea.\""
+    },
+    {
+      "offset": 6899,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "先生は面白そうにクスクスと笑っている。もし\nかしてこの人、みんなから中間マージンとか、\n徴収してんじゃないだろうな。",
+      "en": "Koyomi-sensei chuckles. Is she getting a profit margin from\nother teachers' work?",
+      "text": "Koyomi-sensei chuckles. Is she getting a profit margin from\nother teachers' work?"
+    },
+    {
+      "offset": 7018,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "うーむ、やりかねんぞ、この人なら。",
+      "en": "She's definitely getting something.",
+      "text": "She's definitely getting something."
+    },
+    {
+      "offset": 7059,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「悪いな美春」",
+      "en": "\"Thanks, Miharu.\"",
+      "text": "\"Thanks, Miharu.\""
+    },
+    {
+      "offset": 7080,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、美春にプリントを分けて渡す。",
+      "en": "I hand Miharu some piles of paper.",
+      "text": "I hand Miharu some piles of paper."
+    },
+    {
+      "offset": 7132,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ううん、こういうのも楽しいからいいですよ」",
+      "en": "\"This is going to be fun.\"",
+      "text": "\"This is going to be fun.\""
+    },
+    {
+      "offset": 7209,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「いやぁ、愛の力は偉大だねぇ。絆を深めあっ\n　た恋人同士には敵わないね」",
+      "en": "\"Love conquers all. No one can beat a couple in love.\"",
+      "text": "\"Love conquers all. No one can beat a couple in love.\""
+    },
+    {
+      "offset": 7287,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 7334,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 7379,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「あれ、なにふたりとも真っ赤な顔してるの？\n　ちょっとやめてよ〜、こんなとこで〜」",
+      "en": "\"Hmm? How come both of you are blushing? Wait a minute! Were\nyou guys doing something naughty in my room?\"",
+      "text": "\"Hmm? How come both of you are blushing? Wait a minute! Were\nyou guys doing something naughty in my room?\""
+    },
+    {
+      "offset": 7495,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「し、してません〜っ！　そんなこと、絶対し\n　てませぇん！　まだキスだけですっ！」",
+      "en": "\"No... No way! We were only kissing! That's it!\"",
+      "text": "\"No... No way! We were only kissing! That's it!\""
+    },
+    {
+      "offset": 7583,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 7628,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 7675,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あ…………」",
+      "en": "\"Ah............\"",
+      "text": "\"Ah............\""
+    },
+    {
+      "offset": 7696,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "準備室の時が、ちょっとだけ止まった。",
+      "en": "There's an awkward pause in the room.",
+      "text": "There's an awkward pause in the room."
+    },
+    {
+      "offset": 7841,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆最期は美春と一緒に◆",
+      "en": "◆Junichi◆",
+      "text": "◆Junichi◆"
+    },
+    {
+      "offset": 7892,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思い出探しはもうやめにしないか？　元気になっ\nた美春に俺はそう切り出した。",
+      "en": "I finished the work Koyomi-sensei asked to do.",
+      "text": "I finished the work Koyomi-sensei asked to do."
+    },
+    {
+      "offset": 7970,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "でも、美春は思い出探しはやめたくないと言う。\n美春を大切に思ってくれている人達のために一\n生懸命生きたいと。",
+      "en": "In the end, the work is more like her office chores.",
+      "text": "In the end, the work is more like her office chores."
+    },
+    {
+      "offset": 8081,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "結局、俺は美春の信念に負けてしまう。だから\n俺と美春はひとつだけ約束をした。",
+      "en": "\"It's the experience that counts.\"",
+      "text": "\"It's the experience that counts.\""
+    },
+    {
+      "offset": 8161,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "最期は、一緒に居たい。",
+      "en": "But I'm not sure if this work counts.",
+      "text": "But I'm not sure if this work counts."
+    },
+    {
+      "offset": 8188,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、俺と美春ははじめてのキスをした。",
+      "en": "The door opens.",
+      "text": "The door opens."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "610": "Miharu",
+    "727": "Miharu",
+    "1138": "Miharu",
+    "1396": "Miharu",
+    "1600": "Miharu",
+    "1808": "Miharu",
+    "2476": "Miharu",
+    "2596": "Miharu",
+    "2821": "Miharu",
+    "3075": "Miharu",
+    "3273": "Miharu",
+    "3361": "Miharu",
+    "3497": "Miharu",
+    "3578": "Miharu",
+    "3730": "Miharu",
+    "3918": "Miharu",
+    "4133": "Miharu",
+    "4264": "Miharu",
+    "4378": "Miharu",
+    "4466": "Miharu",
+    "4624": "Miharu",
+    "4882": "Miharu",
+    "5124": "Miharu",
+    "5586": "Miharu",
+    "5788": "Koyomi",
+    "5932": "Miharu",
+    "6123": "Koyomi",
+    "6219": "Koyomi",
+    "6358": "Miharu",
+    "6392": "Koyomi",
+    "6441": "Koyomi",
+    "6613": "Koyomi",
+    "6768": "Miharu",
+    "6864": "Koyomi",
+    "7124": "Miharu",
+    "7203": "Koyomi",
+    "7326": "Miharu",
+    "7373": "Koyomi",
+    "7487": "Miharu",
+    "7622": "Koyomi",
+    "7667": "Miharu"
+  }
+}

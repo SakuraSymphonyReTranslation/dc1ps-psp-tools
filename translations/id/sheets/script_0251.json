@@ -1,0 +1,520 @@
+{
+  "scene": "script_0251.obj",
+  "dialogues": [
+    {
+      "offset": 147,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「また、なんで俺は休日の校舎をうろついてる\n　んだかな……」",
+      "en": "\"Why am I wandering around the school on a Sunday......?\"",
+      "text": "\"Why am I wandering around the school on a Sunday......?\""
+    },
+    {
+      "offset": 213,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ひっそりと静まり返った廊下をひとり歩く。",
+      "en": "I walked down the quiet corridor.",
+      "text": "I walked down the quiet corridor."
+    },
+    {
+      "offset": 293,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「なにぶつくさ言いながら歩いてるんだ？」",
+      "en": "\"What are you mumbling about?\"",
+      "text": "\"What are you mumbling about?\""
+    },
+    {
+      "offset": 340,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "突然、杉並が目の前に現れる。",
+      "en": "Suginami appeared suddenly.",
+      "text": "Suginami appeared suddenly."
+    },
+    {
+      "offset": 375,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 394,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どこから出てきたんだ？　ここは廊下のど真ん\n中だぞ。",
+      "en": "Where did he come from? I was in the middle of the corridor.",
+      "text": "Where did he come from? I was in the middle of the corridor."
+    },
+    {
+      "offset": 452,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「それ以前に、なんでお前がここにいる」",
+      "en": "\"Why are you here?\"",
+      "text": "\"Why are you here?\""
+    },
+    {
+      "offset": 497,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "人のことは言えないが、今日は日曜日だぞ！",
+      "en": "I can say the same thing about myself, but it's Sunday!",
+      "text": "I can say the same thing about myself, but it's Sunday!"
+    },
+    {
+      "offset": 572,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「フッ……実はある筋から、とある情報を入手\n　してな」",
+      "en": "\"Hehehe...... I got some information from a source.\"",
+      "text": "\"Hehehe...... I got some information from a source.\""
+    },
+    {
+      "offset": 632,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「俺には、むちゃくちゃ｛あいまい／曖昧｝な情報元に聞こえ\n　るが？」",
+      "en": "\"It doesn't sound reliable to me.\"",
+      "text": "\"It doesn't sound reliable to me.\""
+    },
+    {
+      "offset": 717,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「安心しろ、情報は確かだ」",
+      "en": "\"Don't worry, the source is reliable.\"",
+      "text": "\"Don't worry, the source is reliable.\""
+    },
+    {
+      "offset": 750,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "制服を着て学園にいるというのに、目の前の杉\n並が場違いな存在にみえる。",
+      "en": "He looked out of place even though he was wearing a uniform.",
+      "text": "He looked out of place even though he was wearing a uniform."
+    },
+    {
+      "offset": 837,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「実はこの学園の七不思議のひとつに“開かず\n　の扉”というのがあってな。そいつの調査に\n　きたのさ」",
+      "en": "\"There are seven wonders of the school. I came to\ninvestigate one of them, 'The Forbidden door'.\"",
+      "text": "\"There are seven wonders of the school. I came to\ninvestigate one of them, 'The Forbidden door'.\""
+    },
+    {
+      "offset": 942,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 989,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「まあ、まて。信じるか信じないかは、まずは\n　現場を見てから決めようではないか」",
+      "en": "\"Wait. Let's check the door before we decide to believe or\nnot.\"",
+      "text": "\"Wait. Let's check the door before we decide to believe or\nnot.\""
+    },
+    {
+      "offset": 1075,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……場所はわかってるのか？」",
+      "en": "\"......You know where it is?\"",
+      "text": "\"......You know where it is?\""
+    },
+    {
+      "offset": 1140,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ああ。どうしても鍵が開けられない扉が、１\n　つあってな。恐らくそれだろう」",
+      "en": "\"Yes. There's only one door I've never been able to unlock.\nI think that's it...\"",
+      "text": "\"Yes. There's only one door I've never been able to unlock.\nI think that's it...\""
+    },
+    {
+      "offset": 1222,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": "............",
+      "text": "............"
+    },
+    {
+      "offset": 1237,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鍵が開けられないとは？",
+      "en": "It can't be unlocked?",
+      "text": "It can't be unlocked?"
+    },
+    {
+      "offset": 1266,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「でも鍵が開けられないんじゃ、行ってもしょ\n　うがないだろう」",
+      "en": "\"But it's no use if you can't unlock the door.\"",
+      "text": "\"But it's no use if you can't unlock the door.\""
+    },
+    {
+      "offset": 1362,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「かったるいと言うのはまだ早いぞ。……見ろ」",
+      "en": "\"Don't say 'what a pain' yet. ......Look.\"",
+      "text": "\"Don't say 'what a pain' yet. ......Look.\""
+    },
+    {
+      "offset": 1413,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並がポケットからひとつの鍵を取りだす。",
+      "en": "He took out a key from his pocket.",
+      "text": "He took out a key from his pocket."
+    },
+    {
+      "offset": 1460,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「それが？」",
+      "en": "\"Is that it?\"",
+      "text": "\"Is that it?\""
+    },
+    {
+      "offset": 1479,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "家の鍵とは違う、黒光りするものを見つめる。",
+      "en": "The key looked darker and shinier than regular house keys.",
+      "text": "The key looked darker and shinier than regular house keys."
+    },
+    {
+      "offset": 1539,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ああ。まず間違いないだろう」",
+      "en": "\"Yup. Only this key was hidden in a different place from the\nrest of the keys. This must be it.\"",
+      "text": "\"Yup. Only this key was hidden in a different place from the\nrest of the keys. This must be it.\""
+    },
+    {
+      "offset": 1576,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "間違いないって……。",
+      "en": "It was hidden......?",
+      "text": "It was hidden......?"
+    },
+    {
+      "offset": 1603,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いったいどこで手に入れたんだよ？」",
+      "en": "\"Where did you get it from?\"",
+      "text": "\"Where did you get it from?\""
+    },
+    {
+      "offset": 1646,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう聞くと、杉並は意味深な笑みを浮かべて、\n『学長がどうしてもと言うのでな』などとのた\nまわった。",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1749,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "Is he joking? The safe's more like the forbidden door......",
+      "text": "Is he joking? The safe's more like the forbidden door......"
+    },
+    {
+      "offset": 1768,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……深くは考えないでおこう。",
+      "en": "(I want to cut-off my friendship with him!)",
+      "text": "(I want to cut-off my friendship with him!)"
+    },
+    {
+      "offset": 1835,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 1848,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 1911,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ここだ」",
+      "en": "\"Here it is.\"",
+      "text": "\"Here it is.\""
+    },
+    {
+      "offset": 1928,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そのドアは、学長室や来客室などがある、普段\n学生がこないところにあった。",
+      "en": "The door was located near the principal's office and the\nconference room where the students hardly ever come.",
+      "text": "The door was located near the principal's office and the\nconference room where the students hardly ever come."
+    },
+    {
+      "offset": 2006,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「たしかに、それらしい雰囲気はあるな……」",
+      "en": "\"It does have a strange look, it could be it......\"",
+      "text": "\"It does have a strange look, it could be it......\""
+    },
+    {
+      "offset": 2055,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛いか／厳｝つい、頑丈そうなドアを前に、俺の表情も微\n妙に引き締まる。",
+      "en": "My face got serious too at the presence of the hard looking\ndoor.",
+      "text": "My face got serious too at the presence of the hard looking\ndoor."
+    },
+    {
+      "offset": 2142,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「じゃあ、試してみるか」",
+      "en": "\"Let's see.\"",
+      "text": "\"Let's see.\""
+    },
+    {
+      "offset": 2173,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並が鍵穴に鍵を差し込み、半回転させる。",
+      "en": "Suginami inserted the key and turned it.",
+      "text": "Suginami inserted the key and turned it."
+    },
+    {
+      "offset": 2223,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "カチャリ――",
+      "en": "Click...",
+      "text": "Click..."
+    },
+    {
+      "offset": 2242,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2261,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "よく聞く、鍵のあく音が微かに耳にとどく。",
+      "en": "I heard the door unlock.",
+      "text": "I heard the door unlock."
+    },
+    {
+      "offset": 2319,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「開けるぞ」",
+      "en": "\"Shall we?\"",
+      "text": "\"Shall we?\""
+    },
+    {
+      "offset": 2338,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並の言葉に、黙って頷く。",
+      "en": "I nodded to him.",
+      "text": "I nodded to him."
+    },
+    {
+      "offset": 2383,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ギィィィィィ――",
+      "en": "Creeeeek......",
+      "text": "Creeeeek......"
+    },
+    {
+      "offset": 2454,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2473,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2492,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "夏への扉？",
+      "en": "The door to summer?",
+      "text": "The door to summer?"
+    },
+    {
+      "offset": 2520,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「帰るか……」",
+      "en": "\"Let's go home......\"",
+      "text": "\"Let's go home......\""
+    },
+    {
+      "offset": 2541,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ああ」",
+      "en": "\"Yeah.\"",
+      "text": "\"Yeah.\""
+    },
+    {
+      "offset": 2647,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ゲーセンでもよって行くか？」",
+      "en": "\"Do you wanna go to the arcade?\"",
+      "text": "\"Do you wanna go to the arcade?\""
+    },
+    {
+      "offset": 2684,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「いいねぇ。何にする？」",
+      "en": "\"Sounds great. What do you wanna play?\"",
+      "text": "\"Sounds great. What do you wanna play?\""
+    },
+    {
+      "offset": 2726,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「フッ……俺たちに銃以外のなにがあるという\n　んだ」",
+      "en": "\"Humph...... What else do we have besides the shooting\ngame?\"",
+      "text": "\"Humph...... What else do we have besides the shooting\ngame?\""
+    },
+    {
+      "offset": 2784,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "互いに構えあう。",
+      "en": "We both held the shooting guns.",
+      "text": "We both held the shooting guns."
+    },
+    {
+      "offset": 2835,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「行くか」",
+      "en": "\"Shall we?\"",
+      "text": "\"Shall we?\""
+    },
+    {
+      "offset": 2852,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ああ……」",
+      "en": "\"Yup......\"",
+      "text": "\"Yup......\""
+    },
+    {
+      "offset": 2871,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺達は、銃を片手にギャングどもをブチのめし、\n街を救った……。",
+      "en": "We beat all the gangs, and saved the town......",
+      "text": "We beat all the gangs, and saved the town......"
+    },
+    {
+      "offset": 3070,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆異次元への扉◆",
+      "en": "◆The door to another dimension◆",
+      "text": "◆The door to another dimension◆"
+    },
+    {
+      "offset": 3119,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何故か、杉並に出会った。休日の学園だっての\nに。まあ、お互い様ではあるが……。",
+      "en": "I ran into Suginami. What's he doing at the school on\nSunday? I guess I could say the same thing for me too......",
+      "text": "I ran into Suginami. What's he doing at the school on\nSunday? I guess I could say the same thing for me too......"
+    },
+    {
+      "offset": 3201,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並曰く、開かずの扉の鍵をゲットしたらしい。\n何をやっているんだか。ともかく、二人でその\n扉へと向かった。",
+      "en": "He claimed he'd managed to get the key to the forbidden\ndoor. What kind of thing was he up to? Anyways, we headed to\nthe door.",
+      "text": "He claimed he'd managed to get the key to the forbidden\ndoor. What kind of thing was he up to? Anyways, we headed to\nthe door."
+    },
+    {
+      "offset": 3310,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鍵を差し込み、開く。",
+      "en": "He turned the key to open the door.",
+      "text": "He turned the key to open the door."
+    },
+    {
+      "offset": 3372,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": "............",
+      "text": "............"
+    },
+    {
+      "offset": 3387,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "うそ〜ん。",
+      "en": "No way.",
+      "text": "No way."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "285": "Suginami",
+    "564": "Suginami",
+    "709": "Suginami",
+    "829": "Suginami",
+    "981": "Suginami",
+    "1132": "Suginami",
+    "1354": "Suginami",
+    "1531": "Suginami",
+    "1903": "Suginami",
+    "2134": "Suginami",
+    "2311": "Suginami",
+    "2446": "Suginami",
+    "2512": "Suginami",
+    "2639": "Suginami",
+    "2718": "Suginami",
+    "2827": "Suginami"
+  }
+}

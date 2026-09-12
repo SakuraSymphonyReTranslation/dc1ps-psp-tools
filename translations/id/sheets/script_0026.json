@@ -1,0 +1,106 @@
+{
+  "scene": "script_0026.obj",
+  "dialogues": [
+    {
+      "offset": 173,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（かったりい）",
+      "en": "\"(How troublesome.)\"",
+      "text": "\"(How troublesome.)\""
+    },
+    {
+      "offset": 222,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あ、もしかして今“かったるい”とかって思っ\n　てましたね、先輩」",
+      "en": "\"Ahh, don't tell me you're thinking \"How troublesome\" to\nyourself now, senpai!\"",
+      "text": "\"Ahh, don't tell me you're thinking \"How troublesome\" to\nyourself now, senpai!\""
+    },
+    {
+      "offset": 294,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「よく分かったな。そういうわけで俺は行く」",
+      "en": "\"Good job, Miharu. I'd be going now.\"",
+      "text": "\"Good job, Miharu. I'd be going now.\""
+    },
+    {
+      "offset": 371,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「先輩は、猫さんがかわいそうだとは思わない\n　んですか？　人でなしさんなんですかぁ！？」",
+      "en": "\"Senpai, don't you feel sorry for the cat? Are you so\nuncaring!?\"",
+      "text": "\"Senpai, don't you feel sorry for the cat? Are you so\nuncaring!?\""
+    },
+    {
+      "offset": 465,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「……猫ならこのぐらいの高さ、大丈夫だって」",
+      "en": "\"...The cat's only at that height, it should be able to jump\ndown by itself.\"",
+      "text": "\"...The cat's only at that height, it should be able to jump\ndown by itself.\""
+    },
+    {
+      "offset": 516,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そういう生き物なんだから。",
+      "en": "Such a creature it is.",
+      "text": "Such a creature it is."
+    },
+    {
+      "offset": 549,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「じゃあな、そういうことでアディオス！」",
+      "en": "\"I'm leaving now, adios!\"",
+      "text": "\"I'm leaving now, adios!\""
+    },
+    {
+      "offset": 596,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "爽やかな挨拶に答える美春の声を背後に聞きな\nがら、軽く手をあげてその場を後にする。",
+      "en": "Quickly turning my back to Miharu with that cheerful\nfarewell, I head off and lightly wave goodbye.",
+      "text": "Quickly turning my back to Miharu with that cheerful\nfarewell, I head off and lightly wave goodbye."
+    },
+    {
+      "offset": 682,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――いつもの日常に戻った。",
+      "en": "--I return home as usual.",
+      "text": "--I return home as usual."
+    },
+    {
+      "offset": 821,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆日常へ◆",
+      "en": "◆As usual◆",
+      "text": "◆As usual◆"
+    },
+    {
+      "offset": 868,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "猫を助けるなんてかったるい。",
+      "en": "It was too troublesome to save that cat.",
+      "text": "It was too troublesome to save that cat."
+    },
+    {
+      "offset": 913,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな訳で俺は、いつもの日常に戻る事にした。",
+      "en": "With that esxcuse, I went back home as usual.",
+      "text": "With that esxcuse, I went back home as usual."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "214": "Miharu",
+    "363": "Miharu"
+  }
+}

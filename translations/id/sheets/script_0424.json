@@ -1,0 +1,498 @@
+{
+  "scene": "script_0424.obj",
+  "dialogues": [
+    {
+      "offset": 153,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "桜の並木道。",
+      "en": "The road lined with cherry blossom trees.",
+      "text": "The road lined with cherry blossom trees."
+    },
+    {
+      "offset": 170,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "冬でも桜の咲いているこの島にあっても、この\n季節に桜を見るとなにかが始まる気がする。",
+      "en": "On this island, you see cherry blossoms even in winter, but\nthis time of year still makes me feel an anticipation of new\nbeginnings.",
+      "text": "On this island, you see cherry blossoms even in winter, but\nthis time of year still makes me feel an anticipation of new\nbeginnings."
+    },
+    {
+      "offset": 258,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "卒業式とか入学式とか。",
+      "en": "A graduation ceremony or an entrance ceremony.",
+      "text": "A graduation ceremony or an entrance ceremony."
+    },
+    {
+      "offset": 320,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「もちろんです。その準備のために私達、風見\n　学園風紀委員が、がんばっているのですから」",
+      "en": "\"That's why we, the discipline committee, have been working\nhard to prepare for that.\"",
+      "text": "\"That's why we, the discipline committee, have been working\nhard to prepare for that.\""
+    },
+    {
+      "offset": 414,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ま、そうだな」",
+      "en": "\"You're right.\"",
+      "text": "\"You're right.\""
+    },
+    {
+      "offset": 448,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「本当は兄さんにテツ……あ」",
+      "en": "\"Actually, I need your hel... Uhh...\"",
+      "text": "\"Actually, I need your hel... Uhh...\""
+    },
+    {
+      "offset": 483,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ん」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 524,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うんん。なんでもないの」",
+      "en": "\"Nothing.\"",
+      "text": "\"Nothing.\""
+    },
+    {
+      "offset": 557,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なんだよ、はっきり言えよ」",
+      "en": "\"What is it?\"",
+      "text": "\"What is it?\""
+    },
+    {
+      "offset": 603,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なんでもないの。気にしないで」",
+      "en": "\"Nothing, really. Don't worry.\"",
+      "text": "\"Nothing, really. Don't worry.\""
+    },
+    {
+      "offset": 642,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢が首を振ると鈴の音が一拍遅れて鳴り響く。",
+      "en": "Nemu shakes her head, and the bell rings one second later.",
+      "text": "Nemu shakes her head, and the bell rings one second later."
+    },
+    {
+      "offset": 691,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まぁ、いい。",
+      "en": "Oh well.",
+      "text": "Oh well."
+    },
+    {
+      "offset": 710,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「かったるいからな」",
+      "en": "\"What a pain in the neck.\"",
+      "text": "\"What a pain in the neck.\""
+    },
+    {
+      "offset": 765,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、その口癖、なんとかならないのかなぁ」",
+      "en": "\"Can you do something about your pet phrase?\"",
+      "text": "\"Can you do something about your pet phrase?\""
+    },
+    {
+      "offset": 814,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「は」",
+      "en": "\"Huh...\"",
+      "text": "\"Huh...\""
+    },
+    {
+      "offset": 838,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「聞いてるほうのやる気が｛な／萎｝えるでしょ？」",
+      "en": "\"That could affect my motivation.\"",
+      "text": "\"That could affect my motivation.\""
+    },
+    {
+      "offset": 893,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そうか？」",
+      "en": "\"Really?\"",
+      "text": "\"Really?\""
+    },
+    {
+      "offset": 940,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そうだよ」",
+      "en": "\"Really.\"",
+      "text": "\"Really.\""
+    },
+    {
+      "offset": 959,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その割には嬉しそうに微笑む。",
+      "en": "She smiles happily while she complains.",
+      "text": "She smiles happily while she complains."
+    },
+    {
+      "offset": 992,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はなんとなくその笑顔から顔をそむけつつ、\n辺りを見渡す。",
+      "en": "I look around turning against her smile.",
+      "text": "I look around turning against her smile."
+    },
+    {
+      "offset": 1056,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「校門まではいかなくていいよな」",
+      "en": "\"Do you mind if I don't go up to the school gate?\"",
+      "text": "\"Do you mind if I don't go up to the school gate?\""
+    },
+    {
+      "offset": 1123,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うん。ありがとう」",
+      "en": "\"No, not at all. Thanks.\"",
+      "text": "\"No, not at all. Thanks.\""
+    },
+    {
+      "offset": 1150,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「別になんもしてねぇよ」",
+      "en": "\"I didn't do anything to be thanked for.\"",
+      "text": "\"I didn't do anything to be thanked for.\""
+    },
+    {
+      "offset": 1209,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そうなんだけど――あれ？」",
+      "en": "\"I know, but- What?\"",
+      "text": "\"I know, but- What?\""
+    },
+    {
+      "offset": 1244,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "前方を見つめて音夢がほうける。",
+      "en": "Nemu interrupts herself, looking straight past me.",
+      "text": "Nemu interrupts herself, looking straight past me."
+    },
+    {
+      "offset": 1299,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あ、お兄ちゃんと音夢ちゃんだ」",
+      "en": "\"Ah, it's oniichan and Nemu-chan.\"",
+      "text": "\"Ah, it's oniichan and Nemu-chan.\""
+    },
+    {
+      "offset": 1338,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "振り向く前に誰だか分かった。",
+      "en": "I knew who was there before I turned around.",
+      "text": "I knew who was there before I turned around."
+    },
+    {
+      "offset": 1373,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さくら、こんなところでなにやってんだ？」",
+      "en": "\"What are you doing here, Sakura?\"",
+      "text": "\"What are you doing here, Sakura?\""
+    },
+    {
+      "offset": 1457,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゃ、お兄ちゃんこそ、ボクの家に行かな\n　いでなにやってるの？」",
+      "en": "\"I could ask you, what are you doing here instead of going\nto my place?\"",
+      "text": "\"I could ask you, what are you doing here instead of going\nto my place?\""
+    },
+    {
+      "offset": 1531,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "唯一の住人でありながら家を空けている張本人\nが寄ってくる。",
+      "en": "The house's real owner walks up to us, though I thought she\nwas supposed to be at home.",
+      "text": "The house's real owner walks up to us, though I thought she\nwas supposed to be at home."
+    },
+    {
+      "offset": 1595,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「音夢の送迎」",
+      "en": "\"Taking Nemu to school.\"",
+      "text": "\"Taking Nemu to school.\""
+    },
+    {
+      "offset": 1627,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「別に頼んだわけじゃないわよ」",
+      "en": "\"I didn't ask him to, though.\"",
+      "text": "\"I didn't ask him to, though.\""
+    },
+    {
+      "offset": 1664,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺のつぶやきに音夢が即答する。",
+      "en": "Nemu quickly responds.",
+      "text": "Nemu quickly responds."
+    },
+    {
+      "offset": 1731,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゃ、じゃあ、今度はこのままボクの家に\n　行こう」",
+      "en": "\"Hmm, then, let's go to my place from here.\"",
+      "text": "\"Hmm, then, let's go to my place from here.\""
+    },
+    {
+      "offset": 1791,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「元からそのつもりだが……」",
+      "en": "\"Yeah, that's what I was going to do, anyway.\"",
+      "text": "\"Yeah, that's what I was going to do, anyway.\""
+    },
+    {
+      "offset": 1826,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当は、もう少し時間をおくつもりではあった\nが。",
+      "en": "Actually, I was thinking of going there a little bit later.",
+      "text": "Actually, I was thinking of going there a little bit later."
+    },
+    {
+      "offset": 1880,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「じゃあ音夢。あんまり頑張らない程度に頑張\n　れ」",
+      "en": "\"Well then, Nemu, don't work too hard, okay?\"",
+      "text": "\"Well then, Nemu, don't work too hard, okay?\""
+    },
+    {
+      "offset": 1969,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「無茶言わないでよ」",
+      "en": "\"I know.\"",
+      "text": "\"I know.\""
+    },
+    {
+      "offset": 2009,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「じゃあ音夢ちゃん、お兄ちゃんのことはボク\n　に任せてドント・ウォリー♪」",
+      "en": "\"Don't worry about oniichan, and have fun with your work.\"",
+      "text": "\"Don't worry about oniichan, and have fun with your work.\""
+    },
+    {
+      "offset": 2117,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「う、うん……兄さん」",
+      "en": "\"O-okay... Niisan.\"",
+      "text": "\"O-okay... Niisan.\""
+    },
+    {
+      "offset": 2158,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "続きは口にせず、音夢が手を中途半端にあげて\n校門の中に消える。",
+      "en": "Nemu went into the school, raising her hand in half a wave,\nwithout finishing her sentence.",
+      "text": "Nemu went into the school, raising her hand in half a wave,\nwithout finishing her sentence."
+    },
+    {
+      "offset": 2224,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少しの間だけその背中を追ったが、あいつは振\nり返らなかった。",
+      "en": "My eyes follow her for a little while, but she doesn't look\nback.",
+      "text": "My eyes follow her for a little while, but she doesn't look\nback."
+    },
+    {
+      "offset": 2290,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2322,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「行こうよお兄ちゃん」",
+      "en": "\"Let's go, oniichan.\"",
+      "text": "\"Let's go, oniichan.\""
+    },
+    {
+      "offset": 2351,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらが俺の腕をひく。",
+      "en": "Sakura pulls my arm.",
+      "text": "Sakura pulls my arm."
+    },
+    {
+      "offset": 2380,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あぁ」",
+      "en": "\"Yeah.\"",
+      "text": "\"Yeah.\""
+    },
+    {
+      "offset": 2395,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "未練の度合いは俺のほうが強いのか、つい音夢\nの姿を探してしまう。",
+      "en": "I think I'm fonder of Nemu than I realized. I keep catching\nmyself looking for her.",
+      "text": "I think I'm fonder of Nemu than I realized. I keep catching\nmyself looking for her."
+    },
+    {
+      "offset": 2463,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、視界から消える寸前の音夢が見えた。",
+      "en": "The last second before she disappears out of sight, I spot\nNemu.",
+      "text": "The last second before she disappears out of sight, I spot\nNemu."
+    },
+    {
+      "offset": 2506,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の顔が見えた。",
+      "en": "I spot Nemu's face.",
+      "text": "I spot Nemu's face."
+    },
+    {
+      "offset": 2529,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こちらを振り向いていた。",
+      "en": "She looks back at me.",
+      "text": "She looks back at me."
+    },
+    {
+      "offset": 2558,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お互いに声は届かないが、多分同じタイミング\nで振り返っていた。",
+      "en": "She's out of earshot, but we turned to look at each other at\nthe same time.",
+      "text": "She's out of earshot, but we turned to look at each other at\nthe same time."
+    },
+    {
+      "offset": 2639,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「行こうよ〜！」",
+      "en": "\"Let's go!\"",
+      "text": "\"Let's go!\""
+    },
+    {
+      "offset": 2662,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あ、あぁ」",
+      "en": "\"Oh, yeah.\"",
+      "text": "\"Oh, yeah.\""
+    },
+    {
+      "offset": 2681,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらを見下ろして、顔を上げる。",
+      "en": "I look down at Sakura, then lift my head again.",
+      "text": "I look down at Sakura, then lift my head again."
+    },
+    {
+      "offset": 2718,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そこに音夢の姿はなく、桜が舞っているだけ\nだった。",
+      "en": "Nemu has already gone; all I see is cherry blossom petals\nflying high.",
+      "text": "Nemu has already gone; all I see is cherry blossom petals\nflying high."
+    },
+    {
+      "offset": 2772,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "深々と――。",
+      "en": "So many...",
+      "text": "So many..."
+    },
+    {
+      "offset": 2911,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆揺らぐ想い◆",
+      "en": "◆Swaying feeling◆",
+      "text": "◆Swaying feeling◆"
+    },
+    {
+      "offset": 2962,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢を学園まで送っている途中、さくらに出会っ\nた。",
+      "en": "I met Sakura when I was taking Nemu to school.",
+      "text": "I met Sakura when I was taking Nemu to school."
+    },
+    {
+      "offset": 3016,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そのまま音夢と別れて、今度はさくらの家に向\nかうことになったのだが、振り向いたときに見\nてしまった、音夢の寂しげな顔が気になった。",
+      "en": "After I said good-bye to Nemu, I was going to Sakura's\nhouse. But when I turned around to glance behind, I spotted\nNemu's lonesome expression.",
+      "text": "After I said good-bye to Nemu, I was going to Sakura's\nhouse. But when I turned around to glance behind, I spotted\nNemu's lonesome expression."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "312": "Nemu",
+    "440": "Nemu",
+    "516": "Nemu",
+    "595": "Nemu",
+    "757": "Nemu",
+    "830": "Nemu",
+    "932": "Nemu",
+    "1115": "Nemu",
+    "1201": "Nemu",
+    "1289": "Sakura",
+    "1447": "Sakura",
+    "1619": "Nemu",
+    "1721": "Sakura",
+    "1961": "Nemu",
+    "1999": "Sakura",
+    "2109": "Nemu",
+    "2312": "Sakura",
+    "2629": "Sakura"
+  }
+}

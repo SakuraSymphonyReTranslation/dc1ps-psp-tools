@@ -1,0 +1,337 @@
+{
+  "scene": "script_0179.obj",
+  "dialogues": [
+    {
+      "offset": 147,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（ちょっと外の空気でもすってくるか……）",
+      "en": "\"(I need a breath of fresh air...)\"",
+      "text": "\"(I need a breath of fresh air...)\""
+    },
+    {
+      "offset": 194,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さすがに、試験４連ちゃんはキツイ。",
+      "en": "4 exams in a row take a lot out of you.",
+      "text": "4 exams in a row take a lot out of you."
+    },
+    {
+      "offset": 272,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふぅぅ……」",
+      "en": "\"Hooo....\"",
+      "text": "\"Hooo....\""
+    },
+    {
+      "offset": 293,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鉄の扉を開け、体内の淀んだ空気を吐き出す。\n顔にあたるそよ風が心地いい。",
+      "en": "I opened the steel door to the rooftop, and the wind raced\nto greet me. The feeling of the wind on my face was great.",
+      "text": "I opened the steel door to the rooftop, and the wind raced\nto greet me. The feeling of the wind on my face was great."
+    },
+    {
+      "offset": 369,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "気持ちのいい外の天気に、扉から手を放し両腕\nを広げ深呼吸をする。",
+      "en": "I stretched my arms out, fully enjoying the great weather.",
+      "text": "I stretched my arms out, fully enjoying the great weather."
+    },
+    {
+      "offset": 437,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "背後で重い扉の閉まる音がする。",
+      "en": "Behind me, the door made a loud slam as it shut itself\ntight.",
+      "text": "Behind me, the door made a loud slam as it shut itself\ntight."
+    },
+    {
+      "offset": 483,
+      "speaker": "???",
+      "speaker_jp": "暦",
+      "jp": "「だれだ？」",
+      "en": "\"Who is it?\"",
+      "text": "\"Who is it?\""
+    },
+    {
+      "offset": 502,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "？",
+      "en": "?",
+      "text": "?"
+    },
+    {
+      "offset": 509,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "声のした方に視線を向けると――。",
+      "en": "I turned to face the owner of the voice--",
+      "text": "I turned to face the owner of the voice--"
+    },
+    {
+      "offset": 579,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「なんだ、朝倉か」",
+      "en": "\"Oh, it's just Asakura.\"",
+      "text": "\"Oh, it's just Asakura.\""
+    },
+    {
+      "offset": 604,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "フェンスによりかかる暦先生がいた。タバコを\n口から放し、白い煙を吐き出す。",
+      "en": "It was Koyomi-sensei, leaning on a fence. A cigarette hung\nfrom her lips, with white clouds of smoke emerging from it.",
+      "text": "It was Koyomi-sensei, leaning on a fence. A cigarette hung\nfrom her lips, with white clouds of smoke emerging from it."
+    },
+    {
+      "offset": 684,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「暦先生、こんなところで何してるんですか？」",
+      "en": "\"Koyomi-sensei, what're you doing here?\"",
+      "text": "\"Koyomi-sensei, what're you doing here?\""
+    },
+    {
+      "offset": 744,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「見てのとおり……」",
+      "en": "\"What you see, is what you get...\"",
+      "text": "\"What you see, is what you get...\""
+    },
+    {
+      "offset": 771,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "すー……。",
+      "en": "Inhaling...",
+      "text": "Inhaling..."
+    },
+    {
+      "offset": 786,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふー……。",
+      "en": "Exhaling.",
+      "text": "Exhaling."
+    },
+    {
+      "offset": 803,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 822,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "講師として、教え子の前で解かりやすく実演し\nてみせる。",
+      "en": "It was like a scene from a sensei-disciple movie.",
+      "text": "It was like a scene from a sensei-disciple movie."
+    },
+    {
+      "offset": 882,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……一服ですか」",
+      "en": "\"...A smoke?\"",
+      "text": "\"...A smoke?\""
+    },
+    {
+      "offset": 916,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「正解」",
+      "en": "\"Bingo.\"",
+      "text": "\"Bingo.\""
+    },
+    {
+      "offset": 931,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言って、また白い煙をはく。",
+      "en": "Another white cloud of smoke floated up to the sky.",
+      "text": "Another white cloud of smoke floated up to the sky."
+    },
+    {
+      "offset": 1005,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「試験監督なんかしてると、退屈で息がつまる\n　からね。息抜きにきたんだ」",
+      "en": "\"Invigiliating exams is as boring as it gets. Even us\nteachers need a breather too.\"",
+      "text": "\"Invigiliating exams is as boring as it gets. Even us\nteachers need a breather too.\""
+    },
+    {
+      "offset": 1083,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふー……。",
+      "en": "And more exhaling.",
+      "text": "And more exhaling."
+    },
+    {
+      "offset": 1129,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「朝倉も休憩か？」",
+      "en": "\"Are you spending your break here?\"",
+      "text": "\"Are you spending your break here?\""
+    },
+    {
+      "offset": 1154,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ええ、まあ……」",
+      "en": "\"Well, yeah...\"",
+      "text": "\"Well, yeah...\""
+    },
+    {
+      "offset": 1179,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "１本吸い終えた暦先生は、携帯灰皿にタバコを\n押しつけ、新しいタバコに火をつける。",
+      "en": "With her cigarette stick exhausted, she rubbed the remains\ninto a portable ashtray, and lighted another.",
+      "text": "With her cigarette stick exhausted, she rubbed the remains\ninto a portable ashtray, and lighted another."
+    },
+    {
+      "offset": 1265,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「健康に悪いですよ」",
+      "en": "\"That's bad for your health, you know.\"",
+      "text": "\"That's bad for your health, you know.\""
+    },
+    {
+      "offset": 1301,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「朝倉はやさしいねぇ……」",
+      "en": "\"Oh, how kind of you...\"",
+      "text": "\"Oh, how kind of you...\""
+    },
+    {
+      "offset": 1343,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「でも――」",
+      "en": "\"However--\"",
+      "text": "\"However--\""
+    },
+    {
+      "offset": 1362,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふー……。",
+      "en": "Exhale...",
+      "text": "Exhale..."
+    },
+    {
+      "offset": 1405,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「タバコなら吸ってもそんなに害はないから」",
+      "en": "\"It's just tabacco, it can't do much harm.\"",
+      "text": "\"It's just tabacco, it can't do much harm.\""
+    },
+    {
+      "offset": 1454,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言って、また息を吸い――白い煙をはく。",
+      "en": "Once again, she breathed out, filling the air in front of\nher with smoke.",
+      "text": "Once again, she breathed out, filling the air in front of\nher with smoke."
+    },
+    {
+      "offset": 1501,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 1516,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……タバコ｛・・／なら｝ってなに？",
+      "en": "...It's just tabacco?",
+      "text": "...It's just tabacco?"
+    },
+    {
+      "offset": 1557,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（他になにを吸っていたんですか、貴方は！？）",
+      "en": "\"(The hell have you been inhaling before, then!?)\"",
+      "text": "\"(The hell have you been inhaling before, then!?)\""
+    },
+    {
+      "offset": 1608,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 1621,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "背筋に悪寒が走るものを感じる。",
+      "en": "A chill ran down my spine.",
+      "text": "A chill ran down my spine."
+    },
+    {
+      "offset": 1656,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やはりこの先生は謎だ。",
+      "en": "This teacher is a real enigma.",
+      "text": "This teacher is a real enigma."
+    },
+    {
+      "offset": 1787,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆暦先生が一服◆",
+      "en": "◆Koyomi-sensei's Smoke Break◆",
+      "text": "◆Koyomi-sensei's Smoke Break◆"
+    },
+    {
+      "offset": 1832,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "屋上で、一服している暦先生を見かけた。",
+      "en": "At the rooftop, I found Koyomi-sensei having a smoke.",
+      "text": "At the rooftop, I found Koyomi-sensei having a smoke."
+    },
+    {
+      "offset": 1875,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "タバコなんて、健康に悪いと思うんだがな\nあ……。",
+      "en": "I thought tabacco is supposed to be bad for your health...",
+      "text": "I thought tabacco is supposed to be bad for your health..."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "477": "???",
+    "573": "Koyomi",
+    "738": "Koyomi",
+    "910": "Koyomi",
+    "999": "Koyomi",
+    "1123": "Koyomi",
+    "1295": "Koyomi",
+    "1337": "Koyomi",
+    "1399": "Koyomi"
+  }
+}

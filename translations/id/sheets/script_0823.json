@@ -1,0 +1,777 @@
+{
+  "scene": "script_0823.obj",
+  "dialogues": [
+    {
+      "offset": 129,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お見舞いに柑橘系の果物を買ってきた。酸っぱ\nいものを食べれば元気になるかなと思ったのだ。",
+      "en": "I bought a basket of citrus fruits to visit her with. Maybe\nif she ate something sour, she'd cheer up as well.",
+      "text": "I bought a basket of citrus fruits to visit her with. Maybe\nif she ate something sour, she'd cheer up as well."
+    },
+    {
+      "offset": 221,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "たとえそれが気休めだと思っていても。",
+      "en": "It could serve as something soothing.",
+      "text": "It could serve as something soothing."
+    },
+    {
+      "offset": 262,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少しでも、ことりに元気になって欲しかったの\nだ。",
+      "en": "I just wanted Kotori to be a little happier...",
+      "text": "I just wanted Kotori to be a little happier..."
+    },
+    {
+      "offset": 314,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はことりが好きだから。",
+      "en": "Because I love her.",
+      "text": "Because I love her."
+    },
+    {
+      "offset": 376,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりの家の前に立つ。ぐっと腹に気合いを入\nれ、インターホンを押した。",
+      "en": "I stood in front of Kotori's house. Taking a deep breath, I\npressed the interphone button.",
+      "text": "I stood in front of Kotori's house. Taking a deep breath, I\npressed the interphone button."
+    },
+    {
+      "offset": 465,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "『……はい』",
+      "en": "\"...Yes?\"",
+      "text": "\"...Yes?\""
+    },
+    {
+      "offset": 484,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、[name]だけど」",
+      "en": "\"Ah, it's [name].\"",
+      "text": "\"Ah, it's [name].\""
+    },
+    {
+      "offset": 524,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "『あ、はい……』",
+      "en": "\"Ah, yes...\"",
+      "text": "\"Ah, yes...\""
+    },
+    {
+      "offset": 547,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「その……お見舞いに来たんだけど」",
+      "en": "\"I... came to visit you.\"",
+      "text": "\"I... came to visit you.\""
+    },
+    {
+      "offset": 601,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "『…………』",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 620,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ことり？」",
+      "en": "\"Kotori?\"",
+      "text": "\"Kotori?\""
+    },
+    {
+      "offset": 652,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "『そ、その……ごめん』",
+      "en": "\"I... I'm sorry.\"",
+      "text": "\"I... I'm sorry.\""
+    },
+    {
+      "offset": 681,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「え？」",
+      "en": "\"Eh?\"",
+      "text": "\"Eh?\""
+    },
+    {
+      "offset": 709,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "『その……今、ひどい顔をしてるの。だから\n　……』",
+      "en": "\"I... I look horrible now... so...\"",
+      "text": "\"I... I look horrible now... so...\""
+    },
+    {
+      "offset": 765,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "語尾がうやむやに途切れる。",
+      "en": "Her voice trailed off at the end.",
+      "text": "Her voice trailed off at the end."
+    },
+    {
+      "offset": 796,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "顔を見合わせてなくて良かった。落胆がはっき\nりと出てるだろうから。",
+      "en": "I was almost glad that I didn't have to see Kotori's face...\nit would probably discourage me.",
+      "text": "I was almost glad that I didn't have to see Kotori's face...\nit would probably discourage me."
+    },
+    {
+      "offset": 868,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……そう」",
+      "en": "\"...I see.\"",
+      "text": "\"...I see.\""
+    },
+    {
+      "offset": 900,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "『ごめんね……』",
+      "en": "\"I'm really sorry...\"",
+      "text": "\"I'm really sorry...\""
+    },
+    {
+      "offset": 923,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「いや、いいんだ」",
+      "en": "\"No, it's okay.\"",
+      "text": "\"No, it's okay.\""
+    },
+    {
+      "offset": 961,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "『…………』",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 980,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "インターホン越しのやりとりは、どこか寒々し\nいものがあった。電話じゃない。会話のための\n機械じゃないのだ。",
+      "en": "I could practically feel the desolation on the other side of\nthe interphone. This wasn't made for people to have\nconversations.",
+      "text": "I could practically feel the desolation on the other side of\nthe interphone. This wasn't made for people to have\nconversations."
+    },
+    {
+      "offset": 1091,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「えっと、明日、どうする？」",
+      "en": "\"Erm, about tomorrow, is it still on?\"",
+      "text": "\"Erm, about tomorrow, is it still on?\""
+    },
+    {
+      "offset": 1139,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "『……遊園地？』",
+      "en": "\"...The amusement park?\"",
+      "text": "\"...The amusement park?\""
+    },
+    {
+      "offset": 1162,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「体調悪いんだったら、明後日にする？　俺は、\n　それでもいいけど」",
+      "en": "\"If you're not feeling well, then shall we make it the day\nafter tomorrow? I'm fine with either.\"",
+      "text": "\"If you're not feeling well, then shall we make it the day\nafter tomorrow? I'm fine with either.\""
+    },
+    {
+      "offset": 1247,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "『…………』",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 1284,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "『う……ひっく……うう……』",
+      "en": "\"Uuu... sniff... uuu...\"",
+      "text": "\"Uuu... sniff... uuu...\""
+    },
+    {
+      "offset": 1319,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ことり？　どうしたんだよ？　……泣いてる\n　のか？」",
+      "en": "\"Kotori? What's wrong? ...Are you crying?\"",
+      "text": "\"Kotori? What's wrong? ...Are you crying?\""
+    },
+    {
+      "offset": 1379,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "インターホンに顔を近づける。少しでも、こと\nりを感じられるように……。",
+      "en": "I brought my face closer to the interphone. Futilely trying\nto feel her closer...",
+      "text": "I brought my face closer to the interphone. Futilely trying\nto feel her closer..."
+    },
+    {
+      "offset": 1468,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "『ううっ……ぐすん……ゆ、遊園地……行きた\n　いね……ひっく』",
+      "en": "\"Uuu... sniff... I want to go... to the amusement park...\nhic...\"",
+      "text": "\"Uuu... sniff... I want to go... to the amusement park...\nhic...\""
+    },
+    {
+      "offset": 1536,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ちょ……ちょっと、ことり、どうしたんだよ？\n　行きたいねって……行くに決まってるだろ？」",
+      "en": "\"W... wait, Kotori, what's wrong? You want to go... then why\ndon't we?\"",
+      "text": "\"W... wait, Kotori, what's wrong? You want to go... then why\ndon't we?\""
+    },
+    {
+      "offset": 1632,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "つい、声が荒くなってしまう。",
+      "en": "My voice was hurried and confused.",
+      "text": "My voice was hurried and confused."
+    },
+    {
+      "offset": 1667,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「体調なんて、すぐに良くなるよ」",
+      "en": "\"Whenever you feel better, that is.\"",
+      "text": "\"Whenever you feel better, that is.\""
+    },
+    {
+      "offset": 1719,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "『う、うん……そうだね』",
+      "en": "\"Y, yeah... that's right...\"",
+      "text": "\"Y, yeah... that's right...\""
+    },
+    {
+      "offset": 1750,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鼻をぐすぐす言わせながら、インターホンから\nそんな言葉が届いてきた。",
+      "en": "Along with the words, I could hear her rubbing her nose over\nthe interphone.",
+      "text": "Along with the words, I could hear her rubbing her nose over\nthe interphone."
+    },
+    {
+      "offset": 1837,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "『大丈夫……きっと、大丈夫……』",
+      "en": "\"I'm fine... I'll be fine...\"",
+      "text": "\"I'm fine... I'll be fine...\""
+    },
+    {
+      "offset": 1876,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……ことり……」",
+      "en": "\"...Kotori...\"",
+      "text": "\"...Kotori...\""
+    },
+    {
+      "offset": 1914,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "『明日になったら、私は……前の私に戻ってる\n　から……』",
+      "en": "\"Tomorrow, I'll... I'll go back to my old self...\"",
+      "text": "\"Tomorrow, I'll... I'll go back to my old self...\""
+    },
+    {
+      "offset": 1976,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………？」",
+      "en": "\"......?\"",
+      "text": "\"......?\""
+    },
+    {
+      "offset": 2010,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "『それじゃ……切るね』",
+      "en": "\"I'm hanging up now... goodbye.\"",
+      "text": "\"I'm hanging up now... goodbye.\""
+    },
+    {
+      "offset": 2039,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あっ」",
+      "en": "\"Ah!\"",
+      "text": "\"Ah!\""
+    },
+    {
+      "offset": 2054,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ガチャ。",
+      "en": "--*slam*",
+      "text": "--*slam*"
+    },
+    {
+      "offset": 2069,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2088,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「前の私……？」",
+      "en": "\"Her old self...?\"",
+      "text": "\"Her old self...?\""
+    },
+    {
+      "offset": 2111,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "前の私って……一体どういうことだ？",
+      "en": "Her old self... what's that supposed to mean?",
+      "text": "Her old self... what's that supposed to mean?"
+    },
+    {
+      "offset": 2150,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "わけが分からなかった。",
+      "en": "I didn't understand at all.",
+      "text": "I didn't understand at all."
+    },
+    {
+      "offset": 2177,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こんなインターホンで話しててもダメだ。",
+      "en": "This interphone was no good for talking.",
+      "text": "This interphone was no good for talking."
+    },
+    {
+      "offset": 2220,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こんなに側にいるのに、ことりを感じることが\nできないなんて意味がない。",
+      "en": "Something that doesn't let me feel like I'm beside Kotori\nhas no reason to exist as a communcation device.",
+      "text": "Something that doesn't let me feel like I'm beside Kotori\nhas no reason to exist as a communcation device."
+    },
+    {
+      "offset": 2294,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はインターホンを｛にら／睨｝みつけ──。",
+      "en": "I glared at the interphone--",
+      "text": "I glared at the interphone--"
+    },
+    {
+      "offset": 2343,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「うおぉぉぉぉっ！」",
+      "en": "\"Uwooooooooooohhh!\"",
+      "text": "\"Uwooooooooooohhh!\""
+    },
+    {
+      "offset": 2370,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "インターホンのボタンを連打する。すぐに、こ\nとりが出た。",
+      "en": "I pushed the interphone button like a madman, until Kotori\nfinally picked it up again.",
+      "text": "I pushed the interphone button like a madman, until Kotori\nfinally picked it up again."
+    },
+    {
+      "offset": 2445,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "『……どうしたの？』",
+      "en": "\"...What's wrong?\"",
+      "text": "\"...What's wrong?\""
+    },
+    {
+      "offset": 2472,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「こ、ことり、よーく聞いてくれ！」",
+      "en": "\"K, Kotori, listen and listen well!\"",
+      "text": "\"K, Kotori, listen and listen well!\""
+    },
+    {
+      "offset": 2513,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "インターホンなんか使わなくても聞こえるくら\nい大きな声で。",
+      "en": "My voice went up several decibels, although I knew I didn't\nneed to for her to be able to hear me.",
+      "text": "My voice went up several decibels, although I knew I didn't\nneed to for her to be able to hear me."
+    },
+    {
+      "offset": 2577,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺はだな！」",
+      "en": "\"I!\"",
+      "text": "\"I!\""
+    },
+    {
+      "offset": 2598,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "つまり、ご近所に筒抜けということで。",
+      "en": "My voice could be heard throughout the neighbourhood.",
+      "text": "My voice could be heard throughout the neighbourhood."
+    },
+    {
+      "offset": 2641,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ことりが！」",
+      "en": "\"Love!\"",
+      "text": "\"Love!\""
+    },
+    {
+      "offset": 2662,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今さらながら顔が熱くなってくる。",
+      "en": "My face was starting to redden.",
+      "text": "My face was starting to redden."
+    },
+    {
+      "offset": 2699,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だが、かまうもんかっ！",
+      "en": "But I can't be stopped now!",
+      "text": "But I can't be stopped now!"
+    },
+    {
+      "offset": 2728,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ことりが大好きだぁっ！」",
+      "en": "\"Love you, Kotori!\"",
+      "text": "\"Love you, Kotori!\""
+    },
+    {
+      "offset": 2761,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言い切った。",
+      "en": "My exclamation ended.",
+      "text": "My exclamation ended."
+    },
+    {
+      "offset": 2778,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "心臓がバクバク言ってる。気を抜いたら、今に\nも倒れてしまいそうだった。",
+      "en": "I had just shouted what my heart felt I should. I collapsed\nnext to the interphone.",
+      "text": "I had just shouted what my heart felt I should. I collapsed\nnext to the interphone."
+    },
+    {
+      "offset": 2867,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "『…………』",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2901,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "『ぷっ、くすくす……』",
+      "en": "\"Ha, hehe...\"",
+      "text": "\"Ha, hehe...\""
+    },
+    {
+      "offset": 2930,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ことり？」",
+      "en": "\"Kotori?\"",
+      "text": "\"Kotori?\""
+    },
+    {
+      "offset": 2949,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "屈託のない笑い声。久しぶりに耳にした。",
+      "en": "A carefree laugh. It's been a long time since I heard that\nfrom Kotori.",
+      "text": "A carefree laugh. It's been a long time since I heard that\nfrom Kotori."
+    },
+    {
+      "offset": 3007,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "『急になにを言い出すのかと思った』",
+      "en": "\"I thought it was something urgent.\"",
+      "text": "\"I thought it was something urgent.\""
+    },
+    {
+      "offset": 3061,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "『近所の人にまで聞こえちゃったよ』",
+      "en": "\"Everyone in the neighbourhood could hear you.\"",
+      "text": "\"Everyone in the neighbourhood could hear you.\""
+    },
+    {
+      "offset": 3102,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ご、ごめん」",
+      "en": "\"I, I'm sorry.\"",
+      "text": "\"I, I'm sorry.\""
+    },
+    {
+      "offset": 3136,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "『近所迷惑だって怒られたら、朝倉君のせいだ\n　からね？』",
+      "en": "\"If the neighbours complain about it, it'd be your fault,\nno?\"",
+      "text": "\"If the neighbours complain about it, it'd be your fault,\nno?\""
+    },
+    {
+      "offset": 3198,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「その時は代わりに謝っておいてくれ」",
+      "en": "\"When that happens, please apologize to them on my\nbehalf...\"",
+      "text": "\"When that happens, please apologize to them on my\nbehalf...\""
+    },
+    {
+      "offset": 3254,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "『うん、わかったよ』",
+      "en": "\"Yeah, I understand.\"",
+      "text": "\"Yeah, I understand.\""
+    },
+    {
+      "offset": 3281,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「明日、遊園地に行こうな」",
+      "en": "\"Let's go to the amusement park tomorrow.\"",
+      "text": "\"Let's go to the amusement park tomorrow.\""
+    },
+    {
+      "offset": 3327,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "『…………』",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3346,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3378,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "『…………』",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3397,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "永遠に続くかと思った沈黙は、しかし小さな吐\n息とともに終わりを告げる。",
+      "en": "There was nothing but silence for what seemed like an\neternity. Finally, her whispering voice strained out.",
+      "text": "There was nothing but silence for what seemed like an\neternity. Finally, her whispering voice strained out."
+    },
+    {
+      "offset": 3486,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "『…………それじゃ』",
+      "en": "\"...I'd see you.\"",
+      "text": "\"...I'd see you.\""
+    },
+    {
+      "offset": 3513,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ガチャ。",
+      "en": "--*slam*",
+      "text": "--*slam*"
+    },
+    {
+      "offset": 3528,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3547,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "答えはなかった。",
+      "en": "No response.",
+      "text": "No response."
+    },
+    {
+      "offset": 3568,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "けど、俺の気持ちはしっかりと伝えたし。最後\nには少し、ことりの声に元気が戻ったような気\nがする。",
+      "en": "But I was finally able to tell her my feelings. I felt that\nI had made her a little more cheerful, somehow.",
+      "text": "But I was finally able to tell her my feelings. I felt that\nI had made her a little more cheerful, somehow."
+    },
+    {
+      "offset": 3667,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "これで問題がすっかり解決したとは思えなかっ\nたけど……。",
+      "en": "But even then, it doesn't settle the big problem...",
+      "text": "But even then, it doesn't settle the big problem..."
+    },
+    {
+      "offset": 3729,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3748,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "白河家を仰ぎ見る。あの内側で、ことりは何を\n考えているのだろう？",
+      "en": "I looked up at the Shirakawa residence. Kotori is inside...\nwhat is she thinking?",
+      "text": "I looked up at the Shirakawa residence. Kotori is inside...\nwhat is she thinking?"
+    },
+    {
+      "offset": 3818,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（夢見る能力があれば、分かったかもしれない\n　のに……）",
+      "en": "\"(If I still had my dream-seeing powers, I could probably\nfind out...)\"",
+      "text": "\"(If I still had my dream-seeing powers, I could probably\nfind out...)\""
+    },
+    {
+      "offset": 3880,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや……あんなのは所詮、不自然だしな」",
+      "en": "\"No... in the end, that's not natural.\"",
+      "text": "\"No... in the end, that's not natural.\""
+    },
+    {
+      "offset": 3927,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あんな能力に頼らなくたって、俺はことりの恋\n人だし、これからだってそのつもりだ。",
+      "en": "I shouldn't be relying on things like that to be a good\nboyfriend to Kotori.",
+      "text": "I shouldn't be relying on things like that to be a good\nboyfriend to Kotori."
+    },
+    {
+      "offset": 4013,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（……よし）",
+      "en": "\"(...Alright.)\"",
+      "text": "\"(...Alright.)\""
+    },
+    {
+      "offset": 4032,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぐっと気合いを入れて、家路につく。",
+      "en": "Feeling charged up, I started heading home.",
+      "text": "Feeling charged up, I started heading home."
+    },
+    {
+      "offset": 4071,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "明日は楽しい一日にしよう。絶対に！",
+      "en": "Tomorrow will be a great day, definitely!",
+      "text": "Tomorrow will be a great day, definitely!"
+    },
+    {
+      "offset": 4214,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆ことりの苦しみ◆",
+      "en": "◆Kotori's Pain◆",
+      "text": "◆Kotori's Pain◆"
+    },
+    {
+      "offset": 4261,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お見舞いに行くが、ことりは顔を見せなかった。",
+      "en": "I tried to visit Kotori, but couldn't even see her face.",
+      "text": "I tried to visit Kotori, but couldn't even see her face."
+    },
+    {
+      "offset": 4310,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だが、俺はことりが好きだと伝え、ことりにそ\nの気持ちは届いたと信じたい……。",
+      "en": "Yet, I believe that my feelings of love for her were able to\nreach her...",
+      "text": "Yet, I believe that my feelings of love for her were able to\nreach her..."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "455": "Kotori",
+    "514": "Kotori",
+    "591": "Kotori",
+    "642": "Kotori",
+    "699": "Kotori",
+    "890": "Kotori",
+    "951": "Kotori",
+    "1129": "Kotori",
+    "1237": "Kotori",
+    "1274": "Kotori",
+    "1458": "Kotori",
+    "1709": "Kotori",
+    "1827": "Kotori",
+    "1904": "Kotori",
+    "2000": "Kotori",
+    "2435": "Kotori",
+    "2857": "Kotori",
+    "2891": "Kotori",
+    "2997": "Kotori",
+    "3051": "Kotori",
+    "3126": "Kotori",
+    "3244": "Kotori",
+    "3317": "Kotori",
+    "3368": "Kotori",
+    "3476": "Kotori"
+  }
+}

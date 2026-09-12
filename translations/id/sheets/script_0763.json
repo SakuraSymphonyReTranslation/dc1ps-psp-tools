@@ -1,0 +1,375 @@
+{
+  "scene": "script_0763.obj",
+  "dialogues": [
+    {
+      "offset": 190,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「おはよー、お兄ちゃん♪」",
+      "en": "\"Good morning, oniichan!\"",
+      "text": "\"Good morning, oniichan!\""
+    },
+    {
+      "offset": 223,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「よ」",
+      "en": "\"Hey.\"",
+      "text": "\"Hey.\""
+    },
+    {
+      "offset": 236,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛まぶ／眩｝しい朝日の中に顔をつっこむと、｛まぶた／瞼｝の上から\nの光でも目が痛んだ。",
+      "en": "The dazzling morning sun makes my eyes hurt even when\nthey're closed.",
+      "text": "The dazzling morning sun makes my eyes hurt even when\nthey're closed."
+    },
+    {
+      "offset": 387,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゃ？　なんで制服着てないの？」",
+      "en": "\"Hm? Why aren't you wearing your uniform?\"",
+      "text": "\"Hm? Why aren't you wearing your uniform?\""
+    },
+    {
+      "offset": 430,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「え、ああ。音夢が倒れたんで、看病してたら\n　朝になってた」",
+      "en": "\"Oh, yeah. I was taking care of Nemu after she fainted, and\nwhen I noticed, it was already morning.\"",
+      "text": "\"Oh, yeah. I was taking care of Nemu after she fainted, and\nwhen I noticed, it was already morning.\""
+    },
+    {
+      "offset": 496,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目をこすって、昨日からそのまま着っぱなしの\n服をひっぱる。",
+      "en": "Rubbing my eyes, I tug briefly at the uniform from\nyesterday.",
+      "text": "Rubbing my eyes, I tug briefly at the uniform from\nyesterday."
+    },
+    {
+      "offset": 560,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「悪いけど、今日は休むよ」",
+      "en": "\"Sorry, but I've got to sleep.\"",
+      "text": "\"Sorry, but I've got to sleep.\""
+    },
+    {
+      "offset": 623,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……音夢ちゃんが倒れた？」",
+      "en": "\"Nemu-chan fainted?\"",
+      "text": "\"Nemu-chan fainted?\""
+    },
+    {
+      "offset": 658,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あぁ……」",
+      "en": "\"Yeah...\"",
+      "text": "\"Yeah...\""
+    },
+    {
+      "offset": 677,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "桜の花びらを吐いたとはいえないし、音夢自身、\nとりあえず落ち着きを取り戻して今は寝ている。",
+      "en": "I can't exactly say she spilled cherry petals from her\nmouth, and she's sleeping comfortably now.",
+      "text": "I can't exactly say she spilled cherry petals from her\nmouth, and she's sleeping comfortably now."
+    },
+    {
+      "offset": 771,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当は救急車でも呼ぼうと思ったのだが、あん\nまりな状態なので様子を見ていたのだが……。",
+      "en": "I almost called an ambulance, but there was quite a\nsituation, so I was just watching over her.",
+      "text": "I almost called an ambulance, but there was quite a\nsituation, so I was just watching over her."
+    },
+    {
+      "offset": 863,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「やっぱり病院に連れて行って、検査次第では\n　明日も休むかも知れない」",
+      "en": "\"I'll take her to a hospital later, and I may not go to\nschool tomorrow depending on the result of her check-up.\"",
+      "text": "\"I'll take her to a hospital later, and I may not go to\nschool tomorrow depending on the result of her check-up.\""
+    },
+    {
+      "offset": 952,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「寝てるの？」",
+      "en": "\"Slept?\"",
+      "text": "\"Slept?\""
+    },
+    {
+      "offset": 973,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あぁ、寝てるよ」",
+      "en": "\"Yes, she did.\"",
+      "text": "\"Yes, she did.\""
+    },
+    {
+      "offset": 1011,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うんん。お兄ちゃんがだよ」",
+      "en": "\"No, I mean you, oniichan.\"",
+      "text": "\"No, I mean you, oniichan.\""
+    },
+    {
+      "offset": 1046,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「？　あぁ、俺か……いや」",
+      "en": "\"Oh, me? Not really...\"",
+      "text": "\"Oh, me? Not really...\""
+    },
+    {
+      "offset": 1079,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いまいち緩慢な動きで首を振る。",
+      "en": "I shake my head slowly.",
+      "text": "I shake my head slowly."
+    },
+    {
+      "offset": 1116,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「音夢を病院に連れて行ってから寝るよ」",
+      "en": "\"I'll sleep after I take Nemu to a hospital.\"",
+      "text": "\"I'll sleep after I take Nemu to a hospital.\""
+    },
+    {
+      "offset": 1191,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1240,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「分かった。なんかあったら連絡してね」",
+      "en": "\"Okay. If you need me, call me any time.\"",
+      "text": "\"Okay. If you need me, call me any time.\""
+    },
+    {
+      "offset": 1285,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あぁ」",
+      "en": "\"Sure.\"",
+      "text": "\"Sure.\""
+    },
+    {
+      "offset": 1312,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらを見送って、｛あくび／欠伸｝をかみ殺しながら家に\n戻る。",
+      "en": "After seeing Sakura off, I go back to the house while\nswallowing a yawn.",
+      "text": "After seeing Sakura off, I go back to the house while\nswallowing a yawn."
+    },
+    {
+      "offset": 1403,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……はい、宜しくお願いします」",
+      "en": "\"Yes, thank you.\"",
+      "text": "\"Yes, thank you.\""
+    },
+    {
+      "offset": 1442,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "電話でタクシーを呼んだ後、ソファーに身体を\n投げ出す。",
+      "en": "After I phone for a taxi, I throw myself on the couch.",
+      "text": "After I phone for a taxi, I throw myself on the couch."
+    },
+    {
+      "offset": 1502,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1521,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "かったるい、と言うのもかったるい。",
+      "en": "It's too much of a pain to even say it's a pain.",
+      "text": "It's too much of a pain to even say it's a pain."
+    },
+    {
+      "offset": 1560,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "床に散らばった桜の花びら。",
+      "en": "There are lots of cherry petals on the floor.",
+      "text": "There are lots of cherry petals on the floor."
+    },
+    {
+      "offset": 1591,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それを手のひらですくう。",
+      "en": "I scoop them up with my hands.",
+      "text": "I scoop them up with my hands."
+    },
+    {
+      "offset": 1620,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぱらぱら、と指の隙間から舞い落ちる、桜の花\nびら。",
+      "en": "The cherry petals sprinkle down through my fingers.",
+      "text": "The cherry petals sprinkle down through my fingers."
+    },
+    {
+      "offset": 1676,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………？」",
+      "en": "\".........?\"",
+      "text": "\".........?\""
+    },
+    {
+      "offset": 1697,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "口の中におかしな感触がして、それを舌で探り\n当てて外にだす。",
+      "en": "My mouth feels something strange, so I push it out with my\ntongue.",
+      "text": "My mouth feels something strange, so I push it out with my\ntongue."
+    },
+    {
+      "offset": 1763,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「これは」",
+      "en": "\"This is...\"",
+      "text": "\"This is...\""
+    },
+    {
+      "offset": 1782,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "指の腹にはりついたそれは、紛れもなく、桜の\n花びらだった。",
+      "en": "The thing sticking on my fingertip is a cherry petal, beyond\ndoubt.",
+      "text": "The thing sticking on my fingertip is a cherry petal, beyond\ndoubt."
+    },
+    {
+      "offset": 1870,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 1883,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 1896,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "特にこれといった異常は認められません。",
+      "en": "There's nothing wrong with her.",
+      "text": "There's nothing wrong with her."
+    },
+    {
+      "offset": 1939,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "痩せすぎなので、季節の変わり目に体調を崩し\nたのかも知れませんね。",
+      "en": "She is too thin, which could upset her health in a seasonal\nchange.",
+      "text": "She is too thin, which could upset her health in a seasonal\nchange."
+    },
+    {
+      "offset": 2009,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただし、検査はしてみましょう。",
+      "en": "However, just in case, let's do some further examination on\nher.",
+      "text": "However, just in case, let's do some further examination on\nher."
+    },
+    {
+      "offset": 2044,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "入院です――。",
+      "en": "She requires hospitalization.",
+      "text": "She requires hospitalization."
+    },
+    {
+      "offset": 2063,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな言葉が脳にこびりついたまま、俺はいつ\nのまにか自分の部屋のベッドに寝ていて。",
+      "en": "As the doctor's words run through my mind again, I realize\nI'm sleeping in my own bed.",
+      "text": "As the doctor's words run through my mind again, I realize\nI'm sleeping in my own bed."
+    },
+    {
+      "offset": 2149,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "深い眠りに落ちた……。",
+      "en": "I drift into a deep sleep.",
+      "text": "I drift into a deep sleep."
+    },
+    {
+      "offset": 2280,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆異常は認められません◆",
+      "en": "◆The doctor says she's OK◆",
+      "text": "◆The doctor says she's OK◆"
+    },
+    {
+      "offset": 2326,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "徹夜で音夢を看病した次の日、さくらが家に来\nる。",
+      "en": "The day after I took care of Nemu through the night, Sakura\nvisited my house.",
+      "text": "The day after I took care of Nemu through the night, Sakura\nvisited my house."
+    },
+    {
+      "offset": 2378,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "事情を話すと、お兄ちゃんも気をつけてね、と\n身体の心配をしてもらった。",
+      "en": "When I told her the situation, she said to me that I should\nbe careful with my health as well.",
+      "text": "When I told her the situation, she said to me that I should\nbe careful with my health as well."
+    },
+    {
+      "offset": 2452,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、音夢を病院に連れて行こうとしたとき、\nふと、自分の口からも桜の花びらがこぼれてき\nたことにショックを受けた……。",
+      "en": "When I was about to take Nemu to the hospital, I saw cherry\npetals spilling out of my mouth, which gave me a shock...",
+      "text": "When I was about to take Nemu to the hospital, I saw cherry\npetals spilling out of my mouth, which gave me a shock..."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "180": "Sakura",
+    "377": "Sakura",
+    "613": "Sakura",
+    "942": "Sakura",
+    "1001": "Sakura",
+    "1181": "Sakura",
+    "1230": "Sakura"
+  }
+}

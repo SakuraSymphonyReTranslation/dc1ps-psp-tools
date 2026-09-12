@@ -1,0 +1,586 @@
+{
+  "scene": "script_0417.obj",
+  "dialogues": [
+    {
+      "offset": 205,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おはよ」",
+      "en": "\"Mornin'.\"",
+      "text": "\"Mornin'.\""
+    },
+    {
+      "offset": 255,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「おはよう……じ〜」",
+      "en": "\"Good mor....jiii~.\"",
+      "text": "\"Good mor....jiii~.\""
+    },
+    {
+      "offset": 282,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「朝からわけのわからん擬音が飛び出すとは\n　……相当元気みたいだな」",
+      "en": "\"Making unintelligible sounds at this time in the morning...\nyou must be feeling especially chipper.\"",
+      "text": "\"Making unintelligible sounds at this time in the morning...\nyou must be feeling especially chipper.\""
+    },
+    {
+      "offset": 395,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「どんな元気さですかそれは！」",
+      "en": "\"What do you mean by that?!\"",
+      "text": "\"What do you mean by that?!\""
+    },
+    {
+      "offset": 432,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そんな元気さだ。……おっ、今朝は、俺のも\n　用意してあるんだな」",
+      "en": "\"Looks like I've just been proven right. ...Ooh, you\nremembered to prepare my portion today.\"",
+      "text": "\"Looks like I've just been proven right. ...Ooh, you\nremembered to prepare my portion today.\""
+    },
+    {
+      "offset": 504,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "テーブルに着き、早速トーストをパクつく。",
+      "en": "I chowed down on my slice of toast quickly.",
+      "text": "I chowed down on my slice of toast quickly."
+    },
+    {
+      "offset": 551,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、何？」",
+      "en": "\"So what's wrong?\"",
+      "text": "\"So what's wrong?\""
+    },
+    {
+      "offset": 570,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の顔をじとっと見つめる音夢に｛たず／訊｝ねる。",
+      "en": "Feeling uncomfortable at Nemu's staring at me, I posed her a\nquestion.",
+      "text": "Feeling uncomfortable at Nemu's staring at me, I posed her a\nquestion."
+    },
+    {
+      "offset": 656,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……最近、白河さんと仲いいらしいですね」",
+      "en": "\"...Recently, you've been awfully friendly with\nShirakawa-san, haven't you.\"",
+      "text": "\"...Recently, you've been awfully friendly with\nShirakawa-san, haven't you.\""
+    },
+    {
+      "offset": 705,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うっ……ごくん」",
+      "en": "\"Uuuhh.. *swig*\"",
+      "text": "\"Uuuhh.. *swig*\""
+    },
+    {
+      "offset": 730,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "コーヒーで流し込み、何とか息をつく。",
+      "en": "My swallowing of my coffee almost went down the wrong way.",
+      "text": "My swallowing of my coffee almost went down the wrong way."
+    },
+    {
+      "offset": 773,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「な、何だよ、急に。だいたいだなあ、何でそ\n　んな事……」",
+      "en": "\"W, what, so fast? How do you know that...\"",
+      "text": "\"W, what, so fast? How do you know that...\""
+    },
+    {
+      "offset": 865,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「呆れた。知らないんですか？」",
+      "en": "\"Surprising. You didn't know?\"",
+      "text": "\"Surprising. You didn't know?\""
+    },
+    {
+      "offset": 902,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「何を？」",
+      "en": "\"Know what?\"",
+      "text": "\"Know what?\""
+    },
+    {
+      "offset": 947,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「学園で、すっかり噂になってるんですよ」",
+      "en": "\"You two are the topic of every piece of gossip around\nschool recently.\"",
+      "text": "\"You two are the topic of every piece of gossip around\nschool recently.\""
+    },
+    {
+      "offset": 994,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うっ……ごくん」",
+      "en": "\"Uuuhh... *swig*\"",
+      "text": "\"Uuuhh... *swig*\""
+    },
+    {
+      "offset": 1019,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "コーヒーで流し込む。何で、ホットを２口で消\n費せにゃならんのだ。",
+      "en": "I took another large gulp of coffee. I'd almost finished the\nentire hot cup in two swigs.",
+      "text": "I took another large gulp of coffee. I'd almost finished the\nentire hot cup in two swigs."
+    },
+    {
+      "offset": 1117,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ねえ、兄さん……」",
+      "en": "\"Hey, brother...\"",
+      "text": "\"Hey, brother...\""
+    },
+    {
+      "offset": 1144,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ん？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 1159,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "空になったカップの底を寂しく見つめる。音夢\nの視線から逃れるように。",
+      "en": "I stared at the bottom of the cup to avoid eye contact with\nNemu.",
+      "text": "I stared at the bottom of the cup to avoid eye contact with\nNemu."
+    },
+    {
+      "offset": 1244,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「白河さんのこと、好きなの？」",
+      "en": "\"Do you like Shirakawa-san?\"",
+      "text": "\"Do you like Shirakawa-san?\""
+    },
+    {
+      "offset": 1281,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うっ……く、苦──」",
+      "en": "\"Uuuhh... gah, bitter...\"",
+      "text": "\"Uuuhh... gah, bitter...\""
+    },
+    {
+      "offset": 1338,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「もう、パンは食べ終わってるじゃない」",
+      "en": "\"Geez, You haven't even finished your bread yet...\"",
+      "text": "\"Geez, You haven't even finished your bread yet...\""
+    },
+    {
+      "offset": 1383,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\".......\"",
+      "text": "\".......\""
+    },
+    {
+      "offset": 1402,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "パンも食べ終わり、コーヒーも飲み終わって、\nつまりは、俺はここに座っている必要がない。",
+      "en": "Now that I've finished my bread and drank my coffee, there's\nno reason for me to be sitting here anymore.",
+      "text": "Now that I've finished my bread and drank my coffee, there's\nno reason for me to be sitting here anymore."
+    },
+    {
+      "offset": 1492,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "けれど、立ち去るのはためらわれた。",
+      "en": "I quickly stood up and tried to escape the situation as\nquickly as I could.",
+      "text": "I quickly stood up and tried to escape the situation as\nquickly as I could."
+    },
+    {
+      "offset": 1533,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……どうなんだろうな。確かに、最近、一緒\n　に居る事が多いけど……」",
+      "en": "\"...I don't know. We just happen to be involved in a lot of\nmatters that we were similarly interested in...\"",
+      "text": "\"...I don't know. We just happen to be involved in a lot of\nmatters that we were similarly interested in...\""
+    },
+    {
+      "offset": 1609,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "好きとか嫌いとかって話になったら……正直、\nどうなのか分からない。",
+      "en": "I don't really want to say that I do in front of Nemu... but\nhonestly, I don't really know myself.",
+      "text": "I don't really want to say that I do in front of Nemu... but\nhonestly, I don't really know myself."
+    },
+    {
+      "offset": 1709,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ね、兄さん」",
+      "en": "\"You know, brother.\"",
+      "text": "\"You know, brother.\""
+    },
+    {
+      "offset": 1730,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ん？」",
+      "en": "\"Mm?\"",
+      "text": "\"Mm?\""
+    },
+    {
+      "offset": 1756,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「好きになっちゃったなら、私はそれでいいよ」",
+      "en": "\"Whether or not you've fallen in love, that's fine with me.\"",
+      "text": "\"Whether or not you've fallen in love, that's fine with me.\""
+    },
+    {
+      "offset": 1807,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 1854,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「どこまで行ったって、兄さんは私の兄さんだ\n　し、私は、兄さんの妹なんだから」",
+      "en": "\"No matter which route you'd take, you'd always be my\nbrother, and I'd always be your sister.\"",
+      "text": "\"No matter which route you'd take, you'd always be my\nbrother, and I'd always be your sister.\""
+    },
+    {
+      "offset": 1938,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 1957,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「バッカ」",
+      "en": "\"Iiiidiot.\"",
+      "text": "\"Iiiidiot.\""
+    },
+    {
+      "offset": 2002,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うっ……な、何よ〜！」",
+      "en": "\"W....whaaat? Geez!\"",
+      "text": "\"W....whaaat? Geez!\""
+    },
+    {
+      "offset": 2033,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いいから、さっさとメシ食えよな。遅れるぜ？\n　俺は、もう一杯、コーヒー飲んでるからよ」",
+      "en": "\"Whatever, hurry up and finish your breakfast already,\nyou're going to be late. I'd go make another cup of coffee.\"",
+      "text": "\"Whatever, hurry up and finish your breakfast already,\nyou're going to be late. I'd go make another cup of coffee.\""
+    },
+    {
+      "offset": 2155,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……うん」",
+      "en": "\"...Okay.\"",
+      "text": "\"...Okay.\""
+    },
+    {
+      "offset": 2273,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「おはようさんです〜」",
+      "en": "\"Good morning~\"",
+      "text": "\"Good morning~\""
+    },
+    {
+      "offset": 2346,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「おはようございます」",
+      "en": "\"Good morning.\"",
+      "text": "\"Good morning.\""
+    },
+    {
+      "offset": 2375,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「おはよ……う」",
+      "en": "\"Mornin...g.\"",
+      "text": "\"Mornin...g.\""
+    },
+    {
+      "offset": 2439,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ん？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 2454,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、いやあ……その、マスク取れたんだ？」",
+      "en": "\"Ah, just... you've taken off your mask?\"",
+      "text": "\"Ah, just... you've taken off your mask?\""
+    },
+    {
+      "offset": 2533,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「はい。やっぱり夜ぐっすり眠ったら、調子が\n　良くなりました」",
+      "en": "\"Yep! I had a good night's sleep yesterday, and I'm feeling\nmuch better now.\"",
+      "text": "\"Yep! I had a good night's sleep yesterday, and I'm feeling\nmuch better now.\""
+    },
+    {
+      "offset": 2601,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そ、そりゃ良かった」",
+      "en": "\"T, that's good.\"",
+      "text": "\"T, that's good.\""
+    },
+    {
+      "offset": 2630,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "（くっ……音夢が変な事言ったせいで、妙に意\n　識しちまうじゃねえか……）",
+      "en": "\"(Damnit... Nemu's weird talk just now's really affecting\nme, I'm seeing a lot more about Kotori than usual...)\"",
+      "text": "\"(Damnit... Nemu's weird talk just now's really affecting\nme, I'm seeing a lot more about Kotori than usual...)\""
+    },
+    {
+      "offset": 2708,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "（色つやのいい唇とか、ぱっちりと長い｛まつげ／睫毛｝と\n　か、すっと通った鼻筋とか、そういうのが気\n　になっちまうじゃねえか……）",
+      "en": "\"(Those nicely coloured lips, the long eyebrows that seem to\ngo on forever, that cute, perky little nose...)\"",
+      "text": "\"(Those nicely coloured lips, the long eyebrows that seem to\ngo on forever, that cute, perky little nose...)\""
+    },
+    {
+      "offset": 2873,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「な、何ですか、赤い顔しちゃって〜……」",
+      "en": "\"Y, your face is turning red~\"",
+      "text": "\"Y, your face is turning red~\""
+    },
+    {
+      "offset": 2950,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……ね、熱でもあるんですか？　私の風邪、\n　移っちゃいました？」",
+      "en": "\"...Uhm, are you feeling hot? Did I pass my cold on to you?\"",
+      "text": "\"...Uhm, are you feeling hot? Did I pass my cold on to you?\""
+    },
+    {
+      "offset": 3022,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「いやいや、そんなんじゃないんだけど」",
+      "en": "\"No no no, that's not it...\"",
+      "text": "\"No no no, that's not it...\""
+    },
+    {
+      "offset": 3067,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3116,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3174,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「（くっ……何見つめ合ってんのよ……）」",
+      "en": "\"(Kuh... look at them staring at each other like that...)\"",
+      "text": "\"(Kuh... look at them staring at each other like that...)\""
+    },
+    {
+      "offset": 3232,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「（やっぱり、ムカツクわね……）」",
+      "en": "\"(It's disgusting...)\"",
+      "text": "\"(It's disgusting...)\""
+    },
+    {
+      "offset": 3273,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「は、はは……何だよ、音夢。変な顔しちゃっ\n　て」",
+      "en": "\"Ha, haha... what's wrong, Nemu, your face looks weird.\"",
+      "text": "\"Ha, haha... what's wrong, Nemu, your face looks weird.\""
+    },
+    {
+      "offset": 3360,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「元々です。おほほほ」",
+      "en": "\"It's completely natural. O ho ho ho!\"",
+      "text": "\"It's completely natural. O ho ho ho!\""
+    },
+    {
+      "offset": 3389,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あははは」",
+      "en": "\"A ha ha ha.\"",
+      "text": "\"A ha ha ha.\""
+    },
+    {
+      "offset": 3438,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「うふふふ」",
+      "en": "\"Uhe he he.\"",
+      "text": "\"Uhe he he.\""
+    },
+    {
+      "offset": 3485,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3534,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3553,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3572,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "………。",
+      "en": ".........",
+      "text": "........."
+    },
+    {
+      "offset": 3585,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 3596,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…。",
+      "en": "...",
+      "text": "..."
+    },
+    {
+      "offset": 3607,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「行こか」",
+      "en": "\"Let's go.\"",
+      "text": "\"Let's go.\""
+    },
+    {
+      "offset": 3746,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆ことりの事◆",
+      "en": "◆There's Something About Kotori◆",
+      "text": "◆There's Something About Kotori◆"
+    },
+    {
+      "offset": 3793,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢が妙な事を言ってきた。俺が、ことりの事\nを好きなのかどうなのか、とか。",
+      "en": "Nemu asked me something weird; whether I liked Kotori.",
+      "text": "Nemu asked me something weird; whether I liked Kotori."
+    },
+    {
+      "offset": 3871,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それが実際のところどっちなのか、俺にも分か\nらない。",
+      "en": "In truth, I really didn't know whether I did or not.",
+      "text": "In truth, I really didn't know whether I did or not."
+    },
+    {
+      "offset": 3958,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢が妙な事を言ったせいなのかどうなのか、\nやけにことりを意識してしまう俺であった。",
+      "en": "Thanks to Nemu's weird implications, I felt stranger than\nusual when I met Kotori later.",
+      "text": "Thanks to Nemu's weird implications, I felt stranger than\nusual when I met Kotori later."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "247": "Nemu",
+    "387": "Nemu",
+    "648": "Nemu",
+    "857": "Nemu",
+    "939": "Nemu",
+    "1109": "Nemu",
+    "1236": "Nemu",
+    "1330": "Nemu",
+    "1701": "Nemu",
+    "1748": "Nemu",
+    "1846": "Nemu",
+    "1994": "Nemu",
+    "2147": "Nemu",
+    "2263": "Kotori",
+    "2338": "Nemu",
+    "2429": "Kotori",
+    "2523": "Kotori",
+    "2863": "Kotori",
+    "2940": "Kotori",
+    "3106": "Kotori",
+    "3166": "Nemu",
+    "3224": "Nemu",
+    "3352": "Nemu",
+    "3428": "Kotori",
+    "3477": "Nemu",
+    "3524": "Kotori"
+  }
+}

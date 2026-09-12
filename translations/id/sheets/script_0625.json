@@ -1,0 +1,850 @@
+{
+  "scene": "script_0625.obj",
+  "dialogues": [
+    {
+      "offset": 198,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「と、言うわけで――今日の授業はお〜しまい。\n　週番さんは号令」",
+      "en": "\"That's all for today. Can the person on the rota direct the\nclass to leave.\"",
+      "text": "\"That's all for today. Can the person on the rota direct the\nclass to leave.\""
+    },
+    {
+      "offset": 268,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぱん、とさくらが手を鳴らす。",
+      "en": "Sakura claps her hands.",
+      "text": "Sakura claps her hands."
+    },
+    {
+      "offset": 301,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日１日が丸ごと夢なんじゃないかと思ってい\nたが、どうやら現実らしい。",
+      "en": "I thought everything that's happening here was a dream, but\nI guess it is real.",
+      "text": "I thought everything that's happening here was a dream, but\nI guess it is real."
+    },
+    {
+      "offset": 377,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……長かった」",
+      "en": "\"It was a long day.\"",
+      "text": "\"It was a long day.\""
+    },
+    {
+      "offset": 400,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "授業中も昼休みも、ずっとこの時を待っていた。",
+      "en": "I was waiting for this moment all through classes and lunch\nrecess.",
+      "text": "I was waiting for this moment all through classes and lunch\nrecess."
+    },
+    {
+      "offset": 449,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日はさくらの担当の授業はなく、人前で接触\nなんてしようとも思わなかったし、昼休みも職\n員室にいられては手がでない。",
+      "en": "I didn't have Sakura's class today. Of course, I didn't want\nto talk with her in public and go inside the faculty room\nduring the lunch recess.",
+      "text": "I didn't have Sakura's class today. Of course, I didn't want\nto talk with her in public and go inside the faculty room\nduring the lunch recess."
+    },
+    {
+      "offset": 568,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やつの首根っこを押さえて、頭を握り締めなが\nら奥歯ガタガタ言わせる時がついに来たのだ。",
+      "en": "This is the time I should grab her neck and squeeze her\nhead, making her scared.",
+      "text": "This is the time I should grab her neck and squeeze her\nhead, making her scared."
+    },
+    {
+      "offset": 695,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あの、芳乃……先生、まだ週番をどうするか\n　決めていませんけど」",
+      "en": "\"Excuse me, Yoshino... sensei. We don't know who's on the\nrota.\"",
+      "text": "\"Excuse me, Yoshino... sensei. We don't know who's on the\nrota.\""
+    },
+    {
+      "offset": 767,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "元クラスメートだけあって動揺も大きいだろう\nが、ことりはすでに適応している。",
+      "en": "Kotori seems to be adjusted to the situation, even if she\nfeels shocked that the teacher is her old classmate.",
+      "text": "Kotori seems to be adjusted to the situation, even if she\nfeels shocked that the teacher is her old classmate."
+    },
+    {
+      "offset": 884,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あ、そっか。どうしよっかどうしよっか……\n　考え中」",
+      "en": "\"Oh, right. What shall I do? Think, think...\"",
+      "text": "\"Oh, right. What shall I do? Think, think...\""
+    },
+    {
+      "offset": 944,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "早く終われ〜、早く終われ〜、早く終われ〜\n……。",
+      "en": "Finish it, finish, finish now...",
+      "text": "Finish it, finish, finish now..."
+    },
+    {
+      "offset": 1028,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「じゃあ、出席番号順でいきましょう」",
+      "en": "\"Then, let's go in the order of the attendance book.\"",
+      "text": "\"Then, let's go in the order of the attendance book.\""
+    },
+    {
+      "offset": 1071,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "早く終われ〜、早く終われ〜、早く終われ〜\n……。",
+      "en": "Finish it, finish, finish now...",
+      "text": "Finish it, finish, finish now..."
+    },
+    {
+      "offset": 1158,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「おい朝倉」",
+      "en": "\"Hey, Asakura.\"",
+      "text": "\"Hey, Asakura.\""
+    },
+    {
+      "offset": 1177,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「なんだ。俺の呪いを中断させると恐ろしいこ\n　とが起こるぞ？　食事の中に銀紙が入ってる\n　とか」",
+      "en": "\"Oh, don't interrupt my chanting, otherwise something's\ngonna happen to you like a piece of an aluminum foil in your\nfood.\"",
+      "text": "\"Oh, don't interrupt my chanting, otherwise something's\ngonna happen to you like a piece of an aluminum foil in your\nfood.\""
+    },
+    {
+      "offset": 1289,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「いや、出席番号順だとお前が１番だろう？」",
+      "en": "\"You are the first one according to the attendance book,\naren't you?\"",
+      "text": "\"You are the first one according to the attendance book,\naren't you?\""
+    },
+    {
+      "offset": 1338,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「あん？」",
+      "en": "\"Um?\"",
+      "text": "\"Um?\""
+    },
+    {
+      "offset": 1400,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「はい、じゃあ朝倉お兄ちゃん♪」",
+      "en": "\"Okay, can you do that, Asakura-oniichan?\"",
+      "text": "\"Okay, can you do that, Asakura-oniichan?\""
+    },
+    {
+      "offset": 1439,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ぶっ！？」",
+      "en": "\"Ahh!\"",
+      "text": "\"Ahh!\""
+    },
+    {
+      "offset": 1458,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺への衝撃とともにクラス中にも波紋が広がる。",
+      "en": "The shockwave goes deep inside me as well as in the class.",
+      "text": "The shockwave goes deep inside me as well as in the class."
+    },
+    {
+      "offset": 1509,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お、い……さ、く、ら……」",
+      "en": "\"Hey... Sakura...\"",
+      "text": "\"Hey... Sakura...\""
+    },
+    {
+      "offset": 1544,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こめかみをおさえて、ギリギリと立ち上がる。",
+      "en": "I stand up, embarrassedly rubbing my temple.",
+      "text": "I stand up, embarrassedly rubbing my temple."
+    },
+    {
+      "offset": 1623,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「さくら先生」",
+      "en": "\"Sakura-sensei.\"",
+      "text": "\"Sakura-sensei.\""
+    },
+    {
+      "offset": 1644,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「さくら」",
+      "en": "\"Sakura.\"",
+      "text": "\"Sakura.\""
+    },
+    {
+      "offset": 1674,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「さくら先生」",
+      "en": "\"Sakura-sensei.\"",
+      "text": "\"Sakura-sensei.\""
+    },
+    {
+      "offset": 1695,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「さくら」",
+      "en": "\"Sakura.\"",
+      "text": "\"Sakura.\""
+    },
+    {
+      "offset": 1742,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゃ……学園では公私混同しちゃダメだよ、\n　お兄ちゃん？」",
+      "en": "\"Hm... You can't mix private and public matters at school,\noniichan.\"",
+      "text": "\"Hm... You can't mix private and public matters at school,\noniichan.\""
+    },
+    {
+      "offset": 1810,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「公私混同してるのはお前だーーーっ！！」",
+      "en": "\"You are the one who's doing it!!\"",
+      "text": "\"You are the one who's doing it!!\""
+    },
+    {
+      "offset": 1887,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゃ〜〜〜〜ッ！？」",
+      "en": "\"Hmmm!!\"",
+      "text": "\"Hmmm!!\""
+    },
+    {
+      "offset": 1918,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "近寄ってきたさくらの首をひっつかまえて、\nヘッドロックをかます。",
+      "en": "I grab her neck when she gets closer to me, and give her a\nheadlock.",
+      "text": "I grab her neck when she gets closer to me, and give her a\nheadlock."
+    },
+    {
+      "offset": 1988,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ちょっとコイツと話があるから、全員帰れ\n　〜！」",
+      "en": "\"I have to talk to her, so everyone can go home now!\"",
+      "text": "\"I have to talk to her, so everyone can go home now!\""
+    },
+    {
+      "offset": 2074,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「嫌だ嫌だぁ！　夢の講師になって初めてのホー\n　ムルームなのに〜！」",
+      "en": "\"No way! This is my first homeroom after finally achieving\nmy dream of becoming a teacher!\"",
+      "text": "\"No way! This is my first homeroom after finally achieving\nmy dream of becoming a teacher!\""
+    },
+    {
+      "offset": 2148,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「このまま永遠の夢にしてやるわぁ！！」",
+      "en": "\"I can make this dream last forever!\"",
+      "text": "\"I can make this dream last forever!\""
+    },
+    {
+      "offset": 2234,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゃ〜〜〜！？」",
+      "en": "\"Hmm...!!\"",
+      "text": "\"Hmm...!!\""
+    },
+    {
+      "offset": 2272,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「はい、撤収〜」",
+      "en": "\"Okay, now go home!\"",
+      "text": "\"Okay, now go home!\""
+    },
+    {
+      "offset": 2295,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "気の抜けた声とともに、ため息混じりに座席を\n立つ音が教室に響き渡った。",
+      "en": "The sound of chairs scraping as people get up mixes with\ntheir sighs.",
+      "text": "The sound of chairs scraping as people get up mixes with\ntheir sighs."
+    },
+    {
+      "offset": 2407,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 2460,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふふふふっふ……」",
+      "en": "\"Huhuhhh...\"",
+      "text": "\"Huhuhhh...\""
+    },
+    {
+      "offset": 2487,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "重たい鉄の扉が、背中越しに強い風に吹かれて\n閉じる。",
+      "en": "A heavy metal door behind me was closed by a strong wind.",
+      "text": "A heavy metal door behind me was closed by a strong wind."
+    },
+    {
+      "offset": 2580,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あにゃ……うにゃ……」",
+      "en": "\"Hm... Woww...\"",
+      "text": "\"Hm... Woww...\""
+    },
+    {
+      "offset": 2611,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「さぁ、どこにも逃げ場はないぞ。さらに泣い\n　ても叫んでも助けはこないっぽい」",
+      "en": "\"Now you can't go anywhere. Whether you cry or scream,\nnobody will hear you.\"",
+      "text": "\"Now you can't go anywhere. Whether you cry or scream,\nnobody will hear you.\""
+    },
+    {
+      "offset": 2725,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あにょー……そういう台詞はムードのある場\n　所で聞きたかったかなぁ」",
+      "en": "\"Umm... I wish I could hear that line when I'm in bed.\"",
+      "text": "\"Umm... I wish I could hear that line when I'm in bed.\""
+    },
+    {
+      "offset": 2801,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「棺桶の中で聞かせてやろうか？」",
+      "en": "\"Do you want to hear it in your coffin?\"",
+      "text": "\"Do you want to hear it in your coffin?\""
+    },
+    {
+      "offset": 2840,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "拳を握り締めて目を細める。",
+      "en": "I narrow my eyes and make a fist.",
+      "text": "I narrow my eyes and make a fist."
+    },
+    {
+      "offset": 2886,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あ……う」",
+      "en": "\"Ow...\"",
+      "text": "\"Ow...\""
+    },
+    {
+      "offset": 2935,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ただ今、この場でお話させていただきます\n　……ぜひ」",
+      "en": "\"Please, let me explain it to you.\"",
+      "text": "\"Please, let me explain it to you.\""
+    },
+    {
+      "offset": 2995,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しゅん、とさくらが肩を落とす。",
+      "en": "Sakura drops her shoulders.",
+      "text": "Sakura drops her shoulders."
+    },
+    {
+      "offset": 3032,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で」",
+      "en": "\"So...\"",
+      "text": "\"So...\""
+    },
+    {
+      "offset": 3075,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「えと、ボク、先生になるのが夢だったんだ\n　……昔から」",
+      "en": "\"Well, I've wanted to be a teacher since I was a kid.\"",
+      "text": "\"Well, I've wanted to be a teacher since I was a kid.\""
+    },
+    {
+      "offset": 3137,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ふふふふっふ……」",
+      "en": "\"Huhhh...\"",
+      "text": "\"Huhhh...\""
+    },
+    {
+      "offset": 3177,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そ、それで、地元の風見学園から声がかかっ\n　て、とりあえず付属に通わせて講師の適正を\n　見ようと……」",
+      "en": "\"Then, Kazami Academy called me to ask if I wanted to try as\na student at first, and move up to the position of a teacher\nif I pass the test.\"",
+      "text": "\"Then, Kazami Academy called me to ask if I wanted to try as\na student at first, and move up to the position of a teacher\nif I pass the test.\""
+    },
+    {
+      "offset": 3299,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「えと、まぁ、で、お兄ちゃんや音夢ちゃんに\n　言わなかったのは、全面的にびっくり爆発さ\n　せようと思って黙ってたんだけど……」",
+      "en": "\"So... The reason I didn't tell you and Nemu-chan was\nbecause I wanted to surprise you.\"",
+      "text": "\"So... The reason I didn't tell you and Nemu-chan was\nbecause I wanted to surprise you.\""
+    },
+    {
+      "offset": 3430,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こっくり、とさくらが首をかしげる。",
+      "en": "Sakura tilts her head.",
+      "text": "Sakura tilts her head."
+    },
+    {
+      "offset": 3501,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「びっくりした？」",
+      "en": "\"Were you surprised?\"",
+      "text": "\"Were you surprised?\""
+    },
+    {
+      "offset": 3526,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「爆発したわ！」",
+      "en": "\"Of course I was!\"",
+      "text": "\"Of course I was!\""
+    },
+    {
+      "offset": 3579,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あにゃ〜……」",
+      "en": "\"Aahhh...\"",
+      "text": "\"Aahhh...\""
+    },
+    {
+      "offset": 3602,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3621,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "薄っぺらい上履きで、分厚いアスファルトを削\nり取るような勢いで踏みしめる。",
+      "en": "I try to get a grip, with my feet in the thin slippers on\nthe thick asphalt floor.",
+      "text": "I try to get a grip, with my feet in the thin slippers on\nthe thick asphalt floor."
+    },
+    {
+      "offset": 3699,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "全然わからない……。",
+      "en": "I don't understand at all.",
+      "text": "I don't understand at all."
+    },
+    {
+      "offset": 3724,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんで、こんなに腹が立っているんだ俺は？",
+      "en": "Why am I so angry?",
+      "text": "Why am I so angry?"
+    },
+    {
+      "offset": 3771,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「とにかく、じゃあ、最近家にいなかったり、\n　連絡つかなかったのはそのせいか？」",
+      "en": "\"That's why you've not been at home and I haven't been able\nto get hold of you lately.\"",
+      "text": "\"That's why you've not been at home and I haven't been able\nto get hold of you lately.\""
+    },
+    {
+      "offset": 3887,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ＹＥＳ。講義とか事務の講習を受けててさ\n　……あの、ごめんなさい」",
+      "en": "\"Yes. I was taking lectures and training programs for office\nduties. Sorry...\"",
+      "text": "\"Yes. I was taking lectures and training programs for office\nduties. Sorry...\""
+    },
+    {
+      "offset": 3961,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3980,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「はぁ」",
+      "en": "\"Oh...\"",
+      "text": "\"Oh...\""
+    },
+    {
+      "offset": 3995,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どっ、と疲れて地面にしゃがみこむ。",
+      "en": "I squat down on the ground, losing strength.",
+      "text": "I squat down on the ground, losing strength."
+    },
+    {
+      "offset": 4066,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゃ、どうしたのお兄ちゃん？」",
+      "en": "\"Hm, what's wrong, oniichan?\"",
+      "text": "\"Hm, what's wrong, oniichan?\""
+    },
+    {
+      "offset": 4107,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「いや、なに……そっか……」",
+      "en": "\"Well, I see...\"",
+      "text": "\"Well, I see...\""
+    },
+    {
+      "offset": 4142,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "へへへ、と笑みがこぼれる。",
+      "en": "I suddenly smile.",
+      "text": "I suddenly smile."
+    },
+    {
+      "offset": 4173,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そうだな。みんながみんな、俺の前から消えて\nいくわけじゃないんだ。",
+      "en": "Now I know I didn't lose everybody.",
+      "text": "Now I know I didn't lose everybody."
+    },
+    {
+      "offset": 4245,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「｛うち／風見｝もバカだとは思っていたが、お前なんか\n　を講師にするほどバカだったか」",
+      "en": "\"I know the people at Kazami Academy are idiots, but now I\nrealize they are the true idiots to give you a position as a\nteacher.\"",
+      "text": "\"I know the people at Kazami Academy are idiots, but now I\nrealize they are the true idiots to give you a position as a\nteacher.\""
+    },
+    {
+      "offset": 4367,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「にゃ！　ひどいなぁ。これでも短期間にあら\n　かたのことを覚えられたんだよ？」",
+      "en": "\"Hm! You're so mean. I've learned most of the things I need\nfor teaching in such a short time.\"",
+      "text": "\"Hm! You're so mean. I've learned most of the things I need\nfor teaching in such a short time.\""
+    },
+    {
+      "offset": 4451,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そりゃ……」",
+      "en": "\"Well...\"",
+      "text": "\"Well...\""
+    },
+    {
+      "offset": 4511,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そこで言葉を切って空を見上げた。",
+      "en": "I stop and look up at the sky.",
+      "text": "I stop and look up at the sky."
+    },
+    {
+      "offset": 4548,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まったくもって、４月の空はバカみたいに青い。\n今日は４月１日ではないのだ。",
+      "en": "The sky in April is tremendously blue. Today isn't an April\nFool's Day,though.",
+      "text": "The sky in April is tremendously blue. Today isn't an April\nFool's Day,though."
+    },
+    {
+      "offset": 4628,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……面倒なこった」",
+      "en": "\"It's a pain in the neck.\"",
+      "text": "\"It's a pain in the neck.\""
+    },
+    {
+      "offset": 4668,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゃ〜……なんか今日のお兄ちゃん変だ\n　よ？」",
+      "en": "\"Hmm... You seem different today, oniichan.\"",
+      "text": "\"Hmm... You seem different today, oniichan.\""
+    },
+    {
+      "offset": 4724,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「なぁ……」",
+      "en": "\"Well...\"",
+      "text": "\"Well...\""
+    },
+    {
+      "offset": 4743,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "座り込みながら、意外に近くにあるさくらの顔\nを見上げた。",
+      "en": "I look up at Sakura as I sit on the ground.",
+      "text": "I look up at Sakura as I sit on the ground."
+    },
+    {
+      "offset": 4855,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ん？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 4870,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……なんで先生になんてなろうと思った？」",
+      "en": "\"Why did you want to be a teacher?\"",
+      "text": "\"Why did you want to be a teacher?\""
+    },
+    {
+      "offset": 4949,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「それが夢だから」",
+      "en": "\"Because it was my dream.\"",
+      "text": "\"Because it was my dream.\""
+    },
+    {
+      "offset": 4974,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "間髪いれず答えが返ってくる。",
+      "en": "She responded as quick as a flash.",
+      "text": "She responded as quick as a flash."
+    },
+    {
+      "offset": 5009,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「夢？」",
+      "en": "\"Dream?\"",
+      "text": "\"Dream?\""
+    },
+    {
+      "offset": 5037,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そう、夢」",
+      "en": "\"Yes, a dream.\"",
+      "text": "\"Yes, a dream.\""
+    },
+    {
+      "offset": 5056,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "夢は現実ではなく、未来か、眠っているときに\n見るものだ。",
+      "en": "A dream is not for the present but for the future or when\nyou're sleeping.",
+      "text": "A dream is not for the present but for the future or when\nyou're sleeping."
+    },
+    {
+      "offset": 5116,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "枯れない桜。",
+      "en": "The cherry blossoms that never die.",
+      "text": "The cherry blossoms that never die."
+    },
+    {
+      "offset": 5133,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "和菓子を生み出す力。",
+      "en": "The magic power to create Japanese snacks.",
+      "text": "The magic power to create Japanese snacks."
+    },
+    {
+      "offset": 5158,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "同世代の講師。",
+      "en": "A teacher of my age.",
+      "text": "A teacher of my age."
+    },
+    {
+      "offset": 5177,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それならば、この世界そのものが、｛うたかた／泡沫｝の夢の\nように思えてくる。",
+      "en": "The world I'm in could be a dream that could vanish like\nsmoke.",
+      "text": "The world I'm in could be a dream that could vanish like\nsmoke."
+    },
+    {
+      "offset": 5259,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まいったな……」",
+      "en": "\"I'm fed up...\"",
+      "text": "\"I'm fed up...\""
+    },
+    {
+      "offset": 5284,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "我ながら頭の痛い考えに顔をしかめる。",
+      "en": "I uncross my brows to try to avoid a headache.",
+      "text": "I uncross my brows to try to avoid a headache."
+    },
+    {
+      "offset": 5357,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ねぇ、お兄ちゃん」",
+      "en": "\"Hey, oniichan.\"",
+      "text": "\"Hey, oniichan.\""
+    },
+    {
+      "offset": 5384,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「なんだ？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 5416,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ボク、先生っぽいことしていい？」",
+      "en": "\"Can I say something as a teacher?\"",
+      "text": "\"Can I say something as a teacher?\""
+    },
+    {
+      "offset": 5457,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「は？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 5502,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「夢は、希望とか将来を語るものではないんだ\n　よ」",
+      "en": "\"A dream won't decide your hope or your future.\"",
+      "text": "\"A dream won't decide your hope or your future.\""
+    },
+    {
+      "offset": 5558,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "屋上で自身満々に胸を張って、さくらがピンと\n指を立てる。",
+      "en": "Standing on the rooftop, she raises her fingers up proudly.",
+      "text": "Standing on the rooftop, she raises her fingers up proudly."
+    },
+    {
+      "offset": 5650,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「夢とは、戦って歯をくいしばって叶えつづけ\n　るものなんだ♪」",
+      "en": "\"A dream is what you make it happen by fighting for it.\"",
+      "text": "\"A dream is what you make it happen by fighting for it.\""
+    },
+    {
+      "offset": 5840,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆さくらの夢◆",
+      "en": "◆Sakura's dream◆",
+      "text": "◆Sakura's dream◆"
+    },
+    {
+      "offset": 5883,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ＨＲの後、さくらをつかまえて屋上で講師になっ\nたいきさつを詰問する。",
+      "en": "After the homeroom was done, I asked Sakura why she wanted\nto be a teacher on the rooftop.",
+      "text": "After the homeroom was done, I asked Sakura why she wanted\nto be a teacher on the rooftop."
+    },
+    {
+      "offset": 5955,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それが夢で、音夢と俺を驚かせたかったと語る\nさくらに怒ろうとしたのだが、なぜか再会でき\nたことに安心してしまった。",
+      "en": "When she said it was her dream and wanted to surprise Nemu\nand me, I was so mad, but I felt more relieved that I could\nsee her again.",
+      "text": "When she said it was her dream and wanted to surprise Nemu\nand me, I was so mad, but I felt more relieved that I could\nsee her again."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "188": "Sakura",
+    "685": "Kotori",
+    "874": "Sakura",
+    "1018": "Sakura",
+    "1150": "Suginami",
+    "1281": "Suginami",
+    "1390": "Sakura",
+    "1613": "Sakura",
+    "1664": "Sakura",
+    "1732": "Sakura",
+    "1877": "Sakura",
+    "2064": "Sakura",
+    "2224": "Sakura",
+    "2264": "Suginami",
+    "2570": "Sakura",
+    "2715": "Sakura",
+    "2876": "Sakura",
+    "2925": "Sakura",
+    "3065": "Sakura",
+    "3167": "Sakura",
+    "3289": "Sakura",
+    "3491": "Sakura",
+    "3569": "Sakura",
+    "3877": "Sakura",
+    "4056": "Sakura",
+    "4357": "Sakura",
+    "4658": "Sakura",
+    "4845": "Sakura",
+    "4939": "Sakura",
+    "5027": "Sakura",
+    "5347": "Sakura",
+    "5406": "Sakura",
+    "5492": "Sakura",
+    "5640": "Sakura"
+  }
+}

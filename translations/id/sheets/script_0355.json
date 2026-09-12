@@ -1,0 +1,555 @@
+{
+  "scene": "script_0355.obj",
+  "dialogues": [
+    {
+      "offset": 153,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さて、今日も元気に、飯でも食うか。",
+      "en": "Now then, time to enjoy lunch.",
+      "text": "Now then, time to enjoy lunch."
+    },
+    {
+      "offset": 192,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "日々の中で、この時が一番充実しているように\n思える。",
+      "en": "In my opinion, this is the most enjoyable time of every day.",
+      "text": "In my opinion, this is the most enjoyable time of every day."
+    },
+    {
+      "offset": 248,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何と言っても、食欲は人間の三大欲求のうちの\nひとつだからな。",
+      "en": "No matter what anyone says, gluttony is always one of the\nsins every human falls prey to.",
+      "text": "No matter what anyone says, gluttony is always one of the\nsins every human falls prey to."
+    },
+    {
+      "offset": 312,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "大切にしなくては……。",
+      "en": "It's the most important period...",
+      "text": "It's the most important period..."
+    },
+    {
+      "offset": 339,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それにはやはり、食料調達が最優先だ。",
+      "en": "So of course, the type of food would also be paramount.",
+      "text": "So of course, the type of food would also be paramount."
+    },
+    {
+      "offset": 403,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の脳は、購買部への買い物を命令し、足は戦\n場の兵士のようにターゲットに向かって正確に\n歩きだす。",
+      "en": "My brain was the command center, and my feet were the\nsoliders heading to the battle at the stores for rations.",
+      "text": "My brain was the command center, and my feet were the\nsoliders heading to the battle at the stores for rations."
+    },
+    {
+      "offset": 504,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、前方に妙な風景を発見する。",
+      "en": "But the scenery in front of me was enough to stop me in my\ntracks.",
+      "text": "But the scenery in front of me was enough to stop me in my\ntracks."
+    },
+    {
+      "offset": 543,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環とさくらが、親しげに話をしている。",
+      "en": "It was Tamaki and Sakura, talking as if they were the best\nof friends.",
+      "text": "It was Tamaki and Sakura, talking as if they were the best\nof friends."
+    },
+    {
+      "offset": 584,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あの二人、いつの間にか仲良くなってたなんて。",
+      "en": "When did those two get this close?",
+      "text": "When did those two get this close?"
+    },
+    {
+      "offset": 633,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環もさくらも転校生同士、色々と不安もあった\nのだろう。",
+      "en": "I suppose both of them being transfer students gives them a\nsense of understanding with each other.",
+      "text": "I suppose both of them being transfer students gives them a\nsense of understanding with each other."
+    },
+    {
+      "offset": 691,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらも巫女に対して興味を持っているし、共\n鳴する部分もあるのかもしれない。",
+      "en": "Not to mention Sakura's interest in Miko... she probably\nsympathizes with Tamaki.",
+      "text": "Not to mention Sakura's interest in Miko... she probably\nsympathizes with Tamaki."
+    },
+    {
+      "offset": 771,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "二人とも、ちょっと変わってるからな。",
+      "en": "The two of them seem to have changed a little.",
+      "text": "The two of them seem to have changed a little."
+    },
+    {
+      "offset": 812,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そのまま、購買部へ直行しようかとも思ったが、\nおもしろそうなので、声を掛けることにした。",
+      "en": "With that weird sight in front of me, I forgot about my\noriginal battle plan, and called out to them.",
+      "text": "With that weird sight in front of me, I forgot about my\noriginal battle plan, and called out to them."
+    },
+    {
+      "offset": 906,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「よっ」",
+      "en": "\"Hey.\"",
+      "text": "\"Hey.\""
+    },
+    {
+      "offset": 975,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あ、お兄ちゃ〜ん！」",
+      "en": "\"Ah, onii-chaaan!\"",
+      "text": "\"Ah, onii-chaaan!\""
+    },
+    {
+      "offset": 1004,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「何やってるんだ、こんなところで」",
+      "en": "\"What're you two doing here?\"",
+      "text": "\"What're you two doing here?\""
+    },
+    {
+      "offset": 1071,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「いま、さくら様のうたまる様を抱かせてもらっ\n　てるんです」",
+      "en": "\"I am holding Sakura-san's Utamaru-san right now.\"",
+      "text": "\"I am holding Sakura-san's Utamaru-san right now.\""
+    },
+    {
+      "offset": 1137,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「うたまる様？」",
+      "en": "\"Utamaru-san?\"",
+      "text": "\"Utamaru-san?\""
+    },
+    {
+      "offset": 1160,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見ると、環の腕の中で気持ち良さそうに懐いて\nいるうたまるがいる。",
+      "en": "I glanced at the seemingly-satisfied Utamaru, nestling in\nTamaki's chest.",
+      "text": "I glanced at the seemingly-satisfied Utamaru, nestling in\nTamaki's chest."
+    },
+    {
+      "offset": 1230,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おいおい、さくら。学校に猫はまずいだろ」",
+      "en": "\"Oy oy, Sakura. You're not supposed to bring pets into\nschool.\"",
+      "text": "\"Oy oy, Sakura. You're not supposed to bring pets into\nschool.\""
+    },
+    {
+      "offset": 1309,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「大丈夫。授業になったらちゃんと家に帰るか\n　らさ」",
+      "en": "\"It's okay! He goes home when I go for lessons.\"",
+      "text": "\"It's okay! He goes home when I go for lessons.\""
+    },
+    {
+      "offset": 1367,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「まったく……」",
+      "en": "\"Sigh...\"",
+      "text": "\"Sigh...\""
+    },
+    {
+      "offset": 1416,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「やっぱり、猫はかわいいですね。顔を洗う仕\n　草とか、可愛すぎます！」",
+      "en": "\"Cats are so cute... even the way they wash their face is\ntoo much to bear!\"",
+      "text": "\"Cats are so cute... even the way they wash their face is\ntoo much to bear!\""
+    },
+    {
+      "offset": 1522,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「でしょ？　でしょ？　ボクはやっぱり犬より\n　猫が好き！」",
+      "en": "\"Isn't it, isn't it? I like them so much better than dogs!\"",
+      "text": "\"Isn't it, isn't it? I like them so much better than dogs!\""
+    },
+    {
+      "offset": 1623,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「あの｛わがまま／我侭｝なところがいいんですよね」",
+      "en": "\"It's independence and wilfulness is also attractive.\"",
+      "text": "\"It's independence and wilfulness is also attractive.\""
+    },
+    {
+      "offset": 1693,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「だにゃ。懐いてきたかと思うとすぐそっぽ向\n　くし。いつ帰ってくるかわからないところも」",
+      "en": "\"Uh huh! It really likes your chest. I don't know when he'd\ncome out of there.\"",
+      "text": "\"Uh huh! It really likes your chest. I don't know when he'd\ncome out of there.\""
+    },
+    {
+      "offset": 1824,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「たまに帰ってきて甘えてくれると、もう何で\n　もやってあげたくなっちゃう」",
+      "en": "\"It should come out once in a while, but I don't mind\nkeeping him there forever otherwise.\"",
+      "text": "\"It should come out once in a while, but I don't mind\nkeeping him there forever otherwise.\""
+    },
+    {
+      "offset": 1917,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「いいね。環ちゃんは猫の心得を知ってるね！」",
+      "en": "\"Nice, you really understand a cat's heart!\"",
+      "text": "\"Nice, you really understand a cat's heart!\""
+    },
+    {
+      "offset": 1968,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "猫については、二人はかなり意見が合うらしい。",
+      "en": "It seems their opinion on cats are similar as well.",
+      "text": "It seems their opinion on cats are similar as well."
+    },
+    {
+      "offset": 2017,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつもは冷静な環が、熱っぽく話をしている。",
+      "en": "The usually cool and calm Tamaki was speaking with\nsurprising passion.",
+      "text": "The usually cool and calm Tamaki was speaking with\nsurprising passion."
+    },
+    {
+      "offset": 2064,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それより、俺は、そいつがどうやって顔を洗う\nのかを教えて欲しい。",
+      "en": "If I learn how to wash my face like that cat does, would\nTamaki say that about me too?",
+      "text": "If I learn how to wash my face like that cat does, would\nTamaki say that about me too?"
+    },
+    {
+      "offset": 2162,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「環は猫飼ったことあるの？」",
+      "en": "\"Have you raised cats before, Tamaki?\"",
+      "text": "\"Have you raised cats before, Tamaki?\""
+    },
+    {
+      "offset": 2234,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「小学校の頃、三毛猫を飼っていたのですが、\n　寿命で……。それ以来、飼えないんです」",
+      "en": "\"During grade school, I took in a cute little three-coloured\ncat, but it didn't live long... after that, no.\"",
+      "text": "\"During grade school, I took in a cute little three-coloured\ncat, but it didn't live long... after that, no.\""
+    },
+    {
+      "offset": 2361,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「だから、今はこうやって人のお家の猫でも可\n　愛らしく思えて仕方がないんです」",
+      "en": "\"So, I couldn't imagine I'd find such a cute cat again to\nfawn over.\"",
+      "text": "\"So, I couldn't imagine I'd find such a cute cat again to\nfawn over.\""
+    },
+    {
+      "offset": 2445,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ふーん。そんなもんかね」",
+      "en": "\"Hmm, so that's how it is...\"",
+      "text": "\"Hmm, so that's how it is...\""
+    },
+    {
+      "offset": 2508,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「冬なんかさ、うたまるが布団に入ってくると\n　あったかいんだよね。電気あんかみたいで」",
+      "en": "\"During winter, Utamaru would crawl under the futon with me\nand warm both of us up~\"",
+      "text": "\"During winter, Utamaru would crawl under the futon with me\nand warm both of us up~\""
+    },
+    {
+      "offset": 2626,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そうそう。あれは病みつきですよね」",
+      "en": "\"Yes, yes, I could see myself getting addicted to that.\"",
+      "text": "\"Yes, yes, I could see myself getting addicted to that.\""
+    },
+    {
+      "offset": 2695,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「さくら様は幸せですね。うたまる様といつも\n　一緒で」",
+      "en": "\"Sakura-san is really lucky, to be with Utamaru-san all the\ntime.\"",
+      "text": "\"Sakura-san is really lucky, to be with Utamaru-san all the\ntime.\""
+    },
+    {
+      "offset": 2785,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「環ちゃんさえ嫌じゃなければ、たまに神社に\n　行かせるよ」",
+      "en": "\"Well, if you don't mind, I'd drop by often at the shrine.\"",
+      "text": "\"Well, if you don't mind, I'd drop by often at the shrine.\""
+    },
+    {
+      "offset": 2875,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「本当？　すごく嬉しい！」",
+      "en": "\"Really? That would be fantastic!\"",
+      "text": "\"Really? That would be fantastic!\""
+    },
+    {
+      "offset": 2908,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環がこんなに感情を｛あら／顕｝わにするのは珍しい。",
+      "en": "Seeing this side of Tamaki manifesting was a rare sight.",
+      "text": "Seeing this side of Tamaki manifesting was a rare sight."
+    },
+    {
+      "offset": 2963,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "案外、子供っぽいところもあるんだな。",
+      "en": "She's acting so much like... a kid.",
+      "text": "She's acting so much like... a kid."
+    },
+    {
+      "offset": 3032,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「朝倉様は、猫は……」",
+      "en": "\"Asakura-sama, how do you feel about cats?\"",
+      "text": "\"Asakura-sama, how do you feel about cats?\""
+    },
+    {
+      "offset": 3061,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ま、別に嫌いじゃないけどな」",
+      "en": "\"Well, I don't hate them.\"",
+      "text": "\"Well, I don't hate them.\""
+    },
+    {
+      "offset": 3128,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「たまにうたまるが行くと、かわいがってくれ\n　るよね」",
+      "en": "\"Whenver I go out with Utamaru, everyone always fawns over\nhim.\"",
+      "text": "\"Whenver I go out with Utamaru, everyone always fawns over\nhim.\""
+    },
+    {
+      "offset": 3214,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「へえ、そうですか」",
+      "en": "\"Hehe, really?\"",
+      "text": "\"Hehe, really?\""
+    },
+    {
+      "offset": 3271,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「猫好きに悪い人はいないね」",
+      "en": "\"There's no such thing as an evil person who likes cats!\"",
+      "text": "\"There's no such thing as an evil person who likes cats!\""
+    },
+    {
+      "offset": 3332,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「それは、絶対言えますよね」",
+      "en": "\"That is indeed, the absolute truth.\"",
+      "text": "\"That is indeed, the absolute truth.\""
+    },
+    {
+      "offset": 3397,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ほんと、意外なところで環ちゃんと共通点が\n　見つかって、ボク、嬉しいよ」",
+      "en": "\"We really found something uncommon to be similar in. I'm\nglad for that!\"",
+      "text": "\"We really found something uncommon to be similar in. I'm\nglad for that!\""
+    },
+    {
+      "offset": 3503,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「私もです。あ、じゃあ、うたまる様をお返し\n　します」",
+      "en": "\"The feeling is mutual. Ah, I'd return Utamaru-san now.\"",
+      "text": "\"The feeling is mutual. Ah, I'd return Utamaru-san now.\""
+    },
+    {
+      "offset": 3572,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「本当に、ちっちゃくて抱き心地よかったです」",
+      "en": "\"It was really nice to have something that tiny snuggling up\nto me.\"",
+      "text": "\"It was really nice to have something that tiny snuggling up\nto me.\""
+    },
+    {
+      "offset": 3636,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「また、いつでも言ってね。じゃ、お兄ちゃん\n　またね」",
+      "en": "\"Then, till next time! See you too, onii-chan!\"",
+      "text": "\"Then, till next time! See you too, onii-chan!\""
+    },
+    {
+      "offset": 3696,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらはうたまるを頭にのせて、自分の教室へ\nと帰っていった。",
+      "en": "Placing Utamaru on her head, Sakura headed back to her\nclassroom.",
+      "text": "Placing Utamaru on her head, Sakura headed back to her\nclassroom."
+    },
+    {
+      "offset": 3806,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「さくら様って、いい方ですね」",
+      "en": "\"Sakura-san is really nice.\"",
+      "text": "\"Sakura-san is really nice.\""
+    },
+    {
+      "offset": 3843,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は友達ができた嬉しさからか、顔がいつもよ\nり興奮しているように見える。",
+      "en": "After the glow of making a new friend, her unusually excited\ndemeanour remained.",
+      "text": "After the glow of making a new friend, her unusually excited\ndemeanour remained."
+    },
+    {
+      "offset": 3921,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まあ、そうだな」",
+      "en": "\"Mmhmm.\"",
+      "text": "\"Mmhmm.\""
+    },
+    {
+      "offset": 3946,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環の嬉しそうな顔を見るのは、俺にとっても嬉\nしい。",
+      "en": "Seeing her happy face lifted my own spirits, too.",
+      "text": "Seeing her happy face lifted my own spirits, too."
+    },
+    {
+      "offset": 4002,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「よかったな」",
+      "en": "\"I'm glad.\"",
+      "text": "\"I'm glad.\""
+    },
+    {
+      "offset": 4049,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「はい」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 4064,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺も、環の子供っぽい一面を発見できて、なん\nだか嬉しい気分だ。",
+      "en": "Seeing her more outgoing and less reserved gave me a good\nfeeling, too.",
+      "text": "Seeing her more outgoing and less reserved gave me a good\nfeeling, too."
+    },
+    {
+      "offset": 4130,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺と環は、猫の話の続きをしながら、購買へ向\nかった。",
+      "en": "We spent the rest of the walk to the food stores, talking\nabout cats.",
+      "text": "We spent the rest of the walk to the food stores, talking\nabout cats."
+    },
+    {
+      "offset": 4315,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆ねこ談義◆",
+      "en": "◆All About Cats?◆",
+      "text": "◆All About Cats?◆"
+    },
+    {
+      "offset": 4356,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昼を買いに購買部へ行こうとすると、環とさく\nらが親しげに話をしている。",
+      "en": "While walking to the stores to buy lunch, I euncountered\nTamaki and Sakura.",
+      "text": "While walking to the stores to buy lunch, I euncountered\nTamaki and Sakura."
+    },
+    {
+      "offset": 4430,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何の話をしているのか尋ねると、二人とも猫の\n話で盛り上がっていた。",
+      "en": "They were apparently talking about their joint admiration\nfor cats.",
+      "text": "They were apparently talking about their joint admiration\nfor cats."
+    },
+    {
+      "offset": 4500,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうやら、ねこ好きらしい。",
+      "en": "They sure like cats a lot.",
+      "text": "They sure like cats a lot."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "965": "Sakura",
+    "1065": "Tamaki",
+    "1299": "Sakura",
+    "1410": "Tamaki",
+    "1512": "Sakura",
+    "1617": "Tamaki",
+    "1683": "Sakura",
+    "1818": "Tamaki",
+    "1907": "Sakura",
+    "2228": "Tamaki",
+    "2355": "Tamaki",
+    "2498": "Sakura",
+    "2620": "Tamaki",
+    "2689": "Tamaki",
+    "2775": "Sakura",
+    "2869": "Tamaki",
+    "3026": "Tamaki",
+    "3118": "Sakura",
+    "3208": "Tamaki",
+    "3261": "Sakura",
+    "3326": "Tamaki",
+    "3387": "Sakura",
+    "3497": "Tamaki",
+    "3566": "Tamaki",
+    "3626": "Sakura",
+    "3800": "Tamaki",
+    "4043": "Tamaki"
+  }
+}

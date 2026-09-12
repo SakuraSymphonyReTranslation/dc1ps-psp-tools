@@ -1,0 +1,850 @@
+{
+  "scene": "script_0485.obj",
+  "dialogues": [
+    {
+      "offset": 135,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「う〜……寝よ寝よ」",
+      "en": "\"Hoo... time for bed.\"",
+      "text": "\"Hoo... time for bed.\""
+    },
+    {
+      "offset": 162,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "遠足の前日にわくわくしすぎて、当日寝不足に\nなるってのは良くある話だ。",
+      "en": "Unsurprisingly, it's hard to fall asleep the day before a\nbig event.",
+      "text": "Unsurprisingly, it's hard to fall asleep the day before a\nbig event."
+    },
+    {
+      "offset": 236,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "でも、もはやそんな歳でもない俺には、今夜も\nいつものように眠気が訪れましたとさ。",
+      "en": "But I'm not some youngun anymore. I know when I need to go\nto bed.",
+      "text": "But I'm not some youngun anymore. I know when I need to go\nto bed."
+    },
+    {
+      "offset": 341,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おやすみ……」",
+      "en": "\"Good night...\"",
+      "text": "\"Good night...\""
+    },
+    {
+      "offset": 364,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 383,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "………。",
+      "en": ".........",
+      "text": "........."
+    },
+    {
+      "offset": 396,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 407,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…。",
+      "en": "...",
+      "text": "..."
+    },
+    {
+      "offset": 444,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「Ｚ……」",
+      "en": "\"Z...\"",
+      "text": "\"Z...\""
+    },
+    {
+      "offset": 461,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ＺＺ……」",
+      "en": "\"ZZ...\"",
+      "text": "\"ZZ...\""
+    },
+    {
+      "offset": 480,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…。",
+      "en": "...",
+      "text": "..."
+    },
+    {
+      "offset": 489,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 500,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "………。",
+      "en": ".........",
+      "text": "........."
+    },
+    {
+      "offset": 529,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「Ｚ……ぐあっ？」",
+      "en": "\"Z...gwah?!\"",
+      "text": "\"Z...gwah?!\""
+    },
+    {
+      "offset": 554,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "旅だった眠りの王国は、他人の領地だった。",
+      "en": "As I explored the kingdom of dreams, I came across uncharted\nterritory.",
+      "text": "As I explored the kingdom of dreams, I came across uncharted\nterritory."
+    },
+    {
+      "offset": 601,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「これじゃあ、明日、寝不足になるじゃねえか」",
+      "en": "\"I need to get enough sleep for tomorrow.\"",
+      "text": "\"I need to get enough sleep for tomorrow.\""
+    },
+    {
+      "offset": 652,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（一体、どこよ、ここ……）",
+      "en": "\"(Where on earth is this place...)\"",
+      "text": "\"(Where on earth is this place...)\""
+    },
+    {
+      "offset": 703,
+      "speaker": "???",
+      "speaker_jp": "？？？",
+      "jp": "「ぅ……うう……ぐす……」",
+      "en": "\"Wah... wahh.... *sniff*\"",
+      "text": "\"Wah... wahh.... *sniff*\""
+    },
+    {
+      "offset": 736,
+      "speaker": "???",
+      "speaker_jp": "？？？",
+      "jp": "「お？」",
+      "en": "\"Oh?\"",
+      "text": "\"Oh?\""
+    },
+    {
+      "offset": 751,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "子どもだった。少女が泣いている。手の平をぐ\nしぐしと顔に擦り付けて。",
+      "en": "It was a kid. A small girl, crying. She was wiping her eyes\nwith the back of her hand.",
+      "text": "It was a kid. A small girl, crying. She was wiping her eyes\nwith the back of her hand."
+    },
+    {
+      "offset": 823,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりだ。",
+      "en": "It was Kotori.",
+      "text": "It was Kotori."
+    },
+    {
+      "offset": 838,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、ことりの夢を見ている──しかも、これ\nは、悲しい夢だった。たぶん。",
+      "en": "Looks like I'm seeing Kotori's dream--but it looks like a\nsad one...",
+      "text": "Looks like I'm seeing Kotori's dream--but it looks like a\nsad one..."
+    },
+    {
+      "offset": 916,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ことり」",
+      "en": "\"Kotori...\"",
+      "text": "\"Kotori...\""
+    },
+    {
+      "offset": 946,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「え……？」",
+      "en": "\"Eh...?\"",
+      "text": "\"Eh...?\""
+    },
+    {
+      "offset": 965,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "（ん？）",
+      "en": "\"(Huh?)\"",
+      "text": "\"(Huh?)\""
+    },
+    {
+      "offset": 980,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "呼びかけておいて、自分で驚いてしまう。どう\nして、俺の姿が……？",
+      "en": "Her apparent reply shocked me. Why can she see me...?",
+      "text": "Her apparent reply shocked me. Why can she see me...?"
+    },
+    {
+      "offset": 1048,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "違うのだった。いつの間にか、俺のそばに、一\n人の小柄な人間が立っていた。",
+      "en": "No, no... sometime while I wasn't looking, a short person\nhad appeared beside me.",
+      "text": "No, no... sometime while I wasn't looking, a short person\nhad appeared beside me."
+    },
+    {
+      "offset": 1126,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（ばあちゃん……？）",
+      "en": "\"(Grandma...?)\"",
+      "text": "\"(Grandma...?)\""
+    },
+    {
+      "offset": 1165,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ばあちゃんだった。昔、俺の家の隣に住んでい\nた、自称魔女の。",
+      "en": "It was grandma. The grandma who used to live next door to\nus, and a self-declared witch.",
+      "text": "It was grandma. The grandma who used to live next door to\nus, and a self-declared witch."
+    },
+    {
+      "offset": 1229,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "全く……神出鬼没だな。苦笑を噛み殺しつつ、\n懐かしい姿に笑みが浮かんでしまう。",
+      "en": "Man... she appears in the worst of places. Stifling a bitter\nsmile, I watched her nostalgic, laughing figure.",
+      "text": "Man... she appears in the worst of places. Stifling a bitter\nsmile, I watched her nostalgic, laughing figure."
+    },
+    {
+      "offset": 1338,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 1357,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺とは対照的に、ことりは不安そうにばあちゃ\nんを見上げていた。",
+      "en": "In contrast to my reaction, Kotori furtively looked up at\ngrandma.",
+      "text": "In contrast to my reaction, Kotori furtively looked up at\ngrandma."
+    },
+    {
+      "offset": 1423,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それも、仕方ないかもしれない。ばあちゃんは\n金髪｛へきがん／碧眼｝の外国人なのだ。きっと、子どもの目\nには怖く映るんだろう。",
+      "en": "Not surprising, really. After all, grandma is a blond,\nblue-eyed foreigner. Most kids here are wary of that.",
+      "text": "Not surprising, really. After all, grandma is a blond,\nblue-eyed foreigner. Most kids here are wary of that."
+    },
+    {
+      "offset": 1552,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（黒船来航時代に残された絵なんて、まるきり\n　化け物だもんな……）",
+      "en": "\"(Anyone who doesn't ride the good black ship are probably\nmonsters to them...)\"",
+      "text": "\"(Anyone who doesn't ride the good black ship are probably\nmonsters to them...)\""
+    },
+    {
+      "offset": 1624,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（というか、どこをどう見たら、あんな風に見\n　えるんだよ……）",
+      "en": "\"(Anyway, what am I talking about with this right in fromt\nof me...)",
+      "text": "\"(Anyway, what am I talking about with this right in fromt\nof me...)"
+    },
+    {
+      "offset": 1692,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな関係のない事を考えている間に、ばあちゃ\nんは、ことりの目の前にしゃがみ込んでいた。",
+      "en": "As my thoughts wandered away from the current situation,\ngrandma squatted down in front of Kotori.",
+      "text": "As my thoughts wandered away from the current situation,\ngrandma squatted down in front of Kotori."
+    },
+    {
+      "offset": 1784,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "のみならず、何と、泣いていたことりが笑顔を\n浮かべているではないか。",
+      "en": "Eventually, Kotori started smiling tearfully.",
+      "text": "Eventually, Kotori started smiling tearfully."
+    },
+    {
+      "offset": 1856,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もぐもぐ動く口に、唇に付いたあん──さては、\nまんじゅうで懐柔した？",
+      "en": "Her mouth's movements showed she was chewing something. Her\nlips-- is that manjuu on it?",
+      "text": "Her mouth's movements showed she was chewing something. Her\nlips-- is that manjuu on it?"
+    },
+    {
+      "offset": 1947,
+      "speaker": "Grandma",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「良かったわ、ことりちゃんが涙を引っ込めて\n　くれて」",
+      "en": "\"That's good, that managed to stop your crying...\"",
+      "text": "\"That's good, that managed to stop your crying...\""
+    },
+    {
+      "offset": 2024,
+      "speaker": "Grandma",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「だって、子どもが泣いてるなんて、悲しいも\n　のね」",
+      "en": "\"Kids' crying are always the most painful kind.\"",
+      "text": "\"Kids' crying are always the most painful kind.\""
+    },
+    {
+      "offset": 2095,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……おいしい」",
+      "en": "\"...It's yummy.\"",
+      "text": "\"...It's yummy.\""
+    },
+    {
+      "offset": 2135,
+      "speaker": "Grandma",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「あら、もう食べ終わっちゃったのね。もっと\n　食べる？」",
+      "en": "\"Oh my, you've finished it all already. Would you like some\nmore?\"",
+      "text": "\"Oh my, you've finished it all already. Would you like some\nmore?\""
+    },
+    {
+      "offset": 2210,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「う、うん……」",
+      "en": "\"Y, yea...\"",
+      "text": "\"Y, yea...\""
+    },
+    {
+      "offset": 2233,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "おどおどとした目を向け、それでもこくんとう\nなずく。",
+      "en": "Her eyes were hesitant, but her head nodded anyway.",
+      "text": "Her eyes were hesitant, but her head nodded anyway."
+    },
+    {
+      "offset": 2308,
+      "speaker": "Grandma",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「はい、どうぞ」",
+      "en": "\"Alright, here you go.\"",
+      "text": "\"Alright, here you go.\""
+    },
+    {
+      "offset": 2331,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "すっと差し出した手には、既に美味しそうなま\nんじゅうが乗っている。",
+      "en": "Quicker than the eye could see, she created a manjuu onto\nher hand and gave it to Kotori.",
+      "text": "Quicker than the eye could see, she created a manjuu onto\nher hand and gave it to Kotori."
+    },
+    {
+      "offset": 2416,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ありがとう」",
+      "en": "\"Thank you.\"",
+      "text": "\"Thank you.\""
+    },
+    {
+      "offset": 2437,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "にぱっと、大輪の花のような笑みを浮かべる。\n本当に、嬉しそうな笑顔。",
+      "en": "She gave a smile, the cute smile of a large-petaled flower.\nIt was a smile of true happiness.",
+      "text": "She gave a smile, the cute smile of a large-petaled flower.\nIt was a smile of true happiness."
+    },
+    {
+      "offset": 2509,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それだけに、マシュマロみたいに柔らかな頬に\n跡づけられた涙が、似つかわしくない。",
+      "en": "It was completely unsuited to her marshmallow-like cheeks,\nstill stained with tears.",
+      "text": "It was completely unsuited to her marshmallow-like cheeks,\nstill stained with tears."
+    },
+    {
+      "offset": 2612,
+      "speaker": "Grandma",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「元気になった？」",
+      "en": "\"Are you feeling better now?\"",
+      "text": "\"Are you feeling better now?\""
+    },
+    {
+      "offset": 2650,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「う、うん……」",
+      "en": "\"Y, yea...\"",
+      "text": "\"Y, yea...\""
+    },
+    {
+      "offset": 2690,
+      "speaker": "Grandma",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「そう……良かった」",
+      "en": "\"That's good.\"",
+      "text": "\"That's good.\""
+    },
+    {
+      "offset": 2717,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ばあちゃんが立ち上がる。",
+      "en": "Grandma stood back up.",
+      "text": "Grandma stood back up."
+    },
+    {
+      "offset": 2765,
+      "speaker": "Grandma",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「またね、ことりちゃん」",
+      "en": "\"See you later, Kotori-chan!\"",
+      "text": "\"See you later, Kotori-chan!\""
+    },
+    {
+      "offset": 2796,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "小さく手を振る。背中を向けたところで──、",
+      "en": "She gave a little wave. But as soon as she turned her back--",
+      "text": "She gave a little wave. But as soon as she turned her back--"
+    },
+    {
+      "offset": 2858,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ま、まって！」",
+      "en": "\"W, wait!\"",
+      "text": "\"W, wait!\""
+    },
+    {
+      "offset": 2881,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鋭い声。鋭利な針で、世界の全てをその場に凍\nり付かせるような。",
+      "en": "Her voice cried out sharply. It was a cry so sharp, it\nwould've stopped the entire world in it's tracks.",
+      "text": "Her voice cried out sharply. It was a cry so sharp, it\nwould've stopped the entire world in it's tracks."
+    },
+    {
+      "offset": 2966,
+      "speaker": "Grandma",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「ん？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 2981,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "再び、しゃがみ込む。",
+      "en": "Once again, she squatted down to Kotori's level.",
+      "text": "Once again, she squatted down to Kotori's level."
+    },
+    {
+      "offset": 3021,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「き、聞いて、お、おばあちゃん……わ、わた\n　しね……」",
+      "en": "\"P, please listen to me, grandma... I...\"",
+      "text": "\"P, please listen to me, grandma... I...\""
+    },
+    {
+      "offset": 3083,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言葉にトゲでも発生したように、つっかえつっ\nかえしながら、それだけ口にする。",
+      "en": "Her words were stuttered, as if she was choking on\nsomething.",
+      "text": "Her words were stuttered, as if she was choking on\nsomething."
+    },
+    {
+      "offset": 3182,
+      "speaker": "Grandma",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「うん」",
+      "en": "\"Yes?\"",
+      "text": "\"Yes?\""
+    },
+    {
+      "offset": 3210,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「わ、わたし……聞いて、聞いて……」",
+      "en": "\"I... please listen, I...\"",
+      "text": "\"I... please listen, I...\""
+    },
+    {
+      "offset": 3253,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "きいて、聞いて、キイテ、わたしの話を聞いて\n……。ただただ、聞いてくれと訴える。",
+      "en": "Please listen, please listen, p-l-e-a-s-e l-i-s-t-e-n,\nplease listen to me. She was practically saying it as a last\nresort.",
+      "text": "Please listen, please listen, p-l-e-a-s-e l-i-s-t-e-n,\nplease listen to me. She was practically saying it as a last\nresort."
+    },
+    {
+      "offset": 3339,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（誰も……？）",
+      "en": "\"(Who would...?)\"",
+      "text": "\"(Who would...?)\""
+    },
+    {
+      "offset": 3360,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう、誰も。誰もその幼い声に耳を傾ける人は\n居なかったのだろうか？",
+      "en": "That's right, who would listen to some childishly-voiced\nplea like that?",
+      "text": "That's right, who would listen to some childishly-voiced\nplea like that?"
+    },
+    {
+      "offset": 3430,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だから、そんなに必死になって……。",
+      "en": "That's probably why she sounds so desperate...",
+      "text": "That's probably why she sounds so desperate..."
+    },
+    {
+      "offset": 3469,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "初対面の人間だというのにそんなに必死に……。",
+      "en": "Even though it's to someone she's only met for the first\ntime...",
+      "text": "Even though it's to someone she's only met for the first\ntime..."
+    },
+    {
+      "offset": 3537,
+      "speaker": "Grandma",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「なあに？」",
+      "en": "\"What's wrong?\"",
+      "text": "\"What's wrong?\""
+    },
+    {
+      "offset": 3569,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「わ、わたしには……パパも、ママも、お、お\n　姉ちゃんの気持ちも……」",
+      "en": "\"I, I can't... papa, mama, onee-chan's feelings...\"",
+      "text": "\"I, I can't... papa, mama, onee-chan's feelings...\""
+    },
+    {
+      "offset": 3658,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「だ、誰の気持ちも……分からないの……」",
+      "en": "\"E, everyone's feelings... I don't know them...\"",
+      "text": "\"E, everyone's feelings... I don't know them...\""
+    },
+    {
+      "offset": 3730,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「パパも、ママも……お姉ちゃんも……初めて\n　会った人だから……」",
+      "en": "\"Not papa, not mama... not onee-chan... I just met them...\"",
+      "text": "\"Not papa, not mama... not onee-chan... I just met them...\""
+    },
+    {
+      "offset": 3814,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──え？",
+      "en": "--Huh?",
+      "text": "--Huh?"
+    },
+    {
+      "offset": 3827,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言葉が途切れる。ことりは、しくしくと泣いて\nいる。",
+      "en": "She interrupted herself in the middle, and started to sob\nagain.",
+      "text": "She interrupted herself in the middle, and started to sob\nagain."
+    },
+    {
+      "offset": 3881,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "え？　初めて会った人？",
+      "en": "Eh? People she just met?",
+      "text": "Eh? People she just met?"
+    },
+    {
+      "offset": 3908,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "父親も母親も……暦先生も？",
+      "en": "Her father, her mother... and Koyomi-sensei?",
+      "text": "Her father, her mother... and Koyomi-sensei?"
+    },
+    {
+      "offset": 3939,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の混乱も知らぬげに、ばあちゃんは、とても\n穏やかにことりの頭を撫でる。",
+      "en": "Unlike my state of confusion, grandma calmly rubbed Kotori's\nhead gently.",
+      "text": "Unlike my state of confusion, grandma calmly rubbed Kotori's\nhead gently."
+    },
+    {
+      "offset": 4034,
+      "speaker": "Grandma",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「分からないなら、｛たず／訊｝ねてみればいいじゃない」",
+      "en": "\"If you don't know, then why don't you try to ask?\"",
+      "text": "\"If you don't know, then why don't you try to ask?\""
+    },
+    {
+      "offset": 4095,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あくまで優しく。",
+      "en": "Gentle to the end.",
+      "text": "Gentle to the end."
+    },
+    {
+      "offset": 4135,
+      "speaker": "Grandma",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「あなたの気持ちを教えてって……」",
+      "en": "\"To learn what they are feeling...\"",
+      "text": "\"To learn what they are feeling...\""
+    },
+    {
+      "offset": 4176,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "心に染み渡るように……。",
+      "en": "Striking right to the core of the issue...",
+      "text": "Striking right to the core of the issue..."
+    },
+    {
+      "offset": 4224,
+      "speaker": "Grandma",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「あなたは何を考えてるのって……」",
+      "en": "\"To learn what they are thinking...\"",
+      "text": "\"To learn what they are thinking...\""
+    },
+    {
+      "offset": 4265,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかしことりは、いやいやをするように激しく\n首を振る。",
+      "en": "But Kotori still intently shook her head no.",
+      "text": "But Kotori still intently shook her head no."
+    },
+    {
+      "offset": 4338,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「わ、分からないの……わ、わたし……」",
+      "en": "\"I, I still... don't know...\"",
+      "text": "\"I, I still... don't know...\""
+    },
+    {
+      "offset": 4396,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ほんとにわからないの……」",
+      "en": "\"I really don't know...\"",
+      "text": "\"I really don't know...\""
+    },
+    {
+      "offset": 4448,
+      "speaker": "Grandma",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「そう……」",
+      "en": "\"I see...\"",
+      "text": "\"I see...\""
+    },
+    {
+      "offset": 4484,
+      "speaker": "Grandma",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「でもね、ことりちゃん」",
+      "en": "\"But, Kotori-chan.\"",
+      "text": "\"But, Kotori-chan.\""
+    },
+    {
+      "offset": 4515,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頭を撫でていた手を下ろし、ばあちゃんはしっ\nかりとことりを見つめた。",
+      "en": "Putting the hand brushing Kotori's head back to her side,\nshe looked sternly at Kotori.",
+      "text": "Putting the hand brushing Kotori's head back to her side,\nshe looked sternly at Kotori."
+    },
+    {
+      "offset": 4606,
+      "speaker": "Grandma",
+      "speaker_jp": "ばあちゃん",
+      "jp": "「分かろうとしなければ、人の気持ちなんて、\n　分かりっこないのよ……」",
+      "en": "\"Sometimes, it's best not to know what everyone else is\nthinking.\"",
+      "text": "\"Sometimes, it's best not to know what everyone else is\nthinking.\""
+    },
+    {
+      "offset": 4695,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………！」",
+      "en": "\".......!\"",
+      "text": "\".......!\""
+    },
+    {
+      "offset": 4716,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりが涙に濡れた顔を上げる。",
+      "en": "Kotori's tearful face looked up at grandma.",
+      "text": "Kotori's tearful face looked up at grandma."
+    },
+    {
+      "offset": 4751,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、ばあちゃんを｛にら／睨｝んだ。まるで、長年の\n｛かたき／敵｝ででもあるかのように。",
+      "en": "But grandma's gaze was unwavering. This is how she earned\nmany enemies through her life.",
+      "text": "But grandma's gaze was unwavering. This is how she earned\nmany enemies through her life."
+    },
+    {
+      "offset": 4860,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「わ、分からないよ……ほんとに……」",
+      "en": "\"I really... don't know...\"",
+      "text": "\"I really... don't know...\""
+    },
+    {
+      "offset": 4942,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「分からない……」",
+      "en": "\"I don't know...\"",
+      "text": "\"I don't know...\""
+    },
+    {
+      "offset": 4967,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "風が吹いた。舞い散る桜。",
+      "en": "The wind blew past, and the sakura petals started dancing.",
+      "text": "The wind blew past, and the sakura petals started dancing."
+    },
+    {
+      "offset": 4996,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "初音島の枯れない桜が視界を覆い尽くした……。",
+      "en": "The swirling sakura petals quickly blocked me from seeing\nthe rest...",
+      "text": "The swirling sakura petals quickly blocked me from seeing\nthe rest..."
+    },
+    {
+      "offset": 5149,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆ことりの夢◆",
+      "en": "◆Young Kotori◆",
+      "text": "◆Young Kotori◆"
+    },
+    {
+      "offset": 5185,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "夢を見た。ことりの、幼い頃の夢だ……。",
+      "en": "I saw a dream. A dream by Kotori, of her childhood...",
+      "text": "I saw a dream. A dream by Kotori, of her childhood..."
+    },
+    {
+      "offset": 5228,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "夢の中には、ばあちゃんが登場した。そのばあ\nちゃんに向かって、幼いことりは訴えるのだ。",
+      "en": "My grandma was in the dream as well. She was the one who\nKotori pleaded to listen to her.",
+      "text": "My grandma was in the dream as well. She was the one who\nKotori pleaded to listen to her."
+    },
+    {
+      "offset": 5318,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "分からない……。",
+      "en": "***",
+      "text": "***"
+    },
+    {
+      "offset": 5339,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "家族のみんなが初めて会った人だから、だから、\n分からないと。",
+      "en": "Her family were people she just met before, so that's why\nshe didn't know anything about them...",
+      "text": "Her family were people she just met before, so that's why\nshe didn't know anything about them..."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "693": "???",
+    "936": "Kotori",
+    "1328": "Kotori",
+    "1933": "Grandma",
+    "2010": "Grandma",
+    "2085": "Kotori",
+    "2121": "Grandma",
+    "2200": "Kotori",
+    "2294": "Grandma",
+    "2406": "Kotori",
+    "2598": "Grandma",
+    "2640": "Kotori",
+    "2676": "Grandma",
+    "2751": "Grandma",
+    "2848": "Kotori",
+    "2952": "Grandma",
+    "3011": "Kotori",
+    "3168": "Grandma",
+    "3200": "Kotori",
+    "3523": "Grandma",
+    "3559": "Kotori",
+    "3648": "Kotori",
+    "3720": "Kotori",
+    "4020": "Grandma",
+    "4121": "Grandma",
+    "4210": "Grandma",
+    "4328": "Kotori",
+    "4386": "Kotori",
+    "4434": "Grandma",
+    "4470": "Grandma",
+    "4592": "Grandma",
+    "4685": "Kotori",
+    "4850": "Kotori",
+    "4932": "Kotori"
+  }
+}

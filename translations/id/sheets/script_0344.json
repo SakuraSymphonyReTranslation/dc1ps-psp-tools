@@ -1,0 +1,553 @@
+{
+  "scene": "script_0344.obj",
+  "dialogues": [
+    {
+      "offset": 137,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "図書室は、はたして本当に本を読むだけの場所\nなのか。",
+      "en": "I wonder whether the library really is a place to read books\nat.",
+      "text": "I wonder whether the library really is a place to read books\nat."
+    },
+    {
+      "offset": 193,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "勉強をする場所？　いいや、違うな。",
+      "en": "A place for studying? Not really either.",
+      "text": "A place for studying? Not really either."
+    },
+    {
+      "offset": 232,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "寝るところだ！",
+      "en": "It's a place for sleeping!",
+      "text": "It's a place for sleeping!"
+    },
+    {
+      "offset": 251,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "静かで、他の教室からも離れていて、なにげに\n日当たりもよく……。",
+      "en": "Quiet, far from the other classrooms, just the right amount\nof sunlight...",
+      "text": "Quiet, far from the other classrooms, just the right amount\nof sunlight..."
+    },
+    {
+      "offset": 319,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "完璧だ！",
+      "en": "It's perfect!",
+      "text": "It's perfect!"
+    },
+    {
+      "offset": 334,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「──グッナイ！」",
+      "en": "\"---Good night!\"",
+      "text": "\"---Good night!\""
+    },
+    {
+      "offset": 359,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さんさんと輝く太陽に、おやすみを告げる。",
+      "en": "I said to the brightly-shining sun, through the window.",
+      "text": "I said to the brightly-shining sun, through the window."
+    },
+    {
+      "offset": 418,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "睡眠には、レム睡眠とノンレム睡眠がある。",
+      "en": "There are two different types of sleep; REM, and non-REM.",
+      "text": "There are two different types of sleep; REM, and non-REM."
+    },
+    {
+      "offset": 463,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だいたい９０分置きに入れ替わり、レム睡眠は\n身体の眠り、ノンレム睡眠は脳の眠りと呼ばれ\nている。",
+      "en": "Within 90 seconds of REM sleep, your entire body is put to\nrest. However, unlike non-REM sleep, your brain stays\nactive.",
+      "text": "Within 90 seconds of REM sleep, your entire body is put to\nrest. However, unlike non-REM sleep, your brain stays\nactive."
+    },
+    {
+      "offset": 562,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、レム睡眠中は、夢をよく見ると言われ\nている。",
+      "en": "It's during REM sleep that dreams can be recalled easily.",
+      "text": "It's during REM sleep that dreams can be recalled easily."
+    },
+    {
+      "offset": 623,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眠った早々、夢を見る。自分の夢ならまだしも\n他人の夢だ。",
+      "en": "Thusly, during this sleep, I saw a dream. Not my own, but\nthat of someone else's.",
+      "text": "Thusly, during this sleep, I saw a dream. Not my own, but\nthat of someone else's."
+    },
+    {
+      "offset": 683,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "楽しみにしていたドラマを見ようとテレビをつ\nけたら画面の上に、",
+      "en": "It's like expecting to see your favourite drama on TV, then\nseeing the dreaded words,",
+      "text": "It's like expecting to see your favourite drama on TV, then\nseeing the dreaded words,"
+    },
+    {
+      "offset": 749,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "“野球中継延長のため、ドラマ『ラッキーク\n　ローバー』は、中継が終わり次第の放送に\n　なります”",
+      "en": "\"Due to the extension of the baseball game broadcast, the\ndrama \"Lucky Clover\" will be delayed until the game is\nfinished.\"",
+      "text": "\"Due to the extension of the baseball game broadcast, the\ndrama \"Lucky Clover\" will be delayed until the game is\nfinished.\""
+    },
+    {
+      "offset": 848,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と出ているようなものだ。",
+      "en": "...scroll across the top of the screen.",
+      "text": "...scroll across the top of the screen."
+    },
+    {
+      "offset": 877,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、それでも試合自体が面白ければそれほど\n気にはならないのだが。",
+      "en": "Well, if the baseball game itself is entertaining, it's not\na problem either.",
+      "text": "Well, if the baseball game itself is entertaining, it's not\na problem either."
+    },
+    {
+      "offset": 947,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──桜の花びらの中をかき消えるような小さな\n声が、響き渡る。",
+      "en": "--A tiny voice emnated from the swirling sakura petals,\nresounding around the place.",
+      "text": "--A tiny voice emnated from the swirling sakura petals,\nresounding around the place."
+    },
+    {
+      "offset": 1024,
+      "speaker": "Girl",
+      "speaker_jp": "少女",
+      "jp": "「花……、花が咲いた」",
+      "en": "\"Flower... a flower is blooming.\"",
+      "text": "\"Flower... a flower is blooming.\""
+    },
+    {
+      "offset": 1064,
+      "speaker": "Girl",
+      "speaker_jp": "少女",
+      "jp": "「ようやく咲いた。綺麗な花が」",
+      "en": "\"It finally bloomed. It's a pretty flower.\"",
+      "text": "\"It finally bloomed. It's a pretty flower.\""
+    },
+    {
+      "offset": 1101,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ガラスのような繊細で透明なトーンのボイス。",
+      "en": "A voice as thin and delicate as glass.",
+      "text": "A voice as thin and delicate as glass."
+    },
+    {
+      "offset": 1148,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "桜の花びらが彼女の感情を表わしているかのよ\nうに、ゆっくりと舞い落ちる。",
+      "en": "As if expressing the girl's feelings, the sakura petals\nslowly drifted to the floor.",
+      "text": "As if expressing the girl's feelings, the sakura petals\nslowly drifted to the floor."
+    },
+    {
+      "offset": 1237,
+      "speaker": "Girl",
+      "speaker_jp": "少女",
+      "jp": "「これで私は……、もう寂しくない」",
+      "en": "\"With this... I won't be alone anymore.\"",
+      "text": "\"With this... I won't be alone anymore.\""
+    },
+    {
+      "offset": 1289,
+      "speaker": "Girl",
+      "speaker_jp": "少女",
+      "jp": "「寂しくないと思う……」",
+      "en": "\"I think I won't...\"",
+      "text": "\"I think I won't...\""
+    },
+    {
+      "offset": 1331,
+      "speaker": "Girl",
+      "speaker_jp": "少女",
+      "jp": "「たぶん、寂しくない……」",
+      "en": "\"Probably, I won't...\"",
+      "text": "\"Probably, I won't...\""
+    },
+    {
+      "offset": 1364,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "画面を桜の花びらが覆いつくす。声も消え、桜\nの木も。すべて。",
+      "en": "The sakura petals then completely shrouded the screen. The\nvoice disappeared, as did the sakura tree. It all vanished.",
+      "text": "The sakura petals then completely shrouded the screen. The\nvoice disappeared, as did the sakura tree. It all vanished."
+    },
+    {
+      "offset": 1428,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、暗闇が辺りを包み込む。",
+      "en": "Darkness enveloped everyhting.",
+      "text": "Darkness enveloped everyhting."
+    },
+    {
+      "offset": 1465,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暗闇……。",
+      "en": "Darkness...",
+      "text": "Darkness..."
+    },
+    {
+      "offset": 1480,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "寂しい。",
+      "en": "Lonely.",
+      "text": "Lonely."
+    },
+    {
+      "offset": 1493,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "寂しいな。",
+      "en": "So lonely.",
+      "text": "So lonely."
+    },
+    {
+      "offset": 1508,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "卒業だもんな。",
+      "en": "Graduation's near.",
+      "text": "Graduation's near."
+    },
+    {
+      "offset": 1527,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "みんな、卒業したら、どうするんだろうな。",
+      "en": "What'd everyone do when they graduate...",
+      "text": "What'd everyone do when they graduate..."
+    },
+    {
+      "offset": 1572,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "寂しいな。",
+      "en": "So lonely.",
+      "text": "So lonely."
+    },
+    {
+      "offset": 1587,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こんな暗闇じゃ、きっと寂しいね。",
+      "en": "In this darkness, it'd definitely be lonely.",
+      "text": "In this darkness, it'd definitely be lonely."
+    },
+    {
+      "offset": 1645,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん……あ。んん……、今何時だ？」",
+      "en": "\"Mm... ah. Hmm... what time is it?\"",
+      "text": "\"Mm... ah. Hmm... what time is it?\""
+    },
+    {
+      "offset": 1691,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目を覚まし、ヨダレの感触が残る顔を上げ、壁\nにかかっている時計を見上げる。",
+      "en": "Opening my eyes, and quickly wiping the drool off my mouth,\nI checked the clock on the wall.",
+      "text": "Opening my eyes, and quickly wiping the drool off my mouth,\nI checked the clock on the wall."
+    },
+    {
+      "offset": 1771,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんだ、後１０分もあるじゃないか……。驚\n　かせやがって……」",
+      "en": "\"Huh, it's only been 10 minutes... felt like longer...\"",
+      "text": "\"Huh, it's only been 10 minutes... felt like longer...\""
+    },
+    {
+      "offset": 1841,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は胸元を揺るめ、一息つく。",
+      "en": "The heaviness in my chest started to go away.",
+      "text": "The heaviness in my chest started to go away."
+    },
+    {
+      "offset": 1874,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もう一度寝ようかと思ったが、それはあまりに\nも危険なので、やめておいた。",
+      "en": "I could go to sleep again, but it semes like it'd\nget...dangerous, somehow.",
+      "text": "I could go to sleep again, but it semes like it'd\nget...dangerous, somehow."
+    },
+    {
+      "offset": 1950,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふと、机の端の方を見ると、俺と同じように寝\nているヤツがいた。",
+      "en": "Looking at the other end of the desk, apparently there was\nsomeone who was sleeping like I was.",
+      "text": "Looking at the other end of the desk, apparently there was\nsomeone who was sleeping like I was."
+    },
+    {
+      "offset": 2018,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ありゃ、なんだ。月城じゃないか」",
+      "en": "\"Whoa. It's Tsukishiro.\"",
+      "text": "\"Whoa. It's Tsukishiro.\""
+    },
+    {
+      "offset": 2059,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それは、月城であり、頭の下に可愛らしく両手\nを重ねて、無垢な寝顔で寝ていた。",
+      "en": "She was cutely resting her head on her arms, folded across\nthe table. Her sleeping face exuded innocence and purity.",
+      "text": "She was cutely resting her head on her arms, folded across\nthe table. Her sleeping face exuded innocence and purity."
+    },
+    {
+      "offset": 2139,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "よく見ると、寝ているのは月城だけではなく、\n他にも何人かがすやすやと寝息を立てていた。",
+      "en": "Looking around more closely, it wasn't just Tsukishiro\nsleeping here. Several others had the same idea.",
+      "text": "Looking around more closely, it wasn't just Tsukishiro\nsleeping here. Several others had the same idea."
+    },
+    {
+      "offset": 2229,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "よく見ると、萌先輩もいる。",
+      "en": "Even Moe-senpai was here.",
+      "text": "Even Moe-senpai was here."
+    },
+    {
+      "offset": 2260,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ここはいつからレストルームになったんだ。",
+      "en": "Seems like this is the school's unofficial \"rest room\".",
+      "text": "Seems like this is the school's unofficial \"rest room\"."
+    },
+    {
+      "offset": 2305,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、春が近いからだな……。（まだ３月に入っ\nたばかりだが）",
+      "en": "Well, Spring is coming soon... (even though there's the rest\nof March to go)",
+      "text": "Well, Spring is coming soon... (even though there's the rest\nof March to go)"
+    },
+    {
+      "offset": 2369,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そろそろ休憩が終わる。せめて月城くらいは起\nこしてやろう。",
+      "en": "Lunch break is going to end soon. I should wake Tsukishiro\nup now.",
+      "text": "Lunch break is going to end soon. I should wake Tsukishiro\nup now."
+    },
+    {
+      "offset": 2431,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "他の連中は知ったこっちゃない。",
+      "en": "I don't know the others.",
+      "text": "I don't know the others."
+    },
+    {
+      "offset": 2466,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩は、どうせ５秒後にすぐ寝てしまうだろ\nうし。",
+      "en": "And Moe-senpai would probably fall asleep again 5 seconds\nafter, anyway.",
+      "text": "And Moe-senpai would probably fall asleep again 5 seconds\nafter, anyway."
+    },
+    {
+      "offset": 2522,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「月城、月城。起きろよ。そろそろ５時限目が\n　始まるぞ」",
+      "en": "\"Tsukishiro, Tsukishiro, wake up. 5th period is going to\nstart soon.\"",
+      "text": "\"Tsukishiro, Tsukishiro, wake up. 5th period is going to\nstart soon.\""
+    },
+    {
+      "offset": 2584,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その細い身体をゆさゆさと揺する。",
+      "en": "I gently shook her tiny frame, trying to wake her up.",
+      "text": "I gently shook her tiny frame, trying to wake her up."
+    },
+    {
+      "offset": 2636,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……ん」",
+      "en": "\"...mm.\"",
+      "text": "\"...mm.\""
+    },
+    {
+      "offset": 2653,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「ほら、起きな」",
+      "en": "\"Come on, up and at 'em.\"",
+      "text": "\"Come on, up and at 'em.\""
+    },
+    {
+      "offset": 2676,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城はゆっくりと身体を起こし、眠そうに目を\nこする。",
+      "en": "Tsukishiro slowly started moving her body, looking up at me\nwith sleepy eyes.",
+      "text": "Tsukishiro slowly started moving her body, looking up at me\nwith sleepy eyes."
+    },
+    {
+      "offset": 2769,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……朝倉、先輩」",
+      "en": "\"...Asakura, senpai.\"",
+      "text": "\"...Asakura, senpai.\""
+    },
+    {
+      "offset": 2794,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「こんなところで寝てると風邪引くぞ」",
+      "en": "\"You'd catch a cold if you sleep here.\"",
+      "text": "\"You'd catch a cold if you sleep here.\""
+    },
+    {
+      "offset": 2867,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……はい」",
+      "en": "\"...Yes.\"",
+      "text": "\"...Yes.\""
+    },
+    {
+      "offset": 2886,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城が、寝ぼけまなこでこくんと頷いた。",
+      "en": "Tsukishiro, still half-asleep, nodded at my chide.",
+      "text": "Tsukishiro, still half-asleep, nodded at my chide."
+    },
+    {
+      "offset": 2929,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……わかってんのかな、ホントに。",
+      "en": "...I wonder whether she really understands.",
+      "text": "...I wonder whether she really understands."
+    },
+    {
+      "offset": 2966,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はまた眠ってそうな月城に、人形を持たせ、\nもう一度声をかける。",
+      "en": "She was still holding her doll, seeming like she wanted to\ngo back to sleep again. I called out to her to wake her up\nagain.",
+      "text": "She was still holding her doll, seeming like she wanted to\ngo back to sleep again. I called out to her to wake her up\nagain."
+    },
+    {
+      "offset": 3034,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は、こくこくんと二回頷いた。",
+      "en": "This time, she nodded twice.",
+      "text": "This time, she nodded twice."
+    },
+    {
+      "offset": 3073,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「じゃあな、二度寝はするなよ」",
+      "en": "\"Later then, don't fall asleep again.\"",
+      "text": "\"Later then, don't fall asleep again.\""
+    },
+    {
+      "offset": 3140,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……はい」",
+      "en": "\"...Okay.\"",
+      "text": "\"...Okay.\""
+    },
+    {
+      "offset": 3159,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、なんとなく月城のことを気にしながら、\n図書室を出たのだった。",
+      "en": "Still worried about Alice, I eventually left the library.",
+      "text": "Still worried about Alice, I eventually left the library."
+    },
+    {
+      "offset": 3358,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆寂しくない◆",
+      "en": "◆Won't Be Lonely◆",
+      "text": "◆Won't Be Lonely◆"
+    },
+    {
+      "offset": 3401,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "図書室で寝ていると、不思議な夢を見た。",
+      "en": "Sleeping in the library, I saw a weird dream.",
+      "text": "Sleeping in the library, I saw a weird dream."
+    },
+    {
+      "offset": 3444,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "例によって他人の夢だったが、寂しいとか寂し\nくないとか、そんな内容の夢だった。",
+      "en": "It was a girl's dream, about how she was lonely, and how she\nwon't be anymore.",
+      "text": "It was a girl's dream, about how she was lonely, and how she\nwon't be anymore."
+    },
+    {
+      "offset": 3526,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目を覚ますと、俺だけではなく何人かがすやす\nやと眠っており、その中には、月城も混ざって\nいた。",
+      "en": "When I woke up, I realized that not just me, but several\nother people were all sleeping in the library. Among them\nwas Tsukishiro.",
+      "text": "When I woke up, I realized that not just me, but several\nother people were all sleeping in the library. Among them\nwas Tsukishiro."
+    },
+    {
+      "offset": 3623,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、彼女が風邪を引かないよう起こしてやる\nと、図書室を後にした。",
+      "en": "I woke her up, not wanting her to catch a cold, then left\nthe library.",
+      "text": "I woke her up, not wanting her to catch a cold, then left\nthe library."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "1016": "Girl",
+    "1056": "Girl",
+    "1229": "Girl",
+    "1281": "Girl",
+    "1323": "Girl",
+    "2626": "Alice",
+    "2759": "Alice",
+    "2857": "Alice",
+    "3130": "Alice"
+  }
+}

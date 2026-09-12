@@ -1,0 +1,595 @@
+{
+  "scene": "script_0034.obj",
+  "dialogues": [
+    {
+      "offset": 145,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうしようかなぁとは思ったけれど、やはり気\nになった。",
+      "en": "Thinking of what to do, my thoguhts could only revert to\nthat.",
+      "text": "Thinking of what to do, my thoguhts could only revert to\nthat."
+    },
+    {
+      "offset": 203,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺がそこまで気にする必要はないとは思ったけ\nれど、やはりどこか胸にひっかかるものがあっ\nた。",
+      "en": "It wasn't something I had to worry or think about, yet it\nleft a funny feeling in my chest.",
+      "text": "It wasn't something I had to worry or think about, yet it\nleft a funny feeling in my chest."
+    },
+    {
+      "offset": 298,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、急いで昼飯を食い、体育館の裏にやって\nきた。",
+      "en": "As soon as I finished my lunch, I headed for the back of the\ngym.",
+      "text": "As soon as I finished my lunch, I headed for the back of the\ngym."
+    },
+    {
+      "offset": 352,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ここより、２年生の教室を探せばいいような気\nもするが、いるとしたら、こっちだと思った。",
+      "en": "If anything, she'd more likely be found there than in the\nclassrooms...",
+      "text": "If anything, she'd more likely be found there than in the\nclassrooms..."
+    },
+    {
+      "offset": 444,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……いねーか」",
+      "en": "\"...But she isn't here.\"",
+      "text": "\"...But she isn't here.\""
+    },
+    {
+      "offset": 467,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "誰もいない、相変わらず殺伐とした場所。月城\nどころか人っ子ひとりいない。",
+      "en": "No one was here in this dark and gloomy place. Not\nTsukishiro, not anyone.",
+      "text": "No one was here in this dark and gloomy place. Not\nTsukishiro, not anyone."
+    },
+    {
+      "offset": 545,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「バカバカしい。帰ろ……」",
+      "en": "\"I'm just being stupid. I should head back...\"",
+      "text": "\"I'm just being stupid. I should head back...\""
+    },
+    {
+      "offset": 578,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さすがに、ヘタな気まぐれなんておこすモノじゃ\nあないと実感する。",
+      "en": "I can't just solve weird problems that easily.",
+      "text": "I can't just solve weird problems that easily."
+    },
+    {
+      "offset": 646,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城がしゃがんでいた場所には、何かの植物が\n生えていたけれど、昨日のことを知らなければ、\n変わった雑草にしか見えない。",
+      "en": "The plant was still growing there, but if yesterday hadn't\ntaken place, I wouldn't have been able to distinguish it.",
+      "text": "The plant was still growing there, but if yesterday hadn't\ntaken place, I wouldn't have been able to distinguish it."
+    },
+    {
+      "offset": 767,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が、その植物に背を向けて、帰ろうとした時\nだった。",
+      "en": "Turning my back on the plant, I started heading back to\nclass.",
+      "text": "Turning my back on the plant, I started heading back to\nclass."
+    },
+    {
+      "offset": 825,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「の、のわぁッ……って、月城じゃないか」",
+      "en": "\"W, wahh..., oh, it's you, Tsukishiro.\"",
+      "text": "\"W, wahh..., oh, it's you, Tsukishiro.\""
+    },
+    {
+      "offset": 872,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "振り返った目の前に、月城がいた。",
+      "en": "Tsukishiro had been standing behind me.",
+      "text": "Tsukishiro had been standing behind me."
+    },
+    {
+      "offset": 909,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まったく気配を感じさせない状態で、そこにい\nたのだろうか。",
+      "en": "Her presence wasn't even noticable; how long had she been\nstanding there?",
+      "text": "Her presence wasn't even noticable; how long had she been\nstanding there?"
+    },
+    {
+      "offset": 1013,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……先輩」",
+      "en": "\"..Senpai.\"",
+      "text": "\"..Senpai.\""
+    },
+    {
+      "offset": 1032,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は、少し考えた素振りを見せた後、もぞも\nぞと手袋を外し、人形を触る。",
+      "en": "Thinking for a while, she eventually took off her gloves,\nand patted her doll.",
+      "text": "Thinking for a while, she eventually took off her gloves,\nand patted her doll."
+    },
+    {
+      "offset": 1140,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「朝倉先輩、こんちわ」",
+      "en": "\"Asakura-senpai, good afternoon!\"",
+      "text": "\"Asakura-senpai, good afternoon!\""
+    },
+    {
+      "offset": 1169,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「こ、こんちわ……って、これ、月城が喋って\n　るんだろ？」",
+      "en": "\"H, hello... uh, this is Tsukishiro speaking, right?\"",
+      "text": "\"H, hello... uh, this is Tsukishiro speaking, right?\""
+    },
+    {
+      "offset": 1263,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……」",
+      "en": "\"...\"",
+      "text": "\"...\""
+    },
+    {
+      "offset": 1278,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城がふるふると首を横に振る。綺麗に巻かれ\nた縦ロールがゆらゆら揺れる。",
+      "en": "Tsukishiro calmly shook her head no, her twin curled\nponytails swinging side-to-side with her head.",
+      "text": "Tsukishiro calmly shook her head no, her twin curled\nponytails swinging side-to-side with her head."
+    },
+    {
+      "offset": 1386,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「だから、喋ってるのは、ボクだって。ピロス\n　だよ」",
+      "en": "\"Therefore, the one speaking must be me, Piros.\"",
+      "text": "\"Therefore, the one speaking must be me, Piros.\""
+    },
+    {
+      "offset": 1444,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「ピロスって、そんなピロシキみたいな名前の\n　人形が喋ってるって、そりゃあないぞ。腹話\n　術ってヤツだろ？　うまいな」",
+      "en": "\"There's no such thing as a doll, albeit one with a name,\nspeaking on it's own. It's ventriloquism, no? You're really\nskilled.\"",
+      "text": "\"There's no such thing as a doll, albeit one with a name,\nspeaking on it's own. It's ventriloquism, no? You're really\nskilled.\""
+    },
+    {
+      "offset": 1567,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は上目遣いで俺をじーっと見る。口をきゅっ\nとへの字に曲げて、じーっと見ている。",
+      "en": "Tsukishiro's head turned upwards, staring at me. Her mouth\ncurled into a frown, her eyes still unwavering.",
+      "text": "Tsukishiro's head turned upwards, staring at me. Her mouth\ncurled into a frown, her eyes still unwavering."
+    },
+    {
+      "offset": 1685,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「腹話術じゃないよ。ボクが喋ってるの！」",
+      "en": "\"It's not ventriloquism. I'm really tallking!\"",
+      "text": "\"It's not ventriloquism. I'm really tallking!\""
+    },
+    {
+      "offset": 1732,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「……わかったよ。わかった。その人形が喋っ\n　てるんだろ。そういうことにしよう」",
+      "en": "\"...Alright, alright, I get it. That doll is talking. That's\nwhat's going on.\"",
+      "text": "\"...Alright, alright, I get it. That doll is talking. That's\nwhat's going on.\""
+    },
+    {
+      "offset": 1835,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうも、月城……いや、人形は自分で喋ってい\nるのだと言い張っている。",
+      "en": "Somehow, Tsukishiro... I mean, the doll, insisted that it\nwas the one talking.",
+      "text": "Somehow, Tsukishiro... I mean, the doll, insisted that it\nwas the one talking."
+    },
+    {
+      "offset": 1907,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "多少不思議だが（いや、相当不思議だろう）人\n形が喋ろうが、月城が喋ろうが、どっちでもい\nいといえばいい。",
+      "en": "Strange as it may be (although par for the course), whether\nit's the doll talking or Tsukishiro talking doesn't really\nmatter.",
+      "text": "Strange as it may be (although par for the course), whether\nit's the doll talking or Tsukishiro talking doesn't really\nmatter."
+    },
+    {
+      "offset": 2014,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今さらちょっとやそっと不思議なことが起こっ\nたって驚きはしない。",
+      "en": "Considering things that have happened, and are happening\nright now, that's not anything to be surprised about.",
+      "text": "Considering things that have happened, and are happening\nright now, that's not anything to be surprised about."
+    },
+    {
+      "offset": 2082,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こういう時、自分が不思議な存在の先頭にいる\nと楽で助かる。",
+      "en": "At a time like this, all you really need to do is nod and\nsmile.",
+      "text": "At a time like this, all you really need to do is nod and\nsmile."
+    },
+    {
+      "offset": 2159,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「人形じゃないよ！　ピロスだよ。アリスの唯\n　一の友達なんだ」",
+      "en": "\"My name's not \"doll\"! It's Piros. Alice's only friend.\"",
+      "text": "\"My name's not \"doll\"! It's Piros. Alice's only friend.\""
+    },
+    {
+      "offset": 2227,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「……わかったよ、ピロスな、ピロス」",
+      "en": "\"...Okay, you're Piros, I know.\"",
+      "text": "\"...Okay, you're Piros, I know.\""
+    },
+    {
+      "offset": 2270,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "人形のくせに意外とうるさいヤツだ。",
+      "en": "He's a pretty big loudmouth for a doll.",
+      "text": "He's a pretty big loudmouth for a doll."
+    },
+    {
+      "offset": 2311,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ところで、月城。学生手帳、渡してもらえた\n　か？」",
+      "en": "\"Anyway, Tsukishiro. Did you get back your student\nnotebook?\"",
+      "text": "\"Anyway, Tsukishiro. Did you get back your student\nnotebook?\""
+    },
+    {
+      "offset": 2399,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……はい」",
+      "en": "\"...Yes.\"",
+      "text": "\"...Yes.\""
+    },
+    {
+      "offset": 2418,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "アリスが小さく返事をして、こくんと頷いた。",
+      "en": "Alice's answer was barely audible, her head nodding slightly\nonce at the same time.",
+      "text": "Alice's answer was barely audible, her head nodding slightly\nonce at the same time."
+    },
+    {
+      "offset": 2465,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "喋れない訳ではなさそうだけれど、なんとなく、\n喋るのがとてつもなく苦手、そんな感じだ。",
+      "en": "She hasn't really had a reason to talk so far, but I get the\nfeeling that she's probably not very good at it to start\nwith.",
+      "text": "She hasn't really had a reason to talk so far, but I get the\nfeeling that she's probably not very good at it to start\nwith."
+    },
+    {
+      "offset": 2587,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「昨日、瀬場さんから受け取ったよ。わざわざ\n　家にまで来たんだね」",
+      "en": "\"She recieved it from Seiba-san as soon as we returned\nhome.\"",
+      "text": "\"She recieved it from Seiba-san as soon as we returned\nhome.\""
+    },
+    {
+      "offset": 2659,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城の腕の中で、表情がまるで変わらない人形\nがそう言った。なんとなく、微妙に生意気なヤ\nツだな。",
+      "en": "The doll in Alice's arms, unchangingly expressionless,\nanswered for her. Somehow, he seems rather... unsubtle.",
+      "text": "The doll in Alice's arms, unchangingly expressionless,\nanswered for her. Somehow, he seems rather... unsubtle."
+    },
+    {
+      "offset": 2760,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんか、人形に礼を言われるのもなんだか不\n　思議なものだな」",
+      "en": "\"...Being explained to by a doll is still a weird feeling.\"",
+      "text": "\"...Being explained to by a doll is still a weird feeling.\""
+    },
+    {
+      "offset": 2828,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうも調子が出ない。月城を相手にしてるのか\nその人形を相手にしてるのか、わからなくなる。",
+      "en": "I'm not in their rhythm at all. The relationship between\nTsukishiro and that doll was still a mess of confusion to\nme.",
+      "text": "I'm not in their rhythm at all. The relationship between\nTsukishiro and that doll was still a mess of confusion to\nme."
+    },
+    {
+      "offset": 2920,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふと、足下に、じょうろが見える。",
+      "en": "Trying to distract myself, I idly stared at the water can at\nmy feet.",
+      "text": "Trying to distract myself, I idly stared at the water can at\nmy feet."
+    },
+    {
+      "offset": 2959,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「今日も、そこの草の世話？」",
+      "en": "\"Still taking care of that plant today?\"",
+      "text": "\"Still taking care of that plant today?\""
+    },
+    {
+      "offset": 3024,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……そう」",
+      "en": "\"...Yeah.\"",
+      "text": "\"...Yeah.\""
+    },
+    {
+      "offset": 3073,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「とても、大切な花なんだ。絶対にいじったり\n　しないでよ？」",
+      "en": "\"It's a very important flower, so of course we'd have to\ntake care of it extremely well.\"",
+      "text": "\"It's a very important flower, so of course we'd have to\ntake care of it extremely well.\""
+    },
+    {
+      "offset": 3139,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城に続いて、ピロスが答える。",
+      "en": "Piros elaborated further on Alice's terseness.",
+      "text": "Piros elaborated further on Alice's terseness."
+    },
+    {
+      "offset": 3176,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「別にいじりやしないさ。つか、花だったんだ\n　なこれ」",
+      "en": "\"Not saying you shouldn't. But is this really a flower?\"",
+      "text": "\"Not saying you shouldn't. But is this really a flower?\""
+    },
+    {
+      "offset": 3236,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は踏んづけたり引っこ抜いたりする気はな\nいが、その草は風で飛んじゃいそうなくらい、\n弱々しいものだった。",
+      "en": "Even if it wasn't stepped on or whatever, it seems so weak,\nthat a strong gust of wind could probably blow it into the\nair.",
+      "text": "Even if it wasn't stepped on or whatever, it seems so weak,\nthat a strong gust of wind could probably blow it into the\nair."
+    },
+    {
+      "offset": 3362,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は、手袋をはめ直し、じょうろを持つ。",
+      "en": "Refitting her gloves, Tsukishiro picked up the watering can.",
+      "text": "Refitting her gloves, Tsukishiro picked up the watering can."
+    },
+    {
+      "offset": 3407,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、草のところへ行くと、昨日のようにしゃ\nがんで、水をやり始めた。",
+      "en": "Repeating yesterday's routine, she calmly strode over to the\nplant, and started to water it.",
+      "text": "Repeating yesterday's routine, she calmly strode over to the\nplant, and started to water it."
+    },
+    {
+      "offset": 3483,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なあ、その草、なんて名前なんだ？」",
+      "en": "\"Hey, that plant... what's it's name?\"",
+      "text": "\"Hey, that plant... what's it's name?\""
+    },
+    {
+      "offset": 3526,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は、ちょっと俺の方を向き、口を開きかけ\nたが、すぐにまた水やりに戻ってしまった。",
+      "en": "For a split second, Tsukishiro had turned her head to me and\nopened her mouth slightly. But before a word could escape\nher lips, her concentration went back to the plant and\nwatering can.",
+      "text": "For a split second, Tsukishiro had turned her head to me and\nopened her mouth slightly. But before a word could escape\nher lips, her concentration went back to the plant and\nwatering can."
+    },
+    {
+      "offset": 3616,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なあ、ピロス、答えろよ」",
+      "en": "\"Oy, Piros, can't you answer that?\"",
+      "text": "\"Oy, Piros, can't you answer that?\""
+    },
+    {
+      "offset": 3649,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "人形の名前を呼んでみる。",
+      "en": "I called out the doll's name.",
+      "text": "I called out the doll's name."
+    },
+    {
+      "offset": 3678,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、人形は、月城の腕に、相変わらずにっ\nこりと笑った表情のまま静かに抱かれていた。",
+      "en": "Yet all the doll did was sit in Tsukishiro's arms quietly,\nwearing a never-fading smirk.",
+      "text": "Yet all the doll did was sit in Tsukishiro's arms quietly,\nwearing a never-fading smirk."
+    },
+    {
+      "offset": 3787,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「もう、喋らないのか？」",
+      "en": "\"Not talking anymore?\"",
+      "text": "\"Not talking anymore?\""
+    },
+    {
+      "offset": 3818,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やっぱり、腹話術だったのだろうか。人形は、\n自分はただの人形だと言わんばかりに、ただ\nずっと黙っていた。",
+      "en": "It must be ventriloquism. It said so much that it could talk\nby itself, yet now, it seemed dead as a doornail.",
+      "text": "It must be ventriloquism. It said so much that it could talk\nby itself, yet now, it seemed dead as a doornail."
+    },
+    {
+      "offset": 3925,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "水をやり終えた月城は、すっと立ち上がる。",
+      "en": "Tsukishiro then stood up, having finished watering the\nplant.",
+      "text": "Tsukishiro then stood up, having finished watering the\nplant."
+    },
+    {
+      "offset": 4002,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……先輩、……さよなら」",
+      "en": "\"...Senpai... farewell.\"",
+      "text": "\"...Senpai... farewell.\""
+    },
+    {
+      "offset": 4035,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は、それだけ言うと、じょうろと人形を手\nに、てててっと校舎の方に向かって、駆けてい\nくのだった。",
+      "en": "With the watering can in one hand and the doll in the other,\nshe hurried back to the school building.",
+      "text": "With the watering can in one hand and the doll in the other,\nshe hurried back to the school building."
+    },
+    {
+      "offset": 4152,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、俺が一人だけ残される。",
+      "en": "Leaving just myself behind.",
+      "text": "Leaving just myself behind."
+    },
+    {
+      "offset": 4187,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ひゅう……と足下を風が駆け抜ける。",
+      "en": "I kicked the ground in a mixture of confusion and\nfrustration, creating a cloud of dust.",
+      "text": "I kicked the ground in a mixture of confusion and\nfrustration, creating a cloud of dust."
+    },
+    {
+      "offset": 4228,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……なんなんだ、あいつ」",
+      "en": "\"...The hell is up with that girl?\"",
+      "text": "\"...The hell is up with that girl?\""
+    },
+    {
+      "offset": 4261,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まったく、よくわからないヤツだ。",
+      "en": "She's completely incomprehensible.",
+      "text": "She's completely incomprehensible."
+    },
+    {
+      "offset": 4298,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、ああまでよくわからないと、余計に気\nになってしまう。",
+      "en": "But, even as incomprehensible as it is, I can't help but be\nintrigued by it.",
+      "text": "But, even as incomprehensible as it is, I can't help but be\nintrigued by it."
+    },
+    {
+      "offset": 4362,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "腹話術なのか、本当に不思議な人形なのかわか\nらないけれど、あのピロスって人形も気になる\nし。",
+      "en": "Especially of that Piros, whether it's controlled by\nventriloquism or whether he's what he claims he is.",
+      "text": "Especially of that Piros, whether it's controlled by\nventriloquism or whether he's what he claims he is."
+    },
+    {
+      "offset": 4457,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふと、月城が育てている草に目をやる。",
+      "en": "My eyes traveled over to the Tsukishiro's adopted plant.",
+      "text": "My eyes traveled over to the Tsukishiro's adopted plant."
+    },
+    {
+      "offset": 4498,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぎりぎり当たっている太陽の光が、さっきの水\nに反射して、キラキラと輝いていた。",
+      "en": "The faint rays of the sun were reflecting off the residue\ndrops of water, making the plant look as if it was shining.",
+      "text": "The faint rays of the sun were reflecting off the residue\ndrops of water, making the plant look as if it was shining."
+    },
+    {
+      "offset": 4582,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「また、気が向いたら、来てみるかな」",
+      "en": "\"She'd probably keep coming back here.\"",
+      "text": "\"She'd probably keep coming back here.\""
+    },
+    {
+      "offset": 4625,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、広島銘菓もみじ饅頭を手のひらに転がし、\nひょいっと口に入れた。",
+      "en": "I thought, as I finally started digging into my lunch of\nHiroshima pastry cakes.",
+      "text": "I thought, as I finally started digging into my lunch of\nHiroshima pastry cakes."
+    },
+    {
+      "offset": 4826,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆ピロシキ◆",
+      "en": "◆Piroshiki◆",
+      "text": "◆Piroshiki◆"
+    },
+    {
+      "offset": 4867,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城のことが気になり、体育館裏を訪れた俺は\nそこで、再び月城に出会う。",
+      "en": "Thinking about Tsukishiro, I visited the gym rear and met\nher again.",
+      "text": "Thinking about Tsukishiro, I visited the gym rear and met\nher again."
+    },
+    {
+      "offset": 4941,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あいかわらず、月城は人形を使って喋るのだっ\nた。色々｛き／訊｝いてみたいことがあったのだが、昨\n日と同じくあまり喋ってはもらえなかった。",
+      "en": "As before, she let the doll do the talking for her. I asked\nher a lot of questions, but she remained just as\ntight-lipped as yesterday.",
+      "text": "As before, she let the doll do the talking for her. I asked\nher a lot of questions, but she remained just as\ntight-lipped as yesterday."
+    },
+    {
+      "offset": 5080,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "また、気が向いたら来てみよう。彼女の育てて\nいる花を見て、そう思うのだった。",
+      "en": "Looking at the flower she was raising, I knew one thing for\nsure; she'd keep coming back here.",
+      "text": "Looking at the flower she was raising, I knew one thing for\nsure; she'd keep coming back here."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "1003": "Alice",
+    "1130": "Piros",
+    "1253": "Alice",
+    "1376": "Piros",
+    "1675": "Piros",
+    "2149": "Piros",
+    "2389": "Alice",
+    "2577": "Piros",
+    "3014": "Alice",
+    "3063": "Piros",
+    "3992": "Alice"
+  }
+}

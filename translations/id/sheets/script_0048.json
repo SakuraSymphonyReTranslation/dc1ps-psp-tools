@@ -1,0 +1,521 @@
+{
+  "scene": "script_0048.obj",
+  "dialogues": [
+    {
+      "offset": 153,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "することがなかった訳ではないけれど、まあ、\n様子を見に来るくらいいいかなと思った。",
+      "en": "There was no real reason to go there, but in the end, I\nthought it was a good idea to check on it's condition.",
+      "text": "There was no real reason to go there, but in the end, I\nthought it was a good idea to check on it's condition."
+    },
+    {
+      "offset": 239,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "別に、面倒くさいことが起きる訳でもなし。",
+      "en": "I wasn't looking to create trouble or anything.",
+      "text": "I wasn't looking to create trouble or anything."
+    },
+    {
+      "offset": 284,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただ、美春ではないが、せっかく知り合ったの\nだから、もう少し仲良くなってみたいと思う。",
+      "en": "But since Miharu wasn't around, and we'd actually met, I\nwanted to try to get closer to her.",
+      "text": "But since Miharu wasn't around, and we'd actually met, I\nwanted to try to get closer to her."
+    },
+    {
+      "offset": 374,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もちろん、月城アリスのことだ。",
+      "en": "Of course, I was talking about Tsukishiro Alice.",
+      "text": "Of course, I was talking about Tsukishiro Alice."
+    },
+    {
+      "offset": 409,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、月城がまたここに来てはいないかと足を\n延ばしてみた。",
+      "en": "Thinking that maybe she may not be here at this time, I\nfurtively approached the spot.",
+      "text": "Thinking that maybe she may not be here at this time, I\nfurtively approached the spot."
+    },
+    {
+      "offset": 471,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "すると、例の場所に、ぽつんとしゃがんでいる\n月城がいた。",
+      "en": "But, as my view became clearer and clearer, so did the\nfigure of Tsukishiro.",
+      "text": "But, as my view became clearer and clearer, so did the\nfigure of Tsukishiro."
+    },
+    {
+      "offset": 533,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「月城ー」",
+      "en": "\"Tsukshirooo-\"",
+      "text": "\"Tsukshirooo-\""
+    },
+    {
+      "offset": 572,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "小さな月城がひょこっと俺の方を向く。",
+      "en": "The tiny Tsukishiro snapped her head towards me.",
+      "text": "The tiny Tsukishiro snapped her head towards me."
+    },
+    {
+      "offset": 637,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「やっぱり来てたんだな」",
+      "en": "\"You really did come here again.\"",
+      "text": "\"You really did come here again.\""
+    },
+    {
+      "offset": 668,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こくんと頷く。",
+      "en": "A quick, barely noticable nod.",
+      "text": "A quick, barely noticable nod."
+    },
+    {
+      "offset": 689,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「昼休憩に水をやりにくるのは、わかるけど、\n　放課後まで何やってんだ？」",
+      "en": "\"I can understand it needing water during lunch break at\nnoon, but what are you doing here after school?\"",
+      "text": "\"I can understand it needing water during lunch break at\nnoon, but what are you doing here after school?\""
+    },
+    {
+      "offset": 767,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城が、もぞもぞと手袋を外して人形をこちら\nに向ける。",
+      "en": "Squirming, she once again removed her gloves and brought the\ndoll's head to face me.",
+      "text": "Squirming, she once again removed her gloves and brought the\ndoll's head to face me."
+    },
+    {
+      "offset": 842,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "無垢な瞳が俺を見る。",
+      "en": "Her innocence and purity were reflected in her eyes, as she\ngazed at me.",
+      "text": "Her innocence and purity were reflected in her eyes, as she\ngazed at me."
+    },
+    {
+      "offset": 867,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんとなく苦手な視線だ。",
+      "en": "She didn't look comfortable at all.",
+      "text": "She didn't look comfortable at all."
+    },
+    {
+      "offset": 911,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「放課後は、用務員のおじさんが草むしりをし\n　たりするからね。見張ってないと！」",
+      "en": "\"If we don't watch out here after school, that old janitor\nwill come around and rip the plant out!\"",
+      "text": "\"If we don't watch out here after school, that old janitor\nwill come around and rip the plant out!\""
+    },
+    {
+      "offset": 997,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「……ずっと、そうやってじーっと見てるつも\n　りか？」",
+      "en": "\"...So, you're gonna stay there the whole time, doing\nnothing but staring at it?\"",
+      "text": "\"...So, you're gonna stay there the whole time, doing\nnothing but staring at it?\""
+    },
+    {
+      "offset": 1087,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「用務員のおじさん、いつ来るかわからないか\n　らね！　安心できないんだ」",
+      "en": "\"We don't know when or whether that old guy will come!! We\ncan't just let it happen.\"",
+      "text": "\"We don't know when or whether that old guy will come!! We\ncan't just let it happen.\""
+    },
+    {
+      "offset": 1165,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「……来たら言えばいいだろ。これは抜いてく\n　れるなって」",
+      "en": "\"...Tell him when he comes, then leave. You can't stay here\nforever.\"",
+      "text": "\"...Tell him when he comes, then leave. You can't stay here\nforever.\""
+    },
+    {
+      "offset": 1259,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「…………ああ」",
+      "en": "\".....Ahh.\"",
+      "text": "\".....Ahh.\""
+    },
+    {
+      "offset": 1295,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「…………ああ」",
+      "en": "\".....Ahh.\"",
+      "text": "\".....Ahh.\""
+    },
+    {
+      "offset": 1318,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城がきょとんとした目で、俺の方を見る。",
+      "en": "Her eyes continued piercing into my very soul.",
+      "text": "Her eyes continued piercing into my very soul."
+    },
+    {
+      "offset": 1363,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こいつら、気づいてなかったのか。",
+      "en": "Looks like she hasn't noticed it at all.",
+      "text": "Looks like she hasn't noticed it at all."
+    },
+    {
+      "offset": 1400,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちょうど、その時用務員のおじさんが校庭から、\n草をむしりながら、こちらへ向かってきた。",
+      "en": "The said part-time janitor was already walking around,\npulling out the weeds around the campus.",
+      "text": "The said part-time janitor was already walking around,\npulling out the weeds around the campus."
+    },
+    {
+      "offset": 1501,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ、すんませーん」",
+      "en": "\"Ah, excuse me!\"",
+      "text": "\"Ah, excuse me!\""
+    },
+    {
+      "offset": 1575,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、用務員のおじさんのところに駆けていき、\n適当に話をつけてきた。",
+      "en": "I ran up to the janitor, and started explaining.",
+      "text": "I ran up to the janitor, and started explaining."
+    },
+    {
+      "offset": 1649,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「それは、抜かないように気をつけるってさ」",
+      "en": "\"He understands not to tear that plant out now.\"",
+      "text": "\"He understands not to tear that plant out now.\""
+    },
+    {
+      "offset": 1733,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「……ボクが行こうと思ってたのに」",
+      "en": "\"...I thought I was supposed to go talk to him.\"",
+      "text": "\"...I thought I was supposed to go talk to him.\""
+    },
+    {
+      "offset": 1774,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「いや、どうせ、その人形で話しかけるんだろ？\n　おっさん、ビビって逃げるぞ」",
+      "en": "\"Uh, you mean, letting this doll talk to him? He'd run off\nscreaming in terror first.\"",
+      "text": "\"Uh, you mean, letting this doll talk to him? He'd run off\nscreaming in terror first.\""
+    },
+    {
+      "offset": 1856,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺みたいなヤツならいいけど、たいていの人間\nはそういうのに耐性ないからな。",
+      "en": "Not that I'm calling myself Mr. Congeniality, but I'm at\nleast human.",
+      "text": "Not that I'm calling myself Mr. Congeniality, but I'm at\nleast human."
+    },
+    {
+      "offset": 1966,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「そ、そうかな」",
+      "en": "\"T, that's true.\"",
+      "text": "\"T, that's true.\""
+    },
+    {
+      "offset": 1989,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「たぶんな」",
+      "en": "\"Mmhmm.\"",
+      "text": "\"Mmhmm.\""
+    },
+    {
+      "offset": 2025,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「とにかく、その花はずっと見て無くても大丈\n　夫ってことだ」",
+      "en": "\"Anyway, it should be alright even if you don't stare at it\n24-7 now.\"",
+      "text": "\"Anyway, it should be alright even if you don't stare at it\n24-7 now.\""
+    },
+    {
+      "offset": 2091,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こんなひとけのないところ、外敵は用務員のお\nじさんくらいだ。",
+      "en": "In this deserted area, only that janitor would think of\nencroaching this restricted space anyway.",
+      "text": "In this deserted area, only that janitor would think of\nencroaching this restricted space anyway."
+    },
+    {
+      "offset": 2187,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……でも」",
+      "en": "\"...But...\"",
+      "text": "\"...But...\""
+    },
+    {
+      "offset": 2236,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「何があるかわかんないから、もう少し様子を\n　見てるって」",
+      "en": "\"We don't know what might happen... we'd continue keeping\nwatch for a bit longer.\"",
+      "text": "\"We don't know what might happen... we'd continue keeping\nwatch for a bit longer.\""
+    },
+    {
+      "offset": 2300,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城と人形はそう言うと、またその草をじーっ\nと見始めた。",
+      "en": "As both Tsukishiro and Piros finished talking, they went\nback to boring holes into the plant with their eyes.",
+      "text": "As both Tsukishiro and Piros finished talking, they went\nback to boring holes into the plant with their eyes."
+    },
+    {
+      "offset": 2386,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "確かに、そうされちゃ誰も手は出せんわな。",
+      "en": "Seems like no one can stop them.",
+      "text": "Seems like no one can stop them."
+    },
+    {
+      "offset": 2431,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "微動だにせずしゃがんでいる月城。",
+      "en": "Tsukishiro continued squatting next to the plant, showing no\nsigns of movement at all.",
+      "text": "Tsukishiro continued squatting next to the plant, showing no\nsigns of movement at all."
+    },
+    {
+      "offset": 2468,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "時々、瞬きをしているのを除けば、腕の中の人\n形だけでなく、月城本人も人形なんじゃないか\nと思うくらいだ。",
+      "en": "If it wasn't for her occasional blinking, you'd think that\nwhat she was carrying wasn't the only doll around.",
+      "text": "If it wasn't for her occasional blinking, you'd think that\nwhat she was carrying wasn't the only doll around."
+    },
+    {
+      "offset": 2577,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いつまで様子を見てるんだ？　そろそろ暗く\n　なるぞ？」",
+      "en": "\"Are you really going to keep watching over it? It's going\nto get dark soon, you know?\"",
+      "text": "\"Are you really going to keep watching over it? It's going\nto get dark soon, you know?\""
+    },
+    {
+      "offset": 2639,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しばらく見ていた俺も、いい加減寒くなってき\nたし、日も陰りが見えてきたので、そろそろ帰\nろうかと思い始めた。",
+      "en": "Coldness had started to creep in the air, and the sun was\nstarting to fall behind the clouds; it was time to head\nback.",
+      "text": "Coldness had started to creep in the air, and the sun was\nstarting to fall behind the clouds; it was time to head\nback."
+    },
+    {
+      "offset": 2752,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「家、近いんだからさ、一緒に帰らないか？」",
+      "en": "\"Our houses are close, why don't we go home together?\"",
+      "text": "\"Our houses are close, why don't we go home together?\""
+    },
+    {
+      "offset": 2801,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "寒くなってきたっつーか、寒い！",
+      "en": "I'm starting to get the shivers, sheesh!",
+      "text": "I'm starting to get the shivers, sheesh!"
+    },
+    {
+      "offset": 2836,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は、寒くないのか？",
+      "en": "Isn't she feeling cold now?",
+      "text": "Isn't she feeling cold now?"
+    },
+    {
+      "offset": 2863,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "肌だって、雪みたいに真っ白いのに……。",
+      "en": "Her skin even looks as white as snow...",
+      "text": "Her skin even looks as white as snow..."
+    },
+    {
+      "offset": 2906,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "２月も末の木枯らしは、あの細い身体には充分\nこたえるはずだ。",
+      "en": "That tiny body can't possibly stand up so long to the\nfreezing winds of the end of Feburary...",
+      "text": "That tiny body can't possibly stand up so long to the\nfreezing winds of the end of Feburary..."
+    },
+    {
+      "offset": 3022,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「先輩……サヨナラ」",
+      "en": "\"Senpai... farewell.\"",
+      "text": "\"Senpai... farewell.\""
+    },
+    {
+      "offset": 3058,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "すっと立ち上がった月城は、そのまま傍らの鞄\nを持って、すたすた走り始めた。",
+      "en": "She suddenly stood up, taking the bag beside her, and ran\noff.",
+      "text": "She suddenly stood up, taking the bag beside her, and ran\noff."
+    },
+    {
+      "offset": 3140,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「え、ちょっ、俺は？」",
+      "en": "\"Eh? Wait, I haven't...?\"",
+      "text": "\"Eh? Wait, I haven't...?\""
+    },
+    {
+      "offset": 3169,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "置いてくなんて、そりゃあないぞ。",
+      "en": "By the time I noticed, she'd all but disappeared.",
+      "text": "By the time I noticed, she'd all but disappeared."
+    },
+    {
+      "offset": 3211,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は月城を追いかけるが、なぜかすたすた走る\n彼女に追いつくことができなかった。",
+      "en": "I tried to chase after her, but the speed at which she ran\nmade her uncatchable.",
+      "text": "I tried to chase after her, but the speed at which she ran\nmade her uncatchable."
+    },
+    {
+      "offset": 3293,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだ、あの身軽さは。",
+      "en": "She's far more agile than I tbought.",
+      "text": "She's far more agile than I tbought."
+    },
+    {
+      "offset": 3320,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は、体育館の裏を抜け、桜公園の方に入る。",
+      "en": "Her figure raced into the Sakura Park opposite the gym,",
+      "text": "Her figure raced into the Sakura Park opposite the gym,"
+    },
+    {
+      "offset": 3414,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺もそれを追って、桜公園までどうにか走るが\nその時はもう月城の姿はどこにもなかった。",
+      "en": "but by the time I reached there, she had vanished.",
+      "text": "but by the time I reached there, she had vanished."
+    },
+    {
+      "offset": 3504,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「速ぇ〜……」",
+      "en": "\"She's fast...\"",
+      "text": "\"She's fast...\""
+    },
+    {
+      "offset": 3525,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、肩で息をしながら、辺りを見回すが、そ\nれはもう静かなものだ。",
+      "en": "Slowing down to catch my breath, the surroundings were\ncompletely silent besides my panting.",
+      "text": "Slowing down to catch my breath, the surroundings were\ncompletely silent besides my panting."
+    },
+    {
+      "offset": 3597,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「仕方ない、チョコバナナでも買って帰るか」",
+      "en": "\"Oh well, I'd buy a chocolate banana and head back.\"",
+      "text": "\"Oh well, I'd buy a chocolate banana and head back.\""
+    },
+    {
+      "offset": 3646,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "風邪を引く前に帰ろう。",
+      "en": "Better head home before I catch a cold.",
+      "text": "Better head home before I catch a cold."
+    },
+    {
+      "offset": 3806,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆佇む月城◆",
+      "en": "◆The Loitering Tsukishiro◆",
+      "text": "◆The Loitering Tsukishiro◆"
+    },
+    {
+      "offset": 3851,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "体育館を訪れた俺は、そこでじーっと花を見つ\nめている月城に出会った。",
+      "en": "Visting the gym rear, I found Tsukishiro staring intently at\nthe flower there.",
+      "text": "Visting the gym rear, I found Tsukishiro staring intently at\nthe flower there."
+    },
+    {
+      "offset": 3923,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうやら、誰か来て、花を摘まれては困るので\nできる限り見ているのだという。",
+      "en": "Apparently, she was afraid some passerby would rip it out,\nthinking it was a weed.",
+      "text": "Apparently, she was afraid some passerby would rip it out,\nthinking it was a weed."
+    },
+    {
+      "offset": 4001,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、月城に代わり、用務員さんにあの花は摘\nまないようにと伝える。",
+      "en": "In Tsukishiro's stead, I explained to the janitor to ignore\nthe plant at the back of the gym.",
+      "text": "In Tsukishiro's stead, I explained to the janitor to ignore\nthe plant at the back of the gym."
+    },
+    {
+      "offset": 4071,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、月城に一緒に帰ろうと誘ったのだが、\nあっさりと断られてしまった……。",
+      "en": "Then, I invited Tsukishiro to head back to our homes\ntogether, but she more or less refused...",
+      "text": "Then, I invited Tsukishiro to head back to our homes\ntogether, but she more or less refused..."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "901": "Piros",
+    "1077": "Piros",
+    "1249": "Piros",
+    "1285": "Alice",
+    "1723": "Piros",
+    "1956": "Piros",
+    "2177": "Alice",
+    "2226": "Piros",
+    "3012": "Alice"
+  }
+}

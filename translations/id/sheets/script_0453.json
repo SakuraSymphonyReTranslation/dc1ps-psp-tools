@@ -1,0 +1,602 @@
+{
+  "scene": "script_0453.obj",
+  "dialogues": [
+    {
+      "offset": 144,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふぅ……」",
+      "en": "\"Everyone seems to be working hard.\"",
+      "text": "\"Everyone seems to be working hard.\""
+    },
+    {
+      "offset": 163,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "用を足し、トイレを後にする。",
+      "en": "I'm here to help the club. My work is easy because I don't\nhave too many things to do, but I also feel bored at the\nsame time.",
+      "text": "I'm here to help the club. My work is easy because I don't\nhave too many things to do, but I also feel bored at the\nsame time."
+    },
+    {
+      "offset": 219,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音楽室では、相変わらず練習が続いている。",
+      "en": "\"Hi, Asakura-kun.\"",
+      "text": "\"Hi, Asakura-kun.\""
+    },
+    {
+      "offset": 266,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「みんな頑張ってるなぁ」",
+      "en": "\"Uh, hello.\"",
+      "text": "\"Uh, hello.\""
+    },
+    {
+      "offset": 297,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "手伝いで来ているが、用事そのものは多くない\nので、楽でいいけど暇でもある。",
+      "en": "\"It's been a long time.\"",
+      "text": "\"It's been a long time.\""
+    },
+    {
+      "offset": 494,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こんなところで萌先輩に会おうとは……。",
+      "en": "I didn't expect to see Moe-sempai here...",
+      "text": "I didn't expect to see Moe-sempai here..."
+    },
+    {
+      "offset": 539,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（って、先輩も音楽部じゃん）",
+      "en": "(Come on, she also belongs to the music club.)",
+      "text": "(Come on, she also belongs to the music club.)"
+    },
+    {
+      "offset": 574,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "でも、１度も会わなかったな。なんでだ？",
+      "en": "But how come I never see her here even though she belongs to\nthe music club?",
+      "text": "But how come I never see her here even though she belongs to\nthe music club?"
+    },
+    {
+      "offset": 619,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「萌先輩は演奏とかしないんですか？」",
+      "en": "\"Don't you play music?\"",
+      "text": "\"Don't you play music?\""
+    },
+    {
+      "offset": 671,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい。私は占いのほうを手伝っているんです」",
+      "en": "\"No, I don't. I help with the fortune-telling part.\"",
+      "text": "\"No, I don't. I help with the fortune-telling part.\""
+    },
+    {
+      "offset": 722,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「占い？」",
+      "en": "\"Fortune-telling?\"",
+      "text": "\"Fortune-telling?\""
+    },
+    {
+      "offset": 748,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい。演奏の他に音楽部で占いをするんです」",
+      "en": "\"Yes. As well as playing music, we also do fortune-telling.\"",
+      "text": "\"Yes. As well as playing music, we also do fortune-telling.\""
+    },
+    {
+      "offset": 799,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「へー……」",
+      "en": "\"Hmm......\"",
+      "text": "\"Hmm......\""
+    },
+    {
+      "offset": 818,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ひとつの部でふたつの出し物か。結構、部員数\nが多いんだな。",
+      "en": "One club does two different things. There are a few too many\npeople in this club.",
+      "text": "One club does two different things. There are a few too many\npeople in this club."
+    },
+    {
+      "offset": 882,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（でも、なぜ占い？）",
+      "en": "(But why fortune-telling?)",
+      "text": "(But why fortune-telling?)"
+    },
+    {
+      "offset": 935,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「そこの第２音楽室で準備をしているんですよ」",
+      "en": "\"We're preparing in the second music room over there.\"",
+      "text": "\"We're preparing in the second music room over there.\""
+    },
+    {
+      "offset": 986,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「そうだったんですか」",
+      "en": "\"Oh, OK.\"",
+      "text": "\"Oh, OK.\""
+    },
+    {
+      "offset": 1015,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もっと前に知っていたら……暇つぶしに遊びに\n行ったのに。",
+      "en": "If I had known that sooner, I could have visited the room to\npass away the idle hours.",
+      "text": "If I had known that sooner, I could have visited the room to\npass away the idle hours."
+    },
+    {
+      "offset": 1077,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（でも、手伝わされそうだな）",
+      "en": "(But I might get forced to help them.)",
+      "text": "(But I might get forced to help them.)"
+    },
+    {
+      "offset": 1112,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "余計な仕事を手伝わされるぐらいなら、まだ、\n眞子たちの演奏を聴いているほうが楽かも。",
+      "en": "Even though I'm tired of listening to the music that Mako's\ngroup plays, I'd rather listen to it than be involved in\nadditional work.",
+      "text": "Even though I'm tired of listening to the music that Mako's\ngroup plays, I'd rather listen to it than be involved in\nadditional work."
+    },
+    {
+      "offset": 1228,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あの……ちょっと｛き／訊｝いてもよろしいでしょう\n　か？」",
+      "en": "\"Um... Do you mind if I ask you a question?\"",
+      "text": "\"Um... Do you mind if I ask you a question?\""
+    },
+    {
+      "offset": 1294,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「何ですか？」",
+      "en": "\"Go ahead.\"",
+      "text": "\"Go ahead.\""
+    },
+    {
+      "offset": 1341,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「昨日、眞子ちゃんとデートをしたと聞いたん\n　ですが……本当でしょうか？」",
+      "en": "\"I heard that you had a date with Mako-chan yesterday... Is\nit true?\"",
+      "text": "\"I heard that you had a date with Mako-chan yesterday... Is\nit true?\""
+    },
+    {
+      "offset": 1421,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「えっ！？」",
+      "en": "\"What!?\"",
+      "text": "\"What!?\""
+    },
+    {
+      "offset": 1440,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子から聞いたのか……まぁ姉妹だし、別に隠\nす必要もないか。",
+      "en": "Did she hear this from Mako?... Well, there's no reason to\nhide it, because they're sisters anyway.",
+      "text": "Did she hear this from Mako?... Well, there's no reason to\nhide it, because they're sisters anyway."
+    },
+    {
+      "offset": 1506,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ええ、一応」",
+      "en": "\"Yes, it's true.\"",
+      "text": "\"Yes, it's true.\""
+    },
+    {
+      "offset": 1527,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さすがに、ちょっと顔が熱くなる。",
+      "en": "My face is becoming a little hot.",
+      "text": "My face is becoming a little hot."
+    },
+    {
+      "offset": 1592,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「そうですか……」",
+      "en": "\"I see......\"",
+      "text": "\"I see......\""
+    },
+    {
+      "offset": 1617,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "（？？？）",
+      "en": "(???)",
+      "text": "(???)"
+    },
+    {
+      "offset": 1643,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あの……つき合って、いるんですよね？」",
+      "en": "\"Um... Are you guys dating?\"",
+      "text": "\"Um... Are you guys dating?\""
+    },
+    {
+      "offset": 1690,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それは……。",
+      "en": "It's...",
+      "text": "It's..."
+    },
+    {
+      "offset": 1707,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふと、周りを見る。",
+      "en": "I suddenly scan the place.",
+      "text": "I suddenly scan the place."
+    },
+    {
+      "offset": 1730,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "廊下には、何人か学生の姿があった。",
+      "en": "There are some students in the hallway.",
+      "text": "There are some students in the hallway."
+    },
+    {
+      "offset": 1769,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ここで否定したら、せっかくの恋人のフリが、\n無意味になる。",
+      "en": "If I deny this now, all the time we spent acting as a couple\nwill be meaningless.",
+      "text": "If I deny this now, all the time we spent acting as a couple\nwill be meaningless."
+    },
+    {
+      "offset": 1833,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……ええ」",
+      "en": "\"......Right.\"",
+      "text": "\"......Right.\""
+    },
+    {
+      "offset": 1852,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は首を縦に振りながら答える。",
+      "en": "I reply, nodding my head.",
+      "text": "I reply, nodding my head."
+    },
+    {
+      "offset": 1915,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1951,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 1966,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「萌先輩？」",
+      "en": "\"Moe-sempai?\"",
+      "text": "\"Moe-sempai?\""
+    },
+    {
+      "offset": 2011,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「朝倉くん」",
+      "en": "\"Asakura-kun.\"",
+      "text": "\"Asakura-kun.\""
+    },
+    {
+      "offset": 2030,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あ、はい」",
+      "en": "\"Uh, yes?\"",
+      "text": "\"Uh, yes?\""
+    },
+    {
+      "offset": 2049,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "唐突に、萌先輩の顔にいつもの微笑みが戻る。",
+      "en": "Suddenly, Moe-sempai's usual smile comes back to her face.",
+      "text": "Suddenly, Moe-sempai's usual smile comes back to her face."
+    },
+    {
+      "offset": 2124,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「眞子ちゃんのこと、よろしくお願いしますね」",
+      "en": "\"Please take care of Mako-chan.\"",
+      "text": "\"Please take care of Mako-chan.\""
+    },
+    {
+      "offset": 2175,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あ、はい……」",
+      "en": "\"Uh, yes......\"",
+      "text": "\"Uh, yes......\""
+    },
+    {
+      "offset": 2198,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頭にいろんなことが浮かび上がるが、俺にはそ\nれしか言えなかった。",
+      "en": "Many things went through my head, but that was the only\nthing I could say.",
+      "text": "Many things went through my head, but that was the only\nthing I could say."
+    },
+    {
+      "offset": 2277,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「それじゃあ、失礼しますね。朝倉くんも、お\n　手伝いのほう、頑張ってください」",
+      "en": "\"Well, I have to go now. Asakura-kun, keep up the good work\nfor the music club.\"",
+      "text": "\"Well, I have to go now. Asakura-kun, keep up the good work\nfor the music club.\""
+    },
+    {
+      "offset": 2378,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "最後はニッコリ微笑んで、萌先輩は第２音楽室\nに消えていった。",
+      "en": "Moe-sempai gives me a beaming smile and disappears into the\nsecond music room.",
+      "text": "Moe-sempai gives me a beaming smile and disappears into the\nsecond music room."
+    },
+    {
+      "offset": 2442,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 2455,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺も戻るか……。",
+      "en": "I guess I should go back, too...",
+      "text": "I guess I should go back, too..."
+    },
+    {
+      "offset": 2559,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あ、朝倉。どこいってたのよ？」",
+      "en": "\"Ah, Asakura. Where have you been?\"",
+      "text": "\"Ah, Asakura. Where have you been?\""
+    },
+    {
+      "offset": 2598,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ちょっと男子トイレにな」",
+      "en": "\"The boys' toilet.\"",
+      "text": "\"The boys' toilet.\""
+    },
+    {
+      "offset": 2659,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「わざわざ“男子”をつける必要があんたには\n　あるの？」",
+      "en": "\"Is there any reason that you had to mention 'boys'?\"",
+      "text": "\"Is there any reason that you had to mention 'boys'?\""
+    },
+    {
+      "offset": 2721,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「俺にはないな」",
+      "en": "\"No.\"",
+      "text": "\"No.\""
+    },
+    {
+      "offset": 2744,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "必要のあるやつ（悪友）なら知っているが。",
+      "en": "I know someone who needs to mention that, though.",
+      "text": "I know someone who needs to mention that, though."
+    },
+    {
+      "offset": 2791,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「それはそうと、おまえ、萌先輩に昨日俺たち\n　がデートしたこと、話したのか？」",
+      "en": "\"So anyway, did you tell Moe-sempai that we had a date?\"",
+      "text": "\"So anyway, did you tell Moe-sempai that we had a date?\""
+    },
+    {
+      "offset": 2903,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「え、なんで！？」",
+      "en": "\"Why are you asking me about it!?\"",
+      "text": "\"Why are you asking me about it!?\""
+    },
+    {
+      "offset": 2928,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「たった今廊下で萌先輩に会って、つき合って\n　るのか訊かれたからさ」",
+      "en": "\"I just saw her in the hallway, and she asked me about it.\"",
+      "text": "\"I just saw her in the hallway, and she asked me about it.\""
+    },
+    {
+      "offset": 3030,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「そう……」",
+      "en": "\"Yeah......\"",
+      "text": "\"Yeah......\""
+    },
+    {
+      "offset": 3077,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「それで……なんて答えたの？」",
+      "en": "\"So... What did you tell her?\"",
+      "text": "\"So... What did you tell her?\""
+    },
+    {
+      "offset": 3114,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ん？　『付き合ってる』としか答えてないぞ。\n　周りに人がいたからな」",
+      "en": "\"Mm? I admitted that we're dating, because there were some\nother people there too.\"",
+      "text": "\"Mm? I admitted that we're dating, because there were some\nother people there too.\""
+    },
+    {
+      "offset": 3190,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子の顔色を窺いながら答える。何かマズかっ\nたか……？",
+      "en": "I answer, watching her expression. Did I say something\nwrong......?",
+      "text": "I answer, watching her expression. Did I say something\nwrong......?"
+    },
+    {
+      "offset": 3250,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「だから、萌先輩にはあとで眞子からフォロー\n　入れといてくれよ」",
+      "en": "\"So you're gonna have to explain this to Moe-sempai later.\"",
+      "text": "\"So you're gonna have to explain this to Moe-sempai later.\""
+    },
+    {
+      "offset": 3348,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……分かった」",
+      "en": "\"......Okay.\"",
+      "text": "\"......Okay.\""
+    },
+    {
+      "offset": 3371,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それ以上、眞子はなにも言わなかったので、と\nりあえずこの話はよしとする。",
+      "en": "That seems to be the end of this topic, because Mako doesn't\nsay another word.",
+      "text": "That seems to be the end of this topic, because Mako doesn't\nsay another word."
+    },
+    {
+      "offset": 3449,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ところで……手伝うことない？」",
+      "en": "\"By the way... Is there anything I can help you guys with?\"",
+      "text": "\"By the way... Is there anything I can help you guys with?\""
+    },
+    {
+      "offset": 3516,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「は？　どうしたの？」",
+      "en": "\"What? What's wrong?\"",
+      "text": "\"What? What's wrong?\""
+    },
+    {
+      "offset": 3545,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やる気まんまんな俺を、眞子が知らない人間で\nも見るような目で見つめる。",
+      "en": "Mako looks at me like I'm a crazy person, even though I'm\nready and willing to work.",
+      "text": "Mako looks at me like I'm a crazy person, even though I'm\nready and willing to work."
+    },
+    {
+      "offset": 3621,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さあな。今だけ、手伝いたい気分なんだ」",
+      "en": "\"I don't know. But I feel like helping you guys just for\nnow.\"",
+      "text": "\"I don't know. But I feel like helping you guys just for\nnow.\""
+    },
+    {
+      "offset": 3668,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "袖を捲り上げる俺の耳に“病院”と呟く眞子の\n声が聞こえてきた……。",
+      "en": "As I tuck my sleeves up, I hear Mako murmuring\n'Hospital'......",
+      "text": "As I tuck my sleeves up, I hear Mako murmuring\n'Hospital'......"
+    },
+    {
+      "offset": 3856,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆萌先輩が気にしている◆",
+      "en": "◆Junichi◆",
+      "text": "◆Junichi◆"
+    },
+    {
+      "offset": 3913,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "廊下で偶然萌先輩に会い、眞子と付き合ってい\nるのか尋ねられた。",
+      "en": "I relieve myself and leave the restroom.",
+      "text": "I relieve myself and leave the restroom."
+    },
+    {
+      "offset": 3979,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "周りに人の目もあったので取りあえず、付き合っ\nていると答えておいたのだった。",
+      "en": "People are still practicing the music in the music room.",
+      "text": "People are still practicing the music in the music room."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "665": "Moe",
+    "742": "Moe",
+    "929": "Moe",
+    "1222": "Moe",
+    "1335": "Moe",
+    "1586": "Moe",
+    "1637": "Moe",
+    "1909": "Moe",
+    "2005": "Moe",
+    "2118": "Moe",
+    "2271": "Moe",
+    "2551": "Mako",
+    "2651": "Mako",
+    "2895": "Mako",
+    "3022": "Mako",
+    "3069": "Mako",
+    "3340": "Mako",
+    "3508": "Mako"
+  }
+}

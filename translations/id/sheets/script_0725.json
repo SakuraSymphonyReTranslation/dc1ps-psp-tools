@@ -1,0 +1,764 @@
+{
+  "scene": "script_0725.obj",
+  "dialogues": [
+    {
+      "offset": 201,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さて……と。忘れ物はないな」",
+      "en": "The nurse opens the door for us and we walk to the hallway.",
+      "text": "The nurse opens the door for us and we walk to the hallway."
+    },
+    {
+      "offset": 238,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "およそ、１日と半日を過ごした部屋にお別れを\n告げる時が来た。",
+      "en": "\"Oh? Is that Moe-sempai? Hey, sempai!\"",
+      "text": "\"Oh? Is that Moe-sempai? Hey, sempai!\""
+    },
+    {
+      "offset": 302,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もう、午後も遅い。病院のあちこちを行ったり\n来たりする身体検査は、割と時間がかかった。",
+      "en": "\"Hey, young man, don't shout in the hospital.\"",
+      "text": "\"Hey, young man, don't shout in the hospital.\""
+    },
+    {
+      "offset": 538,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "看護師さんがドアを開けてくれる。どうもと言\nいつつ、廊下に出たときだった。",
+      "en": "\"Oops, I'm sorry.\"",
+      "text": "\"Oops, I'm sorry.\""
+    },
+    {
+      "offset": 804,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「朝倉くん……？　こんにちは。あら、そちら\n　の方は……」",
+      "en": "\"Asakura-kun......? Oh, hi. Who's this......?\"",
+      "text": "\"Asakura-kun......? Oh, hi. Who's this......?\""
+    },
+    {
+      "offset": 868,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頼子さんに視線を向け、ちょこんと首を傾げる。\n対する頼子さんは、恥ずかしいのか、俺の背中\nに隠れてしまった。",
+      "en": "Moe-sempai looks at Yoriko-san and tilts her head a little.\nYoriko-san, on the other hand, is being shy and hides behind\nme.",
+      "text": "Moe-sempai looks at Yoriko-san and tilts her head a little.\nYoriko-san, on the other hand, is being shy and hides behind\nme."
+    },
+    {
+      "offset": 981,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ああ、えと、俺の友達」",
+      "en": "\"Ah, she's a friend of mine.\"",
+      "text": "\"Ah, she's a friend of mine.\""
+    },
+    {
+      "offset": 1012,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "背中から出そうと横にカニ移動するのだが、頼\n子さんも一緒に付いてくる。仕方ないな。",
+      "en": "I lean over to one side to let her be seen, but Yoriko-san\nleans to the same side as I did.",
+      "text": "I lean over to one side to let her be seen, but Yoriko-san\nleans to the same side as I did."
+    },
+    {
+      "offset": 1100,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……｛さぎさわ／鷺澤｝さんっていうんだ」",
+      "en": "\"......Her name is Sagisawa-san.\"",
+      "text": "\"......Her name is Sagisawa-san.\""
+    },
+    {
+      "offset": 1175,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 1190,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「ん？　どうかした？」",
+      "en": "\"What's wrong?\"",
+      "text": "\"What's wrong?\""
+    },
+    {
+      "offset": 1245,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「いえ……私のお友達と同じ名前だったので、\n　ちょっと驚いてしまったんです。その人は、\n　鷺澤｛みさき／美咲｝さんというんですが」",
+      "en": "\"No, I was just a bit surprised because it's the same name\nas a friend of mine. Her name is Misaki Sagisawa.\"",
+      "text": "\"No, I was just a bit surprised because it's the same name\nas a friend of mine. Her name is Misaki Sagisawa.\""
+    },
+    {
+      "offset": 1380,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「へえ。珍しい名前だし、もしかして親戚かも」",
+      "en": "\"Oh, really? Sagisawa isn't a very common name, so they may\nbe related.\"",
+      "text": "\"Oh, really? Sagisawa isn't a very common name, so they may\nbe related.\""
+    },
+    {
+      "offset": 1431,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩と頼子さん、等分に見ながら言う。頼子\nさんは恥ずかしげに俯いているばかりだ。",
+      "en": "I look at Moe-sempai and Yoriko-san. Yoriko-san is still\nbeing shy and looking down at the floor.",
+      "text": "I look at Moe-sempai and Yoriko-san. Yoriko-san is still\nbeing shy and looking down at the floor."
+    },
+    {
+      "offset": 1545,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「どうでしょうか……」",
+      "en": "\"Could be......\"",
+      "text": "\"Could be......\""
+    },
+    {
+      "offset": 1574,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眠たげに目を細める。いや、もしかしたら考え\nているのかもしれないが。",
+      "en": "She narrows her eyes as if she's getting sleepy. Or maybe\nshe's just thinking...",
+      "text": "She narrows her eyes as if she's getting sleepy. Or maybe\nshe's just thinking..."
+    },
+    {
+      "offset": 1674,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「それより、朝倉くん、どうしたんですか？　\n　入院してたんですか？」",
+      "en": "\"Anyway, why are you here, Asakura-kun? Were you\nhospitalized?\"",
+      "text": "\"Anyway, why are you here, Asakura-kun? Were you\nhospitalized?\""
+    },
+    {
+      "offset": 1748,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「ああ、ちょっとね」",
+      "en": "\"Yeah, I was.\"",
+      "text": "\"Yeah, I was.\""
+    },
+    {
+      "offset": 1775,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は事の｛てんまつ／顛末｝を説明した。",
+      "en": "I tell her what happened.",
+      "text": "I tell her what happened."
+    },
+    {
+      "offset": 1846,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「うふふ……朝倉くん、かっこいいですね。ニ\n　ンジャみたいです」",
+      "en": "\"Teehee... Asakura-kun, you're so cool. You're like a\nninja.\"",
+      "text": "\"Teehee... Asakura-kun, you're so cool. You're like a\nninja.\""
+    },
+    {
+      "offset": 1916,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「だとしたら、よっぽどの下忍だけどね」",
+      "en": "\"If I am, I'm the worst ninja in Japan...\"",
+      "text": "\"If I am, I'm the worst ninja in Japan...\""
+    },
+    {
+      "offset": 1970,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「そんな事ないですよ。きっと、｛さるとびはっとり／猿飛服部｝です\n　よ」",
+      "en": "\"No, you're not. You're like the flying monkey, Hattori.\"",
+      "text": "\"No, you're not. You're like the flying monkey, Hattori.\""
+    },
+    {
+      "offset": 2048,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "（……誰？）",
+      "en": "(......Who?)",
+      "text": "(......Who?)"
+    },
+    {
+      "offset": 2093,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あ、それじゃ、私はこれで失礼しますね」",
+      "en": "\"Well, I should be going.\"",
+      "text": "\"Well, I should be going.\""
+    },
+    {
+      "offset": 2157,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぺこりと丁寧にお辞儀すると、萌先輩は去って\nいった。",
+      "en": "She bows nicely and leaves.",
+      "text": "She bows nicely and leaves."
+    },
+    {
+      "offset": 2215,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……あ？　そういや、萌先輩は病院に何しに\n　来たんだろ……？」",
+      "en": "\"......Anyway what was she doing at this hospital......?\"",
+      "text": "\"......Anyway what was she doing at this hospital......?\""
+    },
+    {
+      "offset": 2293,
+      "speaker": "Nurse",
+      "speaker_jp": "看護師",
+      "jp": "「ああ、彼女だったら、よくお見舞いに見えて\n　いるようだけど」",
+      "en": "\"She comes here often to visit a patient.\"",
+      "text": "\"She comes here often to visit a patient.\""
+    },
+    {
+      "offset": 2361,
+      "speaker": "Nurse",
+      "speaker_jp": "看護師",
+      "jp": "「お見舞い？　へえ……」",
+      "en": "\"Visiting a patient? Really...?\"",
+      "text": "\"Visiting a patient? Really...?\""
+    },
+    {
+      "offset": 2400,
+      "speaker": "Nurse",
+      "speaker_jp": "看護師",
+      "jp": "「何ていったかな……？　名前は忘れちゃった\n　んだけど」",
+      "en": "\"I cat't remember the patient's name......\"",
+      "text": "\"I cat't remember the patient's name......\""
+    },
+    {
+      "offset": 2462,
+      "speaker": "Nurse",
+      "speaker_jp": "看護師",
+      "jp": "「いいんすか？　看護師さんが患者さんの名前\n　を忘れたりして」",
+      "en": "\"Ooh! You don't remember the names of your patients?\"",
+      "text": "\"Ooh! You don't remember the names of your patients?\""
+    },
+    {
+      "offset": 2538,
+      "speaker": "Nurse",
+      "speaker_jp": "看護師",
+      "jp": "「私はむしろ、病状で把握していますから」",
+      "en": "\"I remember them by their medical conditions.\"",
+      "text": "\"I remember them by their medical conditions.\""
+    },
+    {
+      "offset": 2585,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "澄ました顔で、指をピンと立てる。",
+      "en": "She points one finger upwards with a straight face.",
+      "text": "She points one finger upwards with a straight face."
+    },
+    {
+      "offset": 2632,
+      "speaker": "Nurse",
+      "speaker_jp": "看護師",
+      "jp": "「その人は──おっとと、そんな事、軽々しく\n　口にしちゃ駄目ね」",
+      "en": "\"The patient is... Oops, I'm not supposed to tell you that.\"",
+      "text": "\"The patient is... Oops, I'm not supposed to tell you that.\""
+    },
+    {
+      "offset": 2702,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "立てた指を、唇の前に持っていった。",
+      "en": "She brings that same finger to her lips.",
+      "text": "She brings that same finger to her lips."
+    },
+    {
+      "offset": 2743,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そりゃそうだ。じゃ、今度こそ失礼します」",
+      "en": "\"You're right. Then, I should go for real this time.\"",
+      "text": "\"You're right. Then, I should go for real this time.\""
+    },
+    {
+      "offset": 2800,
+      "speaker": "Nurse",
+      "speaker_jp": "看護師",
+      "jp": "「良かったら、また来てね」",
+      "en": "\"You can come back here any time you want.\"",
+      "text": "\"You can come back here any time you want.\""
+    },
+    {
+      "offset": 2833,
+      "speaker": "Nurse",
+      "speaker_jp": "看護師",
+      "jp": "「良くないでしょ、それは……」",
+      "en": "\"I shouldn't come back......\"",
+      "text": "\"I shouldn't come back......\""
+    },
+    {
+      "offset": 2870,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "湿布の貼られた腰を軽く叩きながら、俺は病室\nを後にしたのだった。",
+      "en": "I gently pat at the heating pad on my back and leave the\nroom.",
+      "text": "I gently pat at the heating pad on my back and leave the\nroom."
+    },
+    {
+      "offset": 2985,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はあ〜あ、やっと外に出られたか」",
+      "en": "\"I'm finally going home.\"",
+      "text": "\"I'm finally going home.\""
+    },
+    {
+      "offset": 3026,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "薬品臭さではなく、潮と花の香りのする空気を\nいっぱいに吸い込み、ぐっと伸びをする。",
+      "en": "I stretch and inhale fresh air, which smells of the sea and\nflowers instead of medicine.",
+      "text": "I stretch and inhale fresh air, which smells of the sea and\nflowers instead of medicine."
+    },
+    {
+      "offset": 3114,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ、いたた……」",
+      "en": "\"Ouch......\"",
+      "text": "\"Ouch......\""
+    },
+    {
+      "offset": 3139,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "腰を押さえ｛うめ／呻｝く。と、頼子さんの心配そうな顔\nが覗き込んできた。",
+      "en": "I grab my back. Yoriko-san looks worried and peers at my\nface.",
+      "text": "I grab my back. Yoriko-san looks worried and peers at my\nface."
+    },
+    {
+      "offset": 3250,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「大丈夫ですか……？」",
+      "en": "\"Are you all right......?\"",
+      "text": "\"Are you all right......?\""
+    },
+    {
+      "offset": 3279,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「ああ、平気平気。ちょっとした打ち身だって\n　話だし。それより、頼子さんこそ、平気？」",
+      "en": "\"Yeah, I'm fine. They told me it's just a bruise. Anyway,\nare you okay?\"",
+      "text": "\"Yeah, I'm fine. They told me it's just a bruise. Anyway,\nare you okay?\""
+    },
+    {
+      "offset": 3399,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「何が……ですか？」",
+      "en": "\"What about me?\"",
+      "text": "\"What about me?\""
+    },
+    {
+      "offset": 3426,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「いや、外に出て。怖いって……そう言ってた\n　でしょ？」",
+      "en": "\"You're outside now, you know. You're scared of the\noutdoors, right?\"",
+      "text": "\"You're outside now, you know. You're scared of the\noutdoors, right?\""
+    },
+    {
+      "offset": 3516,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ、はい、でも……」",
+      "en": "\"Ah, yes, but......\"",
+      "text": "\"Ah, yes, but......\""
+    },
+    {
+      "offset": 3573,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「今日は、その……朝倉さんが居ますから……」",
+      "en": "\"But you're with me today......\"",
+      "text": "\"But you're with me today......\""
+    },
+    {
+      "offset": 3624,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3671,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ……」",
+      "en": "\"Ah......\"",
+      "text": "\"Ah......\""
+    },
+    {
+      "offset": 3688,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "繋がれた手に視線を落とし、頼子さんは軽く息\nを呑んだ。",
+      "en": "She looks down at her hand being held by mine, and catches\nher breath.",
+      "text": "She looks down at her hand being held by mine, and catches\nher breath."
+    },
+    {
+      "offset": 3748,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いいだろ？」",
+      "en": "\"You don't mind, do you?\"",
+      "text": "\"You don't mind, do you?\""
+    },
+    {
+      "offset": 3769,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "照れくさくて、つい、ぶっきらぼうな口調になっ\nてしまう。",
+      "en": "I'm embarrassed, so I said it brusquely.",
+      "text": "I'm embarrassed, so I said it brusquely."
+    },
+    {
+      "offset": 3859,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「……はい」",
+      "en": "\"......No.\"",
+      "text": "\"......No.\""
+    },
+    {
+      "offset": 3878,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「ま、まあ、こうした方が不安も減るだろうし、\n　さ」",
+      "en": "\"Y-You know, this will help to decrease your anxiety.\"",
+      "text": "\"Y-You know, this will help to decrease your anxiety.\""
+    },
+    {
+      "offset": 3936,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言い訳のように早口に言う。というか、ほんと\nのところ、８割方は言い訳にすぎない。",
+      "en": "It sounds like I'm making an excuse. And the truth is that\n80% of it was an excuse.",
+      "text": "It sounds like I'm making an excuse. And the truth is that\n80% of it was an excuse."
+    },
+    {
+      "offset": 4020,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただ、手を繋ぎたかった。",
+      "en": "I just wanted to hold her hand.",
+      "text": "I just wanted to hold her hand."
+    },
+    {
+      "offset": 4049,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "好きな人の体温を、ただ身近に感じたかった。\nそれだけのことだ。",
+      "en": "I want to feel the warmth of the girl I love. That's it.",
+      "text": "I want to feel the warmth of the girl I love. That's it."
+    },
+    {
+      "offset": 4158,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "桜の向こうに広がる青空を見ながら、ゆっくり\nと歩いていく。",
+      "en": "We walk slowly, looking at the blue sky through cherry\nblossoms.",
+      "text": "We walk slowly, looking at the blue sky through cherry\nblossoms."
+    },
+    {
+      "offset": 4220,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "天気のいい昼下がり。１日のうちでも、たぶん、\n初音島がもっとも穏やかになる時間。",
+      "en": "It's a beautiful afternoon. It's probably the most relaxing\ntime of the day on Hatsune Island.",
+      "text": "It's a beautiful afternoon. It's probably the most relaxing\ntime of the day on Hatsune Island."
+    },
+    {
+      "offset": 4304,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふと、この前見た夢の事を思い出した。こんな\n風に毎日歩けたら、どんなに嬉しいだろう？",
+      "en": "All of a sudden, I remember the dream I had before. It'd be\nsuch fun if I could walk like this every day.",
+      "text": "All of a sudden, I remember the dream I had before. It'd be\nsuch fun if I could walk like this every day."
+    },
+    {
+      "offset": 4421,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なあ、頼子さん。外が怖いのってもう治まっ\n　た訳じゃないんだ？」",
+      "en": "\"Yoriko-san, are you still scared to walk outside?\"",
+      "text": "\"Yoriko-san, are you still scared to walk outside?\""
+    },
+    {
+      "offset": 4526,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ、はい、その……まだです」",
+      "en": "\"Ah, y-yes, I am...... still......\"",
+      "text": "\"Ah, y-yes, I am...... still......\""
+    },
+    {
+      "offset": 4591,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「まだ……怖いです」",
+      "en": "\"I'm still scared......\"",
+      "text": "\"I'm still scared......\""
+    },
+    {
+      "offset": 4618,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それを示すように手にきゅっと力が込められる。\n応えるように、俺も握り返す。",
+      "en": "As if showing how scared she still is, she squeezes my hand\ntightly. So I squeeze her hand back.",
+      "text": "As if showing how scared she still is, she squeezes my hand\ntightly. So I squeeze her hand back."
+    },
+    {
+      "offset": 4726,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「事故の報せを受けた時……私、もう、何も分\n　からなくなってしまいました……」",
+      "en": "\"When I received a call about your accident...... I didn't\nknow what to do......\"",
+      "text": "\"When I received a call about your accident...... I didn't\nknow what to do......\""
+    },
+    {
+      "offset": 4838,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「目の前が真っ暗で……息が苦しくて……身体\n　が震えて……寒くて……汗びっしょりで……」",
+      "en": "\"My vision got dark...... I couldn't breathe...... my body\nwas shaking...... I was cold, and I started to sweat......\"",
+      "text": "\"My vision got dark...... I couldn't breathe...... my body\nwas shaking...... I was cold, and I started to sweat......\""
+    },
+    {
+      "offset": 4932,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 4962,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「行かなくちゃ、行かなくちゃって……病院に\n　それだけで頭がいっぱいで……。だから、外\n　に出られたんだと思います……」",
+      "en": "\"I couldn't think of anything else but going to the\nhospital...... I had to go to the hospital...... So that's\nwhy I could go outside, I guess.\"",
+      "text": "\"I couldn't think of anything else but going to the\nhospital...... I had to go to the hospital...... So that's\nwhy I could go outside, I guess.\""
+    },
+    {
+      "offset": 5087,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頼子さんは｛かす／微｝かに笑みを浮かべた。",
+      "en": "She smiles slightly.",
+      "text": "She smiles slightly."
+    },
+    {
+      "offset": 5164,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「初めは、いつもの服で外に出たんですよ。で\n　も……途中で、お借りした服があったのを思\n　い出して……」",
+      "en": "\"I went outside with my maid uniform first. But...... then I\nremembered you let me wear your clothes last time......\"",
+      "text": "\"I went outside with my maid uniform first. But...... then I\nremembered you let me wear your clothes last time......\""
+    },
+    {
+      "offset": 5284,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「やっぱり……ご迷惑ですものね……あの服で\n　行ったら……」",
+      "en": "\"I thought you'd be embarrassed if I showed up in those maid\nclothes......\"",
+      "text": "\"I thought you'd be embarrassed if I showed up in those maid\nclothes......\""
+    },
+    {
+      "offset": 5350,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「迷惑って事はさ、ないんだよ」",
+      "en": "\"I wouldn't be embarrassed.\"",
+      "text": "\"I wouldn't be embarrassed.\""
+    },
+    {
+      "offset": 5387,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "詩の朗読のように、くっきりと言う。",
+      "en": "I say it clearly, like I was reading a line of a book.",
+      "text": "I say it clearly, like I was reading a line of a book."
+    },
+    {
+      "offset": 5428,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「頼子さんなら。俺にとっては。……来てくれ\n　て、凄い、嬉しかった」",
+      "en": "\"If it's you... to me...... I was just so happy that you\ncame to see me...\"",
+      "text": "\"If it's you... to me...... I was just so happy that you\ncame to see me...\""
+    },
+    {
+      "offset": 5530,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 5549,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何となく立ち止まり、間近に視線を絡め合う。",
+      "en": "We stop and look at each other.",
+      "text": "We stop and look at each other."
+    },
+    {
+      "offset": 5596,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "背後──桜の並木が、単なるピンクの｛にじ／滲｝みになっ\nて、ただ、頼子さんの瞳だけを意識する。",
+      "en": "All the cherry blossoms fade into the background as I look\ninto Yoriko's eyes.",
+      "text": "All the cherry blossoms fade into the background as I look\ninto Yoriko's eyes."
+    },
+    {
+      "offset": 5694,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昨日の号泣の腫れもすっかり引いて、湖のよう\nな静けさと深さを｛たた／湛｝えた瞳。",
+      "en": "The puffiness of her eyes from crying so much yesterday is\ngone now, and her eyes look quiet and deep like a lake.",
+      "text": "The puffiness of her eyes from crying so much yesterday is\ngone now, and her eyes look quiet and deep like a lake."
+    },
+    {
+      "offset": 5780,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 5799,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "急に恥ずかしくなり、俺は冗談でごまかした。",
+      "en": "I suddenly get shy, so I hide my embarrassment with a joke.",
+      "text": "I suddenly get shy, so I hide my embarrassment with a joke."
+    },
+    {
+      "offset": 5848,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「例えば、貝のビキニの水着を着て街中を｛かっぽ／闊歩｝\n　したとしても、だ」",
+      "en": "\"Even if you wore a bikini made of seashells and walk around\nthe town, I wouldn't be embarrassed.\"",
+      "text": "\"Even if you wore a bikini made of seashells and walk around\nthe town, I wouldn't be embarrassed.\""
+    },
+    {
+      "offset": 5958,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「え？　え？　何ですか……？」",
+      "en": "\"What? What? What do you mean......?\"",
+      "text": "\"What? What? What do you mean......?\""
+    },
+    {
+      "offset": 5995,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 6014,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "通じなかった冗談は、春風に乗って、桜と一緒\nに飛び散っていった。",
+      "en": "She didn't understand my joke... The joke was blown away by\nthe spring wind together with petals of cherry blossoms.",
+      "text": "She didn't understand my joke... The joke was blown away by\nthe spring wind together with petals of cherry blossoms."
+    },
+    {
+      "offset": 6208,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆退院◆",
+      "en": "◆Junichi◆",
+      "text": "◆Junichi◆"
+    },
+    {
+      "offset": 6249,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本日退院の俺、病室を出た俺と頼子さんは、萌\n先輩に出会った。",
+      "en": "It's time for me to say good-bye to the room where I spent a\nday and a half.",
+      "text": "It's time for me to say good-bye to the room where I spent a\nday and a half."
+    },
+    {
+      "offset": 6313,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩には頼子さんと同じ苗字の友達がいるら\nしい。鷺澤なんて珍しい苗字だよな……。",
+      "en": "It's already late afternoon. It took me a while to go from\nplace to place in the hospital to finish all the medical\ncheckups.",
+      "text": "It's already late afternoon. It took me a while to go from\nplace to place in the hospital to finish all the medical\ncheckups."
+    },
+    {
+      "offset": 6430,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "帰り道、頼子さんと手をつなぎ歩く。「外は怖\nくないのか？」ときくと、今は俺がいるから平\n気と言ってくれた。",
+      "en": "\"Thank you so much for everything.\"",
+      "text": "\"Thank you so much for everything.\""
+    },
+    {
+      "offset": 6539,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "外に出るのをあんなに怖がっていた頼子さんが、\n俺の為に病院まで来てくれた。",
+      "en": "I bow to the nurse. Yoriko-san follows suit.",
+      "text": "I bow to the nurse. Yoriko-san follows suit."
+    },
+    {
+      "offset": 6617,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それが嬉しかった。",
+      "en": "\"Take care of yourself.\"",
+      "text": "\"Take care of yourself.\""
+    }
+  ],
+  "choices": [],
+  "names": {
+    "798": "Moe",
+    "1169": "Moe",
+    "1239": "Moe",
+    "1539": "Moe",
+    "1668": "Moe",
+    "1840": "Moe",
+    "1964": "Moe",
+    "2087": "Moe",
+    "2283": "Nurse",
+    "2390": "Nurse",
+    "2528": "Nurse",
+    "2622": "Nurse",
+    "2790": "Nurse",
+    "3242": "Yoriko",
+    "3391": "Yoriko",
+    "3508": "Yoriko",
+    "3565": "Yoriko",
+    "3663": "Yoriko",
+    "3851": "Yoriko",
+    "4518": "Yoriko",
+    "4583": "Yoriko",
+    "4718": "Yoriko",
+    "4830": "Yoriko",
+    "4954": "Yoriko",
+    "5156": "Yoriko",
+    "5276": "Yoriko",
+    "5522": "Yoriko",
+    "5950": "Yoriko"
+  }
+}

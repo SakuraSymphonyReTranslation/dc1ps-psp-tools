@@ -1,0 +1,394 @@
+{
+  "scene": "script_0644.obj",
+  "dialogues": [
+    {
+      "offset": 147,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はぁ……」",
+      "en": "\"Whew...\"",
+      "text": "\"Whew...\""
+    },
+    {
+      "offset": 166,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昼休みのチャイムが鳴って講師が消えたところ\nで力尽きた。",
+      "en": "My strength is gone when the teacher leaves, as the bell\nrings for lunch recess.",
+      "text": "My strength is gone when the teacher leaves, as the bell\nrings for lunch recess."
+    },
+    {
+      "offset": 261,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「今日の昼はどうするんだ朝倉？」",
+      "en": "\"What are you going to do for lunch today, Asakura?\"",
+      "text": "\"What are you going to do for lunch today, Asakura?\""
+    },
+    {
+      "offset": 300,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「食堂か購買でなんか買ってくる……」",
+      "en": "\"I'll buy something in the dining hall or at the shop.\"",
+      "text": "\"I'll buy something in the dining hall or at the shop.\""
+    },
+    {
+      "offset": 343,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "机にへばったまま呟く。",
+      "en": "I mumble, feeling wiped out on the desk.",
+      "text": "I mumble, feeling wiped out on the desk."
+    },
+    {
+      "offset": 400,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「俺の手作り弁当があるといったら食べるか？」",
+      "en": "\"If I told you I brought a home-made lunch, would you eat\nit?\"",
+      "text": "\"If I told you I brought a home-made lunch, would you eat\nit?\""
+    },
+    {
+      "offset": 451,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……嫌だ」",
+      "en": "\"Nope...\"",
+      "text": "\"Nope...\""
+    },
+    {
+      "offset": 481,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「だろうな。ないけどさ」",
+      "en": "\"That's what I thought. Anyway, I don't have one.\"",
+      "text": "\"That's what I thought. Anyway, I don't have one.\""
+    },
+    {
+      "offset": 512,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「うぅ……」",
+      "en": "\"Geez...\"",
+      "text": "\"Geez...\""
+    },
+    {
+      "offset": 531,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "かったるい。",
+      "en": "What a pain.",
+      "text": "What a pain."
+    },
+    {
+      "offset": 548,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "春休み明けで身体がなまっているとは思ってい\nたが、この小春日和の陽気に精神のほうがたる\nんでいる。",
+      "en": "I thought I'd be very tired physically after a spring break,\nbut actually my mental energy is lower than that because of\nthe airiness of the hot weather.",
+      "text": "I thought I'd be very tired physically after a spring break,\nbut actually my mental energy is lower than that because of\nthe airiness of the hot weather."
+    },
+    {
+      "offset": 651,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「眠い……腹減った……眠い……寝ながら飯を\n　食いたい……」",
+      "en": "\"Sleepy... hungry... sleepy... I wanna eat while lying\ndown.\"",
+      "text": "\"Sleepy... hungry... sleepy... I wanna eat while lying\ndown.\""
+    },
+    {
+      "offset": 745,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「どっちかを優先しろ……あ」",
+      "en": "\"Pick one of them...\"",
+      "text": "\"Pick one of them...\""
+    },
+    {
+      "offset": 780,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ん？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 795,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並の呟きに顔を上げると、さくらが教室の中\nに走りこんできたところだった。",
+      "en": "When I lift my head at Suginami's words, Sakura dashes into\nthe classroom.",
+      "text": "When I lift my head at Suginami's words, Sakura dashes into\nthe classroom."
+    },
+    {
+      "offset": 920,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「えへへへ、おに〜ちゃん♪」",
+      "en": "\"Teehee, onii~chan!\"",
+      "text": "\"Teehee, onii~chan!\""
+    },
+    {
+      "offset": 955,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "スカートをひるがえして、さくらが小首をかし\nげた。",
+      "en": "Sakura cocks her head at me, fluttering her skirt.",
+      "text": "Sakura cocks her head at me, fluttering her skirt."
+    },
+    {
+      "offset": 1024,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ランチブレイク。一緒にお弁当たべよ♪」",
+      "en": "\"It's a lunch break. Let's eat together!\"",
+      "text": "\"It's a lunch break. Let's eat together!\""
+    },
+    {
+      "offset": 1071,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "授業中の雰囲気なんて｛みじん／微塵｝も残していない、た\nだあまくとろけた笑みを浮かべられる。",
+      "en": "She doesn't have any of the seriousness I saw in the\nclassroom. All I see is a sweet smile on her face.",
+      "text": "She doesn't have any of the seriousness I saw in the\nclassroom. All I see is a sweet smile on her face."
+    },
+    {
+      "offset": 1169,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1188,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「う……うぅ……」",
+      "en": "\"Ooohh...\"",
+      "text": "\"Ooohh...\""
+    },
+    {
+      "offset": 1213,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やばい。今、一瞬でも可愛いとか思う自分がい\nた。",
+      "en": "Darn it! There was a brief moment there when I thought she's\nkind of cute.",
+      "text": "Darn it! There was a brief moment there when I thought she's\nkind of cute."
+    },
+    {
+      "offset": 1267,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……弁当なんてもってないやい」",
+      "en": "\"I don't have any lunch.\"",
+      "text": "\"I don't have any lunch.\""
+    },
+    {
+      "offset": 1339,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「拗ねるなよ」",
+      "en": "\"Don't pout!\"",
+      "text": "\"Don't pout!\""
+    },
+    {
+      "offset": 1395,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ボクが作って来たよ〜。ザ・愛妻弁当♪」",
+      "en": "\"I made lunch for you, a lunch of my love.\"",
+      "text": "\"I made lunch for you, a lunch of my love.\""
+    },
+    {
+      "offset": 1442,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「なに？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 1459,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "現実的な弁当という言葉に反応してしまう。",
+      "en": "I like the word 'lunch' very much.",
+      "text": "I like the word 'lunch' very much."
+    },
+    {
+      "offset": 1536,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「だから屋上に行こうよ〜。日当たりもいいし、\n　風も気持ち良いよ〜」",
+      "en": "\"Let's go up to the roof. It'll be sunny and the breeze will\nbe refreshing up there.\"",
+      "text": "\"Let's go up to the roof. It'll be sunny and the breeze will\nbe refreshing up there.\""
+    },
+    {
+      "offset": 1610,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1640,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「じゃ、俺は地下にでも潜るか」",
+      "en": "\"Well, I'd better go to the basement.\"",
+      "text": "\"Well, I'd better go to the basement.\""
+    },
+    {
+      "offset": 1677,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「やめろ、そのわけの分からない気の利かせ方\n　は……って、いない！？」",
+      "en": "\"Stop that! I know you're trying to play smart, but it's not\nworking at all.\"",
+      "text": "\"Stop that! I know you're trying to play smart, but it's not\nworking at all.\""
+    },
+    {
+      "offset": 1753,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "机の下にかがみこんだだけのはずなのに、杉並\nの姿は消えていた。",
+      "en": "I thought Suginami had hidden under the desk, but he's gone\nalready.",
+      "text": "I thought Suginami had hidden under the desk, but he's gone\nalready."
+    },
+    {
+      "offset": 1851,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あにゃ〜？」",
+      "en": "\"Hmm!\"",
+      "text": "\"Hmm!\""
+    },
+    {
+      "offset": 1872,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1891,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "嫌な予感がして、軽く杉並の椅子の下あたりの\n床を叩いてみる。",
+      "en": "Feeling a bad hunch, I tap the floor under his chair.",
+      "text": "Feeling a bad hunch, I tap the floor under his chair."
+    },
+    {
+      "offset": 1955,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "コン……コン……コン……コン……カコン。",
+      "en": "Dm, Dm, Dm, Dm...",
+      "text": "Dm, Dm, Dm, Dm..."
+    },
+    {
+      "offset": 2002,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……聞かなかったことにしよう」",
+      "en": "\"I think I don't hear anything.\"",
+      "text": "\"I think I don't hear anything.\""
+    },
+    {
+      "offset": 2071,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ピ〜クニック♪　ピ〜クニック♪　突然の雨\n　にお兄ちゃんと避難した山小屋で〜♪」",
+      "en": "\"Picnic! Picnic! We sheltered in a mountain lodge, keeping\nus from the sudden rain!\"",
+      "text": "\"Picnic! Picnic! We sheltered in a mountain lodge, keeping\nus from the sudden rain!\""
+    },
+    {
+      "offset": 2159,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「歌うな！」",
+      "en": "\"Stop singing!\"",
+      "text": "\"Stop singing!\""
+    },
+    {
+      "offset": 2208,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゃ！」",
+      "en": "\"Hm!\"",
+      "text": "\"Hm!\""
+    },
+    {
+      "offset": 2227,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "このままだと、｛・・／迂闊｝な妄想で俺が警察に連れて\n行かれそうなので、さくらの首根っこをおさえ\nて教室を出ることにした。",
+      "en": "I decide I should get out of the room, dragging Sakura by\nthe neck, before cops arrest me by mistake.",
+      "text": "I decide I should get out of the room, dragging Sakura by\nthe neck, before cops arrest me by mistake."
+    },
+    {
+      "offset": 2352,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さて、どこに行くか……。",
+      "en": "So, where should we go?",
+      "text": "So, where should we go?"
+    },
+    {
+      "offset": 2556,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆ランチのお誘い◆",
+      "en": "◆An invitation to lunch◆",
+      "text": "◆An invitation to lunch◆"
+    },
+    {
+      "offset": 2603,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "春休みボケが続き、かったるいとしか思えない\n昼休みに、さくらが一緒にお弁当を食べようと\n言う。",
+      "en": "While I was feeling tired after the spring break, Sakura\nasked me to eat lunch together.",
+      "text": "While I was feeling tired after the spring break, Sakura\nasked me to eat lunch together."
+    },
+    {
+      "offset": 2700,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな、疲れるハイテンションなさくらの首根っ\nこをつまみながら、行き先を考える。",
+      "en": "I grabbed the hyper Sakura by the neck and tried to think\nwhere I should take her.",
+      "text": "I grabbed the hyper Sakura by the neck and tried to think\nwhere I should take her."
+    }
+  ],
+  "choices": [
+    {
+      "offset": 2391,
+      "jp": "○職員室",
+      "en": "○The staff room.",
+      "text": "○The staff room."
+    },
+    {
+      "offset": 2408,
+      "jp": "○屋上",
+      "en": "○The roof.",
+      "text": "○The roof."
+    }
+  ],
+  "names": {
+    "253": "Suginami",
+    "392": "Suginami",
+    "473": "Suginami",
+    "737": "Suginami",
+    "910": "Sakura",
+    "1014": "Sakura",
+    "1331": "Suginami",
+    "1385": "Sakura",
+    "1526": "Sakura",
+    "1632": "Suginami",
+    "1841": "Sakura",
+    "2061": "Sakura",
+    "2198": "Sakura"
+  }
+}
