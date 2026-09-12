@@ -110,23 +110,23 @@ graph TD
 
 ## 🌸 Daftar Heroine & Cakupan Skenario All-Age D.C.P.S. (13 Heroine Lengkap)
 
-Game **D.C.P.S. ～ダ・カーポ～ プラスシチュエーション ポータブル** (`NPJH50731` / `ULJM05718`) memiliki **13 Heroine Resmi** (7 Heroine Orisinal + 6 Heroine Baru Konsol) serta 1 Kategori `etc` untuk rute umum sekolah. Seluruhnya terdiri dari **892 scene skrip All-Age (non-18+)**:
+Game **D.C.P.S. ～ダ・カーポ～ プラスシチュエーション ポータブル** (`NPJH50731` / `ULJM05718`) memiliki **13 Heroine Resmi** (7 Heroine Orisinal + 6 Heroine Tambahan Seri PLUS) serta 1 Kategori `etc` untuk rute umum sekolah. Seluruhnya terdiri dari **892 scene skrip All-Age (non-18+)**:
 
 | No | Heroine / Rute | Kategori Karakter | Total Scene PSP | Terjemah Saat Ini | Status Kelengkapan | Keterangan Skenario All-Age D.C.P.S. |
 |:---:|---|---|:---:|:---:|:---:|---|
-| **1** | **Asakura Nemu** (朝倉 音夢) | Heroine Utama | 114 scene | 109 (95.6%) | ⚠️ Sisa 5 scene | Adik tiri Junichi, event sakit demam, kalung lonceng. |
-| **2** | **Yoshino Sakura** (芳乃 さくら) | Heroine Utama | 94 scene | 91 (96.8%) | ⚠️ Sisa 3 scene | Sepupu dari Amerika, pohon sakura abadi, bekal makan siang. |
-| **3** | **Shirakawa Kotori** (白河 ことり) | Heroine Utama | 91 scene | 89 (97.8%) | ⚠️ Sisa 2 scene | Idola sekolah, telepatis pembaca pikiran, penyanyi paduan suara. |
-| **4** | **Amakase Miharu** (天枷 美春) | Heroine Utama | 57 scene | 50 (87.7%) | ⚠️ Sisa 7 scene | Adik kelas pencinta pisang & rahasia robot android. |
-| **5** | **Mizukoshi Moe** (水越 萌) | Heroine Utama | 41 scene | 39 (95.1%) | ⚠️ Sisa 2 scene | Kakak santai pencinta tidur siang & pemain xilofon. |
-| **6** | **Mizukoshi Mako** (水越 眞子) | Heroine Utama | 21 scene | 17 (81.0%) | ⚠️ Sisa 4 scene | Teman masa kecil tomboy, pemain seruling, putri dokter. |
-| **7** | **Sagisawa Yoriko** (鷺澤 頼子) | Heroine Pendukung | 51 scene | **51 (100%)** | ✅ **LENGKAP** | Pelayan bertelinga kucing & penjaga perpustakaan. |
-| **8** | **Tsukishiro Alice** (月城 アリス) | Heroine Baru Konsol | 40 scene | **40 (100%)** | ✅ **LENGKAP** | Gadis pesulap sirkus asal Eropa & boneka filosofis. |
-| **9** | **Konomiya Tamaki** (胡ノ宮 環) | Heroine Baru Konsol | 44 scene | **44 (100%)** | ✅ **LENGKAP** | Gadis kuil miko, tunangan masa kecil Junichi. |
-| **10**| **Kudou Kanae** (工藤 叶) | Heroine Baru Konsol | 17 scene | **17 (100%)** | ✅ **LENGKAP** | Teman sekelas Junichi, rahasia saudara kembar. |
-| **11**| **Saitama Nanako** (彩珠 ななこ) | Heroine Baru Konsol | 29 scene | **4 (13.8%)** | ❌ **Sisa 25 scene** | Gadis berkacamata ceria, pencinta hewan (kambing sekolah). |
-| **12**| **Murasaki Izumiko** (紫 和泉子) | Heroine Baru Konsol | 9 scene | **0 (0.0%)** | ❌ **Sisa 9 scene** | Alien misterius yang menyamar dengan kostum boneka beruang. |
-| **13**| **Kiryuu Kasumi** (霧羽 香澄) | Heroine Baru Konsol | 5 scene | **3 (60.0%)** | ⚠️ **Sisa 2 scene** | Arwah penasaran gadis SMA & mantan reporter sekolah. |
+| **1** | **Asakura Nemu** (朝倉 音夢) | Heroine Orisinal | 114 scene | 109 (95.6%) | ⚠️ Sisa 5 scene | Adik tiri Junichi, event sakit demam, kalung lonceng. |
+| **2** | **Yoshino Sakura** (芳乃 さくら) | Heroine Orisinal | 94 scene | 91 (96.8%) | ⚠️ Sisa 3 scene | Sepupu dari Amerika, pohon sakura abadi, bekal makan siang. |
+| **3** | **Shirakawa Kotori** (白河 ことり) | Heroine Orisinal | 91 scene | 89 (97.8%) | ⚠️ Sisa 2 scene | Idola sekolah, telepatis pembaca pikiran, penyanyi paduan suara. |
+| **4** | **Amakase Miharu** (天枷 美春) | Heroine Orisinal | 57 scene | 50 (87.7%) | ⚠️ Sisa 7 scene | Adik kelas pencinta pisang & rahasia robot android. |
+| **5** | **Mizukoshi Moe** (水越 萌) | Heroine Orisinal | 41 scene | 39 (95.1%) | ⚠️ Sisa 2 scene | Kakak santai pencinta tidur siang & pemain xilofon. |
+| **6** | **Mizukoshi Mako** (水越 眞子) | Heroine Orisinal | 21 scene | 17 (81.0%) | ⚠️ Sisa 4 scene | Teman masa kecil tomboy, pemain seruling, putri dokter. |
+| **7** | **Sagisawa Yoriko** (鷺澤 頼子) | Heroine Orisinal | 51 scene | **51 (100%)** | ✅ **LENGKAP** | Pelayan bertelinga kucing & penjaga perpustakaan. |
+| **8** | **Tsukishiro Alice** (月城 アリス) | Heroine Seri PLUS | 40 scene | **40 (100%)** | ✅ **LENGKAP** | Gadis pesulap sirkus asal Eropa & boneka filosofis. |
+| **9** | **Konomiya Tamaki** (胡ノ宮 環) | Heroine Seri PLUS | 44 scene | **44 (100%)** | ✅ **LENGKAP** | Gadis kuil miko, tunangan masa kecil Junichi. |
+| **10**| **Kudou Kanae** (工藤 叶) | Heroine Seri PLUS | 17 scene | **17 (100%)** | ✅ **LENGKAP** | Teman sekelas Junichi, rahasia saudara kembar. |
+| **11**| **Saitama Nanako** (彩珠 ななこ) | Heroine Seri PLUS | 29 scene | **4 (13.8%)** | ❌ **Sisa 25 scene** | Gadis berkacamata ceria, pencinta hewan (kambing sekolah). |
+| **12**| **Murasaki Izumiko** (紫 和泉子) | Heroine Seri PLUS | 9 scene | **0 (0.0%)** | ❌ **Sisa 9 scene** | Alien misterius yang menyamar dengan kostum boneka beruang. |
+| **13**| **Kiryuu Kasumi** (霧羽 香澄) | Heroine Seri PLUS | 5 scene | **3 (60.0%)** | ⚠️ **Sisa 2 scene** | Arwah penasaran gadis SMA & mantan reporter sekolah. |
 | **-** | **Common Route & Event Sekolah** | Rute Umum & Sub-Event | 279 scene | 167 (59.9%) | ⚠️ Sisa 112 scene | Prolog, kehidupan sekolah, interaksi komedi Suginami. |
 | | **TOTAL SELURUH SKENARIO** | | **892 SCENE** | **721 (80.8%)** | ⚠️ **Sisa 171 scene** | **66.868 baris teks All-Age konsol siap dimainkan!** |
 
@@ -207,8 +207,8 @@ Cukup klik dua kali file **`run_menu.bat`** di folder utama:
 Skenario di dalam **D.C.P.S. (*Plus Situation*)** tidak identik dengan versi PC (*Plus Communication*):
 1. **Rating All-Age (Semua Umur / CERO C)**:
    Seluruh adegan 18+ pada versi PC dihilangkan total pada versi konsol dan digantikan dengan adegan romantis manis ramah semua umur (*SFW replacement*) seperti kencan di bawah pohon sakura abadi, percakapan intim emosional, dan event interaksi kehidupan sekolah.
-2. **Heroine Orisinal Konsol (Izumiko, Nanako, Kasumi)**:
-   Rute **Murasaki Izumiko**, **Saitama Nanako**, dan **Kiryuu Kasumi** aslinya memang diciptakan pertama kali oleh CIRCUS khusus untuk rilis konsol PS2/PSP sebagai rute All-Age.
+2. **Heroine Tambahan Seri PLUS (Izumiko, Nanako, Kasumi)**:
+   Rute **Murasaki Izumiko**, **Saitama Nanako**, dan **Kiryuu Kasumi** (bersama Alice, Tamaki, dan Kanae) adalah 6 heroine ekspansi seri PLUS yang hadir di versi konsol (*Plus Situation*) dalam format skenario All-Age (serta hadir pula pada versi PC *Plus Communication*).
 3. **Peluang Terjemahan Bahasa Indonesia**:
    Sebanyak 171 scene All-Age konsol yang belum diterjemahkan (karena penerjemah barat zaman dulu hanya fokus pada versi PC) teks Jepang aslinya sudah tersimpan lengkap di `analysis/dc1_script.json`. Komunitas dapat langsung menerjemahkannya ke **Bahasa Indonesia** melalui folder `translations/id/sheets/`!
 
