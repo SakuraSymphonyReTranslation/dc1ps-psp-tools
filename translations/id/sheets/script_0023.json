@@ -1,0 +1,355 @@
+{
+  "scene": "script_0023.obj",
+  "dialogues": [
+    {
+      "offset": 125,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "去年のクリスマスパーティーの日。",
+      "en": "It was the day of last year's Christmas party.",
+      "text": "It was the day of last year's Christmas party."
+    },
+    {
+      "offset": 162,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が体育倉庫の片隅で寝っ転がっていると……。",
+      "en": "I was sleeping in the corner of the PE storehouse.",
+      "text": "I was sleeping in the corner of the PE storehouse."
+    },
+    {
+      "offset": 247,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "最初はふとももだけだったから誰だと思ったけ\nど、見上げた俺の視界に……。",
+      "en": "I had a weird feeling that someone else was around. I looked\nup, and in my field of vision was...",
+      "text": "I had a weird feeling that someone else was around. I looked\nup, and in my field of vision was..."
+    },
+    {
+      "offset": 334,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月明かりを長い髪に反射させて、それこそ月か\nら――別の世界から現れたように立っていたん\nだよな。",
+      "en": "Long hair with the moonlight brilliantly reflecting off it,\nas if the person standing there had materialized from\nanother world.",
+      "text": "Long hair with the moonlight brilliantly reflecting off it,\nas if the person standing there had materialized from\nanother world."
+    },
+    {
+      "offset": 433,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "風見学園に知らない者はいない、アイドル的存\n在の少女。",
+      "en": "It was a person that everyone in Kazami Academy knew of. The\nschool idol.",
+      "text": "It was a person that everyone in Kazami Academy knew of. The\nschool idol."
+    },
+    {
+      "offset": 493,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「白河ことり」",
+      "en": "\"Shirakawa Kotori.\"",
+      "text": "\"Shirakawa Kotori.\""
+    },
+    {
+      "offset": 527,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「え？　誰かいるんですか？」",
+      "en": "\"Eh? Who's there?\"",
+      "text": "\"Eh? Who's there?\""
+    },
+    {
+      "offset": 562,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「下であぐらをかいてるよ」",
+      "en": "\"Below you.\"",
+      "text": "\"Below you.\""
+    },
+    {
+      "offset": 629,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、ごめんなさい。よく見えなくて……こん\n　な所でなにしてるんです？」",
+      "en": "\"Oh, I'm sorry, I couldn't see you... what would you be\ndoing here?\"",
+      "text": "\"Oh, I'm sorry, I couldn't see you... what would you be\ndoing here?\""
+    },
+    {
+      "offset": 707,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「自分でもそれを考えてた……でもいいのか？\n　それこそ、｛・・・・／こんな所｝で男とふたりっきりで」",
+      "en": "\"Just thinking to myself... if you want, I can move. I bet\nyour reason for being here is at least different in the\n\"myself\" part.\"",
+      "text": "\"Just thinking to myself... if you want, I can move. I bet\nyour reason for being here is at least different in the\n\"myself\" part.\""
+    },
+    {
+      "offset": 826,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「？　あはははは。あなた、いい人ですね」",
+      "en": "\"? ....Ah, haha. You must be a good person.\"",
+      "text": "\"? ....Ah, haha. You must be a good person.\""
+    },
+    {
+      "offset": 873,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「悪い人だって」",
+      "en": "\"More like the opposite.\"",
+      "text": "\"More like the opposite.\""
+    },
+    {
+      "offset": 930,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ううん、私には分かる。あなたの感じ、いつ\n　までも割れないシャボン玉みたい」",
+      "en": "\"Nooo, I can feel it. You're like a bubble that never\nbursts.\"",
+      "text": "\"Nooo, I can feel it. You're like a bubble that never\nbursts.\""
+    },
+    {
+      "offset": 1014,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「なんだそりゃ？」",
+      "en": "\"What...?\"",
+      "text": "\"What...?\""
+    },
+    {
+      "offset": 1052,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「屋根より高いところにあって、いつ割れてし\n　まうんだろうって、つい気になっちゃうの」",
+      "en": "\"When most bubbles reach high places, they tend to burst...\nunlike you right now, I guess?\"",
+      "text": "\"When most bubbles reach high places, they tend to burst...\nunlike you right now, I guess?\""
+    },
+    {
+      "offset": 1144,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「よく分からないぞ」",
+      "en": "\"...I have no clue what you're talking about.\"",
+      "text": "\"...I have no clue what you're talking about.\""
+    },
+    {
+      "offset": 1205,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「うふふふふ。説明すると私もよく分からない\n　です。うん」",
+      "en": "\"Hehehe. I don't really understand my own explanation\neither.\"",
+      "text": "\"Hehehe. I don't really understand my own explanation\neither.\""
+    },
+    {
+      "offset": 1269,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "彼女がひとしきり笑って頷く。",
+      "en": "She giggled for a bit, nodding her head slightly.",
+      "text": "She giggled for a bit, nodding her head slightly."
+    },
+    {
+      "offset": 1302,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まるで普通の女の子にしか思えない雰囲気に、\n本当に学園のアイドルなのかと疑いたくなる。",
+      "en": "She certainly didn't have the airs of a typical girl. I\nstart wondering whether she really is the school idol.",
+      "text": "She certainly didn't have the airs of a typical girl. I\nstart wondering whether she really is the school idol."
+    },
+    {
+      "offset": 1394,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まあ、俺のことはさておき……白河もコンテ\n　ストに出てたのか？」",
+      "en": "\"Well, moving the subject away from me for a second... don't\nyou have to go to the contest, Shirakawa?\"",
+      "text": "\"Well, moving the subject away from me for a second... don't\nyou have to go to the contest, Shirakawa?\""
+    },
+    {
+      "offset": 1479,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「うん。ちょっと色々あって……その前に、隣\n　にいても邪魔じゃないですかね、私？」",
+      "en": "\"Yeah. It's going to start soon... but until it does, do you\nmind if I stay here?\"",
+      "text": "\"Yeah. It's going to start soon... but until it does, do you\nmind if I stay here?\""
+    },
+    {
+      "offset": 1567,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、まぁ……俺の部屋じゃないし」",
+      "en": "\"W, well... it's not my storehouse anyway.\"",
+      "text": "\"W, well... it's not my storehouse anyway.\""
+    },
+    {
+      "offset": 1642,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「じゃあお礼に、白河じゃなくて、ことりって\n　呼んでいいですよ」",
+      "en": "\"Alright, thank you. And you don't have to call me by my\nsurname, Kotori is fine.\"",
+      "text": "\"Alright, thank you. And you don't have to call me by my\nsurname, Kotori is fine.\""
+    },
+    {
+      "offset": 1712,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……ことりさん、それ、関係あるのか？」",
+      "en": "\"...Then, Kotori-san would be okay?\"",
+      "text": "\"...Then, Kotori-san would be okay?\""
+    },
+    {
+      "offset": 1772,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ことり」",
+      "en": "\"Just Kotori.\"",
+      "text": "\"Just Kotori.\""
+    },
+    {
+      "offset": 1789,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………ことり、それ、関係あるのか？」",
+      "en": "\"......Then, Kotori, would be okay?\"",
+      "text": "\"......Then, Kotori, would be okay?\""
+    },
+    {
+      "offset": 1870,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「全然ないですね。……で、あなたの名前は？」",
+      "en": "\"No problems now! ...What about your name?\"",
+      "text": "\"No problems now! ...What about your name?\""
+    },
+    {
+      "offset": 1921,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「………………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 1944,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「名乗るほどの者じゃない」",
+      "en": "\"I'm nameless.\"",
+      "text": "\"I'm nameless.\""
+    },
+    {
+      "offset": 1990,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「どこまでが名字？」",
+      "en": "\"Is that your surname?\"",
+      "text": "\"Is that your surname?\""
+    },
+    {
+      "offset": 2017,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……どこまでだろうなぁ」",
+      "en": "\"...I suppose.\"",
+      "text": "\"...I suppose.\""
+    },
+    {
+      "offset": 2086,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 2099,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな──。",
+      "en": "And so,--",
+      "text": "And so,--"
+    },
+    {
+      "offset": 2116,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "学園のアイドルとは思えない彼女との、なんと\nも言えないおかしなやりとりがあって。",
+      "en": "The girl, who certainly didn't seem like a school idol,\nstopped talking after my weird reply.",
+      "text": "The girl, who certainly didn't seem like a school idol,\nstopped talking after my weird reply."
+    },
+    {
+      "offset": 2200,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その後俺は──。",
+      "en": "After that--",
+      "text": "After that--"
+    },
+    {
+      "offset": 2221,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "コンテストで彼女と決選投票になった音夢に携\n帯電話で呼び出されて、決戦投票して欲しいっ\nて言われたわけだ。",
+      "en": "At the climax of the contest when the votes were to be cast,\nNemu called me on my cellphone, wanting me to vote for her.",
+      "text": "At the climax of the contest when the votes were to be cast,\nNemu called me on my cellphone, wanting me to vote for her."
+    },
+    {
+      "offset": 2330,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢は全部言わなかったけど、裏モード──八\n方美人の免許皆伝状態の、嘘を吐いている自分\nに投票されるのが嫌で。",
+      "en": "She tried to use her reverse-mode style to try and convince\nme, but I lied a bit, and said that I hated polls and\nvoting.",
+      "text": "She tried to use her reverse-mode style to try and convince\nme, but I lied a bit, and said that I hated polls and\nvoting."
+    },
+    {
+      "offset": 2443,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当の自分を知っている俺に、負けさせて欲し\nがったんだよな。",
+      "en": "It was more like, that I may not really have wanted her to\nwin...",
+      "text": "It was more like, that I may not really have wanted her to\nwin..."
+    },
+    {
+      "offset": 2507,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……あー、懐かしい話だ。",
+      "en": "...Aah, that's in the past.",
+      "text": "...Aah, that's in the past."
+    },
+    {
+      "offset": 2640,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆クリスマスの思い出◆",
+      "en": "◆Christmas Memories◆",
+      "text": "◆Christmas Memories◆"
+    },
+    {
+      "offset": 2684,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりと初めてまともに会話した時のことを俺\nは思い出していた。",
+      "en": "I remembered the time where I first met and talked to\nKotori.",
+      "text": "I remembered the time where I first met and talked to\nKotori."
+    },
+    {
+      "offset": 2750,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……何だか微妙な会話だったよなぁ。",
+      "en": "...It was a pretty dynsfunctional conversation, now that I\nthink about it.",
+      "text": "...It was a pretty dynsfunctional conversation, now that I\nthink about it."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "517": "Kotori",
+    "619": "Kotori",
+    "816": "Kotori",
+    "920": "Kotori",
+    "1042": "Kotori",
+    "1195": "Kotori",
+    "1469": "Kotori",
+    "1632": "Kotori",
+    "1762": "Kotori",
+    "1860": "Kotori",
+    "1980": "Kotori"
+  }
+}

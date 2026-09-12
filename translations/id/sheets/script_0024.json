@@ -1,0 +1,332 @@
+{
+  "scene": "script_0024.obj",
+  "dialogues": [
+    {
+      "offset": 149,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ひとしきり思い出した後、俺はことりを見た。",
+      "en": "After lapsing into memory-land for awhile, I snap back to\nreality and looked at Kotori.",
+      "text": "After lapsing into memory-land for awhile, I snap back to\nreality and looked at Kotori."
+    },
+    {
+      "offset": 198,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ほら、覚えてないか？　あの、クリス──」",
+      "en": "\"Aw, don't you remember? The Chris--\"",
+      "text": "\"Aw, don't you remember? The Chris--\""
+    },
+    {
+      "offset": 282,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ああ、はい、クリスマスパーティーの時の」",
+      "en": "\"Oh yes! During the Christmas party.\"",
+      "text": "\"Oh yes! During the Christmas party.\""
+    },
+    {
+      "offset": 331,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言い終わる前に、ことりがぱんと手を叩いた。",
+      "en": "Before I could finish my sentence, Kotori clapped her hands\ntogether.",
+      "text": "Before I could finish my sentence, Kotori clapped her hands\ntogether."
+    },
+    {
+      "offset": 393,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「名乗るほどの者ではないさん♪」",
+      "en": "\"Nameless-san♪\"",
+      "text": "\"Nameless-san♪\""
+    },
+    {
+      "offset": 432,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「う……良くそこまで覚えてるな」",
+      "en": "\"Uuh...looks like you really do remember.\"",
+      "text": "\"Uuh...looks like you really do remember.\""
+    },
+    {
+      "offset": 484,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「記憶力には自信があるんですよ」",
+      "en": "\"I have confidence in my memory.\"",
+      "text": "\"I have confidence in my memory.\""
+    },
+    {
+      "offset": 523,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "びしっと、親指を立ててみせる。",
+      "en": "Kotori gave a thumbs-up.",
+      "text": "Kotori gave a thumbs-up."
+    },
+    {
+      "offset": 590,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「でも、何であの時、名前を教えてくれなかっ\n　たんですか？」",
+      "en": "\"But, why were you so reluctant to tell me your name then?\"",
+      "text": "\"But, why were you so reluctant to tell me your name then?\""
+    },
+    {
+      "offset": 656,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「一時的な記憶喪失に陥ってな」",
+      "en": "\"I fell into a memory lapse for an hour.\"",
+      "text": "\"I fell into a memory lapse for an hour.\""
+    },
+    {
+      "offset": 723,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「それは大変でしたね……」",
+      "en": "\"That's horrible...\"",
+      "text": "\"That's horrible...\""
+    },
+    {
+      "offset": 756,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 775,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんか……ことりって、冗談が通じない？",
+      "en": "I guess... she didn't get the joke?",
+      "text": "I guess... she didn't get the joke?"
+    },
+    {
+      "offset": 833,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「う〜……。こんなにはぐらかされるなんて、\n　もしかして、教えたくない……？」",
+      "en": "\"Maaan... does this mean you won't tell me your name now\neither?\"",
+      "text": "\"Maaan... does this mean you won't tell me your name now\neither?\""
+    },
+    {
+      "offset": 917,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "別にそう言うわけじゃないんだが……。",
+      "en": "Don't say it like that....",
+      "text": "Don't say it like that...."
+    },
+    {
+      "offset": 958,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ま、隠す必要なんてないんだよな。",
+      "en": "Well, no point in hiding it now.",
+      "text": "Well, no point in hiding it now."
+    },
+    {
+      "offset": 997,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「朝倉。朝倉[name]」",
+      "en": "\"Asakura. Asakura [name].\"",
+      "text": "\"Asakura. Asakura [name].\""
+    },
+    {
+      "offset": 1054,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「朝倉君ですね」",
+      "en": "\"So that would be Asakura-kun.\"",
+      "text": "\"So that would be Asakura-kun.\""
+    },
+    {
+      "offset": 1077,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "また、びしっと親指を立てる。",
+      "en": "Once again, her thumb went up.",
+      "text": "Once again, her thumb went up."
+    },
+    {
+      "offset": 1112,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、白河ことり」",
+      "en": "\"And in my case, Shirakawa Kotori,\"",
+      "text": "\"And in my case, Shirakawa Kotori,\""
+    },
+    {
+      "offset": 1137,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "真似して、びしっと親指を立てた。",
+      "en": "Mimicking her, I gave her a thumbs up as well.",
+      "text": "Mimicking her, I gave her a thumbs up as well."
+    },
+    {
+      "offset": 1176,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ことりって呼ばせてもらって、いいんだった\n　よな？」",
+      "en": "\"It's okay if I just call you Kotori, right?\"",
+      "text": "\"It's okay if I just call you Kotori, right?\""
+    },
+    {
+      "offset": 1266,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ええ……くちゅん」",
+      "en": "\"Ah...ah.... choo!\"",
+      "text": "\"Ah...ah.... choo!\""
+    },
+    {
+      "offset": 1293,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふるふる、とことりが身体を震わせる。",
+      "en": "Kotori's body shivered slightly.",
+      "text": "Kotori's body shivered slightly."
+    },
+    {
+      "offset": 1366,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ずっと歌っていたから、身体が冷えてしまっ\n　たみたいです」",
+      "en": "\"I've been singing here so long, I forgot about how cold it\nwas.\"",
+      "text": "\"I've been singing here so long, I forgot about how cold it\nwas.\""
+    },
+    {
+      "offset": 1462,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「それじゃ、私はこれで失礼しますね」",
+      "en": "\"I guess I'd be taking my leave now.\"",
+      "text": "\"I guess I'd be taking my leave now.\""
+    },
+    {
+      "offset": 1505,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あら。もう、歌は終わり？」",
+      "en": "\"Aw, the song's over?\"",
+      "text": "\"Aw, the song's over?\""
+    },
+    {
+      "offset": 1540,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "綺麗な歌声だったから、もうちょっと聴いてい\nたかったけど。",
+      "en": "I wanted to continue listening to such a beautiful singing\nvoice.",
+      "text": "I wanted to continue listening to such a beautiful singing\nvoice."
+    },
+    {
+      "offset": 1634,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ごめんなさい……人が居ると、ちょっと。気\n　になっちゃうから……」",
+      "en": "\"I'm sorry... I don't really like to sing when I know people\nare around...\"",
+      "text": "\"I'm sorry... I don't really like to sing when I know people\nare around...\""
+    },
+    {
+      "offset": 1708,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そっか。なら仕方ない」",
+      "en": "\"Oh well, in that case, it can't be helped.\"",
+      "text": "\"Oh well, in that case, it can't be helped.\""
+    },
+    {
+      "offset": 1769,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ではでは。さよならです」",
+      "en": "\"Well then, farewell!\"",
+      "text": "\"Well then, farewell!\""
+    },
+    {
+      "offset": 1802,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ん。じゃあね」",
+      "en": "\"Mm, later.\"",
+      "text": "\"Mm, later.\""
+    },
+    {
+      "offset": 1839,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鼻をすんすんいわせながら、ことりは去っていっ\nた。",
+      "en": "Lightly rubbing her nose, Kotori left the area.",
+      "text": "Lightly rubbing her nose, Kotori left the area."
+    },
+    {
+      "offset": 1895,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 1914,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……俺も帰るか」",
+      "en": "\"...Guess I'd go home too.\"",
+      "text": "\"...Guess I'd go home too.\""
+    },
+    {
+      "offset": 2062,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆ことり、思い出す◆",
+      "en": "◆Kotori Remembers◆",
+      "text": "◆Kotori Remembers◆"
+    },
+    {
+      "offset": 2119,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうやら俺のことを完全に忘れてしまったわけ\nではないらしい。",
+      "en": "In the end, she didn't completely forget about me.",
+      "text": "In the end, she didn't completely forget about me."
+    },
+    {
+      "offset": 2183,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少し会話を交わすと、俺がクリスマスの時に会っ\nた人物だと思い出してくれた。",
+      "en": "After a bit of prodding, I manage to stir up the memories of\nlast Christmas inside her again.",
+      "text": "After a bit of prodding, I manage to stir up the memories of\nlast Christmas inside her again."
+    },
+    {
+      "offset": 2261,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だが、少しだけ喋ると、身体が冷えたと言って、\nことりは去っていった。",
+      "en": "But after a bit more chatter, with her body shivering,\nKotori went back home.",
+      "text": "But after a bit more chatter, with her body shivering,\nKotori went back home."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "272": "Kotori",
+    "383": "Kotori",
+    "474": "Kotori",
+    "580": "Kotori",
+    "713": "Kotori",
+    "823": "Kotori",
+    "1044": "Kotori",
+    "1256": "Kotori",
+    "1356": "Kotori",
+    "1452": "Kotori",
+    "1624": "Kotori",
+    "1759": "Kotori"
+  }
+}

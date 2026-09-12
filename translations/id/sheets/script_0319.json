@@ -1,0 +1,156 @@
+{
+  "scene": "script_0319.obj",
+  "dialogues": [
+    {
+      "offset": 137,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「やっぱ、すき焼きですね」",
+      "en": "\"No doubt about it, sukiyaki is the best.\"",
+      "text": "\"No doubt about it, sukiyaki is the best.\""
+    },
+    {
+      "offset": 170,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やっぱ、この味が１番っしょ。",
+      "en": "There is nothing better than this taste.",
+      "text": "There is nothing better than this taste."
+    },
+    {
+      "offset": 216,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「手堅くきたわね。まあ、すき焼きならあたし\n　も文句ないけど」",
+      "en": "\"You sound confident. Well, I don't have anything to\ncomplain about either, because I love sukiyaki.\"",
+      "text": "\"You sound confident. Well, I don't have anything to\ncomplain about either, because I love sukiyaki.\""
+    },
+    {
+      "offset": 284,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "卵を割りながら、眞子が珍しく同意する。",
+      "en": "Breaking the egg, Mako agrees with me for a change.",
+      "text": "Breaking the egg, Mako agrees with me for a change."
+    },
+    {
+      "offset": 329,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ほう、珍しく意見が合ったな」",
+      "en": "\"Oh, it's unusual that we could see eye to eye.\"",
+      "text": "\"Oh, it's unusual that we could see eye to eye.\""
+    },
+    {
+      "offset": 366,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺も器の底で卵を割る。",
+      "en": "I also crack an egg on the bottom of the serving dish.",
+      "text": "I also crack an egg on the bottom of the serving dish."
+    },
+    {
+      "offset": 395,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（角とかで割ると、殻が入りやすいからな……）",
+      "en": "(If you crack an egg on the edge of the dish, some eggshell\nmight drop into the dish...)",
+      "text": "(If you crack an egg on the edge of the dish, some eggshell\nmight drop into the dish...)"
+    },
+    {
+      "offset": 476,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「じゃあ、これからはすき焼きにしますね」",
+      "en": "\"Okay then, I will make sukiyaki every day from now on.\"",
+      "text": "\"Okay then, I will make sukiyaki every day from now on.\""
+    },
+    {
+      "offset": 523,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩がニッコリと微笑んで、手を合わせる。",
+      "en": "Moe-sempai smiles and places her hands together.",
+      "text": "Moe-sempai smiles and places her hands together."
+    },
+    {
+      "offset": 570,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その笑顔に微妙な不安を感じる。",
+      "en": "I feel slightly uneasy about her smile.",
+      "text": "I feel slightly uneasy about her smile."
+    },
+    {
+      "offset": 607,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あの……時々でいいですから」",
+      "en": "\"Uh... Just sometimes.\"",
+      "text": "\"Uh... Just sometimes.\""
+    },
+    {
+      "offset": 674,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「え？　そうなんですか？」",
+      "en": "\"What? Really?\"",
+      "text": "\"What? Really?\""
+    },
+    {
+      "offset": 707,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "きょとんとする萌先輩の顔を見て、つっこんど\nいて良かったと心底思う。",
+      "en": "Seeing Moe-sempai with a vacant look, I really feel that it\nwas good to mention it.",
+      "text": "Seeing Moe-sempai with a vacant look, I really feel that it\nwas good to mention it."
+    },
+    {
+      "offset": 779,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いくら好きでも毎日は飽きるし、材料費もバカ\nになるまい。",
+      "en": "I love sukiyaki, but I'd get tired of eating it if she made\nit every day, and it can also cost a ridiculous amount of\nmoney.",
+      "text": "I love sukiyaki, but I'd get tired of eating it if she made\nit every day, and it can also cost a ridiculous amount of\nmoney."
+    },
+    {
+      "offset": 873,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ナイスフォロー」",
+      "en": "\"Nice follow-up.\"",
+      "text": "\"Nice follow-up.\""
+    },
+    {
+      "offset": 898,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とりあえず、未来の平和は守られた……。",
+      "en": "For the time being, future peace is assured...",
+      "text": "For the time being, future peace is assured..."
+    },
+    {
+      "offset": 1070,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆すき焼き◆",
+      "en": "◆Sukiyaki◆",
+      "text": "◆Sukiyaki◆"
+    },
+    {
+      "offset": 1113,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はすき焼きが好きなんだ。",
+      "en": "I love sukiyaki.",
+      "text": "I love sukiyaki."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "208": "Mako",
+    "470": "Moe",
+    "668": "Moe",
+    "865": "Mako"
+  }
+}

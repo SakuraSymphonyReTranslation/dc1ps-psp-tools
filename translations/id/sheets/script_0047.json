@@ -1,0 +1,510 @@
+{
+  "scene": "script_0047.obj",
+  "dialogues": [
+    {
+      "offset": 139,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さて、何を食うかな」",
+      "en": "It's not because the fluorescent lights are broken.",
+      "text": "It's not because the fluorescent lights are broken."
+    },
+    {
+      "offset": 168,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "購買に向かいながら、今日の昼のメニューを考\nえる。",
+      "en": "The room looks dim and dusty, but actually it's really\nclean, except Koyomi-sensei's desk which is covered with\nthings.",
+      "text": "The room looks dim and dusty, but actually it's really\nclean, except Koyomi-sensei's desk which is covered with\nthings."
+    },
+    {
+      "offset": 222,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "定番の焼きそばパンは、外せないとして……。",
+      "en": "For some reason, Koyomi-sensei's personal stuff like her\nelectronic pet are on the floor. The preparation room's like\nKoyomi-sensei's private room.",
+      "text": "For some reason, Koyomi-sensei's personal stuff like her\nelectronic pet are on the floor. The preparation room's like\nKoyomi-sensei's private room."
+    },
+    {
+      "offset": 282,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「朝倉せんぱーい」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 307,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「んっ？」",
+      "en": "\"At first, everybody thought Miharu was dead because there\nwere flowers on her desk, but then she came in to the\nclass.\"",
+      "text": "\"At first, everybody thought Miharu was dead because there\nwere flowers on her desk, but then she came in to the\nclass.\""
+    },
+    {
+      "offset": 324,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少し俯きながら考えていた俺は、顔を上げて正\n面を見る。",
+      "en": "As soon as I said it, the blood drained from Koyomi-sensei's\nface.",
+      "text": "As soon as I said it, the blood drained from Koyomi-sensei's\nface."
+    },
+    {
+      "offset": 422,
+      "speaker": "Koyomi",
+      "speaker_jp": "美春",
+      "jp": "「朝倉先輩、ニュースです。大ニュースです」",
+      "en": "\"Wait a second......\"",
+      "text": "\"Wait a second......\""
+    },
+    {
+      "offset": 471,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "前から走ってきた美春が、息を切らせて興奮気\n味に話す。",
+      "en": "She was looking there for a while, but soon she dropped her\nshoulders, sighed and came back.",
+      "text": "She was looking there for a while, but soon she dropped her\nshoulders, sighed and came back."
+    },
+    {
+      "offset": 531,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「息を整えるか、落ち着くかしないと窒息死す\n　るぞ」",
+      "en": "\"Who are you talking about?\"",
+      "text": "\"Who are you talking about?\""
+    },
+    {
+      "offset": 600,
+      "speaker": "Koyomi",
+      "speaker_jp": "美春",
+      "jp": "「それどころじゃないですよ。出たんです、本\n　当に出たんですよ」",
+      "en": "\"Amakase.\"",
+      "text": "\"Amakase.\""
+    },
+    {
+      "offset": 670,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "命の危険もかえりみず、話しつづける美春。",
+      "en": "\"I don't know what to say.\"",
+      "text": "\"I don't know what to say.\""
+    },
+    {
+      "offset": 715,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いったい何が出たというんだか……。",
+      "en": "\"Why have you changed the subject? Why are you talking about\nrobots?\"",
+      "text": "\"Why have you changed the subject? Why are you talking about\nrobots?\""
+    },
+    {
+      "offset": 756,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「出たって、便秘でもしてたのか？」",
+      "en": "Koyomi-sensei's writhing in front of me.",
+      "text": "Koyomi-sensei's writhing in front of me."
+    },
+    {
+      "offset": 825,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「違います！　ヘンなこと言わないでください\n　よ。そんなんじゃなくて、幽霊ですよ、幽霊」",
+      "en": "\"Well, you know I'm studying mechanical engineering, right?\"",
+      "text": "\"Well, you know I'm studying mechanical engineering, right?\""
+    },
+    {
+      "offset": 919,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ユウレイ？」",
+      "en": "Amakase Research Institute is Miharu's father's institute.\nHe's famous in the robotics industry.",
+      "text": "Amakase Research Institute is Miharu's father's institute.\nHe's famous in the robotics industry."
+    },
+    {
+      "offset": 940,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何をさす言葉だか分からないといった感じで、\nオウム返しに繰り返す。",
+      "en": "\"Does it seriously affect my life? Are they trying to\nrecruit me?\"",
+      "text": "\"Does it seriously affect my life? Are they trying to\nrecruit me?\""
+    },
+    {
+      "offset": 1040,
+      "speaker": "Koyomi",
+      "speaker_jp": "美春",
+      "jp": "「そうです。幽霊です！」",
+      "en": "\"No, never. With your grades, you could be a test subject\nbut never be one of the researchers.\"",
+      "text": "\"No, never. With your grades, you could be a test subject\nbut never be one of the researchers.\""
+    },
+    {
+      "offset": 1071,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ビシィッ！　と人差し指を突き立てて、美春が\n声高に言う。",
+      "en": "Koyomi-sensei's eyes became bloodshot. That's not a good\nsign. She's the kind of persons who wouldn't hesitate to\nmodify a human brain.",
+      "text": "Koyomi-sensei's eyes became bloodshot. That's not a good\nsign. She's the kind of persons who wouldn't hesitate to\nmodify a human brain."
+    },
+    {
+      "offset": 1133,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"Stop changing the subject! I can't tell if you're talking\nabout Miharu or robots. What are you talking about?\"",
+      "text": "\"Stop changing the subject! I can't tell if you're talking\nabout Miharu or robots. What are you talking about?\""
+    },
+    {
+      "offset": 1152,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「美春、授業中寝てたのか？」",
+      "en": "Koyomi-sensei pressed her half-smoked cigarette on the\nashtray and took out a new one.",
+      "text": "Koyomi-sensei pressed her half-smoked cigarette on the\nashtray and took out a new one."
+    },
+    {
+      "offset": 1187,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ダメだぞ、授業はちゃんと受けなきゃ。俺みた\nいになっても知らないぞ。",
+      "en": "\"Yes, I do. I've seen them on TV.\"",
+      "text": "\"Yes, I do. I've seen them on TV.\""
+    },
+    {
+      "offset": 1289,
+      "speaker": "Koyomi",
+      "speaker_jp": "美春",
+      "jp": "「違います」",
+      "en": "\"I don't mean a robot that looks and moves like a human. A\n'human-like robot' means a robot almost the same as a\nhuman.\"",
+      "text": "\"I don't mean a robot that looks and moves like a human. A\n'human-like robot' means a robot almost the same as a\nhuman.\""
+    },
+    {
+      "offset": 1336,
+      "speaker": "Koyomi",
+      "speaker_jp": "美春",
+      "jp": "「１組の子が昨日、女の子の声を聞いたんです\n　よ」",
+      "en": "I answered her as I scratched my head.",
+      "text": "I answered her as I scratched my head."
+    },
+    {
+      "offset": 1392,
+      "speaker": "Koyomi",
+      "speaker_jp": "美春",
+      "jp": "「女の子の声？」",
+      "en": "\"The Amakase you saw this morning wasn't Amakase.\"",
+      "text": "\"The Amakase you saw this morning wasn't Amakase.\""
+    },
+    {
+      "offset": 1415,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……って、学園なんだから、どこからでも女の\n子の声なんて聞こえると思うが。",
+      "en": "\"She wasn't Miharu? I don't understand. You're not saying\nMiharu's dead and that was Miharu's ghost, are you?\"",
+      "text": "\"She wasn't Miharu? I don't understand. You're not saying\nMiharu's dead and that was Miharu's ghost, are you?\""
+    },
+    {
+      "offset": 1506,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「花子さんです」",
+      "en": "Fortunately, the Miharu I saw had legs and a shadow.",
+      "text": "Fortunately, the Miharu I saw had legs and a shadow."
+    },
+    {
+      "offset": 1529,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「花子さん？」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1550,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "はて、シンプルかつ、どこかで聞いた名前だな。\n……同じ学年の女の子か？",
+      "en": "---- The room went silent for a while, again.",
+      "text": "---- The room went silent for a while, again."
+    },
+    {
+      "offset": 1626,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（それとも後輩だったけかな？）",
+      "en": "\"I like Polylabor the best. It's a robot, but it's\ncategorized as a police special vehicle and looks real.\"",
+      "text": "\"I like Polylabor the best. It's a robot, but it's\ncategorized as a police special vehicle and looks real.\""
+    },
+    {
+      "offset": 1674,
+      "speaker": "Koyomi",
+      "speaker_jp": "美春",
+      "jp": "「トイレの花子さんです」",
+      "en": "\"I'm serious.\"",
+      "text": "\"I'm serious.\""
+    },
+    {
+      "offset": 1705,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": "\"In combined robots, I like the one that's fifteen bodies\ncombined......\"",
+      "text": "\"In combined robots, I like the one that's fifteen bodies\ncombined......\""
+    },
+    {
+      "offset": 1722,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はぁっ？」",
+      "en": "\"Are you saying that the Miharu I saw this morning was a\nrobot?\"",
+      "text": "\"Are you saying that the Miharu I saw this morning was a\nrobot?\""
+    },
+    {
+      "offset": 1741,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わず、正直な反応がでる。",
+      "en": "\"Wait a second! If what you said's true, then what happened\nto the real Miharu?\"",
+      "text": "\"Wait a second! If what you said's true, then what happened\nto the real Miharu?\""
+    },
+    {
+      "offset": 1802,
+      "speaker": "Koyomi",
+      "speaker_jp": "美春",
+      "jp": "「あ〜ッ！　先輩信じてませんね」",
+      "en": "\"----It's true that she had an accident and was taken to\nhospital.\"",
+      "text": "\"----It's true that she had an accident and was taken to\nhospital.\""
+    },
+    {
+      "offset": 1841,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春が目の前で頬を膨らませる。",
+      "en": "\"What!?\"",
+      "text": "\"What!?\""
+    },
+    {
+      "offset": 1878,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや、普通信じろって方が無理だろ」",
+      "en": "\"No...... then, Miharu is......\"",
+      "text": "\"No...... then, Miharu is......\""
+    },
+    {
+      "offset": 1921,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな学園の七不思議的なネタ。",
+      "en": "\"No, thank you. That's disrespectful of Miharu's life. I'm\ndisappointed in you.\"",
+      "text": "\"No, thank you. That's disrespectful of Miharu's life. I'm\ndisappointed in you.\""
+    },
+    {
+      "offset": 1969,
+      "speaker": "Koyomi",
+      "speaker_jp": "美春",
+      "jp": "「じゃあ、来てください朝倉先輩。証拠を見せ\n　ますから」",
+      "en": "\"Asakura......\"",
+      "text": "\"Asakura......\""
+    },
+    {
+      "offset": 2031,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春が俺の手を掴んで、ひっぱる。",
+      "en": "\"When I...... and Nemu heard our friend was dead, how much\ndo you think we got hurt?\"",
+      "text": "\"When I...... and Nemu heard our friend was dead, how much\ndo you think we got hurt?\""
+    },
+    {
+      "offset": 2070,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「証拠って……どうやって？」",
+      "en": "\"But......\"",
+      "text": "\"But......\""
+    },
+    {
+      "offset": 2133,
+      "speaker": "Koyomi",
+      "speaker_jp": "美春",
+      "jp": "「現場で張りこむんですよ。犯人は、必ず現場\n　に戻ってきますから」",
+      "en": "\"And that plan has already started.\"",
+      "text": "\"And that plan has already started.\""
+    },
+    {
+      "offset": 2205,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": "That was a robot. I didn't notice at all.",
+      "text": "That was a robot. I didn't notice at all."
+    },
+    {
+      "offset": 2222,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（幽霊って、犯人なのか？）",
+      "en": "Come to think of it, something was funny about her.",
+      "text": "Come to think of it, something was funny about her."
+    },
+    {
+      "offset": 2286,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "It's true that if somebody's with it, the robot's identity\nis safe to a certain extent.",
+      "text": "It's true that if somebody's with it, the robot's identity\nis safe to a certain extent."
+    },
+    {
+      "offset": 2320,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "If its identity's revealed, the real Miharu in hospital may\nbecome the subject of people's curiosity.",
+      "text": "If its identity's revealed, the real Miharu in hospital may\nbecome the subject of people's curiosity."
+    },
+    {
+      "offset": 2339,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そこは当然だが｛・・・・・／女子トイレ｝だった。",
+      "en": "Also, if the robot's so human like, it'll be a subject of\ncuriosity as well for sure.",
+      "text": "Also, if the robot's so human like, it'll be a subject of\ncuriosity as well for sure."
+    },
+    {
+      "offset": 2427,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「このトイレの一番奥の個室です、先輩」",
+      "en": "\"Some students have already seen Miharu this morning. So we\ncan't give an inch now.\"",
+      "text": "\"Some students have already seen Miharu this morning. So we\ncan't give an inch now.\""
+    },
+    {
+      "offset": 2472,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春が、新米刑事のような顔つきで、真面目に\n｛・・／現場｝の説明をする。",
+      "en": "\"If I refuse your proposal, you'll ask somebody else,\nright?\"",
+      "text": "\"If I refuse your proposal, you'll ask somebody else,\nright?\""
+    },
+    {
+      "offset": 2548,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一番奥の個室って……。",
+      "en": "\"OK. I'll do it. I don't want anyone else doing this.\"",
+      "text": "\"OK. I'll do it. I don't want anyone else doing this.\""
+    },
+    {
+      "offset": 2577,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（俺にどうやってそこまで行けと？）",
+      "en": "She sounded like she was prepared to say that.",
+      "text": "She sounded like she was prepared to say that."
+    },
+    {
+      "offset": 2618,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "学生が通り過ぎていく廊下で、立ち尽くす俺。",
+      "en": "\"But do you think it's all right? Won't people find out\nshe's a robot?\"",
+      "text": "\"But do you think it's all right? Won't people find out\nshe's a robot?\""
+    },
+    {
+      "offset": 2665,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もしかして、俺を性犯罪者に仕立て上げる罠？",
+      "en": "She's right. I still can't believe it was a robot.",
+      "text": "She's right. I still can't believe it was a robot."
+    },
+    {
+      "offset": 2712,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まさか杉並あたりが裏で糸引いてるんじゃない\nだろうな。",
+      "en": "Koyomi-sensei sneered.",
+      "text": "Koyomi-sensei sneered."
+    },
+    {
+      "offset": 2770,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わず首謀者の姿を探して、周囲を見回す。",
+      "en": "A long stick of cigarette ash fell into the ashtray.",
+      "text": "A long stick of cigarette ash fell into the ashtray."
+    },
+    {
+      "offset": 2828,
+      "speaker": "Koyomi",
+      "speaker_jp": "美春",
+      "jp": "「先輩、早く隠れないと見つかっちゃいますよ」",
+      "en": "\"Well then, come here again after school and I'll introduce\nthe robot... I mean, Amakase to you then.\"",
+      "text": "\"Well then, come here again after school and I'll introduce\nthe robot... I mean, Amakase to you then.\""
+    },
+    {
+      "offset": 2879,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の手を引きながら、美春が扉を押すと、ピン\nク色の壁が姿を現し、魅惑的な空間が目の前に\n広がる。",
+      "en": "But after tracing my memory from this morning, I still can't\nbelieve that Miharu was a robot.",
+      "text": "But after tracing my memory from this morning, I still can't\nbelieve that Miharu was a robot."
+    },
+    {
+      "offset": 2978,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一歩、足を踏み出した俺は……。",
+      "en": "I can't tell the difference between the robot and human\nMiharu.",
+      "text": "I can't tell the difference between the robot and human\nMiharu."
+    },
+    {
+      "offset": 3013,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春の首根っこを掴み、もと来た道を猛然と引\nき返した。",
+      "en": "I took the job, but can I handle it? I've no idea what it'll\nbe like.",
+      "text": "I took the job, but can I handle it? I've no idea what it'll\nbe like."
+    },
+    {
+      "offset": 3200,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆トイレの花子さん◆",
+      "en": "◆When I got to the biology preparation room, Koyomi-sensei was all prepared and waiting for me.◆",
+      "text": "◆When I got to the biology preparation room, Koyomi-sensei was all prepared and waiting for me.◆"
+    },
+    {
+      "offset": 3249,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春が大ニュースを持ってやって来た。",
+      "en": "\"It's dim in here as usual.\"",
+      "text": "\"It's dim in here as usual.\""
+    },
+    {
+      "offset": 3309,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "女子トイレに“花子さん”とかって幽霊が出る\nらしいが、俺はそこには入れないだろうが……。",
+      "en": "The lights are never on in this room.",
+      "text": "The lights are never on in this room."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "274": "Miharu",
+    "414": "Koyomi",
+    "592": "Koyomi",
+    "817": "Miharu",
+    "1032": "Koyomi",
+    "1281": "Koyomi",
+    "1328": "Koyomi",
+    "1498": "Miharu",
+    "1666": "Koyomi",
+    "1794": "Koyomi",
+    "1961": "Koyomi",
+    "2125": "Koyomi",
+    "2419": "Miharu",
+    "2820": "Koyomi"
+  }
+}

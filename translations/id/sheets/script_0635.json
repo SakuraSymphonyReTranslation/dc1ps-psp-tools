@@ -1,0 +1,1184 @@
+{
+  "scene": "script_0635.obj",
+  "dialogues": [
+    {
+      "offset": 149,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……静かだな」",
+      "en": "\"It's quiet......\"",
+      "text": "\"It's quiet......\""
+    },
+    {
+      "offset": 172,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "レンタル店で借りてきた洋画を観ながら、コン\nビニ弁当を食べる。",
+      "en": "I was eating a dinner I bought from a convenience store, and\nwatching a movie I rented from a video store.",
+      "text": "I was eating a dinner I bought from a convenience store, and\nwatching a movie I rented from a video store."
+    },
+    {
+      "offset": 238,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ひとりで飯を食べるのは、やっぱ寂しいかな。",
+      "en": "I felt kind of lonely eating dinner all by myself,\nespecially when I think that this is going to continue for a\nlong time......",
+      "text": "I felt kind of lonely eating dinner all by myself,\nespecially when I think that this is going to continue for a\nlong time......"
+    },
+    {
+      "offset": 285,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こんなのが、これからもずっと続くのかと思う\nと……。",
+      "en": "\"I feel depressed......\"",
+      "text": "\"I feel depressed......\""
+    },
+    {
+      "offset": 343,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「｛うつ／鬱｝だ……」",
+      "en": "Ding dong.",
+      "text": "Ding dong."
+    },
+    {
+      "offset": 377,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――ピンポーン",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 398,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はてっ？」",
+      "en": "Who could be here at this time?",
+      "text": "Who could be here at this time?"
+    },
+    {
+      "offset": 417,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こんな時間に誰だ？",
+      "en": "Is it a door-to-door salesman? Mailman? ......Neither one\nshould come here this late.",
+      "text": "Is it a door-to-door salesman? Mailman? ......Neither one\nshould come here this late."
+    },
+    {
+      "offset": 440,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "勧誘、集金、宅配……どれもありそうにない。",
+      "en": "I answered the intercom, feeling suspicious.",
+      "text": "I answered the intercom, feeling suspicious."
+    },
+    {
+      "offset": 487,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛いぶか／訝｝しく思いつつ、インターホンに出る。",
+      "en": "\"Yes?\"",
+      "text": "\"Yes?\""
+    },
+    {
+      "offset": 570,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "『あっ、朝倉くん、こんばんは』",
+      "en": "\"Oh, good evening, Asakura-kun.\"",
+      "text": "\"Oh, good evening, Asakura-kun.\""
+    },
+    {
+      "offset": 607,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 626,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「萌先輩！？」",
+      "en": "\"Moe-sempai!?\"",
+      "text": "\"Moe-sempai!?\""
+    },
+    {
+      "offset": 656,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "『はい』",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 671,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この声は、確かに萌先輩だ。それにしても、な\nぜ、こんな時間に……。",
+      "en": "This voice is Moe-sempai for sure. Why's she here this\nlate......?",
+      "text": "This voice is Moe-sempai for sure. Why's she here this\nlate......?"
+    },
+    {
+      "offset": 743,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ちょっと待っててください」",
+      "en": "\"I'll be right there.\"",
+      "text": "\"I'll be right there.\""
+    },
+    {
+      "offset": 778,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "受話器を元に戻し、玄関へと向う。",
+      "en": "I hung up the phone and ran to the front door.",
+      "text": "I hung up the phone and ran to the front door."
+    },
+    {
+      "offset": 886,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「こんばんは、朝倉くん」",
+      "en": "\"Good evening, Asakura-kun.\"",
+      "text": "\"Good evening, Asakura-kun.\""
+    },
+    {
+      "offset": 917,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「どうしたんです、こんな時間に？」",
+      "en": "\"What are you doing here this late?\"",
+      "text": "\"What are you doing here this late?\""
+    },
+    {
+      "offset": 958,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "空港で見かけるようなデカイ鞄が、萌先輩と一\n緒に玄関にある。",
+      "en": "Moe-sempai was standing there with a big suitcase, like the\nones I see at the airport.",
+      "text": "Moe-sempai was standing there with a big suitcase, like the\nones I see at the airport."
+    },
+    {
+      "offset": 1022,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まるで家出をしてきたような……。",
+      "en": "It's as if she ran away from home......",
+      "text": "It's as if she ran away from home......"
+    },
+    {
+      "offset": 1061,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（って、ホントに家出じゃないだろうな……）",
+      "en": "(I hope she didn't run away from her home......)",
+      "text": "(I hope she didn't run away from her home......)"
+    },
+    {
+      "offset": 1136,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「朝倉くんの家に泊まりに来ました」",
+      "en": "\"I came to stay in your home.\"",
+      "text": "\"I came to stay in your home.\""
+    },
+    {
+      "offset": 1179,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1198,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1222,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「は？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 1237,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ニッコリ微笑む萌先輩の言葉に、｛とき／刻｝の流れが一\n時停止する。",
+      "en": "Time stopped for a moment as she spoke with a smiling face.",
+      "text": "Time stopped for a moment as she spoke with a smiling face."
+    },
+    {
+      "offset": 1307,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "予想的中！？",
+      "en": "Did she really run away?",
+      "text": "Did she really run away?"
+    },
+    {
+      "offset": 1324,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ニッコリ微笑む笑顔と、大きな鞄が何よりの証\n拠だろう。",
+      "en": "Her smile and her huge luggage are proof enough.",
+      "text": "Her smile and her huge luggage are proof enough."
+    },
+    {
+      "offset": 1384,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あの……本気ですか？」",
+      "en": "\"Umm...... Are you serious?\"",
+      "text": "\"Umm...... Are you serious?\""
+    },
+    {
+      "offset": 1441,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 1456,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "にこやかに頷かれ、さらに絶句。",
+      "en": "I was lost for words as she nodded with a smile.",
+      "text": "I was lost for words as she nodded with a smile."
+    },
+    {
+      "offset": 1493,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「い、家出？」",
+      "en": "\"You ran away from your home?\"",
+      "text": "\"You ran away from your home?\""
+    },
+    {
+      "offset": 1540,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「いえ、朝倉くんのお世話をしに来たんですけ\n　ど……」",
+      "en": "\"No, I just came to take care of you......\"",
+      "text": "\"No, I just came to take care of you......\""
+    },
+    {
+      "offset": 1600,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちょっと困惑した表情を浮かべてそう言う。",
+      "en": "She spoke with confusion on her face.",
+      "text": "She spoke with confusion on her face."
+    },
+    {
+      "offset": 1645,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 1658,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そりゃそうか。萌先輩の性格で家出なんかあり\nえない。もっとも、家出じゃないからって事態\nは全然かわらないけど。",
+      "en": "I see. There's no way Moe-sempai would run away from home.\nHowever this is still a strange situation......",
+      "text": "I see. There's no way Moe-sempai would run away from home.\nHowever this is still a strange situation......"
+    },
+    {
+      "offset": 1773,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いくらなんでも無理です！　この家には俺し\n　かいないんだから！」",
+      "en": "\"This isn't right! I'm the only person in this house!\"",
+      "text": "\"This isn't right! I'm the only person in this house!\""
+    },
+    {
+      "offset": 1845,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "女の子とふたりっきりで住むなんて、出来ない。",
+      "en": "I can't live alone with a girl.",
+      "text": "I can't live alone with a girl."
+    },
+    {
+      "offset": 1922,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「ですから、朝倉くんのお世話をする人が必要\n　じゃないですか。それに一緒に住んでいれば、\n　今日のような遅刻はないと思いますし」",
+      "en": "\"That's why you need someone to take care of you. Also if\nwe're living together, I won't be late picking you up.\"",
+      "text": "\"That's why you need someone to take care of you. Also if\nwe're living together, I won't be late picking you up.\""
+    },
+    {
+      "offset": 2055,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あたりまえのことのように萌先輩が言う。",
+      "en": "She explained as if she was saying the right thing. It'dl be\nnice to have someone to take care of me, but I can't let a\ngirl stay here with me.",
+      "text": "She explained as if she was saying the right thing. It'dl be\nnice to have someone to take care of me, but I can't let a\ngirl stay here with me."
+    },
+    {
+      "offset": 2098,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "確かに、世話をしてくれる人がいればありがた\nいが、だからといって、女の子を泊めるわけに\nはいかない。",
+      "en": "\"Anyway, I can't let you stay.\"",
+      "text": "\"Anyway, I can't let you stay.\""
+    },
+    {
+      "offset": 2203,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「とにかく、ふたりっきりなんてダメです」",
+      "en": "It would be like we were cohabitating......",
+      "text": "It would be like we were cohabitating......"
+    },
+    {
+      "offset": 2250,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな同棲みたいなこと……。",
+      "en": "(Cohabitating, huh......?)",
+      "text": "(Cohabitating, huh......?)"
+    },
+    {
+      "offset": 2285,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（同棲か……）",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 2306,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "...What the heck am I thinking?",
+      "text": "...What the heck am I thinking?"
+    },
+    {
+      "offset": 2319,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――って何を考えてるんだ俺は！",
+      "en": "I shook my head as I almost lost my conscience to the\ntempting word.",
+      "text": "I shook my head as I almost lost my conscience to the\ntempting word."
+    },
+    {
+      "offset": 2453,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「お願いします。私、朝倉くんの看病をしたい\n　んです」",
+      "en": "\"Please. I want to take care of you, Asakura-kun.\"",
+      "text": "\"Please. I want to take care of you, Asakura-kun.\""
+    },
+    {
+      "offset": 2513,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2532,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "先輩の真剣な眼差しに、何も言えなくなってし\nまう。",
+      "en": "I didn't know what to say as I saw her serious face.",
+      "text": "I didn't know what to say as I saw her serious face."
+    },
+    {
+      "offset": 2586,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩なりに責任を感じているのかもしれない。",
+      "en": "I guess Moe-sempai's trying to take responsibility.",
+      "text": "I guess Moe-sempai's trying to take responsibility."
+    },
+    {
+      "offset": 2641,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2660,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2679,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「分かりました……」",
+      "en": "\"I understand......\"",
+      "text": "\"I understand......\""
+    },
+    {
+      "offset": 2706,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それで、先輩の気持ちが楽になるなら――。",
+      "en": "As long as this is going to make her feel better......",
+      "text": "As long as this is going to make her feel better......"
+    },
+    {
+      "offset": 2779,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「ありがとうございます」",
+      "en": "\"Thank you very much.\"",
+      "text": "\"Thank you very much.\""
+    },
+    {
+      "offset": 2810,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ホッとしたように喜ぶ萌先輩の笑顔を見つめな\nがら、なんだかもやもやとしたものを心に感じ\nていた……。",
+      "en": "As I stared at her relieved smile, I had a fuzzy feeling in\nmy heart......",
+      "text": "As I stared at her relieved smile, I had a fuzzy feeling in\nmy heart......"
+    },
+    {
+      "offset": 2922,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 2968,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あの……あがってもいいですか？」",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 3009,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「え？　あ、ああ……どうぞ」",
+      "en": "\"Umm...... May I come in?\"",
+      "text": "\"Umm...... May I come in?\""
+    },
+    {
+      "offset": 3070,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい。おじゃまします」",
+      "en": "\"Thank you.\"",
+      "text": "\"Thank you.\""
+    },
+    {
+      "offset": 3101,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "嬉しそうに微笑むと、萌先輩は靴を脱いで家に\nあがりこむ。",
+      "en": "She took her shoes off and came inside the house with a\njoyful smile.",
+      "text": "She took her shoes off and came inside the house with a\njoyful smile."
+    },
+    {
+      "offset": 3163,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「こっちへどうぞ」",
+      "en": "\"Come this way.\"",
+      "text": "\"Come this way.\""
+    },
+    {
+      "offset": 3221,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「その辺、適当に座っててください」",
+      "en": "\"You can sit wherever you like.\"",
+      "text": "\"You can sit wherever you like.\""
+    },
+    {
+      "offset": 3293,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい」",
+      "en": "\"Okay.\"",
+      "text": "\"Okay.\""
+    },
+    {
+      "offset": 3308,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩にソファーを勧め、俺もテレビの前に陣\n取り、弁当を手に取る。",
+      "en": "I told her to sit on the couch, as I sat in front of the TV\nto eat my dinner.",
+      "text": "I told her to sit on the couch, as I sat in front of the TV\nto eat my dinner."
+    },
+    {
+      "offset": 3406,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「失礼しますね」",
+      "en": "\"Thank you.\"",
+      "text": "\"Thank you.\""
+    },
+    {
+      "offset": 3429,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩が俺の隣に腰かける。身体が｛わず／微｝かに触れ\nる距離……萌先輩の体温を感じ、身体が｛ほて／火照｝る。",
+      "en": "Moe took a seat beside me. Her body was slightly touching\nmine...... I felt her temperature and felt the heat inside\nof me.",
+      "text": "Moe took a seat beside me. Her body was slightly touching\nmine...... I felt her temperature and felt the heat inside\nof me."
+    },
+    {
+      "offset": 3541,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こうして並んで座っていると、本当に恋人同士\nみたいだ。",
+      "en": "Sitting side by side, I felt as if we were a couple.",
+      "text": "Sitting side by side, I felt as if we were a couple."
+    },
+    {
+      "offset": 3599,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "冷めはじめたコンビニ弁当を、ぎこちなく口に\n運ぶ。",
+      "en": "I ate my cold dinner with an awkward feeling.",
+      "text": "I ate my cold dinner with an awkward feeling."
+    },
+    {
+      "offset": 3653,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "心臓の鼓動が外に聞こえるんじゃというぐらい、\nバクバクいっている。",
+      "en": "I'm afraid she might hear my pounding heartbeat.",
+      "text": "I'm afraid she might hear my pounding heartbeat."
+    },
+    {
+      "offset": 3723,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだか無茶苦茶、意識してしまう……。",
+      "en": "I was feeling extremely conscious of her......",
+      "text": "I was feeling extremely conscious of her......"
+    },
+    {
+      "offset": 3777,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「お食事中だったんですか？」",
+      "en": "\"Were you eating your dinner?\"",
+      "text": "\"Were you eating your dinner?\""
+    },
+    {
+      "offset": 3812,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「えっ……うん」",
+      "en": "\"What? Yes......\"",
+      "text": "\"What? Yes......\""
+    },
+    {
+      "offset": 3835,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なに緊張してんだ俺は！　落ち着けって。",
+      "en": "Why am I acting so nervous? Calm down!",
+      "text": "Why am I acting so nervous? Calm down!"
+    },
+    {
+      "offset": 3906,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あの……いつもそういったものを食べている\n　んですか？」",
+      "en": "\"Umm...... Do you always eat things like that?\"",
+      "text": "\"Umm...... Do you always eat things like that?\""
+    },
+    {
+      "offset": 3970,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「まあ、そうですね。コンビニ、出前、外食。\n　……そういったものをローテーションで回し\n　てますね」",
+      "en": "\"Well, yes. Either something from the convenience store,\ndelivery, or restaurants...... I eat those things in\nrotation.\"",
+      "text": "\"Well, yes. Either something from the convenience store,\ndelivery, or restaurants...... I eat those things in\nrotation.\""
+    },
+    {
+      "offset": 4075,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "これまでの絶望的な食生活を、お寿司のように\n回想する。",
+      "en": "I was recalling my depressing diet in my mind.",
+      "text": "I was recalling my depressing diet in my mind."
+    },
+    {
+      "offset": 4161,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「お料理はしないんですか？」",
+      "en": "\"You don't cook?\"",
+      "text": "\"You don't cook?\""
+    },
+    {
+      "offset": 4196,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「たいして作れないんで」",
+      "en": "\"I can't really cook.\"",
+      "text": "\"I can't really cook.\""
+    },
+    {
+      "offset": 4253,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「じゃあ、これからは私がお料理をしますね」",
+      "en": "\"Well, then I'll cook for you from now on.\"",
+      "text": "\"Well, then I'll cook for you from now on.\""
+    },
+    {
+      "offset": 4302,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「本当ですか？」",
+      "en": "\"Are you serious?\"",
+      "text": "\"Are you serious?\""
+    },
+    {
+      "offset": 4334,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 4349,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩の料理なら願ってもない。",
+      "en": "I love her cooking.",
+      "text": "I love her cooking."
+    },
+    {
+      "offset": 4384,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": ".............",
+      "text": "............."
+    },
+    {
+      "offset": 4401,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（ホントに泊まる気なんだな）",
+      "en": "(So I guess she's really staying here.)",
+      "text": "(So I guess she's really staying here.)"
+    },
+    {
+      "offset": 4436,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今さらながらに本当にいいのかなと思う。",
+      "en": "It was too late, but I was still feeling unsure about\nthis......",
+      "text": "It was too late, but I was still feeling unsure about\nthis......"
+    },
+    {
+      "offset": 4479,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 4534,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 4584,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 4603,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "会話が途切れてしまった。",
+      "en": "Our conversation had ended.",
+      "text": "Our conversation had ended."
+    },
+    {
+      "offset": 4632,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "弁当を食べ終えると、することがなくなってし\nまう。",
+      "en": "After I finished eating, there was nothing else to do.",
+      "text": "After I finished eating, there was nothing else to do."
+    },
+    {
+      "offset": 4686,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "仕方なく、再生中の洋画を眺めているフリをす\nるが、やはり隣が気になる。",
+      "en": "I pretended like I was watching the movie, but was still\nconscious of her.",
+      "text": "I pretended like I was watching the movie, but was still\nconscious of her."
+    },
+    {
+      "offset": 4777,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩も俺にならって、テレビ画面を見ている。\nその無防備な横顔を、俺はちらちらと落ち着き\nなく見ていた。",
+      "en": "Moe was also watching the TV screen like me. I was peeking\nat her innocent face every chance I got.",
+      "text": "Moe was also watching the TV screen like me. I was peeking\nat her innocent face every chance I got."
+    },
+    {
+      "offset": 4892,
+      "speaker": "Actress",
+      "speaker_jp": "女優",
+      "jp": "「ん……んん……」",
+      "en": "\"Mmmm...... mmmmm......\"",
+      "text": "\"Mmmm...... mmmmm......\""
+    },
+    {
+      "offset": 4919,
+      "speaker": "Actress",
+      "speaker_jp": "女優",
+      "jp": "（へ？）",
+      "en": "(Huh?)",
+      "text": "(Huh?)"
+    },
+    {
+      "offset": 4934,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "突然の｛つや／艶｝やかな声にテレビ画面を見ると。",
+      "en": "Suddenly, I heard a sexy voice coming out of the TV......",
+      "text": "Suddenly, I heard a sexy voice coming out of the TV......"
+    },
+    {
+      "offset": 5009,
+      "speaker": "Actress",
+      "speaker_jp": "女優",
+      "jp": "「ん……はぁ……んん……」",
+      "en": "\"Mmm...... hah...... mmm......\"",
+      "text": "\"Mmm...... hah...... mmm......\""
+    },
+    {
+      "offset": 5042,
+      "speaker": "Actress",
+      "speaker_jp": "女優",
+      "jp": "（やばっ、この映画キスシーンがあったのか）",
+      "en": "(Shoot! I didn't know they had a love scene in this movie!)",
+      "text": "(Shoot! I didn't know they had a love scene in this movie!)"
+    },
+    {
+      "offset": 5091,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頬が一気に紅潮する。心臓が、身体の中で飛び\n散りそうだ。",
+      "en": "I blushed suddenly, My heart was ready to explode.",
+      "text": "I blushed suddenly, My heart was ready to explode."
+    },
+    {
+      "offset": 5151,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いきなりここで話し始めたら、動揺バレバレだ\nし、かと言って、いきなり再生を止めるわけに\nもいかないし……。",
+      "en": "If I started talking to her now, she'll know I'm in a panic.\nHowever, I can't just stop the movie now......",
+      "text": "If I started talking to her now, she'll know I'm in a panic.\nHowever, I can't just stop the movie now......"
+    },
+    {
+      "offset": 5262,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（頼む……早く終わってくれ……）",
+      "en": "(Please...... Get over with this scene......)",
+      "text": "(Please...... Get over with this scene......)"
+    },
+    {
+      "offset": 5301,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "終われ――終わるんだ！",
+      "en": "Please end! Right now!",
+      "text": "Please end! Right now!"
+    },
+    {
+      "offset": 5328,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 5374,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あの……」",
+      "en": "\"Umm......\"",
+      "text": "\"Umm......\""
+    },
+    {
+      "offset": 5393,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「えっ！？　な、なに……？」",
+      "en": "\"What? What is it......?\"",
+      "text": "\"What? What is it......?\""
+    },
+    {
+      "offset": 5428,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いきなり萌先輩が口を開いたので、マジで喉か\nら心臓が飛び出しそうになる。",
+      "en": "My heart almost came out of my mouth as she spoke to me all\nof a sudden.",
+      "text": "My heart almost came out of my mouth as she spoke to me all\nof a sudden."
+    },
+    {
+      "offset": 5515,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「こんなにいっぱいキスをして、酸っぱくない\n　んでしょうか？」",
+      "en": "\"Would it taste sour to kiss as much as they are?\"",
+      "text": "\"Would it taste sour to kiss as much as they are?\""
+    },
+    {
+      "offset": 5583,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「…………はい？」",
+      "en": "\"............What?\"",
+      "text": "\"............What?\""
+    },
+    {
+      "offset": 5608,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "めちゃくちゃ動揺しているせいか、言っている\nことが解からない。",
+      "en": "I was so nervous that I didn't understand what she meant.",
+      "text": "I was so nervous that I didn't understand what she meant."
+    },
+    {
+      "offset": 5676,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あの……どうして？」",
+      "en": "\"Umm...... Why are you saying that?\"",
+      "text": "\"Umm...... Why are you saying that?\""
+    },
+    {
+      "offset": 5731,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「いえ……キスってレモンの味がするって言う\n　じゃないですか」",
+      "en": "\"Well...... They say that a kiss tastes like a lemon.\"",
+      "text": "\"Well...... They say that a kiss tastes like a lemon.\""
+    },
+    {
+      "offset": 5808,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「だから、こんなにいっぱいキスしたら、とて\n　も酸っぱいと思うんです」",
+      "en": "\"So, if you kiss that much, I think it'll be too sour.\"",
+      "text": "\"So, if you kiss that much, I think it'll be too sour.\""
+    },
+    {
+      "offset": 5884,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": "............",
+      "text": "............"
+    },
+    {
+      "offset": 5901,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや……たぶん大丈夫なんじゃないですか」",
+      "en": "\"No...... I think they're fine.\"",
+      "text": "\"No...... I think they're fine.\""
+    },
+    {
+      "offset": 5959,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「そうなんですか？」",
+      "en": "\"Really?\"",
+      "text": "\"Really?\""
+    },
+    {
+      "offset": 5986,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「萌先輩、キスしたことないんですか？」",
+      "en": "\"You've never kissed before, Moe-sempai?\"",
+      "text": "\"You've never kissed before, Moe-sempai?\""
+    },
+    {
+      "offset": 6057,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい」",
+      "en": "\"No I haven't.\"",
+      "text": "\"No I haven't.\""
+    },
+    {
+      "offset": 6072,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「じゃあ、試してみます？」",
+      "en": "\"Then would you like to try?\"",
+      "text": "\"Then would you like to try?\""
+    },
+    {
+      "offset": 6105,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "って、俺はなに言ってんだ。",
+      "en": "What the heck am I suggesting?",
+      "text": "What the heck am I suggesting?"
+    },
+    {
+      "offset": 6164,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい」",
+      "en": "\"Sure.\"",
+      "text": "\"Sure.\""
+    },
+    {
+      "offset": 6179,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――え？",
+      "en": "----What?",
+      "text": "----What?"
+    },
+    {
+      "offset": 6192,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "スッと立ち上がった萌先輩が、俺の前に立つ。",
+      "en": "Moe stood up and came in front of me.",
+      "text": "Moe stood up and came in front of me."
+    },
+    {
+      "offset": 6241,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「萌せん――」",
+      "en": "\"Moe-sem...\"",
+      "text": "\"Moe-sem...\""
+    },
+    {
+      "offset": 6297,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「――っ！！？」",
+      "en": "\"............!!!\"",
+      "text": "\"............!!!\""
+    },
+    {
+      "offset": 6320,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やわ……らかい……。",
+      "en": "She bent her body down and licked my lips with her tongue.",
+      "text": "She bent her body down and licked my lips with her tongue."
+    },
+    {
+      "offset": 6377,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「……レモンの味……しませんね……？」",
+      "en": "\"Smack...... mmm...... smack......\"",
+      "text": "\"Smack...... mmm...... smack......\""
+    },
+    {
+      "offset": 6422,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の顔の目の前で、萌先輩がきょとんとした眼\n差しを向けてくる。",
+      "en": "Her tongue was making a wet sound.",
+      "text": "Her tongue was making a wet sound."
+    },
+    {
+      "offset": 6490,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そ、そうですね……」",
+      "en": "I felt her warm tongue all over my lips.",
+      "text": "I felt her warm tongue all over my lips."
+    },
+    {
+      "offset": 6519,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こんなに間近で、そんな瞳で見つめられたら\n……理性がもたないです……。",
+      "en": "It's...... soft......",
+      "text": "It's...... soft......"
+    },
+    {
+      "offset": 6604,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あの……もしかして、今のは本当のキスでは\n　ないのでしょうか？」",
+      "en": "\"......It doesn't taste like a lemon......\"",
+      "text": "\"......It doesn't taste like a lemon......\""
+    },
+    {
+      "offset": 6676,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「いや……俺にも分からないです……」",
+      "en": "\"Umm...... Perhaps that wasn't a real kiss?\"",
+      "text": "\"Umm...... Perhaps that wasn't a real kiss?\""
+    },
+    {
+      "offset": 6719,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もはや心の中でツッこむ余裕もなく、上の空で\n答える。フワフワと、身体が浮いているような\n錯覚にとらわれる。",
+      "en": "\"Well...... I'm not very sure......\"",
+      "text": "\"Well...... I'm not very sure......\""
+    },
+    {
+      "offset": 6828,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――それだけ、舞い上がってるってことか。",
+      "en": "I answered vaguely as I couldn't focus in my mind. I felt as\nif my body was floating in the air.",
+      "text": "I answered vaguely as I couldn't focus in my mind. I felt as\nif my body was floating in the air."
+    },
+    {
+      "offset": 6884,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「そうですか……じゃあ、今度調べてみますね」",
+      "en": "\"I see...... I'll research more then.\"",
+      "text": "\"I see...... I'll research more then.\""
+    },
+    {
+      "offset": 6956,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ニッコリ微笑み、再びテレビに視線を移す。",
+      "en": "She smiled and looked back at the TV.",
+      "text": "She smiled and looked back at the TV."
+    },
+    {
+      "offset": 7001,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺もテレビに目を向ける。そっと唇に手をやる\nと指先がしっとり濡れた。",
+      "en": "I also looked at the TV. As I softly touched my lips, I felt\nsomething wet on my fingertips.",
+      "text": "I also looked at the TV. As I softly touched my lips, I felt\nsomething wet on my fingertips."
+    },
+    {
+      "offset": 7073,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その後、萌先輩と映画を観ながら、俺はずっと\n唇に指を当てていた……。",
+      "en": "I continued to touch my lips as I watched the rest of the\nmovie with her......",
+      "text": "I continued to touch my lips as I watched the rest of the\nmovie with her......"
+    },
+    {
+      "offset": 7263,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆キスの味◆",
+      "en": "◆The flavor of a kiss◆",
+      "text": "◆The flavor of a kiss◆"
+    },
+    {
+      "offset": 7306,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一人寂しく食事を取っていると、萌先輩がやっ\nて来た。責任を感じたのか、俺の看病をしたい\nと言うのだ。",
+      "en": "When I was eating my dinner alone, Moe-sempai came to the\nhouse. She wanted to take the responsibility of taking care\nof me.",
+      "text": "When I was eating my dinner alone, Moe-sempai came to the\nhouse. She wanted to take the responsibility of taking care\nof me."
+    },
+    {
+      "offset": 7409,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何となく、レンタルしてきたビデオを見ている\nと、突然、画面から艶やかな声が。",
+      "en": "When we were watching the movie I rented, I started hearing\na sexy voice from the screen.",
+      "text": "When we were watching the movie I rented, I started hearing\na sexy voice from the screen."
+    },
+    {
+      "offset": 7489,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "すると、萌先輩は突然、キスの味がどうのこう\nの言ってきたのだ。レモンの味……？",
+      "en": "All of a sudden, Moe-sempai started asking me about the\nflavor of a kiss. Does it taste like a lemon......?",
+      "text": "All of a sudden, Moe-sempai started asking me about the\nflavor of a kiss. Does it taste like a lemon......?"
+    },
+    {
+      "offset": 7592,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "レモンの味は……しない。",
+      "en": "It doesn't taste like a lemon......",
+      "text": "It doesn't taste like a lemon......"
+    }
+  ],
+  "choices": [],
+  "names": {
+    "564": "Moe",
+    "650": "Moe",
+    "880": "Moe",
+    "1130": "Moe",
+    "1435": "Moe",
+    "1534": "Moe",
+    "1916": "Moe",
+    "2447": "Moe",
+    "2635": "Moe",
+    "2773": "Moe",
+    "2962": "Moe",
+    "3064": "Moe",
+    "3287": "Moe",
+    "3400": "Moe",
+    "3771": "Moe",
+    "3900": "Moe",
+    "4155": "Moe",
+    "4247": "Moe",
+    "4328": "Moe",
+    "4578": "Moe",
+    "4884": "Actress",
+    "5001": "Actress",
+    "5368": "Moe",
+    "5509": "Moe",
+    "5725": "Moe",
+    "5802": "Moe",
+    "5953": "Moe",
+    "6051": "Moe",
+    "6158": "Moe",
+    "6371": "Moe",
+    "6598": "Moe",
+    "6878": "Moe"
+  }
+}

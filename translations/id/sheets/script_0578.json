@@ -1,0 +1,615 @@
+{
+  "scene": "script_0578.obj",
+  "dialogues": [
+    {
+      "offset": 207,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "珍しい人から電話がかかってきた。",
+      "en": "I received a call from someone I never expected.",
+      "text": "I received a call from someone I never expected."
+    },
+    {
+      "offset": 244,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "最初は名乗られても、誰のことだかわからなかっ\nた。",
+      "en": "If he didn't introduce himself at first, I wouldn't have\nknown who he was.",
+      "text": "If he didn't introduce himself at first, I wouldn't have\nknown who he was."
+    },
+    {
+      "offset": 311,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "『はい、月城の瀬場、でございます』",
+      "en": "\"Oh, this is Seiba, servant of the Tsukishiro family.\"",
+      "text": "\"Oh, this is Seiba, servant of the Tsukishiro family.\""
+    },
+    {
+      "offset": 352,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「ああ、瀬場さんか……」",
+      "en": "\"Ahh, Seiba-san...\"",
+      "text": "\"Ahh, Seiba-san...\""
+    },
+    {
+      "offset": 383,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺におっさんの知り合いなんていたっけと、本\n気で考えてしまった。",
+      "en": "I was thinking of all the old guys I knew, trying to place\nthe voice.",
+      "text": "I was thinking of all the old guys I knew, trying to place\nthe voice."
+    },
+    {
+      "offset": 464,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "『もし、お時間がございましたら、遊びにいらっ\n　しゃいませんか？』",
+      "en": "\"If you are not busy, would you mind coming over?\"",
+      "text": "\"If you are not busy, would you mind coming over?\""
+    },
+    {
+      "offset": 536,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「月城の家に？　彼女、少しは元気になりまし\n　たか？」",
+      "en": "\"To Tsukishiro's place? Has she gotten better?\"",
+      "text": "\"To Tsukishiro's place? Has she gotten better?\""
+    },
+    {
+      "offset": 607,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "『体調の方は、もうすっかりよくなられました。\n　しかし、やはり、まだ落ち込んでいらっしゃ\n　るようです』",
+      "en": "\"The mistress's physical condition has returned to normal.\nHowever, her mood is still one of depression.\"",
+      "text": "\"The mistress's physical condition has returned to normal.\nHowever, her mood is still one of depression.\""
+    },
+    {
+      "offset": 716,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「そうですか……」",
+      "en": "\"I see.\"",
+      "text": "\"I see.\""
+    },
+    {
+      "offset": 752,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "『そこで、朝倉様に相談があるのです』",
+      "en": "\"I wish to consult Asakura-sama about a matter regarding\nthat.\"",
+      "text": "\"I wish to consult Asakura-sama about a matter regarding\nthat.\""
+    },
+    {
+      "offset": 795,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「俺に、相談？」",
+      "en": "\"Consult, with me?\"",
+      "text": "\"Consult, with me?\""
+    },
+    {
+      "offset": 829,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "『はい……。できれば、天枷様や杉並様にも来\n　ていただいて……』",
+      "en": "\"Yes... if you could come with Amakase-sama, and\nSuginami-sama...\"",
+      "text": "\"Yes... if you could come with Amakase-sama, and\nSuginami-sama...\""
+    },
+    {
+      "offset": 899,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「美春はともかく、杉並はちょっと……」",
+      "en": "\"I've no problems with Miharu, but Suginami is a little...\"",
+      "text": "\"I've no problems with Miharu, but Suginami is a little...\""
+    },
+    {
+      "offset": 955,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "『いえいえ、杉並様は朝倉様が思っていらっしゃ\n　るよりずっと色々お考えですよ』",
+      "en": "\"Oh, it would be no problem at all. I know Suginami-sama is\nalways thinking of ways to help you.\"",
+      "text": "\"Oh, it would be no problem at all. I know Suginami-sama is\nalways thinking of ways to help you.\""
+    },
+    {
+      "offset": 1039,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「そうですかぁ？　俺にはそうは思えませんが」",
+      "en": "\"You think so? Because I sure don't.\"",
+      "text": "\"You think so? Because I sure don't.\""
+    },
+    {
+      "offset": 1101,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "『わかるのですよ』",
+      "en": "\"I understand.\"",
+      "text": "\"I understand.\""
+    },
+    {
+      "offset": 1126,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "受話器の向こうで、瀬場さんが心なしか笑って\nいるような気がした。",
+      "en": "I heard him chuckling merrily on the other side.",
+      "text": "I heard him chuckling merrily on the other side."
+    },
+    {
+      "offset": 1207,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "『あのお方とは、同じ｛・・／匂い｝がいたしますので』",
+      "en": "\"We have the same kind of... shall I say, scent, after all.\"",
+      "text": "\"We have the same kind of... shall I say, scent, after all.\""
+    },
+    {
+      "offset": 1266,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「そうですか……。じゃあ、後ほどお供を連れ\n　てお伺いします」",
+      "en": "\"I see... in any case, I'd bring my companions over.\"",
+      "text": "\"I see... in any case, I'd bring my companions over.\""
+    },
+    {
+      "offset": 1345,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "『お願いします』",
+      "en": "\"Please do.\"",
+      "text": "\"Please do.\""
+    },
+    {
+      "offset": 1396,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しばらくして、お供の連中が、うちに集まった。",
+      "en": "I quickly gathered my fellow companions.",
+      "text": "I quickly gathered my fellow companions."
+    },
+    {
+      "offset": 1507,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「美春……。お前なぁ、察しろよ」",
+      "en": "\"Miharu... what's your opinion on this?\"",
+      "text": "\"Miharu... what's your opinion on this?\""
+    },
+    {
+      "offset": 1574,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「え？　何をですか？」",
+      "en": "\"Eh? Opinion on what?\"",
+      "text": "\"Eh? Opinion on what?\""
+    },
+    {
+      "offset": 1603,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「杉並は、無理に連れてこなくていいからなっ\n　て言っただろ？」",
+      "en": "\"Would it be unreasonable to not tell Suginami about this?\"",
+      "text": "\"Would it be unreasonable to not tell Suginami about this?\""
+    },
+    {
+      "offset": 1710,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「はあ、だって、杉並先輩はすぐ掴まりました\n　から」",
+      "en": "\"Huh, but, isn't he coming very soon?\"",
+      "text": "\"Huh, but, isn't he coming very soon?\""
+    },
+    {
+      "offset": 1768,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「だから、察しろっつってんだ」",
+      "en": "\"That's why I'm asking you now.\"",
+      "text": "\"That's why I'm asking you now.\""
+    },
+    {
+      "offset": 1833,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「だって……、外に出たら杉並先輩が、既に待っ\n　てるんですもん」",
+      "en": "\"But... he's already left his home, it's too late to reverse\nit now...\"",
+      "text": "\"But... he's already left his home, it's too late to reverse\nit now...\""
+    },
+    {
+      "offset": 1931,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「セバスチャンのお呼びとあらば、行かない訳\n　にはいくまい」",
+      "en": "\"And since Sebastian has called for me, there is no reason\nwhy I should not go.\"",
+      "text": "\"And since Sebastian has called for me, there is no reason\nwhy I should not go.\""
+    },
+    {
+      "offset": 1997,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……なんで、俺が美春に電話をした時点で知っ\n　てるんだよ」",
+      "en": "\"...Just how did you know the time Miharu and I agreed\nupon?\"",
+      "text": "\"...Just how did you know the time Miharu and I agreed\nupon?\""
+    },
+    {
+      "offset": 2102,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ほら、セバスチャンが待っているんだろう？\n　さっさと行こう」",
+      "en": "\"Hey, Sebastian is waiting for us, is he not? Let's hurry.\"",
+      "text": "\"Hey, Sebastian is waiting for us, is he not? Let's hurry.\""
+    },
+    {
+      "offset": 2170,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並が、俺の肩をポンと叩いた。",
+      "en": "Suginami slapped me on the back.",
+      "text": "Suginami slapped me on the back."
+    },
+    {
+      "offset": 2243,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、俺達は月城邸を訪ねた。",
+      "en": "We then headed towards the Tsukishiro Mansion.",
+      "text": "We then headed towards the Tsukishiro Mansion."
+    },
+    {
+      "offset": 2278,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "瀬場さんは俺達を温かく迎えてくれたが、月城\n本人は外出していないということだった。",
+      "en": "As usual, Seiba-san was there to greet us warmly at the\nentrance. There was neither sight nor sound of Tsukishiro\nherself, though.",
+      "text": "As usual, Seiba-san was there to greet us warmly at the\nentrance. There was neither sight nor sound of Tsukishiro\nherself, though."
+    },
+    {
+      "offset": 2421,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「ようこそ、皆様」",
+      "en": "\"Welcome, everyone.\"",
+      "text": "\"Welcome, everyone.\""
+    },
+    {
+      "offset": 2446,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "瀬場さんは、相変わらずにっこりと笑って、部\n屋に案内してくれる。",
+      "en": "Seiba-san, with his usual wide smile, led us to the living\nroom.",
+      "text": "Seiba-san, with his usual wide smile, led us to the living\nroom."
+    },
+    {
+      "offset": 2514,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつもおいしいお茶を淹れてくれるのだが、は\nたして瀬場さん本人が淹れてるのだろうか。",
+      "en": "He then served us some delicious tea, as always. It seems he\nmakes it himself.",
+      "text": "He then served us some delicious tea, as always. It seems he\nmakes it himself."
+    },
+    {
+      "offset": 2602,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いちおう、他にも使用人がいるらしいのだが、\n未だに見たことはない。",
+      "en": "There's apparently other servants around, but the only one\nI've seen has been Seiba-san.",
+      "text": "There's apparently other servants around, but the only one\nI've seen has been Seiba-san."
+    },
+    {
+      "offset": 2707,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「それで、俺達にお願いというのは？」",
+      "en": "\"So, you have a request for us?\"",
+      "text": "\"So, you have a request for us?\""
+    },
+    {
+      "offset": 2750,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並が嬉しそうに、身を乗り出す。",
+      "en": "Suginami was leaning forward in his seat, enjoying the\nmoment.",
+      "text": "Suginami was leaning forward in his seat, enjoying the\nmoment."
+    },
+    {
+      "offset": 2822,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「はい、皆様にお願いというのは、他でもあり\n　ません」",
+      "en": "\"Yes. I cannot call it as anything less than a request.\"",
+      "text": "\"Yes. I cannot call it as anything less than a request.\""
+    },
+    {
+      "offset": 2882,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "瀬場さんが、順番に俺達の顔を眺める。",
+      "en": "Seiba-san looked at each of us in turn, and continued to\nspeak.",
+      "text": "Seiba-san looked at each of us in turn, and continued to\nspeak."
+    },
+    {
+      "offset": 2936,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「実はですね、今月の２７日が、お嬢様のお誕\n　生日なのでございます」",
+      "en": "\"The mistress's birthday will be on the 27th of the current\nmonth.\"",
+      "text": "\"The mistress's birthday will be on the 27th of the current\nmonth.\""
+    },
+    {
+      "offset": 3010,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「月城の、誕生日」",
+      "en": "\"Tsukishiro's, birthday...\"",
+      "text": "\"Tsukishiro's, birthday...\""
+    },
+    {
+      "offset": 3082,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「へぇー」",
+      "en": "\"He-eh...\"",
+      "text": "\"He-eh...\""
+    },
+    {
+      "offset": 3127,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「なるほど」",
+      "en": "\"I see.\"",
+      "text": "\"I see.\""
+    },
+    {
+      "offset": 3146,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そういうことか。",
+      "en": "I get it now.",
+      "text": "I get it now."
+    },
+    {
+      "offset": 3205,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「さすが皆様。お察しの通りでございます。ぜ\n　ひパーティーにいらっしゃってくださいませ\n　んか？」",
+      "en": "\"As expected, it would be easy to guess by now. Everyone\nwould attend the party, certainly?\"",
+      "text": "\"As expected, it would be easy to guess by now. Everyone\nwould attend the party, certainly?\""
+    },
+    {
+      "offset": 3308,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「もちろん」",
+      "en": "\"Definitely.\"",
+      "text": "\"Definitely.\""
+    },
+    {
+      "offset": 3360,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「美春は、得意のバナナクッキーを作ってきま\n　すよ！」",
+      "en": "\"I'd make my speciality for the party; my banana cake!\"",
+      "text": "\"I'd make my speciality for the party; my banana cake!\""
+    },
+    {
+      "offset": 3453,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「お嬢様も皆様に祝っていただければ、きっと\n　元気になられると思うのです」",
+      "en": "\"I believe the mistress will cheer up by celebrating her\nbirthday with everyone.\"",
+      "text": "\"I believe the mistress will cheer up by celebrating her\nbirthday with everyone.\""
+    },
+    {
+      "offset": 3533,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "瀬場さんは、苦笑気味に笑いながらそう言った。",
+      "en": "Seiba-san's smile seemed to have a tinge of sadness to it.",
+      "text": "Seiba-san's smile seemed to have a tinge of sadness to it."
+    },
+    {
+      "offset": 3631,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ふむ、そうと決まれば、ひとつ暴れてみるか」",
+      "en": "\"Hm, since the both of you have agreed, perhaps I should be\nthe sole, violent doubter.\"",
+      "text": "\"Hm, since the both of you have agreed, perhaps I should be\nthe sole, violent doubter.\""
+    },
+    {
+      "offset": 3710,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「……そういうものじゃありませんッ！」",
+      "en": "\"...There will be no such thing!\"",
+      "text": "\"...There will be no such thing!\""
+    },
+    {
+      "offset": 3755,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ったく、お前はおとなしくしてろっての」",
+      "en": "\"Sheesh, can't you just be normal for once...\"",
+      "text": "\"Sheesh, can't you just be normal for once...\""
+    },
+    {
+      "offset": 3838,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「きっと皆様なら、お嬢様に笑顔を取り戻して\n　いただけると信じております」",
+      "en": "\"I truly believe that with the help of everyone, a smile\nwill return to the mistress's face.\"",
+      "text": "\"I truly believe that with the help of everyone, a smile\nwill return to the mistress's face.\""
+    },
+    {
+      "offset": 3918,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "瀬場さんは、俺達に向かって深くお辞儀をした。",
+      "en": "Seiba-san bowed deeply in front of all of us.",
+      "text": "Seiba-san bowed deeply in front of all of us."
+    },
+    {
+      "offset": 3980,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「お嬢様が初音島へいらしてから、私はお嬢様\n　の笑顔らしい笑顔を見たことがありません」",
+      "en": "\"Since the mistress started residing in Hatsunejima, I have\nnever seen a truly happy smile from her.\"",
+      "text": "\"Since the mistress started residing in Hatsunejima, I have\nnever seen a truly happy smile from her.\""
+    },
+    {
+      "offset": 4083,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「お願いです。どうかアリスお嬢様にもう一度\n　笑顔を……」",
+      "en": "\"This is my request. Please, somehow let the mistress,\nAlice, smile once more...\"",
+      "text": "\"This is my request. Please, somehow let the mistress,\nAlice, smile once more...\""
+    },
+    {
+      "offset": 4147,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「瀬場さん、俺だって月城には笑って欲しいと\n　思ってる。だから、そんな頭なんて下げない\n　でください」",
+      "en": "\"Seiba-san, I want to see Tsukishiro's smile as well. Please\ndon't lower yourself at us like that.\"",
+      "text": "\"Seiba-san, I want to see Tsukishiro's smile as well. Please\ndon't lower yourself at us like that.\""
+    },
+    {
+      "offset": 4287,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「そうですよ。美春達は、別に誰かのためにこ\n　こへ来てる訳じゃないんですから。ただ、月\n　城さんと仲良くしたいだけなんですから」",
+      "en": "\"That's right! I didn't come here for anybody's sake. I just\nwant to be friends with Tsukishiro-san!\"",
+      "text": "\"That's right! I didn't come here for anybody's sake. I just\nwant to be friends with Tsukishiro-san!\""
+    },
+    {
+      "offset": 4453,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「こんな面白いネタ、放っておける訳ないじゃ\n　ないか」",
+      "en": "\"With such an appetizing setup for mischief, there is no way\nI would refuse.\"",
+      "text": "\"With such an appetizing setup for mischief, there is no way\nI would refuse.\""
+    },
+    {
+      "offset": 4513,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……お前は黙ってろ」",
+      "en": "\"...You keep quiet.\"",
+      "text": "\"...You keep quiet.\""
+    },
+    {
+      "offset": 4542,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "せっかくいい雰囲気だったってのに、相変わら\nずろくでもないことを言うヤツだ。",
+      "en": "This idiot knows nothing whatsoever about moods.",
+      "text": "This idiot knows nothing whatsoever about moods."
+    },
+    {
+      "offset": 4622,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "未だに杉並の真意は見えてこない。",
+      "en": "It's never easy to read his real intentions...",
+      "text": "It's never easy to read his real intentions..."
+    },
+    {
+      "offset": 4694,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「皆様、ありがとうございます。当日は心を込\n　めてお迎えさせて頂きます」",
+      "en": "\"Thank you very much, everyone. On the day, I will greet you\nall with open arms.\"",
+      "text": "\"Thank you very much, everyone. On the day, I will greet you\nall with open arms.\""
+    },
+    {
+      "offset": 4772,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "瀬場さんは、ようやくいつもの瀬場さんらしい\nおおらかな笑顔を見せてくれた。",
+      "en": "Seiba-san finally showed one of the wide smiles, that made\nhim who he is.",
+      "text": "Seiba-san finally showed one of the wide smiles, that made\nhim who he is."
+    },
+    {
+      "offset": 4850,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "２７日は月城の誕生日か……。プレゼントはな\nにをあげたら、喜んでくれるかな。",
+      "en": "The 27th is Tsukishiro's birthday... I wonder what present\nwould be good for her.",
+      "text": "The 27th is Tsukishiro's birthday... I wonder what present\nwould be good for her."
+    },
+    {
+      "offset": 5034,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆セバスチャンのお願い◆",
+      "en": "◆Sebastian's Request◆",
+      "text": "◆Sebastian's Request◆"
+    },
+    {
+      "offset": 5089,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "珍しく、俺と美春と杉並は、瀬場さんに話があ\nるからと、月城邸に呼ばれた。",
+      "en": "Surprisingly, it was Seiba-san who called Miharu, Suginami\nand myself to meet with him.",
+      "text": "Surprisingly, it was Seiba-san who called Miharu, Suginami\nand myself to meet with him."
+    },
+    {
+      "offset": 5165,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いったいどんな用事なのかと思っていると、ど\nうやら、今月の２７日が月城の誕生日だから、\n祝って欲しいというのだった。",
+      "en": "We found out just what he had in mind; the 27th of this\nmonth is Tsukishiro's birthday, and he wanted us all to\ncelebrate it together.",
+      "text": "We found out just what he had in mind; the 27th of this\nmonth is Tsukishiro's birthday, and he wanted us all to\ncelebrate it together."
+    },
+    {
+      "offset": 5284,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺達は、それで月城が元気になるなら、と喜ん\nで引き受けるのだった。",
+      "en": "We happily accepted, hoping Tsukishiro would feel better\nfrom it.",
+      "text": "We happily accepted, hoping Tsukishiro would feel better\nfrom it."
+    },
+    {
+      "offset": 5354,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さて、どんな誕生日パーティーになるのか、\nちょっと楽しみだ。",
+      "en": "Whatever kind of party it'd be, I'm sure it'd be fun.",
+      "text": "Whatever kind of party it'd be, I'm sure it'd be fun."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "303": "Seiba",
+    "456": "Seiba",
+    "599": "Seiba",
+    "744": "Seiba",
+    "821": "Seiba",
+    "947": "Seiba",
+    "1093": "Seiba",
+    "1199": "Seiba",
+    "1337": "Seiba",
+    "1566": "Miharu",
+    "1702": "Miharu",
+    "1825": "Miharu",
+    "1923": "Suginami",
+    "2094": "Suginami",
+    "2413": "Seiba",
+    "2699": "Suginami",
+    "2814": "Seiba",
+    "2928": "Seiba",
+    "3074": "Miharu",
+    "3119": "Suginami",
+    "3197": "Seiba",
+    "3352": "Miharu",
+    "3445": "Seiba",
+    "3623": "Suginami",
+    "3702": "Miharu",
+    "3830": "Seiba",
+    "3972": "Seiba",
+    "4075": "Seiba",
+    "4279": "Miharu",
+    "4445": "Suginami",
+    "4686": "Seiba"
+  }
+}

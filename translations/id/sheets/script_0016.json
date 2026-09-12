@@ -1,0 +1,834 @@
+{
+  "scene": "script_0016.obj",
+  "dialogues": [
+    {
+      "offset": 206,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「おっ｛ち／死｝んじゃえ〜〜〜！！」",
+      "en": "\"Dieee!!\"",
+      "text": "\"Dieee!!\""
+    },
+    {
+      "offset": 249,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "最後の記憶の最初の言葉は｛ばり／罵詈｝｛ぞうごん／雑言｝だった。",
+      "en": "The first words of my last memory of her was rather\nuncomplimentary.",
+      "text": "The first words of my last memory of her was rather\nuncomplimentary."
+    },
+    {
+      "offset": 318,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――と言うか、幼なじみだった、さくらんぼの\n記憶の始まりはいつもこんな感じだ。",
+      "en": "--That is, whenever I think of my childhood friend\nSakuranbo, this is always the first memory that pops up.",
+      "text": "--That is, whenever I think of my childhood friend\nSakuranbo, this is always the first memory that pops up."
+    },
+    {
+      "offset": 400,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ある春の日。",
+      "en": "On that day in Spring.",
+      "text": "On that day in Spring."
+    },
+    {
+      "offset": 417,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "風の強い――春一番が吹いた日。",
+      "en": "The wind was strong-- the strongest of the entire Spring\nseason.",
+      "text": "The wind was strong-- the strongest of the entire Spring\nseason."
+    },
+    {
+      "offset": 452,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "去年から枯れなくなった桜の下で、耳から手を\n離してため息をつく。",
+      "en": "Under the Sakura tree that did not wither the year before, I\nremove my hands from my ears and release a sigh.",
+      "text": "Under the Sakura tree that did not wither the year before, I\nremove my hands from my ears and release a sigh."
+    },
+    {
+      "offset": 522,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……どうしてお前はいつもそうなんだ？」",
+      "en": "\"...Why are you always trying to do that?\"",
+      "text": "\"...Why are you always trying to do that?\""
+    },
+    {
+      "offset": 569,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "出会い頭にぶつからないと気が済まないのか、",
+      "en": "It's like striking your head against a brick wall to break\nit...",
+      "text": "It's like striking your head against a brick wall to break\nit..."
+    },
+    {
+      "offset": 616,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "実はこれが挨拶なのかな……？",
+      "en": "Or is this her form of greeting the tree?",
+      "text": "Or is this her form of greeting the tree?"
+    },
+    {
+      "offset": 649,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日の夕方には引っ越しして、いなくなってし\nまう少女は、なんの理由もなく怒っていた。",
+      "en": "The girl, after tonight, will be moving far away. Yet she\nremained glaring at the tree, angry for no discernable\nreason.",
+      "text": "The girl, after tonight, will be moving far away. Yet she\nremained glaring at the tree, angry for no discernable\nreason."
+    },
+    {
+      "offset": 737,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "金属バットで肩を叩きながら俺は首をかしげる。",
+      "en": "I rest my head on the metal bat on my shoulder.",
+      "text": "I rest my head on the metal bat on my shoulder."
+    },
+    {
+      "offset": 824,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「ところでお兄ちゃん。なんでバットなんて持っ\n　てるの？」",
+      "en": "\"By the way onii-chan, why are you carrying a bat around?\"",
+      "text": "\"By the way onii-chan, why are you carrying a bat around?\""
+    },
+    {
+      "offset": 888,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「……いいかげんお兄ちゃんって呼ぶなよ」",
+      "en": "\"...Stop calling me onii-chan already.\"",
+      "text": "\"...Stop calling me onii-chan already.\""
+    },
+    {
+      "offset": 971,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「なんで？　音夢ちゃんはお兄ちゃんって呼ん\n　でるもん」",
+      "en": "\"Why not? Nemu-chan always calls you that!\"",
+      "text": "\"Why not? Nemu-chan always calls you that!\""
+    },
+    {
+      "offset": 1033,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「音夢は俺の妹になったんだ」",
+      "en": "\"She's actually my sister.\"",
+      "text": "\"She's actually my sister.\""
+    },
+    {
+      "offset": 1083,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「ボクは最初から｛いとこ／従姉｝だもん！」",
+      "en": "\"And I'm your first cousin!\"",
+      "text": "\"And I'm your first cousin!\""
+    },
+    {
+      "offset": 1132,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「従姉で誕生日が先だから、お前の方がお姉ちゃ\n　んになるんだって……」",
+      "en": "\"Since your birthday comes first, I should be calling you\nonee-chan instead...\"",
+      "text": "\"Since your birthday comes first, I should be calling you\nonee-chan instead...\""
+    },
+    {
+      "offset": 1208,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "これ以上、妹が増えたって面倒だ。",
+      "en": "Looks like the number of little sisters I have is\nincreasing.",
+      "text": "Looks like the number of little sisters I have is\nincreasing."
+    },
+    {
+      "offset": 1245,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "世の中には１ダースも妹がいる奴もいるって話\nだけど。",
+      "en": "Even if I had one dozen little sisters, I bet she'd still\ninsist on being one.",
+      "text": "Even if I had one dozen little sisters, I bet she'd still\ninsist on being one."
+    },
+    {
+      "offset": 1339,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「嫌だよお兄ちゃんのお姉さんなんて……ボク\n　のことも守ってよ」",
+      "en": "\"I don't want you calling me onee-chan... you're always the\none protecting me after all.\"",
+      "text": "\"I don't want you calling me onee-chan... you're always the\none protecting me after all.\""
+    },
+    {
+      "offset": 1409,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "従姉の少女が肩を落とす。小さすぎて、最後に\n何を言ったのか聞こえなかった。",
+      "en": "My cousin's shoulders dropped. Her muttered words after were\ninaudible to me.",
+      "text": "My cousin's shoulders dropped. Her muttered words after were\ninaudible to me."
+    },
+    {
+      "offset": 1489,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「名前はいいよ、何回言っても直らないんだか\n　ら」",
+      "en": "\"Well, whatever. No matter how many times I tell you to, you\nwon't stop anyway.\"",
+      "text": "\"Well, whatever. No matter how many times I tell you to, you\nwon't stop anyway.\""
+    },
+    {
+      "offset": 1545,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、バットはこれのせい」",
+      "en": "\"And, I brought a bat because of this.\"",
+      "text": "\"And, I brought a bat because of this.\""
+    },
+    {
+      "offset": 1578,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は時代がかった“果たし状”と書かれた、段々\n折りの紙を開いた。",
+      "en": "I showed her an envelope with \"fight challenge\" written on\nit, then opened it and read it aloud.",
+      "text": "I showed her an envelope with \"fight challenge\" written on\nit, then opened it and read it aloud."
+    },
+    {
+      "offset": 1648,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「本日午後三時、枯れずの桜の下に来られたし。\n　約束違うることあらば、家人の命は亡きもの\n　と思え……」",
+      "en": "\"Be at the dead sakura tree at 3 PM today. If you don't\nappear, you will see your family members dead....\"",
+      "text": "\"Be at the dead sakura tree at 3 PM today. If you don't\nappear, you will see your family members dead....\""
+    },
+    {
+      "offset": 1757,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "必死に国語辞典をひきながら、意味を理解する\nのに１５分もかかった代物だ。",
+      "en": "The definition of desperation, threatening innocents' lives.\nHaving understood the situation, I got there 15 minutes\nearly.",
+      "text": "The definition of desperation, threatening innocents' lives.\nHaving understood the situation, I got there 15 minutes\nearly."
+    },
+    {
+      "offset": 1835,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「引っ越しをするから、ついに俺と決着をつけ\n　ようと思ったんじゃないのか？」",
+      "en": "\"Since you're moving away, I suppose you wanted to have a\n\"final confrontation\" of sorts?\"",
+      "text": "\"Since you're moving away, I suppose you wanted to have a\n\"final confrontation\" of sorts?\""
+    },
+    {
+      "offset": 1932,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「どうしてそう思うのよ……」",
+      "en": "\"Why do you think that...\"",
+      "text": "\"Why do you think that...\""
+    },
+    {
+      "offset": 1967,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「これを読んで、それ以外になにを思うんだ\n　よ……」",
+      "en": "\"From reading this, it's hard to think otherwise.\"",
+      "text": "\"From reading this, it's hard to think otherwise.\""
+    },
+    {
+      "offset": 2040,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「とっても大事なことは、そー書くと絶対大丈\n　夫だって時代劇でやってたよ」",
+      "en": "\"Since it's such a huge thing, I copied that from a play I\nread once.\"",
+      "text": "\"Since it's such a huge thing, I copied that from a play I\nread once.\""
+    },
+    {
+      "offset": 2120,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「その後の展開まで、ちゃんと見てるのか、お\n　前……」",
+      "en": "\"And just look at how you've made things...\"",
+      "text": "\"And just look at how you've made things...\""
+    },
+    {
+      "offset": 2180,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "おじいちゃん子だったコイツは、なんだか時代\n劇とか｛・・・・・／ニンキョー｝とかの言葉をよく使う。",
+      "en": "\"How on earth did my uncle's daughter get such... words,\nfrom a play...",
+      "text": "\"How on earth did my uncle's daughter get such... words,\nfrom a play..."
+    },
+    {
+      "offset": 2284,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「それで、どうしたって？」",
+      "en": "\"Anyway, why?\"",
+      "text": "\"Anyway, why?\""
+    },
+    {
+      "offset": 2332,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「……ボク引っ越しするんだ」",
+      "en": "\"...You know I'm moving.\"",
+      "text": "\"...You know I'm moving.\""
+    },
+    {
+      "offset": 2367,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「｛・・・・／あめりか｝に行くんだよな」",
+      "en": "\"...To America, right?\"",
+      "text": "\"...To America, right?\""
+    },
+    {
+      "offset": 2429,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「うん。だから……もう２度と会えないかも知\n　れないから、約束して欲しいんだ……」",
+      "en": "\"Yeah. That's why... I don't know when we'd be able to meet\nagain, so I want you to make a promise to me.\"",
+      "text": "\"Yeah. That's why... I don't know when we'd be able to meet\nagain, so I want you to make a promise to me.\""
+    },
+    {
+      "offset": 2517,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「そんなことしなくても。寂しくなったら会い\n　に行くから」",
+      "en": "\"Not true. If you're lonely, I'd go and keep you company.\"",
+      "text": "\"Not true. If you're lonely, I'd go and keep you company.\""
+    },
+    {
+      "offset": 2581,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はけっこう適当に頷いた。",
+      "en": "I vigourously nod my head.",
+      "text": "I vigourously nod my head."
+    },
+    {
+      "offset": 2612,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その日は、音夢がいなくなってしまった日で――",
+      "en": "On that day, Nemu was nowhere to be found--",
+      "text": "On that day, Nemu was nowhere to be found--"
+    },
+    {
+      "offset": 2661,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺も、本当はここに来るつもりはなかったの\nだ……。",
+      "en": "and my real reason to come here was lost.",
+      "text": "and my real reason to come here was lost."
+    },
+    {
+      "offset": 2715,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢が――妹がいなくなって……もしかしたら、\nさくらんぼと仲の良かったアイツも呼ばれたの\nかと思ったのだ。",
+      "en": "If Nemu--my little sister did not exist... maybe I would be\nmore comfortable with her calling me that.",
+      "text": "If Nemu--my little sister did not exist... maybe I would be\nmore comfortable with her calling me that."
+    },
+    {
+      "offset": 2841,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「ひとりで飛行機に乗って？」",
+      "en": "\"You can board an aeroplane by yourself?\"",
+      "text": "\"You can board an aeroplane by yourself?\""
+    },
+    {
+      "offset": 2876,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「え！？　｛・・・・／あめりか｝って電車でいけるところじゃ\n　ないのか？」",
+      "en": "\"Ehh!? Can't you reach America by train?\"",
+      "text": "\"Ehh!? Can't you reach America by train?\""
+    },
+    {
+      "offset": 2971,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2990,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「…………あれ？　無理？」",
+      "en": "\"......Eh? No way?\"",
+      "text": "\"......Eh? No way?\""
+    },
+    {
+      "offset": 3059,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「大バカ」",
+      "en": "\"You big idiot.\"",
+      "text": "\"You big idiot.\""
+    },
+    {
+      "offset": 3076,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目がウルウルとしていて、俺の心も急にドキド\nキしだした。",
+      "en": "Her eyes started to tear up, and my heart started beating\nfaster.",
+      "text": "Her eyes started to tear up, and my heart started beating\nfaster."
+    },
+    {
+      "offset": 3136,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "コイツともう会えない？",
+      "en": "I can't meet her anymore?",
+      "text": "I can't meet her anymore?"
+    },
+    {
+      "offset": 3163,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いなくなってしまう。",
+      "en": "She won't be here anymore.",
+      "text": "She won't be here anymore."
+    },
+    {
+      "offset": 3188,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それは、音夢の両親が死んだことと、何の違い\nがあるんだろう――。",
+      "en": "It's not much different from when Nemu's parents died--",
+      "text": "It's not much different from when Nemu's parents died--"
+    },
+    {
+      "offset": 3256,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "痛いドキドキに、音夢のことをバカにしていた\n自分が、凄く嫌な奴だと思った。",
+      "en": "My heard throbbed painfully, and I berated myself for\nremembering that subject again.",
+      "text": "My heard throbbed painfully, and I berated myself for\nremembering that subject again."
+    },
+    {
+      "offset": 3372,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「だから、ボクと約束して……この桜の下で」",
+      "en": "\"That's why I want you to make a promise with me, under this\nsakura tree.\"",
+      "text": "\"That's why I want you to make a promise with me, under this\nsakura tree.\""
+    },
+    {
+      "offset": 3421,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「……もう１度会えるように？」",
+      "en": "\"...That we'd meet again?\"",
+      "text": "\"...That we'd meet again?\""
+    },
+    {
+      "offset": 3473,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「……うん」",
+      "en": "\"...Yeah.\"",
+      "text": "\"...Yeah.\""
+    },
+    {
+      "offset": 3522,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は目を閉じて呟いた。",
+      "en": "I closed my eyes and murmured quietly.",
+      "text": "I closed my eyes and murmured quietly."
+    },
+    {
+      "offset": 3551,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「約束する……」",
+      "en": "\"I promise...\"",
+      "text": "\"I promise...\""
+    },
+    {
+      "offset": 3574,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「絶対に、俺とお前はまた会える」",
+      "en": "\"...That definitely, we'd meet again.\"",
+      "text": "\"...That definitely, we'd meet again.\""
+    },
+    {
+      "offset": 3613,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……絶対に会う」",
+      "en": "\"...I promise.\"",
+      "text": "\"...I promise.\""
+    },
+    {
+      "offset": 3653,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「…………会える」",
+      "en": "\"...I promise.\"",
+      "text": "\"...I promise.\""
+    },
+    {
+      "offset": 3707,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目を開けると、さくらんぼがしおらしく俯いて\nいた。",
+      "en": "As I opened my eyes, Sakuranbo still had her head down.",
+      "text": "As I opened my eyes, Sakuranbo still had her head down."
+    },
+    {
+      "offset": 3763,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「手紙も書くし、電話もするよ」",
+      "en": "\"I can still write letters and call you.\"",
+      "text": "\"I can still write letters and call you.\""
+    },
+    {
+      "offset": 3815,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「うん……」",
+      "en": "\"Yea...\"",
+      "text": "\"Yea...\""
+    },
+    {
+      "offset": 3834,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「向こういったら少しは大人しくしろよ。また\n　いじめられても、今度は助けられないからな」",
+      "en": "\"Grow up fast when you get there. If you get bullied again,\nI can't save you this time.\"",
+      "text": "\"Grow up fast when you get there. If you get bullied again,\nI can't save you this time.\""
+    },
+    {
+      "offset": 3943,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「大人しくしたって無理だよー。背がちっちゃ\n　いからいじめられるんだもん……」",
+      "en": "\"I can't grow up so fast~... besides, they don't usually\ntease me about my height...\"",
+      "text": "\"I can't grow up so fast~... besides, they don't usually\ntease me about my height...\""
+    },
+    {
+      "offset": 4027,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は言葉遣いと手癖の悪さだと思うけど……。",
+      "en": "She misunderstood what I said...",
+      "text": "She misunderstood what I said..."
+    },
+    {
+      "offset": 4074,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まぁ、さくらんぼをいじめている男子は、本当\nはコイツのことが好きなんだけどな……。",
+      "en": "Well, if she gets teased by guys, that usually means they\nlike her anyway...",
+      "text": "Well, if she gets teased by guys, that usually means they\nlike her anyway..."
+    },
+    {
+      "offset": 4198,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「……あとふたつ約束してくれないかなぁ？」",
+      "en": "\"...Can I get a second promise?\"",
+      "text": "\"...Can I get a second promise?\""
+    },
+    {
+      "offset": 4247,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「ふたつも？」",
+      "en": "\"Another one?\"",
+      "text": "\"Another one?\""
+    },
+    {
+      "offset": 4304,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「ボクが本当に困ったときは、助けにきて……」",
+      "en": "\"When I'm really in trouble, come save me...\"",
+      "text": "\"When I'm really in trouble, come save me...\""
+    },
+    {
+      "offset": 4355,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 4374,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらが泣いているのをはじめて見た。",
+      "en": "Sakura finally started crying.",
+      "text": "Sakura finally started crying."
+    },
+    {
+      "offset": 4415,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いっつもいじめられていて、俺が守ってやって、\nそれでも強気に振る舞っていたのに。",
+      "en": "Although she was always bullied, since I was protecting her,\nshe was able to hold on...",
+      "text": "Although she was always bullied, since I was protecting her,\nshe was able to hold on..."
+    },
+    {
+      "offset": 4499,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当に、お別れなんだなって思った。",
+      "en": "I honestly don't know what'd happen when I'm not there.",
+      "text": "I honestly don't know what'd happen when I'm not there."
+    },
+    {
+      "offset": 4540,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……それは約束しない」",
+      "en": "\"...I won't promise that.\"",
+      "text": "\"...I won't promise that.\""
+    },
+    {
+      "offset": 4586,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「え？」",
+      "en": "\"Eh?\"",
+      "text": "\"Eh?\""
+    },
+    {
+      "offset": 4601,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「約束しなくても助ける。約束なんてしなくて\n　いい」",
+      "en": "\"I don't need a promise to save you. I'd do it without one.\"",
+      "text": "\"I don't need a promise to save you. I'd do it without one.\""
+    },
+    {
+      "offset": 4695,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「……うん。あっがとうお兄ちゃん」",
+      "en": "\"...okay. T-thank you, onii-chan.\"",
+      "text": "\"...okay. T-thank you, onii-chan.\""
+    },
+    {
+      "offset": 4736,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "舌足らずに微笑む。",
+      "en": "Stuttering a bit, but at least smiling.",
+      "text": "Stuttering a bit, but at least smiling."
+    },
+    {
+      "offset": 4759,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は少女の手をとって、ぼとぼとと、ありった\nけの和菓子を手の上に産み落とした。",
+      "en": "I show her my hand, and after a bit of movement, make a\nwagashi appear from it.",
+      "text": "I show her my hand, and after a bit of movement, make a\nwagashi appear from it."
+    },
+    {
+      "offset": 4843,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お土産」",
+      "en": "\"Here, a present.\"",
+      "text": "\"Here, a present.\""
+    },
+    {
+      "offset": 4875,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「ありがとう……やっぱり不思議だね」",
+      "en": "\"Thank you... that's still weird though.\"",
+      "text": "\"Thank you... that's still weird though.\""
+    },
+    {
+      "offset": 4918,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "唯一、俺の力のことを知っているさくらんぼが\n呟く。",
+      "en": "Sakuranbo murmured, the only person on earth who knows about\nmy power.",
+      "text": "Sakuranbo murmured, the only person on earth who knows about\nmy power."
+    },
+    {
+      "offset": 4974,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「もう大丈夫だろ？　そろそろ行かないと、お\n　じさんとおばさんに置いてかれちゃうぞ」",
+      "en": "\"You okay now? If you don't go, grandpa and grandma're going\nto leave you behind.\"",
+      "text": "\"You okay now? If you don't go, grandpa and grandma're going\nto leave you behind.\""
+    },
+    {
+      "offset": 5100,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「――待って！」",
+      "en": "\"--Wait!\"",
+      "text": "\"--Wait!\""
+    },
+    {
+      "offset": 5123,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "桜の花びらの中で、真剣な声が響いた。",
+      "en": "Her voice revberberated through the falling sakura petals.",
+      "text": "Her voice revberberated through the falling sakura petals."
+    },
+    {
+      "offset": 5202,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「あとひとつだけ約束して……」",
+      "en": "\"Promise me one more thing...\"",
+      "text": "\"Promise me one more thing...\""
+    },
+    {
+      "offset": 5239,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「約束なんてしなくても大丈夫だよ」",
+      "en": "\"Whatever it is, I'd do it.\"",
+      "text": "\"Whatever it is, I'd do it.\""
+    },
+    {
+      "offset": 5280,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それでも声は止まらなかった。",
+      "en": "For once, her voice fell silent.",
+      "text": "For once, her voice fell silent."
+    },
+    {
+      "offset": 5330,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「ボクとお兄ちゃんが、もう一度会えたら」",
+      "en": "\"You and me, when we meet again...\"",
+      "text": "\"You and me, when we meet again...\""
+    },
+    {
+      "offset": 5377,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "風が吹いた。",
+      "en": "The wind belew past us.",
+      "text": "The wind belew past us."
+    },
+    {
+      "offset": 5394,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "強い強い風が――。",
+      "en": "A wind getting stronger and stronger.",
+      "text": "A wind getting stronger and stronger."
+    },
+    {
+      "offset": 5417,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一度、その言葉は流れてしまい、さくらんぼが\n深呼吸して唇を噛む。",
+      "en": "As her last words disappeared into the wind, Sakuranbo took\na deep breath and chewed on her lower lip.",
+      "text": "As her last words disappeared into the wind, Sakuranbo took\na deep breath and chewed on her lower lip."
+    },
+    {
+      "offset": 5518,
+      "speaker": "Dream Girl",
+      "speaker_jp": "夢の少女",
+      "jp": "「その時は――」",
+      "en": "\"When that happens--\"",
+      "text": "\"When that happens--\""
+    },
+    {
+      "offset": 5546,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "リリン――",
+      "en": "--*ringring*",
+      "text": "--*ringring*"
+    },
+    {
+      "offset": 5561,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ジジ――",
+      "en": "--*shiishii*",
+      "text": "--*shiishii*"
+    },
+    {
+      "offset": 5574,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鈴の音と、テレビのチャンネルを変えたような\n音がして、視界が白く染まった。",
+      "en": "At the sound of a bell, and another one of a television\nchanging channels, everything went white.",
+      "text": "At the sound of a bell, and another one of a television\nchanging channels, everything went white."
+    },
+    {
+      "offset": 5756,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆さくらとの約束◆",
+      "en": "◆Sakura's Promise◆",
+      "text": "◆Sakura's Promise◆"
+    },
+    {
+      "offset": 5805,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "幼なじみから、おっ｛ち／死｝ね、などと言われた日。",
+      "en": "The day when we were still kids, with the words \"Die!\"\nringing in my ears.",
+      "text": "The day when we were still kids, with the words \"Die!\"\nringing in my ears."
+    },
+    {
+      "offset": 5860,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "アメリカは、電車なんかでは決して行けないく\nらい遠いと知った。さくらが行くアメリカ……。",
+      "en": "I found out that America could not be reached by train. The\nsame America that Sakura was going to...",
+      "text": "I found out that America could not be reached by train. The\nsame America that Sakura was going to..."
+    },
+    {
+      "offset": 5964,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、俺達は、いくつかの約束を交わした\n……。",
+      "en": "So the two of us made promises...",
+      "text": "So the two of us made promises..."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "194": "Dream Girl",
+    "812": "Dream Girl",
+    "959": "Dream Girl",
+    "1071": "Dream Girl",
+    "1327": "Dream Girl",
+    "1920": "Dream Girl",
+    "2028": "Dream Girl",
+    "2320": "Dream Girl",
+    "2417": "Dream Girl",
+    "2829": "Dream Girl",
+    "2959": "Dream Girl",
+    "3047": "Dream Girl",
+    "3360": "Dream Girl",
+    "3461": "Dream Girl",
+    "3641": "Dream Girl",
+    "3803": "Dream Girl",
+    "3931": "Dream Girl",
+    "4186": "Dream Girl",
+    "4292": "Dream Girl",
+    "4574": "Dream Girl",
+    "4683": "Dream Girl",
+    "4863": "Dream Girl",
+    "5088": "Dream Girl",
+    "5190": "Dream Girl",
+    "5318": "Dream Girl",
+    "5506": "Dream Girl"
+  }
+}

@@ -1,0 +1,740 @@
+{
+  "scene": "script_0513.obj",
+  "dialogues": [
+    {
+      "offset": 153,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 166,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "日が暮れるのと同時に、熱気とともに色々なも\nのが夜空に吸い込まれたようだ。",
+      "en": "As the sun went down, excitement and many other feelings\nwere sucked into the dark sky.",
+      "text": "As the sun went down, excitement and many other feelings\nwere sucked into the dark sky."
+    },
+    {
+      "offset": 244,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "終わった――そんな独特の空気。",
+      "en": "Everything was over...... There was a different atmosphere.",
+      "text": "Everything was over...... There was a different atmosphere."
+    },
+    {
+      "offset": 279,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "運動会の後もこんなだったか。",
+      "en": "It was like this after the sports festival too.",
+      "text": "It was like this after the sports festival too."
+    },
+    {
+      "offset": 312,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "悪くはない。……たぶん。",
+      "en": "It's not too bad.",
+      "text": "It's not too bad."
+    },
+    {
+      "offset": 343,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 362,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あれ？　前を歩いてるのって萌先輩なんじゃ\n　……」",
+      "en": "\"Hmm? Isn't that Moe-sempai walking ahead of me?\"",
+      "text": "\"Hmm? Isn't that Moe-sempai walking ahead of me?\""
+    },
+    {
+      "offset": 420,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛ほの／仄｝かに星の光を反射しながら散る桜の中を、本\n校の制服を着た女の子がひとり、歩いていた。",
+      "en": "A girl was walking in the falling petals, wearing the\nuniform from my school.",
+      "text": "A girl was walking in the falling petals, wearing the\nuniform from my school."
+    },
+    {
+      "offset": 522,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「萌先輩ッ！」",
+      "en": "\"Moe-sempai!\"",
+      "text": "\"Moe-sempai!\""
+    },
+    {
+      "offset": 579,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あっ、朝倉くん」",
+      "en": "\"Oh, Asakura-kun.\"",
+      "text": "\"Oh, Asakura-kun.\""
+    },
+    {
+      "offset": 604,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の声に反応して振り返ったのは、やはり萌先\n輩だった。",
+      "en": "The girl who reacted to my voice was indeed Moe-sempai.",
+      "text": "The girl who reacted to my voice was indeed Moe-sempai."
+    },
+    {
+      "offset": 690,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「ご卒業、おめでとうございます」",
+      "en": "\"Congratulations on your graduation.\"",
+      "text": "\"Congratulations on your graduation.\""
+    },
+    {
+      "offset": 729,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ニッコリと微笑む先輩は、建前なんかじゃない、\n本当の笑顔を見せてくれる。",
+      "en": "Her big smile isn't phony but very genuine.",
+      "text": "Her big smile isn't phony but very genuine."
+    },
+    {
+      "offset": 807,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はは、どうも」",
+      "en": "\"Hahaha, thank you.\"",
+      "text": "\"Hahaha, thank you.\""
+    },
+    {
+      "offset": 830,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "先輩と並んだ俺は、ゆっくりと歩き出す。",
+      "en": "I walked next to her and started walking slowly.",
+      "text": "I walked next to her and started walking slowly."
+    },
+    {
+      "offset": 932,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「今日はひとりなんですか？」",
+      "en": "\"Are you alone today?\"",
+      "text": "\"Are you alone today?\""
+    },
+    {
+      "offset": 998,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 1013,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「眞子はどうしたんです？」",
+      "en": "\"Where's Mako?\"",
+      "text": "\"Where's Mako?\""
+    },
+    {
+      "offset": 1046,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "卒業日なんだし、卒パでも一緒だったのに、ど\nうして一緒にいないんだろう？",
+      "en": "They were at the graduation party together. I wonder why\nshe's not here with her.",
+      "text": "They were at the graduation party together. I wonder why\nshe's not here with her."
+    },
+    {
+      "offset": 1150,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「眞子ちゃんなら、後輩の女の子たちに見つか\n　らないうちに急いで先に帰ってしまいました」",
+      "en": "\"She went home early before the younger girls found her.\"",
+      "text": "\"She went home early before the younger girls found her.\""
+    },
+    {
+      "offset": 1244,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「……なるほど」",
+      "en": "\"......I see.\"",
+      "text": "\"......I see.\""
+    },
+    {
+      "offset": 1267,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あいつは相当人気があるらしいからな。卒パが\nなかったら、それこそ卒業式が終わったとたん、\n｛・・／群集｝に囲まれてしまっただろう。",
+      "en": "I guess she's really popular. If she wasn't participating in\nthe graduation party, she would've been surrounded by her\nfans after the graduation.",
+      "text": "I guess she's really popular. If she wasn't participating in\nthe graduation party, she would've been surrounded by her\nfans after the graduation."
+    },
+    {
+      "offset": 1400,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "女子校に行ったら、新しい世界が開けるんじゃ\nないか？",
+      "en": "She might have a new insight of the world if she went to a\ngirl's school.",
+      "text": "She might have a new insight of the world if she went to a\ngirl's school."
+    },
+    {
+      "offset": 1458,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まぁ、眞子はいいや。それで、占いのほうは\n　どうでした？　上手くいきました？」",
+      "en": "\"Anyway, how was your fortune-telling? Was it a success?\"",
+      "text": "\"Anyway, how was your fortune-telling? Was it a success?\""
+    },
+    {
+      "offset": 1570,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい。もうとっても楽しかったです」",
+      "en": "\"Yes. It was very fun.\"",
+      "text": "\"Yes. It was very fun.\""
+    },
+    {
+      "offset": 1613,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「そうでしょうね」",
+      "en": "\"I bet.\"",
+      "text": "\"I bet.\""
+    },
+    {
+      "offset": 1638,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "心底、楽しそうでしたから。ええ、ホントに。",
+      "en": "She really did look like she was having lots of fun.",
+      "text": "She really did look like she was having lots of fun."
+    },
+    {
+      "offset": 1687,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ところで、あの占いって当たるんですか？」",
+      "en": "\"By the way, was that prediction really right?\"",
+      "text": "\"By the way, was that prediction really right?\""
+    },
+    {
+      "offset": 1745,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい。１発１００中です」",
+      "en": "\"Yes. It's 100% right.\"",
+      "text": "\"Yes. It's 100% right.\""
+    },
+    {
+      "offset": 1778,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「…………それは、凄いですね」",
+      "en": "\"............That's amazing.\"",
+      "text": "\"............That's amazing.\""
+    },
+    {
+      "offset": 1815,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "名言だ。占いというものを、一言で実によく表\nしている。",
+      "en": "She's calling her psychic skills 100% accurate.",
+      "text": "She's calling her psychic skills 100% accurate."
+    },
+    {
+      "offset": 1873,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "つまりそれだけ｛あいまい／曖昧｝ってことだ。",
+      "en": "That alone makes it sound suspicious.",
+      "text": "That alone makes it sound suspicious."
+    },
+    {
+      "offset": 1950,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「朝倉くんは占いって信じますか？」",
+      "en": "\"Do you believe in psychics, Asakura-kun?\"",
+      "text": "\"Do you believe in psychics, Asakura-kun?\""
+    },
+    {
+      "offset": 1991,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あんまり。ソレ系の事には、興味ないんです\n　よね。基本的には」",
+      "en": "\"Not really. I'm not that interested in those kinds of\nthings.\"",
+      "text": "\"Not really. I'm not that interested in those kinds of\nthings.\""
+    },
+    {
+      "offset": 2070,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「ソレ系？」",
+      "en": "\"Those kinds of things?\"",
+      "text": "\"Those kinds of things?\""
+    },
+    {
+      "offset": 2089,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「まあ、占いもそうだし、超常現象とか幽霊と\n　か……」",
+      "en": "\"I mean things like psychics, supernatural powers, and\nghosts......\"",
+      "text": "\"I mean things like psychics, supernatural powers, and\nghosts......\""
+    },
+    {
+      "offset": 2170,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2189,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「……ん？」",
+      "en": "\"......Huh?\"",
+      "text": "\"......Huh?\""
+    },
+    {
+      "offset": 2208,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうしたんだろうか？　萌先輩が不意に真面目\nな表情になって、俺の顔をじっと見つめてきた。",
+      "en": "I wonder what's wrong. Moe-sempai's suddenly staring at my\nface with a serious look.",
+      "text": "I wonder what's wrong. Moe-sempai's suddenly staring at my\nface with a serious look."
+    },
+    {
+      "offset": 2313,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「幽霊は……幽霊は、きっと居ます」",
+      "en": "\"I believe...... that ghosts exist.\"",
+      "text": "\"I believe...... that ghosts exist.\""
+    },
+    {
+      "offset": 2359,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「えっ？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 2385,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「幽霊だって魂だって在りますよ」",
+      "en": "\"Ghosts and spirits do exist.\"",
+      "text": "\"Ghosts and spirits do exist.\""
+    },
+    {
+      "offset": 2433,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「だって、存在しないものに、言葉はつきませ\n　んから」",
+      "en": "\"If there are no such things, why are there words for it?\"",
+      "text": "\"If there are no such things, why are there words for it?\""
+    },
+    {
+      "offset": 2493,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2512,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何か、五感では拾えないものが変化していた。",
+      "en": "Things were becoming different around us.",
+      "text": "Things were becoming different around us."
+    },
+    {
+      "offset": 2559,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "雰囲気、密度、緊張感……。",
+      "en": "The atmosphere, the density, and the tension between\nus......",
+      "text": "The atmosphere, the density, and the tension between\nus......"
+    },
+    {
+      "offset": 2590,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩を起点として、それは、周りに放射され\nていて……。",
+      "en": "Moe-sempai was releasing it from her body......",
+      "text": "Moe-sempai was releasing it from her body......"
+    },
+    {
+      "offset": 2680,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「ふぁ〜……はぁ……」",
+      "en": "\"Aaaaw...... hah......\"",
+      "text": "\"Aaaaw...... hah......\""
+    },
+    {
+      "offset": 2709,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "（う）",
+      "en": "(Ugh.)",
+      "text": "(Ugh.)"
+    },
+    {
+      "offset": 2727,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "次の瞬間には、萌先輩はいつもの先輩に戻って\nいた。何もかも、巻き戻されたようだ。",
+      "en": "The next moment, she was back to her normal self. Everything\nwas being rewound.",
+      "text": "The next moment, she was back to her normal self. Everything\nwas being rewound."
+    },
+    {
+      "offset": 2811,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は内心でため息をついて、言った。",
+      "en": "I sighed inside my heart and spoke.",
+      "text": "I sighed inside my heart and spoke."
+    },
+    {
+      "offset": 2852,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……お休みですか？」",
+      "en": "\"......Are you going to sleep now?\"",
+      "text": "\"......Are you going to sleep now?\""
+    },
+    {
+      "offset": 2907,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい……多分、ずっと占いをしていたせいで\n　すね」",
+      "en": "\"Yes...... I'm tired from playing at being a psychic all\nday.\"",
+      "text": "\"Yes...... I'm tired from playing at being a psychic all\nday.\""
+    },
+    {
+      "offset": 2965,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眠そうに｛まぶた／瞼｝を｛こす／擦｝りながら答える。",
+      "en": "She answered as she rubbed her sleepy eyes.",
+      "text": "She answered as she rubbed her sleepy eyes."
+    },
+    {
+      "offset": 3022,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あのテンションでずっといたのなら、そりゃ、\n疲れるわな。",
+      "en": "Of course she would be tired if she was acting like that all\nday.",
+      "text": "Of course she would be tired if she was acting like that all\nday."
+    },
+    {
+      "offset": 3084,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「萌先輩の家ってどこなんです？」",
+      "en": "\"Where's your house, Moe-sempai?\"",
+      "text": "\"Where's your house, Moe-sempai?\""
+    },
+    {
+      "offset": 3132,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「病院のそばです」",
+      "en": "\"It's near the hospital.\"",
+      "text": "\"It's near the hospital.\""
+    },
+    {
+      "offset": 3157,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「病院って、あのデカイ病院ですか？」",
+      "en": "\"You mean that huge hospital?\"",
+      "text": "\"You mean that huge hospital?\""
+    },
+    {
+      "offset": 3226,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい……」",
+      "en": "\"Yes......\"",
+      "text": "\"Yes......\""
+    },
+    {
+      "offset": 3245,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "返事するものの、すでにほとんど眠りかけてい\nる。",
+      "en": "She replied to me, but she's already half asleep.",
+      "text": "She replied to me, but she's already half asleep."
+    },
+    {
+      "offset": 3299,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「じゃあ、俺が送りますから、萌先輩は眠って\n　ください」",
+      "en": "\"I'll walk you back home, so you can fall asleep.\"",
+      "text": "\"I'll walk you back home, so you can fall asleep.\""
+    },
+    {
+      "offset": 3361,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなに遅い時間ではないとはいえ、夜道を女\nの子ひとりで帰すのは男として気が引ける。特\nに萌先輩の場合は眠りながら歩くわけで。",
+      "en": "Although it's not that late yet, I can't let a girl go back\nhome on her own. Especially Moe-sempai, who walks in her\nsleep.",
+      "text": "Although it's not that late yet, I can't let a girl go back\nhome on her own. Especially Moe-sempai, who walks in her\nsleep."
+    },
+    {
+      "offset": 3501,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい……お願いします……スー……」",
+      "en": "\"Yes...... Thank you...... zzz......\"",
+      "text": "\"Yes...... Thank you...... zzz......\""
+    },
+    {
+      "offset": 3544,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の言葉に安心したように歩いたまま、目だけ\n閉じる萌先輩。",
+      "en": "She was relieved to hear my words, and closed her eyes while\nwalking.",
+      "text": "She was relieved to hear my words, and closed her eyes while\nwalking."
+    },
+    {
+      "offset": 3608,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3627,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "歩きながら女の子の寝顔を眺めるという、もは\nや貴重でもなんでもなくなった体験をしつつ、\n萌先輩の自宅に向かう。",
+      "en": "I headed toward her house while looking into her sleeping\nface. It's funny how I'm getting used to this situation.",
+      "text": "I headed toward her house while looking into her sleeping\nface. It's funny how I'm getting used to this situation."
+    },
+    {
+      "offset": 3789,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "交差点の赤信号でピタリと立ち止まる萌先輩。",
+      "en": "She stopped for a red light at a intersection.",
+      "text": "She stopped for a red light at a intersection."
+    },
+    {
+      "offset": 3838,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「｛さすが／流石｝だ……」",
+      "en": "\"She's amazing......\"",
+      "text": "\"She's amazing......\""
+    },
+    {
+      "offset": 3871,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そのまま、信号が赤から青に変わったとたん、\n再び歩き始める。",
+      "en": "She started walking as soon as the light turned green.",
+      "text": "She started walking as soon as the light turned green."
+    },
+    {
+      "offset": 3935,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな萌先輩の神業に見とれながら横断歩道に\n足を踏み出した俺は、習慣的に右を見る。",
+      "en": "As I was fascinated with her skill, I took a step forward\nand looked to my right.",
+      "text": "As I was fascinated with her skill, I took a step forward\nand looked to my right."
+    },
+    {
+      "offset": 4037,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「――なっ！？」",
+      "en": "\"......What?\"",
+      "text": "\"......What?\""
+    },
+    {
+      "offset": 4060,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それが車のライトだと認識するより早く、萌先\n輩を後ろから抱きしめるようにしながら、反対\n車線に飛び込む。",
+      "en": "Before I realized what was happening, I saw the headlights\nbeaming from a car. I grabbed Moe-sempai from behind and\njumped to the other side of the road.",
+      "text": "Before I realized what was happening, I saw the headlights\nbeaming from a car. I grabbed Moe-sempai from behind and\njumped to the other side of the road."
+    },
+    {
+      "offset": 4195,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「きゃっ！？」",
+      "en": "\"Kyaaah!\"",
+      "text": "\"Kyaaah!\""
+    },
+    {
+      "offset": 4222,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「ぐっ――！！」",
+      "en": "\"Ugh......!!\"",
+      "text": "\"Ugh......!!\""
+    },
+    {
+      "offset": 4251,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "背後を車が猛スピードで走り抜ける気配――そ\nの瞬間、今度は足に物凄い衝撃が走った。",
+      "en": "When I felt the car speeding by us, I felt a sharp pain in\nmy leg.",
+      "text": "When I felt the car speeding by us, I felt a sharp pain in\nmy leg."
+    },
+    {
+      "offset": 4360,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あの……朝倉くん……どうしたんですか？」",
+      "en": "\"Um...... Asakura-kun......? What happened?\"",
+      "text": "\"Um...... Asakura-kun......? What happened?\""
+    },
+    {
+      "offset": 4409,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩のきょとんとした声が聞こえてくる。",
+      "en": "I heard Moe-sempai's surprised voice.",
+      "text": "I heard Moe-sempai's surprised voice."
+    },
+    {
+      "offset": 4465,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「私…どう……道路に寝て…るん…しょう？」",
+      "en": "\"Why are we...... lying on the street......?\"",
+      "text": "\"Why are we...... lying on the street......?\""
+    },
+    {
+      "offset": 4514,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 4533,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わず、ふきだしちゃいそうだ……。",
+      "en": "I almost cracked up......",
+      "text": "I almost cracked up......"
+    },
+    {
+      "offset": 4572,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "たぶん、萌先輩は大丈夫……大丈夫……。",
+      "en": "Moe-sempai should be fine...... she's fine......",
+      "text": "Moe-sempai should be fine...... she's fine......"
+    },
+    {
+      "offset": 4615,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなことを思いながら……、",
+      "en": "As I was thinking......,",
+      "text": "As I was thinking......,"
+    },
+    {
+      "offset": 4648,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "意識が……、",
+      "en": "My consciousness was......",
+      "text": "My consciousness was......"
+    },
+    {
+      "offset": 4665,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――消え――。",
+      "en": "......Gone......",
+      "text": "......Gone......"
+    },
+    {
+      "offset": 4802,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆幽霊はきっと……◆",
+      "en": "◆Ghosts do exist......◆",
+      "text": "◆Ghosts do exist......◆"
+    },
+    {
+      "offset": 4863,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩と帰りが一緒になった。",
+      "en": "I was going back home with Moe-sempai.",
+      "text": "I was going back home with Moe-sempai."
+    },
+    {
+      "offset": 4931,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩は幽霊を信じているらしい。それはもう、\n普段の萌先輩から想像も付かないくらい真剣に\n……。",
+      "en": "Moe-sempai said she believed in ghosts. She told me that\nwith a very serious face......",
+      "text": "Moe-sempai said she believed in ghosts. She told me that\nwith a very serious face......"
+    },
+    {
+      "offset": 5030,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ずっと占いをしていたせいか、萌先輩は眠そう\nだった。萌先輩にとっては何でもない、半分眠\nりながらの帰宅。",
+      "en": "After doing psychic reading all day, she was getting sleepy.\nShe was walking back home while half asleep, as usual.",
+      "text": "After doing psychic reading all day, she was getting sleepy.\nShe was walking back home while half asleep, as usual."
+    },
+    {
+      "offset": 5155,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……そんな萌先輩に、自動車が迫ってきた。",
+      "en": "......However, a car came running toward Moe-sempai.",
+      "text": "......However, a car came running toward Moe-sempai."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "573": "Moe",
+    "684": "Moe",
+    "992": "Moe",
+    "1144": "Moe",
+    "1564": "Moe",
+    "1739": "Moe",
+    "1944": "Moe",
+    "2064": "Moe",
+    "2164": "Moe",
+    "2307": "Moe",
+    "2379": "Moe",
+    "2427": "Moe",
+    "2674": "Moe",
+    "2901": "Moe",
+    "3126": "Moe",
+    "3220": "Moe",
+    "3495": "Moe",
+    "4189": "Moe",
+    "4354": "Moe",
+    "4459": "Moe"
+  }
+}

@@ -1,0 +1,615 @@
+{
+  "scene": "script_0418.obj",
+  "dialogues": [
+    {
+      "offset": 204,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 219,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「う〜ん……」",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 270,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": "Knock knock.",
+      "text": "Knock knock."
+    },
+    {
+      "offset": 373,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さん、起きてますか？」",
+      "en": "\"Niisan, are you awake?\"",
+      "text": "\"Niisan, are you awake?\""
+    },
+    {
+      "offset": 406,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ドアを開け音夢が顔をだす。",
+      "en": "Nemu opens the door and comes in.",
+      "text": "Nemu opens the door and comes in."
+    },
+    {
+      "offset": 439,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ああ、一応な」",
+      "en": "\"Yeah, sort of.\"",
+      "text": "\"Yeah, sort of.\""
+    },
+    {
+      "offset": 462,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "天井を見つめたまま答える。",
+      "en": "I reply, while staring up at the ceiling.",
+      "text": "I reply, while staring up at the ceiling."
+    },
+    {
+      "offset": 523,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いつまでも横になってるとまた寝ちゃうわよ」",
+      "en": "\"If you don't get up now, you're gonna fall asleep again.\"",
+      "text": "\"If you don't get up now, you're gonna fall asleep again.\""
+    },
+    {
+      "offset": 574,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……分かってるって」",
+      "en": "\"......I know that.\"",
+      "text": "\"......I know that.\""
+    },
+    {
+      "offset": 631,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「下で待ってるから、早く来てね」",
+      "en": "\"Hurry up, I'm gonna be waiting for you downstairs.\"",
+      "text": "\"Hurry up, I'm gonna be waiting for you downstairs.\""
+    },
+    {
+      "offset": 687,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "パタン",
+      "en": "Bang.",
+      "text": "Bang."
+    },
+    {
+      "offset": 698,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の遠ざかる足音を聞きながら、ゆっくりと\n起き上がる。",
+      "en": "Hearing Nemu's retreating footsteps, I slowly get up.",
+      "text": "Hearing Nemu's retreating footsteps, I slowly get up."
+    },
+    {
+      "offset": 758,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "後ろ髪を引かれる思いで布団からでると、制服\nを手に取る。",
+      "en": "Getting out of the futon with painful reluctance, I reach\nfor my school uniform.",
+      "text": "Getting out of the futon with painful reluctance, I reach\nfor my school uniform."
+    },
+    {
+      "offset": 820,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はぁ……かったる」",
+      "en": "\"Ahh... What a pain in the neck.\"",
+      "text": "\"Ahh... What a pain in the neck.\""
+    },
+    {
+      "offset": 909,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「もう、食べながら外を歩かないでよ。恥ずか\n　しいんだから」",
+      "en": "\"Don't walk while eating. It's embarrassing.\"",
+      "text": "\"Don't walk while eating. It's embarrassing.\""
+    },
+    {
+      "offset": 975,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「しょうがないだろ。時間がなかったんだから」",
+      "en": "\"I have no choice. I didn't have enough time.\"",
+      "text": "\"I have no choice. I didn't have enough time.\""
+    },
+    {
+      "offset": 1026,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "パンをかじりながら、家の門をあける。",
+      "en": "I open the house gate, nibbling the bread.",
+      "text": "I open the house gate, nibbling the bread."
+    },
+    {
+      "offset": 1097,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だったらもっと早く起きればいいんです」",
+      "en": "\"Then you should have got up earlier.\"",
+      "text": "\"Then you should have got up earlier.\""
+    },
+    {
+      "offset": 1144,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ほら、いつまでも｛にら／睨｝んでないでとっとと行こ\n　うぜ」",
+      "en": "\"Come on, just forget it, and let's go.\"",
+      "text": "\"Come on, just forget it, and let's go.\""
+    },
+    {
+      "offset": 1212,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "せっかく歩いていけるのに、走るハメになった\nらバカらしい。",
+      "en": "We can't waste any more time or we'll have to run.",
+      "text": "We can't waste any more time or we'll have to run."
+    },
+    {
+      "offset": 1287,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「もぅ」",
+      "en": "\"Argh.\"",
+      "text": "\"Argh.\""
+    },
+    {
+      "offset": 1302,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢さんご立腹といった感じを見せつつも、素\n直に横に並んでついてくる。",
+      "en": "Although Nemu acts like she is angry, she still follows me\nmeekly, walking next to me.",
+      "text": "Although Nemu acts like she is angry, she still follows me\nmeekly, walking next to me."
+    },
+    {
+      "offset": 1473,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ……」",
+      "en": "\"Uh......\"",
+      "text": "\"Uh......\""
+    },
+    {
+      "offset": 1490,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、校門の前まで来たところで、音夢が小さく\n呟く。",
+      "en": "Coming to the school gate, Nemu murmurs.",
+      "text": "Coming to the school gate, Nemu murmurs."
+    },
+    {
+      "offset": 1546,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どうした？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 1567,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の視線を｛たど／辿｝ると、眞子が柱に寄りかかって\nいる姿が目についた。",
+      "en": "Following Nemu's eyes, I spot Mako leaning on a post.",
+      "text": "Following Nemu's eyes, I spot Mako leaning on a post."
+    },
+    {
+      "offset": 1647,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんだ、眞子じゃないか」",
+      "en": "\"Oh, it's you, Mako.\"",
+      "text": "\"Oh, it's you, Mako.\""
+    },
+    {
+      "offset": 1718,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あ、朝倉」",
+      "en": "\"Ah, Asakura.\"",
+      "text": "\"Ah, Asakura.\""
+    },
+    {
+      "offset": 1737,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "柱から身体を離し、俺のほうに身体をむける。",
+      "en": "Straightening up, Mako turns to face me.",
+      "text": "Straightening up, Mako turns to face me."
+    },
+    {
+      "offset": 1830,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「おはよう眞子」",
+      "en": "\"Good morning, Mako.\"",
+      "text": "\"Good morning, Mako.\""
+    },
+    {
+      "offset": 1881,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あ、うん、おはよう」",
+      "en": "\"Uh, yeah, good morning.\"",
+      "text": "\"Uh, yeah, good morning.\""
+    },
+    {
+      "offset": 1910,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少し慌て気味に眞子が挨拶を返す。",
+      "en": "Mako returns the greeting in a bit of a hurry.",
+      "text": "Mako returns the greeting in a bit of a hurry."
+    },
+    {
+      "offset": 1977,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さんに用？」",
+      "en": "\"Do you need to talk to my brother?\"",
+      "text": "\"Do you need to talk to my brother?\""
+    },
+    {
+      "offset": 2028,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あ、うん……」",
+      "en": "\"Uh, yeah......\"",
+      "text": "\"Uh, yeah......\""
+    },
+    {
+      "offset": 2079,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そう。じゃあ兄さん、私は先に行きますね」",
+      "en": "\"Okay. - Niisan, I'll see you then.\"",
+      "text": "\"Okay. - Niisan, I'll see you then.\""
+    },
+    {
+      "offset": 2128,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ん？　ああ」",
+      "en": "\"Um? Yeah.\"",
+      "text": "\"Um? Yeah.\""
+    },
+    {
+      "offset": 2161,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "足早に去っていく音夢を気にかけつつも、眞子\nに視線をもどす。",
+      "en": "I look after Nemu, walking quickly away from us, and then\nback at Mako.",
+      "text": "I look after Nemu, walking quickly away from us, and then\nback at Mako."
+    },
+    {
+      "offset": 2227,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、どうしたんだ？」",
+      "en": "\"So what happened?\"",
+      "text": "\"So what happened?\""
+    },
+    {
+      "offset": 2256,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の後姿を見つめる眞子に｛き／訊｝く。",
+      "en": "I asked Mako, who was gazing at Nemu's back.",
+      "text": "I asked Mako, who was gazing at Nemu's back."
+    },
+    {
+      "offset": 2336,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「え？　あ、うん……」",
+      "en": "\"What? Uh, yeah......\"",
+      "text": "\"What? Uh, yeah......\""
+    },
+    {
+      "offset": 2393,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「それが、またラブレターが届いて……」",
+      "en": "\"I received another love letter......\"",
+      "text": "\"I received another love letter......\""
+    },
+    {
+      "offset": 2438,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「また？」",
+      "en": "\"Again?\"",
+      "text": "\"Again?\""
+    },
+    {
+      "offset": 2455,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "せっかく付き合ってるフリをしたってのに、無\n駄だったってのか？",
+      "en": "I was trying to pretend to be your boyfriend, but was it\nuseless?",
+      "text": "I was trying to pretend to be your boyfriend, but was it\nuseless?"
+    },
+    {
+      "offset": 2534,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「相手の子、全然あたしたちのことに気づいて\n　ないみたいなんだよね……」",
+      "en": "\"It seems that the girl hasn't found out about our\nrelationship yet......\"",
+      "text": "\"It seems that the girl hasn't found out about our\nrelationship yet......\""
+    },
+    {
+      "offset": 2612,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "落胆気味に呟く眞子。",
+      "en": "Mako murmurs despondently.",
+      "text": "Mako murmurs despondently."
+    },
+    {
+      "offset": 2637,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そのとき、桜並木のほうから杉並がやってきた。",
+      "en": "\"Well, we didn't really make a big scene anyway.\"",
+      "text": "\"Well, we didn't really make a big scene anyway.\""
+    },
+    {
+      "offset": 2940,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さすがに勘だけは鋭い。",
+      "en": "The only different thing we've started doing since we\ndecided to pretend to be a couple is to go home together. We\ndon't act lovey-dovey like a true couple would.",
+      "text": "The only different thing we've started doing since we\ndecided to pretend to be a couple is to go home together. We\ndon't act lovey-dovey like a true couple would."
+    },
+    {
+      "offset": 3089,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どんな情報をつかんでいるのか、杉並がニヤリ\nと笑う。",
+      "en": "\"It's been only two days since we started this. It's\nprobably too early to take it too seriously.\"",
+      "text": "\"It's been only two days since we started this. It's\nprobably too early to take it too seriously.\""
+    },
+    {
+      "offset": 3175,
+      "speaker": "Mako",
+      "speaker_jp": "杉並",
+      "jp": "「早苗ちゃんは物事に執着する性格のようでな」",
+      "en": "\"You may be right, but......\"",
+      "text": "\"You may be right, but......\""
+    },
+    {
+      "offset": 3359,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "かなり不安を煽るようなことを、杉並がさらり\nと言う。",
+      "en": "Mako looks a bit troubled.",
+      "text": "Mako looks a bit troubled."
+    },
+    {
+      "offset": 3865,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「朝倉、どうしようか……？」",
+      "en": "\"What do you think I should do?\"",
+      "text": "\"What do you think I should do?\""
+    },
+    {
+      "offset": 3960,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "変化といったら、せいぜい誘って一緒に帰るよ\nうになったぐらいだ。",
+      "en": "Looking up into my face, Mako looks as if she's depending on\nme.",
+      "text": "Looking up into my face, Mako looks as if she's depending on\nme."
+    },
+    {
+      "offset": 4028,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "別に本当のカップルみたいに甘ったるいオーラ\nを周囲に振りまいているわけでもない。",
+      "en": "\"......What's wrong with you?\"",
+      "text": "\"......What's wrong with you?\""
+    },
+    {
+      "offset": 4284,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「そうかもしれないけど……」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 4319,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いまいち、不安が晴れない顔をする。",
+      "en": "She's so submissive.",
+      "text": "She's so submissive."
+    },
+    {
+      "offset": 4419,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の顔を見上げて、すがるような瞳を向けてく\nる。",
+      "en": "\"Well... Never mind.\"",
+      "text": "\"Well... Never mind.\""
+    },
+    {
+      "offset": 4473,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……どうしたんだ？」",
+      "en": "\"Why don't you just wait and see how it goes? There's no\npoint getting so worked up.\"",
+      "text": "\"Why don't you just wait and see how it goes? There's no\npoint getting so worked up.\""
+    },
+    {
+      "offset": 4530,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「何が？」",
+      "en": "\"Yeah......\"",
+      "text": "\"Yeah......\""
+    },
+    {
+      "offset": 4547,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "随分と、しおらしいじゃないか。",
+      "en": "\"Well, just take it easy!\"",
+      "text": "\"Well, just take it easy!\""
+    },
+    {
+      "offset": 4584,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや……なんでもない」",
+      "en": "I lightly give her a tap on the back.",
+      "text": "I lightly give her a tap on the back."
+    },
+    {
+      "offset": 4754,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「うーん……」",
+      "en": "\"Hey... Why did you hit me like that?\"",
+      "text": "\"Hey... Why did you hit me like that?\""
+    },
+    {
+      "offset": 4822,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "パシッ――と眞子の背中を軽く叩く。",
+      "en": "\"Rather than talking about pretending to be a couple,\nremember that we won't even look like friends if you behave\nso awkwardly.\"",
+      "text": "\"Rather than talking about pretending to be a couple,\nremember that we won't even look like friends if you behave\nso awkwardly.\""
+    },
+    {
+      "offset": 4891,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「な……もう、何するのよっ」",
+      "en": "\"I, I'm not acting awkwardly!\"",
+      "text": "\"I, I'm not acting awkwardly!\""
+    },
+    {
+      "offset": 5073,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言いながら言葉を詰まらせる姿に、思わず\n失笑しそうになるのを堪える。",
+      "en": "Looking at Mako, who is at a loss for words, I hold back my\nlaughter.",
+      "text": "Looking at Mako, who is at a loss for words, I hold back my\nlaughter."
+    },
+    {
+      "offset": 5151,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ほら、分かったからさっさと行くぞ。こんな\n　ところで言い合いなんかしてたら、｛さら／晒｝し者も\n　いいところだ」",
+      "en": "\"Okay, let's go. We'll look ridiculous if we keep arguing\nhere.\"",
+      "text": "\"Okay, let's go. We'll look ridiculous if we keep arguing\nhere.\""
+    },
+    {
+      "offset": 5298,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あっ、待ちなさいよ」",
+      "en": "\"Hey, wait!\"",
+      "text": "\"Hey, wait!\""
+    },
+    {
+      "offset": 5339,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子に背中を向けている間に、堪えきれずにニ\nヤケだした顔を落ち着かせる。",
+      "en": "As I turn my back on Mako, I try to fix my flirtatious\nexpression.",
+      "text": "As I turn my back on Mako, I try to fix my flirtatious\nexpression."
+    },
+    {
+      "offset": 5417,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（まったく、どうしたってんだ？）",
+      "en": "(What's wrong with me?)",
+      "text": "(What's wrong with me?)"
+    },
+    {
+      "offset": 5482,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "不思議とあったかな気分を味わいながら、昇降\n口に向かう。",
+      "en": "Feeling somehow warm, I start walking toward the lobby.",
+      "text": "Feeling somehow warm, I start walking toward the lobby."
+    },
+    {
+      "offset": 5542,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "後ろから聞こえる足音が、だんだんと気になる\nようになってきていた……。",
+      "en": "Footsteps I hear behind me start bothering me little by\nlittle......",
+      "text": "Footsteps I hear behind me start bothering me little by\nlittle......"
+    },
+    {
+      "offset": 5738,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆演技の効果◆",
+      "en": "◆. . .◆",
+      "text": "◆. . .◆"
+    },
+    {
+      "offset": 5789,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "恋人のフリを続ける俺と眞子だったが、まだま\nだ成果は出ていないらしい。",
+      "en": "\"Mmm......\"",
+      "text": "\"Mmm......\""
+    },
+    {
+      "offset": 5863,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "落ち込む眞子を励ました俺は、なんだかわから\nないがあったかな気分になったのだった。",
+      "en": "............",
+      "text": "............"
+    }
+  ],
+  "choices": [],
+  "names": {
+    "365": "Nemu",
+    "515": "Nemu",
+    "623": "Nemu",
+    "901": "Nemu",
+    "1089": "Nemu",
+    "1279": "Nemu",
+    "1465": "Nemu",
+    "1710": "Mako",
+    "1822": "Nemu",
+    "1873": "Mako",
+    "1969": "Nemu",
+    "2020": "Mako",
+    "2071": "Nemu",
+    "2328": "Mako",
+    "2385": "Mako",
+    "2526": "Mako",
+    "3167": "Mako",
+    "3857": "Mako",
+    "4276": "Mako",
+    "4522": "Mako",
+    "4746": "Mako",
+    "4883": "Mako",
+    "5290": "Mako"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "scene": "script_0692.obj",
+  "dialogues": [
+    {
+      "offset": 151,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そんじゃ、バイバイ」",
+      "en": "\"Well then, bye bye!\"",
+      "text": "\"Well then, bye bye!\""
+    },
+    {
+      "offset": 230,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ん？　なに驚いてるの？　ああ、送ってこう\n　か？」",
+      "en": "\"Eh?\"",
+      "text": "\"Eh?\""
+    },
+    {
+      "offset": 318,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、ううん、何でもないっす」",
+      "en": "\"Mm? You sound a bit surprised. Do you want me to take you\nhome?\"",
+      "text": "\"Mm? You sound a bit surprised. Do you want me to take you\nhome?\""
+    },
+    {
+      "offset": 385,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「それじゃ、バイバイ」",
+      "en": "\"Ah, no, it's nothing.\"",
+      "text": "\"Ah, no, it's nothing.\""
+    },
+    {
+      "offset": 414,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ん、バイバイ」",
+      "en": "\"Then, bye bye!\"",
+      "text": "\"Then, bye bye!\""
+    },
+    {
+      "offset": 449,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"Mm, bye bye.\"",
+      "text": "\"Mm, bye bye.\""
+    },
+    {
+      "offset": 468,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「も少し一緒にいれば良かったかな……」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 621,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆バイバイ◆",
+      "en": "\"Maybe I should've invited her to my house...\"",
+      "text": "\"Maybe I should've invited her to my house...\""
+    },
+    {
+      "offset": 670,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "公園の出口でことりと別れる。",
+      "en": "◆Bye Bye◆",
+      "text": "◆Bye Bye◆"
+    },
+    {
+      "offset": 703,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少し驚いた顔をして、帰路につくことり。",
+      "en": "We said goodbye and went our seperate ways.",
+      "text": "We said goodbye and went our seperate ways."
+    },
+    {
+      "offset": 746,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなことりのうしろ姿を見ながら、もう少し\n一緒にいれば良かったかな、なんて少し後悔す\nるのだった。",
+      "en": "...Maybe I should've invited her to my house?",
+      "text": "...Maybe I should've invited her to my house?"
+    }
+  ],
+  "choices": [],
+  "names": {
+    "205": "Kotori",
+    "308": "Kotori",
+    "375": "Kotori"
+  }
+}

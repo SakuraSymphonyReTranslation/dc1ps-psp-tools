@@ -1,0 +1,90 @@
+{
+  "scene": "script_0122.obj",
+  "dialogues": [
+    {
+      "offset": 166,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「じゃあ週番、号令よろしく」",
+      "en": "\"Weekly duty, please go ahead.\"",
+      "text": "\"Weekly duty, please go ahead.\""
+    },
+    {
+      "offset": 212,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「礼」",
+      "en": "\"Bow!\"",
+      "text": "\"Bow!\""
+    },
+    {
+      "offset": 249,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子の号令とともにＨＲが終わり、教室内は一\n気にざわめきに包まれる。",
+      "en": "On Mako's order and with the end of HR, the class was\nengulfed in noise.",
+      "text": "On Mako's order and with the end of HR, the class was\nengulfed in noise."
+    },
+    {
+      "offset": 321,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "話題はもっぱら、明日の試験についてだ。頭の\nいい奴の周りには、何人か取り巻きがついてい\nたりもする。",
+      "en": "The main topic was, of course, tomorrow's exams. All the\nsmart ones were immediately surrounded by the others for\nadvice.",
+      "text": "The main topic was, of course, tomorrow's exams. All the\nsmart ones were immediately surrounded by the others for\nadvice."
+    },
+    {
+      "offset": 424,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それ以外の連中は、さっさと教室を出て行って\nしまう。｛さすが／流石｝に今日は、みな勉強をするのだろ\nう。",
+      "en": "The rest of my classmates quickly left the classroom. As\nexpected, today's a long studying period for everyone.",
+      "text": "The rest of my classmates quickly left the classroom. As\nexpected, today's a long studying period for everyone."
+    },
+    {
+      "offset": 531,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 544,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はどうするかな……。",
+      "en": "What should I do now...",
+      "text": "What should I do now..."
+    },
+    {
+      "offset": 675,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆試験前日◆",
+      "en": "◆Day before exams◆",
+      "text": "◆Day before exams◆"
+    },
+    {
+      "offset": 716,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子の号令で放課後がやってきた。教室内は明\n日の試験の話題で持ちきりだ。頭のいい奴のと\nこに集まったり、さっさと帰宅したり……。",
+      "en": "Mako's order ended the school day. The classroom was filled\nwith chatter about the coming exams. They either surrounded\nthe smart ones, or went straight home.",
+      "text": "Mako's order ended the school day. The classroom was filled\nwith chatter about the coming exams. They either surrounded\nthe smart ones, or went straight home."
+    },
+    {
+      "offset": 847,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はどうするかな……。",
+      "en": "What should I do now...",
+      "text": "What should I do now..."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "160": "Koyomi",
+    "204": "Mako"
+  }
+}

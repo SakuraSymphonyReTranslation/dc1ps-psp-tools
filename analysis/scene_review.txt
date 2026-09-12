@@ -1,0 +1,343 @@
+EN_FILE            PSP_BLOB          SCORE  EN_N PSP_N  JP_TITLE | EN_TITLE
+ 0223a_e01.json    script_0001.obj    0.79    81    81  ◆謎の木琴少女◆ | ◆The Enigma of the Xylophone Girl◆
+ 0223a_f01.json    script_0002.obj    0.49    69    69  ◆夢の始まり◆ | ◆The beginning of the dream◆
+!0223a_f02.json    script_0003.obj    0.33    97    97  ◆夢の、はじまり◆ | ◆Beginning of the Dream◆
+ 0223a_f03.json    script_0004.obj    0.74    43    43  ◆登校◆ | ◆Schooltime◆
+ 0223a_n01.json    script_0005.obj    0.80    26    26  ◆音夢と一緒に学園へ◆ | ◆Going to school with Nemu◆
+ 0223a_t01.json    script_0006.obj    0.66   259   257  ◆転校生は許嫁◆ | ◆The Exchange Student is My Fiancee◆
+ 0223b_e01.json    script_0007.obj    0.61   152   152  ◆屋上への招待状◆ | ◆Invitation to the Rooftop◆
+ 0223b_f01.json    script_0008.obj    0.44    14    14  ◆誰と帰ろう◆ | ◆Who to Go Back With◆
+ 0223b_f03.json    script_0011.obj    0.60    30    29  ◆杉並と帰る◆ | ◆Home Alone◆
+ 0223c_f01.json    script_0012.obj    0.37    32    32  ◆さくらからのバレンタイン◆ | ◆Sakura's Valentine◆
+ 0223d_f01.json    script_0013.obj    0.37    17    17  ◆壊れた時計◆ | ◆Broken Alarm Cock◆
+ 0224a_a01.json    script_0014.obj    0.55   186   186  ◆月城アリス◆ | ◆Tsukishiro Alice◆
+ 0224a_e01.json    script_0015.obj    0.72    99    99  ◆音楽室の個人指導◆ | ◆Private Tution in the Music Room◆
+!0224a_f00.json    script_0016.obj    0.27   100   100  ◆さくらとの約束◆ | ◆Sakura's Promise◆
+ 0224a_f01.json    script_0017.obj    0.61    22    21  ◆休日の過ごし方◆ | ◆Sleeping In On Rest Day◆
+ 0224a_f02.json    script_0018.obj    1.15     6     6  ◆やっぱり寝よう◆ | ◆Just A Little Longer◆
+ 0224a_f03.json    script_0019.obj    0.55    31    31  ◆音夢は美春と遊びに行く◆ | ◆Nemu Going Out with Miharu◆
+!0224a_f04.json    script_0020.obj    0.30    18    18  ◆出かけるという書き置き◆ | ◆Going Out Note◆
+!0224a_s01.json    script_0021.obj    0.25    35    35  ◆バレンタインのお返し◆ | ◆Return Valentine◆
+!0224b_k01.json    script_0022.obj    0.33   105   105  ◆ことりとの再会◆ | ◆Reunion with Kotori◆
+ 0224b_k02.json    script_0023.obj    0.47    42    42  ◆クリスマスの思い出◆ | ◆Christmas Memories◆
+ 0224b_k03.json    script_0024.obj    0.79    39    39  ◆ことり、思い出す◆ | ◆Kotori Remembers◆
+ 0224c_h01.json    script_0025.obj    0.44    33    33  ◆猫を発見した美春◆ | ◆Miharu finds a cat◆
+ 0224c_h03.json    script_0026.obj    0.51    12    12  ◆日常へ◆ | ◆As usual◆
+ 0224c_h04.json    script_0027.obj    0.46    33    33  ◆俺が猫を救出◆ | ◆Saving the cat◆
+ 0224c_n01.json    script_0028.obj    0.59    60    60  ◆目覚ましプレゼント◆ | ◆Alarm clock present◆
+ 0224d_f01.json    script_0029.obj    0.53    23    23  ◆ガムテープと目覚まし時計◆ | ◆Packing Tape + Alarm Clock◆
+ 0224d_f02.json    script_0030.obj    0.55     9     9  ◆寝るか◆ | ◆Asleep◆
+ 0225_hr.json      script_0031.obj    0.82    12    12  ◆週末は試験◆ | ◆Weekend examinations◆
+ 0225a_g01.json    script_0032.obj    0.43   166   168  ◆ななことヤギ◆ | ◆Nanako and the goat◆
+ 0225a_s01.json    script_0033.obj    0.90   129   129  ◆転校生との再会◆ | ◆Reunion with the Exchange Student◆
+ 0225b_a01.json    script_0034.obj    0.56    72    72  ◆ピロシキ◆ | ◆Piroshiki◆
+ 0225b_d01.json    script_0035.obj    0.99    28    28  ◆昼飯談義１◆ | ◆Lunch Lecture 1◆
+ 0225b_f01.json    script_0037.obj    1.15    12    12  ◆転校生の噂◆ | ◆Transfer student rumours◆
+ 0225b_f02.json    script_0038.obj    0.48     9     9  ◆ノートの心配◆ | ◆Worry about notes◆
+ 0225b_f03.json    script_0039.obj    0.71    31    31  ◆授業終了◆ | ◆Lessons Over◆
+ 0225b_k01.json    script_0041.obj    0.83    43    43  ◆焼きそばパンあげる？◆ | ◆Yakisoba Bread Gift?◆
+ 0225b_k02.json    script_0042.obj    0.82    49    49  ◆焼きそばパンと間接キス◆ | ◆Yakisoba Bread and Indirect Kisses◆
+ 0225b_k03.json    script_0043.obj    0.72    50    50  ◆焼きそばパンで間接キス◆ | ◆Yakisoba bread to Indirect Kisses◆
+ 0225b_t01.json    script_0045.obj    0.49    72    74  ◆小さなお弁当◆ | ◆Legendary Yakisoba Bread?◆
+ 0225c_a01.json    script_0048.obj    0.66    63    63  ◆佇む月城◆ | ◆The Loitering Tsukishiro◆
+ 0225c_d01.json    script_0049.obj    1.02    26    26  ◆｛エアホッケー／肉弾戦｝◆ | ◆Air Hockey◆
+ 0225c_f01.json    script_0051.obj    0.82     8     8  ◆睡眠学習◆ | ◆Sleepstudying◆
+ 0225c_g01.json    script_0052.obj    0.85   137   138  ◆厄払い◆ | ◆Exorcism?◆
+ 0225c_h01.json    script_0053.obj    0.82    14    14  ◆童心に帰る？◆ | ◆Re-living Childhood?◆
+ 0225c_k01.json    script_0054.obj    0.43    82    82  ◆ことりとクレープ◆ | ◆Kotori and crepes◆
+ 0225d_f01.json    script_0058.obj    0.47   137   137  ◆さくらが不法侵入◆ | ◆Sakura, the Illegal Intruder◆
+ 0225d_f02.json    script_0059.obj    0.55    12    12  ◆寝ますかね◆ | ◆Bedtime◆
+ 0225d_f03.json    script_0060.obj    0.82     6     6  ◆いつもの夜◆ | ◆A normal night◆
+ 0226_hr.json      script_0061.obj    0.95     9     9  ◆最速のＨＲ◆ | ◆Speedy HR◆
+ 0226a_a01.json    script_0062.obj    0.44    47    47  ◆兄さん、待ってよ◆ | ◆Nii-san, Wait Up!◆
+ 0226a_f01.json    script_0063.obj    0.61    44    44  ◆目覚めるとそこにさくらが◆ | ◆Awakening Next to Sakura◆
+ 0226b_a01.json    script_0065.obj    0.57    61    61  ◆植物図鑑◆ | ◆Plant Eyclopedia◆
+ 0226b_d01.json    script_0066.obj    0.50    50    50  ◆トリオで昼食１◆ | ◆The Lunch Trio 1◆
+ 0226b_f01.json    script_0068.obj    1.15     7     7  ◆朝の教室◆ | ◆Morning in the classroom◆
+ 0226b_f02.json    script_0069.obj    0.49    23    23  ◆長い和久井の授業◆ | ◆Long-winded Wakui's Lesson◆
+ 0226b_f03.json    script_0070.obj    0.55     8     8  ◆生きるには食え◆ | ◆Eating to Live◆
+ 0226b_kw01.json   script_0074.obj    0.66    73    73  ◆ことりの早退◆ | ◆Kotori's Early Departure◆
+ 0226b_kw02.json   script_0075.obj    0.51    48    48  ◆美春に和菓子を◆ | ◆A Wagashi for Miharu◆
+ 0226b_kw03.json   script_0076.obj    0.76    43    43  ◆美春と食事？◆ | ◆Miharu and meals?◆
+ 0226b_nt01.json   script_0077.obj    0.65   125   125  ◆壊れた椅子◆ | ◆Destroyed Chair?◆
+ 0226c_a01.json    script_0081.obj    0.62    87    87  ◆美春のバナナコント◆ | ◆Miharu's Tale of Bananas◆
+ 0226c_f01.json    script_0083.obj    0.48    10    10  ◆古文の授業◆ | ◆Literature Class◆
+ 0226c_h001.json   script_0085.obj    0.51    18    18  ◆地味にショック◆ | ◆A Deep Shock◆
+ 0226c_h01.json    script_0086.obj    0.53    54    54  ◆門限破り◆ | ◆Past Curfew◆
+ 0226c_k01.json    script_0087.obj    0.69    68    68  ◆ことりとサングラス◆ | ◆Kotori and Sunglasses◆
+ 0226c_t01.json    script_0090.obj    0.54   120   120  ◆転校の理由◆ | ◆Season Of Transference?◆
+!0226d_f01.json    script_0091.obj    0.32    19    19  ◆悪霊退散◆ | ◆Evil Spirits Begone!◆
+ 0226d_f02.json    script_0092.obj    0.82     6     6  ◆目覚ましセット◆ | ◆Setting the Alarm Clock◆
+ 0227_hr.json      script_0093.obj    0.82     6     6  ◆放課後◆ | ◆After-School◆
+ 0227a_b01.json    script_0094.obj    0.50   323   322  ◆着ぐるみとの遭遇◆ | ◆Encounters of the Clothes-Wearing Animal Kind◆
+ 0227a_f02.json    script_0096.obj    0.53    61    61  ◆早起きした日は……◆ | ◆An early day is...◆
+ 0227b_a01.json    script_0098.obj    0.78    57    57  ◆代弁者◆ | ◆Spokesperson◆
+ 0227b_f03.json    script_0101.obj    0.82     4     4  ◆昼が来た◆ | ◆Noon arrives◆
+ 0227b_h01.json    script_0103.obj    0.55    32    32  ◆さくらから呼び出し◆ | ◆Sakura's Paging◆
+ 0227b_k01.json    script_0104.obj    0.61    77    77  ◆暦先生とことり◆ | ◆Koyomi-sensei and Kotori◆
+ 0227b_td01.json   script_0107.obj    0.96    53    53  ◆ムキになる環◆ | ◆Direct Tamaki?◆
+ 0227c_a01.json    script_0108.obj    0.89    35    35  ◆大切な花◆ | ◆Important Flower◆
+ 0227c_d01.json    script_0110.obj    0.73    30    30  ◆工藤はお坊ちゃま？◆ | ◆Kudou's a Rich Kid?◆
+ 0227c_f01.json    script_0114.obj    0.48    10    10  ◆今日の体育はバスケ◆ | ◆Basketball for Today's PE◆
+ 0227c_g01.json    script_0115.obj    0.52   117   117  ◆座禅のお願い◆ | ◆Request To Meditate?◆
+ 0227c_k01.json    script_0117.obj    0.36    34    34  ◆ことりの歌を聴きたかった◆ | ◆Listening to Kotori's song◆
+ 0227d_f01.json    script_0120.obj    0.44    14    14  ◆無理は体によくないし◆ | ◆Don't Push Yourself Too Hard◆
+ 0227d_f02.json    script_0121.obj    0.82     6     6  ◆寝るときは寝る◆ | ◆Sleeptime is for sleep◆
+ 0228_hr.json      script_0122.obj    1.15    10    10  ◆試験前日◆ | ◆Day before exams◆
+ 0228a_f02.json    script_0126.obj    0.68   117   117  ◆お腹の音と栗饅頭◆ | ◆The rumbling stomach and the chestnut manjuu◆
+ 0228b_a01.json    script_0128.obj    0.65    71    71  ◆月城の花◆ | ◆Tsukishiro's Flower◆
+ 0228b_f01.json    script_0131.obj    0.95     8     8  ◆ついに試験前日◆ | ◆One day before exams◆
+ 0228b_f02.json    script_0132.obj    0.59    12    12  ◆英語のポイント◆ | ◆English Points◆
+ 0228b_f03.json    script_0133.obj    0.82     7     7  ◆試験前の昼休み◆ | ◆The lunch break before exams◆
+ 0228b_kd01.json   script_0136.obj    0.85   106   106  ◆告白の仕方◆ | ◆Confessions About Confessions◆
+ 0228b_kd02.json   script_0137.obj    0.66    31    31  ◆ことりの恥ずかしい告白◆ | ◆Kotori's Embarassing Confession◆
+ 0228b_kd03.json   script_0138.obj    0.79    23    23  ◆恋人は虫よけ？◆ | ◆Lover Like An Insect?◆
+ 0228b_t01.json    script_0141.obj    0.41    92    92  ◆食堂での噂◆ | ◆Cafeteria Rumours?◆
+ 0228c_a01.json    script_0142.obj    0.68    49    49  ◆お節介だったかな◆ | ◆Busybody◆
+ 0228c_f01.json    script_0145.obj    0.65     7     7  ◆音楽はハーレム？◆ | ◆Musical Harem?◆
+ 0228c_h01.json    script_0151.obj    0.56    17    16  ◆自分で勉強◆ | ◆High-Brow Girl?◆
+!0228c_k01.json    script_0153.obj    0.26    51    43  ◆むしろ喜んで◆ | ◆Kotori and Real Estate◆
+ 0228c_wd01.json   script_0154.obj    0.80   110   110  ◆苦しい時の神頼み◆ | ◆In Times of Trouble, Seep Help from God◆
+!0228d_f01.json    script_0155.obj    0.28    31    31  ◆ダ・カーポの意味◆ | ◆The Meaning of Da Capo◆
+ 0228d_f02.json    script_0156.obj    0.82     4     4  ◆続く勉強◆ | ◆Continuing Study◆
+ 0301_hr.json      script_0157.obj    1.01    11    11  ◆おおざっぱ◆ | ◆Casual◆
+ 0301a_a01.json    script_0158.obj    0.71    45    45  ◆優雅な生活◆ | ◆Life of Elegance◆
+ 0301a_d.json      script_0160.obj    1.01    26    26  ◆テスト当日◆ | ◆Day of Tests◆
+ 0301a_k.json      script_0163.obj    0.51    54    54  ◆男の意地◆ | ◆A Man's Backbone◆
+!0301a_t01.json    script_0167.obj    0.27   167   167  ◆余裕の環◆ | ◆The Composed Tamaki?◆
+ 0301b_a01.json    script_0169.obj    0.91    73    73  ◆お子様ランチ◆ | ◆Lunch with the Mistress◆
+ 0301b_f01.json    script_0174.obj    0.82     8     8  ◆自信あります◆ | ◆The confident ones◆
+ 0301b_f02.json    script_0175.obj    0.40     9     9  ◆数学のテスト◆ | ◆Maths Test◆
+ 0301b_f03.json    script_0176.obj    0.55    13    13  ◆第１コーナー通過◆ | ◆Rounding the First Corner◆
+ 0301b_h01.json    script_0179.obj    0.68    40    40  ◆暦先生が一服◆ | ◆Koyomi-sensei's Smoke Break◆
+ 0301b_k01.json    script_0180.obj    0.51    81    81  ◆ことりはパシリ？◆ | ◆Kotori the Slave?◆
+ 0301b_nd01.json   script_0181.obj    0.90    44    44  ◆おしえて！　音夢教授♪◆ | ◆Teach me! Professor Nemu♪◆
+ 0301c_a01.json    script_0184.obj    0.62    45    45  ◆月城の気持ち◆ | ◆A Special Thing◆
+ 0301c_f01.json    script_0187.obj    0.55     9     9  ◆本日最後の敵◆ | ◆Today's Most Fearsome Enemy◆
+ 0301c_kd01.json   script_0190.obj    0.75   120   120  ◆ラブレターがたくさん◆ | ◆The Bagful of Love Letters◆
+ 0301c_t01.json    script_0193.obj    0.83   192   192  ◆巫女装束のさくら◆ | ◆Sakura In A Miko Costume?◆
+ 0301d_f01.json    script_0195.obj    0.55    10    10  ◆後半戦の準備◆ | ◆Preparations for the Second Half◆
+ 0301d_f02.json    script_0196.obj    0.55     5     5  ◆セット完了、そして徳川へ◆ | ◆After Setting, Back to Tokugawa◆
+ 0302_hr.json      script_0198.obj    0.88    14    14  ◆終わったよママン◆ | ◆Almost Over◆
+ 0302a_f02.json    script_0202.obj    0.60    35    35  ◆へろへろな美春◆ | ◆Dazed Miharu◆
+ 0302b_a01.json    script_0205.obj    0.57    76    76  ◆ランチタイム◆ | ◆Lunchtime◆
+ 0302b_f01.json    script_0208.obj    0.95     9     9  ◆後半戦スタート◆ | ◆Second half, Begin◆
+ 0302b_f02.json    script_0209.obj    0.48     8     8  ◆社会の試験◆ | ◆Social Studies Exam◆
+ 0302b_f03.json    script_0210.obj    0.48     9     9  ◆ランチという名の自習◆ | ◆Self-Study on the Lunch Menu◆
+ 0302b_g01.json    script_0211.obj    0.75    78    78  ◆ペット談義◆ | ◆Pet Lectures◆
+ 0302b_h01.json    script_0212.obj    0.55   147   147  ◆危ない！え、俺が！？◆ | ◆Danger! Eh, Me!?◆
+ 0302b_k01.json    script_0213.obj    0.95    61    61  ◆暦先生とタバコ◆ | ◆Koyomi-sensei and Cigarettes◆
+ 0302b_t01.json    script_0216.obj    0.55   217   217  ◆環の力◆ | ◆Tamaki's Power?◆
+ 0302c_a01.json    script_0218.obj    0.53    25    25  ◆どっちなんだろう◆ | ◆Which one is it?◆
+!0302c_f01.json    script_0221.obj    0.33    67    67  ◆現国の試験◆ | ◆Social Studies Exam◆
+ 0302c_k01.json    script_0224.obj    0.68    61    61  ◆ことりと歌◆ | ◆Kotori and Singing◆
+ 0302c_sd01.json   script_0226.obj    0.88    45    45  ◆待ち伏せさくら◆ | ◆How's Karaoke?◆
+ 0302c_sd02.json   script_0227.obj    1.04    13    13  ◆友情パワーズ◆ | ◆Friendship Power◆
+ 0302c_t01.json    script_0229.obj    0.64    98    98  ◆大きな槙の木◆ | ◆The Large Evergreen Tree?◆
+ 0302d_f01.json    script_0230.obj    0.55     8     8  ◆すばらしき夜◆ | ◆Wonderful Night◆
+ 0303a_f01.json    script_0231.obj    0.48    10    10  ◆早起きの日曜◆ | ◆Early Sunday◆
+ 0303a_f02.json    script_0232.obj    0.40    16    16  ◆遅く起きた日曜◆ | ◆Late Sunday◆
+ 0303b_a01.json    script_0233.obj    0.65    53    53  ◆それ、咲くといいな◆ | ◆It'd be good if it blooms◆
+ 0303b_d01.json    script_0235.obj    0.59    48    48  ◆高級和菓子◆ | ◆High-Class Wagashi◆
+ 0303b_k01.json    script_0238.obj    0.58    48    48  ◆ことりの卒業パーティー◆ | ◆Kotori's Graduation Party◆
+ 0303b_t01.json    script_0243.obj    0.45    95    95  ◆環の買い物◆ | ◆amaki's Shopping?◆
+ 0303c_a01.json    script_0244.obj    0.57    55    55  ◆モーツァルト◆ | ◆Mozart◆
+ 0303c_kd01.json   script_0252.obj    0.57    61    61  ◆みんなで散歩◆ | ◆Walking With Everyone◆
+!0303c_t01.json    script_0255.obj    0.30    75    75  ◆環と桃饅頭◆ | ◆Tamaki And The Pink Manjuu?◆
+ 0303d_f01.json    script_0256.obj    0.80    30    30  ◆音夢は風紀委員◆ | ◆Nemu, the Disciplinary Committee Member◆
+ 0303d_f02.json    script_0257.obj    0.55     9     9  ◆眠い◆ | ◆Sleepy◆
+ 0304_hiru_a.json  script_0258.obj    0.74    19    19  ◆アリスの夢◆ | ◆I Dream of Alice◆
+ 0304_hiru_d.json  script_0260.obj    0.80    22    22  ◆工藤と杉並の夢◆ | ◆A Dream of Kudou and Suginami◆
+ 0304_hiru_k.json  script_0264.obj    0.87    45    45  ◆ことりの夢◆ | ◆Dreaming Of Kotori◆
+ 0304_hiru_t.json  script_0268.obj    0.74    19    19  ◆環の夢◆ | ◆I Dream of Tamaki?◆
+ 0304_hr.json      script_0269.obj    0.55    12    12  ◆田端の号令◆ | ◆Tahata's Order◆
+!0304a_f02.json    script_0273.obj    0.33   121   121  ◆環の恋愛論◆ | ◆Tamaki's Romance Argument◆
+ 0304b_a01.json    script_0275.obj    0.71    53    53  ◆大事な秘密◆ | ◆Imporant Secret◆
+ 0304b_f01.json    script_0278.obj    0.65     9     9  ◆残り三日◆ | ◆The Remaining Three Days◆
+ 0304b_f02.json    script_0279.obj    0.65     9     9  ◆歴史は知恵袋◆ | ◆History is Knowledge◆
+ 0304b_f03.json    script_0280.obj    1.15     8     8  ◆明日からの俺◆ | ◆Heading Towards Tomorrow◆
+ 0304b_h001.json   script_0282.obj    0.55     9     9  ◆本日休業◆ | ◆Closed For Business◆
+ 0304b_h01.json    script_0283.obj    0.65    13    13  ◆食い気より眠気◆ | ◆Sleeping Over Eating◆
+ 0304b_k01.json    script_0286.obj    0.43    63    62  ◆健気な少女◆ | ◆Kotori's Catching a Cold?◆
+ 0304c_a01.json    script_0288.obj    0.63    60    60  ◆大洪水◆ | ◆Big Flood◆
+ 0304c_f01.json    script_0291.obj    0.90    17    17  ◆悪い竜の王◆ | ◆Evil Dragon King◆
+ 0304c_kd01.json   script_0294.obj    0.82    90    90  ◆暦先生へのプレゼント◆ | ◆A Present for Koyomi-sensei◆
+ 0304c_kd02.json   script_0295.obj    0.69    38    37  ◆工藤と選ぶ◆ | ◆Going With Kudou◆
+ 0304c_kd03.json   script_0296.obj    0.75    30    30  ◆ことりに付き合う◆ | ◆With Kotori◆
+ 0304c_t01.json    script_0299.obj    0.37   100   100  ◆クレープの感動◆ | ◆Crepe's Excitement?◆
+ 0304d_f01.json    script_0301.obj    0.55    14    14  ◆忘れちゃいけない◆ | ◆Can't Forget!◆
+ 0304d_f02.json    script_0302.obj    0.82     4     4  ◆セット完了◆ | ◆Setting Complete◆
+ 0305_hr.json      script_0303.obj    1.15     8     8  ◆明日で授業終了◆ | ◆Classes End Tomorrow◆
+ 0305a_f02.json    script_0305.obj    0.85    30    30  ◆校門前でコツン◆ | ◆Forehead-to-Forehead at the Schoolfront◆
+ 0305b_a01.json    script_0309.obj    0.66    97    97  ◆それぞれのできること◆ | ◆The Thingss People Can Do◆
+ 0305b_f01.json    script_0311.obj    0.55    17    17  ◆非日常を想像◆ | ◆Wild Imagnation◆
+ 0305b_f02.json    script_0312.obj    0.65     8     8  ◆雑誌で自習◆ | ◆Self-Study Magazines◆
+ 0305b_f03.json    script_0313.obj    0.55     6     6  ◆昼休み突入◆ | ◆Lunch Break◆
+ 0305b_kd01.json   script_0317.obj    0.68    48    48  ◆ことりの早退◆ | ◆Kotori, on Early Leave Again◆
+ 0305b_t01.json    script_0323.obj    0.54   103   103  ◆弁当はお重◆ | ◆The 5-Course Boxed Lunch?◆
+ 0305c_a01.json    script_0325.obj    0.89    49    49  ◆嫌いじゃないです◆ | ◆I Won't Mind◆
+ 0305c_f01.json    script_0327.obj    0.90    51    51  ◆カルタバトル◆ | ◆Card Battle◆
+!0305c_h01.json    script_0329.obj    0.33    22    22  ◆暦先生のいい人？◆ | ◆Koyomi-sensei's Good Man?◆
+ 0305c_k01.json    script_0330.obj    0.59    48    48  ◆薬はお早めに◆ | ◆Medicine◆
+ 0305c_t01.json    script_0334.obj    0.44    85    85  ◆神社の掃除◆ | ◆Shrine Sweeping?◆
+ 0305d_f01.json    script_0335.obj    0.44    15    15  ◆明日は付属最後◆ | ◆Tomorrow's the Last Day◆
+ 0305d_f02.json    script_0336.obj    0.82     9     9  ◆いい夜◆ | ◆A good night◆
+ 0306_hr.json      script_0337.obj    0.65    11    11  ◆終った〜！◆ | ◆It's Over~!◆
+ 0306a_f01_anw01.json script_0338.obj    0.80    65    65  ◆最後の学校？◆ | ◆Final School Day?◆
+ 0306a_f02.json    script_0341.obj    0.36    34    34  ◆忠実なわんこ◆ | ◆Faithful Puppy◆
+ 0306b_a01.json    script_0344.obj    0.59    67    67  ◆寂しくない◆ | ◆Won't Be Lonely◆
+ 0306b_d01.json    script_0346.obj    0.97    42    42  ◆トリオで昼食２◆ | ◆Lunch Trio 2◆
+ 0306b_f01.json    script_0348.obj    0.55    11    11  ◆付属授業最終日◆ | ◆Final day of classes◆
+ 0306b_f02.json    script_0349.obj    0.40    13    13  ◆最強恋先生◆ | ◆The Strongest, Ren-sensei◆
+ 0306b_f03.json    script_0350.obj    0.55     6     6  ◆付属最後の昼◆ | ◆The Final Day's Lunch Break◆
+ 0306b_k01.json    script_0351.obj    0.45    75    77  ◆ななこが眼鏡を外したら◆ | ◆Live Rock◆
+ 0306b_st01.json   script_0355.obj    1.00    65    65  ◆ねこ談義◆ | ◆All About Cats?◆
+ 0306c_ag01.json   script_0357.obj    0.88    79    79  ◆ふたりの関係◆ | ◆Our Connection◆
+ 0306c_d01.json    script_0359.obj    0.93    45    45  ◆いつもどおりの遭遇◆ | ◆Everday Encounters◆
+ 0306c_f01.json    script_0361.obj    0.60    20    20  ◆最後は体育◆ | ◆Last Gym Class◆
+ 0306c_f02.json    script_0362.obj    0.84    39    39  ◆意外にいい、試験の結果◆ | ◆An Unexpectedly Good Exam Result◆
+!0306c_k01.json    script_0364.obj    0.35    82    82  ◆卒業パーティーにことりは◆ | ◆Kotori's Graduation Party Preparations◆
+ 0306c_t01.json    script_0367.obj    0.52    71    71  ◆海を見ていた◆ | ◆Watching The Sea?◆
+!0306d_f01.json    script_0369.obj    0.33    19    19  ◆明日から準備期間◆ | ◆Tomorrow Begins the Preparation Period◆
+ 0307a_k01.json    script_0373.obj    0.76   131   131  ◆マスク姿◆ | ◆Masked Figure◆
+ 0307a_t01.json    script_0382.obj    0.97   282   282  ◆環の夢◆ | ◆Tamaki's Childhood Days?◆
+ 0307b_k01.json    script_0384.obj    0.50    61    61  ◆音楽室へ◆ | ◆To the Music Room◆
+ 0307b_k02.json    script_0385.obj    0.37   105   102  ◆学園のアイドル◆ | ◆School Idol◆
+ 0307b_k03.json    script_0386.obj    0.50   106   102  ◆マネージャー◆ | ◆Manager◆
+ 0307b_t01.json    script_0388.obj    0.51   225   225  ◆予知能力の話◆ | ◆Clairvoyant Conversation?◆
+ 0307c_k01.json    script_0390.obj    0.48    98    98  ◆練習の後１◆ | ◆After Practice 1◆
+ 0307d.json        script_0392.obj    0.56   155   155  ◆持つべきものは友◆ | ◆Ever-Prepared Friend◆
+ 0308a_a01.json    script_0394.obj    0.74   208   208  ◆杉並乱入◆ | ◆Suginami The Intruder◆
+ 0308a_k01.json    script_0398.obj    0.66    66    66  ◆ギャラリー締め出し◆ | ◆Shutting Down the Gallery◆
+ 0308a_t01.json    script_0402.obj    0.41   177   177  ◆小さな頃の……◆ | -----
+ 0308b_k01.json    script_0404.obj    0.97    67    67  ◆ことりの友人◆ | ◆Kotori's Friends◆
+!0308c_k01.json    script_0407.obj    0.32    99    99  ◆練習の後２◆ | ◆After Practice 2◆
+ 0308d_k01.json    script_0411.obj    0.63    23    23  ◆おしょうゆ◆ | ◆Soy Sauce◆
+ 0308d_k02.json    script_0412.obj    0.68    63    63  ◆育児通信？◆ | ◆Childcare News？◆
+ 0308d_k03.json    script_0413.obj    0.64    54    54  ◆暦先生が育児通信？◆ | ◆Childcare News？◆
+ 0309a_a01.json    script_0414.obj    0.93   164   164  ◆シズマとスケキヨ◆ | ◆Shizuma And Sukekiyo◆
+ 0309a_k01.json    script_0417.obj    0.57    69    69  ◆ことりの事◆ | ◆There's Something About Kotori◆
+ 0309a_t01.json    script_0427.obj    0.66   211   211  ◆環の相談◆ | ◆Tamaki's Consultance?◆
+ 0309c_k01.json    script_0430.obj    0.68    68    68  ◆練習の後３◆ | ◆After Practice 3◆
+ 0311a_a01.json    script_0442.obj    0.76   248   248  ◆心の距離◆ | ◆Distance from the Heart◆
+ 0311b_k01.json    script_0449.obj    0.76   210   210  ◆ことり、ダウン◆ | ◆Kotori, Down◆
+ 0311b_k02.json    script_0450.obj    0.50    40    40  ◆暦先生からの質問◆ | ◆Koyomi-sensei's Inquiry◆
+ 0311b_k03.json    script_0451.obj    0.39    51    51  ◆ことりが好き◆ | ◆I like Kotori◆
+ 0311b_k04.json    script_0452.obj    0.48    64    64  ◆まだ分からない……◆ | ◆I Still Don't Know...◆
+ 0311b_t01.json    script_0455.obj    0.58   321   321  ◆巫女同好会設立◆ | ◆Miko Association Beginning?◆
+!0311d.json        script_0458.obj    0.32   110   110  ◆第二ボタン◆ | ◆The Second Button◆
+ 0311d_k01.json    script_0459.obj    0.51    64    64  ◆ことりから電話◆ | ◆Kotori's Phone Call◆
+ 0312c_k01.json    script_0467.obj    0.72   161   161  ◆ことりの看病１◆ | ◆Looking After Kotori 1◆
+ 0313c_k01.json    script_0475.obj    0.90    88    88  ◆ことりの看病２◆ | ◆Looking After Kotori 2◆
+ 0314c_k01.json    script_0484.obj    0.77   128   128  ◆ことりの人間観察◆ | ◆Kotori's Reading of People◆
+ 0314d_k01.json    script_0485.obj    0.98   101   101  ◆ことりの夢◆ | ◆Young Kotori◆
+ 0315a_a01.json    script_0486.obj    0.63   144   144  ◆ロスキルラベンダー◆ | ◆Roskill Lavender◆
+ 0315a_k01.json    script_0494.obj    0.83    93    93  ◆卒業◆ | ◆Graduation◆
+ 0315a_k02.json    script_0495.obj    0.72   157   157  ◆告白◆ | ◆On-Stage Confession◆
+ 0315b_t01.json    script_0503.obj    0.37   313   275  ◆タイムカプセル◆ | ◆Sweet Red-bean Drink Battle?◆
+ 0315d.json        script_0512.obj    0.68    78    78  ◆未だ見ぬ彼女◆ | ◆Yet-To-Be-Seen Girl◆
+ 0315d_end.json    script_0513.obj    0.47    88    89  ◆幽霊はきっと……◆ | ◆ED. Towards Tomorrow◆
+ 0315d_k01.json    script_0517.obj    0.60   109   109  ◆恋人◆ | ◆Lovers◆
+ 0316a_a01.json    script_0525.obj    0.68    79    79  ◆花が咲くって信じてる◆ | ◆Believing That It'll Bloom◆
+ 0316a_k01.json    script_0526.obj    0.39   147   155  ◆遠く離れてゆく人へ◆ | ◆A Date with Kotori◆
+ 0316a_k02.json    script_0529.obj    0.38   137   137  ◆暦先生への結婚祝い◆ | ◆Koyomi-sensei's Wedding Party◆
+ 0316a_k03.json    script_0530.obj    0.69    81    81  ◆暦先生に見られる◆ | ◆Caught by Koyomi-sensei◆
+ 0316b_t01.json    script_0533.obj    0.57   111   111  ◆本の中身は？◆ | ◆Within the Book is??◆
+ 0317.json         script_0534.obj    0.38    76    76  ◆まったり三昧◆ | ◆Awaited Concentration◆
+ 0317a_a01.json    script_0535.obj    0.73   196   196  ◆メルヘンとリアル◆ | ◆Fantasy And Reality◆
+!0317a_t01.json    script_0540.obj    0.24   342   340  ◆環とデート◆ | ◆Date with Tamaki?◆
+ 0317d_b.json      script_0543.obj    0.38   130   130  ◆恋愛映画と工藤◆ | ◆Romance Movies and Kudou◆
+ 0317d_c.json      script_0544.obj    0.56    90    90  ◆男二人組◆ | ◆Two Good Men◆
+ 0318a_t01.json    script_0545.obj    0.46   101    99  ◆音夢のブラウス◆ | ◆Nemu, Off to Nursing School?◆
+!0319a_t01.json    script_0553.obj    0.23   218   218  ◆槙の木の上で◆ | ◆On The Treetop?◆
+ 0319d_k01.json    script_0555.obj    0.65   139   139  ◆音夢が島を出る◆ | ◆Nemu's Leaving the Island◆
+ 0320a_a01.json    script_0561.obj    0.59   117   115  ◆公園でのキス◆ | ◆The Night of the Storm◆
+ 0320a_k01.json    script_0567.obj    0.50    86    86  ◆絶望の淵◆ | ◆Kotori and Kudou◆
+ 0321a_a01.json    script_0570.obj    0.48    86    83  ◆ぐんにょり◆ | ◆Depths of Despair◆
+ 0322a_a01.json    script_0575.obj    0.56   186   161  ◆月城の過去◆ | ◆Tsukishiro's Past◆
+ 0322a_k01.json    script_0576.obj    0.66    70    70  ◆無駄な心配◆ | ◆Pointless Worrying◆
+ 0324a_a01.json    script_0578.obj    0.86    72    72  ◆セバスチャンのお願い◆ | ◆Sebastian's Request◆
+ 0327a_a01.json    script_0585.obj    0.75   254   253  ◆願いは叶わない◆ | ◆Ungrantable Wish◆
+ 0329a_a01.json    script_0592.obj    0.46   249   249  ◆一人じゃない◆ | ◆You're Not Alone◆
+!0331a_a01.json    script_0599.obj    0.28    30    30  ◆杉並の思惑◆ | ◆Suginami's Expectations◆
+ 0401a_a01.json    script_0602.obj    1.03   232   232  ◆月城の気持ち◆ | ◆Tsukishiro's Feelings◆
+ 0404a_a01.json    script_0604.obj    0.91    40    40  ◆お茶会への招待状◆ | ◆Invitation to a Tea Party◆
+ 0406a_a01.json    script_0606.obj    0.91   208   208  ◆もう寂しくなんかない◆ | ◆Lonely No More◆
+!0406d_k01.json    script_0607.obj   -1.00   279   148  ◆穏やかな春の日◆ | ◆Kotori, H-Scene 1◆
+!0406d_k02.json    script_0608.obj    0.28    27    34  ◆退院◆ | ◆Going Home◆
+!0407a_t01.json    script_0614.obj    0.22   521   360  ◆お守り◆ | ◆Charm?◆
+ 0407d.json        script_0616.obj    0.74    77    77  ◆変わらぬ日々◆ | ◆Unchanging Days◆
+ 0408a_k01.json    script_0619.obj    0.52    93    93  ◆一緒のクラス◆ | ◆Same Class◆
+ 0408a_k02.json    script_0620.obj    0.61    34    34  ◆最初の一日◆ | ◆The First Day◆
+ 0408a_t01.json    script_0627.obj    0.64   242   242  ◆見世物は……◆ | -----
+ 0408b_k01.json    script_0632.obj    0.67    34    34  ◆お花見◆ | ◆Flower Viewing◆
+ 0408c_k01.json    script_0633.obj    0.49    94    94  ◆プレゼントの練習◆ | ◆Present Practice◆
+ 0408d_k01.json    script_0637.obj    0.78    52    52  ◆にこにこ◆ | ◆Smile smile◆
+!0409c_t01.json    script_0652.obj   -0.02   341   240  ◆環の手料理◆ | ◆Tamaki's Cooking?◆
+ 0411c_t01.json    script_0667.obj    0.80   144   144  ◆必勝祈願◆ | ◆Victory Prayer?◆
+ 0413c_t01.json    script_0687.obj    0.49    51    51  ◆必勝祈願が効いた！◆ | ◆Successful Victory Prayer!?◆
+ 0413d_k01.json    script_0691.obj    0.39    26    29  ◆誘う？◆ | ◆Invite?◆
+ 0413d_k02.json    script_0692.obj    0.51    11    12  ◆バイバイ◆ | ◆Bye Bye◆
+!0413d_k03.json    script_0697.obj   -0.19   176   102  ◆メイドとしての成長◆ | ◆Kotori, H-Scene 2◆
+!0414a_a01.json    script_0699.obj   -0.11   293   180  ◆遊園地◆ | ◆Lovers on the Beach◆
+!0414b_t01.json    script_0701.obj    0.11   180   136  ◆外食に行こうとしたけれど◆ | ◆Amusement Park?◆
+ 0415a_a01.json    script_0704.obj    0.47   130   130  ◆ＥＤ・いつまでも……◆ | ◆ED. Always...◆
+ 0416c_t01.json    script_0715.obj    0.62   121   120  ◆環との関係◆ | ◆Relationship With Tamaki?◆
+ 0416d.json        script_0717.obj    0.69   102   102  ◆好きな人は……◆ | ◆The loved one is...◆
+ 0416d_b.json      script_0724.obj    0.48    38    47  ◆お掃除◆ | ◆Warning: Love Approaching◆
+ 0418b_k01.json    script_0726.obj    0.37    62    59  ◆頼子さんを誘う◆ | ◆GW◆
+ 0419b_t01.json    script_0731.obj    0.47   156   154  ◆巫女とは……◆ | -----
+ 0420d_k01.json    script_0742.obj    0.50    85    85  ◆海を望む午後◆ | ◆Together Forever◆
+ 0420d_k02.json    script_0743.obj    0.52   119   119  ◆パパとの怠惰な１日♪◆ | ◆Kotori, H-Scene 3◆
+!0420d_k03.json    script_0745.obj   -1.00    11   142  ◆メイドの頼子◆ | ◆Halted◆
+ 0422.json         script_0746.obj    0.57    73    73  ◆ツッコミ不在◆ | ◆No Tsukkomi◆
+ 0422a_t01.json    script_0750.obj    0.43   266   269  ◆巫女は恋愛できない？◆ | ◆Miko Can't Love??◆
+ 0423.json         script_0751.obj    0.90    76    76  ◆過保護症候群◆ | ◆Excessive Care Syndrome◆
+ 0423d_b.json      script_0754.obj    0.56   134   134  ◆１ｓｔ　Ｋｉｓｓ◆ | ◆First Kiss◆
+ 0423d_c.json      script_0758.obj    0.60    52    50  ◆廊下でちゅー◆ | ◆Strange? Love?◆
+!0425c_t01.json    script_0768.obj    0.30   248   251  ◆合宿の誘い◆ | ◆Training Camp Invitation?◆
+ 0425d.json        script_0769.obj    0.57    83    83  ◆コイゴコロ警報◆ | ◆Sirens of Love◆
+ 0426c_k01.json    script_0775.obj    0.69    47    47  ◆姉へ贈る歌◆ | ◆A Song to My Sister◆
+ 0427d.json        script_0776.obj    0.49   124   135  ◆指輪◆ | ◆Kotori's Conjecture◆
+ 0429b_t01.json    script_0799.obj    0.50   134   134  ◆さくらと桜◆ | ◆Sakura and the Sakura?◆
+ 0429d.json        script_0800.obj    0.42   102   105  ◆恋心全開◆ | ◆Complete Love Awakening◆
+ 0429d_b.json      script_0801.obj    0.66    57    57  ◆工藤からの電話◆ | ◆A Call from Kudou◆
+ 0430.json         script_0802.obj    0.51    84    84  ◆葉桜の精◆ | ◆Cherry Tree Spirit◆
+ 0430a_k01.json    script_0805.obj    0.56    65    65  ◆枯れた桜◆ | ◆Withered Sakura Petals◆
+ 0430a_t01.json    script_0806.obj    0.65    28    28  ◆枯れない桜◆ | ◆Withering Sakura?◆
+ 0430b_k01.json    script_0808.obj    0.39    40    40  ◆元気のないことり１◆ | ◆Depressed Kotori 1◆
+ 0430c_k01.json    script_0809.obj    0.38    53    53  ◆元気のないことり２◆ | ◆Depressed Kotori 2◆
+ 0501a_k01.json    script_0812.obj    1.01     9     9  ◆元気のないことり３◆ | ◆Depressed Kotori 3◆
+ 0501a_k02.json    script_0813.obj    0.65    51    51  ◆疑惑◆ | ◆Doubt◆
+ 0501a_t01.json    script_0814.obj    0.68    84    84  ◆無理をする環◆ | ◆Tamaki, Overdoing It?◆
+ 0501b_k01.json    script_0816.obj    0.82    67    67  ◆能力の消失◆ | ◆Loss of Power◆
+ 0501c_k01.json    script_0818.obj    0.67    82    82  ◆ことりを思う◆ | ◆Thoughts of Kotori◆
+ 0502a_k01.json    script_0822.obj    0.55    41    41  ◆ことりが欠席◆ | ◆Kotori's Absence◆
+!0502c_k01.json    script_0823.obj    0.35    93    93  ◆ことりの苦しみ◆ | ◆Kotori's Pain◆
+ 0503a_k01.json    script_0824.obj    0.61    96    97  ◆仮面の笑み◆ | ◆A Masked Smile◆
+ 0503a_t01.json    script_0825.obj    0.55   148   148  ◆合宿が中止に◆ | ◆Training Camp Cancelled?◆
+ 0504a_t01.json    script_0826.obj    0.52    89    90  ◆音夢の帰省◆ | ◆Quitting Club Members?◆
+!0505a_t01.json    script_0828.obj    0.10    26    33  ◆お休みの挨拶◆ | ◆Tamaki's Call?◆
+ 0505d_k01.json    script_0830.obj    0.51    88    85  ◆ＥＤ・また会おうね◆ | ◆The Changes in Kotori◆
+ 0506a_k01.json    script_0834.obj    0.35   279   279  ◆ことりの心◆ | ◆Kotori's Heart◆
+ 0506a_t01.json    script_0835.obj    0.56   132   132  ◆環が倒れた日◆ | ◆The Day Tamaki Collapsed?◆
+ 0506b_k01.json    script_0837.obj    1.04    69    69  ◆結婚式の歌姫◆ | ◆The Singing Princess of the Wedding Ceremony◆
+ 0506c_k01.json    script_0838.obj    0.58    77    77  ◆ＥＤ・ふたりの将来？◆ | ◆ED. Our Future?◆
+ 0506d.json        script_0839.obj    0.58    62    54  ◆薔薇色の日々１◆ | ◆Rose-Coloured Days 1◆
+ 0508b_t01.json    script_0843.obj    0.44   190   207  ◆眞子のハッパ◆ | ◆Sleeping Tamaki?◆
+!0510b_t01.json    script_0844.obj    0.22   256   207  ◆雨の中の告白ななこ◆ | ◆Deep Bond?◆
+ 0511a_t01.json    script_0845.obj    0.35   138   133  ◆鷺澤美咲◆ | ◆Deep and Strong Bond?◆
+!0512a_t01.json    script_0847.obj    0.32   146   185  ◆ＥＤ・２０５時間後の告白◆ | ◆The Last Dance?◆
+!0515d.json        script_0848.obj    0.30    91   106  ◆夢の終わり◆ | ◆Rose-Coloured Days 2◆
+!0519d.json        script_0849.obj    0.24   152   190  ◆眠り続ける環◆ | ◆Second Coming of the First Kiss◆
+!0521d.json        script_0851.obj    0.18    64    51  ◆ＥＤ・忘れなくていいから◆ | ◆Spy◆
+ 0522a_d01.json    script_0854.obj    0.36   125   136  ◆ＥＤ・ラムネの味◆ | ◆Beyond My Dreams◆
+!0524a_d01.json    script_0857.obj   -0.18   334   193  ◆ななこの涙◆ | ◆Very Important Loved One◆
+!0528a_d01.json    script_0859.obj    0.17   176   149  ◆二度目のファーストキス◆ | ◆In The Rain◆
+!0531a_d01.json    script_0861.obj    0.19   108   149  ◆君の為にできること◆ | ◆The Things I Can Do For You◆
+ 0605a_d01.json    script_0862.obj    0.50   113   118  ◆復活のななこ◆ | ◆Just Another Classmate◆
+!0610a_d01.json    script_0863.obj    0.14   147   113  ◆ただのクラスメイト◆ | ◆Limit◆
+!0610b_d01.json    script_0864.obj    0.14   194   145  ◆限界◆ | ◆Only One Way◆
+ 0613a_d01.json    script_0866.obj    0.58    78    78  ◆広がる不安◆ | ◆Spreading Anxiety◆
+ 0614a_d01.json    script_0869.obj    0.86    88    88  ◆転入生◆ | ◆Transfer Student◆
+ 0616a_d01.json    script_0870.obj    0.44    78    72  ◆ＥＤ・生涯の伴侶◆ | ◆ED: Life Partner◆

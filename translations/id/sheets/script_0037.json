@@ -1,0 +1,106 @@
+{
+  "scene": "script_0037.obj",
+  "dialogues": [
+    {
+      "offset": 133,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだか教室が浮ついていると思ったら、どう\nやら今日、どこぞのクラスに転校生が来るらし\nい。",
+      "en": "The class was bubbling with excitement today. Apparently\nthere was another transfer student in the neighbouring\nclass.",
+      "text": "The class was bubbling with excitement today. Apparently\nthere was another transfer student in the neighbouring\nclass."
+    },
+    {
+      "offset": 228,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ま、女の子らしいのだが、うちのクラスではな\nいようなので話に参加せず、大人しく机の上で\nまどろんでいた。",
+      "en": "Apparently, it's a girl, and she has some strange reasons\nfor transferring here, from what I heard chattering around\nmy desk.",
+      "text": "Apparently, it's a girl, and she has some strange reasons\nfor transferring here, from what I heard chattering around\nmy desk."
+    },
+    {
+      "offset": 335,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "転校生と恋に落ちるような、そんな展開普通は\nありえないし……。",
+      "en": "I can't really believe that this transfer student would\ntransfer to a different school out of an unrequited love...",
+      "text": "I can't really believe that this transfer student would\ntransfer to a different school out of an unrequited love..."
+    },
+    {
+      "offset": 434,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ほらっ、席について」",
+      "en": "\"Everyone, back to your tables.\"",
+      "text": "\"Everyone, back to your tables.\""
+    },
+    {
+      "offset": 463,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、暦先生が教室に入ってくると、浮ついた空\n気を払うように出席簿で机をバンバンと叩く。",
+      "en": "With Koyomi-sensei's entrance into the classroom, the bustle\nof the classroom died quickly as the attendance was marked.",
+      "text": "With Koyomi-sensei's entrance into the classroom, the bustle\nof the classroom died quickly as the attendance was marked."
+    },
+    {
+      "offset": 564,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「今週は試験があるからね。ちゃんと今のうち\n　から勉強しておいた方が身のためだよ」",
+      "en": "\"This week is examination week, so make sure you study hard\nfor it.\"",
+      "text": "\"This week is examination week, so make sure you study hard\nfor it.\""
+    },
+    {
+      "offset": 652,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "実に暦先生らしい言い方で、朝の連絡が行われ\nる。",
+      "en": "Koyomi-sensei's \"words of encouragement\" certainly didn't\nsound like them.",
+      "text": "Koyomi-sensei's \"words of encouragement\" certainly didn't\nsound like them."
+    },
+    {
+      "offset": 704,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "学生を脅すなよ。",
+      "en": "More like a threat to the students.",
+      "text": "More like a threat to the students."
+    },
+    {
+      "offset": 725,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暦先生は必要なことだけを言って、とてもあっ\nさりと｛ホームルーム／ＨＲ｝を終わらせる。",
+      "en": "Koyomi-sensei went through the usual things, and then ended\nhomeroom.",
+      "text": "Koyomi-sensei went through the usual things, and then ended\nhomeroom."
+    },
+    {
+      "offset": 919,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆転校生の噂◆",
+      "en": "◆Transfer student rumours◆",
+      "text": "◆Transfer student rumours◆"
+    },
+    {
+      "offset": 962,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日、どこぞのクラスに転校生が来るとかで、\n一部で盛り上がっている。",
+      "en": "Today, a transfer student came into the other class, and\ncaused some excitement in this one.",
+      "text": "Today, a transfer student came into the other class, and\ncaused some excitement in this one."
+    },
+    {
+      "offset": 1034,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "転校生との劇的な恋……なんてものを夢見るほ\nど子供じゃない俺は、どっちかと言えば、週末\nの試験の方が気になるのだった。",
+      "en": "The transfer student's dramatic love... sounds more like a\nkid's dream, and the subject was quickly changed to worrying\nabout the coming exams.",
+      "text": "The transfer student's dramatic love... sounds more like a\nkid's dream, and the subject was quickly changed to worrying\nabout the coming exams."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "428": "Koyomi",
+    "558": "Koyomi"
+  }
+}

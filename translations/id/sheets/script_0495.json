@@ -1,0 +1,1317 @@
+{
+  "scene": "script_0495.obj",
+  "dialogues": [
+    {
+      "offset": 154,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この学園にこんなに人数が居たのかと、思わず\n疑問に思ってしまうくらい、男子学生の黒い制\n服で館内はいっぱいだ。",
+      "en": "Did this school really have this many people? That's what I\nasked myself as I gazed over the numerous male students.",
+      "text": "Did this school really have this many people? That's what I\nasked myself as I gazed over the numerous male students."
+    },
+    {
+      "offset": 269,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……暇な奴らめ」",
+      "en": "\"...Bunch of good-for-nothings.\"",
+      "text": "\"...Bunch of good-for-nothings.\""
+    },
+    {
+      "offset": 294,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ワイワイガヤガヤとしたざわめきに、何だか頭\n痛まで覚えてしまう。",
+      "en": "All the giggling and gaggling around the room made my head\nthrob.",
+      "text": "All the giggling and gaggling around the room made my head\nthrob."
+    },
+    {
+      "offset": 364,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はあ……」",
+      "en": "\"Haah...\"",
+      "text": "\"Haah...\""
+    },
+    {
+      "offset": 383,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ため息をつきつつ、壇上を見遣る。そして、再\nびため息。そこには、こんな垂れ幕があるのだ。",
+      "en": "I sighed heavily, and looked towards the stage. A second\nheavy sigh followed. On the curtains was a large banner:",
+      "text": "I sighed heavily, and looked towards the stage. A second\nheavy sigh followed. On the curtains was a large banner:"
+    },
+    {
+      "offset": 475,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "“第２回　ミス風見学園コンテスト”",
+      "en": "\"2nd Miss Kazami Academy Contest\".",
+      "text": "\"2nd Miss Kazami Academy Contest\"."
+    },
+    {
+      "offset": 516,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……二番煎じ」",
+      "en": "\"...Rerun.\"",
+      "text": "\"...Rerun.\""
+    },
+    {
+      "offset": 539,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "クリスマスの時と全く同じだ。それでも、これ\nだけ人が集まるんだから嫌になる。",
+      "en": "It was just the same as last Christmas. And just like last\nChristmas, I didn't want to be around such a huge gathering\nof people.",
+      "text": "It was just the same as last Christmas. And just like last\nChristmas, I didn't want to be around such a huge gathering\nof people."
+    },
+    {
+      "offset": 621,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（衣装と引き替えに、ミスコンに出場……か）",
+      "en": "\"(About the only thing to look forward to is the girls that\nactually come out...)\"",
+      "text": "\"(About the only thing to look forward to is the girls that\nactually come out...)\""
+    },
+    {
+      "offset": 670,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あの時は“いいんじゃないかな”なんて言った\nくせに、いざとなってみると、釈然としない気\n持ちがわき上がってくる。",
+      "en": "Where all the boys suddenly learn exactly where their brain\nis located.",
+      "text": "Where all the boys suddenly learn exactly where their brain\nis located."
+    },
+    {
+      "offset": 787,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 806,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はあ……」",
+      "en": "\"Haah...\"",
+      "text": "\"Haah...\""
+    },
+    {
+      "offset": 825,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「何なんだろうな、このもやもやは……」",
+      "en": "\"There's something strange about this...\"",
+      "text": "\"There's something strange about this...\""
+    },
+    {
+      "offset": 882,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「あー、マイクマイク……おっけー」",
+      "en": "\"Ahh, testing testing 1, 2, 3.\"",
+      "text": "\"Ahh, testing testing 1, 2, 3.\""
+    },
+    {
+      "offset": 923,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「お、始まったか」",
+      "en": "\"Oh, it's starting.\"",
+      "text": "\"Oh, it's starting.\""
+    },
+    {
+      "offset": 960,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「えー、大変長らくお待たせしました」",
+      "en": "\"Our deepest apologies for the long wait.\"",
+      "text": "\"Our deepest apologies for the long wait.\""
+    },
+    {
+      "offset": 1005,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "潮のように、館内のざわめきがすっと遠のく。",
+      "en": "Swept away by the wave of noise, the apology was barely\nheard by the masses.",
+      "text": "Swept away by the wave of noise, the apology was barely\nheard by the masses."
+    },
+    {
+      "offset": 1066,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「それではこれより、手芸部主催の、ミス風見\n　学園コンテストを実施します！」",
+      "en": "\"But now, we are proud to present you the Miss Kazami\nAcademy Contest, sponsored by the handicrafts club!\"",
+      "text": "\"But now, we are proud to present you the Miss Kazami\nAcademy Contest, sponsored by the handicrafts club!\""
+    },
+    {
+      "offset": 1153,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "わーわー。引いた潮が返ってくる。",
+      "en": "A series of shouts of approval could be heard from the\naudience.",
+      "text": "A series of shouts of approval could be heard from the\naudience."
+    },
+    {
+      "offset": 1192,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ぶーぶー」",
+      "en": "\"Boo, boo.\"",
+      "text": "\"Boo, boo.\""
+    },
+    {
+      "offset": 1211,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "早速のブーイングに、周りの何人かが｛いぶか／訝｝しげな\n顔で振り返った。",
+      "en": "Despite the comparitively soft booing coming from me,\nseveral faces immediately turned towards me suspiciously.",
+      "text": "Despite the comparitively soft booing coming from me,\nseveral faces immediately turned towards me suspiciously."
+    },
+    {
+      "offset": 1301,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「それではエントリーＮｏ１。手芸部推薦の本\n　命！　風見学園付属３年１組――朝倉音夢さ\n　んです！」",
+      "en": "\"Let's welcome entry number 1! The handicraft club's hot\npick! From Kazami Academy's Year 3 Class 1--Asakura Nemu!!\"",
+      "text": "\"Let's welcome entry number 1! The handicraft club's hot\npick! From Kazami Academy's Year 3 Class 1--Asakura Nemu!!\""
+    },
+    {
+      "offset": 1406,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「え？」",
+      "en": "\"Eh?\"",
+      "text": "\"Eh?\""
+    },
+    {
+      "offset": 1433,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「──のはずだったのですが、いや、残念！　\n　彼女は今回は、参加しておりません」",
+      "en": "\"--Is what I want to say, but unfortunately no! Asakura Nemu\nwill not be participating this year.\"",
+      "text": "\"--Is what I want to say, but unfortunately no! Asakura Nemu\nwill not be participating this year.\""
+    },
+    {
+      "offset": 1521,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぶーぶー。激しいブーイング。",
+      "en": "Boo boo, vehement booing commenced.",
+      "text": "Boo boo, vehement booing commenced."
+    },
+    {
+      "offset": 1568,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「いや〜、個人的には自分も残念なんですが\n　……」",
+      "en": "\"Nooo~~ I'm very disappointed myself!\"",
+      "text": "\"Nooo~~ I'm very disappointed myself!\""
+    },
+    {
+      "offset": 1636,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「何せ、勧誘に行った手芸部員が、ことごとく\n　原因不明の体調不良に襲われるという、不測\n　の事態が起こりまして……」",
+      "en": "\"An invitation was sent for her to parcipate by the\nhandicraft club, but she cited that av illness prevented her\nparticipation.\"",
+      "text": "\"An invitation was sent for her to parcipate by the\nhandicraft club, but she cited that av illness prevented her\nparticipation.\""
+    },
+    {
+      "offset": 1757,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 1776,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の奴、手料理でも振舞ったのか？",
+      "en": "That Nemu, did she try and eat her own cooking?",
+      "text": "That Nemu, did she try and eat her own cooking?"
+    },
+    {
+      "offset": 1829,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「え〜、お静かに。あまり進行の妨げになりま\n　すと、最後の人まで回らない可能性が出てき\n　ますからね」",
+      "en": "\"Ehh~~, please settle down. Although you may be disappointed\nnow, I'm sure you'd enjoy what we have saved for last.\"",
+      "text": "\"Ehh~~, please settle down. Although you may be disappointed\nnow, I'm sure you'd enjoy what we have saved for last.\""
+    },
+    {
+      "offset": 1948,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「これはここだけの話ですが、最後の人はとっ\n　ておきらしいですよ」",
+      "en": "\"So please sit back and enjoy the rest of the show!\"",
+      "text": "\"So please sit back and enjoy the rest of the show!\""
+    },
+    {
+      "offset": 2020,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "打ち明け話のように、声をひそめる。再び静ま\nり返る館内。何やら、パブロフの犬めいている。",
+      "en": "From his pacification, the audience quickly quietened down.\nThey must be Pavlov's dogs or something.",
+      "text": "From his pacification, the audience quickly quietened down.\nThey must be Pavlov's dogs or something."
+    },
+    {
+      "offset": 2126,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「ではでは、気を取り直して参りましょう」",
+      "en": "\"Now then, get ready for the first contestant!\"",
+      "text": "\"Now then, get ready for the first contestant!\""
+    },
+    {
+      "offset": 2185,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「エントリーＮｏ１。風見学園付属２年３組\n　……」",
+      "en": "\"Entry number 1, From Kazami Academy Year 2 Class 3...\"",
+      "text": "\"Entry number 1, From Kazami Academy Year 2 Class 3...\""
+    },
+    {
+      "offset": 2272,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "………。",
+      "en": ".........",
+      "text": "........."
+    },
+    {
+      "offset": 2285,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 2296,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…。",
+      "en": "...",
+      "text": "..."
+    },
+    {
+      "offset": 2324,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぼんやりとしているうちに、出場者達はどんど\nんさばけていった。",
+      "en": "I absentmindedly stared as the stage as contestant after\ncontestant came and left.",
+      "text": "I absentmindedly stared as the stage as contestant after\ncontestant came and left."
+    },
+    {
+      "offset": 2390,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "彼女達の受け答えに館内が一喜一憂していたが、\n俺にとっては対岸の出来事にしか思えなかった。",
+      "en": "I was completely oblivious to their answers on the greatest\njoys and sorrows or whatever the hell the announcer was\nasking them.",
+      "text": "I was completely oblivious to their answers on the greatest\njoys and sorrows or whatever the hell the announcer was\nasking them."
+    },
+    {
+      "offset": 2486,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ことりの番……まだ？」",
+      "en": "\"Still not... Kotori's turn?\"",
+      "text": "\"Still not... Kotori's turn?\""
+    },
+    {
+      "offset": 2517,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "呟きに、何人かの顔がこちらを向く。微妙に目\nに、敵意を含んで。",
+      "en": "As I murmured, more people turned to face me. I knew they\nwere trying to hold back some vicious words.",
+      "text": "As I murmured, more people turned to face me. I knew they\nwere trying to hold back some vicious words."
+    },
+    {
+      "offset": 2585,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2604,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（かったる……）",
+      "en": "\"(Troublesome...)\"",
+      "text": "\"(Troublesome...)\""
+    },
+    {
+      "offset": 2639,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「えー、皆さんにお楽しみいただいた、第２回\n　ミス風見学園コンテストも、次の方でラスト\n　です」",
+      "en": "\"And now we present to you the final contestant in the Miss\nKazami Academy Contest!\"",
+      "text": "\"And now we present to you the final contestant in the Miss\nKazami Academy Contest!\""
+    },
+    {
+      "offset": 2740,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「やっとか」",
+      "en": "\"Finally.\"",
+      "text": "\"Finally.\""
+    },
+    {
+      "offset": 2759,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ってことは、さっき言っていた“とっておき”っ\nてのは、ことりの事だった訳だ。",
+      "en": "Of course when the announcer referred to saving for last at\nthe beginning, this was what he was meant.",
+      "text": "Of course when the announcer referred to saving for last at\nthe beginning, this was what he was meant."
+    },
+    {
+      "offset": 2853,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「それではエントリーＮｏ２０。手芸部推薦の\n　本命！　風見学園付属３年３組――白河こと\n　りさんです！」",
+      "en": "\"Presenting the handicraft club's hot pick! From Year 3\nClass 3 of Kazami Academy, Shirakawa Kotori!!\"",
+      "text": "\"Presenting the handicraft club's hot pick! From Year 3\nClass 3 of Kazami Academy, Shirakawa Kotori!!\""
+    },
+    {
+      "offset": 2988,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ひときわ大きな歓声に、館内が揺れた──よう\nにさえ思った。",
+      "en": "The tremendous shout of joy from the crowd was enough to\nmake the entire stage sway.",
+      "text": "The tremendous shout of joy from the crowd was enough to\nmake the entire stage sway."
+    },
+    {
+      "offset": 3052,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（ことり……）",
+      "en": "\"(Kotori...)\"",
+      "text": "\"(Kotori...)\""
+    },
+    {
+      "offset": 3073,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "対岸でしかなかったコンテストが、ぐっと身近\nに迫ってくる。",
+      "en": "I tried to push my way closer to the stage, but to little\navail.",
+      "text": "I tried to push my way closer to the stage, but to little\navail."
+    },
+    {
+      "offset": 3149,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「えー、白河さん。ラストとしての気分はいか\n　がですか？」",
+      "en": "\"So, Shirakawa-san, how do you feel about being the last\ncontestant?\"",
+      "text": "\"So, Shirakawa-san, how do you feel about being the last\ncontestant?\""
+    },
+    {
+      "offset": 3247,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そうですね。何だか、待ちくたびれちゃった\n　感じがします」",
+      "en": "\"Yes, I feel like I've been waiting a long time for this.\"",
+      "text": "\"Yes, I feel like I've been waiting a long time for this.\""
+    },
+    {
+      "offset": 3325,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「おお、何やら余裕の発言ですね。それは、自\n　信の表れですか？」",
+      "en": "\"Ohh, very composed words! You must be feeling very\nconfident!\"",
+      "text": "\"Ohh, very composed words! You must be feeling very\nconfident!\""
+    },
+    {
+      "offset": 3429,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「え？　ち、違いますよー。だって、今だって、\n　ドキドキして胸が痛いくらいなんですから」",
+      "en": "\"Eh? N, no, not really~ Right now, my heart is beating so\nfast it hurts!\"",
+      "text": "\"Eh? N, no, not really~ Right now, my heart is beating so\nfast it hurts!\""
+    },
+    {
+      "offset": 3523,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "きゅっと胸元を押さえる。その仕草に、館内全\n体がため息をもらした。",
+      "en": "She placed her hand on her chest, and caused the entire\naudience to let out a dreamy sigh.",
+      "text": "She placed her hand on her chest, and caused the entire\naudience to let out a dreamy sigh."
+    },
+    {
+      "offset": 3607,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「では最初に、なにかコメントや披露しておき\n　たい特技があればどうぞ」",
+      "en": "\"Now, you said prior to your arrival that you had a special\nannouncement to make, so please go right ahead!\"",
+      "text": "\"Now, you said prior to your arrival that you had a special\nannouncement to make, so please go right ahead!\""
+    },
+    {
+      "offset": 3717,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、時間は大分遅いんですけど、友達と一緒\n　に楽曲の演奏をするんです。良かったら、皆\n　さん、聴きに来てくださいね」",
+      "en": "\"Ah, although it's short notice, my friends and I will be\nperforming a musical piece for the graduation party. Please\ncome and listen!\"",
+      "text": "\"Ah, although it's short notice, my friends and I will be\nperforming a musical piece for the graduation party. Please\ncome and listen!\""
+    },
+    {
+      "offset": 3840,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "館内のあちこちで、パンフレットが開かれた。\n｛ちり／塵｝も積もれば何とやらで、耳を｛ろう／聾｝するような音\nだ。",
+      "en": "All around the room, I could hear the sounds of pamphlets\nbeing opened. It was so loud, even the deaf could hear it.",
+      "text": "All around the room, I could hear the sounds of pamphlets\nbeing opened. It was so loud, even the deaf could hear it."
+    },
+    {
+      "offset": 3990,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「はいはい……それではテンポよくいきましょ\n　う！　みなさんから頂いた質問にうつります」",
+      "en": "\"Alright, very well advertised! Now let's get the tempo back\nwith a few questions!\"",
+      "text": "\"Alright, very well advertised! Now let's get the tempo back\nwith a few questions!\""
+    },
+    {
+      "offset": 4096,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「えー、白河さんはどこの部活にも入ってませ\n　んが、ぜひ手芸部にきませんか？」",
+      "en": "\"What club activities do you participate in? The handicrafts\nclub, perhaps?\"",
+      "text": "\"What club activities do you participate in? The handicrafts\nclub, perhaps?\""
+    },
+    {
+      "offset": 4180,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……どっかで耳にした質問だな。",
+      "en": "...That's a question I hadn't heard yet.",
+      "text": "...That's a question I hadn't heard yet."
+    },
+    {
+      "offset": 4230,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、えっと、私は中央委員会に所属している\n　ので、特定の部には、ちょっと……」",
+      "en": "\"Ah, ehm, I regularly attend student committee meetings,\nit's a sort-of special club...\"",
+      "text": "\"Ah, ehm, I regularly attend student committee meetings,\nit's a sort-of special club...\""
+    },
+    {
+      "offset": 4328,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「はいはい、面白くないのでとっとと次へ……\n　３サイズを教えてください、っと」",
+      "en": "\"Understood, not very interesting so let's move on! Now the\nnext question... please tell us your 3 sizes!\"",
+      "text": "\"Understood, not very interesting so let's move on! Now the\nnext question... please tell us your 3 sizes!\""
+    },
+    {
+      "offset": 4425,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「まぁ、だいたい、ドラうえもんと同じくらい\n　です」",
+      "en": "\"Well, it's about the same as Doraemon, you could say.\"",
+      "text": "\"Well, it's about the same as Doraemon, you could say.\""
+    },
+    {
+      "offset": 4495,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「おっと、やおらマニアックなところを突いて\n　きましたねえ。ドラちゃんって、それぞれの\n　サイズがみんな一緒なんですよね」",
+      "en": "\"Whoa, we have a maniac here! Of course for those who don't\nknow, Dora-chan has the same sizes as every one of you!\"",
+      "text": "\"Whoa, we have a maniac here! Of course for those who don't\nknow, Dora-chan has the same sizes as every one of you!\""
+    },
+    {
+      "offset": 4634,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「……と、こほん、失礼しました。つい脱線し\n　てしまいましたね」",
+      "en": "\"...Ahem, excuse me! I have strayed off track!\"",
+      "text": "\"...Ahem, excuse me! I have strayed off track!\""
+    },
+    {
+      "offset": 4716,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「では皆さん。最後の質問にして、とっておき\n　の質問です。えー、ごほん」",
+      "en": "\"Then, everyone, time for the final question! Ehh, ahem!\"",
+      "text": "\"Then, everyone, time for the final question! Ehh, ahem!\""
+    },
+    {
+      "offset": 4806,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「ずばり好きな人の名前は？」",
+      "en": "\"Do you have anyone you like?\"",
+      "text": "\"Do you have anyone you like?\""
+    },
+    {
+      "offset": 4843,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "シン――と体育館が静まりかえる。",
+      "en": "In a flash, the entire audience went quiet.",
+      "text": "In a flash, the entire audience went quiet."
+    },
+    {
+      "offset": 4880,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "半ば予想していたのだろう。ことりは驚いた様\n子も見せず、静かに｛たたず／佇｝んでいる。",
+      "en": "I half-expected a stupid question like this. I looked at\nKotori, and she had a surprisingly calm look on her face.",
+      "text": "I half-expected a stupid question like this. I looked at\nKotori, and she had a surprisingly calm look on her face."
+    },
+    {
+      "offset": 5011,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……実は、その質問は待っていたんです」",
+      "en": "\"...Actually, I've been waiting for this question.\"",
+      "text": "\"...Actually, I've been waiting for this question.\""
+    },
+    {
+      "offset": 5058,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……え？」",
+      "en": "\"...Huh?\"",
+      "text": "\"...Huh?\""
+    },
+    {
+      "offset": 5082,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺だけじゃない。館内もざわめいた。司会者も\n意表を突かれたのか、戸惑いの表情だ。",
+      "en": "It wasn't just me either. The entire room was awash with\nnoise. Even the judges and announcer had a confused\nexpression.",
+      "text": "It wasn't just me either. The entire room was awash with\nnoise. Even the judges and announcer had a confused\nexpression."
+    },
+    {
+      "offset": 5180,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「あ〜……待っていた、と言いますと？」",
+      "en": "\"Ahh... waiting for this, you say?\"",
+      "text": "\"Ahh... waiting for this, you say?\""
+    },
+    {
+      "offset": 5259,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……実はですね……」",
+      "en": "\"...The truth is...\"",
+      "text": "\"...The truth is...\""
+    },
+    {
+      "offset": 5290,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言葉が途切れる。ざわめきが、ボリュームコン\nトロールを絞るように小さくなっていく。",
+      "en": "She stopped in the middle of her words. The noise eventually\nsettled down as the audience figured out why she had paused.",
+      "text": "She stopped in the middle of her words. The noise eventually\nsettled down as the audience figured out why she had paused."
+    },
+    {
+      "offset": 5376,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今、ひとりの例外もなく、全ての視線がことり\nに集中していた。",
+      "en": "Now, absolutely everyone's gaze was fixated straight on\nKotori.",
+      "text": "Now, absolutely everyone's gaze was fixated straight on\nKotori."
+    },
+    {
+      "offset": 5476,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「今、この場で、その人に告白しちゃおうと思\n　うんです」",
+      "en": "\"I wish to confess to this person right here, right now.\"",
+      "text": "\"I wish to confess to this person right here, right now.\""
+    },
+    {
+      "offset": 5550,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「────！！」",
+      "en": "\"----!!\"",
+      "text": "\"----!!\""
+    },
+    {
+      "offset": 5573,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 5592,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あまりの衝撃に、館内は水を打ったような静け\nさだ。司会も含め、全員が絶句している。",
+      "en": "The impact of that revelation stunned everyone into complete\nsilence. The announcer and judges were speechless.",
+      "text": "The impact of that revelation stunned everyone into complete\nsilence. The announcer and judges were speechless."
+    },
+    {
+      "offset": 5678,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなさなか、俺はよろよろと足を踏み出して\nいた。",
+      "en": "Unable to think of anything else, I started walking.",
+      "text": "Unable to think of anything else, I started walking."
+    },
+    {
+      "offset": 5732,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "壇上へと近づいていく。自分が何をしたいのか\nも分からないままに……。",
+      "en": "Walking closer to the stage. Why I did, even I didn't\nunderstand.",
+      "text": "Walking closer to the stage. Why I did, even I didn't\nunderstand."
+    },
+    {
+      "offset": 5818,
+      "speaker": "Anouncer",
+      "speaker_jp": "アナウンス",
+      "jp": "「……失礼。一瞬、固まってしまいました。そ\n　れでは、お｛たず／訊｝ねしましょう」",
+      "en": "\"...Excuse me. To confirm the situation, I shall repeat my\nquestion.\"",
+      "text": "\"...Excuse me. To confirm the situation, I shall repeat my\nquestion.\""
+    },
+    {
+      "offset": 5918,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「ずばり、白河ことりさんの意中の人とは？」",
+      "en": "\"Who is the person Shirakwa Kotori has in mind?\"",
+      "text": "\"Who is the person Shirakwa Kotori has in mind?\""
+    },
+    {
+      "offset": 6001,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 6020,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "黒い人だかりを｛か／掻｝き分けて……。",
+      "en": "The hundreds of black shirts started stirring.",
+      "text": "The hundreds of black shirts started stirring."
+    },
+    {
+      "offset": 6078,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「それは……」",
+      "en": "\"His name is...\"",
+      "text": "\"His name is...\""
+    },
+    {
+      "offset": 6099,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "広い館内に、俺の足音だけが、やけに大きく聞\nこえてくる……。",
+      "en": "In the massive room, the sound of my footsteps echoed\nloudly.",
+      "text": "In the massive room, the sound of my footsteps echoed\nloudly."
+    },
+    {
+      "offset": 6201,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「朝倉……君……です」",
+      "en": "\"Asakura...kun.\"",
+      "text": "\"Asakura...kun.\""
+    },
+    {
+      "offset": 6230,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 6249,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "足音が止まった。",
+      "en": "The sound of footsteps stopped.",
+      "text": "The sound of footsteps stopped."
+    },
+    {
+      "offset": 6270,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "完全な静寂。周りの人間達が、書き割りのよう\nにしか思えない。",
+      "en": "Complete silence. I could hear and feel nothing from the\nsurrounding people.",
+      "text": "Complete silence. I could hear and feel nothing from the\nsurrounding people."
+    },
+    {
+      "offset": 6370,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「私は、朝倉君が好きなんです」",
+      "en": "\"The person I like, is Asakura-kun.\"",
+      "text": "\"The person I like, is Asakura-kun.\""
+    },
+    {
+      "offset": 6429,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一転して、ざわめき──怒号？　ともかく、す\nさまじいまでの喧噪だった。",
+      "en": "At once, the noise returned--angry ones? In any case, it was\nquite scary.",
+      "text": "At once, the noise returned--angry ones? In any case, it was\nquite scary."
+    },
+    {
+      "offset": 6503,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりの学内における人気が、一気に反動となっ\nて押し寄せてきたのだ。",
+      "en": "I could feel the kickback from all the Kotori fanboys in the\nroom.",
+      "text": "I could feel the kickback from all the Kotori fanboys in the\nroom."
+    },
+    {
+      "offset": 6577,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 6608,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「はい、静粛に！　静かに！　静かにして下さ\n　い！」",
+      "en": "\"Excuse me! Please settle down! Please be quiet!\"",
+      "text": "\"Excuse me! Please settle down! Please be quiet!\""
+    },
+    {
+      "offset": 6666,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……それが一体何度目の叫びなのか、司会の声\nは既にかすれていた。",
+      "en": "...Despite saying it several times, it was constantly\ndrowned out.",
+      "text": "...Despite saying it several times, it was constantly\ndrowned out."
+    },
+    {
+      "offset": 6736,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その声に従ったというよりも、｛おの／自｝ずと精魂が尽\nきてしまったように、再び静けさが舞い戻った。",
+      "en": "But his persistence was to be admired. Eventually his cries\nreached the audience, andmsilence returned to the room.",
+      "text": "But his persistence was to be admired. Eventually his cries\nreached the audience, andmsilence returned to the room."
+    },
+    {
+      "offset": 6873,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「えー、さっき、白河さんは、これを告白だと\n　言いました。であるからには──」",
+      "en": "\"Ahem, so, Shirakawa-san has just said her confession.\nHowever.\"",
+      "text": "\"Ahem, so, Shirakawa-san has just said her confession.\nHowever.\""
+    },
+    {
+      "offset": 6969,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「それに、答えなければならないでしょう」",
+      "en": "\"We do not have an answer as of yet!\"",
+      "text": "\"We do not have an answer as of yet!\""
+    },
+    {
+      "offset": 7016,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 7047,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「アサクラ君。居るのなら、壇上に上がって、\n　白河さんに答えを」",
+      "en": "\"Asakura-kun. If you are here now, please come on stage and\ngive Shirakawa-san your answer!\"",
+      "text": "\"Asakura-kun. If you are here now, please come on stage and\ngive Shirakawa-san your answer!\""
+    },
+    {
+      "offset": 7122,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何度、音量の山と谷を繰り返したのか、再び、\nにわかに騒がしくなる。",
+      "en": "The recurrence of the noise that followed could be heard all\nalong the mountains and the valleys.",
+      "text": "The recurrence of the noise that followed could be heard all\nalong the mountains and the valleys."
+    },
+    {
+      "offset": 7192,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "誰彼となく顔を向け合っては、手と顔を横に振っ\nていた。いや、俺はアサクラじゃない……。",
+      "en": "Everyone was staring at each other, wondering who this\nAsakura was. But I'm not just Asakura...",
+      "text": "Everyone was staring at each other, wondering who this\nAsakura was. But I'm not just Asakura..."
+    },
+    {
+      "offset": 7282,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──おれも。",
+      "en": "--I do too.",
+      "text": "--I do too."
+    },
+    {
+      "offset": 7299,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──オレも……。",
+      "en": "--I do too...",
+      "text": "--I do too..."
+    },
+    {
+      "offset": 7322,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は──。",
+      "en": "I--.",
+      "text": "I--."
+    },
+    {
+      "offset": 7337,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "足を踏み出した。司会の言う通りだ。確かに、\n応えてやらなければならない。",
+      "en": "I continued walking. The announcer was right. I have to give\nher a reply now.",
+      "text": "I continued walking. The announcer was right. I have to give\nher a reply now."
+    },
+    {
+      "offset": 7413,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "これだけの人数の中、彼女は、ただ一人だけに\n向けて、メッセージを発したのだから。",
+      "en": "She stood in front of this many people in order to deliver\nher message.",
+      "text": "She stood in front of this many people in order to deliver\nher message."
+    },
+    {
+      "offset": 7497,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……俺に向けて。",
+      "en": "...Her message to me.",
+      "text": "...Her message to me."
+    },
+    {
+      "offset": 7537,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "壇上に立つ。",
+      "en": "I stepped up onto the stage.",
+      "text": "I stepped up onto the stage."
+    },
+    {
+      "offset": 7554,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "スポットライトのただ中に、ことりが浮かび上\nがっていた。こちらに、じっと目を向けて。",
+      "en": "The spotlight was fixed squarely on Kotori, as she stared at\nmy darkened figure.",
+      "text": "The spotlight was fixed squarely on Kotori, as she stared at\nmy darkened figure."
+    },
+    {
+      "offset": 7642,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "膝に意思を込め、俺は前へと進む。ことりの居\nるところまで進めなくて、恋愛もへったくれも\nない。",
+      "en": "I continued walking forward. Forward until I reached her.",
+      "text": "I continued walking forward. Forward until I reached her."
+    },
+    {
+      "offset": 7775,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……ごめんね」",
+      "en": "\"...I'm sorry.\"",
+      "text": "\"...I'm sorry.\""
+    },
+    {
+      "offset": 7798,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「え？」",
+      "en": "\"Eh?\"",
+      "text": "\"Eh?\""
+    },
+    {
+      "offset": 7813,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "たぶん、司会にも聞こえないくらいの声で、そっ\nと声を届けてくる。",
+      "en": "She talked in a whisper that the announcer couldn't hear,\nbut I could.",
+      "text": "She talked in a whisper that the announcer couldn't hear,\nbut I could."
+    },
+    {
+      "offset": 7896,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「このくらいしないと、朝倉君に私の気持ちが\n　届かないと思ったから……」",
+      "en": "\"If I didn't do it this way, I wasn't sure if my feelings\nwould reach you...\"",
+      "text": "\"If I didn't do it this way, I wasn't sure if my feelings\nwould reach you...\""
+    },
+    {
+      "offset": 7987,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「朝倉君、私、あなたの事が……」",
+      "en": "\"Asakura-kun, I...\"",
+      "text": "\"Asakura-kun, I...\""
+    },
+    {
+      "offset": 8039,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「好きです……」",
+      "en": "\"I love you...\"",
+      "text": "\"I love you...\""
+    },
+    {
+      "offset": 8062,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 8081,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりの気持ち。俺を好きだという気持ち。",
+      "en": "Kotori's feelings. Her feelings of love for me.",
+      "text": "Kotori's feelings. Her feelings of love for me."
+    },
+    {
+      "offset": 8126,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "壇上で、みんなの視線にさらされてまで、俺に\n届けたかった……。",
+      "en": "Compared to that, the rest of the audience's stares couldn't\nreach me on the stage...",
+      "text": "Compared to that, the rest of the audience's stares couldn't\nreach me on the stage..."
+    },
+    {
+      "offset": 8194,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「うん……確かに、届いた」",
+      "en": "\"Unn.. it definitely reached me.\"",
+      "text": "\"Unn.. it definitely reached me.\""
+    },
+    {
+      "offset": 8240,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 8259,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「じゃあ、今度は、俺の気持ちだな」",
+      "en": "\"Now it's my turn to show my feelings.\"",
+      "text": "\"Now it's my turn to show my feelings.\""
+    },
+    {
+      "offset": 8313,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……うん」",
+      "en": "\"...Okay.\"",
+      "text": "\"...Okay.\""
+    },
+    {
+      "offset": 8332,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……俺は、言葉よりも、もっと雄弁な方法を\n　採る事にする」",
+      "en": "\"...I'm not an eloquent speaker, so I have to show you in my\nown way.\"",
+      "text": "\"...I'm not an eloquent speaker, so I have to show you in my\nown way.\""
+    },
+    {
+      "offset": 8398,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりの気持ちに応えるには、それしかないと\n思ったから。",
+      "en": "I replied to her in the way I felt I should.",
+      "text": "I replied to her in the way I felt I should."
+    },
+    {
+      "offset": 8494,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「んっ……」",
+      "en": "\"Uhn...\"",
+      "text": "\"Uhn...\""
+    },
+    {
+      "offset": 8526,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ん……」",
+      "en": "\"Nnn...\"",
+      "text": "\"Nnn...\""
+    },
+    {
+      "offset": 8543,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "（…………）",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 8562,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その瞬間は、ことり以外の何もかもが、意識の\n外に追い払われていた。",
+      "en": "In that moment, my mind registered nothing except Kotori.",
+      "text": "In that moment, my mind registered nothing except Kotori."
+    },
+    {
+      "offset": 8632,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自分がどこに居て、周りに何があるのかさえも\n忘れて、ただただ、唇の柔らかさだけを意識し\nた。",
+      "en": "Where I was, and my surroundings were forgotten. The only\nthing I could sense were those soft, tender lips.",
+      "text": "Where I was, and my surroundings were forgotten. The only\nthing I could sense were those soft, tender lips."
+    },
+    {
+      "offset": 8727,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな俺を……。",
+      "en": "And then I...",
+      "text": "And then I..."
+    },
+    {
+      "offset": 8748,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "地獄の釜が開いたような轟音が、現実へと強引\nに引き戻した。",
+      "en": "...quickly snapped back to reality, as a hellish roar cried\nout from the crowd.",
+      "text": "...quickly snapped back to reality, as a hellish roar cried\nout from the crowd."
+    },
+    {
+      "offset": 8829,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「んげっ」",
+      "en": "\"Kuh...\"",
+      "text": "\"Kuh...\""
+    },
+    {
+      "offset": 8846,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "夢心地から一気に着地する。壇上の下は、まん\nま｛あびきょうかん／阿鼻叫喚｝の騒ぎだった。",
+      "en": "While I was in dreamland, two of Buddhism's hells was taking\nform in front of the stage.",
+      "text": "While I was in dreamland, two of Buddhism's hells was taking\nform in front of the stage."
+    },
+    {
+      "offset": 8938,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "泣く奴、暴れる奴、何故か裸になっている奴…。",
+      "en": "Crying ones, angry ones, even ones who were taking off their\nclothes...",
+      "text": "Crying ones, angry ones, even ones who were taking off their\nclothes..."
+    },
+    {
+      "offset": 9001,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「ここはひとまず、退散した方がいいですよ」",
+      "en": "\"I think for now, it's best if you two leave for awhile.\"",
+      "text": "\"I think for now, it's best if you two leave for awhile.\""
+    },
+    {
+      "offset": 9050,
+      "speaker": "Announcer",
+      "speaker_jp": "アナウンス",
+      "jp": "「お、おう。そうだな」",
+      "en": "\"O, okay, thanks.\"",
+      "text": "\"O, okay, thanks.\""
+    },
+    {
+      "offset": 9079,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "司会の的確な助言に感謝しつつ、俺は言った。",
+      "en": "I was saved by the announcer's quick-thinking suggestion.",
+      "text": "I was saved by the announcer's quick-thinking suggestion."
+    },
+    {
+      "offset": 9128,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ことりっ。逃げるぞ！」",
+      "en": "\"Kotori, let's go!\"",
+      "text": "\"Kotori, let's go!\""
+    },
+    {
+      "offset": 9159,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな場合じゃないとわかっていながら。",
+      "en": "She knows that this isn't the place as well.",
+      "text": "She knows that this isn't the place as well."
+    },
+    {
+      "offset": 9202,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それでも顔を赤くして、俺は手を差し出して。",
+      "en": "With my face red, I held out my hand.",
+      "text": "With my face red, I held out my hand."
+    },
+    {
+      "offset": 9264,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「うんっ！」",
+      "en": "\"Okay!\"",
+      "text": "\"Okay!\""
+    },
+    {
+      "offset": 9283,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やはり、顔を赤くしたことりが、その手を掴ん\nだ。",
+      "en": "With a similarly red face, she held on to it.",
+      "text": "With a similarly red face, she held on to it."
+    },
+    {
+      "offset": 9335,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "………。",
+      "en": ".........",
+      "text": "........."
+    },
+    {
+      "offset": 9348,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 9359,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…。",
+      "en": "...",
+      "text": "..."
+    },
+    {
+      "offset": 9490,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆告白◆",
+      "en": "◆On-Stage Confession◆",
+      "text": "◆On-Stage Confession◆"
+    },
+    {
+      "offset": 9527,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ミス風見学園コンテストが始まった。",
+      "en": "The Miss Kazami Academy Contest started.",
+      "text": "The Miss Kazami Academy Contest started."
+    },
+    {
+      "offset": 9592,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少しして、ことりが壇上に上った。定型の質問\nをする司会者。",
+      "en": "After a bit, it was finally Kotori's turn. The announcer\nasked her a fairly typical question.",
+      "text": "After a bit, it was finally Kotori's turn. The announcer\nasked her a fairly typical question."
+    },
+    {
+      "offset": 9668,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「好きな人の名前は？」",
+      "en": "\"Is there anyone you like?\"",
+      "text": "\"Is there anyone you like?\""
+    },
+    {
+      "offset": 9695,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それに対する答えが、俺の名前だった。俺は、\nふらふらと壇上へ向かった。",
+      "en": "Her answer was my name. I staggered my way onto the stage.",
+      "text": "Her answer was my name. I staggered my way onto the stage."
+    },
+    {
+      "offset": 9795,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、俺達はキスを交わしたのだった……。",
+      "en": "And then, we kissed...",
+      "text": "And then, we kissed..."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "868": "Announcer",
+    "946": "Announcer",
+    "1052": "Announcer",
+    "1287": "Announcer",
+    "1419": "Announcer",
+    "1554": "Announcer",
+    "1622": "Announcer",
+    "1815": "Announcer",
+    "1934": "Announcer",
+    "2112": "Announcer",
+    "2171": "Announcer",
+    "2625": "Announcer",
+    "2839": "Announcer",
+    "3135": "Announcer",
+    "3237": "Kotori",
+    "3311": "Announcer",
+    "3419": "Kotori",
+    "3593": "Announcer",
+    "3707": "Kotori",
+    "3976": "Announcer",
+    "4082": "Announcer",
+    "4220": "Kotori",
+    "4314": "Announcer",
+    "4415": "Kotori",
+    "4481": "Announcer",
+    "4620": "Announcer",
+    "4702": "Announcer",
+    "4792": "Announcer",
+    "5001": "Kotori",
+    "5166": "Announcer",
+    "5249": "Kotori",
+    "5466": "Kotori",
+    "5536": "Announcer",
+    "5804": "Anouncer",
+    "5904": "Announcer",
+    "5991": "Kotori",
+    "6068": "Kotori",
+    "6191": "Kotori",
+    "6360": "Kotori",
+    "6594": "Announcer",
+    "6859": "Announcer",
+    "6955": "Announcer",
+    "7033": "Announcer",
+    "7765": "Kotori",
+    "7886": "Kotori",
+    "7977": "Kotori",
+    "8029": "Kotori",
+    "8230": "Kotori",
+    "8303": "Kotori",
+    "8484": "Kotori",
+    "8516": "Kotori",
+    "8987": "Announcer",
+    "9254": "Kotori"
+  }
+}

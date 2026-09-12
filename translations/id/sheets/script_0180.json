@@ -1,0 +1,683 @@
+{
+  "scene": "script_0180.obj",
+  "dialogues": [
+    {
+      "offset": 151,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ〜、どうしようかな今日は……」",
+      "en": "'Ahh~, what to do for today...\"",
+      "text": "'Ahh~, what to do for today...\""
+    },
+    {
+      "offset": 192,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "トイレに行っていたせいで、昼のバトルに乗り\n遅れた。",
+      "en": "Thanks to the call of nature, the noontime battle for bread\nis almost certainly lost by now.",
+      "text": "Thanks to the call of nature, the noontime battle for bread\nis almost certainly lost by now."
+    },
+    {
+      "offset": 250,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「今から購買行っても、ろくなの置いてないだ\n　ろうし」",
+      "en": "\"If I went now, everything edible would be sold out\nalready.\"",
+      "text": "\"If I went now, everything edible would be sold out\nalready.\""
+    },
+    {
+      "offset": 310,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「食堂で食うか……って、あれはことりか？」",
+      "en": "\"I guess I'd eat at the cafeteria... hm, isn't that Kotori?",
+      "text": "\"I guess I'd eat at the cafeteria... hm, isn't that Kotori?"
+    },
+    {
+      "offset": 359,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何やら、胸にいっぱいに物を抱えた女の子が校\n門の方から歩いてきた。今にもこぼれそうで、\n見ていて危なっかしい。",
+      "en": "A girl, carrying a bagful of something to her chest, was\nwalking in through the school entrance. Her view was\nprobably obscured.",
+      "text": "A girl, carrying a bagful of something to her chest, was\nwalking in through the school entrance. Her view was\nprobably obscured."
+    },
+    {
+      "offset": 472,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "知らない奴なら気にならなかったんだが……。",
+      "en": "I bet she doesn't even notice how dangerous it is to do that\nalone...",
+      "text": "I bet she doesn't even notice how dangerous it is to do that\nalone..."
+    },
+    {
+      "offset": 552,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おい、ことり」",
+      "en": "\"Oy, Kotori.\"",
+      "text": "\"Oy, Kotori.\""
+    },
+    {
+      "offset": 588,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「朝倉君。こんにちは」",
+      "en": "\"Good afternoon, Asakura-kun!\"",
+      "text": "\"Good afternoon, Asakura-kun!\""
+    },
+    {
+      "offset": 617,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「おう……って、のんびり挨拶してる感じじゃ\n　ないだろ。手伝おうか？」",
+      "en": "\"Goo... buh, that's not what I want to say. Need some help?\"",
+      "text": "\"Goo... buh, that's not what I want to say. Need some help?\""
+    },
+    {
+      "offset": 733,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ごめんなさい。お願い出来ますか」",
+      "en": "\"Sorry, could you?\"",
+      "text": "\"Sorry, could you?\""
+    },
+    {
+      "offset": 774,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「おやすいご用」",
+      "en": "\"At your service.\"",
+      "text": "\"At your service.\""
+    },
+    {
+      "offset": 797,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "積み木崩しのように、ひょいひょいと物を取っ\nていく。パンやらジュースやらだ。",
+      "en": "I took the bag off her hands. Inside was several packets of\njuice and bread.",
+      "text": "I took the bag off her hands. Inside was several packets of\njuice and bread."
+    },
+    {
+      "offset": 909,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ありがとう。おかげで、楽になりました」",
+      "en": "\"THanks for your help.\"",
+      "text": "\"THanks for your help.\""
+    },
+    {
+      "offset": 956,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「何だよことり。相撲取りにでもなるのか？」",
+      "en": "\"Wow, Kotori. Are you aspiring to be a sumo wrestler?\"",
+      "text": "\"Wow, Kotori. Are you aspiring to be a sumo wrestler?\""
+    },
+    {
+      "offset": 1035,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「なれませんよ。女の子なんだから」",
+      "en": "\"Of course not, I'm a girl after all.\"",
+      "text": "\"Of course not, I'm a girl after all.\""
+    },
+    {
+      "offset": 1076,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「いや、女相撲とか」",
+      "en": "\"I meant a girl wrestler.\"",
+      "text": "\"I meant a girl wrestler.\""
+    },
+    {
+      "offset": 1133,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「な、何ですか、それは」",
+      "en": "\"W, what's that supposed to mean...\"",
+      "text": "\"W, what's that supposed to mean...\""
+    },
+    {
+      "offset": 1164,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「いや、知らないならいいんだけど」",
+      "en": "\"Well, never mind, it's better if you don't know.\"",
+      "text": "\"Well, never mind, it's better if you don't know.\""
+    },
+    {
+      "offset": 1235,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 1284,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「も、もう、変な事言わないでくださいよね」",
+      "en": "\"...G, geez, please don't talk about weird things...\"",
+      "text": "\"...G, geez, please don't talk about weird things...\""
+    },
+    {
+      "offset": 1333,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ん？　知ってるの？　女相撲」",
+      "en": "\"Hm? You know about female wrestling?\"",
+      "text": "\"Hm? You know about female wrestling?\""
+    },
+    {
+      "offset": 1400,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「知らないですっ」",
+      "en": "\"No I don't!\"",
+      "text": "\"No I don't!\""
+    },
+    {
+      "offset": 1425,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そ、そうか」",
+      "en": "\"Uh, okay.\"",
+      "text": "\"Uh, okay.\""
+    },
+    {
+      "offset": 1446,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "よく分からん会話の間だな……。",
+      "en": "I'm not understanding this conversation much...",
+      "text": "I'm not understanding this conversation much..."
+    },
+    {
+      "offset": 1510,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、何でこんなに買い込んでんの？　もしや、\n　パシリ？」",
+      "en": "\"Then why are you carrying so much food at a time? Is\nsomeone taking advantage of you or something?\"",
+      "text": "\"Then why are you carrying so much food at a time? Is\nsomeone taking advantage of you or something?\""
+    },
+    {
+      "offset": 1604,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そういうんじゃないですよ……」",
+      "en": "\"That isn't exactly it...\"",
+      "text": "\"That isn't exactly it...\""
+    },
+    {
+      "offset": 1673,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「じゃんけんで負けたんで、私が友達の分も買っ\n　てくる事にしたんです」",
+      "en": "\"My friends and I had a quick round of Rock-Paper-Scissors\nto decide who would go get lunch for everyone... and I\nlost.\"",
+      "text": "\"My friends and I had a quick round of Rock-Paper-Scissors\nto decide who would go get lunch for everyone... and I\nlost.\""
+    },
+    {
+      "offset": 1749,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ならいいんだけどな」",
+      "en": "\"Oh, isn't as bad as I thought then.\"",
+      "text": "\"Oh, isn't as bad as I thought then.\""
+    },
+    {
+      "offset": 1778,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりは男子に人気があるし、そこら辺、女子\nには｛ねた／妬｝まれているかと思ったのだ。",
+      "en": "Although Kotori's really popular among the boys, she's has\nnoticably worse of a reputation among girls, who generally\nseem to be envious of her.",
+      "text": "Although Kotori's really popular among the boys, she's has\nnoticably worse of a reputation among girls, who generally\nseem to be envious of her."
+    },
+    {
+      "offset": 1868,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "女の子同士って、割とそういうのありそうな気\nがする……偏見か？",
+      "en": "They tend to give her a wide berth... nothing but prejudice,\nreally...",
+      "text": "They tend to give her a wide berth... nothing but prejudice,\nreally..."
+    },
+    {
+      "offset": 1966,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「大丈夫ですよ」",
+      "en": "\"It's alright.\"",
+      "text": "\"It's alright.\""
+    },
+    {
+      "offset": 1989,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ん？　何が？」",
+      "en": "\"Hm? What is?\"",
+      "text": "\"Hm? What is?\""
+    },
+    {
+      "offset": 2012,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "打ち明け話でもするように、ことりは顔を近づ\nけてきた。",
+      "en": "As if telling me a secret, her face started getting closer\nto mine.",
+      "text": "As if telling me a secret, her face started getting closer\nto mine."
+    },
+    {
+      "offset": 2070,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふわぁ……。",
+      "en": "Whoa...",
+      "text": "Whoa..."
+    },
+    {
+      "offset": 2087,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "甘い匂いが、した。",
+      "en": "A sweet smell whistled through my nose.",
+      "text": "A sweet smell whistled through my nose."
+    },
+    {
+      "offset": 2110,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "髪の匂い？　それとも……。",
+      "en": "Is that her hair? Or...",
+      "text": "Is that her hair? Or..."
+    },
+    {
+      "offset": 2141,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少しだけ、どきりとした。",
+      "en": "her actions startled me for a few moments.",
+      "text": "her actions startled me for a few moments."
+    },
+    {
+      "offset": 2202,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「こう見えても、私、友達は多いんですから」",
+      "en": "\"As you can see, I have plenty of friends...\"",
+      "text": "\"As you can see, I have plenty of friends...\""
+    },
+    {
+      "offset": 2251,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "顔が離れていく。同時に、甘い匂いもしなくなっ\nた。",
+      "en": "Her face pulled back from mine again, and at the same time,\nthe sweet scent went away.",
+      "text": "Her face pulled back from mine again, and at the same time,\nthe sweet scent went away."
+    },
+    {
+      "offset": 2305,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、肩をすくめた。",
+      "en": "I shrugged my shoulders slightly.",
+      "text": "I shrugged my shoulders slightly."
+    },
+    {
+      "offset": 2332,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「だろうな。この食べ物の量だったら。フォア\n　グラみたいな奴が友達でもない限り」",
+      "en": "\"I suppose, with how much you have in this bag...\"",
+      "text": "\"I suppose, with how much you have in this bag...\""
+    },
+    {
+      "offset": 2448,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「何かおまけしてもらっちゃったんですよ。た\n　くさん買ったからって」",
+      "en": "\"There'd probably be some extra, I did buy a lot.\"",
+      "text": "\"There'd probably be some extra, I did buy a lot.\""
+    },
+    {
+      "offset": 2552,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「だから、頼まれてないのも入ってるんですよ\n　ね」",
+      "en": "\"So some of them will probably just get kept for a snack\nafterwards.\"",
+      "text": "\"So some of them will probably just get kept for a snack\nafterwards.\""
+    },
+    {
+      "offset": 2608,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ほー。それはそれは｛うらや／羨｝ましいこって」",
+      "en": "\"Heh, I'm green with envy.\"",
+      "text": "\"Heh, I'm green with envy.\""
+    },
+    {
+      "offset": 2676,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「いります？」",
+      "en": "\"Do you want some?\"",
+      "text": "\"Do you want some?\""
+    },
+    {
+      "offset": 2697,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「え？　マジ？」",
+      "en": "\"Eh, seriously?\"",
+      "text": "\"Eh, seriously?\""
+    },
+    {
+      "offset": 2733,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「マジです」",
+      "en": "\"Seriously.\"",
+      "text": "\"Seriously.\""
+    },
+    {
+      "offset": 2752,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「くれくれ」",
+      "en": "\"Of course!\"",
+      "text": "\"Of course!\""
+    },
+    {
+      "offset": 2784,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「いいですよ。手伝ってもらったお礼です」",
+      "en": "\"It'd be fine then. Treat it as thanks for your help.\"",
+      "text": "\"It'd be fine then. Treat it as thanks for your help.\""
+    },
+    {
+      "offset": 2831,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「助かった。これで、食堂に行かなくて済む」",
+      "en": "\"Whew, thanks. I won't have to go to the cafeteria now.\"",
+      "text": "\"Whew, thanks. I won't have to go to the cafeteria now.\""
+    },
+    {
+      "offset": 2910,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……食堂の、嫌いなんですか？」",
+      "en": "\"...You don't like the cafeteria?\"",
+      "text": "\"...You don't like the cafeteria?\""
+    },
+    {
+      "offset": 2949,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「味じゃない。そこまで行くのがかったるいん\n　だ」",
+      "en": "\"The food there's not tasty at all. I stay away from it if\nat all possible.\"",
+      "text": "\"The food there's not tasty at all. I stay away from it if\nat all possible.\""
+    },
+    {
+      "offset": 3035,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「めんどくさがり屋さんなんですね」",
+      "en": "\"You'd sadden those poor hardworking storeowners there.\"",
+      "text": "\"You'd sadden those poor hardworking storeowners there.\""
+    },
+    {
+      "offset": 3076,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「意外とな」",
+      "en": "\"Out of the point.\"",
+      "text": "\"Out of the point.\""
+    },
+    {
+      "offset": 3125,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「意外って事もありませんけど」",
+      "en": "\"No it isn't.\"",
+      "text": "\"No it isn't.\""
+    },
+    {
+      "offset": 3192,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あっと、ストップです」",
+      "en": "\"Oops, stop here!\"",
+      "text": "\"Oops, stop here!\""
+    },
+    {
+      "offset": 3223,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ん？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 3238,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぴたっと足を止める。",
+      "en": "I stopped dead in my tracks.",
+      "text": "I stopped dead in my tracks."
+    },
+    {
+      "offset": 3290,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「こっちこっち」",
+      "en": "\"Over here.\"",
+      "text": "\"Over here.\""
+    },
+    {
+      "offset": 3313,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とてとてと小走りにどこかへ向かう。",
+      "en": "Kotori walked a bit to the side.",
+      "text": "Kotori walked a bit to the side."
+    },
+    {
+      "offset": 3387,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どうかした？」",
+      "en": "\"What's up?\"",
+      "text": "\"What's up?\""
+    },
+    {
+      "offset": 3445,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「朝倉君は、ここで待っててもらえますか。す\n　ぐに戻りますから」",
+      "en": "\"Please just wait here for a second. I'd be right back!\"",
+      "text": "\"Please just wait here for a second. I'd be right back!\""
+    },
+    {
+      "offset": 3515,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ああ、いいけど」",
+      "en": "\"Uhh, okay.\"",
+      "text": "\"Uhh, okay.\""
+    },
+    {
+      "offset": 3581,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「どうしたんだ……？」",
+      "en": "\"What's going on?...\"",
+      "text": "\"What's going on?...\""
+    },
+    {
+      "offset": 3674,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「お待たせです。荷物、渡してくれますか」",
+      "en": "\"Sorry for making you wait. I just finished distributing the\nfood.\"",
+      "text": "\"Sorry for making you wait. I just finished distributing the\nfood.\""
+    },
+    {
+      "offset": 3721,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "戻ってきたことりは、手ぶらだった。",
+      "en": "The returning Kotori held up her hand teasingly in apology.",
+      "text": "The returning Kotori held up her hand teasingly in apology."
+    },
+    {
+      "offset": 3792,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「男子に手伝ってもらったなんて知れたら、冷\n　やかされちゃうと思うんですよね」",
+      "en": "\"Things might have gotten a bit weird if they knew that a\nguy was helping me.\"",
+      "text": "\"Things might have gotten a bit weird if they knew that a\nguy was helping me.\""
+    },
+    {
+      "offset": 3876,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「なるほどな」",
+      "en": "\"Ah, I see.\"",
+      "text": "\"Ah, I see.\""
+    },
+    {
+      "offset": 3927,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、これと、これは、朝倉君の分です」",
+      "en": "\"Ah, and this is your share.\"",
+      "text": "\"Ah, and this is your share.\""
+    },
+    {
+      "offset": 3972,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言って、俺の元に、二つのパンを残してく\nれた。",
+      "en": "She gave me two packets of bread.",
+      "text": "She gave me two packets of bread."
+    },
+    {
+      "offset": 4041,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「それでは、バイバイです。ありがとさんでし\n　た」",
+      "en": "\"Anyway, thank you so much. Bye bye!\"",
+      "text": "\"Anyway, thank you so much. Bye bye!\""
+    },
+    {
+      "offset": 4097,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「うん、じゃあね」",
+      "en": "\"Right, later.\"",
+      "text": "\"Right, later.\""
+    },
+    {
+      "offset": 4139,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「よっしゃ、兵糧も確保したし、陣地に戻るか」",
+      "en": "\"Alright! Rations secured, time to head back to camp.\"",
+      "text": "\"Alright! Rations secured, time to head back to camp.\""
+    },
+    {
+      "offset": 4190,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「って、これ、見たこともねえパンだな……美\n　味いのか？」",
+      "en": "\"...Then again, I've never tried this flavour of bread\nbefore... wonder if it's good?\"",
+      "text": "\"...Then again, I've never tried this flavour of bread\nbefore... wonder if it's good?\""
+    },
+    {
+      "offset": 4254,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "袋には、“真っ白なジャムパン”と書かれてあ\nる。",
+      "en": "\"Pure White Jam Bread\" was written on the bag.",
+      "text": "\"Pure White Jam Bread\" was written on the bag."
+    },
+    {
+      "offset": 4306,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "また、注意書きとして、衣服に付けたり、目に\n入らないようご注意を、なんて文章が。",
+      "en": "It continued on cautioning not to let clothes come in\ncontact with it, or to stare at it for long periods of time.",
+      "text": "It continued on cautioning not to let clothes come in\ncontact with it, or to stare at it for long periods of time."
+    },
+    {
+      "offset": 4392,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さらには、子どもの手の届かない所に、か…」",
+      "en": "\"Doesn't look like it'd be safe for kids, or anyone, to\neat...\"",
+      "text": "\"Doesn't look like it'd be safe for kids, or anyone, to\neat...\""
+    },
+    {
+      "offset": 4443,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「単なる、廃品処理？」",
+      "en": "\"Straight to the garbage bin, perhaps?\"",
+      "text": "\"Straight to the garbage bin, perhaps?\""
+    },
+    {
+      "offset": 4601,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆ことりはパシリ？◆",
+      "en": "◆Kotori the Slave?◆",
+      "text": "◆Kotori the Slave?◆"
+    },
+    {
+      "offset": 4650,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "パシリのように荷物を運んでいることりを手伝\nうと、お礼にと、パンをもらってしまった。",
+      "en": "Helping out Kotori in a slave-like circumstance, I was\nrewarded with a few packets of bread for my troubles.",
+      "text": "Helping out Kotori in a slave-like circumstance, I was\nrewarded with a few packets of bread for my troubles."
+    },
+    {
+      "offset": 4738,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "嬉しいのだが……何だか、良く分からないパン\nだな。",
+      "en": "It felt good... but the bread certainly didn't look as good\nas I felt.",
+      "text": "It felt good... but the bread certainly didn't look as good\nas I felt."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "578": "Kotori",
+    "723": "Kotori",
+    "899": "Kotori",
+    "1025": "Kotori",
+    "1123": "Kotori",
+    "1225": "Kotori",
+    "1274": "Kotori",
+    "1390": "Kotori",
+    "1594": "Kotori",
+    "1663": "Kotori",
+    "1956": "Kotori",
+    "2192": "Kotori",
+    "2438": "Kotori",
+    "2542": "Kotori",
+    "2666": "Kotori",
+    "2723": "Kotori",
+    "2774": "Kotori",
+    "2900": "Kotori",
+    "3025": "Kotori",
+    "3115": "Kotori",
+    "3182": "Kotori",
+    "3280": "Kotori",
+    "3435": "Kotori",
+    "3664": "Kotori",
+    "3782": "Kotori",
+    "3917": "Kotori",
+    "4031": "Kotori"
+  }
+}

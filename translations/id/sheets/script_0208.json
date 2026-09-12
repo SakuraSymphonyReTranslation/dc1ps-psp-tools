@@ -1,0 +1,82 @@
+{
+  "scene": "script_0208.obj",
+  "dialogues": [
+    {
+      "offset": 162,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「今日も遅刻、欠席ともになし――と。｛さすが／流石｝だ\n　ね」",
+      "en": "\"Excellent, another full house today.\"",
+      "text": "\"Excellent, another full house today.\""
+    },
+    {
+      "offset": 230,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暦先生が出欠をとるなか、疲れた表情の学生達\nが、教科書とにらめっこしている。",
+      "en": "As Koyomi-sensei took the attendance, the tired students\ncontinued burying their heads in their textbooks.",
+      "text": "As Koyomi-sensei took the attendance, the tired students\ncontinued burying their heads in their textbooks."
+    },
+    {
+      "offset": 338,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「まっ、あたしにも身に覚えはあるがね……。\n　講師になると悲しいよ……今日で最後だから、\n　頑張りな」",
+      "en": "\"Well, I still have memories of this... a teacher's sadness,\nyou could say. It's almost over, so work hard everyone.\"",
+      "text": "\"Well, I still have memories of this... a teacher's sadness,\nyou could say. It's almost over, so work hard everyone.\""
+    },
+    {
+      "offset": 457,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "週番に号令をかけさせ、教室から出て行く。",
+      "en": "After the weekly duty's signal, she left the room.",
+      "text": "After the weekly duty's signal, she left the room."
+    },
+    {
+      "offset": 504,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はぁ……」",
+      "en": "\"Haaah...\"",
+      "text": "\"Haaah...\""
+    },
+    {
+      "offset": 523,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "早く今日という日が終わって欲しい……。",
+      "en": "Today should hurry up and be over with already...",
+      "text": "Today should hurry up and be over with already..."
+    },
+    {
+      "offset": 670,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆後半戦スタート◆",
+      "en": "◆Second half, Begin◆",
+      "text": "◆Second half, Begin◆"
+    },
+    {
+      "offset": 698,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昨日に引き続き、遅刻欠席なし。まあ、試験だ\nしな。",
+      "en": "Following from yesterday, there were no latecomers. Well,\nit's the exam period, after all.",
+      "text": "Following from yesterday, there were no latecomers. Well,\nit's the exam period, after all."
+    },
+    {
+      "offset": 752,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一日の始まりになんだが、早く今日という日が\n終ってほしい。",
+      "en": "As the day starts, I wish for it to be over as quickly as\npossible.",
+      "text": "As the day starts, I wish for it to be over as quickly as\npossible."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "156": "Koyomi",
+    "332": "Koyomi"
+  }
+}

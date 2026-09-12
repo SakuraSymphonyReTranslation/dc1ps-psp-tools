@@ -1,0 +1,969 @@
+{
+  "scene": "script_0561.obj",
+  "dialogues": [
+    {
+      "offset": 219,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "穏やかな春の日差し。",
+      "en": "It was a nice spring day.",
+      "text": "It was a nice spring day."
+    },
+    {
+      "offset": 244,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふたりでどこかに出かけようと訪れた公園で、\n音夢と歩きながらぼーっ、と鳩を見つめる。",
+      "en": "I stared at a pigeon as I walked in the park with Nemu.",
+      "text": "I stared at a pigeon as I walked in the park with Nemu."
+    },
+    {
+      "offset": 332,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして追いかけたくなる。",
+      "en": "And it made me want to chase them.",
+      "text": "And it made me want to chase them."
+    },
+    {
+      "offset": 374,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「くすくす……」",
+      "en": "\"Teehee......\"",
+      "text": "\"Teehee......\""
+    },
+    {
+      "offset": 397,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「どうした？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 451,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いや、なんかね……こぅ、恋人同士に見える\n　かなって考えたら――」",
+      "en": "\"Well, I was just wondering if we look like a couple.\"",
+      "text": "\"Well, I was just wondering if we look like a couple.\""
+    },
+    {
+      "offset": 525,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "前を歩いていた音夢が振り返る。",
+      "en": "Nemu was walking ahead and she turned around.",
+      "text": "Nemu was walking ahead and she turned around."
+    },
+    {
+      "offset": 562,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ、あぁ」",
+      "en": "\"Ah-huh.\"",
+      "text": "\"Ah-huh.\""
+    },
+    {
+      "offset": 609,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「――そうは見えないだろうなって」",
+      "en": "\"But, I guess not.\"",
+      "text": "\"But, I guess not.\""
+    },
+    {
+      "offset": 650,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「おぃ」",
+      "en": "\"Hey.\"",
+      "text": "\"Hey.\""
+    },
+    {
+      "offset": 665,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わず肩を落としてしまう。",
+      "en": "That made me disappointed.",
+      "text": "That made me disappointed."
+    },
+    {
+      "offset": 726,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だって、なんかいつも通りなんだもん」",
+      "en": "\"Because everything's still the same.\"",
+      "text": "\"Because everything's still the same.\""
+    },
+    {
+      "offset": 771,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いつも通りって、そりゃそうだろう。デート\n　じゃなくてお前のリハビリみたいなもんなん\n　だから」",
+      "en": "\"Off course it is. This isn't a date, but rather\nrehabilitation for you.\"",
+      "text": "\"Off course it is. This isn't a date, but rather\nrehabilitation for you.\""
+    },
+    {
+      "offset": 902,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そうだけどさぁ……こう、あるでしょ、色々\n　と思うところが」",
+      "en": "\"I know...... but you know... I have a lot on my mind.\"",
+      "text": "\"I know...... but you know... I have a lot on my mind.\""
+    },
+    {
+      "offset": 970,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「思うところねぇ」",
+      "en": "\"A lot on your mind?\"",
+      "text": "\"A lot on your mind?\""
+    },
+    {
+      "offset": 995,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わず苦笑いを浮かべながら、そっと手を差し\n出す。",
+      "en": "I smiled and reached my hand out to her.",
+      "text": "I smiled and reached my hand out to her."
+    },
+    {
+      "offset": 1051,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「じゃあ今日は、映画感覚で行きますかお姫\n　様？」",
+      "en": "\"Then, would you like to make it like a movie, my princess?\"",
+      "text": "\"Then, would you like to make it like a movie, my princess?\""
+    },
+    {
+      "offset": 1135,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 1150,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1197,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……それなら違うよ。兄さん」",
+      "en": "\"That's not how it goes.\"",
+      "text": "\"That's not how it goes.\""
+    },
+    {
+      "offset": 1234,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢は手を｛つか／掴｝まず、そっと身を寄せる。",
+      "en": "Nemu didn't take my hand, but she came closer to me.",
+      "text": "Nemu didn't take my hand, but she came closer to me."
+    },
+    {
+      "offset": 1315,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「腕組みくらいしてくれないと」",
+      "en": "\"We have to walk arm in arm.\"",
+      "text": "\"We have to walk arm in arm.\""
+    },
+    {
+      "offset": 1352,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "腕を絡めて、音夢が真っ赤な顔で俺を見上げる。",
+      "en": "Nemu took my arm and looked up to me with a red face in\nembarrassment.",
+      "text": "Nemu took my arm and looked up to me with a red face in\nembarrassment."
+    },
+    {
+      "offset": 1403,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お、おぃ……これはさすがに……」",
+      "en": "\"H-Hey...... We have to do this?\"",
+      "text": "\"H-Hey...... We have to do this?\""
+    },
+    {
+      "offset": 1444,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただでさえ、最近は周囲の視線が気になるのに。",
+      "en": "I care about how people look at us in normal circumstances.\nThis seems a bit too much.",
+      "text": "I care about how people look at us in normal circumstances.\nThis seems a bit too much."
+    },
+    {
+      "offset": 1523,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「恥ずかしいのは我慢です」",
+      "en": "\"You have to get over it.\"",
+      "text": "\"You have to get over it.\""
+    },
+    {
+      "offset": 1556,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「真っ赤な顔のまま言うなよ」",
+      "en": "\"Don't talk with your cheeks blushed like that.\"",
+      "text": "\"Don't talk with your cheeks blushed like that.\""
+    },
+    {
+      "offset": 1619,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「えへへへ」",
+      "en": "\"Heehee.\"",
+      "text": "\"Heehee.\""
+    },
+    {
+      "offset": 1638,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "恥ずかしいのだろうが、音夢はぎゅっ、と強く\n俺の腕に抱きつく。",
+      "en": "Nemu held onto my arm so tight even though she seemed to be\nembarrassed.",
+      "text": "Nemu held onto my arm so tight even though she seemed to be\nembarrassed."
+    },
+    {
+      "offset": 1734,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さん……これで、どこからどうみても恋人\n　でしょ♪」",
+      "en": "\"Niisan... See? Don't we look like a couple now?\"",
+      "text": "\"Niisan... See? Don't we look like a couple now?\""
+    },
+    {
+      "offset": 1796,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1815,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……かったりぃな」",
+      "en": "\"What a pain......\"",
+      "text": "\"What a pain......\""
+    },
+    {
+      "offset": 1842,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わずゆるみそうになる表情を、どうにか普段\n通りにたもつ。",
+      "en": "I try to keep a normal face even though it was difficult.",
+      "text": "I try to keep a normal face even though it was difficult."
+    },
+    {
+      "offset": 1934,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、まだそんなこと言ってる！」",
+      "en": "\"You said it again!\"",
+      "text": "\"You said it again!\""
+    },
+    {
+      "offset": 1973,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いいだろうが」",
+      "en": "\"Whatever.\"",
+      "text": "\"Whatever.\""
+    },
+    {
+      "offset": 2024,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「恥ずかしくて仕方ないくせにぃ」",
+      "en": "\"Aren't you embarrassed?\"",
+      "text": "\"Aren't you embarrassed?\""
+    },
+    {
+      "offset": 2063,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「お前が言うな、お前が！　頬がゆるみっぱな\n　しでだらしない顔のくせに」",
+      "en": "\"Don't say that. You look quite embarrassed as well.\"",
+      "text": "\"Don't say that. You look quite embarrassed as well.\""
+    },
+    {
+      "offset": 2141,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "真っ赤になった頬を指で押す。",
+      "en": "I pushed her red cheek with my finger.",
+      "text": "I pushed her red cheek with my finger."
+    },
+    {
+      "offset": 2215,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だ、だって……仕方ないじゃない！」",
+      "en": "\"Well...... I can't help it.\"",
+      "text": "\"Well...... I can't help it.\""
+    },
+    {
+      "offset": 2258,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぷぃ、と顔を逸らした音夢だが、すぐに顔がに\nやける。",
+      "en": "Nemu looked away, but couldn't stop smiling.",
+      "text": "Nemu looked away, but couldn't stop smiling."
+    },
+    {
+      "offset": 2347,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あははは……駄目、勝手に顔が……」",
+      "en": "\"Oh my god...... I can't keep a straight face.\"",
+      "text": "\"Oh my god...... I can't keep a straight face.\""
+    },
+    {
+      "offset": 2390,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「子供かお前は」",
+      "en": "\"What a child you are.\"",
+      "text": "\"What a child you are.\""
+    },
+    {
+      "offset": 2441,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ね、兄さんも嬉しいでしょ？　幸せだよねぇ」",
+      "en": "\"Aren't you happy too? I'm so happy.\"",
+      "text": "\"Aren't you happy too? I'm so happy.\""
+    },
+    {
+      "offset": 2492,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「知るか」",
+      "en": "\"I don't know.\"",
+      "text": "\"I don't know.\""
+    },
+    {
+      "offset": 2518,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "にらめっこに負けそうなので顔を逸らす。",
+      "en": "I looked away trying to keep my face straight.",
+      "text": "I looked away trying to keep my face straight."
+    },
+    {
+      "offset": 2563,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2598,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当に穏やかな日だ。",
+      "en": "Such a calm nice day.",
+      "text": "Such a calm nice day."
+    },
+    {
+      "offset": 2623,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "風が桜の枝を揺らし、さわさわ、と桜が舞い散\nる。",
+      "en": "The wind blowing the cherry blossom trees and shaking their\nbranches, making the petals fall all over the place.",
+      "text": "The wind blowing the cherry blossom trees and shaking their\nbranches, making the petals fall all over the place."
+    },
+    {
+      "offset": 2675,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "子供達の嬌声と、どこか遠くで犬が鳴く声。",
+      "en": "I could hear kids playing and a dog barking somewhere.",
+      "text": "I could hear kids playing and a dog barking somewhere."
+    },
+    {
+      "offset": 2733,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……春だよ兄さん」",
+      "en": "\"Spring has come, niisan.\"",
+      "text": "\"Spring has come, niisan.\""
+    },
+    {
+      "offset": 2781,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「春だな」",
+      "en": "\"Yep.\"",
+      "text": "\"Yep.\""
+    },
+    {
+      "offset": 2798,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢とふたり、思わず空を見上げてしまう。",
+      "en": "We looked up on the sky together.",
+      "text": "We looked up on the sky together."
+    },
+    {
+      "offset": 2845,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「公園なんかで良かったのか？」",
+      "en": "\"Is this what you wanted to do?\"",
+      "text": "\"Is this what you wanted to do?\""
+    },
+    {
+      "offset": 2938,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ほぇ？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 2955,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「デート。公園なんかでよかったのか？」",
+      "en": "\"The date. Is the park okay?\"",
+      "text": "\"The date. Is the park okay?\""
+    },
+    {
+      "offset": 3000,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の言葉に、音夢が目を細めて頷く。",
+      "en": "Nemu narrowed her eyes and nodded to my question.",
+      "text": "Nemu narrowed her eyes and nodded to my question."
+    },
+    {
+      "offset": 3069,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うん……まだ体調が良くないから、人ごみよ\n　りはこっちのほうがいいな」",
+      "en": "\"I don't feel well yet, so it's better to be here than some\nother crowded places.\"",
+      "text": "\"I don't feel well yet, so it's better to be here than some\nother crowded places.\""
+    },
+    {
+      "offset": 3147,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして顔を上げた。",
+      "en": "And she looked up.",
+      "text": "And she looked up."
+    },
+    {
+      "offset": 3200,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「でも、兄さんとふたりきりでいられれば、私\n　はどこでも、どこまでも幸せだから！」",
+      "en": "\"But I'm happy if I can stay with you no matter where I end\nup.\"",
+      "text": "\"But I'm happy if I can stay with you no matter where I end\nup.\""
+    },
+    {
+      "offset": 3288,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ばっ――！」",
+      "en": "\"!!!\"",
+      "text": "\"!!!\""
+    },
+    {
+      "offset": 3309,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "固めていた表情のネジがはずれる。",
+      "en": "I couldn't keep the straight face any more.",
+      "text": "I couldn't keep the straight face any more."
+    },
+    {
+      "offset": 3376,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ば――なんです？」",
+      "en": "\"What happened?\"",
+      "text": "\"What happened?\""
+    },
+    {
+      "offset": 3403,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ば……」",
+      "en": "\"Well......\"",
+      "text": "\"Well......\""
+    },
+    {
+      "offset": 3420,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「馬鹿は俺だ……」",
+      "en": "\"I'm stupid......\"",
+      "text": "\"I'm stupid......\""
+    },
+    {
+      "offset": 3465,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あはははは♪　そうです。おかしいのは兄さ\n　んです」",
+      "en": "\"What? Sure, you're stupid.\"",
+      "text": "\"What? Sure, you're stupid.\""
+    },
+    {
+      "offset": 3547,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "身体を回して、俺の正面に立って音夢が背伸び\nする。",
+      "en": "Nemu came around in front of me, and stood up on her toes.",
+      "text": "Nemu came around in front of me, and stood up on her toes."
+    },
+    {
+      "offset": 3631,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ずっと一緒だよ兄さん」",
+      "en": "\"I won't let you go.\"",
+      "text": "\"I won't let you go.\""
+    },
+    {
+      "offset": 3662,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「音夢……」",
+      "en": "\"Nemu......\"",
+      "text": "\"Nemu......\""
+    },
+    {
+      "offset": 3692,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3711,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "人前だってことはある――。",
+      "en": "Yes, we're in public.",
+      "text": "Yes, we're in public."
+    },
+    {
+      "offset": 3742,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だけど、周りにいるのは子供とその母親とお年\n寄り、そして美春とことりくらいで……。",
+      "en": "But, all I can see are kids and their mothers and some old\npeople and Miharu and Kotori......",
+      "text": "But, all I can see are kids and their mothers and some old\npeople and Miharu and Kotori......"
+    },
+    {
+      "offset": 3835,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「げっ！？」",
+      "en": "\"Shit!\"",
+      "text": "\"Shit!\""
+    },
+    {
+      "offset": 3882,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 3946,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ」",
+      "en": "\"Oh my...\"",
+      "text": "\"Oh my...\""
+    },
+    {
+      "offset": 3970,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あぅ♪」",
+      "en": "\"Wow.\"",
+      "text": "\"Wow.\""
+    },
+    {
+      "offset": 3987,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "四者四様の声を上げて、全員が動きを止める。",
+      "en": "All four of us raised our voices and stopped moving.",
+      "text": "All four of us raised our voices and stopped moving."
+    },
+    {
+      "offset": 4034,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の肩越しに立っていたふたり。",
+      "en": "I found two of them standing behind Nemu.",
+      "text": "I found two of them standing behind Nemu."
+    },
+    {
+      "offset": 4084,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ぅわ！」",
+      "en": "\"Oh my...\"",
+      "text": "\"Oh my...\""
+    },
+    {
+      "offset": 4101,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "遅れて振り向いた音夢も、俺の肩に手をおいた\nまま硬直した。",
+      "en": "Nemu turned around to look, and she froze with her hands\nstill on my shoulders.",
+      "text": "Nemu turned around to look, and she froze with her hands\nstill on my shoulders."
+    },
+    {
+      "offset": 4195,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、その、これは、天枷さんとチョコバナ\n　ナの美味しい公園に屋台を食べに来て……\n　あれ？」",
+      "en": "\"Ah... well... We came to buy chocolate bananas from the\nstand in the park, and then... umm...\"",
+      "text": "\"Ah... well... We came to buy chocolate bananas from the\nstand in the park, and then... umm...\""
+    },
+    {
+      "offset": 4294,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりが帽子をいじくりながら呟く。",
+      "en": "Kotori mumbled, touching her hat.",
+      "text": "Kotori mumbled, touching her hat."
+    },
+    {
+      "offset": 4333,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "滅茶苦茶だが、状況だけは分かるな。",
+      "en": "She sounds confused, but I see why they're here.",
+      "text": "She sounds confused, but I see why they're here."
+    },
+    {
+      "offset": 4402,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「そ、そうなんですよ朝倉先輩！　もぅ、美春\n　達のことなんてなかったことにして、続きを\n　どうぞ！」",
+      "en": "\"That's right, Asakura-sempai. Please don't mind us, keep on\ndoing what you were going to do.\"",
+      "text": "\"That's right, Asakura-sempai. Please don't mind us, keep on\ndoing what you were going to do.\""
+    },
+    {
+      "offset": 4546,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「もうこうやってグッと熱く！」",
+      "en": "\"Yes, go on and kiss!\"",
+      "text": "\"Yes, go on and kiss!\""
+    },
+    {
+      "offset": 4583,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「……楽しそうだな美春」",
+      "en": "\"Don't you sound happy, Miharu......\"",
+      "text": "\"Don't you sound happy, Miharu......\""
+    },
+    {
+      "offset": 4614,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "取り｛つくろ／繕｝うのも面倒になってきた。",
+      "en": "I'm so tired of making excuses now.",
+      "text": "I'm so tired of making excuses now."
+    },
+    {
+      "offset": 4693,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、その……私達はなにも見なかったという\n　ことで」",
+      "en": "\"Um... We didn't see anything.\"",
+      "text": "\"Um... We didn't see anything.\""
+    },
+    {
+      "offset": 4784,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「そうですよ！　もぅ、音夢先輩との禁断の関\n　係なんて、美春はこれっっっ――ぽっちも見\n　てませ……もごもご！」",
+      "en": "\"That's right! We didn't see your forbidden relationship\nwith your brother, Nemu-sempai. Yep!\"",
+      "text": "\"That's right! We didn't see your forbidden relationship\nwith your brother, Nemu-sempai. Yep!\""
+    },
+    {
+      "offset": 4939,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あははは……それじゃあふたりとも」",
+      "en": "\"Ahahaha...... Goodbye, you two.\"",
+      "text": "\"Ahahaha...... Goodbye, you two.\""
+    },
+    {
+      "offset": 4996,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春の口を押さえて、ことりが苦笑いを浮かべ\nながら去っていく。",
+      "en": "Kotori had a wry smile on her face and she placed her hand\nover Miharu's mouth and they left.",
+      "text": "Kotori had a wry smile on her face and she placed her hand\nover Miharu's mouth and they left."
+    },
+    {
+      "offset": 5064,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 5083,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……ちゃんと恋人に見られたぞ」",
+      "en": "\"I guess they thought we were a couple.\"",
+      "text": "\"I guess they thought we were a couple.\""
+    },
+    {
+      "offset": 5155,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……そ、そうだね」",
+      "en": "\"Right......\"",
+      "text": "\"Right......\""
+    },
+    {
+      "offset": 5182,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "胸を押さえて、音夢が俺の身体に手をつく。",
+      "en": "Nemu touched me with her hand, placing her other hand over\nher chest.",
+      "text": "Nemu touched me with her hand, placing her other hand over\nher chest."
+    },
+    {
+      "offset": 5229,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん？　どうした？」",
+      "en": "\"What? What's wrong?\"",
+      "text": "\"What? What's wrong?\""
+    },
+    {
+      "offset": 5284,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「き、緊張した〜」",
+      "en": "\"It made me so nervous......\"",
+      "text": "\"It made me so nervous......\""
+    },
+    {
+      "offset": 5309,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「はははは」",
+      "en": "\"Ha-ha.\"",
+      "text": "\"Ha-ha.\""
+    },
+    {
+      "offset": 5328,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の頭に手をおいてぐりぐりとなでる。",
+      "en": "I put my hand over her head and rubbed it.",
+      "text": "I put my hand over her head and rubbed it."
+    },
+    {
+      "offset": 5401,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うわわわ！　だって見られたんだよ！　見ら\n　れちゃったんだよ！　どうしよう！？」",
+      "en": "\"Oh my god! They saw us! What should we do?\"",
+      "text": "\"Oh my god! They saw us! What should we do?\""
+    },
+    {
+      "offset": 5489,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「まぁな……」",
+      "en": "\"Right......\"",
+      "text": "\"Right......\""
+    },
+    {
+      "offset": 5519,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふと振り返ると、当たり前だがことりも美春も、\nこちらのことをまだ気にしているようだった。",
+      "en": "I turned around and I noticed Miharu and Kotori were still\nlooking at us, wondering what was going on.",
+      "text": "I turned around and I noticed Miharu and Kotori were still\nlooking at us, wondering what was going on."
+    },
+    {
+      "offset": 5613,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「こうするしかないんじゃないか？」",
+      "en": "\"I guess we should do this then.\"",
+      "text": "\"I guess we should do this then.\""
+    },
+    {
+      "offset": 5665,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ど、どう――ん」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 5706,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢を抱き寄せてキスをする。",
+      "en": "I grabbed her and kissed Nemu.",
+      "text": "I grabbed her and kissed Nemu."
+    },
+    {
+      "offset": 5752,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「んん！　……ん……っ……」",
+      "en": "\"Mm! ......Mm...... Mm......\"",
+      "text": "\"Mm! ......Mm...... Mm......\""
+    },
+    {
+      "offset": 5787,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "最初は抵抗していた音夢も、すぐに大人しくな\nる。",
+      "en": "Nemu was trying to resist it, but then she calmed down soon\nenough.",
+      "text": "Nemu was trying to resist it, but then she calmed down soon\nenough."
+    },
+    {
+      "offset": 5879,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……ぁ」",
+      "en": "\"Wow......\"",
+      "text": "\"Wow......\""
+    },
+    {
+      "offset": 5896,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "膝の力でも抜けたのか、ふらふらと音夢が寄り\nかかってきた。",
+      "en": "Nemu leaned over to me as she wasn't able to stand up by\nherself.",
+      "text": "Nemu leaned over to me as she wasn't able to stand up by\nherself."
+    },
+    {
+      "offset": 5960,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「な」",
+      "en": "\"See?\"",
+      "text": "\"See?\""
+    },
+    {
+      "offset": 6006,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……もぅ……馬鹿なんだから」",
+      "en": "\"You're such an idiot.\"",
+      "text": "\"You're such an idiot.\""
+    },
+    {
+      "offset": 6043,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "胸の中での呟きに笑いながら、遠くで｛あぜん／唖然｝とし\nている美春とことりにニコリと笑ってやった。",
+      "en": "Nemu mumbled in my arms and I smiled at Miharu and Kotori,\nwho were looking shocked in the distance.",
+      "text": "Nemu mumbled in my arms and I smiled at Miharu and Kotori,\nwho were looking shocked in the distance."
+    },
+    {
+      "offset": 6273,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆公園でのキス◆",
+      "en": "◆The kiss at the park◆",
+      "text": "◆The kiss at the park◆"
+    },
+    {
+      "offset": 6326,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "桜公園で音夢と腕を組みデートをしているさな\nか、美春とことりに出会う。",
+      "en": "Nemu and I were on a date at Sakura Park walking arm in arm\nwhen Miharu and Kotori bumped into us.",
+      "text": "Nemu and I were on a date at Sakura Park walking arm in arm\nwhen Miharu and Kotori bumped into us."
+    },
+    {
+      "offset": 6400,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふたりとも驚きつつも見逃してくれたが、やっ\nぱり遠くから俺たちのことを気にしている。",
+      "en": "They looked surprised but they left us alone, but they were\nstill watching us from distance.",
+      "text": "They looked surprised but they left us alone, but they were\nstill watching us from distance."
+    },
+    {
+      "offset": 6488,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そのふたりの前で、音夢を抱き寄せキスをした。",
+      "en": "I grabbed Nemu and kissed her in front of them.",
+      "text": "I grabbed Nemu and kissed her in front of them."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "366": "Nemu",
+    "443": "Nemu",
+    "601": "Nemu",
+    "718": "Nemu",
+    "894": "Nemu",
+    "1127": "Nemu",
+    "1189": "Nemu",
+    "1307": "Nemu",
+    "1515": "Nemu",
+    "1611": "Nemu",
+    "1726": "Nemu",
+    "1926": "Nemu",
+    "2016": "Nemu",
+    "2207": "Nemu",
+    "2339": "Nemu",
+    "2433": "Nemu",
+    "2725": "Nemu",
+    "2930": "Nemu",
+    "3061": "Nemu",
+    "3192": "Nemu",
+    "3368": "Nemu",
+    "3457": "Nemu",
+    "3623": "Nemu",
+    "3684": "Nemu",
+    "3874": "Nemu",
+    "3936": "Kotori",
+    "3962": "Miharu",
+    "4076": "Nemu",
+    "4185": "Kotori",
+    "4394": "Miharu",
+    "4538": "Miharu",
+    "4683": "Kotori",
+    "4776": "Miharu",
+    "4929": "Kotori",
+    "5147": "Nemu",
+    "5276": "Nemu",
+    "5393": "Nemu",
+    "5657": "Nemu",
+    "5744": "Nemu",
+    "5871": "Nemu",
+    "5998": "Nemu"
+  }
+}

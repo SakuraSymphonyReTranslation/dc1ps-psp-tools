@@ -1,0 +1,638 @@
+{
+  "scene": "script_0751.obj",
+  "dialogues": [
+    {
+      "offset": 240,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……ほんとに、無理しないほうがいいよ」",
+      "en": "\"...You shouldn't overexert yourself.\"",
+      "text": "\"...You shouldn't overexert yourself.\""
+    },
+    {
+      "offset": 320,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「大丈夫だって……コホッ……」",
+      "en": "\"I'm fine... *cough*...\"",
+      "text": "\"I'm fine... *cough*...\""
+    },
+    {
+      "offset": 357,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "小さく咳き込む工藤に、ことりが心配そうな表\n情を見せる。",
+      "en": "Kotori was looking worriedly over Kudou, who was coughing\nseveral times.",
+      "text": "Kotori was looking worriedly over Kudou, who was coughing\nseveral times."
+    },
+    {
+      "offset": 463,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「お、工藤。風邪はもういいのか？」",
+      "en": "\"Ohh, Kudou. Your cold's okay now?\"",
+      "text": "\"Ohh, Kudou. Your cold's okay now?\""
+    },
+    {
+      "offset": 532,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「まあな」",
+      "en": "\"Pretty much.\"",
+      "text": "\"Pretty much.\""
+    },
+    {
+      "offset": 549,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……と答えつつもその顔色はどことなく青白く、\n声も微妙にかすれて聞こえる。",
+      "en": "...He answered as his face was still pale, and his voice\nbarely audible.",
+      "text": "...He answered as his face was still pale, and his voice\nbarely audible."
+    },
+    {
+      "offset": 641,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（ふうん、本当に体調崩してたのか……）",
+      "en": "\"(Hm, he really does look bad...)\"",
+      "text": "\"(Hm, he really does look bad...)\""
+    },
+    {
+      "offset": 686,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なにが宇宙人だ、杉並の阿呆め。",
+      "en": "What space alien eh, Suginami.",
+      "text": "What space alien eh, Suginami."
+    },
+    {
+      "offset": 721,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "無理をおして出てきたのだろうか？　",
+      "en": "Isn't he pushing himself too hard though?",
+      "text": "Isn't he pushing himself too hard though?"
+    },
+    {
+      "offset": 760,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "辛そうに時折、咳をもらす工藤の姿はいつもよ\nり小さく見えた。",
+      "en": "I took a small glance at Kudou's pained figure.",
+      "text": "I took a small glance at Kudou's pained figure."
+    },
+    {
+      "offset": 826,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ちょっといいか？」",
+      "en": "\"Do you mind?\"",
+      "text": "\"Do you mind?\""
+    },
+    {
+      "offset": 886,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「わっ！？」",
+      "en": "\"Wah!?\"",
+      "text": "\"Wah!?\""
+    },
+    {
+      "offset": 905,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は工藤の額に手を伸ばして、自分と熱を比べ\nてみた。",
+      "en": "I put my hand on his forehead, and compared his heat to\nmine.",
+      "text": "I put my hand on his forehead, and compared his heat to\nmine."
+    },
+    {
+      "offset": 961,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本来ならば音夢の場合のように額同士をくっつ\nけるべきなのであろうが、男同士でそれは少々\nデンジャラスゾーンだ。",
+      "en": "With Nemu, I'd do it forehead-to-forehead, but with two\nguys, that's going too far into the danger zone.",
+      "text": "With Nemu, I'd do it forehead-to-forehead, but with two\nguys, that's going too far into the danger zone."
+    },
+    {
+      "offset": 1076,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふぅむ……」",
+      "en": "\"Hmm...\"",
+      "text": "\"Hmm...\""
+    },
+    {
+      "offset": 1097,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "工藤の額は、心なしか熱いような気がする。",
+      "en": "His forehead was definitely warmer than it should be.",
+      "text": "His forehead was definitely warmer than it should be."
+    },
+    {
+      "offset": 1144,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お前、まだ熱あるみたいだぞ。調子悪いなら\n　早退するか保健室行くかしたほうがいいんじゃ\n　ないのか？」",
+      "en": "\"Your forehead is still hot. If you're feeling bad, you\nshould go to the doctor's office, you know.\"",
+      "text": "\"Your forehead is still hot. If you're feeling bad, you\nshould go to the doctor's office, you know.\""
+    },
+    {
+      "offset": 1281,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「大袈裟だな……このくらいどうってこと無い\n　……コホコホッ」",
+      "en": "\"That's exaggerating... I don't need to go there... *cough\ncough*.\"",
+      "text": "\"That's exaggerating... I don't need to go there... *cough\ncough*.\""
+    },
+    {
+      "offset": 1349,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言葉の途中で再びせきこむ。ほら見ろ。",
+      "en": "His talking was interrupted by his coughs. Just look at\nthat...",
+      "text": "His talking was interrupted by his coughs. Just look at\nthat..."
+    },
+    {
+      "offset": 1427,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「朝倉君の言うとおりだよ、そんな状態じゃ倒\n　れちゃうかもしれないもの」",
+      "en": "\"Asakura-kun's right. At this point, you're going to\ncollapse...\"",
+      "text": "\"Asakura-kun's right. At this point, you're going to\ncollapse...\""
+    },
+    {
+      "offset": 1505,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりも横から俺の意見に賛同した。それでも\n工藤は迷うような素振りを見せている。",
+      "en": "Kotori agreed with me from the sidelines. Kudou started to\nlook lost.",
+      "text": "Kotori agreed with me from the sidelines. Kudou started to\nlook lost."
+    },
+    {
+      "offset": 1624,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「……。でも…………」",
+      "en": "\"... But......\"",
+      "text": "\"... But......\""
+    },
+    {
+      "offset": 1653,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「かったるい奴だな、ほれ、行くぞ」",
+      "en": "\"What a troublesome idiot. Come on, let's go.\"",
+      "text": "\"What a troublesome idiot. Come on, let's go.\""
+    },
+    {
+      "offset": 1722,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「わっ」",
+      "en": "\"Wah!\"",
+      "text": "\"Wah!\""
+    },
+    {
+      "offset": 1749,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は工藤の腕を掴んで。半ば強引に保健室まで\nつれて行くことにした。",
+      "en": "I grabbed Kudou's arm, and half-pulled him to the infirmary.",
+      "text": "I grabbed Kudou's arm, and half-pulled him to the infirmary."
+    },
+    {
+      "offset": 1819,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 1869,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "物珍しそうに過ぎ行く学生達の目が気になるの\nか、工藤はしきりと俺の手から逃れようとした。",
+      "en": "Thanks to the curious stares from other students, Kudou kept\ntrying to escape my hand's grasp.",
+      "text": "Thanks to the curious stares from other students, Kudou kept\ntrying to escape my hand's grasp."
+    },
+    {
+      "offset": 1996,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「だ、大丈夫だって言ってるじゃないか」",
+      "en": "\"I, I told you I'm fine.\"",
+      "text": "\"I, I told you I'm fine.\""
+    },
+    {
+      "offset": 2053,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「残念ながら俺は、そういった自己申告はいっ\n　さい信用しないことにしてるんだ」",
+      "en": "\"Too bad, I don't trust self-examinations when it comes to\nthings like this.\"",
+      "text": "\"Too bad, I don't trust self-examinations when it comes to\nthings like this.\""
+    },
+    {
+      "offset": 2137,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……そういう嘘つきが身近に一人いたからな。",
+      "en": "...Someone close to me would always lie like that as well.",
+      "text": "...Someone close to me would always lie like that as well."
+    },
+    {
+      "offset": 2184,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう、あいつはいっつも、「大丈夫だよ兄さん」\nなんて言うくせに、その実、全然大丈夫じゃな\nいんだ。",
+      "en": "Yeah, she's always \"I'm fine, nii-san.\", even though the\ntruth is as far from that as you could get.",
+      "text": "Yeah, she's always \"I'm fine, nii-san.\", even though the\ntruth is as far from that as you could get."
+    },
+    {
+      "offset": 2285,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思い出して、少し笑いそうになってしまった。",
+      "en": "As that memory drifted through my mind, a small smile formed\non my lips.",
+      "text": "As that memory drifted through my mind, a small smile formed\non my lips."
+    },
+    {
+      "offset": 2332,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 2371,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "がらっ、と勢いよく保健室のドアを開く。",
+      "en": "I opened the door to the infirmary with haste.",
+      "text": "I opened the door to the infirmary with haste."
+    },
+    {
+      "offset": 2439,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「急患一丁！」",
+      "en": "\"Emergency, Block 1!\"",
+      "text": "\"Emergency, Block 1!\""
+    },
+    {
+      "offset": 2493,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「朝倉………………よせって」",
+      "en": "\"Asakura....... stop that.\"",
+      "text": "\"Asakura....... stop that.\""
+    },
+    {
+      "offset": 2528,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺のあげた声に、工藤が恥ずかしげに袖を引く。",
+      "en": "Kudou tugged at my sleeve, trying to get me to lower my\nvoice.",
+      "text": "Kudou tugged at my sleeve, trying to get me to lower my\nvoice."
+    },
+    {
+      "offset": 2577,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なにやら名簿のようなものを調べていた小柄な\n女性――保健のゆき先生が顔をあげて答えた。",
+      "en": "Inside was a short woman holding a register of names--\nYuki-sensei, the doctor in charge of the infirmary.",
+      "text": "Inside was a short woman holding a register of names--\nYuki-sensei, the doctor in charge of the infirmary."
+    },
+    {
+      "offset": 2667,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ゆき先生には付属時代から音夢のことでよく世\n話になった。",
+      "en": "I talked to her a lot, as I always brought Nemu here when we\nwere part of the attached school.",
+      "text": "I talked to her a lot, as I always brought Nemu here when we\nwere part of the attached school."
+    },
+    {
+      "offset": 2727,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "小柄で童顔だが、とても頼りになる優しい先生\nだ。",
+      "en": "She was short and had a childlike face, but she's a very\ngentle and reliable sensei.",
+      "text": "She was short and had a childlike face, but she's a very\ngentle and reliable sensei."
+    },
+    {
+      "offset": 2791,
+      "speaker": "Yuki-sensei",
+      "speaker_jp": "ゆき先生",
+      "jp": "「どうしたの？　あら、朝倉君」",
+      "en": "\"What's wrong? Oh, Asakura-kun.\"",
+      "text": "\"What's wrong? Oh, Asakura-kun.\""
+    },
+    {
+      "offset": 2828,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "にっこりと笑うゆき先生に俺も笑顔を返す。",
+      "en": "She smiled as she saw me.",
+      "text": "She smiled as she saw me."
+    },
+    {
+      "offset": 2875,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「今日は別件ですよ、サボリでもないです」",
+      "en": "\"Today's a different case, not the usual.\"",
+      "text": "\"Today's a different case, not the usual.\""
+    },
+    {
+      "offset": 2922,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「こいつが体調悪いみたいなんで、少し寝かせ\n　てやってくれませんか」",
+      "en": "\"This guy here has been feeling poorly, can he rest here for\nawhile?\"",
+      "text": "\"This guy here has been feeling poorly, can he rest here for\nawhile?\""
+    },
+    {
+      "offset": 2996,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "拾ってきたネコのように、工藤の首根っこを持\nち上げて指し示す俺。",
+      "en": "As if I was holding a cat, I lifted Kudou's head to face\nYuki-sensei.",
+      "text": "As if I was holding a cat, I lifted Kudou's head to face\nYuki-sensei."
+    },
+    {
+      "offset": 3076,
+      "speaker": "Yuki-sensei",
+      "speaker_jp": "ゆき先生",
+      "jp": "「ああ、工藤君」",
+      "en": "\"Ahh, Kudou-kun.\"",
+      "text": "\"Ahh, Kudou-kun.\""
+    },
+    {
+      "offset": 3127,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「……お世話になっています」",
+      "en": "\"...I'm sorry for being a bother.\"",
+      "text": "\"...I'm sorry for being a bother.\""
+    },
+    {
+      "offset": 3162,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……なんだ工藤、先生に名前覚えられるほど保\n健室の常連なのか？",
+      "en": "...Kudou, are you such a regular visitor that the doctor\nknows you by name?",
+      "text": "...Kudou, are you such a regular visitor that the doctor\nknows you by name?"
+    },
+    {
+      "offset": 3240,
+      "speaker": "Yuki-sensei",
+      "speaker_jp": "ゆき先生",
+      "jp": "「確かに顔色が悪いわ、取りあえず、横になっ\n　た方がよさそうね」",
+      "en": "\"Your face looks very bad, indeed. Come over here first.\"",
+      "text": "\"Your face looks very bad, indeed. Come over here first.\""
+    },
+    {
+      "offset": 3338,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「すみません」",
+      "en": "\"Alright.\"",
+      "text": "\"Alright.\""
+    },
+    {
+      "offset": 3369,
+      "speaker": "Yuki-sensei",
+      "speaker_jp": "ゆき先生",
+      "jp": "「ちょっと熱を測ってみて」",
+      "en": "\"I'd check your temperature.\"",
+      "text": "\"I'd check your temperature.\""
+    },
+    {
+      "offset": 3402,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言ってゆき先生は戸棚から古式ゆかしい水\n銀式の体温計を一本取り出してきた。",
+      "en": "As she talked, she took a mercury thermometer from her\ncupboard.",
+      "text": "As she talked, she took a mercury thermometer from her\ncupboard."
+    },
+    {
+      "offset": 3514,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「あ、はい」",
+      "en": "\"Ah, yes.\"",
+      "text": "\"Ah, yes.\""
+    },
+    {
+      "offset": 3533,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "工藤が頷いて制服のボタンに手をかける。",
+      "en": "Kudou nodded as his hands went to his shirt buttons.",
+      "text": "Kudou nodded as his hands went to his shirt buttons."
+    },
+    {
+      "offset": 3606,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「…………………………………………………」",
+      "en": "\"....................\"",
+      "text": "\"....................\""
+    },
+    {
+      "offset": 3655,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そのまま手を止めて、何か気遣わしげに俺を見\nやった。",
+      "en": "\"His hands suddenly stopped, and he looked at me with fear\nin his eyes.",
+      "text": "\"His hands suddenly stopped, and he looked at me with fear\nin his eyes."
+    },
+    {
+      "offset": 3713,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん？　どうかしたのか？」",
+      "en": "\"Hm? What's the matter?\"",
+      "text": "\"Hm? What's the matter?\""
+    },
+    {
+      "offset": 3757,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「………………………………………………」",
+      "en": "\".....................\"",
+      "text": "\".....................\""
+    },
+    {
+      "offset": 3804,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ゆき先生は工藤と視線を合わせ、小さく頷いた。",
+      "en": "Yuki-sensei exchanged a quick glance with Kudou, and nodded\nslightly.",
+      "text": "Yuki-sensei exchanged a quick glance with Kudou, and nodded\nslightly."
+    },
+    {
+      "offset": 3877,
+      "speaker": "Yuki-sensei",
+      "speaker_jp": "ゆき先生",
+      "jp": "「……朝倉君、後は私にまかせて、もう教室に\n　戻っていいわよ」",
+      "en": "\"...Asakura-kun, let me handle things from here. You can go\nback to your class.\"",
+      "text": "\"...Asakura-kun, let me handle things from here. You can go\nback to your class.\""
+    },
+    {
+      "offset": 3945,
+      "speaker": "Yuki-sensei",
+      "speaker_jp": "ゆき先生",
+      "jp": "「え？　そう、ですか？……」",
+      "en": "\"Eh? I, is that so?...\"",
+      "text": "\"Eh? I, is that so?...\""
+    },
+    {
+      "offset": 3990,
+      "speaker": "Yuki-sensei",
+      "speaker_jp": "ゆき先生",
+      "jp": "「もう授業始まっちゃうから、ね」",
+      "en": "\"Lessons are going to start soon.\"",
+      "text": "\"Lessons are going to start soon.\""
+    },
+    {
+      "offset": 4070,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "がらがら、ピシャンと大きな音を立てて目の前\nのドアは閉められた。",
+      "en": "Yuki-sensei lightly pushed me out of the room, and shut the\ndoor behind her.",
+      "text": "Yuki-sensei lightly pushed me out of the room, and shut the\ndoor behind her."
+    },
+    {
+      "offset": 4138,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんか……急に追い出されたよーな気がするが。",
+      "en": "Huh... sounds like she wanted to chase me out for another\nreason.",
+      "text": "Huh... sounds like she wanted to chase me out for another\nreason."
+    },
+    {
+      "offset": 4187,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんとなく手持ち無沙汰で、わしゃわしゃと頭\nを｛か／掻｝く。",
+      "en": "A few weird ideas started running through my head...",
+      "text": "A few weird ideas started running through my head..."
+    },
+    {
+      "offset": 4253,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……まぁ、いいか」",
+      "en": "\"...Well, whatever.\"",
+      "text": "\"...Well, whatever.\""
+    },
+    {
+      "offset": 4280,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とりあえず俺の任務はここまでか……。",
+      "en": "In any case, my duty ends here...",
+      "text": "In any case, my duty ends here..."
+    },
+    {
+      "offset": 4323,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「任務完了！」",
+      "en": "\"Mission complete!\"",
+      "text": "\"Mission complete!\""
+    },
+    {
+      "offset": 4349,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "びしっと意味なく敬礼なぞを決めてみた。",
+      "en": "I gave a mock salute in front of the infrimary.",
+      "text": "I gave a mock salute in front of the infrimary."
+    },
+    {
+      "offset": 4392,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その途端に、タイミング良く鳴り響く始業のベ\nル。",
+      "en": "And perfectly timed, the bell signifiying the start of\nclasses rang.",
+      "text": "And perfectly timed, the bell signifiying the start of\nclasses rang."
+    },
+    {
+      "offset": 4446,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ぅおっと！　やばい、やばい」",
+      "en": "\"Whoa! I might not make it!\"",
+      "text": "\"Whoa! I might not make it!\""
+    },
+    {
+      "offset": 4483,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は慌てて廊下を駆け出したのだった。",
+      "en": "I hurriedly dashed down the corridor.",
+      "text": "I hurriedly dashed down the corridor."
+    },
+    {
+      "offset": 4642,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆過保護症候群◆",
+      "en": "◆Excessive Care Syndrome◆",
+      "text": "◆Excessive Care Syndrome◆"
+    },
+    {
+      "offset": 4691,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まだ体調が悪いくせに無理をしているような工\n藤。",
+      "en": "Kudou returned to school, but he was obviously exerting\nhimself too much.",
+      "text": "Kudou returned to school, but he was obviously exerting\nhimself too much."
+    },
+    {
+      "offset": 4766,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな工藤に業を煮やした俺は、強引に保健室\nに連れていくのだった。",
+      "en": "Seeing him so pained, I brought him to the infirmary.",
+      "text": "Seeing him so pained, I brought him to the infirmary."
+    },
+    {
+      "offset": 4836,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まったく、かったるい奴だ。",
+      "en": "Seriously, what a troublesome idiot.",
+      "text": "Seriously, what a troublesome idiot."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "230": "Kotori",
+    "312": "Kudou",
+    "455": "Suginami",
+    "524": "Kudou",
+    "878": "Kudou",
+    "1273": "Kudou",
+    "1417": "Kotori",
+    "1616": "Kudou",
+    "1714": "Kudou",
+    "1988": "Kudou",
+    "2485": "Kudou",
+    "2779": "Yuki-sensei",
+    "3064": "Yuki-sensei",
+    "3119": "Kudou",
+    "3228": "Yuki-sensei",
+    "3330": "Kudou",
+    "3357": "Yuki-sensei",
+    "3506": "Kudou",
+    "3598": "Kudou",
+    "3749": "Kudou",
+    "3865": "Yuki-sensei",
+    "3978": "Yuki-sensei"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "scene": "script_0132.obj",
+  "dialogues": [
+    {
+      "offset": 135,
+      "speaker": "Kazuhiro",
+      "speaker_jp": "和宏",
+      "jp": "「じゃあ、最後に勉強のポイントを教えてあげ\n　ましょう」",
+      "en": "\"Now, make sure you study these points before the exams\ntomorrow.\"",
+      "text": "\"Now, make sure you study these points before the exams\ntomorrow.\""
+    },
+    {
+      "offset": 197,
+      "speaker": "Kazuhiro",
+      "speaker_jp": "和宏",
+      "jp": "（きた――――）",
+      "en": "\"(Here it comes~---)\"",
+      "text": "\"(Here it comes~---)\""
+    },
+    {
+      "offset": 220,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "瞬時に教室の中が静まり、いかなる音も聞き逃\nすまいと耳をすます。",
+      "en": "In an instant, the entire classroom become so silent that\nyou could hear a pin drop.",
+      "text": "In an instant, the entire classroom become so silent that\nyou could hear a pin drop."
+    },
+    {
+      "offset": 296,
+      "speaker": "Kazuhiro",
+      "speaker_jp": "和宏",
+      "jp": "「いいですか。何度もいいますが勉強の｛・・・／ポイン｝\n　｛・／ト｝ですからね」",
+      "en": "\"No matter what, if you study nothing else, make sure you\nstudy these points at least.\"",
+      "text": "\"No matter what, if you study nothing else, make sure you\nstudy these points at least.\""
+    },
+    {
+      "offset": 382,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "分かってるさ。みなまで言うな。",
+      "en": "We know already, just tell us.",
+      "text": "We know already, just tell us."
+    },
+    {
+      "offset": 425,
+      "speaker": "Kazuhiro",
+      "speaker_jp": "和宏",
+      "jp": "「まず、教科書の９８ページに書かれていると\n　ころは、かなり重要だと僕は思いますね」",
+      "en": "\"I believe page 98 of the textbook will be very important in\nthe coming exam...\"",
+      "text": "\"I believe page 98 of the textbook will be very important in\nthe coming exam...\""
+    },
+    {
+      "offset": 515,
+      "speaker": "Kazuhiro",
+      "speaker_jp": "和宏",
+      "jp": "（ふむふむ……）",
+      "en": "\"(Mmmhmmm...)\"",
+      "text": "\"(Mmmhmmm...)\""
+    },
+    {
+      "offset": 538,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "カリカリとメモを取る音が響く。",
+      "en": "The sound of several pencils scribbling on paper was heard\nthroughout the classroom.",
+      "text": "The sound of several pencils scribbling on paper was heard\nthroughout the classroom."
+    },
+    {
+      "offset": 581,
+      "speaker": "Kazuhiro",
+      "speaker_jp": "和宏",
+      "jp": "「次は……」",
+      "en": "\"Then we have...\"",
+      "text": "\"Then we have...\""
+    },
+    {
+      "offset": 704,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆英語のポイント◆",
+      "en": "◆English Points◆",
+      "text": "◆English Points◆"
+    },
+    {
+      "offset": 753,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "英語の和宏先生はとにかくありがたい人だ。な\nにせ勉強の｛・・・・／ポイント｝を教えてくれる。",
+      "en": "Our english teacher, Kazuhiro-sensei, is the best. He always\ntells us what to study before the exams.",
+      "text": "Our english teacher, Kazuhiro-sensei, is the best. He always\ntells us what to study before the exams."
+    },
+    {
+      "offset": 849,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なになに……９８ページだって。みな、真剣に\nメモを取っていた。",
+      "en": "So, it's page 98. Everyone seriously noted down this on\ntheir papers.",
+      "text": "So, it's page 98. Everyone seriously noted down this on\ntheir papers."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "127": "Kazuhiro",
+    "288": "Kazuhiro",
+    "417": "Kazuhiro",
+    "573": "Kazuhiro"
+  }
+}

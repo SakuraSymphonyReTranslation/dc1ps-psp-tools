@@ -1,0 +1,99 @@
+{
+  "scene": "script_0705.obj",
+  "dialogues": [
+    {
+      "offset": 204,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「病院の検診、いよいよ今日ですね」",
+      "en": "As Moe spoke softly, I nodded vaguely.",
+      "text": "As Moe spoke softly, I nodded vaguely."
+    },
+    {
+      "offset": 245,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「……ええ」",
+      "en": "If my leg was healed, Moe-sempai would have no reason to be\nhere. That thought made me feel hesitant to go to the\nhospital.",
+      "text": "If my leg was healed, Moe-sempai would have no reason to be\nhere. That thought made me feel hesitant to go to the\nhospital."
+    },
+    {
+      "offset": 290,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「お医者さんが、大丈夫と言ってくれるといい\n　です」",
+      "en": "\"Are you going to skip school?\"",
+      "text": "\"Are you going to skip school?\""
+    },
+    {
+      "offset": 348,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "にこやかに話す萌先輩に、俺は｛あいまい／曖昧｝に｛うなず／頷｝く。",
+      "en": "\"No...... I'm going after school.\"",
+      "text": "\"No...... I'm going after school.\""
+    },
+    {
+      "offset": 419,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "足が治ったら、萌先輩がここにいる理由がなく\nなる。そう思うと、病院へ行くのが｛ためら／躊躇｝われた。",
+      "en": "I know it doesn't change anything, but I want to go as late\nas possible.",
+      "text": "I know it doesn't change anything, but I want to go as late\nas possible."
+    },
+    {
+      "offset": 551,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「学園を休んでいくんですか？」",
+      "en": "\"Then I'll go with you.\"",
+      "text": "\"Then I'll go with you.\""
+    },
+    {
+      "offset": 615,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "無駄なあがきと知りつつ、少しでも後にのばし\nたかった。",
+      "en": "\"Sure.\"",
+      "text": "\"Sure.\""
+    },
+    {
+      "offset": 738,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩の笑顔を見ながら、それまでに、また足\nが痛くなればいいのにと思うのだった……。",
+      "en": "As I watched Moe-sempai's smiling face, I hoped my leg\nwasn't completely healed yet......",
+      "text": "As I watched Moe-sempai's smiling face, I hoped my leg\nwasn't completely healed yet......"
+    },
+    {
+      "offset": 944,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆病院の検診◆",
+      "en": "◆Moe◆",
+      "text": "◆Moe◆"
+    },
+    {
+      "offset": 987,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とうとう、検診の日が来た。異常が無ければ、\n萌先輩はこの家から出て行ってしまう。",
+      "en": "\"......Yeah.\"",
+      "text": "\"......Yeah.\""
+    },
+    {
+      "offset": 1071,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少しでも萌先輩と過ごしていたくて、俺は学園\nまで一緒に歩いていくことにした。検診は放課\n後に行くとしよう。",
+      "en": "\"I hope the doctor will tell you everything's fine.\"",
+      "text": "\"I hope the doctor will tell you everything's fine.\""
+    }
+  ],
+  "choices": [],
+  "names": {
+    "198": "Moe",
+    "284": "Moe",
+    "545": "Moe"
+  }
+}

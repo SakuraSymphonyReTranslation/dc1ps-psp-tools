@@ -1,0 +1,708 @@
+{
+  "scene": "script_0334.obj",
+  "dialogues": [
+    {
+      "offset": 141,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "家に帰ってもすることないからと、暇つぶしに\n神社へやってきた。",
+      "en": "With nothing to do, and not wanting to go home just yet, I\nended up at the shrine.",
+      "text": "With nothing to do, and not wanting to go home just yet, I\nended up at the shrine."
+    },
+    {
+      "offset": 207,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本来、暇を潰すような場所ではないんだけど。",
+      "en": "Originally, this was hardly a place I'd spend just killing\ntime.",
+      "text": "Originally, this was hardly a place I'd spend just killing\ntime."
+    },
+    {
+      "offset": 254,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環と話をするだけでも、楽しいだろう。",
+      "en": "But now that Tamaki is there... it's fun just talking with\nher.",
+      "text": "But now that Tamaki is there... it's fun just talking with\nher."
+    },
+    {
+      "offset": 295,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "赤い鳥居の前で、いつものように環は境内を掃\n除している。",
+      "en": "She was there, sweeping as usual, under the archway.",
+      "text": "She was there, sweeping as usual, under the archway."
+    },
+    {
+      "offset": 357,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「よ、環」",
+      "en": "\"Hey, Tamaki.\"",
+      "text": "\"Hey, Tamaki.\""
+    },
+    {
+      "offset": 374,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は掃除をしている環に声をかける。",
+      "en": "I called out to Tamaki, who was sweeping the floor calmly.",
+      "text": "I called out to Tamaki, who was sweeping the floor calmly."
+    },
+    {
+      "offset": 451,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「あら、朝倉様」",
+      "en": "\"My, Asakura-sama.\"",
+      "text": "\"My, Asakura-sama.\""
+    },
+    {
+      "offset": 474,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は｛ほうき／箒｝の手を休め、俺に微笑む。",
+      "en": "Tamaki leaned her hands on her broom, and smiled gently to\nme.",
+      "text": "Tamaki leaned her hands on her broom, and smiled gently to\nme."
+    },
+    {
+      "offset": 532,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「今日はどうしたんですか？」",
+      "en": "\"What would be the matter today?\"",
+      "text": "\"What would be the matter today?\""
+    },
+    {
+      "offset": 567,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「うん、ちょっと暇つぶしにな」",
+      "en": "\"Nothing much, just a little bored.\"",
+      "text": "\"Nothing much, just a little bored.\""
+    },
+    {
+      "offset": 630,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そうですか。嬉しいです」",
+      "en": "\"I see... I'm happy.\"",
+      "text": "\"I see... I'm happy.\""
+    },
+    {
+      "offset": 663,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「え？　何でだよ」",
+      "en": "\"Eh? Why?\"",
+      "text": "\"Eh? Why?\""
+    },
+    {
+      "offset": 688,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環の言葉にドギマギする。",
+      "en": "Tamaki's sudden change of topic was odd.",
+      "text": "Tamaki's sudden change of topic was odd."
+    },
+    {
+      "offset": 717,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が来たから嬉しい言われると、なんだかやけ\nに嬉しいものだ。",
+      "en": "Why would my coming out of boredom be something happy for\nher?",
+      "text": "Why would my coming out of boredom be something happy for\nher?"
+    },
+    {
+      "offset": 809,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「だって、普通暇つぶしに神社に来てくれる人っ\n　て、少ないじゃないですか？」",
+      "en": "\"Well, there are few people who would come to a shrine when\nthey have no purpose in mind.\"",
+      "text": "\"Well, there are few people who would come to a shrine when\nthey have no purpose in mind.\""
+    },
+    {
+      "offset": 917,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「朝倉様が、それだけ神社に興味を持ってくれ\n　てるっていうのは、嬉しいことですよ」",
+      "en": "\"Since you have such interest in it though, I'm happy.\"",
+      "text": "\"Since you have such interest in it though, I'm happy.\""
+    },
+    {
+      "offset": 1005,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「まあ、日本人の根幹の部分だからな……」",
+      "en": "\"Well, it's any Japanese's tradition to visit shrines...\"",
+      "text": "\"Well, it's any Japanese's tradition to visit shrines...\""
+    },
+    {
+      "offset": 1061,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「……それに、朝倉様とお話できるのは、やは\n　り楽しいですもの」",
+      "en": "\"....And, being able to talk to Asakura-sama... is always\nfun for me.\"",
+      "text": "\"....And, being able to talk to Asakura-sama... is always\nfun for me.\""
+    },
+    {
+      "offset": 1131,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（え……！？）",
+      "en": "(Eh...!?)",
+      "text": "(Eh...!?)"
+    },
+    {
+      "offset": 1152,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……。今日も、いい天気だな」",
+      "en": "\"...The weather's good today.\"",
+      "text": "\"...The weather's good today.\""
+    },
+    {
+      "offset": 1189,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、適当に誤魔化す。",
+      "en": "Decoy plan #1, activate.",
+      "text": "Decoy plan #1, activate."
+    },
+    {
+      "offset": 1244,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「どうしたんですか？　急に」",
+      "en": "\"My, is there something wrong? Bringing that up so\nsuddenly...\"",
+      "text": "\"My, is there something wrong? Bringing that up so\nsuddenly...\""
+    },
+    {
+      "offset": 1279,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は口に手を当てて笑いながら答える。",
+      "en": "Tamaki brought her hand to her mouth, covering her slight\nlaughter.",
+      "text": "Tamaki brought her hand to her mouth, covering her slight\nlaughter."
+    },
+    {
+      "offset": 1348,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「なんだか、今日の朝倉様は様子がおかしいで\n　すね」",
+      "en": "\"You seem to be a touch odd today, Asakura-sama.\"",
+      "text": "\"You seem to be a touch odd today, Asakura-sama.\""
+    },
+    {
+      "offset": 1406,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「いや、いつもこんなものだ」",
+      "en": "\"...Nah, I'm always like this.\"",
+      "text": "\"...Nah, I'm always like this.\""
+    },
+    {
+      "offset": 1441,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、あらためて暇つぶしに来たっていうと\n実際に何をしていいかわからない。",
+      "en": "And I came here out of boredom in the first place... now\nthat I'm here, I didn't really know what to do.",
+      "text": "And I came here out of boredom in the first place... now\nthat I'm here, I didn't really know what to do."
+    },
+    {
+      "offset": 1521,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだか、何かしなきゃいけないのではと思っ\nてしまう。",
+      "en": "I wonder what IS there to do in a place like this, anyway...",
+      "text": "I wonder what IS there to do in a place like this, anyway..."
+    },
+    {
+      "offset": 1581,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あのさ、環」",
+      "en": "\"Hey, Tamaki?\"",
+      "text": "\"Hey, Tamaki?\""
+    },
+    {
+      "offset": 1628,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「はい？」",
+      "en": "\"Yes?\"",
+      "text": "\"Yes?\""
+    },
+    {
+      "offset": 1645,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この場でなにかできることはないか？",
+      "en": "Is there anything to do here?",
+      "text": "Is there anything to do here?"
+    },
+    {
+      "offset": 1684,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "参拝をしたって、５分もかからないうちに終わっ\nてしまう。",
+      "en": "A prayer would take maybe 5 minutes, maximum.",
+      "text": "A prayer would take maybe 5 minutes, maximum."
+    },
+    {
+      "offset": 1744,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "できれば、環と話でもしながらできるようなこ\nとってないかな。",
+      "en": "If I had to choose, I'd rather just stay here and talk more\nwith Tamaki.",
+      "text": "If I had to choose, I'd rather just stay here and talk more\nwith Tamaki."
+    },
+    {
+      "offset": 1810,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「──そうだ、ホウキ貸してもらえないか。せっ\n　かくだから、掃除を手伝ってやるよ」",
+      "en": "\"--Ah yeah, why don't you lend me your broom? Since I'm\nhere, I might as well help clean up the place.\"",
+      "text": "\"--Ah yeah, why don't you lend me your broom? Since I'm\nhere, I might as well help clean up the place.\""
+    },
+    {
+      "offset": 1924,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「え？　本当ですか？」",
+      "en": "\"Ah... really?\"",
+      "text": "\"Ah... really?\""
+    },
+    {
+      "offset": 1953,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ああ、この広い敷地を全部掃除するのは大変\n　だろ？　掃除なら、話をしながらでも出来る\n　しな」",
+      "en": "\"Yeah, it'd be tough to clean this whole big place alone.\nAnd we can talk while sweeping, anyway.\"",
+      "text": "\"Yeah, it'd be tough to clean this whole big place alone.\nAnd we can talk while sweeping, anyway.\""
+    },
+    {
+      "offset": 2080,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「じゃ、これ使ってください。新しいの持って\n　きますから」",
+      "en": "\"Okay then! Please use this, I will retrieve a new broom.\"",
+      "text": "\"Okay then! Please use this, I will retrieve a new broom.\""
+    },
+    {
+      "offset": 2153,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環はそう言って、奥へと入っていった。",
+      "en": "She disappeared inside the shrine shortly after.",
+      "text": "She disappeared inside the shrine shortly after."
+    },
+    {
+      "offset": 2194,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "はあ。",
+      "en": "Sigh.",
+      "text": "Sigh."
+    },
+    {
+      "offset": 2205,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、環が掃いた葉を集めたり、散らしたりし\nながら、環を待つ。",
+      "en": "I awaited her reappearance, as the wind scattered her\ngathered leaves.",
+      "text": "I awaited her reappearance, as the wind scattered her\ngathered leaves."
+    },
+    {
+      "offset": 2271,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は、｛たけぼうき／竹箒｝を持って戻ってくる。",
+      "en": "She eventually returned with another bamboo-stick broom.",
+      "text": "She eventually returned with another bamboo-stick broom."
+    },
+    {
+      "offset": 2346,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「よし、さっそく始めるか」",
+      "en": "\"Alright, let's get started.\"",
+      "text": "\"Alright, let's get started.\""
+    },
+    {
+      "offset": 2379,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺と環はあたりの落ち葉を箒で集める。",
+      "en": "We started sweeping all the nearby leaves into a single\npile.",
+      "text": "We started sweeping all the nearby leaves into a single\npile."
+    },
+    {
+      "offset": 2420,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "落ち葉の中には、タバコの吸殻や誰かが落とし\nたおみくじが混じっている。",
+      "en": "Mixed among the pile of leaves, was a cigarette butt.",
+      "text": "Mixed among the pile of leaves, was a cigarette butt."
+    },
+    {
+      "offset": 2496,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ったく、神社にゴミを捨てるとは罰当たりな」",
+      "en": "\"Geez, these people who treat a shrine as a rubbish bin...\"",
+      "text": "\"Geez, these people who treat a shrine as a rubbish bin...\""
+    },
+    {
+      "offset": 2573,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「参拝者が朝倉様のような人ばかりですと、助\n　かるんですが……」",
+      "en": "\"There are many worshippers who aren't as upstanding as you,\nI'm glad you're here to help...\"",
+      "text": "\"There are many worshippers who aren't as upstanding as you,\nI'm glad you're here to help...\""
+    },
+    {
+      "offset": 2643,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そういえば昔、神社の石は持って帰っちゃい\n　けないって、聞いたことあるぞ」",
+      "en": "\"Oh yeah, it used to be that the shrine wouldn't allow\npeople to take rocks back with them, right?\"",
+      "text": "\"Oh yeah, it used to be that the shrine wouldn't allow\npeople to take rocks back with them, right?\""
+    },
+    {
+      "offset": 2751,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そうなんですけどね。でも、子供たちはよく\n　持って帰りますよ。遊びに使うみたいで」",
+      "en": "\"That used to be true, but now, children do it all the\ntime.\"",
+      "text": "\"That used to be true, but now, children do it all the\ntime.\""
+    },
+    {
+      "offset": 2841,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「道路に絵を描いたりとか、石投げにつかった\n　りとかな」",
+      "en": "\"We'd draw on an empty sidewalk, and used to play\nhopskotch...\"",
+      "text": "\"We'd draw on an empty sidewalk, and used to play\nhopskotch...\""
+    },
+    {
+      "offset": 2903,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「俺も持って帰った記憶ある」",
+      "en": "\"I remember doing that before.\"",
+      "text": "\"I remember doing that before.\""
+    },
+    {
+      "offset": 2964,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「……他の記憶は、無いんですか？」",
+      "en": "\"...You don't remember anything else?\"",
+      "text": "\"...You don't remember anything else?\""
+    },
+    {
+      "offset": 3005,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「え？」",
+      "en": "\"Eh?\"",
+      "text": "\"Eh?\""
+    },
+    {
+      "offset": 3020,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "他の記憶……？",
+      "en": "Remember anything else...?",
+      "text": "Remember anything else...?"
+    },
+    {
+      "offset": 3041,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「他の記憶って……、そりゃ、小さいことなら\n　いくらでもあるけど」",
+      "en": "\"If you mean memories of my childhood, sure I do, but...\"",
+      "text": "\"If you mean memories of my childhood, sure I do, but...\""
+    },
+    {
+      "offset": 3113,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "うーん、と頭を捻る。",
+      "en": "I tilted my head in thought.",
+      "text": "I tilted my head in thought."
+    },
+    {
+      "offset": 3138,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環が聞くからには、神社の記憶ってことなんだ\nろうけど、それほど話して面白い記憶はない。",
+      "en": "Now that Tamaki said it, i don't really have anything\nmemorable of this shrine.",
+      "text": "Now that Tamaki said it, i don't really have anything\nmemorable of this shrine."
+    },
+    {
+      "offset": 3230,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「取り立てて、話すほどの記憶はないな」",
+      "en": "\"...Not anything special about here.\"",
+      "text": "\"...Not anything special about here.\""
+    },
+    {
+      "offset": 3301,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「……そうですか」",
+      "en": "\"...I see.\"",
+      "text": "\"...I see.\""
+    },
+    {
+      "offset": 3326,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環が、ふぅとため息をつく。",
+      "en": "Tamaki seemed to sigh a little.",
+      "text": "Tamaki seemed to sigh a little."
+    },
+    {
+      "offset": 3359,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「もしかして、俺と環の『深い絆』ってヤツに\n　関係があるのかな？」",
+      "en": "\"Are you referring to that \"deep bond\" that we're supposed\nto have?\"",
+      "text": "\"Are you referring to that \"deep bond\" that we're supposed\nto have?\""
+    },
+    {
+      "offset": 3457,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3476,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は俯いたまま、何かを考え込んでいるように\n見えた。",
+      "en": "She was staring at the floor again, thinking hard about\nsomething.",
+      "text": "She was staring at the floor again, thinking hard about\nsomething."
+    },
+    {
+      "offset": 3534,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「環……？」",
+      "en": "\"Tamaki...?\"",
+      "text": "\"Tamaki...?\""
+    },
+    {
+      "offset": 3579,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「かもしれません」",
+      "en": "\"Maybe...\"",
+      "text": "\"Maybe...\""
+    },
+    {
+      "offset": 3604,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は、ぼそりとそう呟いた。",
+      "en": "She muttered, barely audible.",
+      "text": "She muttered, barely audible."
+    },
+    {
+      "offset": 3637,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ううん……。やっぱり、それらしい記憶はな\n　いんだよなぁ」",
+      "en": "\"Well... I really don't have any memories of that either.\"",
+      "text": "\"Well... I really don't have any memories of that either.\""
+    },
+    {
+      "offset": 3703,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "覚えがないにしても、何かがあるなら、やはり\n子どもの時のことに違いない。",
+      "en": "I don't remember anything, but doubtlessly, if there was\nsomething, it would be during my childhood days.",
+      "text": "I don't remember anything, but doubtlessly, if there was\nsomething, it would be during my childhood days."
+    },
+    {
+      "offset": 3779,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "けれど、俺も環も思い出せないというのは……。\nいったいどういうことなんだろうか。",
+      "en": "But to have both of us unable to remember it... makes me\ncurious.",
+      "text": "But to have both of us unable to remember it... makes me\ncurious."
+    },
+    {
+      "offset": 3863,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "二人をつないでいる、『絆』って、何なんだ？",
+      "en": "Just what is that bond that connects the two of us?",
+      "text": "Just what is that bond that connects the two of us?"
+    },
+    {
+      "offset": 3910,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が思い出そうと考えていると、",
+      "en": "In the middle of my train of thought,",
+      "text": "In the middle of my train of thought,"
+    },
+    {
+      "offset": 3973,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「だいぶ綺麗になりましたね。少し休みましょ\n　うか？」",
+      "en": "\"This is a marvelous sight... shall we rest for a little\nwhile?\"",
+      "text": "\"This is a marvelous sight... shall we rest for a little\nwhile?\""
+    },
+    {
+      "offset": 4033,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、一方的に会話を変えてしまった。",
+      "en": "Which ended the one-sided \"conversation\".",
+      "text": "Which ended the one-sided \"conversation\"."
+    },
+    {
+      "offset": 4091,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……ああ、そうだな」",
+      "en": "\"...Yeah, let's.\"",
+      "text": "\"...Yeah, let's.\""
+    },
+    {
+      "offset": 4129,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それ以上は何も聞けず、俺と環は、集めた落ち\n葉に火をつける。",
+      "en": "Stopping our sweeping, we set our gathered leaves ablaze in\na fire.",
+      "text": "Stopping our sweeping, we set our gathered leaves ablaze in\na fire."
+    },
+    {
+      "offset": 4226,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「フフフ。時期はずれですけど」",
+      "en": "\"Hehe, it's a little out of the season for this, but...\"",
+      "text": "\"Hehe, it's a little out of the season for this, but...\""
+    },
+    {
+      "offset": 4263,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は、どこから持ってきたのか、串に刺さった\n餅を俺に渡す。",
+      "en": "Tamaki was roasting a mochi over the fire, wherever she\nproduced it from.",
+      "text": "Tamaki was roasting a mochi over the fire, wherever she\nproduced it from."
+    },
+    {
+      "offset": 4353,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「本当はお芋がいいんですけどね」",
+      "en": "\"I guess potatoes would be better.\"",
+      "text": "\"I guess potatoes would be better.\""
+    },
+    {
+      "offset": 4409,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「いや、これはこれで良さそうだ」",
+      "en": "\"Nah, it'd be good because of what it is, not what it's\nnot.\"",
+      "text": "\"Nah, it'd be good because of what it is, not what it's\nnot.\""
+    },
+    {
+      "offset": 4457,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "餅は時々バチっとはぜながら、どんどん姿を膨\nらませていった。",
+      "en": "The mochi swelled slowly from the roasting.",
+      "text": "The mochi swelled slowly from the roasting."
+    },
+    {
+      "offset": 4521,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺達は焚き火で膨らんだ餅をふーふーしながら、\nかぶりつく。",
+      "en": "We sat around the campfire, blowing air at our heated mochis\nto cool them down.",
+      "text": "We sat around the campfire, blowing air at our heated mochis\nto cool them down."
+    },
+    {
+      "offset": 4583,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それにしても、深い絆ってなんだろうな。",
+      "en": "Just what is that deep bond...",
+      "text": "Just what is that deep bond..."
+    },
+    {
+      "offset": 4755,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆神社の掃除◆",
+      "en": "◆Shrine Sweeping?◆",
+      "text": "◆Shrine Sweeping?◆"
+    },
+    {
+      "offset": 4798,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暇つぶしに神社に寄った俺は環の掃除を手伝う。",
+      "en": "With time on my hands, I ended up at the shrine, helping\nTamaki to sweep up the surroundings.",
+      "text": "With time on my hands, I ended up at the shrine, helping\nTamaki to sweep up the surroundings."
+    },
+    {
+      "offset": 4847,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は、深い絆を知るために、俺に昔の記憶はな\nいかと聞いてくる。",
+      "en": "Tamaki, trying to find out the deep bond between us, tried\nto dig out my childhood memories...",
+      "text": "Tamaki, trying to find out the deep bond between us, tried\nto dig out my childhood memories..."
+    },
+    {
+      "offset": 4913,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "が、残念なことに、いまいちそれらしい記憶を\n思い出すことは出来なかった。",
+      "en": "But unfortunately, I just couldn't remember anything.",
+      "text": "But unfortunately, I just couldn't remember anything."
+    },
+    {
+      "offset": 4989,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺と環は、集めた落ち葉で、餅を焼いて食べた。",
+      "en": "In the end, we just sat around a bonfire, eating roasted\nmochis.",
+      "text": "In the end, we just sat around a bonfire, eating roasted\nmochis."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "445": "Tamaki",
+    "526": "Tamaki",
+    "624": "Tamaki",
+    "803": "Tamaki",
+    "911": "Tamaki",
+    "1055": "Tamaki",
+    "1238": "Tamaki",
+    "1342": "Tamaki",
+    "1622": "Tamaki",
+    "1918": "Tamaki",
+    "2074": "Tamaki",
+    "2567": "Tamaki",
+    "2745": "Tamaki",
+    "2958": "Tamaki",
+    "3295": "Tamaki",
+    "3451": "Tamaki",
+    "3573": "Tamaki",
+    "3967": "Tamaki",
+    "4220": "Tamaki",
+    "4347": "Tamaki"
+  }
+}

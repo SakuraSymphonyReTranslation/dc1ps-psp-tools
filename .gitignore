@@ -1,0 +1,26 @@
+# Output directories & ISO images
+output/
+*.iso
+*.ISO
+
+# Intermediate build artifacts (can be regenerated with build_iso.py)
+work/*.bin
+work/*.elf
+work/*.ELF
+work/extracted/BOOT.BIN
+work/extracted/EBOOT.BIN
+work/extracted/font.pgf
+work/extracted/script.bin
+
+# Custom user assets
+custom/video/*.pmf
+custom/ui/catfile.bin
+custom/ui/catfile_extracted/
+
+# Python cache & IDE
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+.idea/
+*.swp

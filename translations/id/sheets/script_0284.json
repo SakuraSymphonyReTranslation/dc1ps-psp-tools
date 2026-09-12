@@ -1,0 +1,533 @@
+{
+  "scene": "script_0284.obj",
+  "dialogues": [
+    {
+      "offset": 147,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「たまには愛情のこもった手作り弁当が食べた\n　いよな……」",
+      "en": "\"I want to enjoy a lovingly-made lunchbox once in a\nwhile...\"",
+      "text": "\"I want to enjoy a lovingly-made lunchbox once in a\nwhile...\""
+    },
+    {
+      "offset": 211,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "手の平に載せた購買のパンをじっと見ながら、\n一人ごちる。",
+      "en": "Staring hard at the bread in my hands, which I had bought\nearlier, I mumbled to myself.",
+      "text": "Staring hard at the bread in my hands, which I had bought\nearlier, I mumbled to myself."
+    },
+    {
+      "offset": 271,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、愛情｛・・／だけ｝こもったモノなら準備出来そうな\nことに気が付いて、内容を少し変更することに\nした。",
+      "en": "Compared to the pains one can go to make a lunchbox, the\nactual contents of it don't matter as much.",
+      "text": "Compared to the pains one can go to make a lunchbox, the\nactual contents of it don't matter as much."
+    },
+    {
+      "offset": 380,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「栄養も味も抜群でさ。食べるだけで、思わず\n　泣いてしまいそうな奴を……」",
+      "en": "\"But in this case, taste and nutrition would take priority.\nIf I can't enjoy the love in food, I could enjoy the food\nitself...\"",
+      "text": "\"But in this case, taste and nutrition would take priority.\nIf I can't enjoy the love in food, I could enjoy the food\nitself...\""
+    },
+    {
+      "offset": 460,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「てな訳で、くれ」",
+      "en": "\"But man, I wish.\"",
+      "text": "\"But man, I wish.\""
+    },
+    {
+      "offset": 512,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりは苦笑しつつ、口の中に食べ物を入れて\nくれた。",
+      "en": "Kotori, with a relenting smile, let me have a spoonful of\nher lunchbox.",
+      "text": "Kotori, with a relenting smile, let me have a spoonful of\nher lunchbox."
+    },
+    {
+      "offset": 570,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん、さんきゅ。何？」",
+      "en": "\"Mm, thank you. What was that?\"",
+      "text": "\"Mm, thank you. What was that?\""
+    },
+    {
+      "offset": 599,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もぐもぐやりながら｛たず／訊｝ねる。",
+      "en": "I asked her while chewing it.",
+      "text": "I asked her while chewing it."
+    },
+    {
+      "offset": 672,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ダシ巻き玉子です。どうですか？」",
+      "en": "\"An egg roll. How was it?\"",
+      "text": "\"An egg roll. How was it?\""
+    },
+    {
+      "offset": 713,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「うん。美味いよ」",
+      "en": "\"It was great.\"",
+      "text": "\"It was great.\""
+    },
+    {
+      "offset": 738,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とりあえず、泣く真似をしてみせる。",
+      "en": "I pretended to shed a few tears of joy.",
+      "text": "I pretended to shed a few tears of joy."
+    },
+    {
+      "offset": 792,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ごほっ。自信作です」",
+      "en": "\"*Cough* Good, I made it myself!\"",
+      "text": "\"*Cough* Good, I made it myself!\""
+    },
+    {
+      "offset": 821,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「俺もこんなのが毎日食えればな」",
+      "en": "\"I wish I could eat this kind of thing every day.\"",
+      "text": "\"I wish I could eat this kind of thing every day.\""
+    },
+    {
+      "offset": 860,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "パンの袋を開けながら、ため息をついてみせる。\nいいパンがゲット出来ただけマシか……。",
+      "en": "With a sigh, I open my packets of bread. I couldn't get any\nof the good ones today...",
+      "text": "With a sigh, I open my packets of bread. I couldn't get any\nof the good ones today..."
+    },
+    {
+      "offset": 980,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「作ればいいじゃないですか」",
+      "en": "\"Couldn't you just make one yourself?\"",
+      "text": "\"Couldn't you just make one yourself?\""
+    },
+    {
+      "offset": 1015,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……それは、夜空に浮かぶ星が綺麗だからっ\n　て、取ってくればいいって言ってるのと同じ\n　だな」",
+      "en": "\"...Under the beautiful stars of the night sky, that would\nsound far more appropriate.\"",
+      "text": "\"...Under the beautiful stars of the night sky, that would\nsound far more appropriate.\""
+    },
+    {
+      "offset": 1116,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「その内、断頭台に送られるぞ？」",
+      "en": "\"Does that mean you're trying to escort me to the\nguillotine?\"",
+      "text": "\"Does that mean you're trying to escort me to the\nguillotine?\""
+    },
+    {
+      "offset": 1185,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……何の話ですか？」",
+      "en": "\"...What are you talking about?\"",
+      "text": "\"...What are you talking about?\""
+    },
+    {
+      "offset": 1214,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「マリー・アントワネットだ。それと同じわが\n　ままを、先の“作れ”発言には感じる」",
+      "en": "\"Marie Antoinette. That's the feeling I got from your\nsuggesting that I \"make my own lunchbox\", anyway.\"",
+      "text": "\"Marie Antoinette. That's the feeling I got from your\nsuggesting that I \"make my own lunchbox\", anyway.\""
+    },
+    {
+      "offset": 1332,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「別に、私はわがままじゃないじゃないですか」",
+      "en": "\"I'm not so willful like that.\"",
+      "text": "\"I'm not so willful like that.\""
+    },
+    {
+      "offset": 1413,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「でも、自分で作らないなら、家族の人は？」",
+      "en": "\"But if you can't make one yourself, what about the rest of\nyour family?\"",
+      "text": "\"But if you can't make one yourself, what about the rest of\nyour family?\""
+    },
+    {
+      "offset": 1462,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「別に、胃や舌をいじめる趣味はないんで」",
+      "en": "\"I don't particularly want to torture my stomach and\ntongue.\"",
+      "text": "\"I don't particularly want to torture my stomach and\ntongue.\""
+    },
+    {
+      "offset": 1539,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……美味しくないんですか？」",
+      "en": "\"...No one's a good cook in your family?\"",
+      "text": "\"...No one's a good cook in your family?\""
+    },
+    {
+      "offset": 1576,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「前線に送り込まれた餓死寸前の兵士なら、　\n　嫌々食べるかも」",
+      "en": "\"Even soldiers on the front lines, dying of starvation,\nwouldn't eat what they would make.\"",
+      "text": "\"Even soldiers on the front lines, dying of starvation,\nwouldn't eat what they would make.\""
+    },
+    {
+      "offset": 1674,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「でも、作ってもらったら、それはそれで嬉し\n　いんでしょ……ごほっ、ごほっ」",
+      "en": "\"But didn't you say as long as they made it for you, you'd\nbe happy... *cough cough*\"",
+      "text": "\"But didn't you say as long as they made it for you, you'd\nbe happy... *cough cough*\""
+    },
+    {
+      "offset": 1756,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……風邪？」",
+      "en": "\"...Having a cold?\"",
+      "text": "\"...Having a cold?\""
+    },
+    {
+      "offset": 1777,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "前半の内容には、ノーコメントを決め込む。丁\n度いい話のネタになったが、心配なのは確かだ。",
+      "en": "I decided not to comment on the first half of what she said,\nand fortunately the second half gave me the perfect chance.",
+      "text": "I decided not to comment on the first half of what she said,\nand fortunately the second half gave me the perfect chance."
+    },
+    {
+      "offset": 1871,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「何か、さっきから咳してるけど」",
+      "en": "\"What's up with your coughing?\"",
+      "text": "\"What's up with your coughing?\""
+    },
+    {
+      "offset": 1940,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「う〜ん、そうですね。ちょっと、調子が悪い\n　かも」",
+      "en": "\"Uuuhn, I dunno. I haven't been feeling that well lately.\"",
+      "text": "\"Uuuhn, I dunno. I haven't been feeling that well lately.\""
+    },
+    {
+      "offset": 1998,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「季節の変わり目だしな。ちゃんと、早めに薬\n　を飲んどいた方がいいぜ？　んで、夜はさっ\n　さと寝る、と」",
+      "en": "\"It must be the change of seasons. Shouldn't you take some\ncold medicine? And get plenty of rest at night, as well.\"",
+      "text": "\"It must be the change of seasons. Shouldn't you take some\ncold medicine? And get plenty of rest at night, as well.\""
+    },
+    {
+      "offset": 2107,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「風邪は引き初めが肝心だからな」",
+      "en": "\"It's esssential to nip these things in the bud if you can.\"",
+      "text": "\"It's esssential to nip these things in the bud if you can.\""
+    },
+    {
+      "offset": 2176,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2195,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ん？　どうかしたか？」",
+      "en": "\"Hm? What's wrong?\"",
+      "text": "\"Hm? What's wrong?\""
+    },
+    {
+      "offset": 2239,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「何だか、真面目な顔だなって思ったんです。\n　朝倉君には珍しいくらいの」",
+      "en": "\"You're just being so serious... I haven't seen you this way\nvery often.\"",
+      "text": "\"You're just being so serious... I haven't seen you this way\nvery often.\""
+    },
+    {
+      "offset": 2317,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ま、たまにはな」",
+      "en": "\"Well, it's good once in a while.\"",
+      "text": "\"Well, it's good once in a while.\""
+    },
+    {
+      "offset": 2342,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "苦笑しつつ、パンにかぶりつく。ことりの方こ\nそ真面目な顔で、俺の顔をじっと見つめていた。",
+      "en": "I gave a slightly disatisfactory smile, and bit into my\nbread. It was Kotori's turn to stare at my face with a\nserious expression.",
+      "text": "I gave a slightly disatisfactory smile, and bit into my\nbread. It was Kotori's turn to stare at my face with a\nserious expression."
+    },
+    {
+      "offset": 2436,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「だから、何だって」",
+      "en": "\"Something on my face?\"",
+      "text": "\"Something on my face?\""
+    },
+    {
+      "offset": 2463,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "笑いながらそう言った。あんまり見つめられる\nと、こそばゆいじゃないか。",
+      "en": "I try and joke about it to relieve my discomfort a little.",
+      "text": "I try and joke about it to relieve my discomfort a little."
+    },
+    {
+      "offset": 2569,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「お兄ちゃんも、大変ですよね」",
+      "en": "\"I don't think \"onii-chan\" would work well...\"",
+      "text": "\"I don't think \"onii-chan\" would work well...\""
+    },
+    {
+      "offset": 2606,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「はあ？」",
+      "en": "\"Haah?\"",
+      "text": "\"Haah?\""
+    },
+    {
+      "offset": 2623,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "唐突な台詞に、何と答えたものやら分からなく\nなる。“お兄ちゃん”だって？",
+      "en": "Her sudden words surprised the hell out of me. \"onii-chan\"\nnow?",
+      "text": "Her sudden words surprised the hell out of me. \"onii-chan\"\nnow?"
+    },
+    {
+      "offset": 2731,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ん？　それとも、兄さん、なのかな……？」",
+      "en": "\"Mm? Then just \"nii-san\", maybe?...\"",
+      "text": "\"Mm? Then just \"nii-san\", maybe?...\""
+    },
+    {
+      "offset": 2780,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あのぅ……何の話です？」",
+      "en": "\"Uhm... what are you talking about?\"",
+      "text": "\"Uhm... what are you talking about?\""
+    },
+    {
+      "offset": 2843,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、ごめんなさい……こっちの話です」",
+      "en": "\"Ah, I'm sorry... just ignore that.\"",
+      "text": "\"Ah, I'm sorry... just ignore that.\""
+    },
+    {
+      "offset": 2888,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「こっちって、どっち？」",
+      "en": "\"No, what was that?\"",
+      "text": "\"No, what was that?\""
+    },
+    {
+      "offset": 2949,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「こっちは、こっちですよ」",
+      "en": "\"Nothing, nothing really.\"",
+      "text": "\"Nothing, nothing really.\""
+    },
+    {
+      "offset": 2982,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「はあ……」",
+      "en": "\"Haah...\"",
+      "text": "\"Haah...\""
+    },
+    {
+      "offset": 3001,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "にっちもさっちも行かない会話に、何だか、パ\nンの味も分からなくなる。",
+      "en": "With the conversation coming to a standstill, I go back to\nmy bread.",
+      "text": "With the conversation coming to a standstill, I go back to\nmy bread."
+    },
+    {
+      "offset": 3105,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ともかく、心配してくれてありがとさんです。\n　早速、お薬買うことにしますね」",
+      "en": "\"In any case, thanks for your concern. I'd buy some cold\nmedicine at once.\"",
+      "text": "\"In any case, thanks for your concern. I'd buy some cold\nmedicine at once.\""
+    },
+    {
+      "offset": 3189,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ああ、それがいいよ」",
+      "en": "\"Yeah, that'd be good.\"",
+      "text": "\"Yeah, that'd be good.\""
+    },
+    {
+      "offset": 3248,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、でも……」",
+      "en": "\"Oh, but...\"",
+      "text": "\"Oh, but...\""
+    },
+    {
+      "offset": 3301,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「さっき、おかず、食べさせてあげたじゃない\n　ですか」",
+      "en": "\"I gave you a little from my lunchbox just now...\"",
+      "text": "\"I gave you a little from my lunchbox just now...\""
+    },
+    {
+      "offset": 3361,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ああ」",
+      "en": "\"Yeah.\"",
+      "text": "\"Yeah.\""
+    },
+    {
+      "offset": 3406,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「もしかしたら……移っちゃうかもしれません\n　ね」",
+      "en": "\"You could be... infected by that, couldn't you?\"",
+      "text": "\"You could be... infected by that, couldn't you?\""
+    },
+    {
+      "offset": 3462,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ま、だいじょぶでしょ。なんとかは風邪引か\n　ないってな」",
+      "en": "\"Well, it'd be okay. I'm not too affected by colds or\nanything easily.\"",
+      "text": "\"Well, it'd be okay. I'm not too affected by colds or\nanything easily.\""
+    },
+    {
+      "offset": 3556,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「それもそうですね」",
+      "en": "\"I'd say so.\"",
+      "text": "\"I'd say so.\""
+    },
+    {
+      "offset": 3583,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「何おう？」",
+      "en": "\"What was that?\"",
+      "text": "\"What was that?\""
+    },
+    {
+      "offset": 3602,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぐっと腕まくりしてみせる。",
+      "en": "I folded my arms across my chest.",
+      "text": "I folded my arms across my chest."
+    },
+    {
+      "offset": 3648,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「冗談ですよ」",
+      "en": "\"Just a joke!\"",
+      "text": "\"Just a joke!\""
+    },
+    {
+      "offset": 3669,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "くっくと笑い──ことりは、咳をしたのだった。",
+      "en": "In the midst of giggling, Kotori started coughing.",
+      "text": "In the midst of giggling, Kotori started coughing."
+    },
+    {
+      "offset": 3840,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆ことりが風邪？◆",
+      "en": "◆Kotori's Catching a Cold?◆",
+      "text": "◆Kotori's Catching a Cold?◆"
+    },
+    {
+      "offset": 3887,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりと一緒に昼食を取る。",
+      "en": "i had lunch together with Kotori.",
+      "text": "i had lunch together with Kotori."
+    },
+    {
+      "offset": 3918,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりは何だか風邪気味らしく、ちょっと心配\nだった。",
+      "en": "Kotori appeared to be down with the cold, worrying me a fair\nbit.",
+      "text": "Kotori appeared to be down with the cold, worrying me a fair\nbit."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "662": "Kotori",
+    "782": "Kotori",
+    "970": "Kotori",
+    "1175": "Kotori",
+    "1322": "Kotori",
+    "1403": "Kotori",
+    "1529": "Kotori",
+    "1664": "Kotori",
+    "1930": "Kotori",
+    "2166": "Kotori",
+    "2229": "Kotori",
+    "2559": "Kotori",
+    "2721": "Kotori",
+    "2833": "Kotori",
+    "2939": "Kotori",
+    "3095": "Kotori",
+    "3238": "Kotori",
+    "3291": "Kotori",
+    "3396": "Kotori",
+    "3546": "Kotori",
+    "3638": "Kotori"
+  }
+}

@@ -1,0 +1,579 @@
+{
+  "scene": "script_0087.obj",
+  "dialogues": [
+    {
+      "offset": 182,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「今日こそは、“ヌー”が置いてあればいいん\n　だが」",
+      "en": "\"I wonder whether \"Nuu\" is available today...\"",
+      "text": "\"I wonder whether \"Nuu\" is available today...\""
+    },
+    {
+      "offset": 240,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "深刻な顔で杉並が呟く。",
+      "en": "Suginami muttered with an oddly serious face.",
+      "text": "Suginami muttered with an oddly serious face."
+    },
+    {
+      "offset": 269,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「隔月の雑誌なんだろ？　発売日になれば、普\n　通に置いてあるんじゃないのか？」",
+      "en": "\"That's a bi-monthly publication, isn't it? Today's the\nrelease day, so why won't it be available?\"",
+      "text": "\"That's a bi-monthly publication, isn't it? Today's the\nrelease day, so why won't it be available?\""
+    },
+    {
+      "offset": 353,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "雑誌“ヌー”は、杉並のお気に入りのオカルト\n雑誌だ。",
+      "en": "\"Nuu\" magazine is actually some occult magazine that\nSuginami reads regularly.",
+      "text": "\"Nuu\" magazine is actually some occult magazine that\nSuginami reads regularly."
+    },
+    {
+      "offset": 409,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺もマンガでも買おうと思って、杉並に付き合っ\nていた。",
+      "en": "I was at the shopping district to buy some manga, so\nSuginami decided to tag along.",
+      "text": "I was at the shopping district to buy some manga, so\nSuginami decided to tag along."
+    },
+    {
+      "offset": 480,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「いや、あの雑誌は、休刊というか廃刊の危機\n　にさらされているらしくてな。いつお目にか\n　かれなくなるか、心配で心配で……」",
+      "en": "\"No, I mean that magazine was recently suspended, and\nthere's a good chance of it being discontinued entirely.\nWorry, worry...\"",
+      "text": "\"No, I mean that magazine was recently suspended, and\nthere's a good chance of it being discontinued entirely.\nWorry, worry...\""
+    },
+    {
+      "offset": 609,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 656,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ん？　と、あれは、白河ことりじゃないのか」",
+      "en": "\"Hm? Isn't that Shirakawa Kotori?\"",
+      "text": "\"Hm? Isn't that Shirakawa Kotori?\""
+    },
+    {
+      "offset": 719,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "商店街の先を見遣り、目を細めた。",
+      "en": "Focusing my attention on the shopping district, I narrow my\neyes to sharpen my view.",
+      "text": "Focusing my attention on the shopping district, I narrow my\neyes to sharpen my view."
+    },
+    {
+      "offset": 756,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "つられるように目を向けると、ことりらしき人\n物が、とある店から出てくるところだった。",
+      "en": "After a quick once-around, I saw person that looked quite a\nbit like Kotori walking out of a store.",
+      "text": "After a quick once-around, I saw person that looked quite a\nbit like Kotori walking out of a store."
+    },
+    {
+      "offset": 879,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「頭痛で早退したって話だったが、何故こんな\n　所に？」",
+      "en": "\"She's supposed to be down with a headache, what's she doing\nhere?\"",
+      "text": "\"She's supposed to be down with a headache, what's she doing\nhere?\""
+    },
+    {
+      "offset": 939,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……って、お前、何でんな事知ってるの？」",
+      "en": "\"....What the, how did you know that?\"",
+      "text": "\"....What the, how did you know that?\""
+    },
+    {
+      "offset": 999,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「有名だからな、彼女は。耳が付いてれば、嫌\n　でも入ってくる」",
+      "en": "\"She's famous after all. I couldn't have ignored the talk\nabout her even if I wanted to.\"",
+      "text": "\"She's famous after all. I couldn't have ignored the talk\nabout her even if I wanted to.\""
+    },
+    {
+      "offset": 1067,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……そんなもんか？」",
+      "en": "\"...There was talk about her?\"",
+      "text": "\"...There was talk about her?\""
+    },
+    {
+      "offset": 1107,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「お前は寝てたんだろう」",
+      "en": "\"You must've been asleep.\"",
+      "text": "\"You must've been asleep.\""
+    },
+    {
+      "offset": 1138,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「失神してたんだ」",
+      "en": "\"\"Meditating\", I'd like to call it.\"",
+      "text": "\"\"Meditating\", I'd like to call it.\""
+    },
+    {
+      "offset": 1163,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どう違う？　と問いかけてくる杉並を無視して、\n俺は再び前に目を向けた。",
+      "en": "Wasn't I? Suginami ignored my words though, and I continued\nlooking at Kotori.",
+      "text": "Wasn't I? Suginami ignored my words though, and I continued\nlooking at Kotori."
+    },
+    {
+      "offset": 1239,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「せっかくだ。話しかけてみるか」",
+      "en": "\"This is stupid. Let's just go talk to her.\"",
+      "text": "\"This is stupid. Let's just go talk to her.\""
+    },
+    {
+      "offset": 1289,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ん？　朝倉？」",
+      "en": "\"Hm? Asakura?\"",
+      "text": "\"Hm? Asakura?\""
+    },
+    {
+      "offset": 1312,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ことり」",
+      "en": "\"Kotori!\"",
+      "text": "\"Kotori!\""
+    },
+    {
+      "offset": 1369,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………？」",
+      "en": "\"......?\"",
+      "text": "\"......?\""
+    },
+    {
+      "offset": 1420,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、朝倉君だ。こんちは」",
+      "en": "\"Ah, Asakura-kun. Hello!\"",
+      "text": "\"Ah, Asakura-kun. Hello!\""
+    },
+    {
+      "offset": 1453,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「こんちは」",
+      "en": "\"Hey.\"",
+      "text": "\"Hey.\""
+    },
+    {
+      "offset": 1516,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「やあ、どーもどーも。朝倉の友人です。杉並\n　です」",
+      "en": "\"Ahem, excuse me! I am a friend of Asakura's. Please call me\nSuginami!\"",
+      "text": "\"Ahem, excuse me! I am a friend of Asakura's. Please call me\nSuginami!\""
+    },
+    {
+      "offset": 1574,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "意外に礼儀正しく、杉並が頭を下げる。ことり\nもぺこっと会釈した。",
+      "en": "With a surprising show of politeness, Suginami bowed his\nhead. Kotori bowed hers in return.",
+      "text": "With a surprising show of politeness, Suginami bowed his\nhead. Kotori bowed hers in return."
+    },
+    {
+      "offset": 1674,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「白河ことりです」",
+      "en": "\"I'm Shirakawa Kotori.\"",
+      "text": "\"I'm Shirakawa Kotori.\""
+    },
+    {
+      "offset": 1699,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「頭痛、大丈夫なのか？」",
+      "en": "\"Has your headache gotten better?\"",
+      "text": "\"Has your headache gotten better?\""
+    },
+    {
+      "offset": 1760,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「はい。少し休んだら良くなったんです。それ\n　で、暇だから、外を歩いてたんですよ」",
+      "en": "\"Uh huh. It went off after a bit of sleep. I got a bit\nrestless after that, so I decided to take a walk.\"",
+      "text": "\"Uh huh. It went off after a bit of sleep. I got a bit\nrestless after that, so I decided to take a walk.\""
+    },
+    {
+      "offset": 1848,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そっか。なら、良いんだけどな」",
+      "en": "\"I see. That's good then.\"",
+      "text": "\"I see. That's good then.\""
+    },
+    {
+      "offset": 1917,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「心配かけちゃったみたいですね。ごめんなさ\n　いです」",
+      "en": "\"I must've worried you. I'm sorry.\"",
+      "text": "\"I must've worried you. I'm sorry.\""
+    },
+    {
+      "offset": 1977,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ん？　ああ、いやいや、俺は野次馬根性が凄\n　いんだよ」",
+      "en": "\"Hm? Ahh, no need for that, I'm just a huge busybody.\"",
+      "text": "\"Hm? Ahh, no need for that, I'm just a huge busybody.\""
+    },
+    {
+      "offset": 2050,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「そうなのか？」",
+      "en": "\"Is that so?\"",
+      "text": "\"Is that so?\""
+    },
+    {
+      "offset": 2073,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並が素で疑問をぶつけてくる。うるさい奴め。\n俺は話の流れを強引に修正した。",
+      "en": "Shut up and don't try to ask difficult questions like that,\nyou idiot. I decide to quickly change the topic.",
+      "text": "Shut up and don't try to ask difficult questions like that,\nyou idiot. I decide to quickly change the topic."
+    },
+    {
+      "offset": 2155,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そういや今さ、メガネ屋から出てこなかった？\n　目、悪いの？」",
+      "en": "\"Anyway, just now, you were coming out of the spectacles\nshop, weren't you? Is your eyesight bad?\"",
+      "text": "\"Anyway, just now, you were coming out of the spectacles\nshop, weren't you? Is your eyesight bad?\""
+    },
+    {
+      "offset": 2253,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「自慢じゃないですけど、目がいいのが自慢な\n　んです」",
+      "en": "\"Not to boast or anything, but I'm proud of my eyesight!\"",
+      "text": "\"Not to boast or anything, but I'm proud of my eyesight!\""
+    },
+    {
+      "offset": 2313,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2332,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……自慢なのでは？",
+      "en": "...That's something to be proud of?",
+      "text": "...That's something to be proud of?"
+    },
+    {
+      "offset": 2387,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ちょ、ちょっと、サングラスを見てたんです\n　よ」",
+      "en": "\"I, I was just looking at some sunglasses.\"",
+      "text": "\"I, I was just looking at some sunglasses.\""
+    },
+    {
+      "offset": 2443,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……サングラス？」",
+      "en": "\"...Sunglasses?\"",
+      "text": "\"...Sunglasses?\""
+    },
+    {
+      "offset": 2483,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「何だか、ああいうのって、不良っぽくていい\n　じゃないですか」",
+      "en": "\"You know, those kind that look like punks wear them!\"",
+      "text": "\"You know, those kind that look like punks wear them!\""
+    },
+    {
+      "offset": 2551,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……不良？」",
+      "en": "\"...Punks wear them?\"",
+      "text": "\"...Punks wear them?\""
+    },
+    {
+      "offset": 2572,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何だか、似つかわしくない単語二連発に、思わ\nず首を傾げてしまう。",
+      "en": "I tilt my head curiously at the thought of a connection\nbetween Kotori and punks.",
+      "text": "I tilt my head curiously at the thought of a connection\nbetween Kotori and punks."
+    },
+    {
+      "offset": 2672,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……冗談ですよ、冗談」",
+      "en": "\"...I'm just joking. A joke.\"",
+      "text": "\"...I'm just joking. A joke.\""
+    },
+    {
+      "offset": 2703,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、ああ、そう」",
+      "en": "\"Ah, ahh, I see...\"",
+      "text": "\"Ah, ahh, I see...\""
+    },
+    {
+      "offset": 2758,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「だって、私、ゆーとー生さんですから」",
+      "en": "\"I guess I won't be much of a comedian!\"",
+      "text": "\"I guess I won't be much of a comedian!\""
+    },
+    {
+      "offset": 2803,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "にこっと笑うと、にぱにぱ手を開閉した。",
+      "en": "Kotori's face exhibited a laughing smile, opening and\nclosing her palm.",
+      "text": "Kotori's face exhibited a laughing smile, opening and\nclosing her palm."
+    },
+    {
+      "offset": 2878,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「それじゃ、私は帰ります。バイバイ。杉並君\n　も」",
+      "en": "\"Anyway, I'd be heading back now. Bye bye! To you too,\nsuginami-kun!\"",
+      "text": "\"Anyway, I'd be heading back now. Bye bye! To you too,\nsuginami-kun!\""
+    },
+    {
+      "offset": 2959,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「バイバイ」",
+      "en": "\"Bye bye.\"",
+      "text": "\"Bye bye.\""
+    },
+    {
+      "offset": 3014,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「さて、さっさと本屋に行くか」",
+      "en": "\"Alright, let's head to the bookshop already.\"",
+      "text": "\"Alright, let's head to the bookshop already.\""
+    },
+    {
+      "offset": 3051,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「お？　おう」",
+      "en": "\"Oh? Oh, right.\"",
+      "text": "\"Oh? Oh, right.\""
+    },
+    {
+      "offset": 3072,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "背中まである髪の毛をぼんやりと見ていたが、\n杉並の声に我に返る。",
+      "en": "I was watching Kotori's back and hair slowly fade into the\ndistance, when Suginami's voice brought me back to reality.",
+      "text": "I was watching Kotori's back and hair slowly fade into the\ndistance, when Suginami's voice brought me back to reality."
+    },
+    {
+      "offset": 3153,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「にしても、お前、白河ことりと仲いいのか？」",
+      "en": "\"Besides, when did you and Shirakawa Kotori become so close,\neh?\"",
+      "text": "\"Besides, when did you and Shirakawa Kotori become so close,\neh?\""
+    },
+    {
+      "offset": 3204,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ん〜？　別に。まあ、会っていきなりマウン\n　トポジション取り合う程いがみ合ってもいな\n　いが」",
+      "en": "\"Hm? Not really. In fact, we crossed swords the first time\nwe met, and no doubt it'd happen again in the future.\"",
+      "text": "\"Hm? Not really. In fact, we crossed swords the first time\nwe met, and no doubt it'd happen again in the future.\""
+    },
+    {
+      "offset": 3333,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ただの病気だろう、それは」",
+      "en": "\"Need to see a doctor?\"",
+      "text": "\"Need to see a doctor?\""
+    },
+    {
+      "offset": 3368,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「まさしくお前だろう、それは」",
+      "en": "\"That's how we first met, wasn't it?\"",
+      "text": "\"That's how we first met, wasn't it?\""
+    },
+    {
+      "offset": 3416,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3435,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3476,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ババッ！",
+      "en": "PAPAA~!",
+      "text": "PAPAA~!"
+    },
+    {
+      "offset": 3502,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ふ……反応速度が上がったな、朝倉」",
+      "en": "\"Huu... your reflexes have improved, Asakura.\"",
+      "text": "\"Huu... your reflexes have improved, Asakura.\""
+    },
+    {
+      "offset": 3545,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お互いにファイティングポーズをとりながら向\nかい合う。",
+      "en": "We faced each other, both in fighting poses.",
+      "text": "We faced each other, both in fighting poses."
+    },
+    {
+      "offset": 3605,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そういうお前もな、杉並」",
+      "en": "\"So has yours, Suginami.\"",
+      "text": "\"So has yours, Suginami.\""
+    },
+    {
+      "offset": 3649,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3668,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3687,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "寒空の下、商店街の真っ直中で、奇異の視線を\n集めてしまう俺達であった……。",
+      "en": "In the cold weather, right smack dab in the middle of the\nshopping district, several pairs of curious eyes were\nstaring at us...",
+      "text": "In the cold weather, right smack dab in the middle of the\nshopping district, several pairs of curious eyes were\nstaring at us..."
+    },
+    {
+      "offset": 3894,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆ことりとサングラス◆",
+      "en": "◆Kotori and Sunglasses◆",
+      "text": "◆Kotori and Sunglasses◆"
+    },
+    {
+      "offset": 3947,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "商店街を杉並と一緒にぶらついていると、こと\nりを見かけた。",
+      "en": "While walking down the shopping district with Suginami, we\nsaw Kotori on the way.",
+      "text": "While walking down the shopping district with Suginami, we\nsaw Kotori on the way."
+    },
+    {
+      "offset": 4009,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頭痛で早退したはずだったが、調子が良くなっ\nたので、散歩しているとの事だった。",
+      "en": "After some rest, she had recovered from her headache, and\nwas taking a walk.",
+      "text": "After some rest, she had recovered from her headache, and\nwas taking a walk."
+    },
+    {
+      "offset": 4091,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりはメガネの店から出てきたのだが、ほん\nとにサングラスに興味があるのかね……。",
+      "en": "We had seen her emerge from the spectacles store, apparently\nshe was quite interested in sunglasses...",
+      "text": "We had seen her emerge from the spectacles store, apparently\nshe was quite interested in sunglasses..."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "174": "Suginami",
+    "472": "Suginami",
+    "648": "Suginami",
+    "871": "Suginami",
+    "991": "Suginami",
+    "1099": "Suginami",
+    "1281": "Suginami",
+    "1359": "Kotori",
+    "1410": "Kotori",
+    "1508": "Suginami",
+    "1664": "Kotori",
+    "1750": "Kotori",
+    "1907": "Kotori",
+    "2042": "Suginami",
+    "2243": "Kotori",
+    "2377": "Kotori",
+    "2473": "Kotori",
+    "2662": "Kotori",
+    "2748": "Kotori",
+    "2868": "Kotori",
+    "2951": "Suginami",
+    "3006": "Suginami",
+    "3145": "Suginami",
+    "3325": "Suginami",
+    "3408": "Suginami",
+    "3494": "Suginami",
+    "3641": "Suginami"
+  }
+}

@@ -1,0 +1,507 @@
+{
+  "scene": "script_0700.obj",
+  "dialogues": [
+    {
+      "offset": 149,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "遅い朝食を食べ、居間でまったりテレビを観る。\n日曜の昼間のテレビは、実にくだらない。",
+      "en": "I had a late breakfast and watched TV in the living room.\nDaytime TV shows on Sundays are truly boring.",
+      "text": "I had a late breakfast and watched TV in the living room.\nDaytime TV shows on Sundays are truly boring."
+    },
+    {
+      "offset": 239,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（こんなものを流すぐらいなら、試験放送でも\n　流せっての。そうしたら、こっちも諦めがつ\n　いて他のことするから）",
+      "en": "(If they're going to show something like this, they might as\nwell run the test broadcast or something. That way, I'll\njust give up and find something else to do.)",
+      "text": "(If they're going to show something like this, they might as\nwell run the test broadcast or something. That way, I'll\njust give up and find something else to do.)"
+    },
+    {
+      "offset": 356,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなことを思ってみるが、本当にそんなこと\nになったら……。",
+      "en": "I thought about it for a while, but what if they really did\nsomething like that......?",
+      "text": "I thought about it for a while, but what if they really did\nsomething like that......?"
+    },
+    {
+      "offset": 422,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（結構、ウケるかも……）",
+      "en": "(It might be pretty funny......)",
+      "text": "(It might be pretty funny......)"
+    },
+    {
+      "offset": 453,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もっとも、最初だけだろうが。",
+      "en": "But just for the first few times......",
+      "text": "But just for the first few times......"
+    },
+    {
+      "offset": 488,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はぁ……暇だ……」",
+      "en": "\"Hah...... I'm bored......\"",
+      "text": "\"Hah...... I'm bored......\""
+    },
+    {
+      "offset": 515,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "リモコンをテーブルに投げ出し、ソファーの背\nもたれに、どっぷりともたれかかる。",
+      "en": "I threw the remote on the table and sunk my body into the\ncouch.",
+      "text": "I threw the remote on the table and sunk my body into the\ncouch."
+    },
+    {
+      "offset": 630,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「どうしたんですか？」",
+      "en": "\"What's wrong?\"",
+      "text": "\"What's wrong?\""
+    },
+    {
+      "offset": 659,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "洗い物を終えた萌先輩が台所から出てきて、俺\nの隣にフワリと腰かける。",
+      "en": "After she finished washing dishes, Moe-sempai came out from\nthe kitchen and sat beside me.",
+      "text": "After she finished washing dishes, Moe-sempai came out from\nthe kitchen and sat beside me."
+    },
+    {
+      "offset": 733,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや、日曜はどうして、こうくだらない番組\n　ばっかなんだろう……とか、早く試験放送始\n　まらないかな……とか」",
+      "en": "\"I was thinking how boring the TV shows are on Sundays......\nAnd then I was thinking about the test broadcasting\nsystem......\"",
+      "text": "\"I was thinking how boring the TV shows are on Sundays......\nAnd then I was thinking about the test broadcasting\nsystem......\""
+    },
+    {
+      "offset": 859,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はあ……？」",
+      "en": "\"Huh......?\"",
+      "text": "\"Huh......?\""
+    },
+    {
+      "offset": 906,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「でしたら、これから出かけませんか？」",
+      "en": "\"Well, would you like to go somewhere with me?\"",
+      "text": "\"Well, would you like to go somewhere with me?\""
+    },
+    {
+      "offset": 951,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 975,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「デートです」",
+      "en": "\"Can we go out on a date?\"",
+      "text": "\"Can we go out on a date?\""
+    },
+    {
+      "offset": 996,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「で、デート……ですか？」",
+      "en": "\"Go out on a date......?\"",
+      "text": "\"Go out on a date......?\""
+    },
+    {
+      "offset": 1055,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 1070,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "楽しげにニッコリと微笑む萌先輩。",
+      "en": "She smiled softly with joy.",
+      "text": "She smiled softly with joy."
+    },
+    {
+      "offset": 1107,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "デート……か。",
+      "en": "Date...... huh?",
+      "text": "Date...... huh?"
+    },
+    {
+      "offset": 1126,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その……昨日のことと順番は逆になってしまっ\nたが、確かにデートもしてみたい。",
+      "en": "I'd like to go on a date with her, even though we did\nsomething far more than that last night......",
+      "text": "I'd like to go on a date with her, even though we did\nsomething far more than that last night......"
+    },
+    {
+      "offset": 1208,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いいですね。どこに行きましょうか？　まぁ、\n　この時間からじゃ、あんまり遠出は出来ない\n　けど」",
+      "en": "\"That sounds good. Where do you want to go? It's too late to\ntravel too far though......\"",
+      "text": "\"That sounds good. Where do you want to go? It's too late to\ntravel too far though......\""
+    },
+    {
+      "offset": 1337,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「分かりました。それじゃあ、朝倉くんの足に\n　負担がかからない所にしますね」",
+      "en": "\"Okay. Let's go somewhere that won't put too much pressure\non your leg.\"",
+      "text": "\"Okay. Let's go somewhere that won't put too much pressure\non your leg.\""
+    },
+    {
+      "offset": 1419,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "先輩の手に引っ張られるようにして、ソファー\nから立ち上がると、その手に導かれるまま、日\nの傾き始めた住宅街を歩いた。",
+      "en": "She pulled me up from the couch, and we started on a late\nafternoon walk in the neighborhood.",
+      "text": "She pulled me up from the couch, and we started on a late\nafternoon walk in the neighborhood."
+    },
+    {
+      "offset": 1635,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「着きました」",
+      "en": "\"We're here.\"",
+      "text": "\"We're here.\""
+    },
+    {
+      "offset": 1656,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "楽しそうに微笑む萌先輩。",
+      "en": "Moe smiled joyfully.",
+      "text": "Moe smiled joyfully."
+    },
+    {
+      "offset": 1687,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ここでいいんですか？」",
+      "en": "\"This is it?\"",
+      "text": "\"This is it?\""
+    },
+    {
+      "offset": 1718,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "別に買い物とかでもよかったんだけど。",
+      "en": "We could have gone shopping or something.",
+      "text": "We could have gone shopping or something."
+    },
+    {
+      "offset": 1787,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 1802,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の問いに、萌先輩の純真な笑顔が返ってくる。\nなんとも萌先輩らしい。",
+      "en": "Moe-sempai answered my question with her usual innocent\nsmile.",
+      "text": "Moe-sempai answered my question with her usual innocent\nsmile."
+    },
+    {
+      "offset": 1876,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「じゃあ、歩きましょうか」",
+      "en": "\"Shall we go for a walk?\"",
+      "text": "\"Shall we go for a walk?\""
+    },
+    {
+      "offset": 1909,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "別に散歩の趣味があるわけでもないけど、恋人\nと一緒なら、それも悪くはない。",
+      "en": "I'm not into walking, but it's not too bad to walk with my\ngirlfriend.",
+      "text": "I'm not into walking, but it's not too bad to walk with my\ngirlfriend."
+    },
+    {
+      "offset": 2015,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「いえ、お昼寝をしましょう」",
+      "en": "\"No, let's take a nap.\"",
+      "text": "\"No, let's take a nap.\""
+    },
+    {
+      "offset": 2050,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「……え？」",
+      "en": "\"......What?\"",
+      "text": "\"......What?\""
+    },
+    {
+      "offset": 2069,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ニッコリ微笑む萌先輩が、一歩踏み出した俺を\n呼び止める。",
+      "en": "Moe stopped me with a smile as I took one step.",
+      "text": "Moe stopped me with a smile as I took one step."
+    },
+    {
+      "offset": 2138,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そのまま、芝生の上に仰向けに寝転がった。",
+      "en": "She lay down on the grass.",
+      "text": "She lay down on the grass."
+    },
+    {
+      "offset": 2185,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「萌先輩？」",
+      "en": "\"Moe-sempai?\"",
+      "text": "\"Moe-sempai?\""
+    },
+    {
+      "offset": 2213,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「スー」",
+      "en": "\"Zzz...\"",
+      "text": "\"Zzz...\""
+    },
+    {
+      "offset": 2228,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2247,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「早っ！」",
+      "en": "\"Already?\"",
+      "text": "\"Already?\""
+    },
+    {
+      "offset": 2264,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の“かったるい”を｛はる／遥｝かに上回るスピードで、\n萌先輩は眠っていた。",
+      "en": "She was asleep in the blink of an eye.",
+      "text": "She was asleep in the blink of an eye."
+    },
+    {
+      "offset": 2346,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「本当に眠っちゃったの？」",
+      "en": "\"Are you really sleeping?\"",
+      "text": "\"Are you really sleeping?\""
+    },
+    {
+      "offset": 2379,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩の頭の横にしゃがみ込み、顔を覗き込む。",
+      "en": "I squatted near her head and looked into her face.",
+      "text": "I squatted near her head and looked into her face."
+    },
+    {
+      "offset": 2430,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「萌せんぱ〜い」",
+      "en": "\"Hey, Moe-sempa~i?\"",
+      "text": "\"Hey, Moe-sempa~i?\""
+    },
+    {
+      "offset": 2495,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「スー……」",
+      "en": "\"Zzz......\"",
+      "text": "\"Zzz......\""
+    },
+    {
+      "offset": 2514,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そっと呼びかけてみるが、反応なし。寝息だけ\nが規則正しく聞こえてくる。",
+      "en": "I called her quietly, but she didn't reply. All I can hear\nwas her periodic snoring.",
+      "text": "I called her quietly, but she didn't reply. All I can hear\nwas her periodic snoring."
+    },
+    {
+      "offset": 2590,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はぁ……」",
+      "en": "\"Huh......\"",
+      "text": "\"Huh......\""
+    },
+    {
+      "offset": 2609,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ここでいったい、俺に何をしろと？",
+      "en": "What am I supposed to do here?",
+      "text": "What am I supposed to do here?"
+    },
+    {
+      "offset": 2646,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "心地よい春風が、萌先輩の前髪を微かに揺らし\nている。",
+      "en": "The comfortable spring breeze was blowing Moe-sempai's\nbangs.",
+      "text": "The comfortable spring breeze was blowing Moe-sempai's\nbangs."
+    },
+    {
+      "offset": 2702,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "うららかな春の日に相応しい、安らかな寝顔だ。",
+      "en": "Her moist lips were closed, and her breasts were moving up\nand down with her rhythmic breathing.",
+      "text": "Her moist lips were closed, and her breasts were moving up\nand down with her rhythmic breathing."
+    },
+    {
+      "offset": 2751,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ほんのりと湿った唇は軽く閉じ合わされ、規則\n正しい寝息に合わせて胸が静かに上下している。",
+      "en": "Her luscious thighs were exposed from her skirt, as well as\nher silky legs.",
+      "text": "Her luscious thighs were exposed from her skirt, as well as\nher silky legs."
+    },
+    {
+      "offset": 2843,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "スカートの｛すそ／裾｝からは白い太股が顔を出し、｛つや／艶｝や\nかな素足がのびている。",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2935,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "I hear someone's laughter from afar......",
+      "text": "I hear someone's laughter from afar......"
+    },
+    {
+      "offset": 2954,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少し離れた所から、楽しげな叫び声が聞こえる。",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 3003,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 3018,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ま、いっか……」",
+      "en": "\"Oh well......\"",
+      "text": "\"Oh well......\""
+    },
+    {
+      "offset": 3083,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は萌先輩の横に同じように仰向けに寝転がる\nと、目の前に広がる青い空を眺めた。",
+      "en": "I lay beside Moe-sempai, and looked at the broad blues sky\nin front of me.",
+      "text": "I lay beside Moe-sempai, and looked at the broad blues sky\nin front of me."
+    },
+    {
+      "offset": 3165,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頬を撫でる、ふわっとした春風に運ばれて、白\nい雲がのんびりと流れていく。",
+      "en": "White clouds were moving slowly as they were blown by the\nspring breeze.",
+      "text": "White clouds were moving slowly as they were blown by the\nspring breeze."
+    },
+    {
+      "offset": 3241,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なかなか変化しない空に飽きると、俺も｛まぶた／瞼｝を閉\nじた……。",
+      "en": "As I became more bored with the never-changing sky, I\ndecided to close my eyes......",
+      "text": "As I became more bored with the never-changing sky, I\ndecided to close my eyes......"
+    },
+    {
+      "offset": 3433,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆デート◆",
+      "en": "◆A date◆",
+      "text": "◆A date◆"
+    },
+    {
+      "offset": 3476,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩が、デートに誘ってきた。",
+      "en": "Moe asked me out on a date.",
+      "text": "Moe asked me out on a date."
+    },
+    {
+      "offset": 3542,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "着いた先で何をするのかと思いきや、速攻で昼\n寝をされてしまった。",
+      "en": "When we got to the park, she fell asleep immediately.",
+      "text": "When we got to the park, she fell asleep immediately."
+    },
+    {
+      "offset": 3635,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、いいか。そんな言葉を呟いて、俺も、萌\n先輩の隣にごろっと横になったのだった。",
+      "en": "Oh well. I muttered and lay down beside her.",
+      "text": "Oh well. I muttered and lay down beside her."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "624": "Moe",
+    "853": "Moe",
+    "900": "Moe",
+    "969": "Moe",
+    "1049": "Moe",
+    "1331": "Moe",
+    "1629": "Moe",
+    "1781": "Moe",
+    "2009": "Moe",
+    "2207": "Moe",
+    "2489": "Moe"
+  }
+}

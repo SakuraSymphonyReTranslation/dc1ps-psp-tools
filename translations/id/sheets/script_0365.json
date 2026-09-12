@@ -1,0 +1,632 @@
+{
+  "scene": "script_0365.obj",
+  "dialogues": [
+    {
+      "offset": 143,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ただいま」",
+      "en": "\"I'm home.\"",
+      "text": "\"I'm home.\""
+    },
+    {
+      "offset": 162,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "健全な帰宅部として、真っ直ぐ家に帰ってくる。",
+      "en": "I went straight home as a healthy student with no after\nschool activities.",
+      "text": "I went straight home as a healthy student with no after\nschool activities."
+    },
+    {
+      "offset": 224,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「おかえりなさ〜い」",
+      "en": "\"Welcome back.\"",
+      "text": "\"Welcome back.\""
+    },
+    {
+      "offset": 251,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "居間から声が響いてくる。",
+      "en": "She yelled out from the living room.",
+      "text": "She yelled out from the living room."
+    },
+    {
+      "offset": 280,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あいかわらず、家に帰るときの音夢の行動力だ\nけは不思議だ。",
+      "en": "It's a wonder how she only becomes active when she gets to\ngo home from school.",
+      "text": "It's a wonder how she only becomes active when she gets to\ngo home from school."
+    },
+    {
+      "offset": 342,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当にわき目も振らず帰ってきているのだろう。",
+      "en": "She must be coming straight home without looking at\nanything.",
+      "text": "She must be coming straight home without looking at\nanything."
+    },
+    {
+      "offset": 416,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ただいま」",
+      "en": "\"Hey, I'm home.\"",
+      "text": "\"Hey, I'm home.\""
+    },
+    {
+      "offset": 468,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「お帰り兄さん。早かったね」",
+      "en": "\"Welcome back, niisan. You came home fast.\"",
+      "text": "\"Welcome back, niisan. You came home fast.\""
+    },
+    {
+      "offset": 503,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "机の上に便箋を広げて、音夢がにっこりと微笑\nむ。",
+      "en": "She smiled with a letter set on the table.",
+      "text": "She smiled with a letter set on the table."
+    },
+    {
+      "offset": 557,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「手紙？」",
+      "en": "\"Writing a letter?\"",
+      "text": "\"Writing a letter?\""
+    },
+    {
+      "offset": 585,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「文通の相手にお返事書いてるの」",
+      "en": "\"I'm writing back to my pen pal.\"",
+      "text": "\"I'm writing back to my pen pal.\""
+    },
+    {
+      "offset": 624,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さりげなく内容を手でガードして、音夢がきれ\nいに首を傾ける。",
+      "en": "Nemu tilted her head guarding the content of her letter.",
+      "text": "Nemu tilted her head guarding the content of her letter."
+    },
+    {
+      "offset": 690,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「男？」",
+      "en": "\"A guy?\"",
+      "text": "\"A guy?\""
+    },
+    {
+      "offset": 733,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「心配しなくても女の子――女の子かどうかは\n　分からないけど、若い人だと思うよ」",
+      "en": "\"Don't worry, it's a girl. Well, I don't know for sure, but\nsomebody young.\"",
+      "text": "\"Don't worry, it's a girl. Well, I don't know for sure, but\nsomebody young.\""
+    },
+    {
+      "offset": 819,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……別に心配してるわけじゃないっての」",
+      "en": "\"......I'm not worried.\"",
+      "text": "\"......I'm not worried.\""
+    },
+    {
+      "offset": 866,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鞄をソファーにおいて、冷蔵庫の中から麦茶を\nだしてふたつのコップに注ぐ。",
+      "en": "I put my bag on the sofa, and took cold tea out of the\nrefrigerator to pour it into to glasses.",
+      "text": "I put my bag on the sofa, and took cold tea out of the\nrefrigerator to pour it into to glasses."
+    },
+    {
+      "offset": 944,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ほれ」",
+      "en": "\"Here.\"",
+      "text": "\"Here.\""
+    },
+    {
+      "offset": 987,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うわぁ、ありがと♪」",
+      "en": "\"Wow, thank you!\"",
+      "text": "\"Wow, thank you!\""
+    },
+    {
+      "offset": 1016,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「別にいいよ」",
+      "en": "\"No problem.\"",
+      "text": "\"No problem.\""
+    },
+    {
+      "offset": 1037,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の隣に腰をおろして、はぁ、とため息をつ\nく。",
+      "en": "I sighed as I sat down next to Nemu.",
+      "text": "I sighed as I sat down next to Nemu."
+    },
+    {
+      "offset": 1091,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「文通ってなにを書いてるんだ？」",
+      "en": "\"What do you write to your pen pal about?\"",
+      "text": "\"What do you write to your pen pal about?\""
+    },
+    {
+      "offset": 1130,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "机に上半身を投げ出して呟く。",
+      "en": "I covered the desk with my upper body, and mumbled.",
+      "text": "I covered the desk with my upper body, and mumbled."
+    },
+    {
+      "offset": 1193,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「んー……うちには面倒くさがりの兄さんがい\n　ますって」",
+      "en": "\"Well...... like I have a lazy brother who doesn't do\nanything.\"",
+      "text": "\"Well...... like I have a lazy brother who doesn't do\nanything.\""
+    },
+    {
+      "offset": 1255,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……そうかいそうかい」",
+      "en": "\"......Fine, I got it.\"",
+      "text": "\"......Fine, I got it.\""
+    },
+    {
+      "offset": 1314,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「まぁ、兄さんのこと書いてるのは本当だけど。\n　日記に近いかも」",
+      "en": "\"I'm joking. But I'm really writing about you. It's more\nlike a diary.\"",
+      "text": "\"I'm joking. But I'm really writing about you. It's more\nlike a diary.\""
+    },
+    {
+      "offset": 1384,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「むぅ」",
+      "en": "\"Huh.\"",
+      "text": "\"Huh.\""
+    },
+    {
+      "offset": 1399,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "確かに、俺達が日々に起こったことを書こうと\nすれば、お互いが出てくるのは仕方ないか。",
+      "en": "I guess we'll be in each others' diary if we write about\nwhat happened in our everyday life.",
+      "text": "I guess we'll be in each others' diary if we write about\nwhat happened in our everyday life."
+    },
+    {
+      "offset": 1489,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「写真とかやりとりしてるのか？　あぁ、いや、\n　さっき年齢も分からないって言ったか」",
+      "en": "\"Do you have a picture? Oh, that's right, you said you don't\nknow how old that pen pal was.\"",
+      "text": "\"Do you have a picture? Oh, that's right, you said you don't\nknow how old that pen pal was.\""
+    },
+    {
+      "offset": 1607,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うん。でも性格は分かるよ。やさしくて頭が\n　よさそう……それでね、変な人」",
+      "en": "\"Yeah, but I know her character. Really nice, and smart, but\nsomewhat weird.\"",
+      "text": "\"Yeah, but I know her character. Really nice, and smart, but\nsomewhat weird.\""
+    },
+    {
+      "offset": 1689,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「は？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 1704,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "文通相手つかまえて変とはなんだろう。",
+      "en": "How could she call her pen pal a weird person?",
+      "text": "How could she call her pen pal a weird person?"
+    },
+    {
+      "offset": 1758,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あのね、凄いんだよ……なんと職業が詩人さ\n　んなんだって」",
+      "en": "\"Listen to this...... she's a poet.\"",
+      "text": "\"Listen to this...... she's a poet.\""
+    },
+    {
+      "offset": 1824,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「詩人？」",
+      "en": "\"A poet?\"",
+      "text": "\"A poet?\""
+    },
+    {
+      "offset": 1841,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "唐突にせつなさと、うさんくささが炸裂する。",
+      "en": "The sadness and suspicious feelings explode all of a sudden.",
+      "text": "The sadness and suspicious feelings explode all of a sudden."
+    },
+    {
+      "offset": 1890,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺の敵か？」",
+      "en": "\"Is she my enemy?\"",
+      "text": "\"Is she my enemy?\""
+    },
+    {
+      "offset": 1939,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……詩人を敵にする人ってどんな人よ」",
+      "en": "\"......What kind of person will have a poet as an enemy?\"",
+      "text": "\"......What kind of person will have a poet as an enemy?\""
+    },
+    {
+      "offset": 1984,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "麦茶の入っていたコップを口にくわえて、ぶら\nぶらと上下に振る。",
+      "en": "I bit on the edge of the cup and swung it up and down.",
+      "text": "I bit on the edge of the cup and swung it up and down."
+    },
+    {
+      "offset": 2052,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「でも、詩人ってプロじゃなかったら、ただの\n　フリーターだよな」",
+      "en": "\"But, if she isn't a professional poet, then she would be\njust a jobless person, wouldn't she?\"",
+      "text": "\"But, if she isn't a professional poet, then she would be\njust a jobless person, wouldn't she?\""
+    },
+    {
+      "offset": 2150,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「プロみたいだよ。うん、本も１冊もらったん\n　だ。ちょっと待ってて」",
+      "en": "\"I think she's a pro. She gave me one of her books, hold\non.\"",
+      "text": "\"I think she's a pro. She gave me one of her books, hold\non.\""
+    },
+    {
+      "offset": 2233,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "立ちあがって居間を出て行くと、すぐに１冊の\n薄い文庫を手に戻ってくる。",
+      "en": "She stood up and left the living room and came back with a\nthin novel-size book in her hand.",
+      "text": "She stood up and left the living room and came back with a\nthin novel-size book in her hand."
+    },
+    {
+      "offset": 2342,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ほら」",
+      "en": "\"See?\"",
+      "text": "\"See?\""
+    },
+    {
+      "offset": 2357,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「へぇ」",
+      "en": "\"Wow.\"",
+      "text": "\"Wow.\""
+    },
+    {
+      "offset": 2381,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "結構きっちりとしている。",
+      "en": "It looks professional.",
+      "text": "It looks professional."
+    },
+    {
+      "offset": 2410,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "白い背景に茶色い線で、どこか海沿いの草原の\n風景が表紙に描かれている。",
+      "en": "The picture of a meadow by the ocean was on the cover in\nbrown print on a white background.",
+      "text": "The picture of a meadow by the ocean was on the cover in\nbrown print on a white background."
+    },
+    {
+      "offset": 2484,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぽつん、と帽子をのせられた、１輪だけ咲いて\nいる向日葵が印象的だ。",
+      "en": "One sunflower with a straw hat leaves an impression.",
+      "text": "One sunflower with a straw hat leaves an impression."
+    },
+    {
+      "offset": 2554,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "タイトルは……“水夏”。",
+      "en": "And the title was......\"Water Summer.\"",
+      "text": "And the title was......\"Water Summer.\""
+    },
+    {
+      "offset": 2583,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『彼の手はいつも冷たく　だから心が暖かい\n　彼の顔はいつも冷たく　だから心が暖かい\n　だから私が熱い時　彼は静かに手を伸ばす』",
+      "en": "\"His hand is always cold, that's why his heart is warm. His\nface is always cold, that's why his heart is warm. That's\nwhy he reaches out to me, when I'm hot.\"",
+      "text": "\"His hand is always cold, that's why his heart is warm. His\nface is always cold, that's why his heart is warm. That's\nwhy he reaches out to me, when I'm hot.\""
+    },
+    {
+      "offset": 2712,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "おそろしく緻密な手の挿絵。",
+      "en": "There was a detailed painting of a hand.",
+      "text": "There was a detailed painting of a hand."
+    },
+    {
+      "offset": 2743,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『西瓜　甘い　塩かけて　美味しい』",
+      "en": "\"Watermelon, so sweet, sprinkle salt, so sweet.\"",
+      "text": "\"Watermelon, so sweet, sprinkle salt, so sweet.\""
+    },
+    {
+      "offset": 2782,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "縁側。風鈴と蚊取り線香と西瓜の絵。",
+      "en": "A veranda. A picture of a wind-bell, mosquito repellant, and\na watermelon.",
+      "text": "A veranda. A picture of a wind-bell, mosquito repellant, and\na watermelon."
+    },
+    {
+      "offset": 2821,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『夏は暑いから\n　向日葵のお父さんに白い帽子をあげたら\n　向日葵の子供さんの方にくたっと曲ったの』",
+      "en": "\"So hot in summer I gave father sunflower a white hat Then,\nhe leaned toward child sunflower.\"",
+      "text": "\"So hot in summer I gave father sunflower a white hat Then,\nhe leaned toward child sunflower.\""
+    },
+    {
+      "offset": 2922,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "白い帽子をかぶせられた向日葵……。",
+      "en": "A sunflower with a white hat on top of it......",
+      "text": "A sunflower with a white hat on top of it......"
+    },
+    {
+      "offset": 2963,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……なんともコメントしづらいな」",
+      "en": "\"......It's so hard to say anything about it.\"",
+      "text": "\"......It's so hard to say anything about it.\""
+    },
+    {
+      "offset": 3004,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ざっと中を見て呟く。",
+      "en": "I turned some pages.",
+      "text": "I turned some pages."
+    },
+    {
+      "offset": 3029,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見事に独特の世界観を形成している。",
+      "en": "She's made her own world.",
+      "text": "She's made her own world."
+    },
+    {
+      "offset": 3068,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "理解できない……。",
+      "en": "But I can't understand it......",
+      "text": "But I can't understand it......"
+    },
+    {
+      "offset": 3126,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あはははは。まぁね。でも、うん、だから面\n　白いというか感性を刺激されるね」",
+      "en": "\"Hahaha. Yeah, I know what you mean. But that's what makes\nit interesting, or should I say it stimulates your\nemotions.\"",
+      "text": "\"Hahaha. Yeah, I know what you mean. But that's what makes\nit interesting, or should I say it stimulates your\nemotions.\""
+    },
+    {
+      "offset": 3210,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そんなもんか」",
+      "en": "\"Is that how it goes?\"",
+      "text": "\"Is that how it goes?\""
+    },
+    {
+      "offset": 3261,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「でも、一番面白いのはその人の名前だよ。わ\n　ざわざ巻末に書いてるからね」",
+      "en": "\"But the most interesting about it is her name. She put it\nat the end of the book on purpose.\"",
+      "text": "\"But the most interesting about it is her name. She put it\nat the end of the book on purpose.\""
+    },
+    {
+      "offset": 3341,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「巻末？」",
+      "en": "\"At the end of the book?\"",
+      "text": "\"At the end of the book?\""
+    },
+    {
+      "offset": 3358,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんでそんなところに。",
+      "en": "Why would she do that?",
+      "text": "Why would she do that?"
+    },
+    {
+      "offset": 3415,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うふふふふ」",
+      "en": "\"Teehee.\"",
+      "text": "\"Teehee.\""
+    },
+    {
+      "offset": 3436,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の笑い声を聞きながら、ページを手繰る。",
+      "en": "I turned the pages as she smiled.",
+      "text": "I turned the pages as she smiled."
+    },
+    {
+      "offset": 3485,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「作者……は？」",
+      "en": "\"The name is...... what?\"",
+      "text": "\"The name is...... what?\""
+    },
+    {
+      "offset": 3508,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「らぶりー・ばーにんぐ！？」",
+      "en": "\"Lovely Burning!?\"",
+      "text": "\"Lovely Burning!?\""
+    },
+    {
+      "offset": 3543,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "びりびり、とショックで｛めまい／眩暈｝がする。",
+      "en": "It made me dizzy with shock.",
+      "text": "It made me dizzy with shock."
+    },
+    {
+      "offset": 3594,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "確かにこれは表紙には書けない。これだけで、\n全ての世界観を食ってしまうのだ。",
+      "en": "This name ate the whole world she's created so far. This is\nmore shocking than the front page.",
+      "text": "This name ate the whole world she's created so far. This is\nmore shocking than the front page."
+    },
+    {
+      "offset": 3704,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あははははは♪　くすくす、あははは♪」",
+      "en": "\"Hahahaha.\"",
+      "text": "\"Hahahaha.\""
+    },
+    {
+      "offset": 3751,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢がお腹を抱えて笑う。",
+      "en": "Nemu started to laugh out loud.",
+      "text": "Nemu started to laugh out loud."
+    },
+    {
+      "offset": 3780,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "多分、自分と同じことを俺がしてるからなんだ\nろうが……。",
+      "en": "It's probably because she's feeling the same as I am.",
+      "text": "It's probably because she's feeling the same as I am."
+    },
+    {
+      "offset": 3842,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まったく……疲れる……」",
+      "en": "\"It makes me tired......\"",
+      "text": "\"It makes me tired......\""
+    },
+    {
+      "offset": 3875,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "強烈なダメージに机につっぷして、しかし、口\n元にはりついた笑みだけは消えなかった。",
+      "en": "I couldn't wipe that smile off even as I crashed into the\ndesk with all the shock.",
+      "text": "I couldn't wipe that smile off even as I crashed into the\ndesk with all the shock."
+    },
+    {
+      "offset": 4087,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆音夢の文通相手◆",
+      "en": "◆Nemu's poet pen-pal◆",
+      "text": "◆Nemu's poet pen-pal◆"
+    },
+    {
+      "offset": 4138,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "学園から帰ると、机の上に便箋を広げて音夢が\n文通を書いていた。",
+      "en": "Nemu was writing a letter to her pen pal in the living room\nas I came home from school.",
+      "text": "Nemu was writing a letter to her pen pal in the living room\nas I came home from school."
+    },
+    {
+      "offset": 4204,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何でも相手は詩人らしい。作品の内容は、なん\nともコメントしづらいものがあった。",
+      "en": "Her pen pal's a poet. And the book she sent her was hard to\nexplain.",
+      "text": "Her pen pal's a poet. And the book she sent her was hard to\nexplain."
+    },
+    {
+      "offset": 4286,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "作者の名前は――らぶりー・ばーにんぐ。",
+      "en": "The name of the poet is---Lovely Burning.",
+      "text": "The name of the poet is---Lovely Burning."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "216": "Nemu",
+    "460": "Nemu",
+    "577": "Nemu",
+    "725": "Nemu",
+    "979": "Nemu",
+    "1185": "Nemu",
+    "1306": "Nemu",
+    "1599": "Nemu",
+    "1750": "Nemu",
+    "1931": "Nemu",
+    "2142": "Nemu",
+    "2334": "Nemu",
+    "3118": "Nemu",
+    "3253": "Nemu",
+    "3407": "Nemu",
+    "3696": "Nemu"
+  }
+}

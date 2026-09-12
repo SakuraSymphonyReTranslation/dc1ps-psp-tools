@@ -1,0 +1,591 @@
+{
+  "scene": "script_0144.obj",
+  "dialogues": [
+    {
+      "offset": 188,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さん」",
+      "en": "\"Niisan?\"",
+      "text": "\"Niisan?\""
+    },
+    {
+      "offset": 205,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "帰り支度をしていると、音夢が声をかけてきた。",
+      "en": "When I was getting ready to go home, Nemu talked to me.",
+      "text": "When I was getting ready to go home, Nemu talked to me."
+    },
+    {
+      "offset": 256,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんだ？」",
+      "en": "\"What is it?\"",
+      "text": "\"What is it?\""
+    },
+    {
+      "offset": 286,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「今日は、これからどうなさるんですか？」",
+      "en": "\"What are your plans after this?\"",
+      "text": "\"What are your plans after this?\""
+    },
+    {
+      "offset": 333,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふふふ、と微笑みながら音夢が首をかしげる。",
+      "en": "She asked me with a strange smile on her face.",
+      "text": "She asked me with a strange smile on her face."
+    },
+    {
+      "offset": 382,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そうだな、明日は試験だし、いっちょ図書室\n　で勉強でもしていくか」",
+      "en": "\"Let me see...... I think I'll stop by the library and study\nfor the test tomorrow.\"",
+      "text": "\"Let me see...... I think I'll stop by the library and study\nfor the test tomorrow.\""
+    },
+    {
+      "offset": 484,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「はいっ？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 503,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なんだ？」",
+      "en": "\"What is it?\"",
+      "text": "\"What is it?\""
+    },
+    {
+      "offset": 533,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……だって兄さんが図書室で勉強なんて」",
+      "en": "\"......I didn't expect you to be studying in the library.\"",
+      "text": "\"......I didn't expect you to be studying in the library.\""
+    },
+    {
+      "offset": 580,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「まあ、明日は雪だな」",
+      "en": "\"I guess it'll snow tomorrow, huh?\"",
+      "text": "\"I guess it'll snow tomorrow, huh?\""
+    },
+    {
+      "offset": 637,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「自分で言ってる」",
+      "en": "\"Don't make a fool out of yourself.\"",
+      "text": "\"Don't make a fool out of yourself.\""
+    },
+    {
+      "offset": 690,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「それに、その程度で済めばいいですけど」",
+      "en": "\"I hope it's just snow.\"",
+      "text": "\"I hope it's just snow.\""
+    },
+    {
+      "offset": 737,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……じゃあ、雷とかか？」",
+      "en": "\"......Perhaps some thunder?\"",
+      "text": "\"......Perhaps some thunder?\""
+    },
+    {
+      "offset": 798,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「槍とか豚」",
+      "en": "\"Maybe arrows and pigs will fall from the sky.\"",
+      "text": "\"Maybe arrows and pigs will fall from the sky.\""
+    },
+    {
+      "offset": 817,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 836,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "豚？",
+      "en": "Pigs?",
+      "text": "Pigs?"
+    },
+    {
+      "offset": 845,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "豚が降ってくる光景を想像していた俺の前で、\n音夢が“仕方ない”と軽くため息をつく。",
+      "en": "As I imagined pigs coming down from the sky, Nemu looked at\nme and sighed.",
+      "text": "As I imagined pigs coming down from the sky, Nemu looked at\nme and sighed."
+    },
+    {
+      "offset": 944,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「私は先に家の方に戻っていますから。兄さん\n　も、勉強頑張って下さいね」",
+      "en": "\"I'm going back home now. Good luck with your studying.\"",
+      "text": "\"I'm going back home now. Good luck with your studying.\""
+    },
+    {
+      "offset": 1039,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "先ほどとは逆に首を傾げ、裏モード全開の笑み\nを浮かべて、音夢が教室を去っていく。",
+      "en": "Nemu left the classroom with a tilt of her head and a\nstrange smile.",
+      "text": "Nemu left the classroom with a tilt of her head and a\nstrange smile."
+    },
+    {
+      "offset": 1125,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……豚ねぇ」",
+      "en": "\"......Pigs, huh?\"",
+      "text": "\"......Pigs, huh?\""
+    },
+    {
+      "offset": 1146,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなに珍しがられなくてもなぁ、と頭を｛か／掻｝き\nながら、俺は図書室のある特別教室棟へ向かう。",
+      "en": "I scratched my head and walked toward the building with the\nlibrary in it.",
+      "text": "I scratched my head and walked toward the building with the\nlibrary in it."
+    },
+    {
+      "offset": 1246,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 1298,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おっ、ここだ、ここ」",
+      "en": "\"Is this it?\"",
+      "text": "\"Is this it?\""
+    },
+    {
+      "offset": 1327,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "図書室なんて滅多に来ないからな。無事に着け\nて、なによりなにより。",
+      "en": "I rarely come to the library. I was glad that I made it here\nsafely.",
+      "text": "I rarely come to the library. I was glad that I made it here\nsafely."
+    },
+    {
+      "offset": 1402,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一人でうんうんやっていると、中から見知った\n二人が出てきた。",
+      "en": "When I was standing by the door, I saw two familiar faces\ncoming out of the room.",
+      "text": "When I was standing by the door, I saw two familiar faces\ncoming out of the room."
+    },
+    {
+      "offset": 1518,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あ、こんにちは、朝倉くん」",
+      "en": "\"Oh, hello, Asakura-kun.\"",
+      "text": "\"Oh, hello, Asakura-kun.\""
+    },
+    {
+      "offset": 1553,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「萌先輩、ども」",
+      "en": "\"Hi, Moe-sempai.\"",
+      "text": "\"Hi, Moe-sempai.\""
+    },
+    {
+      "offset": 1576,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "珍しく先輩が初めから起きている。",
+      "en": "Moe-sempai was actually awake today.",
+      "text": "Moe-sempai was actually awake today."
+    },
+    {
+      "offset": 1643,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「朝倉？　こんな所でなにやってんの？」",
+      "en": "\"Asakura? What are you doing here?\"",
+      "text": "\"Asakura? What are you doing here?\""
+    },
+    {
+      "offset": 1688,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「フッ……図書室で勉学に｛いそ／勤｝しもうと思ってね」",
+      "en": "\"Hmm...... I'm here to study.\"",
+      "text": "\"Hmm...... I'm here to study.\""
+    },
+    {
+      "offset": 1777,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「冗談」",
+      "en": "\"Are you kidding?\"",
+      "text": "\"Are you kidding?\""
+    },
+    {
+      "offset": 1792,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1811,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が前髪をフワサッ、としようとするよりも早\nく、眞子が俺の言葉を一刀両断する。",
+      "en": "Mako quickly commented as I tried to act arrogant.",
+      "text": "Mako quickly commented as I tried to act arrogant."
+    },
+    {
+      "offset": 1895,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……俺を信じろ」",
+      "en": "\"......Trust me.\"",
+      "text": "\"......Trust me.\""
+    },
+    {
+      "offset": 1931,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「無理」",
+      "en": "\"No way.\"",
+      "text": "\"No way.\""
+    },
+    {
+      "offset": 1946,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1965,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "またしても、即答っすね。",
+      "en": "Once again, she answered right away.",
+      "text": "Once again, she answered right away."
+    },
+    {
+      "offset": 1996,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まぁ、そう言わずに信じろ。そうすれば、明\n　日はトンカツ食べ放題だぞ」",
+      "en": "\"Just...... trust me. If you do, you can have all the pork\nchops you want tomorrow.\"",
+      "text": "\"Just...... trust me. If you do, you can have all the pork\nchops you want tomorrow.\""
+    },
+    {
+      "offset": 2102,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「は？　なにそれ」",
+      "en": "\"Huh? What do you mean?\"",
+      "text": "\"Huh? What do you mean?\""
+    },
+    {
+      "offset": 2127,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「俺が勉強すると豚が降って来るらしい」",
+      "en": "\"When I study, pigs are supposed to start falling from the\nsky.\"",
+      "text": "\"When I study, pigs are supposed to start falling from the\nsky.\""
+    },
+    {
+      "offset": 2198,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「そうなんですか？」",
+      "en": "\"Really?\"",
+      "text": "\"Really?\""
+    },
+    {
+      "offset": 2225,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何の疑いも無く、頷いている……この人は、も\nう少し疑うことを知るべきだろう。",
+      "en": "Moe-sempai asked me with a pure expression...... She needs\nto learn to be more suspicious of others.",
+      "text": "Moe-sempai asked me with a pure expression...... She needs\nto learn to be more suspicious of others."
+    },
+    {
+      "offset": 2333,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「でも、困りました……」",
+      "en": "\"But that's not good......\"",
+      "text": "\"But that's not good......\""
+    },
+    {
+      "offset": 2364,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「……何がです？」",
+      "en": "\"......What's not good?\"",
+      "text": "\"......What's not good?\""
+    },
+    {
+      "offset": 2415,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「私達も今、図書室に行ったんですけど、混ん\n　でいて座れなかったんですよ……」",
+      "en": "\"We were just in the library, but it was too crowded, and we\ncouldn't find a seat.\"",
+      "text": "\"We were just in the library, but it was too crowded, and we\ncouldn't find a seat.\""
+    },
+    {
+      "offset": 2499,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「バカな！？　俺より勤勉なやつが、そんなに\n　居るとは……」",
+      "en": "\"Are you serious? There are that many people who actually\nstudy?\"",
+      "text": "\"Are you serious? There are that many people who actually\nstudy?\""
+    },
+    {
+      "offset": 2593,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「それって、全人類じゃん」",
+      "en": "\"Everyone else but you actually studies......\"",
+      "text": "\"Everyone else but you actually studies......\""
+    },
+    {
+      "offset": 2626,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2645,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ズバッ、と今度は真横に叩き切られた。",
+      "en": "She replied with harsh words.",
+      "text": "She replied with harsh words."
+    },
+    {
+      "offset": 2714,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あの……私達、これから図書館に行くところ\n　なんですけど……ご一緒しませんか？」",
+      "en": "\"Umm...... We're going to the public library now. Would you\nlike to join us?\"",
+      "text": "\"Umm...... We're going to the public library now. Would you\nlike to join us?\""
+    },
+    {
+      "offset": 2802,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「図書館……ですか？」",
+      "en": "\"To the public library...?\"",
+      "text": "\"To the public library...?\""
+    },
+    {
+      "offset": 2831,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "仮想傷口を押さえながら呟く。",
+      "en": "I replied.",
+      "text": "I replied."
+    },
+    {
+      "offset": 2892,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「ええ」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 2907,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は図書館の位置を、記憶の深部から引き出す。",
+      "en": "I tried to remember where the public library was located.",
+      "text": "I tried to remember where the public library was located."
+    },
+    {
+      "offset": 2956,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それは、俺の帰宅コースから、大きく逸脱した\n所にあった。",
+      "en": "It was a long way from my normal route home.",
+      "text": "It was a long way from my normal route home."
+    },
+    {
+      "offset": 3018,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（……めんどいな）",
+      "en": "(......It's too much trouble.)",
+      "text": "(......It's too much trouble.)"
+    },
+    {
+      "offset": 3043,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いえ、今日は大人しく帰りますので」",
+      "en": "\"No thank you. I'll just go home today.\"",
+      "text": "\"No thank you. I'll just go home today.\""
+    },
+    {
+      "offset": 3112,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「そうですか？　残念です」",
+      "en": "\"Really? I wish you'd come with us......\"",
+      "text": "\"Really? I wish you'd come with us......\""
+    },
+    {
+      "offset": 3173,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「なに、もう諦めたの？　根性ないわね」",
+      "en": "\"Are you giving up already? You're such a loser.\"",
+      "text": "\"Are you giving up already? You're such a loser.\""
+    },
+    {
+      "offset": 3218,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ほっとけ……じゃ萌先輩、また今度」",
+      "en": "\"Leave me alone...... See you later, Moe-sempai.\"",
+      "text": "\"Leave me alone...... See you later, Moe-sempai.\""
+    },
+    {
+      "offset": 3287,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「それじゃあ、私達はそろそろ失礼しますね」",
+      "en": "\"Well, we should be going now.\"",
+      "text": "\"Well, we should be going now.\""
+    },
+    {
+      "offset": 3364,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「じゃね」",
+      "en": "\"See ya.\"",
+      "text": "\"See ya.\""
+    },
+    {
+      "offset": 3395,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩はぺこりと頭を下げ、階段を下りていく。\n眞子は当然、言葉だけ。",
+      "en": "Moe-sempai bowed and went down the stairs with Mako.",
+      "text": "Moe-sempai bowed and went down the stairs with Mako."
+    },
+    {
+      "offset": 3467,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 3482,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺も帰るか」",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 3503,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "トンカツ食べ放題がなくなったのは、いささか\n残念だが、なんとなく安心して俺も帰路へとつ\nくことにした。",
+      "en": "\"I guess I should go home now.\"",
+      "text": "\"I guess I should go home now.\""
+    },
+    {
+      "offset": 3737,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆槍のち豚◆",
+      "en": "◆Arrows and Pigs◆",
+      "text": "◆Arrows and Pigs◆"
+    },
+    {
+      "offset": 3778,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "図書室でテスト勉強でもしようかと言う俺に、\n音夢は明日豚が降るという。まったく……。",
+      "en": "When I told Nemu that I was going to study in the library,\nshe said that pigs would fall from the sky tomorrow. Good\ngrief......",
+      "text": "When I told Nemu that I was going to study in the library,\nshe said that pigs would fall from the sky tomorrow. Good\ngrief......"
+    },
+    {
+      "offset": 3866,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だが図書室はあいにく満員御礼。図書館行くと\nいう萌先輩と眞子に誘われるが、さすがにかっ\nたるいので帰る。",
+      "en": "However, the library was packed with students. Moe-sempai\nand Mako asked me to go to the public library, but I decided\nto go home.",
+      "text": "However, the library was packed with students. Moe-sempai\nand Mako asked me to go to the public library, but I decided\nto go home."
+    },
+    {
+      "offset": 3973,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "悔やまれるのは、トンカツ食べ放題がなくなっ\nたことか。",
+      "en": "I regret the fact that there will be no pork chops tomorrow.",
+      "text": "I regret the fact that there will be no pork chops tomorrow."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "180": "Nemu",
+    "278": "Nemu",
+    "476": "Nemu",
+    "525": "Nemu",
+    "629": "Nemu",
+    "682": "Nemu",
+    "790": "Nemu",
+    "936": "Nemu",
+    "1512": "Moe",
+    "1635": "Mako",
+    "1769": "Mako",
+    "1923": "Mako",
+    "2094": "Mako",
+    "2192": "Moe",
+    "2327": "Moe",
+    "2409": "Moe",
+    "2585": "Mako",
+    "2708": "Moe",
+    "2886": "Moe",
+    "3106": "Moe",
+    "3165": "Mako",
+    "3281": "Moe",
+    "3356": "Mako"
+  }
+}

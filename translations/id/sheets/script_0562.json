@@ -1,0 +1,803 @@
+{
+  "scene": "script_0562.obj",
+  "dialogues": [
+    {
+      "offset": 162,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『あぁ、もう、恥ずかしい恥ずかしい恥ずかし\n　い恥ずかしい恥ずかしいったら、恥ずかしかっ\n　たよ〜！！』",
+      "en": "\"Oh my god. I can't believe it. I'm so embarrassed.\"",
+      "text": "\"Oh my god. I can't believe it. I'm so embarrassed.\""
+    },
+    {
+      "offset": 271,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……まぁな」",
+      "en": "\"I guess......\"",
+      "text": "\"I guess......\""
+    },
+    {
+      "offset": 303,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『あぁ、もう、どうやって明日から美春とか白\n　河さんに会えばいいの？』",
+      "en": "\"How can I face Miharu and Shirakawa-san from now on?\"",
+      "text": "\"How can I face Miharu and Shirakawa-san from now on?\""
+    },
+    {
+      "offset": 379,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……普通に会えば良いんじゃないか？」",
+      "en": "\"Same as usual, I suppose.\"",
+      "text": "\"Same as usual, I suppose.\""
+    },
+    {
+      "offset": 435,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『しかも、なんで困ってるのに顔がにやつくの\n　よ、も〜！』",
+      "en": "\"Why's my face smiling when I'm really in trouble?\"",
+      "text": "\"Why's my face smiling when I'm really in trouble?\""
+    },
+    {
+      "offset": 499,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 518,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どたばた、と音夢が隣の部屋で暴れている。",
+      "en": "Nemu's making all kinds of noise in her room.",
+      "text": "Nemu's making all kinds of noise in her room."
+    },
+    {
+      "offset": 563,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "夕方からまた調子を崩してベッドで寝ているは\nずなのだが、一体なにをしているのやら……。",
+      "en": "She didn't feel well after that, so she should be sleeping\nin bed. I wonder what she's up to.",
+      "text": "She didn't feel well after that, so she should be sleeping\nin bed. I wonder what she's up to."
+    },
+    {
+      "offset": 653,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "部屋の天井から埃が降ってきそうな勢いだ。",
+      "en": "She's shaking the whole house.",
+      "text": "She's shaking the whole house."
+    },
+    {
+      "offset": 700,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まぁ、その独り言に｛あいづち／相槌｝を打っている俺も俺\n　だがな」",
+      "en": "\"I feel like a dork answering to her when she's talking to\nherself.\"",
+      "text": "\"I feel like a dork answering to her when she's talking to\nherself.\""
+    },
+    {
+      "offset": 774,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "机の椅子に座ってマンガを読みながら、同じく\nにやけてしまう頬を整える。",
+      "en": "I'm sitting on the chair reading a manga while trying to\nkeep straight face.",
+      "text": "I'm sitting on the chair reading a manga while trying to\nkeep straight face."
+    },
+    {
+      "offset": 850,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「世間では、壁越しにノックしてくるような可\n　愛い妹もいるというのに……うちのときたら」",
+      "en": "\"There are shy younger sisters who knock on the wall to get\nattention out there. But Nemu's not one, that's for\nsure......\"",
+      "text": "\"There are shy younger sisters who knock on the wall to get\nattention out there. But Nemu's not one, that's for\nsure......\""
+    },
+    {
+      "offset": 955,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『うわぁ！　日記に書いちゃって、お父さんや\n　お母さんに読まれたらどうするのよ！』",
+      "en": "\"Oh no! What if Mom and Dad read my diary? I shouldn't write\nthat!!\"",
+      "text": "\"Oh no! What if Mom and Dad read my diary? I shouldn't write\nthat!!\""
+    },
+    {
+      "offset": 1043,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「読ませるなよ……それは絶対に」",
+      "en": "\"Don't write it......\"",
+      "text": "\"Don't write it......\""
+    },
+    {
+      "offset": 1082,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と言うか、そろそろ止めないと近所迷惑で怒ら\nれそうだ。",
+      "en": "Maybe I should stop her now since the neighbors might be\nupset from all the noise she's making.",
+      "text": "Maybe I should stop her now since the neighbors might be\nupset from all the noise she's making."
+    },
+    {
+      "offset": 1140,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いや、むしろ、近所の人間に聞かれること自体\nまずいだろうが……。",
+      "en": "But, it would be bad if the neighbors are able to hear what\nshe's talking about......",
+      "text": "But, it would be bad if the neighbors are able to hear what\nshe's talking about......"
+    },
+    {
+      "offset": 1223,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「おばんです〜、は北海道の方言だよ〜」",
+      "en": "\"Good evening!\"",
+      "text": "\"Good evening!\""
+    },
+    {
+      "offset": 1268,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……しかも、うるさい奴が増えたし」",
+      "en": "\"And here comes the troublemaker.\"",
+      "text": "\"And here comes the troublemaker.\""
+    },
+    {
+      "offset": 1311,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "マンガから顔を上げる。",
+      "en": "I lift my eyes from the manga.",
+      "text": "I lift my eyes from the manga."
+    },
+    {
+      "offset": 1365,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ポン、とベッドの上に座り込んでいるピンク色\nの物体がにっこりと笑う。",
+      "en": "The pink thing sitting on my bed smiles at me.",
+      "text": "The pink thing sitting on my bed smiles at me."
+    },
+    {
+      "offset": 1452,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ねぇ、音夢ちゃんなに壊れて――」",
+      "en": "\"Hey, what happened to Nemu-chan?\"",
+      "text": "\"Hey, what happened to Nemu-chan?\""
+    },
+    {
+      "offset": 1504,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『あぁ、もう違う意味でお嫁に行けないよ〜』",
+      "en": "\"I can't get married now.\"",
+      "text": "\"I can't get married now.\""
+    },
+    {
+      "offset": 1553,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1585,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1604,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……ちょっと待ってろ」",
+      "en": "\"Wait right here......\"",
+      "text": "\"Wait right here......\""
+    },
+    {
+      "offset": 1644,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頭を抱えながら壁を足でノックする。",
+      "en": "I kicked the wall with my foot as I shook my head.",
+      "text": "I kicked the wall with my foot as I shook my head."
+    },
+    {
+      "offset": 1685,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「音夢っ！　近所迷惑だから静かにしろ！」",
+      "en": "\"Nemu! Shut up! Everyone can hear you!!\"",
+      "text": "\"Nemu! Shut up! Everyone can hear you!!\""
+    },
+    {
+      "offset": 1743,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『うわっ！　兄さん聞こえてたの！？』",
+      "en": "\"Oh my god! You heard me?\"",
+      "text": "\"Oh my god! You heard me?\""
+    },
+    {
+      "offset": 1786,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「家の外まで響いてるわ！　調子が良くないな\n　らとっとと寝ろ！」",
+      "en": "\"Everyone in the neighborhood can hear you! Go to sleep if\nyou aren't feeling well!\"",
+      "text": "\"Everyone in the neighborhood can hear you! Go to sleep if\nyou aren't feeling well!\""
+    },
+    {
+      "offset": 1867,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "『…………！』",
+      "en": "\"............!\"",
+      "text": "\"............!\""
+    },
+    {
+      "offset": 1888,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ごそごそ、と音がした後、ようやく隣室が静ま\nり返った。",
+      "en": "She made some noise and then her room became quiet.",
+      "text": "She made some noise and then her room became quiet."
+    },
+    {
+      "offset": 1983,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「お嫁にいけないの音夢ちゃん？」",
+      "en": "\"Nemu-chan can't get married?\"",
+      "text": "\"Nemu-chan can't get married?\""
+    },
+    {
+      "offset": 2022,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「いけると思うぞ俺は」",
+      "en": "\"I'm sure she can.\"",
+      "text": "\"I'm sure she can.\""
+    },
+    {
+      "offset": 2051,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらのすぐ近くの階段に腰掛けてうなだれる。",
+      "en": "I looked down as I sat down close to Sakura.",
+      "text": "I looked down as I sat down close to Sakura."
+    },
+    {
+      "offset": 2100,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まぁ、いかせるかどうかは別だが。",
+      "en": "Whether I'd let her or not is a different matter.",
+      "text": "Whether I'd let her or not is a different matter."
+    },
+    {
+      "offset": 2169,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゃ。その後、調子はどうかなお兄ちゃん？\n　音夢ちゃんは元気そうだけど」",
+      "en": "\"Hmm. How do you feel now? Nemu-chan seems to be all right.\"",
+      "text": "\"Hmm. How do you feel now? Nemu-chan seems to be all right.\""
+    },
+    {
+      "offset": 2251,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「なんだ、それを確認に来たのか？」",
+      "en": "\"You came to check on us?\"",
+      "text": "\"You came to check on us?\""
+    },
+    {
+      "offset": 2322,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そうだよ」",
+      "en": "\"Yeah.\"",
+      "text": "\"Yeah.\""
+    },
+    {
+      "offset": 2341,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "恥ずかしさなど｛みじん／微塵｝もなくさくらが頷く。",
+      "en": "Sakura nodded.",
+      "text": "Sakura nodded."
+    },
+    {
+      "offset": 2398,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺か？　まぁまぁだな」",
+      "en": "\"Me? I guess I'm all right.\"",
+      "text": "\"Me? I guess I'm all right.\""
+    },
+    {
+      "offset": 2429,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛あくび／欠伸｝をかみ殺しながら｛つぶや／呟｝く。",
+      "en": "I mumbled trying to stifle a yawn.",
+      "text": "I mumbled trying to stifle a yawn."
+    },
+    {
+      "offset": 2486,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「んん……陽気がいいからかなんか眠いけど、\n　今何時だ？」",
+      "en": "\"Phew. It's so nice outside that it's making me sleepy. What\ntime is it?\"",
+      "text": "\"Phew. It's so nice outside that it's making me sleepy. What\ntime is it?\""
+    },
+    {
+      "offset": 2580,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「まだ９時だよ」",
+      "en": "\"It's nine o'clock.\"",
+      "text": "\"It's nine o'clock.\""
+    },
+    {
+      "offset": 2603,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あれ？」",
+      "en": "\"Really?\"",
+      "text": "\"Really?\""
+    },
+    {
+      "offset": 2620,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "時計を見るが、確かに９時だ。",
+      "en": "I looked at the clock. It's nine o'clock.",
+      "text": "I looked at the clock. It's nine o'clock."
+    },
+    {
+      "offset": 2655,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おかしいな、もう日付が変わるころかと思っ\n　たのに」",
+      "en": "\"That's weird. I thought it was about midnight.\"",
+      "text": "\"That's weird. I thought it was about midnight.\""
+    },
+    {
+      "offset": 2745,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そんなに眠いの？」",
+      "en": "\"Are you that sleepy?\"",
+      "text": "\"Are you that sleepy?\""
+    },
+    {
+      "offset": 2772,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ん……あぁ」",
+      "en": "\"Yeah......\"",
+      "text": "\"Yeah......\""
+    },
+    {
+      "offset": 2793,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちょっと反応が遅れる。",
+      "en": "I responded slowly.",
+      "text": "I responded slowly."
+    },
+    {
+      "offset": 2822,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「急に眠くなったな……」",
+      "en": "\"I feel sleepy all of a sudden......\"",
+      "text": "\"I feel sleepy all of a sudden......\""
+    },
+    {
+      "offset": 2883,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「えへへへ。お兄ちゃん膝枕してあげようか♪」",
+      "en": "\"Hey, do you want to sleep on my lap?\"",
+      "text": "\"Hey, do you want to sleep on my lap?\""
+    },
+    {
+      "offset": 2934,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「いや、いいって」",
+      "en": "\"No, I'm fine.\"",
+      "text": "\"No, I'm fine.\""
+    },
+    {
+      "offset": 2959,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頭を振って大きく息を吸う。",
+      "en": "I shook my head and took a deep breath.",
+      "text": "I shook my head and took a deep breath."
+    },
+    {
+      "offset": 3022,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ねぇねぇ、明日ボクと遊びに行かない？　買\n　い物につきあって欲しいんだけど」",
+      "en": "\"Hey, do you want to go out with me tomorrow? I want you to\ngo shopping with me.\"",
+      "text": "\"Hey, do you want to go out with me tomorrow? I want you to\ngo shopping with me.\""
+    },
+    {
+      "offset": 3106,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「明日？　明日かぁ」",
+      "en": "\"Tomorrow? Let's see......\"",
+      "text": "\"Tomorrow? Let's see......\""
+    },
+    {
+      "offset": 3133,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "確か音夢は、委員会の会議で出かけるって言っ\nてたよな。",
+      "en": "Nemu said that she has a school committee meeting she has to\nattend.",
+      "text": "Nemu said that she has a school committee meeting she has to\nattend."
+    },
+    {
+      "offset": 3193,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まぁ、夕方までならいいぞ」",
+      "en": "\"Maybe until dinner time.\"",
+      "text": "\"Maybe until dinner time.\""
+    },
+    {
+      "offset": 3258,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「にゃ、ほんとに？　嘘ついたら切腹だよ？」",
+      "en": "\"Really? You better not be lying or I'll kill you.\"",
+      "text": "\"Really? You better not be lying or I'll kill you.\""
+    },
+    {
+      "offset": 3307,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらが隣にちょこんと座りながら俺を見上げ\nる。",
+      "en": "Sakura sat next to me and looked up to me.",
+      "text": "Sakura sat next to me and looked up to me."
+    },
+    {
+      "offset": 3361,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「切腹はしないけど、嘘はつかないって」",
+      "en": "\"I don't want to die, but I'm not lying.\"",
+      "text": "\"I don't want to die, but I'm not lying.\""
+    },
+    {
+      "offset": 3406,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わず苦笑いを浮かべて、さくらの頭に手をお\nく。",
+      "en": "I smiled and put my hand on top of her head.",
+      "text": "I smiled and put my hand on top of her head."
+    },
+    {
+      "offset": 3501,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うわぁ〜い♪　デート、デート！」",
+      "en": "\"Okay, it's a date, then.\"",
+      "text": "\"Okay, it's a date, then.\""
+    },
+    {
+      "offset": 3542,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「おい、買い物だろうが」",
+      "en": "\"Wow, I thought it was just a shopping trip.\"",
+      "text": "\"Wow, I thought it was just a shopping trip.\""
+    },
+    {
+      "offset": 3606,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「お花見しようよ〜、日本人の心には桜がなく\n　ちゃダメだよ」",
+      "en": "\"Let's go see the cherry blossoms. They should be beautiful\nby now.\"",
+      "text": "\"Let's go see the cherry blossoms. They should be beautiful\nby now.\""
+    },
+    {
+      "offset": 3672,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「聞いてるのか？」",
+      "en": "\"Are you listening?\"",
+      "text": "\"Are you listening?\""
+    },
+    {
+      "offset": 3727,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ノープロブレム！　買い物で遊んでデートだ\n　よ♪　お花見、芸者、忍者でござるよ」",
+      "en": "\"No problem. It's a shopping date.\"",
+      "text": "\"No problem. It's a shopping date.\""
+    },
+    {
+      "offset": 3815,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "チチチ、とわけの分からなさ過ぎることを言っ\nてさくらが笑う。",
+      "en": "Sakura smiled.",
+      "text": "Sakura smiled."
+    },
+    {
+      "offset": 3881,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……ったく」",
+      "en": "\"What a pain......\"",
+      "text": "\"What a pain......\""
+    },
+    {
+      "offset": 3902,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ため息だか欠伸だか分からない空気を漏らして、\n明日の予定を思い出す。",
+      "en": "I sighed and tried to remember the schedule for tomorrow.",
+      "text": "I sighed and tried to remember the schedule for tomorrow."
+    },
+    {
+      "offset": 3974,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とりあえず、音夢が帰ってくるまでなら問題な\nいだろう。",
+      "en": "I'm sure it won't be a problem until Nemu comes home.",
+      "text": "I'm sure it won't be a problem until Nemu comes home."
+    },
+    {
+      "offset": 4034,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あぁ……」",
+      "en": "\"Oh......\"",
+      "text": "\"Oh......\""
+    },
+    {
+      "offset": 4083,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゃ？　どうしたのお兄ちゃん？」",
+      "en": "\"What? What's wrong?\"",
+      "text": "\"What? What's wrong?\""
+    },
+    {
+      "offset": 4126,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「いや、なんでもない」",
+      "en": "\"Nothing.\"",
+      "text": "\"Nothing.\""
+    },
+    {
+      "offset": 4155,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わず吹き出してしまった。",
+      "en": "It made me laugh.",
+      "text": "It made me laugh."
+    },
+    {
+      "offset": 4186,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢と一緒にいられる時間を数えているなんて、\n俺も焼きが回ったもんだ。",
+      "en": "I couldn't believe I was thinking about how I can make a\nplan around Nemu's schedule.",
+      "text": "I couldn't believe I was thinking about how I can make a\nplan around Nemu's schedule."
+    },
+    {
+      "offset": 4292,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「じゃあ、明日の朝起こしに……どうせだから\n　一緒に寝ててもいい？」",
+      "en": "\"Then I'll come over to wake you up...... or can I just stay\nhere tonight?\"",
+      "text": "\"Then I'll come over to wake you up...... or can I just stay\nhere tonight?\""
+    },
+    {
+      "offset": 4366,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「帰れ」",
+      "en": "\"Go home.\"",
+      "text": "\"Go home.\""
+    },
+    {
+      "offset": 4411,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「残念無念……それじゃ、今日は夜更かししちゃ\n　ダメだよお兄ちゃん」",
+      "en": "\"That's too bad. Don't stay up too late, oniichan.\"",
+      "text": "\"That's too bad. Don't stay up too late, oniichan.\""
+    },
+    {
+      "offset": 4485,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ん」",
+      "en": "\"Fine.\"",
+      "text": "\"Fine.\""
+    },
+    {
+      "offset": 4498,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "分かったよ、と手を振って目をこする。",
+      "en": "I waved at her and rubbed my eyes.",
+      "text": "I waved at her and rubbed my eyes."
+    },
+    {
+      "offset": 4571,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……眠いの？」",
+      "en": "\"Are you sleepy?\"",
+      "text": "\"Are you sleepy?\""
+    },
+    {
+      "offset": 4594,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ん……ああ。ちょっと横になってもいいか？」",
+      "en": "\"Yeah...... Can I lie down now?\"",
+      "text": "\"Yeah...... Can I lie down now?\""
+    },
+    {
+      "offset": 4645,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだか頭の中がぼう、としてきていた。",
+      "en": "I felt really sleepy I couldn't think.",
+      "text": "I felt really sleepy I couldn't think."
+    },
+    {
+      "offset": 4703,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「夢、見るかな？」",
+      "en": "\"Do you think you'll have a dream?\"",
+      "text": "\"Do you think you'll have a dream?\""
+    },
+    {
+      "offset": 4728,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ベッドに寝転んだ俺を、静かな湖面のような視\n線が見下ろす。",
+      "en": "Sakura looked at me calmly as I lie down on the bed.",
+      "text": "Sakura looked at me calmly as I lie down on the bed."
+    },
+    {
+      "offset": 4792,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……どうかな」",
+      "en": "\"I'm not sure......\"",
+      "text": "\"I'm not sure......\""
+    },
+    {
+      "offset": 4832,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "腕を目の上において、深く息をはきだす。",
+      "en": "I sighed deeply as I put my arm under my head.",
+      "text": "I sighed deeply as I put my arm under my head."
+    },
+    {
+      "offset": 4877,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おかしい……眠くてさ……ごめん……」",
+      "en": "\"It's so weird...... I'm really sleepy...... Sorry......\"",
+      "text": "\"It's so weird...... I'm really sleepy...... Sorry......\""
+    },
+    {
+      "offset": 4935,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ううん。おやすみ……お兄ちゃん」",
+      "en": "\"Don't worry. Good night, oniichan.\"",
+      "text": "\"Don't worry. Good night, oniichan.\""
+    },
+    {
+      "offset": 4976,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そっ、と。",
+      "en": "Very gently.",
+      "text": "Very gently."
+    },
+    {
+      "offset": 4991,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛・・・・／お母さん｝のような雰囲気で、さくらがシーツを\n俺にかぶせる。",
+      "en": "Sakura tucked me in to bed like she was my 'mother'.",
+      "text": "Sakura tucked me in to bed like she was my 'mother'."
+    },
+    {
+      "offset": 5069,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あり……と……」",
+      "en": "\"Thanks......\"",
+      "text": "\"Thanks......\""
+    },
+    {
+      "offset": 5195,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆さくらとデートの約束◆",
+      "en": "◆A promise to go on a date with Sakura◆",
+      "text": "◆A promise to go on a date with Sakura◆"
+    },
+    {
+      "offset": 5248,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "デートを美春たちに目撃され、自分の部屋で照\nれた叫び声をあげる音夢。その音夢の声に、俺\nは壁越しに答えていた。",
+      "en": "Nemu was going crazy in her room since Miharu and Kotori saw\nus together at the park. I was answering to her comments\nfrom my room next door.",
+      "text": "Nemu was going crazy in her room since Miharu and Kotori saw\nus together at the park. I was answering to her comments\nfrom my room next door."
+    },
+    {
+      "offset": 5361,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そろそろやめさせようと思った時に、さくらが\n様子を見に窓からやって来た。",
+      "en": "Sakura came to see how we're doing as I was wondering if I\nshould stop Nemu.",
+      "text": "Sakura came to see how we're doing as I was wondering if I\nshould stop Nemu."
+    },
+    {
+      "offset": 5437,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とりあえず音夢を落ち着かせ、さくらと明日買\nい物に出かける約束をして眠りにつく。なんだ\nか異様に眠かった……。",
+      "en": "I calmed Nemu down. Sakura and I made a plan to go out\ntomorrow, and I went to sleep. I was really sleepy.",
+      "text": "I calmed Nemu down. Sakura and I made a plan to go out\ntomorrow, and I went to sleep. I was really sleepy."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "154": "Nemu",
+    "295": "Nemu",
+    "427": "Nemu",
+    "947": "Nemu",
+    "1213": "Sakura",
+    "1442": "Sakura",
+    "1496": "Nemu",
+    "1575": "Sakura",
+    "1735": "Nemu",
+    "1859": "Nemu",
+    "1973": "Sakura",
+    "2159": "Sakura",
+    "2312": "Sakura",
+    "2570": "Sakura",
+    "2735": "Sakura",
+    "2873": "Sakura",
+    "3012": "Sakura",
+    "3248": "Sakura",
+    "3491": "Sakura",
+    "3596": "Sakura",
+    "3717": "Sakura",
+    "4073": "Sakura",
+    "4282": "Sakura",
+    "4401": "Sakura",
+    "4561": "Sakura",
+    "4693": "Sakura",
+    "4925": "Sakura"
+  }
+}

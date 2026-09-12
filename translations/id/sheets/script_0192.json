@@ -1,0 +1,438 @@
+{
+  "scene": "script_0192.obj",
+  "dialogues": [
+    {
+      "offset": 151,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふぅ」",
+      "en": "\"Phew.\"",
+      "text": "\"Phew.\""
+    },
+    {
+      "offset": 166,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "部屋で着替えて、飲み物でもと居間に下りると、\n音夢が机の上で勉強をしていた。",
+      "en": "I found Nemu studying at the table after I changed in my\nroom and came downstairs to get something to drink.",
+      "text": "I found Nemu studying at the table after I changed in my\nroom and came downstairs to get something to drink."
+    },
+    {
+      "offset": 248,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お前、なんでわざわざ下で勉強してるんだ？」",
+      "en": "\"Why are you studying downstairs?\"",
+      "text": "\"Why are you studying downstairs?\""
+    },
+    {
+      "offset": 337,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 352,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「自分の部屋のほうが集中できるだろうが」",
+      "en": "\"Can't you concentrate better in your own room?\"",
+      "text": "\"Can't you concentrate better in your own room?\""
+    },
+    {
+      "offset": 427,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「えと……まぁ、そうなんだけど」",
+      "en": "\"Yeah...... that's true, but...\"",
+      "text": "\"Yeah...... that's true, but...\""
+    },
+    {
+      "offset": 466,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、音夢の手がさりげなくテレビのリモコンを\n隠すように動く。",
+      "en": "Her hand casually moved to hide the remote control for the\nTV.",
+      "text": "Her hand casually moved to hide the remote control for the\nTV."
+    },
+    {
+      "offset": 532,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ドラマか……」",
+      "en": "\"That show again?\"",
+      "text": "\"That show again?\""
+    },
+    {
+      "offset": 583,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、なにその悟りきったような口調は！？」",
+      "en": "\"What's that attitude? You're acting like you know\neverything.\"",
+      "text": "\"What's that attitude? You're acting like you know\neverything.\""
+    },
+    {
+      "offset": 632,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「はずれか？」",
+      "en": "\"Am I wrong?\"",
+      "text": "\"Am I wrong?\""
+    },
+    {
+      "offset": 692,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「う……当たりだけどさぁ」",
+      "en": "\"Mm...... you're right.\"",
+      "text": "\"Mm...... you're right.\""
+    },
+    {
+      "offset": 725,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そんなに気になるなら見ちゃえばいいのに。\n　そのほうがよっぽど集中できるだろう」",
+      "en": "\"Why don't you just watch it? Can't you concentrate better\nthat way?\"",
+      "text": "\"Why don't you just watch it? Can't you concentrate better\nthat way?\""
+    },
+    {
+      "offset": 844,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そうなんだけど。こう、それをやると最後の\n　一線を超えちゃうような気がして」",
+      "en": "\"I know what you're saying, but I'm afraid I'll be crossing\nthe line if I did that.\"",
+      "text": "\"I know what you're saying, but I'm afraid I'll be crossing\nthe line if I did that.\""
+    },
+    {
+      "offset": 928,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「表現はおかしいが言いたいことは分かる」",
+      "en": "\"That's a weird explanation, but I think I know what you're\nsaying.\"",
+      "text": "\"That's a weird explanation, but I think I know what you're\nsaying.\""
+    },
+    {
+      "offset": 1003,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「後、部屋だとマンガが読みたくなったり、な\n　んだか掃除をしたくなっちゃって」",
+      "en": "\"Also, if I stay in my room, I feel like cleaning up the\nroom or start reading some manga.\"",
+      "text": "\"Also, if I stay in my room, I feel like cleaning up the\nroom or start reading some manga.\""
+    },
+    {
+      "offset": 1087,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あぁ」",
+      "en": "\"I see.\"",
+      "text": "\"I see.\""
+    },
+    {
+      "offset": 1102,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "時折、音夢の部屋が模様替えしていることがあっ\nたが、丁度前後にテストがあったのか。",
+      "en": "I remember she was changing her room around, but was it\nbefore the test?",
+      "text": "I remember she was changing her room around, but was it\nbefore the test?"
+    },
+    {
+      "offset": 1190,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ま、張り詰めすぎると身体に悪いぞ」",
+      "en": "\"Well, don't study too hard.\"",
+      "text": "\"Well, don't study too hard.\""
+    },
+    {
+      "offset": 1257,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ココアをふたり分いれて、机の上に置く。",
+      "en": "I made two cups of hot cocoa and put them on the table.",
+      "text": "I made two cups of hot cocoa and put them on the table."
+    },
+    {
+      "offset": 1335,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うわぁ、ありがと♪」",
+      "en": "\"Wow, thank you!\"",
+      "text": "\"Wow, thank you!\""
+    },
+    {
+      "offset": 1364,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「別にいいさ」",
+      "en": "\"Don't mention it.\"",
+      "text": "\"Don't mention it.\""
+    },
+    {
+      "offset": 1394,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "テレビでも見ようと思ったが、音夢の邪魔にな\nりそうで、なにもせずにソファーに座る。",
+      "en": "I wanted to watch TV, but I didn't want to bother Nemu, so I\njust sat on the sofa.",
+      "text": "I wanted to watch TV, but I didn't want to bother Nemu, so I\njust sat on the sofa."
+    },
+    {
+      "offset": 1482,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1501,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぼう、と音夢が教科書とノートを手繰る音と、\n鉛筆が走る音を聞く。",
+      "en": "I listened to the sound of her textbook pages turning and\nher pencil running on the notebook.",
+      "text": "I listened to the sound of her textbook pages turning and\nher pencil running on the notebook."
+    },
+    {
+      "offset": 1571,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「テスト期間中は、なんだか色々とやりたくな\n　るからな」",
+      "en": "\"The exam week makes you want to do other stuff, you know?\"",
+      "text": "\"The exam week makes you want to do other stuff, you know?\""
+    },
+    {
+      "offset": 1666,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「甘いもの欲しくなったり、急に思い出したよ\n　うに買い物したくなるよね」",
+      "en": "\"Like you crave for some sweet stuff, or you get an impulse\nto go shopping.\"",
+      "text": "\"Like you crave for some sweet stuff, or you get an impulse\nto go shopping.\""
+    },
+    {
+      "offset": 1744,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「結局は欲求不満なんだろうけどな」",
+      "en": "\"It's probably because of frustration.\"",
+      "text": "\"It's probably because of frustration.\""
+    },
+    {
+      "offset": 1813,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、そうだ兄さん、ちょっと聞いていい？」",
+      "en": "\"Oh, I wanted to ask you something.\"",
+      "text": "\"Oh, I wanted to ask you something.\""
+    },
+    {
+      "offset": 1862,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なんだ？　お前に分からないところが俺に解\n　けるかどうかは分からないけど」",
+      "en": "\"What? I'm not sure if I can answer what you can't.\"",
+      "text": "\"What? I'm not sure if I can answer what you can't.\""
+    },
+    {
+      "offset": 1972,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そうじゃなくて……ね、勉強してると、料理\n　したくならない？」",
+      "en": "\"No, no. Doesn't studying make you feel...\"",
+      "text": "\"No, no. Doesn't studying make you feel...\""
+    },
+    {
+      "offset": 2042,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「は？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 2085,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だから、料理。……なんかこう、胸の奥から、\n　料理がしたいぞー！　っていう叫び声がして\n　くるんだよ」",
+      "en": "\"Well, my thigh area gets wiggly. What could that be?\"",
+      "text": "\"Well, my thigh area gets wiggly. What could that be?\""
+    },
+    {
+      "offset": 2194,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "胸にギュッと握った手を押し当てて、音夢がウッ\nトリした表情を見せる。",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2268,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「やめてくれ。ただでさえ普段使わない頭をフ\n　ル活動させて死にそうなのに、止めを刺され\n　た日にゃ……」",
+      "en": "I stopped with my cup still tilted.",
+      "text": "I stopped with my cup still tilted."
+    },
+    {
+      "offset": 2405,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さん、それってどういう意味ですか？」",
+      "en": "\"It's so weird. My body feels hot too, and I can't\nunderstand it.\"",
+      "text": "\"It's so weird. My body feels hot too, and I can't\nunderstand it.\""
+    },
+    {
+      "offset": 2452,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の全身が細かく震えている。",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2489,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや、文字通りの意味だ。深い意味なんて全\n　然ないぞ」",
+      "en": "Sensei...... do I have to teach her health and physical\neducation?",
+      "text": "Sensei...... do I have to teach her health and physical\neducation?"
+    },
+    {
+      "offset": 2579,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そんなに私に喧嘩売ってます？！」",
+      "en": "\"Don't you get like that?\"",
+      "text": "\"Don't you get like that?\""
+    },
+    {
+      "offset": 2620,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「どうしてそうなる？」",
+      "en": "\"Well, I guess you have to get rid of that kind of feeling\nby yourself, you know?\"",
+      "text": "\"Well, I guess you have to get rid of that kind of feeling\nby yourself, you know?\""
+    },
+    {
+      "offset": 2649,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ああ、そうか。その料理は俺じゃなくて、学\n　園の講師たちに配ったりするのか」",
+      "en": "\"So you get that too? How do you get rid of it?\"",
+      "text": "\"So you get that too? How do you get rid of it?\""
+    },
+    {
+      "offset": 2761,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「はぁ？　何ですか、それ」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2794,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「テストをなくすために、講師たちを亡き者に\n　するんだろう？」",
+      "en": "\"............Huh?\"",
+      "text": "\"............Huh?\""
+    },
+    {
+      "offset": 3219,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢が手近にあった辞書を持ち上げた。",
+      "en": "\"Mm............\"",
+      "text": "\"Mm............\""
+    },
+    {
+      "offset": 3262,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「じゃ、勉強頑張れよ」",
+      "en": "I feel like I'm being sexually harassed.",
+      "text": "I feel like I'm being sexually harassed."
+    },
+    {
+      "offset": 3300,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はさっさと退散した。",
+      "en": "\"Well, let's see what we can do......\"",
+      "text": "\"Well, let's see what we can do......\""
+    },
+    {
+      "offset": 3352,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふぅ……。危ないところだったな」",
+      "en": "\"I have no idea.\"",
+      "text": "\"I have no idea.\""
+    },
+    {
+      "offset": 3393,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「けど、かなり良いアイデアだと思ったんだけ\n　どな」",
+      "en": "I wiped my tears quietly at her innocent smile.",
+      "text": "I wiped my tears quietly at her innocent smile."
+    },
+    {
+      "offset": 3451,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見た目だけなら可愛い我が妹から、手作りの料\n理をプレゼントされたら……喜んで食べる男性\n講師はいると思うのだが。",
+      "en": "Then I felt it would be hard to study today.",
+      "text": "Then I felt it would be hard to study today."
+    },
+    {
+      "offset": 3799,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆テストが近づくと……◆",
+      "en": "◆How to comfort myself◆",
+      "text": "◆How to comfort myself◆"
+    },
+    {
+      "offset": 3856,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "居間でテスト勉強をしている音夢。まあテスト\n期間中は、なんだか色々とやりたくなるもんだ\nから。",
+      "en": "Nemu was studying for the exam in the living room. You have\nmore temptations during the exam week.",
+      "text": "Nemu was studying for the exam in the living room. You have\nmore temptations during the exam week."
+    },
+    {
+      "offset": 3953,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう思っていると、勉強中に料理が作りたくなっ\nてしょうがなくなると、音夢が言ってくる。",
+      "en": "Then, Nemu asked me about the way her body gets hot during\nstudy time, and what she should do about it......",
+      "text": "Then, Nemu asked me about the way her body gets hot during\nstudy time, and what she should do about it......"
+    },
+    {
+      "offset": 4043,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "テスト前に緊急事態になるのも問題だったので、\n俺は丁重にお断りするのだった。",
+      "en": "I'm not sure how to explain this, but I feel like I'm being\nsexually harassed. I thought it would be hard for me to\nstudy today.",
+      "text": "I'm not sure how to explain this, but I feel like I'm being\nsexually harassed. I thought it would be hard for me to\nstudy today."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "329": "Nemu",
+    "419": "Nemu",
+    "575": "Nemu",
+    "684": "Nemu",
+    "836": "Nemu",
+    "995": "Nemu",
+    "1327": "Nemu",
+    "1658": "Nemu",
+    "1805": "Nemu",
+    "1964": "Nemu",
+    "2077": "Nemu",
+    "2397": "Nemu",
+    "2571": "Nemu",
+    "2753": "Nemu"
+  }
+}

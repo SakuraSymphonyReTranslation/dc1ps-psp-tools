@@ -1,0 +1,2349 @@
+{
+  "scene": "script_0834.obj",
+  "dialogues": [
+    {
+      "offset": 238,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぶぶぶ……。",
+      "en": "--*brrp brrp brrp*",
+      "text": "--*brrp brrp brrp*"
+    },
+    {
+      "offset": 255,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "机の上の携帯電話が震えた。着信音はなく、バ\nイブだ。",
+      "en": "The cell phone on my desk shook. It was on vibration mode.",
+      "text": "The cell phone on my desk shook. It was on vibration mode."
+    },
+    {
+      "offset": 313,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「もしもし？」",
+      "en": "\"Hello?\"",
+      "text": "\"Hello?\""
+    },
+    {
+      "offset": 343,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『ああ、朝倉？　白河だけど……』",
+      "en": "\"Ahh, Asakura? It's Shirakawa...\"",
+      "text": "\"Ahh, Asakura? It's Shirakawa...\""
+    },
+    {
+      "offset": 382,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「あ、ども。どうしたんです？」",
+      "en": "\"Ah, hello. Can I help you?\"",
+      "text": "\"Ah, hello. Can I help you?\""
+    },
+    {
+      "offset": 419,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "声の向こう側に、ざわざわと雑踏があるのが分\nかる。",
+      "en": "I could hear a lot of hustle and bustle on her end.",
+      "text": "I could hear a lot of hustle and bustle on her end."
+    },
+    {
+      "offset": 484,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『君、もしかして、ことりと一緒に居る？』",
+      "en": "\"Is Kotori with you?\"",
+      "text": "\"Is Kotori with you?\""
+    },
+    {
+      "offset": 531,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「いや、居ませんけど……というか、今日は先\n　生の結婚式ですよね？」",
+      "en": "\"No, she's not... isn't today your wedding ceremony?\"",
+      "text": "\"No, she's not... isn't today your wedding ceremony?\""
+    },
+    {
+      "offset": 607,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "確か、そのはず。なのに、“ことりと一緒に居\nる？”とはどうしたわけだ？",
+      "en": "It definitely was. So why did she ask whether Kotori was\nwith me?",
+      "text": "It definitely was. So why did she ask whether Kotori was\nwith me?"
+    },
+    {
+      "offset": 692,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『そうなんだけど……今朝から姿が見えないん\n　だよ』",
+      "en": "\"You're right, but... I haven't seen Kotori at all this\nmorning.\"",
+      "text": "\"You're right, but... I haven't seen Kotori at all this\nmorning.\""
+    },
+    {
+      "offset": 759,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『あの子、携帯持ってないだろ。連絡は付かな\n　いし、式に遅刻するわけにはいかないし……』",
+      "en": "\"That girl doesn't carry a cell phone. I can't communicate\nwith her, or know whether she'd be late...\"",
+      "text": "\"That girl doesn't carry a cell phone. I can't communicate\nwith her, or know whether she'd be late...\""
+    },
+    {
+      "offset": 853,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「分かりました。探して、連れていきます」",
+      "en": "\"I understand. I'd start looking for her now.\"",
+      "text": "\"I understand. I'd start looking for her now.\""
+    },
+    {
+      "offset": 900,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "けど、どこに居るだろう？　ともあれ、考えて\nいるうちにも、身体を動かしたほうが良かった。",
+      "en": "Where would she be, though? I decide to keep moving while\nthinking anyway.",
+      "text": "Where would she be, though? I decide to keep moving while\nthinking anyway."
+    },
+    {
+      "offset": 1032,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『あの子……あたしのために、歌を歌ってあげ\n　るって、そう言ってたんだ……』",
+      "en": "\"That girl... she said she'd sing her song for me...\"",
+      "text": "\"That girl... she said she'd sing her song for me...\""
+    },
+    {
+      "offset": 1123,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『なのに……どうして来てくれないんだ……』",
+      "en": "\"Then why... isn't she coming...\"",
+      "text": "\"Then why... isn't she coming...\""
+    },
+    {
+      "offset": 1172,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "普段の暦先生に似合わず、弱々しげな声だった。",
+      "en": "Koyomi-sensei's voice had grown weak, unlike her usual self.",
+      "text": "Koyomi-sensei's voice had grown weak, unlike her usual self."
+    },
+    {
+      "offset": 1247,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「昨日、電話があったんですよ。ことりから」",
+      "en": "\"Yesterday, Kotori called me.\"",
+      "text": "\"Yesterday, Kotori called me.\""
+    },
+    {
+      "offset": 1296,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なにか、聖歌隊のソロで失敗した……みたい\n　なこと言ってましたけど」",
+      "en": "\"From what she said, I think she wasn't able to do the solo\npart for her choir.\"",
+      "text": "\"From what she said, I think she wasn't able to do the solo\npart for her choir.\""
+    },
+    {
+      "offset": 1381,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『ああ、うん、確かに、帰ったとき元気なかっ\n　たな』",
+      "en": "\"Ahh, that's definitely why she came home depressed...\"",
+      "text": "\"Ahh, that's definitely why she came home depressed...\""
+    },
+    {
+      "offset": 1480,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『気になったから、聖歌隊の人に電話したんだ\n　けど、何だか、別人のように駄目だったって』",
+      "en": "\"The choir members called as well, worried about her.\nApparently they couldn't find anyone else to do it.\"",
+      "text": "\"The choir members called as well, worried about her.\nApparently they couldn't find anyone else to do it.\""
+    },
+    {
+      "offset": 1574,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 1602,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『もちろん、もうちょっと表現は柔らかかった\n　けどね。ようするに、そういうことだったら\n　しい』",
+      "en": "\"I wish I could've put it more lightly, but that's how it\nwas.\"",
+      "text": "\"I wish I could've put it more lightly, but that's how it\nwas.\""
+    },
+    {
+      "offset": 1703,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「なるほど……」",
+      "en": "\"I see...\"",
+      "text": "\"I see...\""
+    },
+    {
+      "offset": 1726,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「歌……ですかね。そこに、何かがあるんじゃ\n　ないですか？　結婚式も、それだし」",
+      "en": "\"Singing... did something happen to her in that regard\nrecently? For the wedding ceremony, and others...\"",
+      "text": "\"Singing... did something happen to her in that regard\nrecently? For the wedding ceremony, and others...\""
+    },
+    {
+      "offset": 1821,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『……そうだな。あの子の中で、歌に関する何\n　かが変化したんだ』",
+      "en": "\"...Yes. Somewhere inside her, her connection with singing\nchanged.\"",
+      "text": "\"...Yes. Somewhere inside her, her connection with singing\nchanged.\""
+    },
+    {
+      "offset": 1891,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「だから、歌が駄目になった？」",
+      "en": "\"So she can't sing anymore?\"",
+      "text": "\"So she can't sing anymore?\""
+    },
+    {
+      "offset": 1937,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『そう……たぶん、そうだ』",
+      "en": "\"That... seems to be it.\"",
+      "text": "\"That... seems to be it.\""
+    },
+    {
+      "offset": 1970,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「でも……余程の変化ですよね。あれだけ好き\n　だった歌なのに……」",
+      "en": "\"But... that's a really drastic change. She's always loved\nsinging...\"",
+      "text": "\"But... that's a really drastic change. She's always loved\nsinging...\""
+    },
+    {
+      "offset": 2042,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりの歌が駄目だなんて、ちょっと信じがた\nい。",
+      "en": "It's hard to believe that Kotori doesn't want to sing.",
+      "text": "It's hard to believe that Kotori doesn't want to sing."
+    },
+    {
+      "offset": 2105,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『……それなんだけど』",
+      "en": "\"...I don't think that's true.\"",
+      "text": "\"...I don't think that's true.\""
+    },
+    {
+      "offset": 2134,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ああ、ちょっと待ってもらえますか──受話器\nから離した声が聞こえてきた。",
+      "en": "She put me on hold for a second, as she answered someone\nasking her questions about the wedding ceremony.",
+      "text": "She put me on hold for a second, as she answered someone\nasking her questions about the wedding ceremony."
+    },
+    {
+      "offset": 2221,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『ああ、失礼。その……ことりが歌を好きだっ\n　てことなんだけどね……』",
+      "en": "\"Sorry about that. About what we were talking earlier...\"",
+      "text": "\"Sorry about that. About what we were talking earlier...\""
+    },
+    {
+      "offset": 2306,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『もしかしたら違うのかなって……そうも思う\n　んだ』",
+      "en": "\"I think what you said... is a little off.\"",
+      "text": "\"I think what you said... is a little off.\""
+    },
+    {
+      "offset": 2364,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「……つまり、ことりは歌が好きじゃないと？」",
+      "en": "\"...In other words, you think she doesn't like singing?\"",
+      "text": "\"...In other words, you think she doesn't like singing?\""
+    },
+    {
+      "offset": 2415,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "意外なようで、そうでもない気もした。ことり\n自身、ほのめかしたことがあったのではなかっ\nたか。",
+      "en": "My mind started to wander... maybe the signs were there\nbefore, but...",
+      "text": "My mind started to wander... maybe the signs were there\nbefore, but..."
+    },
+    {
+      "offset": 2564,
+      "speaker": "Mik-kun",
+      "speaker_jp": "みっくん",
+      "jp": "「分かってる。言ってみただけ。だって……こ\n　とりって、音楽のことになると、人が変わる\n　もんね」",
+      "en": "\"I know, before you even said that. When it comes to music,\nyou're a different person entirely.\"",
+      "text": "\"I know, before you even said that. When it comes to music,\nyou're a different person entirely.\""
+    },
+    {
+      "offset": 2680,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そんなことないってば。そういう風に見える\n　だけなんだよ、きっと」",
+      "en": "\"That's not true and you know it.\"",
+      "text": "\"That's not true and you know it.\""
+    },
+    {
+      "offset": 2795,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「でも、やっぱいいな。ことりの歌は」",
+      "en": "\"Your singing really was good.\"",
+      "text": "\"Your singing really was good.\""
+    },
+    {
+      "offset": 2873,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「またまた。寝てたくせに」",
+      "en": "\"I don't think it's good enough yet, especially if it put\nyou to sleep.\"",
+      "text": "\"I don't think it's good enough yet, especially if it put\nyou to sleep.\""
+    },
+    {
+      "offset": 2906,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「いやいや、寝る前まではちゃんと起きてた」",
+      "en": "\"No no, I fell asleep so that I could be woken up by you.\"",
+      "text": "\"No no, I fell asleep so that I could be woken up by you.\""
+    },
+    {
+      "offset": 2985,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3034,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あの曲、メロディーラインがいいもんね」",
+      "en": "\"That tune has a good melody line.\"",
+      "text": "\"That tune has a good melody line.\""
+    },
+    {
+      "offset": 3081,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「それもあるけど、歌声そのものが、な」",
+      "en": "\"Even if it has one, it needs a good singer to bring it out\nas well.\"",
+      "text": "\"Even if it has one, it needs a good singer to bring it out\nas well.\""
+    },
+    {
+      "offset": 3156,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「う〜ん……そうかな？　私には、いまいち実\n　感がないんだけどな……」",
+      "en": "\"Huhh... is that so? I don't really feel that way about\nmyself...\"",
+      "text": "\"Huhh... is that so? I don't really feel that way about\nmyself...\""
+    },
+    {
+      "offset": 3232,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「え？　自分の歌に？」",
+      "en": "\"Eh? About your own singing?\"",
+      "text": "\"Eh? About your own singing?\""
+    },
+    {
+      "offset": 3261,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ふむ。理想は高いと？」",
+      "en": "\"Hm. Maybe your expectations are a little high?\"",
+      "text": "\"Hm. Maybe your expectations are a little high?\""
+    },
+    {
+      "offset": 3322,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ううん、そういうんじゃなくてね……」",
+      "en": "\"No, that's not it...\"",
+      "text": "\"No, that's not it...\""
+    },
+    {
+      "offset": 3435,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ほら、私って、聖歌隊に所属してるでしょ。\n　それで今度、ある孤児院に行って、歌を歌う\n　ことになったんだけど……」",
+      "en": "\"Well, you know that I'm part of the choir. Our next\nassignment is to visit an orphanage to perform for them...\"",
+      "text": "\"Well, you know that I'm part of the choir. Our next\nassignment is to visit an orphanage to perform for them...\""
+    },
+    {
+      "offset": 3569,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「それのソロパートを、私が担当することになっ\n　ちゃったの」",
+      "en": "\"And... I was assigned to perform a solo part.\"",
+      "text": "\"And... I was assigned to perform a solo part.\""
+    },
+    {
+      "offset": 3635,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「へえ……って、それって凄いことなんじゃな\n　いの？」",
+      "en": "\"He-eh... isn't that a good thing?\"",
+      "text": "\"He-eh... isn't that a good thing?\""
+    },
+    {
+      "offset": 3725,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「凄い……かどうかはともかく、目立つことは\n　確かだよね」",
+      "en": "\"It's good... but it means I'd stand out.\"",
+      "text": "\"It's good... but it means I'd stand out.\""
+    },
+    {
+      "offset": 3789,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「責任重大だな。そりゃ、気も重くなる」",
+      "en": "\"So since your responsibility is heavy, your mood is as\nwell?\"",
+      "text": "\"So since your responsibility is heavy, your mood is as\nwell?\""
+    },
+    {
+      "offset": 3864,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「う〜ん、それもあるんだけど、それだけじゃ\n　なくてね……」",
+      "en": "\"Weeell, that's part of it, but not all...\"",
+      "text": "\"Weeell, that's part of it, but not all...\""
+    },
+    {
+      "offset": 3960,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「何て言うのかな……その……私なんかが、他\n　の人押しのけちゃっていいのかなって……」",
+      "en": "\"How do you say it... I don't think I'm really suitable for\nthe part...\"",
+      "text": "\"How do you say it... I don't think I'm really suitable for\nthe part...\""
+    },
+    {
+      "offset": 4065,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「聖歌隊って言ってもね、やっぱりみんな、基\n　本的に歌が好きで……」",
+      "en": "\"In the choir, everyone, at their core, just really likes to\nsing...\"",
+      "text": "\"In the choir, everyone, at their core, just really likes to\nsing...\""
+    },
+    {
+      "offset": 4139,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「でも、そこは仕方がないだろ。実力の差なわ\n　けだし」",
+      "en": "\"But it can't be helped. It's the difference in quality.\"",
+      "text": "\"But it can't be helped. It's the difference in quality.\""
+    },
+    {
+      "offset": 4212,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 4231,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ことり？」",
+      "en": "\"Kotori?\"",
+      "text": "\"Kotori?\""
+    },
+    {
+      "offset": 4280,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、うん、ごめん……まあ、それをより所に\n　するしかないんだよね、きっと」",
+      "en": "\"Ah, uh, sorry... I don't think that's right anyway, there's\ndefinitely people there better than me.\"",
+      "text": "\"Ah, uh, sorry... I don't think that's right anyway, there's\ndefinitely people there better than me.\""
+    },
+    {
+      "offset": 4431,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 4450,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「でも……どうして、ことりが歌を好きじゃな\n　いと？」",
+      "en": "\"But... why wouldn't she like singing?\"",
+      "text": "\"But... why wouldn't she like singing?\""
+    },
+    {
+      "offset": 4519,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『……あの子が歌い始めたのは、聖歌隊に入っ\n　てからなんだけど、それがそもそも、母親の\n　勧めがあったからなんだ』",
+      "en": "\"...That girl only started singing when mother recommended\nher to join the choir...\"",
+      "text": "\"...That girl only started singing when mother recommended\nher to join the choir...\""
+    },
+    {
+      "offset": 4647,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『母はクリスチャンでね、それで……』",
+      "en": "\"Mother is a christian, so...\"",
+      "text": "\"Mother is a christian, so...\""
+    },
+    {
+      "offset": 4690,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 4718,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『もちろん、信仰の押しつけなんかじゃなかっ\n　た。ただ……あの子との接点が持ちたかった\n　だけ。それは、ことりも分かってたと思う』",
+      "en": "\"Of course, it wasn't mother trying to push her beliefs on\nher. She was just looking for a way to connect with Kotori.\"",
+      "text": "\"Of course, it wasn't mother trying to push her beliefs on\nher. She was just looking for a way to connect with Kotori.\""
+    },
+    {
+      "offset": 4853,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "接点を持ちたかった──それがどんなに切ない\n言葉か、暦先生は分かってるんだろうか？",
+      "en": "A way to connect with Kotori -- those painful sounding\nwords, had Koyomi-sensei experienced them first-hand as\nwell?",
+      "text": "A way to connect with Kotori -- those painful sounding\nwords, had Koyomi-sensei experienced them first-hand as\nwell?"
+    },
+    {
+      "offset": 4941,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ことりは……血の繋がった家族ではないんで\n　すね？」",
+      "en": "\"Kotori... she isn't related to her family by blood, right?\"",
+      "text": "\"Kotori... she isn't related to her family by blood, right?\""
+    },
+    {
+      "offset": 5010,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『…………！　ど、どうしてそれを……？』",
+      "en": "\"......! H, how did you...?\"",
+      "text": "\"......! H, how did you...?\""
+    },
+    {
+      "offset": 5057,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「まあ、それは後です」",
+      "en": "\"I'd save that for later.\"",
+      "text": "\"I'd save that for later.\""
+    },
+    {
+      "offset": 5095,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『…………』",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 5123,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『……そう。そうなんだ。ことりとあたし達は、\n　本当の家族じゃない……』",
+      "en": "\"...It's true. Kotori is not really related to us...\"",
+      "text": "\"...It's true. Kotori is not really related to us...\""
+    },
+    {
+      "offset": 5201,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 5229,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『あたしは愚かな人間でね……ことりがやって\n　来た当初は、｛うと／疎｝ましく思ったりもした……』",
+      "en": "\"I was so stupid... when she first came into my life, I kept\nmy distance from her, she was like a stranger forced on\nme...\"",
+      "text": "\"I was so stupid... when she first came into my life, I kept\nmy distance from her, she was like a stranger forced on\nme...\""
+    },
+    {
+      "offset": 5340,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『けど、段々好きになって……段々、ほんとの\n　妹に思えてきて……』",
+      "en": "\"But I gradually started loving her... started thinking of\nher as my real sister...\"",
+      "text": "\"But I gradually started loving her... started thinking of\nher as my real sister...\""
+    },
+    {
+      "offset": 5421,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『……ことりはそうじゃなかったのかなあ。だ\n　から、結婚式にも……』",
+      "en": "\"...Kotori doesn't think of it that way, that's why she...\"",
+      "text": "\"...Kotori doesn't think of it that way, that's why she...\""
+    },
+    {
+      "offset": 5495,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「……いや、そうじゃない」",
+      "en": "\"...No, that's wrong.\"",
+      "text": "\"...No, that's wrong.\""
+    },
+    {
+      "offset": 5528,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そろそろ着くはずだった。",
+      "en": "I had reached that conclusion myself.",
+      "text": "I had reached that conclusion myself."
+    },
+    {
+      "offset": 5557,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺達が、多くの時間を過ごした場所……。",
+      "en": "All the time we had spent in that place...",
+      "text": "All the time we had spent in that place..."
+    },
+    {
+      "offset": 5600,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりの歌声が、春の風のように流れていた場\n所……。",
+      "en": "That place where Kotori's singing would meld into the spring\nwind...",
+      "text": "That place where Kotori's singing would meld into the spring\nwind..."
+    },
+    {
+      "offset": 5658,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「大丈夫。きっと連れていきます」",
+      "en": "\"It'd be okay. I'd bring her back, for sure.\"",
+      "text": "\"It'd be okay. I'd bring her back, for sure.\""
+    },
+    {
+      "offset": 5697,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ことりは、暦先生も、歌も、大好きなんだか\n　ら」",
+      "en": "\"Because she loves both you and singing.\"",
+      "text": "\"Because she loves both you and singing.\""
+    },
+    {
+      "offset": 5762,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『朝倉……』",
+      "en": "\"Asakura...\"",
+      "text": "\"Asakura...\""
+    },
+    {
+      "offset": 5781,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「本当の家族ですよ……俺と同じで」",
+      "en": "\"You two are real relatives... the same as my situation.\"",
+      "text": "\"You two are real relatives... the same as my situation.\""
+    },
+    {
+      "offset": 5831,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『朝倉？』",
+      "en": "\"Asakura?\"",
+      "text": "\"Asakura?\""
+    },
+    {
+      "offset": 5848,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「そろそろ、切った方がいいですかね。花嫁が\n　長電話じゃ、良くないでしょう」",
+      "en": "\"I'm going to hang up now. It isn't good for the bride to be\non the phone for so long.\"",
+      "text": "\"I'm going to hang up now. It isn't good for the bride to be\non the phone for so long.\""
+    },
+    {
+      "offset": 5939,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『…………』",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 5967,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『……分かった。任せたよ』",
+      "en": "\"...Alright. I'd trust you.\"",
+      "text": "\"...Alright. I'd trust you.\""
+    },
+    {
+      "offset": 6000,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「任せて下さい」",
+      "en": "\"You can count on me.\"",
+      "text": "\"You can count on me.\""
+    },
+    {
+      "offset": 6025,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――ピッ",
+      "en": "--*beep*",
+      "text": "--*beep*"
+    },
+    {
+      "offset": 6038,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、ことりの恋人なんだから。",
+      "en": "I am her lover.",
+      "text": "I am her lover."
+    },
+    {
+      "offset": 6094,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "歌が聞こえてくる。",
+      "en": "I heard her singing.",
+      "text": "I heard her singing."
+    },
+    {
+      "offset": 6117,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "変わらぬ歌声。",
+      "en": "An unchanging, singing voice.",
+      "text": "An unchanging, singing voice."
+    },
+    {
+      "offset": 6136,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "卒業パーティーで披露して、結婚式でも披露す\nるはずの声……。",
+      "en": "The same voice than rang out clear and true during the\ngraduation party. The one which was planned for the wedding\nceremony...",
+      "text": "The same voice than rang out clear and true during the\ngraduation party. The one which was planned for the wedding\nceremony..."
+    },
+    {
+      "offset": 6200,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "綺麗で、上手で、いつまでも聴き惚れていたい\nような……。",
+      "en": "It was beautiful and strong. It was the voice I fell in love\nwith everytime I heard it.",
+      "text": "It was beautiful and strong. It was the voice I fell in love\nwith everytime I heard it."
+    },
+    {
+      "offset": 6260,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "けれど、歌う場所を間違っている。",
+      "en": "But this wasn't the place for it.",
+      "text": "But this wasn't the place for it."
+    },
+    {
+      "offset": 6323,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思いが通じたのか──いや、違う、足音だ。こ\nとりは俺に気が付いた。",
+      "en": "Looks like she hasn't noticed me -- no, footsteps. Kotori\nnoticed me emerging from a forest of trees.",
+      "text": "Looks like she hasn't noticed me -- no, footsteps. Kotori\nnoticed me emerging from a forest of trees."
+    },
+    {
+      "offset": 6393,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりは目を開けると、弱々しく微笑んだ。",
+      "en": "She opened her eyes, and smiled weakly.",
+      "text": "She opened her eyes, and smiled weakly."
+    },
+    {
+      "offset": 6502,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「見つかっちゃいましたか……」",
+      "en": "\"I've been found...\"",
+      "text": "\"I've been found...\""
+    },
+    {
+      "offset": 6539,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……たぶん、ここだろうと思ったから」",
+      "en": "\"...I knew you'd be here.\"",
+      "text": "\"...I knew you'd be here.\""
+    },
+    {
+      "offset": 6597,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「行動範囲が、もっと広ければ良かったんです\n　けどね……」",
+      "en": "\"I should widen my knowledge of places to go on this\nisland...\"",
+      "text": "\"I should widen my knowledge of places to go on this\nisland...\""
+    },
+    {
+      "offset": 6673,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "幹から背を離し──ことりは裏へと回った。",
+      "en": "She stopped leaning her back on the tree trunk -- then went\nbehind it.",
+      "text": "She stopped leaning her back on the tree trunk -- then went\nbehind it."
+    },
+    {
+      "offset": 6720,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ことり？」",
+      "en": "\"Kotori?\"",
+      "text": "\"Kotori?\""
+    },
+    {
+      "offset": 6752,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「顔を合わせると辛いから……だから、背中合\n　わせに喋りましょう」",
+      "en": "\"It's painful... for me to see your face... so let's talk\nwith our backs...\"",
+      "text": "\"It's painful... for me to see your face... so let's talk\nwith our backs...\""
+    },
+    {
+      "offset": 6824,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 6843,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくさくと地面を踏む。俺は、幹に背中を預け\nた。",
+      "en": "I walked up to the tree trunk, and leaned my back on it,\nright opposite Kotori.",
+      "text": "I walked up to the tree trunk, and leaned my back on it,\nright opposite Kotori."
+    },
+    {
+      "offset": 6930,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いいのか？　こんな所で油を売ってて。結婚\n　式、終わっちゃうぞ」",
+      "en": "\"Is this really okay? If you stick around any longer, you're\ngoing to miss the weddiny ceremony.\"",
+      "text": "\"Is this really okay? If you stick around any longer, you're\ngoing to miss the weddiny ceremony.\""
+    },
+    {
+      "offset": 7015,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……いいんですよ。昨日のうちに、プレゼン\n　トは渡しておきましたから」",
+      "en": "\"...It's okay. I already gave my sister her present\nyesterday.\"",
+      "text": "\"...It's okay. I already gave my sister her present\nyesterday.\""
+    },
+    {
+      "offset": 7093,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……なにを？」",
+      "en": "\"...What was it?\"",
+      "text": "\"...What was it?\""
+    },
+    {
+      "offset": 7129,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……なんだったかなあ……？　なにか、いい\n　ものです」",
+      "en": "\"...What was it, I wonder...? It was something good,\nwhatever it was.\"",
+      "text": "\"...What was it, I wonder...? It was something good,\nwhatever it was.\""
+    },
+    {
+      "offset": 7191,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 7223,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 7242,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……歌うんだろう？　違うのか？」",
+      "en": "\"...You were suppose to sing as your present, weren't you?\"",
+      "text": "\"...You were suppose to sing as your present, weren't you?\""
+    },
+    {
+      "offset": 7296,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「歌の、プレゼント……か」",
+      "en": "\"Singing, as a present...\"",
+      "text": "\"Singing, as a present...\""
+    },
+    {
+      "offset": 7329,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どこか｛じちょう／自嘲｝めいたように呟く。",
+      "en": "She whispered those words to herself, filled with\nself-derision.",
+      "text": "She whispered those words to herself, filled with\nself-derision."
+    },
+    {
+      "offset": 7391,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「私……私は……」",
+      "en": "\"I... I don't...\"",
+      "text": "\"I... I don't...\""
+    },
+    {
+      "offset": 7429,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「歌なんか……好きじゃなかったんですよ……」",
+      "en": "\"Singing... I don't like to sing at all...\"",
+      "text": "\"Singing... I don't like to sing at all...\""
+    },
+    {
+      "offset": 7480,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 7512,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ずっと、好きなフリをしていた……ううん、\n　好きだって、思いこもうとしていたんです\n　……」",
+      "en": "\"It's always been fake... yeah, it was my imagination that I\nliked to...\"",
+      "text": "\"It's always been fake... yeah, it was my imagination that I\nliked to...\""
+    },
+    {
+      "offset": 7611,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……じゃあ、なんで歌ってたんだ？」",
+      "en": "\"...Then why did you sing before?\"",
+      "text": "\"...Then why did you sing before?\""
+    },
+    {
+      "offset": 7667,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 7699,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「頭の中が、空っぽになるんです……」",
+      "en": "\"I sang... to clear my head...\"",
+      "text": "\"I sang... to clear my head...\""
+    },
+    {
+      "offset": 7755,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「空っぽになって、なにも……“声”も聞こえ\n　なくなるから、それで……」",
+      "en": "\"My head, which would be ringing with those voices... I sang\nso that I won't have to listen to them...\"",
+      "text": "\"My head, which would be ringing with those voices... I sang\nso that I won't have to listen to them...\""
+    },
+    {
+      "offset": 7833,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……声？」",
+      "en": "\"...Voices?\"",
+      "text": "\"...Voices?\""
+    },
+    {
+      "offset": 7865,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 7884,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……俺、考えてたんだけど」",
+      "en": "\"...I've thought about this.\"",
+      "text": "\"...I've thought about this.\""
+    },
+    {
+      "offset": 7932,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「はい」",
+      "en": "\"Yes?\"",
+      "text": "\"Yes?\""
+    },
+    {
+      "offset": 7947,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ことりが変になったのって、桜が枯れてから\n　だよな？」",
+      "en": "\"You started behaving strangely when the sakura petals\nwithered, didn't you?\"",
+      "text": "\"You started behaving strangely when the sakura petals\nwithered, didn't you?\""
+    },
+    {
+      "offset": 8022,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 8041,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "沈黙。それはたぶん、肯定のしるしだった。",
+      "en": "Silence. In this case, it probably meant that I was correct.",
+      "text": "Silence. In this case, it probably meant that I was correct."
+    },
+    {
+      "offset": 8088,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なにがあった？」",
+      "en": "\"What happened?\"",
+      "text": "\"What happened?\""
+    },
+    {
+      "offset": 8113,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ことりには、どんな変化が訪れた？」",
+      "en": "\"...What kind of change happened in you?\"",
+      "text": "\"...What kind of change happened in you?\""
+    },
+    {
+      "offset": 8169,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……｛・・・・・・・／朝倉君のように｝、ですか？」",
+      "en": "\"...Like the ones that happened to you?\"",
+      "text": "\"...Like the ones that happened to you?\""
+    },
+    {
+      "offset": 8228,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 8247,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……そう。俺が、和菓子を出す能力しかなく\n　なったように……ことりには？」",
+      "en": "\"...Right. I lost my power to produce wagashis... what about\nyou?\"",
+      "text": "\"...Right. I lost my power to produce wagashis... what about\nyou?\""
+    },
+    {
+      "offset": 8342,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「私には……私は……」",
+      "en": "\"I... I could...\"",
+      "text": "\"I... I could...\""
+    },
+    {
+      "offset": 8400,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「人の心が、読めなくなってしまったんです」",
+      "en": "\"People's minds... I could read them.\"",
+      "text": "\"People's minds... I could read them.\""
+    },
+    {
+      "offset": 8478,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 8510,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「テレパシーって言ったほうが……分かりやす\n　いですかね」",
+      "en": "\"To put it simply... it was telepathy.\"",
+      "text": "\"To put it simply... it was telepathy.\""
+    },
+    {
+      "offset": 8574,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……本当に？　本当に、そんな力を持ってい\n　たのか？」",
+      "en": "\"...Really? You really had such a power?\"",
+      "text": "\"...Really? You really had such a power?\""
+    },
+    {
+      "offset": 8649,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「はい」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 8664,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 8683,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あまりと言えばあまりな話だ。にわかには信じ\nがたい。けど……。",
+      "en": "An honest question, and an honest response. It was hard to\nbelieve that, but...",
+      "text": "An honest question, and an honest response. It was hard to\nbelieve that, but..."
+    },
+    {
+      "offset": 8749,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──和菓子の能力を知っていたのは何故だ？",
+      "en": "--How else could she know about my wagashi power?",
+      "text": "--How else could she know about my wagashi power?"
+    },
+    {
+      "offset": 8794,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頭の片隅から、そんな問いかけが聞こえてくる。",
+      "en": "The question continued to echo around my brain.",
+      "text": "The question continued to echo around my brain."
+    },
+    {
+      "offset": 8845,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（それに……）",
+      "en": "\"(Besides...)\"",
+      "text": "\"(Besides...)\""
+    },
+    {
+      "offset": 8866,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりが、やけに鋭いなと思ったことは、今ま\nでに何度もあった。",
+      "en": "If what she said was true, how many times had she had to\nface unpleasant thoughts?",
+      "text": "If what she said was true, how many times had she had to\nface unpleasant thoughts?"
+    },
+    {
+      "offset": 8932,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鋭い──いや、鋭すぎることが。それこそ、考\nえを読み取っているかのように……。",
+      "en": "The human mind is filthy, and can think up painful -- no,\nbeyond painful -- things that we would never say out loud...",
+      "text": "The human mind is filthy, and can think up painful -- no,\nbeyond painful -- things that we would never say out loud..."
+    },
+    {
+      "offset": 9014,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だから……。",
+      "en": "That's why...",
+      "text": "That's why..."
+    },
+    {
+      "offset": 9033,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「本当のこと……なんだな」",
+      "en": "\"It's really... that way.\"",
+      "text": "\"It's really... that way.\""
+    },
+    {
+      "offset": 9066,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "人の考えが分かってしまう。それが、どんな世\n界なのか、ちょっと想像も付かない。",
+      "en": "She knew what people were thinking. No one on earth could\nimagine a mere human posessing such a power.",
+      "text": "She knew what people were thinking. No one on earth could\nimagine a mere human posessing such a power."
+    },
+    {
+      "offset": 9163,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「私にとっては、その能力は便利でした……」",
+      "en": "\"That power had always been convenient for me...\"",
+      "text": "\"That power had always been convenient for me...\""
+    },
+    {
+      "offset": 9212,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「便利……」",
+      "en": "\"Convenient...\"",
+      "text": "\"Convenient...\""
+    },
+    {
+      "offset": 9244,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「何故って……相手がなにを考えているか、な\n　にを望んでいるかが分かれば、円滑に付き合\n　えるから」",
+      "en": "\"Because... if you know what the other side is thinking,\nwhat the other side wants, the relationship would go\nsmoothly.\"",
+      "text": "\"Because... if you know what the other side is thinking,\nwhat the other side wants, the relationship would go\nsmoothly.\""
+    },
+    {
+      "offset": 9349,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 9381,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「｛・・・・／分かれば｝、楽なんです……とても」",
+      "en": "\"...And when I understood, I could be happy myself.\"",
+      "text": "\"...And when I understood, I could be happy myself.\""
+    },
+    {
+      "offset": 9436,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……分かれば、か」",
+      "en": "\"...When you understood, huh...\"",
+      "text": "\"...When you understood, huh...\""
+    },
+    {
+      "offset": 9479,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつか見た夢の中。あの中で、ことりはなにを\n望んでいた？",
+      "en": "I recalled that dream I saw sometime back. What did Kotori\nwish for in it?",
+      "text": "I recalled that dream I saw sometime back. What did Kotori\nwish for in it?"
+    },
+    {
+      "offset": 9539,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──分かりたい。",
+      "en": "--To understand.",
+      "text": "--To understand."
+    },
+    {
+      "offset": 9560,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりが一心に望んでいたのは、それだったの\nだ。",
+      "en": "Kotori had wished for that wholeheartedly.",
+      "text": "Kotori had wished for that wholeheartedly."
+    },
+    {
+      "offset": 9656,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「私にとっては、本当に、プレゼントみたいな\n　能力だったんです」",
+      "en": "\"That power was really like a great present to me...\"",
+      "text": "\"That power was really like a great present to me...\""
+    },
+    {
+      "offset": 9739,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「家族とも、仲良くなれました」",
+      "en": "\"I easily got close to my family.\"",
+      "text": "\"I easily got close to my family.\""
+    },
+    {
+      "offset": 9789,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「新しいクラスになったって、へっちゃらです」",
+      "en": "\"A new class, and new classmates, were no problem at all.\"",
+      "text": "\"A new class, and new classmates, were no problem at all.\""
+    },
+    {
+      "offset": 9853,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「それに──」",
+      "en": "\"And--\"",
+      "text": "\"And--\""
+    },
+    {
+      "offset": 9887,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「｛・・・・・・・・・・・・・・／本当に私を好きな人が誰なのか｝はっきりと分\n　かるから」",
+      "en": "\"...I knew who were the people who truly loved me for who I\nam.\"",
+      "text": "\"...I knew who were the people who truly loved me for who I\nam.\""
+    },
+    {
+      "offset": 9983,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 10002,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それは、胸の深い部分を｛うず／疼｝かせる表白だった。",
+      "en": "Her confession made something deep inside my chest ache.",
+      "text": "Her confession made something deep inside my chest ache."
+    },
+    {
+      "offset": 10059,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "分かれば安心。裏を返せば、不安。",
+      "en": "When you know, you have peace of mind. On the other hand, if\nyou don't know, you become anxious.",
+      "text": "When you know, you have peace of mind. On the other hand, if\nyou don't know, you become anxious."
+    },
+    {
+      "offset": 10111,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「みっくんが私を好きだって分かるから」",
+      "en": "\"I knew that Mik-kun loved me.\"",
+      "text": "\"I knew that Mik-kun loved me.\""
+    },
+    {
+      "offset": 10169,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ともちゃんが私を好きだって分かるから」",
+      "en": "\"I knew that Tomo-chan loved me.\"",
+      "text": "\"I knew that Tomo-chan loved me.\""
+    },
+    {
+      "offset": 10229,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「朝倉君が私を好きだって……分かるから」",
+      "en": "\"And I knew... that you loved me.\"",
+      "text": "\"And I knew... that you loved me.\""
+    },
+    {
+      "offset": 10276,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 10308,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「だから、私は好きになれるんです。みっくん\n　も、ともちゃんも、朝倉君も」",
+      "en": "\"That's why I could love in return. Mik-kun, Tomo-chan, and\nyou.\"",
+      "text": "\"That's why I could love in return. Mik-kun, Tomo-chan, and\nyou.\""
+    },
+    {
+      "offset": 10388,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だから。だから……か。",
+      "en": "That's why. That's why... huh.",
+      "text": "That's why. That's why... huh."
+    },
+    {
+      "offset": 10430,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「けど……けど、今は……」",
+      "en": "\"But... but now...\"",
+      "text": "\"But... but now...\""
+    },
+    {
+      "offset": 10476,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「分からないんです……」",
+      "en": "\"I don't know anymore...\"",
+      "text": "\"I don't know anymore...\""
+    },
+    {
+      "offset": 10507,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「だから、今は不安なのか？」",
+      "en": "\"And so, you're insecure about it now?\"",
+      "text": "\"And so, you're insecure about it now?\""
+    },
+    {
+      "offset": 10555,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 10574,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「不安がることなんて……ないんだぜ？」",
+      "en": "\"There's not really... anything to be insecure about,\nright?\"",
+      "text": "\"There's not really... anything to be insecure about,\nright?\""
+    },
+    {
+      "offset": 10632,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「昔は、いつも笑うようにしてました」",
+      "en": "\"When I was little, I was always smiling.\"",
+      "text": "\"When I was little, I was always smiling.\""
+    },
+    {
+      "offset": 10675,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 10707,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「嫌われたりしたくなかったんです。だから、\n　泣きたい時も、怒りたい時も笑ってた……」",
+      "en": "\"I didn't want to be disgreeable, didn't want to be a\nbother. So when I felt sad, or felt angry, I just smiled...\"",
+      "text": "\"I didn't want to be disgreeable, didn't want to be a\nbother. So when I felt sad, or felt angry, I just smiled...\""
+    },
+    {
+      "offset": 10799,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「けど、それじゃ分からない」",
+      "en": "\"But then no one would know.\"",
+      "text": "\"But then no one would know.\""
+    },
+    {
+      "offset": 10834,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「怒りたい時には怒って、泣きたい時に泣いて\n　くれなきゃ分かりっこない」",
+      "en": "\"If you don't get angry when you're angry, or cry when\nyou're sad, no one will know either way.\"",
+      "text": "\"If you don't get angry when you're angry, or cry when\nyou're sad, no one will know either way.\""
+    },
+    {
+      "offset": 10912,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「分からないから、お互いに分からなくなる。\n　沼に足を取られたようなもんだ。歩けば歩く\n　ほど、沈み込む」",
+      "en": "\"When that happens, it becomes like a swamp, slowly\nswallowing you with each step you take...\"",
+      "text": "\"When that happens, it becomes like a swamp, slowly\nswallowing you with each step you take...\""
+    },
+    {
+      "offset": 11036,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そう……ですね。そのことには、私も気が付\n　きました──心を読み取る能力で。逆に言え\n　ば、テレパシーがなければ気づけなかった」",
+      "en": "\"You're right... that's when I realized I had the power --\nthe power to read minds. The telepathy I mentioned earlier.\"",
+      "text": "\"You're right... that's when I realized I had the power --\nthe power to read minds. The telepathy I mentioned earlier.\""
+    },
+    {
+      "offset": 11184,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「結局私は、それなしには、なにも乗り越えら\n　れなかったんです……」",
+      "en": "\"In the end, I needed that to get over that phase until...\"",
+      "text": "\"In the end, I needed that to get over that phase until...\""
+    },
+    {
+      "offset": 11258,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「これから、だろう」",
+      "en": "\"Until now.\"",
+      "text": "\"Until now.\""
+    },
+    {
+      "offset": 11285,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "確かに、あの能力は、プレゼントみたいなもの\nだった。だから……。",
+      "en": "That power really was a good present to her. Therefore...",
+      "text": "That power really was a good present to her. Therefore..."
+    },
+    {
+      "offset": 11355,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あるはずのないものが、なくなっただけのこ\n　と。気にしないほうがいい」",
+      "en": "\"When you lost it, of course you were worried about whether\nit'd come back, and what you'd do without it.\"",
+      "text": "\"When you lost it, of course you were worried about whether\nit'd come back, and what you'd do without it.\""
+    },
+    {
+      "offset": 11446,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 11465,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……そのおかげで、これから先、頭痛に悩ま\n　されることもないんだろう？　そりゃ、人の\n　考えが分かるなら、頭も痛くなるよな」",
+      "en": "\"...It was because of that, that you were having headaches\nbefore, right? When you read people's minds, your head\naches?\"",
+      "text": "\"...It was because of that, that you were having headaches\nbefore, right? When you read people's minds, your head\naches?\""
+    },
+    {
+      "offset": 11609,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……そうですね」",
+      "en": "\"...Yes.\"",
+      "text": "\"...Yes.\""
+    },
+    {
+      "offset": 11634,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……ことりは気が付いていたかな？　俺のも\n　う一つの能力に？」",
+      "en": "\"...Did you know that I have another power besides the\nwagashi one?\"",
+      "text": "\"...Did you know that I have another power besides the\nwagashi one?\""
+    },
+    {
+      "offset": 11717,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「なにか……あったみたいですね。内容までは\n　掴めなかったけど……」",
+      "en": "\"No... I wasn't able to see it...\"",
+      "text": "\"No... I wasn't able to see it...\""
+    },
+    {
+      "offset": 11791,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「俺は、他人の夢を覗き見ることが出来た……\n　まあ、テレパシーに似てなくもない」",
+      "en": "\"I'm able to see what other people are dreaming... not very\nsimilar to telepathy, no.\"",
+      "text": "\"I'm able to see what other people are dreaming... not very\nsimilar to telepathy, no.\""
+    },
+    {
+      "offset": 11890,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 11909,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ことりの夢も、見たことがある……けどな」",
+      "en": "\"I've seen your dreams before. But...\"",
+      "text": "\"I've seen your dreams before. But...\""
+    },
+    {
+      "offset": 11958,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そんな能力なくたって、俺はきっと、ことり\n　が好きになっていた」",
+      "en": "\"Even if I didn't have that power, I would still have fell\nin love with you.\"",
+      "text": "\"Even if I didn't have that power, I would still have fell\nin love with you.\""
+    },
+    {
+      "offset": 12030,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「好きだから好きなんだ。理由はあったんだろ\n　うけど、裏付けは必要なかった」",
+      "en": "\"Love is love. There's no need for reason or proof for it to\nexist.\"",
+      "text": "\"Love is love. There's no need for reason or proof for it to\nexist.\""
+    },
+    {
+      "offset": 12125,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……裏付け？」",
+      "en": "\"...Proof?\"",
+      "text": "\"...Proof?\""
+    },
+    {
+      "offset": 12148,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……ことりさ。何で、歌が好きじゃないなん\n　て、そんな嘘つくんだ？」",
+      "en": "\"...Kotori. You were lying when you said you didn't like\nsinging, weren't you?\"",
+      "text": "\"...Kotori. You were lying when you said you didn't like\nsinging, weren't you?\""
+    },
+    {
+      "offset": 12237,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……嘘？」",
+      "en": "\"...Lying?\"",
+      "text": "\"...Lying?\""
+    },
+    {
+      "offset": 12256,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「嘘なんだろ？」",
+      "en": "\"Wasn't it a lie?\"",
+      "text": "\"Wasn't it a lie?\""
+    },
+    {
+      "offset": 12292,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……違う。私は、ほんとに歌なんて……」",
+      "en": "\"...No. I really don't like to sing...\"",
+      "text": "\"...No. I really don't like to sing...\""
+    },
+    {
+      "offset": 12339,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「本当に、テレパシーから一時逃れるためだけ\n　に、歌ってたのか？」",
+      "en": "\"You really only sang in order to escape telepathy for a\nshort while?\"",
+      "text": "\"You really only sang in order to escape telepathy for a\nshort while?\""
+    },
+    {
+      "offset": 12424,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「う、うん……本当に……」",
+      "en": "\"Y, yes... really...\"",
+      "text": "\"Y, yes... really...\""
+    },
+    {
+      "offset": 12457,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「好きでもない人間が、どうしてそこまで没入\n　出来るんだよ？」",
+      "en": "\"Why would people get so absorbed into something that they\ndon't like to do?\"",
+      "text": "\"Why would people get so absorbed into something that they\ndon't like to do?\""
+    },
+    {
+      "offset": 12525,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は一つ息をついた。",
+      "en": "I took a large breath.",
+      "text": "I took a large breath."
+    },
+    {
+      "offset": 12550,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "枯れてしまった桜は、どうしても物悲しい。",
+      "en": "It's always sad to see sakura petals wither away.",
+      "text": "It's always sad to see sakura petals wither away."
+    },
+    {
+      "offset": 12595,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "けれど、これが当たり前だった。",
+      "en": "But that is nature's ordinary path.",
+      "text": "But that is nature's ordinary path."
+    },
+    {
+      "offset": 12630,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "枯れるのが当たり前なのに、俺達は、当たり前\nじゃない状況に慣れてしまっていた。",
+      "en": "When the sakura petals followed it's ordinary path and\nwilted, we experienced extraordinary situations ourselves.",
+      "text": "When the sakura petals followed it's ordinary path and\nwilted, we experienced extraordinary situations ourselves."
+    },
+    {
+      "offset": 12712,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう、それは、ただの慣れ。失った反動は強い\nかもしれないけれど、再び、慣れるだけだ。",
+      "en": "That is experience. When we lose something the first time,\nthe reaction may be strong, but we become accustomed to it\nwith time.",
+      "text": "That is experience. When we lose something the first time,\nthe reaction may be strong, but we become accustomed to it\nwith time."
+    },
+    {
+      "offset": 12800,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そしてそれは、そんなに難しいことじゃない。",
+      "en": "It isn't a hard thing to understand.",
+      "text": "It isn't a hard thing to understand."
+    },
+    {
+      "offset": 12847,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "当たり前のことなんだから。",
+      "en": "It's normal, after all.",
+      "text": "It's normal, after all."
+    },
+    {
+      "offset": 12880,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「これは俺の当て推量だ。ことりの夢を覗き見\n　て言うわけじゃない」",
+      "en": "\"This is the conclusion I've come to.\"",
+      "text": "\"This is the conclusion I've come to.\""
+    },
+    {
+      "offset": 12952,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……ことりは、裏付けが欲しかったんじゃな\n　いのか？」",
+      "en": "\"...Kotori, you want proof, don't you?\"",
+      "text": "\"...Kotori, you want proof, don't you?\""
+    },
+    {
+      "offset": 13014,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「自分を好きだっていう裏付けがあって、初め\n　て相手を好きになれる」",
+      "en": "\"Proof that you love someone, proof that that someone loves\nyou.\"",
+      "text": "\"Proof that you love someone, proof that that someone loves\nyou.\""
+    },
+    {
+      "offset": 13088,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「本当は、そんな裏付けなんて得られるはずな\n　いのに、ことりはそれが当たり前になってし\n　まった。慣れてしまったんだ」",
+      "en": "\"Although there's normally no way to get that proof, for\nyou, it came naturally. You became used to it.\"",
+      "text": "\"Although there's normally no way to get that proof, for\nyou, it came naturally. You became used to it.\""
+    },
+    {
+      "offset": 13224,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 13243,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「なあ、ことり……」",
+      "en": "\"Kotori...\"",
+      "text": "\"Kotori...\""
+    },
+    {
+      "offset": 13270,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ことりが歌を歌い始めたのって、お母さんの\n　勧めなんだってな」",
+      "en": "\"The first time you started singing, was when your mom\nadvised you to do so, right?\"",
+      "text": "\"The first time you started singing, was when your mom\nadvised you to do so, right?\""
+    },
+    {
+      "offset": 13353,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「うん、そう……お母さんが……お母さんが、\n　聖歌隊に入らないかって」",
+      "en": "\"Y, yes... mother... mother was never able to enter a choir\nherself.\"",
+      "text": "\"Y, yes... mother... mother was never able to enter a choir\nherself.\""
+    },
+    {
+      "offset": 13442,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「別に入りたくなかったけど……私は、え、笑\n　顔でうなずいて……」",
+      "en": "\"I didn't really want to, but... I just smiled and\nnodded...\"",
+      "text": "\"I didn't really want to, but... I just smiled and\nnodded...\""
+    },
+    {
+      "offset": 13514,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「だから、なおさらだったんだな。きっと」",
+      "en": "\"Then that's even more the case, definitely.\"",
+      "text": "\"Then that's even more the case, definitely.\""
+    },
+    {
+      "offset": 13561,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ことりが歌を好きな気持ちに、裏付けなんか\n　どこにもなかったんだ」",
+      "en": "\"Your love of singing simply didn't have any proof to it.\"",
+      "text": "\"Your love of singing simply didn't have any proof to it.\""
+    },
+    {
+      "offset": 13648,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ど、どこにも……？」",
+      "en": "\"D, didn't have...?\"",
+      "text": "\"D, didn't have...?\""
+    },
+    {
+      "offset": 13677,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「けど、ことりにはそれが不安だった。ことり\n　が好きなものには、いつだって裏付けがあっ\n　た。だから……」",
+      "en": "\"However, that made you uncertain. You've always had proof\nof the things you like. That's why...\"",
+      "text": "\"However, that made you uncertain. You've always had proof\nof the things you like. That's why...\""
+    },
+    {
+      "offset": 13801,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「う、歌が嫌いだって……？　そう、思いこん\n　だの……？」",
+      "en": "\"I, I hate singing...? Don't I think that...?\"",
+      "text": "\"I, I hate singing...? Don't I think that...?\""
+    },
+    {
+      "offset": 13865,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ほんとに好きだったら、裏付けなんて必要な\n　い」",
+      "en": "\"If you really like something, there's no need of proof for\nit.\"",
+      "text": "\"If you really like something, there's no need of proof for\nit.\""
+    },
+    {
+      "offset": 13955,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「わ、私……私は……！」",
+      "en": "\"I, I...!\"",
+      "text": "\"I, I...!\""
+    },
+    {
+      "offset": 13986,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「誰かを好きになったって、どこにも保証はな\n　いんだよ、ことり」",
+      "en": "\"There's no magical warranty that tells you what people\nlike, Kotori.\"",
+      "text": "\"There's no magical warranty that tells you what people\nlike, Kotori.\""
+    },
+    {
+      "offset": 14069,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「うっ、ううっ……」",
+      "en": "\"uuhh, uuuuuhh...\"",
+      "text": "\"uuhh, uuuuuhh...\""
+    },
+    {
+      "offset": 14096,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「それが、当たり前なんだ」",
+      "en": "\"That's normal.\"",
+      "text": "\"That's normal.\""
+    },
+    {
+      "offset": 14129,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そんな当たり前の世界で、俺達は、好きだの\n　愛してるだのやっていかなくちゃならないん\n　だよ」",
+      "en": "\"In this normal world, we still choose to like and love what\nwe feel we should.\"",
+      "text": "\"In this normal world, we still choose to like and love what\nwe feel we should.\""
+    },
+    {
+      "offset": 14243,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ふっ、不安だよ……そっ、そんなの……！」",
+      "en": "\"B, but that's so... uncertain...!\"",
+      "text": "\"B, but that's so... uncertain...!\""
+    },
+    {
+      "offset": 14292,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ああ、不安だな」",
+      "en": "\"Yes, it's uncertain.\"",
+      "text": "\"Yes, it's uncertain.\""
+    },
+    {
+      "offset": 14317,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「でも、テレパシーなんかなくたって、夢を覗\n　き見なくたって、気持ちは通じ合える」",
+      "en": "\"But because we don't have telepathy, we can't see each\nother's dreams, all we can do is communicate our feelings.\"",
+      "text": "\"But because we don't have telepathy, we can't see each\nother's dreams, all we can do is communicate our feelings.\""
+    },
+    {
+      "offset": 14405,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「きっと、分かり合える」",
+      "en": "\"And that way, we'd surely know.\"",
+      "text": "\"And that way, we'd surely know.\""
+    },
+    {
+      "offset": 14449,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「わ、私なんか……私には、そんなの……こっ、\n　怖くて……苦しくて……だから……」",
+      "en": "\"I, I can't... do that... it's so... scary... and\npainful...\"",
+      "text": "\"I, I can't... do that... it's so... scary... and\npainful...\""
+    },
+    {
+      "offset": 14537,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……ふう。仕方ないな」",
+      "en": "\"...Hm. Guess I have no other choice.\"",
+      "text": "\"...Hm. Guess I have no other choice.\""
+    },
+    {
+      "offset": 14581,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「えっ？」",
+      "en": "\"Eh?\"",
+      "text": "\"Eh?\""
+    },
+    {
+      "offset": 14598,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「口で言って分からないんなら……」",
+      "en": "\"If you can't understand from my words...\"",
+      "text": "\"If you can't understand from my words...\""
+    },
+    {
+      "offset": 14701,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「んっ……」",
+      "en": "\"Uhn...\"",
+      "text": "\"Uhn...\""
+    },
+    {
+      "offset": 14733,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「んんっ……！」",
+      "en": "\"Uhnnn...!\"",
+      "text": "\"Uhnnn...!\""
+    },
+    {
+      "offset": 14769,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 14801,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「はあ、はあ……」",
+      "en": "\"Hah, hah...\"",
+      "text": "\"Hah, hah...\""
+    },
+    {
+      "offset": 14826,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「心も見えなくなった」",
+      "en": "\"You can't read my mind.\"",
+      "text": "\"You can't read my mind.\""
+    },
+    {
+      "offset": 14855,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「口でも分からない……だったら、これしかな\n　いな」",
+      "en": "\"And you can't understand my words... then I had to show you\nby actions.\"",
+      "text": "\"And you can't understand my words... then I had to show you\nby actions.\""
+    },
+    {
+      "offset": 14926,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「朝倉君……」",
+      "en": "\"Asakura-kun...\"",
+      "text": "\"Asakura-kun...\""
+    },
+    {
+      "offset": 14947,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ことりの不安は確かに分かるよ。今までずっ\n　と頼ってきた能力だもんな」",
+      "en": "\"I understand your anxiousness. You've always had that power\nto rely on.\"",
+      "text": "\"I understand your anxiousness. You've always had that power\nto rely on.\""
+    },
+    {
+      "offset": 15025,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「けど、絶対に大丈夫。慣れだよ、慣れ。そん\n　な、深刻に考えることはない」",
+      "en": "\"But you'd be fine. Experience it all, experience. There's\nno need to think so deeply about it.\"",
+      "text": "\"But you'd be fine. Experience it all, experience. There's\nno need to think so deeply about it.\""
+    },
+    {
+      "offset": 15105,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「当たり前に不安な世界で、けどことりは独り\n　じゃない」",
+      "en": "\"It's a normal and uneasy world, but you're not alone in\nit.\"",
+      "text": "\"It's a normal and uneasy world, but you're not alone in\nit.\""
+    },
+    {
+      "offset": 15167,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「俺が居る。家族が居る。親友だって居るだ\n　ろ？　裏付けなんて必要ない。問答無用で\n　ことりが好きな連中だ。だろ？」",
+      "en": "\"I'm here, your family is here. You have your best friends\nas well. There's no need for proof, they're all people who\nlove you.\"",
+      "text": "\"I'm here, your family is here. You have your best friends\nas well. There's no need for proof, they're all people who\nlove you.\""
+    },
+    {
+      "offset": 15301,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「うん……うんっ……」",
+      "en": "\"Y, yeah... yes...\"",
+      "text": "\"Y, yeah... yes...\""
+    },
+    {
+      "offset": 15330,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「よしっ。いい笑顔だ。本物の、ことりの笑顔\n　だな」",
+      "en": "\"Good, that's a good smile. That's the smile of the real\nKotori.\"",
+      "text": "\"Good, that's a good smile. That's the smile of the real\nKotori.\""
+    },
+    {
+      "offset": 15388,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "指先で涙を拭う。下から表れたのは、心からの\n笑顔だ。",
+      "en": "I wiped away her tears, seeing her smile from the bottom of\nher heart.",
+      "text": "I wiped away her tears, seeing her smile from the bottom of\nher heart."
+    },
+    {
+      "offset": 15444,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そこに裏付けはない。けれど、俺はそう信じる。",
+      "en": "I may not have proof that she was doing so. But I believe\nit.",
+      "text": "I may not have proof that she was doing so. But I believe\nit."
+    },
+    {
+      "offset": 15495,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「んじゃ、行くか。長々と喋ってたからな……。\n　ちょっと、急がねえと」",
+      "en": "\"Anyway, let's go. We talked for a long time... we'd have to\nhurry a little now.\"",
+      "text": "\"Anyway, let's go. We talked for a long time... we'd have to\nhurry a little now.\""
+    },
+    {
+      "offset": 15592,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりの手を引く。ことりはよろよろと歩みだ\nした。",
+      "en": "I took Kotori's hand. She started tottering unsteadily.",
+      "text": "I took Kotori's hand. She started tottering unsteadily."
+    },
+    {
+      "offset": 15646,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頼りない第一歩。けれど、第一歩には違いない。",
+      "en": "She uncertainly took a step. But no matter how unsteady, it\nwas her first step.",
+      "text": "She uncertainly took a step. But no matter how unsteady, it\nwas her first step."
+    },
+    {
+      "offset": 15710,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「い、行くってどこに？」",
+      "en": "\"G, go where?\"",
+      "text": "\"G, go where?\""
+    },
+    {
+      "offset": 15741,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「決まってる。式場だ……暦先生に、歌を歌っ\n　てあげるんだろ？」",
+      "en": "\"The wedding ceremony, of course... You have to sing your\nsong for Koyomi-sensei, right?\"",
+      "text": "\"The wedding ceremony, of course... You have to sing your\nsong for Koyomi-sensei, right?\""
+    },
+    {
+      "offset": 15824,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「う、うん……けど、時間が……」",
+      "en": "\"Y, yeah... but the time...\"",
+      "text": "\"Y, yeah... but the time...\""
+    },
+    {
+      "offset": 15863,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「時間が足りないだって？　いいかあ、ことり」",
+      "en": "\"There's not enough time? It's fine, Kotori.\"",
+      "text": "\"There's not enough time? It's fine, Kotori.\""
+    },
+    {
+      "offset": 15914,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "徐々にスピードを上げていく。たったったと、\nふたりの足音がユニゾンを奏でる。",
+      "en": "I gradually increased our speed. Our footsteps, pounding\nonto the ground, were in unison.",
+      "text": "I gradually increased our speed. Our footsteps, pounding\nonto the ground, were in unison."
+    },
+    {
+      "offset": 15996,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「間に合うか間に合わないか、確かに分からな\n　い。けどな……」",
+      "en": "\"Whether we'd make it in time or not, I don't know. But...\"",
+      "text": "\"Whether we'd make it in time or not, I don't know. But...\""
+    },
+    {
+      "offset": 16064,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「──そんな裏付けはいらないんだよっ！」",
+      "en": "\"--There's no need for proof like that!\"",
+      "text": "\"--There's no need for proof like that!\""
+    },
+    {
+      "offset": 16111,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふたりが歩んでいくのに、そんなもの必要ない。",
+      "en": "As long as we're walking together like this, something like\nthat isn't needed.",
+      "text": "As long as we're walking together like this, something like\nthat isn't needed."
+    },
+    {
+      "offset": 16162,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……だろう？　ことり」",
+      "en": "\"...Right, Kotori?\"",
+      "text": "\"...Right, Kotori?\""
+    },
+    {
+      "offset": 16227,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「うんっ！」",
+      "en": "\"Yes!!\"",
+      "text": "\"Yes!!\""
+    },
+    {
+      "offset": 16364,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆ことりの心◆",
+      "en": "◆Kotori's Heart◆",
+      "text": "◆Kotori's Heart◆"
+    },
+    {
+      "offset": 16411,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暦先生から電話がかかってきた。話を聞くと朝\nからことりの姿が見えないらしい。",
+      "en": "Koyomi-sensei called my cell phone. She told me that she\nhadn't seen Kotori all morning.",
+      "text": "Koyomi-sensei called my cell phone. She told me that she\nhadn't seen Kotori all morning."
+    },
+    {
+      "offset": 16491,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日は先生の結婚式だって言うのに……。",
+      "en": "Today was her wedding ceremony too...",
+      "text": "Today was her wedding ceremony too..."
+    },
+    {
+      "offset": 16534,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暦先生には似合わない、弱々しげな声に俺は、\nことりを結婚式場に連れて行くことを約束する。",
+      "en": "Koyomi-sensei was different from usual. At the sound of her\nweak voice, I promised to bring Kotori to the wedding\nceremony location myself.",
+      "text": "Koyomi-sensei was different from usual. At the sound of her\nweak voice, I promised to bring Kotori to the wedding\nceremony location myself."
+    },
+    {
+      "offset": 16657,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "桜公園――いつもと変わらない、いつまでも聴\nき惚れていたいようなことりの歌声が響いてい\nた。",
+      "en": "Sakura Park -- as always, the same. I followed Kotori's\nsinging voice, the one I fell in love with every time I\nheard it.",
+      "text": "Sakura Park -- as always, the same. I followed Kotori's\nsinging voice, the one I fell in love with every time I\nheard it."
+    },
+    {
+      "offset": 16752,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "けれど、ことりが歌う場所はここじゃない。",
+      "en": "But this isn't where she should be singing.",
+      "text": "But this isn't where she should be singing."
+    },
+    {
+      "offset": 16797,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "背中越しにことりの告白を聞く。ことりの能力、\n人の心を読む力のことを……。",
+      "en": "With the tree trunk seperating our backs, Kotori confessed\neverything to me. Kotori's power was the ability to read\npeople's minds...",
+      "text": "With the tree trunk seperating our backs, Kotori confessed\neverything to me. Kotori's power was the ability to read\npeople's minds..."
+    },
+    {
+      "offset": 16875,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "人の心が読めないと不安だよと泣くことりに、俺\nはキスをした。",
+      "en": "She started crying at the insecurity of it all, but I kissed\nher.",
+      "text": "She started crying at the insecurity of it all, but I kissed\nher."
+    },
+    {
+      "offset": 16939,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "心が読めなくても気持ちは通じ合えることを、\nほんとに好きだったら裏付けなんて必要ないこ\nとを教えるために。",
+      "en": "In order to teach her that since she couldn't tell by\nreading my mind anymore, there's no need for proof that\npeople really love each other.",
+      "text": "In order to teach her that since she couldn't tell by\nreading my mind anymore, there's no need for proof that\npeople really love each other."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "337": "Koyomi",
+    "478": "Koyomi",
+    "686": "Koyomi",
+    "753": "Koyomi",
+    "1026": "Koyomi",
+    "1117": "Koyomi",
+    "1375": "Koyomi",
+    "1474": "Koyomi",
+    "1596": "Koyomi",
+    "1815": "Koyomi",
+    "1931": "Koyomi",
+    "2099": "Koyomi",
+    "2215": "Koyomi",
+    "2300": "Koyomi",
+    "2552": "Mik-kun",
+    "2670": "Kotori",
+    "2863": "Kotori",
+    "2975": "Kotori",
+    "3024": "Kotori",
+    "3146": "Kotori",
+    "3312": "Kotori",
+    "3425": "Kotori",
+    "3559": "Kotori",
+    "3715": "Kotori",
+    "3854": "Kotori",
+    "3950": "Kotori",
+    "4055": "Kotori",
+    "4202": "Kotori",
+    "4270": "Kotori",
+    "4513": "Koyomi",
+    "4641": "Koyomi",
+    "4712": "Koyomi",
+    "5004": "Koyomi",
+    "5089": "Koyomi",
+    "5117": "Koyomi",
+    "5223": "Koyomi",
+    "5334": "Koyomi",
+    "5415": "Koyomi",
+    "5756": "Koyomi",
+    "5825": "Koyomi",
+    "5933": "Koyomi",
+    "5961": "Koyomi",
+    "6492": "Kotori",
+    "6587": "Kotori",
+    "6742": "Kotori",
+    "7005": "Kotori",
+    "7119": "Kotori",
+    "7213": "Kotori",
+    "7286": "Kotori",
+    "7381": "Kotori",
+    "7419": "Kotori",
+    "7502": "Kotori",
+    "7657": "Kotori",
+    "7689": "Kotori",
+    "7745": "Kotori",
+    "7855": "Kotori",
+    "7922": "Kotori",
+    "8012": "Kotori",
+    "8159": "Kotori",
+    "8332": "Kotori",
+    "8390": "Kotori",
+    "8500": "Kotori",
+    "8639": "Kotori",
+    "9153": "Kotori",
+    "9234": "Kotori",
+    "9371": "Kotori",
+    "9646": "Kotori",
+    "9729": "Kotori",
+    "9779": "Kotori",
+    "9843": "Kotori",
+    "9877": "Kotori",
+    "10101": "Kotori",
+    "10159": "Kotori",
+    "10219": "Kotori",
+    "10298": "Kotori",
+    "10420": "Kotori",
+    "10466": "Kotori",
+    "10545": "Kotori",
+    "10622": "Kotori",
+    "10697": "Kotori",
+    "11026": "Kotori",
+    "11174": "Kotori",
+    "11436": "Kotori",
+    "11599": "Kotori",
+    "11707": "Kotori",
+    "11880": "Kotori",
+    "12115": "Kotori",
+    "12227": "Kotori",
+    "12282": "Kotori",
+    "12414": "Kotori",
+    "13214": "Kotori",
+    "13343": "Kotori",
+    "13432": "Kotori",
+    "13638": "Kotori",
+    "13791": "Kotori",
+    "13945": "Kotori",
+    "14059": "Kotori",
+    "14233": "Kotori",
+    "14439": "Kotori",
+    "14571": "Kotori",
+    "14691": "Kotori",
+    "14723": "Kotori",
+    "14759": "Kotori",
+    "14791": "Kotori",
+    "14916": "Kotori",
+    "15291": "Kotori",
+    "15700": "Kotori",
+    "15814": "Kotori",
+    "16217": "Kotori"
+  }
+}

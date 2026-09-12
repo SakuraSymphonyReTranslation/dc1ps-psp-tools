@@ -1,0 +1,974 @@
+{
+  "scene": "script_0204.obj",
+  "dialogues": [
+    {
+      "offset": 217,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さて、と。今日の昼飯は何にするか」",
+      "en": "\"Come on! Pull yourself together! Let's go to another room.\"",
+      "text": "\"Come on! Pull yourself together! Let's go to another room.\""
+    },
+    {
+      "offset": 260,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "んーと大きく伸びをしながら、これからのこと\nを考える。",
+      "en": "Koyomi-sensei pulls me by the sleeve.",
+      "text": "Koyomi-sensei pulls me by the sleeve."
+    },
+    {
+      "offset": 318,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "例によって、杉並やら工藤やらと食堂にいくの\nが妥当なところかな。",
+      "en": "\"What about the class?\"",
+      "text": "\"What about the class?\""
+    },
+    {
+      "offset": 388,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おーい、杉――」",
+      "en": "\"Don't worry. It'll only take 5 minutes.\"",
+      "text": "\"Don't worry. It'll only take 5 minutes.\""
+    },
+    {
+      "offset": 413,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と呼びかけた瞬間。",
+      "en": "At the biology preparation room, I told her about what\nhappened yesterday.",
+      "text": "At the biology preparation room, I told her about what\nhappened yesterday."
+    },
+    {
+      "offset": 449,
+      "speaker": "Koyomi",
+      "speaker_jp": "美春",
+      "jp": "「せんぱ〜い、朝倉先輩」",
+      "en": "\"I wouldn't worry too much if it's only your sister that\nfound out.\"",
+      "text": "\"I wouldn't worry too much if it's only your sister that\nfound out.\""
+    },
+    {
+      "offset": 480,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "み、美春？",
+      "en": "\"She said she wouldn't tell anyone about it.\"",
+      "text": "\"She said she wouldn't tell anyone about it.\""
+    },
+    {
+      "offset": 530,
+      "speaker": "Koyomi",
+      "speaker_jp": "杉並",
+      "jp": "「おーい、朝倉。｛・・・／わんこ｝が来てるぞ」",
+      "en": "\"I guess it was a mistake to put her coil spring in her\nback. That makes it difficult to wind her up in public,\nhuh?\"",
+      "text": "\"I guess it was a mistake to put her coil spring in her\nback. That makes it difficult to wind her up in public,\nhuh?\""
+    },
+    {
+      "offset": 583,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ドアのところで、美春がぶんぶんと手を振って\nいた。",
+      "en": "Koyomi-sensei types something up on a computer keyboard and\nlooks at me.",
+      "text": "Koyomi-sensei types something up on a computer keyboard and\nlooks at me."
+    },
+    {
+      "offset": 659,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「先輩、お昼一緒に食べましょう！」",
+      "en": "\"You've got to be more careful. You've got to remember, that\ngirl is Top Secret.\"",
+      "text": "\"You've got to be more careful. You've got to remember, that\ngirl is Top Secret.\""
+    },
+    {
+      "offset": 700,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「え、ああ。今行く」",
+      "en": "\"Yes, I understand.\"",
+      "text": "\"Yes, I understand.\""
+    },
+    {
+      "offset": 727,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "席を立って、すたすたと入り口を目指す。",
+      "en": "I wouldn't think anyone can find out about Miharu's true\nidentity. She looks like nothing but a human.",
+      "text": "I wouldn't think anyone can find out about Miharu's true\nidentity. She looks like nothing but a human."
+    },
+    {
+      "offset": 805,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「おい」",
+      "en": "People do believe that she's the real Miharu.",
+      "text": "People do believe that she's the real Miharu."
+    },
+    {
+      "offset": 820,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並が小声で俺を呼び止める。",
+      "en": "Even her close friends can't tell.",
+      "text": "Even her close friends can't tell."
+    },
+    {
+      "offset": 866,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「おまえ、いったい、いつから風紀委員に魂を\n　売ったんだ？」",
+      "en": "It was after school.",
+      "text": "It was after school."
+    },
+    {
+      "offset": 932,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「はあっ？」",
+      "en": "I'd been taking Miharu home lately, so I didn't hang out\nwith my friends any more.",
+      "text": "I'd been taking Miharu home lately, so I didn't hang out\nwith my friends any more."
+    },
+    {
+      "offset": 962,
+      "speaker": "Nemu",
+      "speaker_jp": "杉並",
+      "jp": "「知っているぞ。わんこは料理が上手いんだろ。\n　お手製の弁当ひとつで風紀委員に寝返るとは、\n　恥を知れ、それでも同志か」",
+      "en": "But I enjoyed being with Miharu. So there was nothing to\ncomplain about.",
+      "text": "But I enjoyed being with Miharu. So there was nothing to\ncomplain about."
+    },
+    {
+      "offset": 1087,
+      "speaker": "Nemu",
+      "speaker_jp": "杉並",
+      "jp": "「おまえと同志になった覚えはないぞ」",
+      "en": "\"Hey, niisan. What are you smiling at? You're not thinking\nof something nasty, are you?\"",
+      "text": "\"Hey, niisan. What are you smiling at? You're not thinking\nof something nasty, are you?\""
+    },
+    {
+      "offset": 1190,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "オーバーリアクションで驚いている杉並をほっ\nといて、美春の所に歩いていく。",
+      "en": "\"Oh, it's you...\"",
+      "text": "\"Oh, it's you...\""
+    },
+    {
+      "offset": 1268,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "寝返ったわけではないが、美春の弁当はかなり\n魅力的だ。",
+      "en": "I turned around as I heard the voice behind me. It was Nemu,\nstanding there.",
+      "text": "I turned around as I heard the voice behind me. It was Nemu,\nstanding there."
+    },
+    {
+      "offset": 1326,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "以前、時々だが、美春はお手製のお弁当を持っ\nてきて一緒に食べることがあった。",
+      "en": "\"Why me? Why don't you go buy it? You'll just watch TV at\nhome, right?\"",
+      "text": "\"Why me? Why don't you go buy it? You'll just watch TV at\nhome, right?\""
+    },
+    {
+      "offset": 1406,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並の言うとおり、美春の料理の腕前はかなり\nのものだ。",
+      "en": "My God! Doesn't she know how busy I am having to take Miharu\nhome?",
+      "text": "My God! Doesn't she know how busy I am having to take Miharu\nhome?"
+    },
+    {
+      "offset": 1464,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "期待しないわけがない。",
+      "en": "But, I guess Nemu wouldn't care.",
+      "text": "But, I guess Nemu wouldn't care."
+    },
+    {
+      "offset": 1546,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どこへ行く？　やっぱ中庭？」",
+      "en": "\"All right. How about we decide by rock-paper-scissors?\"",
+      "text": "\"All right. How about we decide by rock-paper-scissors?\""
+    },
+    {
+      "offset": 1594,
+      "speaker": "Nemu",
+      "speaker_jp": "美春",
+      "jp": "「中庭？　中庭が食堂なんですか？」",
+      "en": "\"Okay, sure!\"",
+      "text": "\"Okay, sure!\""
+    },
+    {
+      "offset": 1701,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日の美春は手ぶらだった。",
+      "en": "\"Ready? Rock-paper-scissors!\"",
+      "text": "\"Ready? Rock-paper-scissors!\""
+    },
+    {
+      "offset": 1762,
+      "speaker": "Nemu",
+      "speaker_jp": "美春",
+      "jp": "「お弁当なんてないですよー」",
+      "en": "\"Rock!\"",
+      "text": "\"Rock!\""
+    },
+    {
+      "offset": 1820,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一瞬、気が遠くなりかける。",
+      "en": "Heh heh... I played paper. I did mine after reading her\nlips. I know it's a little tricky, but this is how you win\nin the battlefield.",
+      "text": "Heh heh... I played paper. I did mine after reading her\nlips. I know it's a little tricky, but this is how you win\nin the battlefield."
+    },
+    {
+      "offset": 1853,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「くそー。いつもならお重を作ってくるくせに」",
+      "en": "What?! -- Maybe not.",
+      "text": "What?! -- Maybe not."
+    },
+    {
+      "offset": 1932,
+      "speaker": "Nemu",
+      "speaker_jp": "美春",
+      "jp": "「……本物の美春さんは料理がとても上手だっ\n　たと聞いていますが、美春は残念ながらそこ\n　まではできません」",
+      "en": "\"Yeah! I won! I know exactly what you were thinking,\nniisan.\"",
+      "text": "\"Yeah! I won! I know exactly what you were thinking,\nniisan.\""
+    },
+    {
+      "offset": 2045,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、言われてみれば、そのとおりだ。料理は\n練習して、経験積んでなんぼだもんな。",
+      "en": "Nemu played scissors instead.",
+      "text": "Nemu played scissors instead."
+    },
+    {
+      "offset": 2129,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あくまで、この子は｛・・／美春｝ではないんだ。その実\n感が湧いてきた。",
+      "en": "\"God! What a sleazy trick!\"",
+      "text": "\"God! What a sleazy trick!\""
+    },
+    {
+      "offset": 2244,
+      "speaker": "Nemu",
+      "speaker_jp": "美春",
+      "jp": "「それに、食券を買ってみたくて」",
+      "en": "\"Look who's talking. Have fun shopping!\"",
+      "text": "\"Look who's talking. Have fun shopping!\""
+    },
+    {
+      "offset": 2283,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春は嬉しそうに組んだ指をわきわきと動かす。",
+      "en": "\"Damn......\"",
+      "text": "\"Damn......\""
+    },
+    {
+      "offset": 2332,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ボタンと見れば、何でも押したい年頃らしい。",
+      "en": "I completely lost the battle.",
+      "text": "I completely lost the battle."
+    },
+    {
+      "offset": 2381,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「わかった。じゃあ、行くか」",
+      "en": "As I'm making my way to the biology preparation room to meet\nMiharu, I'm comforting myself like a poor, defeated warrior.",
+      "text": "As I'm making my way to the biology preparation room to meet\nMiharu, I'm comforting myself like a poor, defeated warrior."
+    },
+    {
+      "offset": 2425,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちょっとだけ、美春のうまいお手製弁当を期待\nしてしまったが、希望は｛はかな／儚｝くも露と消えた。",
+      "en": "\"Asakura-sempai! Let's go home!\"",
+      "text": "\"Asakura-sempai! Let's go home!\""
+    },
+    {
+      "offset": 2562,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どきどきどきどき。",
+      "en": "Well, now I didn't have to -- Miharu walked up to me\ninstead.",
+      "text": "Well, now I didn't have to -- Miharu walked up to me\ninstead."
+    },
+    {
+      "offset": 2587,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「何やってんだ？」",
+      "en": "\"Hi, Nyamu-sempai! How's it going?\"",
+      "text": "\"Hi, Nyamu-sempai! How's it going?\""
+    },
+    {
+      "offset": 2645,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「いや、ちょっと指が震えて」",
+      "en": "\"Can you come with us to eat some chocolate bananas today?\nOr maybe banana parfait.\"",
+      "text": "\"Can you come with us to eat some chocolate bananas today?\nOr maybe banana parfait.\""
+    },
+    {
+      "offset": 2680,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どきどきどきどき、どきどきどきどき。",
+      "en": "\"With a friend?\"",
+      "text": "\"With a friend?\""
+    },
+    {
+      "offset": 2723,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お金使ったことないとか？」",
+      "en": "Nemu ran out of the classroom.",
+      "text": "Nemu ran out of the classroom."
+    },
+    {
+      "offset": 2786,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「そ、そうなんですよ。ほら、バスは定期だし」",
+      "en": "\"I was really hoping to eat chocolate bananas with\nNyamu-sempai today...\"",
+      "text": "\"I was really hoping to eat chocolate bananas with\nNyamu-sempai today...\""
+    },
+    {
+      "offset": 2837,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「じゃあ、俺が入れるよ。何食う？」",
+      "en": "Miharu's shoulders drooped.",
+      "text": "Miharu's shoulders drooped."
+    },
+    {
+      "offset": 2906,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ダメーッ！　美春がやるんですってば！」",
+      "en": "\"I kind of feel abandoned. Is this some type of a new\nsadistic technique?\"",
+      "text": "\"I kind of feel abandoned. Is this some type of a new\nsadistic technique?\""
+    },
+    {
+      "offset": 2953,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "財布を出そうとポケットに入れた手が、美春に\nよって押さえつけられる。",
+      "en": "\"Knock it off.\"",
+      "text": "\"Knock it off.\""
+    },
+    {
+      "offset": 3055,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ええと、この紙でいいんですよね？」",
+      "en": "\"Well, it's only you and me then. Let's go.\"",
+      "text": "\"Well, it's only you and me then. Let's go.\""
+    },
+    {
+      "offset": 3098,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「それは泣く子も黙る壱万円札だって。もっと\n　細かいのないのか」",
+      "en": "\"Really?\"",
+      "text": "\"Really?\""
+    },
+    {
+      "offset": 3168,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちらりと見ると、万札が一枚、二枚……。俺の\n財布が全力を出しても勝ち目はない。",
+      "en": "\"She sure did.\"",
+      "text": "\"She sure did.\""
+    },
+    {
+      "offset": 3250,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まさか、財力でロボットに負けるとは……。",
+      "en": "I'm pretty positive because it was just a minute ago --after\nI lost that battle with Nemu. A humiliating defeat for me--\nhow can I forget?",
+      "text": "I'm pretty positive because it was just a minute ago --after\nI lost that battle with Nemu. A humiliating defeat for me--\nhow can I forget?"
+    },
+    {
+      "offset": 3325,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「これが、５００円玉で、こっちが１００円玉」",
+      "en": "\"Nyamu-sempai is avoiding me, isn't she?\"",
+      "text": "\"Nyamu-sempai is avoiding me, isn't she?\""
+    },
+    {
+      "offset": 3376,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "確かめるように、財布から硬貨を取り出す美春。",
+      "en": "\"No... Nemu wouldn't do such a thing.\"",
+      "text": "\"No... Nemu wouldn't do such a thing.\""
+    },
+    {
+      "offset": 3425,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだか面白いな。お金を初めて見たヤツって\nのはこういう行動を取るのか。",
+      "en": "Miharu chuckled while I was trying to make her feel better.",
+      "text": "Miharu chuckled while I was trying to make her feel better."
+    },
+    {
+      "offset": 3503,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ほら、あまりもたもたしてると、後ろの連中\n　が変に思うぞ」",
+      "en": "\"Miharu, look. Don't take this personally. Nemu still likes\nyou.\"",
+      "text": "\"Miharu, look. Don't take this personally. Nemu still likes\nyou.\""
+    },
+    {
+      "offset": 3597,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あー、えーと、じゃあ、これを入れますね」",
+      "en": "\"Sempai.\"",
+      "text": "\"Sempai.\""
+    },
+    {
+      "offset": 3646,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "投入口に５００円玉が入る。",
+      "en": "Bending over, Miharu looks into my face with a smile.",
+      "text": "Bending over, Miharu looks into my face with a smile."
+    },
+    {
+      "offset": 3718,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「すごい、一斉にランプが点きましたよ！」",
+      "en": "\"I understand how Nyamu-sempai feels, and I don't blame\nher.\"",
+      "text": "\"I understand how Nyamu-sempai feels, and I don't blame\nher.\""
+    },
+    {
+      "offset": 3765,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「いいから、早く食べたいものを選べよ」",
+      "en": "\"I rather feel terrible though, because I hurt\nNyamu-sempai's feelings.\"",
+      "text": "\"I rather feel terrible though, because I hurt\nNyamu-sempai's feelings.\""
+    },
+    {
+      "offset": 3841,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「…………あれ？」",
+      "en": "Miharu smiled, running her fingers through her loose hair.",
+      "text": "Miharu smiled, running her fingers through her loose hair."
+    },
+    {
+      "offset": 3866,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「どうした？」",
+      "en": "It'll certainly be hard for Nemu to forget that fact ----",
+      "text": "It'll certainly be hard for Nemu to forget that fact ----"
+    },
+    {
+      "offset": 3898,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「バナナがないですね」",
+      "en": "---- The fact that the person she thought was Miharu was\nactually not her.",
+      "text": "---- The fact that the person she thought was Miharu was\nactually not her."
+    },
+    {
+      "offset": 3927,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「バナナはご飯には入りません。ほら、きつね\n　うどんでいいだろ？」",
+      "en": "\"Come on, sempai! Don't give me such a sad look. Let's go\nget some chocolate bananas!\"",
+      "text": "\"Come on, sempai! Don't give me such a sad look. Let's go\nget some chocolate bananas!\""
+    },
+    {
+      "offset": 4027,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あーっ、そうやってまた勝手に押す！　先輩、\n　ひどいですよぉ」",
+      "en": "\"Are you sure? Wow!! Let's see how many I want...... 50?\n100?\"",
+      "text": "\"Are you sure? Wow!! Let's see how many I want...... 50?\n100?\""
+    },
+    {
+      "offset": 4097,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "券とお釣りが、ひらりと落ちてくる。",
+      "en": "Hey, wait! That's way out of line. You aren't in a big eater\ncontest or anything.",
+      "text": "Hey, wait! That's way out of line. You aren't in a big eater\ncontest or anything."
+    },
+    {
+      "offset": 4166,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ううっ、美春の｛は／栄｝えある経済活動の第一歩が\n　……」",
+      "en": "\"Okay! I've changed my mind. It's on me up to five.\"",
+      "text": "\"Okay! I've changed my mind. It's on me up to five.\""
+    },
+    {
+      "offset": 4232,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「これからイヤってほど、体験できるよ」",
+      "en": "\"Sempai, come on. Don't be so stingy.\"",
+      "text": "\"Sempai, come on. Don't be so stingy.\""
+    },
+    {
+      "offset": 4286,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はそう言って、美春の頭をポフポフと叩きな\nがら、自分は焼きそばの食券を買った。",
+      "en": "Miharu laughed, and so did I -- to dodge the situation.",
+      "text": "Miharu laughed, and so did I -- to dodge the situation."
+    },
+    {
+      "offset": 4370,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それにしても、美春を見ていると、面白いな。",
+      "en": "In the end, Miharu got 10 chocolate bananas, all of which I\npaid for.",
+      "text": "In the end, Miharu got 10 chocolate bananas, all of which I\npaid for."
+    },
+    {
+      "offset": 4417,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "簡単なことで感動したり、喜んだり。",
+      "en": "I sometime find it very difficult to be a real man.",
+      "text": "I sometime find it very difficult to be a real man."
+    },
+    {
+      "offset": 4456,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さっきも、食券を出しておばちゃんがうどんを\n寄越してくれたのも、スゴイとか言ってたし。",
+      "en": "Especially when I'm broke.",
+      "text": "Especially when I'm broke."
+    },
+    {
+      "offset": 4548,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「今日が初めてってことは、昨日の昼はどうし\n　たんだ？」",
+      "en": "At home Nemu was watching TV as usual.",
+      "text": "At home Nemu was watching TV as usual."
+    },
+    {
+      "offset": 4643,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「昨日は、白河先生と一緒に生物準備室で食べ\n　ました。なんでも、妹さんに作ってもらった\n　とかで」",
+      "en": "I tossed the trash out and put the kettle on.",
+      "text": "I tossed the trash out and put the kettle on."
+    },
+    {
+      "offset": 4746,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "妹ってことは、ことりか……。そうか、料理も\nできるのか。そういやずっと前、料理もプロ級\nだって聞いたことあるな。",
+      "en": "\"Want anything to drink?\"",
+      "text": "\"Want anything to drink?\""
+    },
+    {
+      "offset": 4946,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "うーむ、そう来たか。じゃあ、これからはずっ\nとお昼は美春と一緒だな。",
+      "en": "I asked Nemu sitting on the sofa.",
+      "text": "I asked Nemu sitting on the sofa."
+    },
+    {
+      "offset": 5058,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あら？　兄さん……と、美春？」",
+      "en": "\"I want cafe au lait... with lots of sugar.\"",
+      "text": "\"I want cafe au lait... with lots of sugar.\""
+    },
+    {
+      "offset": 5097,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "友達と飯を食いに来た音夢が、声をかけてきた。",
+      "en": "\"Okay.\"",
+      "text": "\"Okay.\""
+    },
+    {
+      "offset": 5148,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「よ、音夢」",
+      "en": "Then I put my coffee and her cafe au lait on the table.",
+      "text": "Then I put my coffee and her cafe au lait on the table."
+    },
+    {
+      "offset": 5211,
+      "speaker": "Nemu",
+      "speaker_jp": "美春",
+      "jp": "「にゃむ先輩、こんにちはです」",
+      "en": "\"Thanks.\"",
+      "text": "\"Thanks.\""
+    },
+    {
+      "offset": 5276,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……だから、にゃむ先輩って誰よ」",
+      "en": "\"This is good.\"",
+      "text": "\"This is good.\""
+    },
+    {
+      "offset": 5345,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あ、いえ、音夢先輩でした」",
+      "en": "\"Glad you like it. I thought I put in too much sugar.\"",
+      "text": "\"Glad you like it. I thought I put in too much sugar.\""
+    },
+    {
+      "offset": 5408,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「どうしたの、ふたりで食事なんて。そんなに\n　仲良かった？」",
+      "en": "\"Niisan.\"",
+      "text": "\"Niisan.\""
+    },
+    {
+      "offset": 5474,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いや、たまにはいいだろってことでさ。それ\n　に結構、仲はよかったぞ？　な、美春」",
+      "en": "\"About what happened after school today... I was avoiding\nMiharu, though I didn't mean to...\"",
+      "text": "\"About what happened after school today... I was avoiding\nMiharu, though I didn't mean to...\""
+    },
+    {
+      "offset": 5590,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「そういうことになってますね」",
+      "en": "\"I see.\"",
+      "text": "\"I see.\""
+    },
+    {
+      "offset": 5655,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ん？　そういうことになっている？」",
+      "en": "\"I'm confused. I honestly don't know how I can see her like\nbefore.\"",
+      "text": "\"I'm confused. I honestly don't know how I can see her like\nbefore.\""
+    },
+    {
+      "offset": 5698,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の頭の上に“？”マークが飛び交う。",
+      "en": "Nemu muttered under her breath, while clouding her face with\nsteam coming off her cup.",
+      "text": "Nemu muttered under her breath, while clouding her face with\nsteam coming off her cup."
+    },
+    {
+      "offset": 5771,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「まあ、いいけど。それより、また今度お弁当\n　を作ってきて。美春のお弁当おいしいから」",
+      "en": "\"I guess she already noticed it, right?\"",
+      "text": "\"I guess she already noticed it, right?\""
+    },
+    {
+      "offset": 5891,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「はい！」",
+      "en": "I didn't respond right away. But I decided to tell her the\ntruth.",
+      "text": "I didn't respond right away. But I decided to tell her the\ntruth."
+    },
+    {
+      "offset": 5936,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ありがと」",
+      "en": "\"Did she say that?\"",
+      "text": "\"Did she say that?\""
+    },
+    {
+      "offset": 5964,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "おいおい。安請け合いしていいのか？",
+      "en": "\"Yeah.\"",
+      "text": "\"Yeah.\""
+    },
+    {
+      "offset": 6003,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一抹の不安が胸中をよぎる。",
+      "en": "On the TV, the reporter was laughing hard. It was quite\nfunny to see the reporter talk with a female middle-age shop\nowner.",
+      "text": "On the TV, the reporter was laughing hard. It was quite\nfunny to see the reporter talk with a female middle-age shop\nowner."
+    },
+    {
+      "offset": 6051,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢が立ち去った後、つるつると美春がうどん\nをすする音だけが聞こえてきた。",
+      "en": "Nemu said quite sadly.",
+      "text": "Nemu said quite sadly."
+    },
+    {
+      "offset": 6131,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「やっぱ、身内は手強いな……クラスの友達の\n　ほうは大丈夫か？」",
+      "en": "\"Don't worry about it. Miharu didn't take it personally.\"",
+      "text": "\"Don't worry about it. Miharu didn't take it personally.\""
+    },
+    {
+      "offset": 6234,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「はい。マターリとやってます」",
+      "en": "\"Yeah...\"",
+      "text": "\"Yeah...\""
+    },
+    {
+      "offset": 6271,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「マターリ……って、なんだよ、それ」",
+      "en": "While tilting her cup, Nemu slowly nodded. Her eyes looked\nas if they were about to cry.",
+      "text": "While tilting her cup, Nemu slowly nodded. Her eyes looked\nas if they were about to cry."
+    },
+    {
+      "offset": 6325,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「いやぁ、できるかぎり社会の情報を集めよう\n　と思いまして、ネットの海へ潜ってたんです\n　が、ちょいとそこで覚えまして」",
+      "en": "\"Do you really like the cafe au lait?\"",
+      "text": "\"Do you really like the cafe au lait?\""
+    },
+    {
+      "offset": 6450,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なるほど。美春は美春で、早く実生活に溶けこ\nもうと前向きに努力してるんだな。",
+      "en": "She replied absent-mindedly. On TV, a B-list TV personality\nis reporting on a popular noodle shop.",
+      "text": "She replied absent-mindedly. On TV, a B-list TV personality\nis reporting on a popular noodle shop."
+    },
+    {
+      "offset": 6532,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まあ、言葉の意味は分からんが……」",
+      "en": "\"Do you want a ramen noodles delivery tonight?\"",
+      "text": "\"Do you want a ramen noodles delivery tonight?\""
+    },
+    {
+      "offset": 6586,
+      "speaker": "Nemu",
+      "speaker_jp": "美春",
+      "jp": "「ところで、朝倉先輩は、お弁当は何が食べた\n　いですか？」",
+      "en": "\"Yeah...\"",
+      "text": "\"Yeah...\""
+    },
+    {
+      "offset": 6650,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "うどんをちゅるんと飲み込んで、いとも簡単そ\nうに、美春が｛き／訊｝く。",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 6726,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……いや、料理なんてそう簡単にできるよう\n　になるもんじゃないぞ？」",
+      "en": "Like talking to a brick wall...",
+      "text": "Like talking to a brick wall..."
+    },
+    {
+      "offset": 6802,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はそれをイヤというほど実感している。地獄\nの殺人シェフのおかげで。",
+      "en": "\"Are you busy with your committee?\"",
+      "text": "\"Are you busy with your committee?\""
+    },
+    {
+      "offset": 6874,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "英語で言うと、マーダラーシェフオブヘルズ。",
+      "en": "\"How did the exam go?\"",
+      "text": "\"How did the exam go?\""
+    },
+    {
+      "offset": 6921,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いや、シェフはフランス語か……。",
+      "en": "\"What color panties are you wearing today?\"",
+      "text": "\"What color panties are you wearing today?\""
+    },
+    {
+      "offset": 6988,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「でも、本物の美春さんは、料理が上手だった\n　んですよね？」",
+      "en": "\"Leopard print...\"",
+      "text": "\"Leopard print...\""
+    },
+    {
+      "offset": 7054,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「美春は美春だろ。美春のことは気にするな」",
+      "en": "\"Wow! Really?\"",
+      "text": "\"Wow! Really?\""
+    },
+    {
+      "offset": 7103,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……自分で何言ってんだかわからない台詞だな。\nちょっと、恥ずかしかったりして。",
+      "en": "Good. Nemu is back to normal.",
+      "text": "Good. Nemu is back to normal."
+    },
+    {
+      "offset": 7185,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちらりと、美春の顔を窺う。",
+      "en": "\"God, you were listening!\"",
+      "text": "\"God, you were listening!\""
+    },
+    {
+      "offset": 7246,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あはは。うどんって楽しいですねえ。ちゅる\n　ちゅるとおつゆが跳ねて」",
+      "en": "\"Of course I was! How long do you think I've been your\nsister?\"",
+      "text": "\"Of course I was! How long do you think I've been your\nsister?\""
+    },
+    {
+      "offset": 7322,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「聞いちゃいねえし。……しかも、飛ばしてる\n　よ」",
+      "en": "Nemu looked away and sipped more from her cup.",
+      "text": "Nemu looked away and sipped more from her cup."
+    },
+    {
+      "offset": 7378,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふと気がつけば、テーブルがうどんのつゆで汚\nれまくっていた。",
+      "en": "\"What? Call where?\"",
+      "text": "\"What? Call where?\""
+    },
+    {
+      "offset": 7444,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「美春、後でちゃんと拭いておけよな」",
+      "en": "Emptying her cup, Nemu stood up from the sofa.",
+      "text": "Emptying her cup, Nemu stood up from the sofa."
+    },
+    {
+      "offset": 7498,
+      "speaker": "Nemu",
+      "speaker_jp": "美春",
+      "jp": "「は〜い」",
+      "en": "\"Delivery for eel rice! Right? Meals with eels take time,\nyou know?\"",
+      "text": "\"Delivery for eel rice! Right? Meals with eels take time,\nyou know?\""
+    },
+    {
+      "offset": 7515,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何が楽しいのやら、にこにこと元気に返事をす\nる美春だった。",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 7695,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆うどん◆",
+      "en": "◆Koyomi◆",
+      "text": "◆Koyomi◆"
+    },
+    {
+      "offset": 7734,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春と学食で昼飯を食べる。本当は美春お手製\nの弁当を期待していたのだが、ロボ美春は料理\nができないらしい。",
+      "en": "I told Koyomi-sensei about Nemu after the morning class.",
+      "text": "I told Koyomi-sensei about Nemu after the morning class."
+    },
+    {
+      "offset": 7843,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まぁ、それもそうか。改めてこの子は美春では\nないんだなと実感するのであった。",
+      "en": "She sighed deeply and sadly.",
+      "text": "She sighed deeply and sadly."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "441": "Koyomi",
+    "522": "Koyomi",
+    "651": "Miharu",
+    "797": "Suginami",
+    "858": "Suginami",
+    "954": "Nemu",
+    "1586": "Nemu",
+    "1754": "Nemu",
+    "1924": "Nemu",
+    "2236": "Nemu",
+    "2637": "Miharu",
+    "2778": "Miharu",
+    "2898": "Miharu",
+    "3047": "Miharu",
+    "3317": "Miharu",
+    "3589": "Miharu",
+    "3710": "Miharu",
+    "3833": "Miharu",
+    "3890": "Miharu",
+    "4019": "Miharu",
+    "4158": "Miharu",
+    "4635": "Miharu",
+    "5050": "Nemu",
+    "5203": "Nemu",
+    "5268": "Nemu",
+    "5337": "Miharu",
+    "5400": "Nemu",
+    "5582": "Miharu",
+    "5647": "Nemu",
+    "5763": "Nemu",
+    "5883": "Miharu",
+    "5928": "Nemu",
+    "6226": "Miharu",
+    "6317": "Miharu",
+    "6578": "Nemu",
+    "6980": "Miharu",
+    "7238": "Miharu",
+    "7490": "Nemu"
+  }
+}

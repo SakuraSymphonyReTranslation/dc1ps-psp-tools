@@ -1,0 +1,179 @@
+{
+  "scene": "script_0790.obj",
+  "dialogues": [
+    {
+      "offset": 153,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 166,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 192,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………ん」",
+      "en": "\"............Mm.\"",
+      "text": "\"............Mm.\""
+    },
+    {
+      "offset": 224,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……に……ん」",
+      "en": "\"......nii......n......\"",
+      "text": "\"......nii......n......\""
+    },
+    {
+      "offset": 258,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「もしも〜し……」",
+      "en": "\"Hello......\"",
+      "text": "\"Hello......\""
+    },
+    {
+      "offset": 283,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 309,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「もぅ、やっぱりお寝坊さんなんだから」",
+      "en": "\"You sure are a sleepyhead.\"",
+      "text": "\"You sure are a sleepyhead.\""
+    },
+    {
+      "offset": 365,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なにしても起きないなんてね。まさか百科辞\n　典を落としても起きないとは思わなかったよ」",
+      "en": "\"I can't believe you don't wake up. How can you sleep after\nbeing hit with a dictionary?\"",
+      "text": "\"I can't believe you don't wake up. How can you sleep after\nbeing hit with a dictionary?\""
+    },
+    {
+      "offset": 470,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 500,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「私ね……」",
+      "en": "\"I'm......\"",
+      "text": "\"I'm......\""
+    },
+    {
+      "offset": 530,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ううん、なんでもない」",
+      "en": "\"No, never mind.\"",
+      "text": "\"No, never mind.\""
+    },
+    {
+      "offset": 572,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「お出かけするときは元気に元気に♪」",
+      "en": "\"I have to be happy when I go out!\"",
+      "text": "\"I have to be happy when I go out!\""
+    },
+    {
+      "offset": 626,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「それじゃあ、行って来ます！」",
+      "en": "\"Okay, then. I'll see you later!!\"",
+      "text": "\"Okay, then. I'll see you later!!\""
+    },
+    {
+      "offset": 663,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 689,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「｛・・・・／さよなら｝、兄さん」",
+      "en": "\"Goodbye, niisan.\"",
+      "text": "\"Goodbye, niisan.\""
+    },
+    {
+      "offset": 845,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆行ってきます◆",
+      "en": "◆I'll see you later◆",
+      "text": "◆I'll see you later◆"
+    },
+    {
+      "offset": 880,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "夢うつつ、音夢の声を聞いた気がした。",
+      "en": "I think I heard Nemu talking in my dream.",
+      "text": "I think I heard Nemu talking in my dream."
+    },
+    {
+      "offset": 921,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まるで、かつての当たり前の日常を描くように、\n行って来ますと元気に笑う声が。",
+      "en": "She was laughing like how she used to laugh before, and she\nleft just like she used to do so.",
+      "text": "She was laughing like how she used to laugh before, and she\nleft just like she used to do so."
+    },
+    {
+      "offset": 1001,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただ、去り際の一言だけが――悲しかった。",
+      "en": "But the last words she said were sad.",
+      "text": "But the last words she said were sad."
+    },
+    {
+      "offset": 1059,
+      "speaker": "音夢",
+      "speaker_jp": "音夢",
+      "jp": "「さよなら、兄さん」",
+      "en": "\"Goodbye, niisan.\"",
+      "text": "\"Goodbye, niisan.\""
+    }
+  ],
+  "choices": [],
+  "names": {
+    "184": "Nemu",
+    "216": "Nemu",
+    "250": "Nemu",
+    "301": "Nemu",
+    "357": "Nemu",
+    "462": "Nemu",
+    "492": "Nemu",
+    "522": "Nemu",
+    "564": "Nemu",
+    "618": "Nemu",
+    "681": "Nemu"
+  }
+}

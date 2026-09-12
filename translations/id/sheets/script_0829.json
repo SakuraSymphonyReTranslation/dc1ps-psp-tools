@@ -1,0 +1,737 @@
+{
+  "scene": "script_0829.obj",
+  "dialogues": [
+    {
+      "offset": 179,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "気がつくと、学校に来ていた。",
+      "en": "Before I knew it, I ended up at school.",
+      "text": "Before I knew it, I ended up at school."
+    },
+    {
+      "offset": 212,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": ".......",
+      "text": "......."
+    },
+    {
+      "offset": 227,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やっぱり、心配だ。",
+      "en": "In the end, I couldn't stop my worrying.",
+      "text": "In the end, I couldn't stop my worrying."
+    },
+    {
+      "offset": 250,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "巫女部のこと、もちろん、環の身体のこと……。",
+      "en": "About the Miko Club, and of course, about Tamaki...",
+      "text": "About the Miko Club, and of course, about Tamaki..."
+    },
+    {
+      "offset": 299,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が無理矢理、環を連れて帰ってしまったため、\n恐らく部員達には不満が残っている筈だ。",
+      "en": "Given how I forcibly took Tamaki home, I was fully expecting\nthe wrath of the club members.",
+      "text": "Given how I forcibly took Tamaki home, I was fully expecting\nthe wrath of the club members."
+    },
+    {
+      "offset": 387,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "相当具合悪そうだったから、一日や二日で良く\nなっているとも思えないけど……。",
+      "en": "The way I treated them, I doubt they'd just forgive me in a\nfew days...",
+      "text": "The way I treated them, I doubt they'd just forgive me in a\nfew days..."
+    },
+    {
+      "offset": 467,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あの後、巫女部がどうなったか、やっぱり気に\nなる。様子を見に行こう。",
+      "en": "I was worried about how the Miko Club was like after, so I\nwent back to take a look.",
+      "text": "I was worried about how the Miko Club was like after, so I\nwent back to take a look."
+    },
+    {
+      "offset": 539,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "合宿はなくても、たぶん部活はしてるはずだ。",
+      "en": "Without the training camp, there'd probably be other club\nactivities...",
+      "text": "Without the training camp, there'd probably be other club\nactivities..."
+    },
+    {
+      "offset": 609,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "巫女部の部室へと向かう途中。",
+      "en": "I walked closer to the Miko Club clubroom.",
+      "text": "I walked closer to the Miko Club clubroom."
+    },
+    {
+      "offset": 642,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……あれ？",
+      "en": "...Hm?",
+      "text": "...Hm?"
+    },
+    {
+      "offset": 657,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やけに静かだな……。",
+      "en": "It's a lot quieter than usual...",
+      "text": "It's a lot quieter than usual..."
+    },
+    {
+      "offset": 682,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "確かに、今日はゴールデンウィーク中だから、\n他の部もほとんど試合に行って、静かなのはわ\nかる。",
+      "en": "Although it is Golden Week, and a lot of the other clubs\nwere out for games...",
+      "text": "Although it is Golden Week, and a lot of the other clubs\nwere out for games..."
+    },
+    {
+      "offset": 779,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "が、それにしても、祝詞の声が聞こえないなん\nて……。",
+      "en": "I couldn't hear the usual ritual voices either...",
+      "text": "I couldn't hear the usual ritual voices either..."
+    },
+    {
+      "offset": 835,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "普段なら、まずありえない。祝詞の練習くらい\n環がいなくてもできるはずだ。",
+      "en": "That's unacceptable... even if Tamaki's not around, they can\nstill practice that at least.",
+      "text": "That's unacceptable... even if Tamaki's not around, they can\nstill practice that at least."
+    },
+    {
+      "offset": 911,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "不思議に思いつつも、俺は巫女部のドアを開け\nる。",
+      "en": "Filled with curiosity, I opened the door to the clubroom.",
+      "text": "Filled with curiosity, I opened the door to the clubroom."
+    },
+    {
+      "offset": 973,
+      "speaker": "Club Member 1",
+      "speaker_jp": "部員１",
+      "jp": "「あ、先輩。こんにちは」",
+      "en": "\"Ah, senpai. Good afternoon.\"",
+      "text": "\"Ah, senpai. Good afternoon.\""
+    },
+    {
+      "offset": 1004,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "中には、一番最初に入部希望に来た二人がいる\nだけで、あとは誰もいない。",
+      "en": "There were only the first two members of the club inside.",
+      "text": "There were only the first two members of the club inside."
+    },
+    {
+      "offset": 1080,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あれ？　他の人たちは？」",
+      "en": "\"Ehh? Where's the others?\"",
+      "text": "\"Ehh? Where's the others?\""
+    },
+    {
+      "offset": 1113,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が聞くと、",
+      "en": "In reply,",
+      "text": "In reply,"
+    },
+    {
+      "offset": 1140,
+      "speaker": "Club Member 2",
+      "speaker_jp": "部員２",
+      "jp": "「うーん……、実は、やめるって連絡がありま\n　して」",
+      "en": "\"Um... a bunch of them quit the club.\"",
+      "text": "\"Um... a bunch of them quit the club.\""
+    },
+    {
+      "offset": 1198,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と言う。",
+      "en": "She said.",
+      "text": "She said."
+    },
+    {
+      "offset": 1213,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「やめた？　何人やめたんだよ」",
+      "en": "\"Quit? How many?\"",
+      "text": "\"Quit? How many?\""
+    },
+    {
+      "offset": 1250,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は驚いて尋ねる。",
+      "en": "I worriedly enquired.",
+      "text": "I worriedly enquired."
+    },
+    {
+      "offset": 1273,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "二人は顔を見合わせ、",
+      "en": "The two of them looked at each other,",
+      "text": "The two of them looked at each other,"
+    },
+    {
+      "offset": 1308,
+      "speaker": "Club Member",
+      "speaker_jp": "部員１",
+      "jp": "「その……私達、二人以外は、全員です」",
+      "en": "\"Well... besides us two... everyone.\"",
+      "text": "\"Well... besides us two... everyone.\""
+    },
+    {
+      "offset": 1353,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "げ、マジで。",
+      "en": "Oh geez.",
+      "text": "Oh geez."
+    },
+    {
+      "offset": 1380,
+      "speaker": "Club Member 2",
+      "speaker_jp": "部員２",
+      "jp": "「合宿がなくなったのが、大きかったみたいで\n　すよ」",
+      "en": "\"No training camp seemed to be a big issue with them.\"",
+      "text": "\"No training camp seemed to be a big issue with them.\""
+    },
+    {
+      "offset": 1438,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まさか……やめるとは思わなかった。",
+      "en": "I didn't think they'd quit...",
+      "text": "I didn't think they'd quit..."
+    },
+    {
+      "offset": 1477,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうしよう。環に悪いことをした。",
+      "en": "What should I do... I've done something horrible to Tamaki.",
+      "text": "What should I do... I've done something horrible to Tamaki."
+    },
+    {
+      "offset": 1514,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の顔が、相当へこんでいるように見えたのか、",
+      "en": "The two remaining club members apparently saw my face go\nwhite.",
+      "text": "The two remaining club members apparently saw my face go\nwhite."
+    },
+    {
+      "offset": 1573,
+      "speaker": "Club Member 1",
+      "speaker_jp": "部員１",
+      "jp": "「気にすることはないですよ。みんな、巫女装\n　束を着てみたかっただけの人達ばかりでした\n　から」",
+      "en": "\"Don't worry about it. That bunch were only interested in\nhow good the Miko outfit looked on them.\"",
+      "text": "\"Don't worry about it. That bunch were only interested in\nhow good the Miko outfit looked on them.\""
+    },
+    {
+      "offset": 1674,
+      "speaker": "Club Member 1",
+      "speaker_jp": "部員１",
+      "jp": "「……そ、そぉ？」",
+      "en": "\"...O, oh?\"",
+      "text": "\"...O, oh?\""
+    },
+    {
+      "offset": 1707,
+      "speaker": "Club Member 2",
+      "speaker_jp": "部員２",
+      "jp": "「あたし達は、やっぱり先輩に憧れて入ってき\n　た訳だし、巫女さんにも興味あるしね」",
+      "en": "\"We're more interested in Miko themselves, and want to be\nlike senpai.\"",
+      "text": "\"We're more interested in Miko themselves, and want to be\nlike senpai.\""
+    },
+    {
+      "offset": 1803,
+      "speaker": "Club Member",
+      "speaker_jp": "部員１",
+      "jp": "「そうそう。胡ノ宮先輩、早く良くなってくれ\n　るといいんだけど」",
+      "en": "\"Uh huh. Hopefully Konomiya-senpai will get better soon.\"",
+      "text": "\"Uh huh. Hopefully Konomiya-senpai will get better soon.\""
+    },
+    {
+      "offset": 1873,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、二人は和やかに笑っていた。",
+      "en": "The two of them laughed gently.",
+      "text": "The two of them laughed gently."
+    },
+    {
+      "offset": 1910,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「早くって……、環から連絡があったの？」",
+      "en": "\"Get better soon... she told you two?\"",
+      "text": "\"Get better soon... she told you two?\""
+    },
+    {
+      "offset": 1965,
+      "speaker": "Club Member 2",
+      "speaker_jp": "部員２",
+      "jp": "「ええ。どうしても体調が優れないのでしばら\n　く休ませて欲しいって」",
+      "en": "\"Yeah. Her condition still seemed bad, so she went back to\nrest.\"",
+      "text": "\"Yeah. Her condition still seemed bad, so she went back to\nrest.\""
+    },
+    {
+      "offset": 2047,
+      "speaker": "Club Member 1",
+      "speaker_jp": "部員１",
+      "jp": "「今日も、ほとんどあたし達の自主練です」",
+      "en": "\"We're having self-study today.\"",
+      "text": "\"We're having self-study today.\""
+    },
+    {
+      "offset": 2094,
+      "speaker": "Club Member 1",
+      "speaker_jp": "部員１",
+      "jp": "「そうか……」",
+      "en": "\"I see.\"",
+      "text": "\"I see.\""
+    },
+    {
+      "offset": 2115,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やっぱり、良くなってなかったんだ。",
+      "en": "She still isn't feeling well, huh.",
+      "text": "She still isn't feeling well, huh."
+    },
+    {
+      "offset": 2154,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昨日、神社に送ったときも、ずっと顔色悪かっ\nたからな……。",
+      "en": "Until I left the shrine, she didn't look like she was\nimproving...",
+      "text": "Until I left the shrine, she didn't look like she was\nimproving..."
+    },
+    {
+      "offset": 2226,
+      "speaker": "Club Member 2",
+      "speaker_jp": "部員２",
+      "jp": "「なんか、相当良くないみたいですね。電話し\n　てきたのも、本人じゃありませんでしたから」",
+      "en": "\"She really sounded bad. Even over the phone, I couldn't\ntell it was her.\"",
+      "text": "\"She really sounded bad. Even over the phone, I couldn't\ntell it was her.\""
+    },
+    {
+      "offset": 2328,
+      "speaker": "Club Member 1",
+      "speaker_jp": "部員１",
+      "jp": "「朝倉先輩、お見舞いに行った方がいいんじゃ\n　ないですか？　彼女さんなんでしょう？」",
+      "en": "\"Asakura-senpai, you should go visit her. She's your\ngirlfriend, right?\"",
+      "text": "\"Asakura-senpai, you should go visit her. She's your\ngirlfriend, right?\""
+    },
+    {
+      "offset": 2418,
+      "speaker": "Club Member 1",
+      "speaker_jp": "部員１",
+      "jp": "「……え？　あ、あの、その」",
+      "en": "\"...Ehh? U, um, that's...\"",
+      "text": "\"...Ehh? U, um, that's...\""
+    },
+    {
+      "offset": 2453,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……やっぱり、バレてたか。つか、他に俺がい\nる状況はあり得ないか。",
+      "en": "...Looks like we've been found out. It would've been\nimpossible to keep secret anyway.",
+      "text": "...Looks like we've been found out. It would've been\nimpossible to keep secret anyway."
+    },
+    {
+      "offset": 2525,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ありがとう。俺、ちょっと様子見てみるわ」",
+      "en": "\"Thanks. I'd go see her right now.\"",
+      "text": "\"Thanks. I'd go see her right now.\""
+    },
+    {
+      "offset": 2582,
+      "speaker": "Club Member 1",
+      "speaker_jp": "部員１",
+      "jp": "「はい、お願いします」",
+      "en": "\"Send her our regards as well.\"",
+      "text": "\"Send her our regards as well.\""
+    },
+    {
+      "offset": 2619,
+      "speaker": "Club Member 2",
+      "speaker_jp": "部員２",
+      "jp": "「あたし達は、あたし達でちゃんとやってます\n　から心配しないでくださいって伝えておいて\n　ください」",
+      "en": "\"Let her know that we will do what we can, so please don't\nworry.\"",
+      "text": "\"Let her know that we will do what we can, so please don't\nworry.\""
+    },
+    {
+      "offset": 2724,
+      "speaker": "Club Member 2",
+      "speaker_jp": "部員２",
+      "jp": "「おう」",
+      "en": "\"Got it.\"",
+      "text": "\"Got it.\""
+    },
+    {
+      "offset": 2739,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、二人に礼を言って、部室を後にした。",
+      "en": "With one final word of thanks, I left the clubroom.",
+      "text": "With one final word of thanks, I left the clubroom."
+    },
+    {
+      "offset": 2784,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やっぱり、わかってくれてる人達は、ちゃんと\n環のことをわかってくれてるんだよなぁ。",
+      "en": "It's appropriate that the ones who know about us are the\nones who know her best.",
+      "text": "It's appropriate that the ones who know about us are the\nones who know her best."
+    },
+    {
+      "offset": 2870,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、扉の向こうのふたりに、そっと頭を下げ\nた。",
+      "en": "I looked at them through the doorway again, and bowed.",
+      "text": "I looked at them through the doorway again, and bowed."
+    },
+    {
+      "offset": 2978,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 2993,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『様子を見てくる』",
+      "en": "\"Go visit her.\"",
+      "text": "\"Go visit her.\""
+    },
+    {
+      "offset": 3016,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とは言ったものの、今行くと、逆に気を遣わせ\nてしまうんじゃないだろうか……。",
+      "en": "Although having said that, it might not be a good idea to\ndisrupt her rest.",
+      "text": "Although having said that, it might not be a good idea to\ndisrupt her rest."
+    },
+    {
+      "offset": 3096,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな思いで、しばし悩んでいる。",
+      "en": "I tried to think about it carefully.",
+      "text": "I tried to think about it carefully."
+    },
+    {
+      "offset": 3133,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──やっぱり、心配だよな。",
+      "en": "--But in the end, I was too worried.",
+      "text": "--But in the end, I was too worried."
+    },
+    {
+      "offset": 3164,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見舞いに行こう。",
+      "en": "I'd go see how she's doing.",
+      "text": "I'd go see how she's doing."
+    },
+    {
+      "offset": 3185,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、その前に、一応電話で連絡してみるか。",
+      "en": "I'd give her a call first though.",
+      "text": "I'd give her a call first though."
+    },
+    {
+      "offset": 3235,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ダイヤルし終わり、コール音が鳴る。",
+      "en": "I dialed her number, and waited for her response.",
+      "text": "I dialed her number, and waited for her response."
+    },
+    {
+      "offset": 3274,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この、相手が出るかどうか待つ時間も、結構、\n緊張する。",
+      "en": "Each second seemed more like a minute of nervousness.",
+      "text": "Each second seemed more like a minute of nervousness."
+    },
+    {
+      "offset": 3332,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "５回コールで相手が出た。",
+      "en": "Finally after 5 rings, someone picked up.",
+      "text": "Finally after 5 rings, someone picked up."
+    },
+    {
+      "offset": 3375,
+      "speaker": "Voice",
+      "speaker_jp": "電話の声",
+      "jp": "『もしもし』",
+      "en": "\"Hello.\"",
+      "text": "\"Hello.\""
+    },
+    {
+      "offset": 3394,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あ、環じゃない。",
+      "en": "Ah, it isn't Tamaki...",
+      "text": "Ah, it isn't Tamaki..."
+    },
+    {
+      "offset": 3415,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "誰だ？　女の人の声だ。それにしては声が若い。\nお母さんはいないはずだから……、まさかお父\nさんっ！？",
+      "en": "Who is it? It's a female voice, and it sounds young. She\ndoesn't have a mother... it can't be her father!?",
+      "text": "Who is it? It's a female voice, and it sounds young. She\ndoesn't have a mother... it can't be her father!?"
+    },
+    {
+      "offset": 3518,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "って、女の人だっつってんだろ、俺。",
+      "en": "...Pah, I'm thinking just like a girl.",
+      "text": "...Pah, I'm thinking just like a girl."
+    },
+    {
+      "offset": 3559,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あの、朝倉と申しますが、環さんは……？」",
+      "en": "\"Hello, this is Asakura. Can I speak to Tamaki...?\"",
+      "text": "\"Hello, this is Asakura. Can I speak to Tamaki...?\""
+    },
+    {
+      "offset": 3618,
+      "speaker": "Voice",
+      "speaker_jp": "電話の声",
+      "jp": "『はい、少々お待ち下さい』",
+      "en": "\"Please hold on a moment.\"",
+      "text": "\"Please hold on a moment.\""
+    },
+    {
+      "offset": 3651,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『エリーゼのために』の保留音が流れる。",
+      "en": "The hold tone of \"For Elizabeth\" poured through my ears.",
+      "text": "The hold tone of \"For Elizabeth\" poured through my ears."
+    },
+    {
+      "offset": 3694,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は聞きなれた旋律を頭で追いながら、環が出\nるのを待つ。",
+      "en": "I completely ignored the music, waiting for Tamaki to\nanswer.",
+      "text": "I completely ignored the music, waiting for Tamaki to\nanswer."
+    },
+    {
+      "offset": 3754,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "Ａパートが二回繰り返された後、相手が出た。",
+      "en": "Just as the A part was about to loop, the music ended.",
+      "text": "Just as the A part was about to loop, the music ended."
+    },
+    {
+      "offset": 3803,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ、環……」",
+      "en": "\"Ah, Tamaki...\"",
+      "text": "\"Ah, Tamaki...\""
+    },
+    {
+      "offset": 3834,
+      "speaker": "Voice",
+      "speaker_jp": "電話の声",
+      "jp": "『申し訳ありません、環さんはお休みのようで\n　すので、お取り次ぎが出来ません』",
+      "en": "\"I'm sorry, Tamaki-san is resting and unable to come to the\nphone.\"",
+      "text": "\"I'm sorry, Tamaki-san is resting and unable to come to the\nphone.\""
+    },
+    {
+      "offset": 3918,
+      "speaker": "Voice",
+      "speaker_jp": "電話の声",
+      "jp": "「あ、じゃあ、あの……」",
+      "en": "\"Ah, then, um...\"",
+      "text": "\"Ah, then, um...\""
+    },
+    {
+      "offset": 3959,
+      "speaker": "Voice",
+      "speaker_jp": "電話の声",
+      "jp": "「……それでは失礼いたします」",
+      "en": "\"...Please excuse me.\"",
+      "text": "\"...Please excuse me.\""
+    },
+    {
+      "offset": 3996,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──ブチッ。",
+      "en": "--*click*",
+      "text": "--*click*"
+    },
+    {
+      "offset": 4013,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が何か言おうとするのを｛さえぎ／遮｝って、電話が切れ\nる。",
+      "en": "Before I could finish my sentence, she hung up on me.",
+      "text": "Before I could finish my sentence, she hung up on me."
+    },
+    {
+      "offset": 4077,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだよ……。",
+      "en": "Geez, what's wrong with her...",
+      "text": "Geez, what's wrong with her..."
+    },
+    {
+      "offset": 4096,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "話ぐらい、聞いてくれてもいいのに……。",
+      "en": "I just wanted to ask her something...",
+      "text": "I just wanted to ask her something..."
+    },
+    {
+      "offset": 4139,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "でも、環が寝てるとなると、神社に行くのはよ\nした方が良さそうだな……。",
+      "en": "In any case, if Tamaki's sleeping, it'd be better for me not\nto go to the shirne.",
+      "text": "In any case, if Tamaki's sleeping, it'd be better for me not\nto go to the shirne."
+    },
+    {
+      "offset": 4213,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環に無理をさせることになる。",
+      "en": "She'd try and push herself for me again.",
+      "text": "She'd try and push herself for me again."
+    },
+    {
+      "offset": 4246,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日は仕方ない、我慢するか。",
+      "en": "I'd just have to bear it for today.",
+      "text": "I'd just have to bear it for today."
+    },
+    {
+      "offset": 4279,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "会って『元気出せ』って、見舞ってやりたい気\n持ちを堪えて、俺は受話器を置いた。",
+      "en": "Supressing my want to visit her, I put back the receiver.",
+      "text": "Supressing my want to visit her, I put back the receiver."
+    },
+    {
+      "offset": 4465,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆やめてしまった部員達◆",
+      "en": "◆Quitting Club Members?◆",
+      "text": "◆Quitting Club Members?◆"
+    },
+    {
+      "offset": 4522,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環の身体と巫女部の様子が心配になり、部室へ\n行くと、部員が二人だけになっている。",
+      "en": "Worried about Tamaki and the state of the Miko Club, I\nchecked the clubroom, and found only two people inside.",
+      "text": "Worried about Tamaki and the state of the Miko Club, I\nchecked the clubroom, and found only two people inside."
+    },
+    {
+      "offset": 4606,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "聞けば、みんなやめてしまったとのこと。",
+      "en": "I heard from them that the other members all quit.",
+      "text": "I heard from them that the other members all quit."
+    },
+    {
+      "offset": 4649,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "おまけに、環は身体の具合が悪く、部活を休ん\nでいるらしい。",
+      "en": "On top of that, Tamaki was still doing badly, and appeared\nto be resting from club activities.",
+      "text": "On top of that, Tamaki was still doing badly, and appeared\nto be resting from club activities."
+    },
+    {
+      "offset": 4711,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、見舞いに行こうと自宅に電話をするが、\n眠っているからと取り次いでもらえなかった。",
+      "en": "I phoned her house thinking of visiting her, but was\ninformed that she was sleeping.",
+      "text": "I phoned her house thinking of visiting her, but was\ninformed that she was sleeping."
+    },
+    {
+      "offset": 4801,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今回は見舞いに行くの、我慢しよう。",
+      "en": "I'd just bear not visiting her for today.",
+      "text": "I'd just bear not visiting her for today."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "963": "Club Member 1",
+    "1130": "Club Member 2",
+    "1298": "Club Member",
+    "1370": "Club Member 2",
+    "1563": "Club Member 1",
+    "1697": "Club Member 2",
+    "1793": "Club Member",
+    "1955": "Club Member 2",
+    "2037": "Club Member 1",
+    "2216": "Club Member 2",
+    "2318": "Club Member 1",
+    "2572": "Club Member 1",
+    "2609": "Club Member 2",
+    "3363": "Voice",
+    "3606": "Voice",
+    "3822": "Voice",
+    "3947": "Voice"
+  }
+}

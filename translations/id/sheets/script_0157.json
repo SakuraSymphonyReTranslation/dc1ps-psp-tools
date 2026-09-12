@@ -1,0 +1,99 @@
+{
+  "scene": "script_0157.obj",
+  "dialogues": [
+    {
+      "offset": 167,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ほら、終わりだぞ〜」",
+      "en": "\"Alright, time's up~\"",
+      "text": "\"Alright, time's up~\""
+    },
+    {
+      "offset": 196,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぎりぎりまで粘る学生を注意しながら、暦先生\nがテスト用紙を回収させる。",
+      "en": "At the behest of the still-scribbling students,\nKoyomi-sensei started gathering up the test papers.",
+      "text": "At the behest of the still-scribbling students,\nKoyomi-sensei started gathering up the test papers."
+    },
+    {
+      "offset": 272,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（ぐ……づかれた……）",
+      "en": "\"(Guh... I'm tired...)\"",
+      "text": "\"(Guh... I'm tired...)\""
+    },
+    {
+      "offset": 301,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "机に突っ伏し、音夢の方を見ると、余裕そうに\n友達と話をしていた。",
+      "en": "I leaned onto my desk and looked in Nemu's direction. She\nwas chatting with her friends as usual.\"\u0000",
+      "text": "I leaned onto my desk and looked in Nemu's direction. She\nwas chatting with her friends as usual.\"\u0000"
+    },
+    {
+      "offset": 380,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「じゃあ、このままＨＲにしよっか」",
+      "en": "\"Then, HR will begin now.\"",
+      "text": "\"Then, HR will begin now.\""
+    },
+    {
+      "offset": 421,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "最後が担任だと便利だ。",
+      "en": "That she's the final class of the day is pretty convenient.",
+      "text": "That she's the final class of the day is pretty convenient."
+    },
+    {
+      "offset": 476,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「って言っても、特に何にもないから終わりだ。\n　早く帰って寝るなり勉強するなりするんだか\n　ら、とっとと帰れよ」",
+      "en": "\"...But there's nothing to announce, so I'd end it. All of\nyou go home and either get a good night's rest or study some\nmore.\"",
+      "text": "\"...But there's nothing to announce, so I'd end it. All of\nyou go home and either get a good night's rest or study some\nmore.\""
+    },
+    {
+      "offset": 593,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……おおざっぱな性格なら、なお良し。",
+      "en": "...As casual as always in schedule, but in this occasion I'm\nglad for it.",
+      "text": "...As casual as always in schedule, but in this occasion I'm\nglad for it."
+    },
+    {
+      "offset": 738,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆おおざっぱ◆",
+      "en": "◆Casual◆",
+      "text": "◆Casual◆"
+    },
+    {
+      "offset": 781,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "最後の授業が担任→　そのまま｛ホームルーム／ＨＲ｝→　性格が\nおおざっぱ→　即終わり。",
+      "en": "Last class of the day being with the form teacher -->\nHomeroom --> Casual character --> Quick dismissal.",
+      "text": "Last class of the day being with the form teacher -->\nHomeroom --> Casual character --> Quick dismissal."
+    },
+    {
+      "offset": 871,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "素晴らしいコンボだ。",
+      "en": "A wonderful combination.",
+      "text": "A wonderful combination."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "161": "Koyomi",
+    "374": "Koyomi",
+    "470": "Koyomi"
+  }
+}

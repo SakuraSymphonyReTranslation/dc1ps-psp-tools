@@ -1,0 +1,552 @@
+{
+  "scene": "script_0648.obj",
+  "dialogues": [
+    {
+      "offset": 208,
+      "speaker": "頼子",
+      "speaker_jp": "頼子",
+      "jp": "「行ってらっしゃいませ……」",
+      "en": "Choice 1: I will give up on buying lunch today.",
+      "text": "Choice 1: I will give up on buying lunch today."
+    },
+    {
+      "offset": 243,
+      "speaker": "頼子",
+      "speaker_jp": "頼子",
+      "jp": "「行ってきます」",
+      "en": "Choice 2: I will borrow money from someone.",
+      "text": "Choice 2: I will borrow money from someone."
+    },
+    {
+      "offset": 307,
+      "speaker": "頼子",
+      "speaker_jp": "頼子",
+      "jp": "「行ってらっしゃいませ……か。一生のうちで、\n　まさか、自分にそんな言葉が、かけられるな\n　んてな」",
+      "en": "Choice 3: I will go back home to get my wallet.",
+      "text": "Choice 3: I will go back home to get my wallet."
+    },
+    {
+      "offset": 457,
+      "speaker": "頼子",
+      "speaker_jp": "頼子",
+      "jp": "「お……？」",
+      "en": "Choice 4: A surprisingly cute girl will confess that she\nlikes me and give me a homemade lunch.",
+      "text": "Choice 4: A surprisingly cute girl will confess that she\nlikes me and give me a homemade lunch."
+    },
+    {
+      "offset": 476,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぼんやりと桜に目を遣りながら歩いていると、\nふと、財布を忘れている事に気が付いた。",
+      "en": "\"I can't do choice 1, so it will be either choice 2, 3, or\n4...\"",
+      "text": "\"I can't do choice 1, so it will be either choice 2, 3, or\n4...\""
+    },
+    {
+      "offset": 564,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふむ」",
+      "en": "I turn around. I'm not too far from my house yet. And since\nI woke up on time, I still have time to go back.",
+      "text": "I turn around. I'm not too far from my house yet. And since\nI woke up on time, I still have time to go back."
+    },
+    {
+      "offset": 579,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その１：昼飯は我慢する",
+      "en": "I run back home along the cherry-tree-lined road,\nmaneuvering through the students walking towards school.",
+      "text": "I run back home along the cherry-tree-lined road,\nmaneuvering through the students walking towards school."
+    },
+    {
+      "offset": 606,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その２：誰かから金を借りる",
+      "en": "\"I'm home.\"",
+      "text": "\"I'm home.\""
+    },
+    {
+      "offset": 637,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その３：家に取りに戻る",
+      "en": "I open the door and run upstairs.",
+      "text": "I open the door and run upstairs."
+    },
+    {
+      "offset": 664,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その４：何と！　可愛い女の子が告白と共にお\n　　　　手製のお弁当をくれる",
+      "en": "I grab my wallet from a table and put it in my pocket.",
+      "text": "I grab my wallet from a table and put it in my pocket."
+    },
+    {
+      "offset": 742,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「１は論外として、２か３か４か……」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 785,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "振り返る。幸い、それほど家から離れてはいな\nい。目覚まし通りに起きたから、珍しく時間の\n余裕もある。",
+      "en": "It's when I'm coming down the stairs that I hear a crying\nvoice, between the sounds of my loud footsteps.",
+      "text": "It's when I'm coming down the stairs that I hear a crying\nvoice, between the sounds of my loud footsteps."
+    },
+    {
+      "offset": 888,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "桜の舞い散る並木道を、学生の間を縫うように\nして走り出した。",
+      "en": "(What is it......?)",
+      "text": "(What is it......?)"
+    },
+    {
+      "offset": 991,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ただいまっと」",
+      "en": "I stop and listen.",
+      "text": "I stop and listen."
+    },
+    {
+      "offset": 1014,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "玄関に飛び込むと、どたどたと階段を上がる。",
+      "en": "(Is it the TV? But it didn't come from the living\nroom......)",
+      "text": "(Is it the TV? But it didn't come from the living\nroom......)"
+    },
+    {
+      "offset": 1084,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "テーブルの上に乗っていた財布を、ズボンのポ\nケットにねじ込む。",
+      "en": "The house is quiet and there's no crying voice any more.",
+      "text": "The house is quiet and there's no crying voice any more."
+    },
+    {
+      "offset": 1164,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お？」",
+      "en": "(A break-in?)",
+      "text": "(A break-in?)"
+    },
+    {
+      "offset": 1179,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "階段を下りている時だった。騒々しい足音の合\n間から、“ひえ〜ん”というような、悲痛な｛うめ／呻｝\nきが聞こえてきた。",
+      "en": "I feel like the air's suddenly sucked away from me.",
+      "text": "I feel like the air's suddenly sucked away from me."
+    },
+    {
+      "offset": 1302,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（何だ……？）",
+      "en": "My heart beats fast as I slowly move my feet into the living\nroom.",
+      "text": "My heart beats fast as I slowly move my feet into the living\nroom."
+    },
+    {
+      "offset": 1323,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぴたりと立ち止まり、耳を澄ます。",
+      "en": "\"There's nobody here...... Yoriko-san? Yoriko-san?\"",
+      "text": "\"There's nobody here...... Yoriko-san? Yoriko-san?\""
+    },
+    {
+      "offset": 1362,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（テレビ？　けど、居間から聞こえたんじゃな\n　いような……）",
+      "en": "\"Yes...... What's the matter?\"",
+      "text": "\"Yes...... What's the matter?\""
+    },
+    {
+      "offset": 1428,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "家の中はしんとしていて、もう、あの声は聞こ\nえてこない。",
+      "en": "\"Wow. ......Wh-Why... are you all wet?\"",
+      "text": "\"Wow. ......Wh-Why... are you all wet?\""
+    },
+    {
+      "offset": 1495,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（まさか……強盗とか？）",
+      "en": "She's all wet, from her stomach to her skirt, and the color\nof the wet part on her clothes is darkened by water.",
+      "text": "She's all wet, from her stomach to her skirt, and the color\nof the wet part on her clothes is darkened by water."
+    },
+    {
+      "offset": 1776,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「はい……。あの、どうなさったんですか？」",
+      "en": "\"Oh, this... this is...... oh, no.\"",
+      "text": "\"Oh, this... this is...... oh, no.\""
+    },
+    {
+      "offset": 1874,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お腹からスカートにかけて水で濡れていて、色\nが濃くなってしまっている。",
+      "en": "\"Ah, w-wait......\"",
+      "text": "\"Ah, w-wait......\""
+    },
+    {
+      "offset": 2068,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "来た時と同じ唐突さで、彼女は部屋を出ていっ\nてしまった。",
+      "en": "She suddenly runs out of the living room.",
+      "text": "She suddenly runs out of the living room."
+    },
+    {
+      "offset": 2128,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何だか分からないが、ともかくその後を追う。\n取り敢えず、強盗ではないらしいが……。",
+      "en": "I have no idea what's going on but I just follow her. At\nleast it seems like it wasn't a break-in.",
+      "text": "I have no idea what's going on but I just follow her. At\nleast it seems like it wasn't a break-in."
+    },
+    {
+      "offset": 2226,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "廊下の濡れた足跡を追っていくと、たどりつい\nたのは洗面所だった。",
+      "en": "I follow the wet steps on the floor, and the last one ends\nat the bathroom.",
+      "text": "I follow the wet steps on the floor, and the last one ends\nat the bathroom."
+    },
+    {
+      "offset": 2296,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「うおっ」",
+      "en": "\"Wow!\"",
+      "text": "\"Wow!\""
+    },
+    {
+      "offset": 2324,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ、朝倉さん……」",
+      "en": "\"Ah, Junichi-san......\"",
+      "text": "\"Ah, Junichi-san......\""
+    },
+    {
+      "offset": 2351,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "情けない顔を向ける頼子さんの向こうに、ごう\nごうと泡を吹く洗濯機の姿が……。",
+      "en": "She looks helpless next to a washing machine that's blowing\nout bubbles.",
+      "text": "She looks helpless next to a washing machine that's blowing\nout bubbles."
+    },
+    {
+      "offset": 2433,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……カニ？」",
+      "en": "\"......A big crab?\"",
+      "text": "\"......A big crab?\""
+    },
+    {
+      "offset": 2454,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "などとギャグを言ってみるが、当然ながら事態\nは好転しない。",
+      "en": "It's a joke, but it's not helping the situation at all, of\ncourse.",
+      "text": "It's a joke, but it's not helping the situation at all, of\ncourse."
+    },
+    {
+      "offset": 2518,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「てか、とりあえず脱水だっ」",
+      "en": "\"Anyway, we have to turn on the spin dry.\"",
+      "text": "\"Anyway, we have to turn on the spin dry.\""
+    },
+    {
+      "offset": 2553,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "勇ましく洗濯機に駆け寄り──",
+      "en": "I bravely run to the washing machine ----",
+      "text": "I bravely run to the washing machine ----"
+    },
+    {
+      "offset": 2592,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ゴチンッ！",
+      "en": "Thunk!",
+      "text": "Thunk!"
+    },
+    {
+      "offset": 2607,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "洗剤でヌルまっている床にすっころんだ……。",
+      "en": "I fall over onto the floor that's slippery with detergent.",
+      "text": "I fall over onto the floor that's slippery with detergent."
+    },
+    {
+      "offset": 2654,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 2667,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 2701,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いちち……」",
+      "en": "\"Ouch......\"",
+      "text": "\"Ouch......\""
+    },
+    {
+      "offset": 2722,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "たんこぶを押さえつつ｛うめ／呻｝く。",
+      "en": "I put my hand on the bump.",
+      "text": "I put my hand on the bump."
+    },
+    {
+      "offset": 2798,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「す、すみませんでした……」",
+      "en": "\"I- I am so sorry......\"",
+      "text": "\"I- I am so sorry......\""
+    },
+    {
+      "offset": 2833,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぺこんと、頭とネコ耳を下げる頼子さん。服が\n濡れてしまっているので、今は俺の服を身に着\nけている。",
+      "en": "She bends her head and cat ears down. She's wearing my\nclothes because hers are all wet.",
+      "text": "She bends her head and cat ears down. She's wearing my\nclothes because hers are all wet."
+    },
+    {
+      "offset": 2964,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「……大丈夫、ですか？」",
+      "en": "\"......Are you all right?\"",
+      "text": "\"......Are you all right?\""
+    },
+    {
+      "offset": 2995,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "下げた頭の向こうから、見上げるように顔を窺っ\nてくる。",
+      "en": "She keeps her head bent down and looks into my face.",
+      "text": "She keeps her head bent down and looks into my face."
+    },
+    {
+      "offset": 3055,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ああ、へーきへーき。ちょろっとぶっつけた\n　だけだし」",
+      "en": "\"Oh, I'm fine. I just hit my head lightly.\"",
+      "text": "\"Oh, I'm fine. I just hit my head lightly.\""
+    },
+    {
+      "offset": 3145,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「けれど、あの……」",
+      "en": "\"But......\"",
+      "text": "\"But......\""
+    },
+    {
+      "offset": 3172,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言いにくそうにもじもじしつつ、頼子さんは言っ\nた。",
+      "en": "She says hesitantly,",
+      "text": "She says hesitantly,"
+    },
+    {
+      "offset": 3256,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「凄かった、です。その……一回転して……」",
+      "en": "\"But you turned upside down in the air......\"",
+      "text": "\"But you turned upside down in the air......\""
+    },
+    {
+      "offset": 3305,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「……げ。うそ？　マジで？　……それは見て\n　みたかったかも」",
+      "en": "\"......You're kidding... Really? ......I kind of wish I\ncould see myself do that.\"",
+      "text": "\"......You're kidding... Really? ......I kind of wish I\ncould see myself do that.\""
+    },
+    {
+      "offset": 3384,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あの、やっぱりお医者様を……」",
+      "en": "\"Ah, I think we should get you a doctor......\"",
+      "text": "\"Ah, I think we should get you a doctor......\""
+    },
+    {
+      "offset": 3423,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「いやいや、それは大げさだって」",
+      "en": "\"No, I don't need a doctor.\"",
+      "text": "\"No, I don't need a doctor.\""
+    },
+    {
+      "offset": 3462,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "苦笑しつつ手を振る。",
+      "en": "I force a smile.",
+      "text": "I force a smile."
+    },
+    {
+      "offset": 3487,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目の前の心配顔が医者のそれに取って代わられ\nるのは、どうも面白くない。",
+      "en": "I would rather see the worried look on her face than the one\nof a doctor.",
+      "text": "I would rather see the worried look on her face than the one\nof a doctor."
+    },
+    {
+      "offset": 3563,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「とは言え、いつまでも見ていられないしな\n　……」",
+      "en": "\"But I can't stay watching her either......\"",
+      "text": "\"But I can't stay watching her either......\""
+    },
+    {
+      "offset": 3619,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "時計に目を｛や／遣｝る。もはや、とっくに授業は始まっ\nている。",
+      "en": "I look at my watch. School's already started.",
+      "text": "I look at my watch. School's already started."
+    },
+    {
+      "offset": 3715,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「見るって、あの……何をですか？」",
+      "en": "\"You can't stay watching... what?\"",
+      "text": "\"You can't stay watching... what?\""
+    },
+    {
+      "offset": 3756,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「いや、こっちの話です」",
+      "en": "\"No, it's nothing.\"",
+      "text": "\"No, it's nothing.\""
+    },
+    {
+      "offset": 3787,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうせ授業が始まっているなら、２時限目に時\n間を合わせた方が何かといいだろう。",
+      "en": "The first class has already started. I should go for the\nsecond class than sneaking in the middle of the first class.",
+      "text": "The first class has already started. I should go for the\nsecond class than sneaking in the middle of the first class."
+    },
+    {
+      "offset": 3869,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな訳で、これからの２、３０分ですべき事\nを、俺は言った。",
+      "en": "So I use the 2-30 minutes I have left to tell her what\nshould be done.",
+      "text": "So I use the 2-30 minutes I have left to tell her what\nshould be done."
+    },
+    {
+      "offset": 3935,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そんじゃ、洗濯機と洗剤の関係をレクチャー\n　しましょうかね」",
+      "en": "\"Okay then, I'll teach you how to use the washing machine\nand the detergent.\"",
+      "text": "\"Okay then, I'll teach you how to use the washing machine\nand the detergent.\""
+    },
+    {
+      "offset": 4121,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆洗濯◆",
+      "en": "◆Yoriko◆",
+      "text": "◆Yoriko◆"
+    },
+    {
+      "offset": 4151,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "財布を忘れて家に引き返した俺は、びしょ濡れ\nで慌てる頼子さんと会う。",
+      "en": "\"Thank you.\"",
+      "text": "\"Thank you.\""
+    },
+    {
+      "offset": 4223,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "不思議に思い、後を追っていくとそこは洗面所、\nごうごうと洗濯機が泡を吐いていた。",
+      "en": "\"'I hope you have a nice day', huh? I never thought someone\nwould ever say that to me so sincerely like that.\"",
+      "text": "\"'I hope you have a nice day', huh? I never thought someone\nwould ever say that to me so sincerely like that.\""
+    },
+    {
+      "offset": 4307,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんとかしようとスイッチに手を伸ばした俺だ\nが、洗剤だらけの床にすべり、したたかに頭を\n打ち付けてしまった。",
+      "en": "\"Oh......?\"",
+      "text": "\"Oh......?\""
+    },
+    {
+      "offset": 4437,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "騒ぎが一段落した頃には、授業は既に始まって\nいた。",
+      "en": "I'm looking vacantly at cherry blossoms on the way to the\nschool, when I realize I've forgotten my wallet.",
+      "text": "I'm looking vacantly at cherry blossoms on the way to the\nschool, when I realize I've forgotten my wallet."
+    },
+    {
+      "offset": 4491,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "取りあえず俺は、頼子さんに洗濯機と洗剤の使\nい方をレクチャーしたのだった。",
+      "en": "\"Hmm.\"",
+      "text": "\"Hmm.\""
+    }
+  ],
+  "choices": [],
+  "names": {
+    "1768": "Yoriko",
+    "2316": "Yoriko",
+    "2790": "Yoriko",
+    "2956": "Yoriko",
+    "3137": "Yoriko",
+    "3248": "Yoriko",
+    "3376": "Yoriko",
+    "3707": "Yoriko"
+  }
+}

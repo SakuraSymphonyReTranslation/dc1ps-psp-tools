@@ -1,0 +1,784 @@
+{
+  "scene": "script_0669.obj",
+  "dialogues": [
+    {
+      "offset": 238,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ、お、お帰り……なさい……」",
+      "en": "\"Ah, I......\"",
+      "text": "\"Ah, I......\""
+    },
+    {
+      "offset": 277,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「や、ただいまっと」",
+      "en": "\"Did I...... do okay......?\"",
+      "text": "\"Did I...... do okay......?\""
+    },
+    {
+      "offset": 332,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「…………」",
+      "en": "\"............?\"",
+      "text": "\"............?\""
+    },
+    {
+      "offset": 376,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "靴を脱ごうとしたところで、俺の顔にじっと視\n線が注がれている事に気がついた。",
+      "en": "\"Oh, the 'Hi, Junichi-san' thing? Yeah, yeah, that was\ngreat.\"",
+      "text": "\"Oh, the 'Hi, Junichi-san' thing? Yeah, yeah, that was\ngreat.\""
+    },
+    {
+      "offset": 503,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「い、今ので、その……よろしかったでしょう\n　か……？」",
+      "en": "\"Ah......\"",
+      "text": "\"Ah......\""
+    },
+    {
+      "offset": 661,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ……」",
+      "en": "\"I'll make you some tea......\"",
+      "text": "\"I'll make you some tea......\""
+    },
+    {
+      "offset": 763,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぱたぱたぱた……。",
+      "en": "Patter-patter-patter...",
+      "text": "Patter-patter-patter..."
+    },
+    {
+      "offset": 788,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「う〜ん、いいなあ、こういうのも……」",
+      "en": "\"Hmm... I kind of like this......\"",
+      "text": "\"Hmm... I kind of like this......\""
+    },
+    {
+      "offset": 885,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "着替えてから居間に下りると、テーブルに急須\nと湯飲みが載っていた。",
+      "en": "After I changed my clothes, I come downstairs and find a\nteacup and a teapot on the table.",
+      "text": "After I changed my clothes, I come downstairs and find a\nteacup and a teapot on the table."
+    },
+    {
+      "offset": 955,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "椅子に座ると、すっと目の前に湯飲みがやって\n来て、こぽこぽとお茶が注がれる。",
+      "en": "As I sit down on the chair, she quickly comes to move the\nteacup in front of me and pour tea into it.",
+      "text": "As I sit down on the chair, she quickly comes to move the\nteacup in front of me and pour tea into it."
+    },
+    {
+      "offset": 1070,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「どうぞ……」",
+      "en": "\"Here you go......\"",
+      "text": "\"Here you go......\""
+    },
+    {
+      "offset": 1091,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「ありがと」",
+      "en": "\"Thank you.\"",
+      "text": "\"Thank you.\""
+    },
+    {
+      "offset": 1110,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何ともかいがいしい。何やら、自分がご主人様\nにでもなった気分だ。",
+      "en": "This feels good, and unusual. I feel like I'm the master of\nthe house.",
+      "text": "This feels good, and unusual. I feel like I'm the master of\nthe house."
+    },
+    {
+      "offset": 1178,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──あ、似たようなもんか。",
+      "en": "Well, I am, sort of.",
+      "text": "Well, I am, sort of."
+    },
+    {
+      "offset": 1223,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それに思い至ると、むずむずと落ち着かなくなっ\nた。",
+      "en": "When I think about it, I start to feel uncomfortable, like\nsomething's tickling my body.",
+      "text": "When I think about it, I start to feel uncomfortable, like\nsomething's tickling my body."
+    },
+    {
+      "offset": 1277,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まるで、皮膚に入り込んだ小さなトゲを取り出\nそうと、悪戦苦闘しているような。",
+      "en": "It feels like I'm fighting to get rid of prickles stung into\nmy skin.",
+      "text": "It feels like I'm fighting to get rid of prickles stung into\nmy skin."
+    },
+    {
+      "offset": 1357,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自分でも良く理解の出来ない心情の変化だった。",
+      "en": "It's difficult even for me to understand how I feel.",
+      "text": "It's difficult even for me to understand how I feel."
+    },
+    {
+      "offset": 1408,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（何なんだ、急に、俺は……？）",
+      "en": "(What's going on with me......?)",
+      "text": "(What's going on with me......?)"
+    },
+    {
+      "offset": 1445,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いらいらとお茶をすする。",
+      "en": "I sip the tea, feeling a little bit frustrated.",
+      "text": "I sip the tea, feeling a little bit frustrated."
+    },
+    {
+      "offset": 1476,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（あ、美味いな……）",
+      "en": "(Oh, this tastes good......)",
+      "text": "(Oh, this tastes good......)"
+    },
+    {
+      "offset": 1503,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "味も温度も申し分なくて、身も心もほっこりと\n落ち着いていった。",
+      "en": "The taste and the temperature of the tea are perfect, and it\nreally helps me relax.",
+      "text": "The taste and the temperature of the tea are perfect, and it\nreally helps me relax."
+    },
+    {
+      "offset": 1571,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふう……」",
+      "en": "\"Hahhh......\"",
+      "text": "\"Hahhh......\""
+    },
+    {
+      "offset": 1590,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "身体の中に湧き出てきた何かを、吐息と共に吐\nき出した。",
+      "en": "The indescribable feeling I has is blown out with the deep\nexhale.",
+      "text": "The indescribable feeling I has is blown out with the deep\nexhale."
+    },
+    {
+      "offset": 1688,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ、あの……」",
+      "en": "\"Ah......\"",
+      "text": "\"Ah......\""
+    },
+    {
+      "offset": 1711,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「ん？」",
+      "en": "\"Yes?\"",
+      "text": "\"Yes?\""
+    },
+    {
+      "offset": 1754,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「そ、そのですね……私……」",
+      "en": "\"I... umm......\"",
+      "text": "\"I... umm......\""
+    },
+    {
+      "offset": 1800,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1819,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の目を避けるように、じっと湯飲みに視線を\n注いでいる。お茶が溢れないかと心配だったり。",
+      "en": "Avoiding eye contact with me, she keeps staring at my\nteacup. I begin to worry...",
+      "text": "Avoiding eye contact with me, she keeps staring at my\nteacup. I begin to worry..."
+    },
+    {
+      "offset": 1911,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "これまでのつき合いから、この｛ま／間｝は、何かお願\nいをしようとしているのだなと察した。",
+      "en": "Because I know this thing she always does of holding the\nmoment. It's easy to guess that she has a favor to ask me.",
+      "text": "Because I know this thing she always does of holding the\nmoment. It's easy to guess that she has a favor to ask me."
+    },
+    {
+      "offset": 2003,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "湯飲みに口をつけ、果たして頼子さんは言った。",
+      "en": "I bring my teacup to my mouth. And Yoriko-san says...",
+      "text": "I bring my teacup to my mouth. And Yoriko-san says..."
+    },
+    {
+      "offset": 2082,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「……料理……作りたいと思うのですが……」",
+      "en": "\"......I would like to...... cook......\"",
+      "text": "\"......I would like to...... cook......\""
+    },
+    {
+      "offset": 2131,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「う」",
+      "en": "\"Ug.\"",
+      "text": "\"Ug.\""
+    },
+    {
+      "offset": 2144,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "げ。",
+      "en": "Shit.",
+      "text": "Shit."
+    },
+    {
+      "offset": 2153,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……危ない危ない。半分のところで飲み下した。",
+      "en": "...That was close. I almost squirted tea out of my nose.",
+      "text": "...That was close. I almost squirted tea out of my nose."
+    },
+    {
+      "offset": 2204,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ、いや、でも、まだ早いんじゃないかな？」",
+      "en": "\"Ah, well... I think you need more time.\"",
+      "text": "\"Ah, well... I think you need more time.\""
+    },
+    {
+      "offset": 2255,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何せ、昨日の今日である。そうそう、すぐに出\n来るようになるとは思えないが……。",
+      "en": "It was yesterday that she read cookery books for the first\ntime. I don't think she's ready to be able to cook......",
+      "text": "It was yesterday that she read cookery books for the first\ntime. I don't think she's ready to be able to cook......"
+    },
+    {
+      "offset": 2367,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「で、ですけど……その……」",
+      "en": "\"I know...... But......\"",
+      "text": "\"I know...... But......\""
+    },
+    {
+      "offset": 2430,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「本を読んでいるばかりで……出来るようにな\n　るのでしょうか……？」",
+      "en": "\"How can I learn to cook when I'm only reading a book?\"",
+      "text": "\"How can I learn to cook when I'm only reading a book?\""
+    },
+    {
+      "offset": 2504,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「う〜ん、まあ、ねえ……」",
+      "en": "\"Yeah, you have a point......\"",
+      "text": "\"Yeah, you have a point......\""
+    },
+    {
+      "offset": 2537,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "たしかに、実技も必要だろう。正論ではある。\nしかし、実技を支えるのは、確かな知識である\nのも正論な訳で……。",
+      "en": "I believe learning by doing it is necessary. She's right\nabout that. But it's also true that having the basic\nknowledge first is crucial for learning by doing.",
+      "text": "I believe learning by doing it is necessary. She's right\nabout that. But it's also true that having the basic\nknowledge first is crucial for learning by doing."
+    },
+    {
+      "offset": 2650,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「えとさ、あれに載っている事は、一通り覚え\n　たのかな？」",
+      "en": "\"So, you read through the books and learned the basics?\"",
+      "text": "\"So, you read through the books and learned the basics?\""
+    },
+    {
+      "offset": 2714,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "千切りとみじん切りの｛い／井｝の中から飛び出せたの\nかどうか、それが気になる。大海は広いんだぞ、\nと。",
+      "en": "Did she pass the stage of learning 'cutting into strips' and\n'mince'? She needs to know that cooking isn't just about\nthose.",
+      "text": "Did she pass the stage of learning 'cutting into strips' and\n'mince'? She needs to know that cooking isn't just about\nthose."
+    },
+    {
+      "offset": 2849,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ、はい……だいたいは……」",
+      "en": "\"Ah, yes...... I did......\"",
+      "text": "\"Ah, yes...... I did......\""
+    },
+    {
+      "offset": 2886,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「ふむ……」",
+      "en": "\"Hmm......\"",
+      "text": "\"Hmm......\""
+    },
+    {
+      "offset": 2905,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "冷めてしまったお茶をぐいっと飲み下す。まあ、\n頼子さんがそう言うならそうなんだろう。",
+      "en": "My tea's already getting cold, but I drink it up. Well, if\nshe says so, I have to believe her.",
+      "text": "My tea's already getting cold, but I drink it up. Well, if\nshe says so, I have to believe her."
+    },
+    {
+      "offset": 2995,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「分かった。じゃあ、やってみなよ」",
+      "en": "\"Okay. Then you should try.\"",
+      "text": "\"Okay. Then you should try.\""
+    },
+    {
+      "offset": 3064,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ、はい……」",
+      "en": "\"Ah, yes......\"",
+      "text": "\"Ah, yes......\""
+    },
+    {
+      "offset": 3115,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ、で、でも……その……」",
+      "en": "\"Ah, b-but...... ummm......\"",
+      "text": "\"Ah, b-but...... ummm......\""
+    },
+    {
+      "offset": 3150,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "風呂場に持ち込まれた眼鏡のように、笑顔が一\n瞬で曇る。",
+      "en": "Just like a pair of glasses brought into a sauna room, her\nsmile fogs right up.",
+      "text": "Just like a pair of glasses brought into a sauna room, her\nsmile fogs right up."
+    },
+    {
+      "offset": 3221,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「食材は……その……えと……」",
+      "en": "\"I need...... the ingredients...... to cook......\"",
+      "text": "\"I need...... the ingredients...... to cook......\""
+    },
+    {
+      "offset": 3258,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「ああ、分かってるって。俺が買ってくるよ。\n　で、何を作るつもりなのかな？」",
+      "en": "\"Yeah, I know. I'll go get them for you. What are you going\nto make?\"",
+      "text": "\"Yeah, I know. I'll go get them for you. What are you going\nto make?\""
+    },
+    {
+      "offset": 3368,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ、はい、それはですね……」",
+      "en": "\"Ah, yes. I am going to make......\"",
+      "text": "\"Ah, yes. I am going to make......\""
+    },
+    {
+      "offset": 3465,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「カレー、か」",
+      "en": "\"Curry and rice, huh?\"",
+      "text": "\"Curry and rice, huh?\""
+    },
+    {
+      "offset": 3486,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "メモに記されたリストに目を通す。無難なチョ\nイスではあるな。",
+      "en": "I look through the list of groceries. Curry's a very safe\nchoice, I guess.",
+      "text": "I look through the list of groceries. Curry's a very safe\nchoice, I guess."
+    },
+    {
+      "offset": 3552,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まあ、カレーなら食えない物体が出来る事は\n　ないだろう」",
+      "en": "\"Nobody can mess up with curry.\"",
+      "text": "\"Nobody can mess up with curry.\""
+    },
+    {
+      "offset": 3616,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3635,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「でもまあ……冷凍食品も買っておくか」",
+      "en": "\"But just in case I should buy some frozen meals, too.\"",
+      "text": "\"But just in case I should buy some frozen meals, too.\""
+    },
+    {
+      "offset": 3680,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それなりに失礼な事を呟きつつ、スーパーを目\n指す。",
+      "en": "Murmuring faintly rude things, I go out to a grocery store.",
+      "text": "Murmuring faintly rude things, I go out to a grocery store."
+    },
+    {
+      "offset": 3734,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そういや、まともに食材を買うなんてずいぶん\n久しぶりのような。もしや、初めて……？",
+      "en": "It's been a long time since I bought real food. Or maybe\nthis is the first time......?",
+      "text": "It's been a long time since I bought real food. Or maybe\nthis is the first time......?"
+    },
+    {
+      "offset": 3822,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……俺の食生活って、何だったんだ……？」",
+      "en": "\"......What have I been eating......?\"",
+      "text": "\"......What have I been eating......?\""
+    },
+    {
+      "offset": 3883,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "………。",
+      "en": ".........",
+      "text": "........."
+    },
+    {
+      "offset": 3896,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 3907,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…。",
+      "en": "...",
+      "text": "..."
+    },
+    {
+      "offset": 3937,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さて、帰るか……」",
+      "en": "\"I'm all done......\"",
+      "text": "\"I'm all done......\""
+    },
+    {
+      "offset": 3964,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "膨らんだビニール袋を手にスーパーから出た。\nメモに目を落とし、リストを確認する。",
+      "en": "I walk out of the store with a big grocery bag in my hand. I\nlook at the list again and check that I've got everything.",
+      "text": "I walk out of the store with a big grocery bag in my hand. I\nlook at the list again and check that I've got everything."
+    },
+    {
+      "offset": 4050,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「買い逃しも……ないな」",
+      "en": "\"I got everything......\"",
+      "text": "\"I got everything......\""
+    },
+    {
+      "offset": 4081,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちょっとした主夫の気分を味わいつつ、商店街\nの出口に向かう。",
+      "en": "Feeling like a husband, I keep walking to the end of the\nstreet.",
+      "text": "Feeling like a husband, I keep walking to the end of the\nstreet."
+    },
+    {
+      "offset": 4145,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "行き過ぎる人の中には、やはり主婦らしき人の\n姿が多い。袋から長ネギがはみ出てるのは……\nもしかして、デフォルト？",
+      "en": "There are many women who look like wives on this street. Why\ndoes everybody have a long onion sticking out of their bag?\nIs there a rule of how to put groceries in a bag??",
+      "text": "There are many women who look like wives on this street. Why\ndoes everybody have a long onion sticking out of their bag?\nIs there a rule of how to put groceries in a bag??"
+    },
+    {
+      "offset": 4262,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 4281,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「けど、頼子さんて何で、外に出たがらないん\n　だろうな……？」",
+      "en": "\"But why doesn't Yoriko-san want to go outside......?\"",
+      "text": "\"But why doesn't Yoriko-san want to go outside......?\""
+    },
+    {
+      "offset": 4349,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並が言ったように外が嫌いではあるんだろう。\n問題は、｛・・／何故｝嫌いなのかってところにある。",
+      "en": "Like Suginami told me, I guess she hates to go outside. But\nthe question is why?",
+      "text": "Like Suginami told me, I guess she hates to go outside. But\nthe question is why?"
+    },
+    {
+      "offset": 4451,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「何故……か」",
+      "en": "\"Why......?\"",
+      "text": "\"Why......?\""
+    },
+    {
+      "offset": 4472,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "デリケートな問題を含んでいるようで、｛き／訊｝いて\nいいものやら悩むところではある。",
+      "en": "It seems to be a delicate question and I don't know if I\nshould ask her or not.",
+      "text": "It seems to be a delicate question and I don't know if I\nshould ask her or not."
+    },
+    {
+      "offset": 4562,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「その昔、ドラ猫に引っ｛か／掻｝かれたとか……」",
+      "en": "\"Maybe once upon a time a street cat scratched her\nface......\"",
+      "text": "\"Maybe once upon a time a street cat scratched her\nface......\""
+    },
+    {
+      "offset": 4617,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そういう｛ほほえ／微笑｝ましい理由ならいいのだが。",
+      "en": "I hope her reason is something cute like that.",
+      "text": "I hope her reason is something cute like that."
+    },
+    {
+      "offset": 4685,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん……？」",
+      "en": "\"Huh......?\"",
+      "text": "\"Huh......?\""
+    },
+    {
+      "offset": 4706,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そろそろ商店街を出るというところで、それに\n気が付いた。",
+      "en": "I'm almost to the end of the street when I notice it.",
+      "text": "I'm almost to the end of the street when I notice it."
+    },
+    {
+      "offset": 4766,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "羊の群の中に、場違いな狼が紛れ込んでいるよ\nうに、それは俺の目に飛び込んできた。",
+      "en": "I find it like finding a wolf in a bunch of sheep.",
+      "text": "I find it like finding a wolf in a bunch of sheep."
+    },
+    {
+      "offset": 4850,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "電柱。そこに白いチラシが張り付けられている。\n例の、あれ。",
+      "en": "There's a light pole with a white flyer stapled on it.",
+      "text": "There's a light pole with a white flyer stapled on it."
+    },
+    {
+      "offset": 4912,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、その前に立った。",
+      "en": "I stand in front of it.",
+      "text": "I stand in front of it."
+    },
+    {
+      "offset": 4946,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「猫を探してます……か」",
+      "en": "\"I am looking for my cat......\"",
+      "text": "\"I am looking for my cat......\""
+    },
+    {
+      "offset": 4977,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昨日の自分の台詞が思い出される。“飼い主は\nワラをも｛つか／掴｝む気持ちで──”",
+      "en": "I remember what I told Suginami yesterday. The owner must be\nso desperate......",
+      "text": "I remember what I told Suginami yesterday. The owner must be\nso desperate......"
+    },
+    {
+      "offset": 5061,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "商店街の人達は、電柱には目もくれず、通り過\nぎていく。",
+      "en": "People keep passing by without even taking a look at it.",
+      "text": "People keep passing by without even taking a look at it."
+    },
+    {
+      "offset": 5121,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「杉並を恨むぜ、ほんと」",
+      "en": "\"It's Suginami's fault.\"",
+      "text": "\"It's Suginami's fault.\""
+    },
+    {
+      "offset": 5152,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺もあんな風に、素知らぬ顔で歩けたら良かっ\nたのに。",
+      "en": "I wish I could walk away like the others.",
+      "text": "I wish I could walk away like the others."
+    },
+    {
+      "offset": 5210,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……でも、彼女は猫じゃない」",
+      "en": "\"......But she's not a cat.\"",
+      "text": "\"......But she's not a cat.\""
+    },
+    {
+      "offset": 5247,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自分に言い聞かせるように呟き、俺はその場を\n去った。",
+      "en": "I tell myself, walking away.",
+      "text": "I tell myself, walking away."
+    },
+    {
+      "offset": 5303,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "チラシに記載された連絡先には、どうしても\n目を向けられなかった──。",
+      "en": "I couldn't look at the contact information on the flyer...",
+      "text": "I couldn't look at the contact information on the flyer..."
+    },
+    {
+      "offset": 5497,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆『猫を探しています』◆",
+      "en": "◆Junichi◆",
+      "text": "◆Junichi◆"
+    },
+    {
+      "offset": 5550,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "料理を作ってみたいと言う頼子さんに頼まれ、\n俺は買い物に出かけることになった。",
+      "en": "Patter-patter-patter...",
+      "text": "Patter-patter-patter..."
+    },
+    {
+      "offset": 5632,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "彼女は相変わらず外には出たがらない。",
+      "en": "\"Ah... H-Hi...... Junichi-san......\"",
+      "text": "\"Ah... H-Hi...... Junichi-san......\""
+    },
+    {
+      "offset": 5675,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "買い物を終え、帰宅しようとした時、電柱に貼っ\nてあったチラシが目に入った。",
+      "en": "\"Hi, Yoriko-san.\"",
+      "text": "\"Hi, Yoriko-san.\""
+    },
+    {
+      "offset": 5753,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『猫を探しています』",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 5778,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつか杉並に見せられたものと同じものだ。",
+      "en": "\"......Mm? What?\"",
+      "text": "\"......Mm? What?\""
+    },
+    {
+      "offset": 5823,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "彼女は猫じゃない、そう思っていても俺は、そ\nの連絡先にはどうしても目を向けられなかった。",
+      "en": "As I'm about to take off my shoes, I notice she's staring at\nme.",
+      "text": "As I'm about to take off my shoes, I notice she's staring at\nme."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "230": "Yoriko",
+    "324": "Yoriko",
+    "495": "Yoriko",
+    "653": "Yoriko",
+    "1062": "Yoriko",
+    "1680": "Yoriko",
+    "1746": "Yoriko",
+    "1792": "Yoriko",
+    "2074": "Yoriko",
+    "2359": "Yoriko",
+    "2422": "Yoriko",
+    "2841": "Yoriko",
+    "3056": "Yoriko",
+    "3107": "Yoriko",
+    "3213": "Yoriko",
+    "3360": "Yoriko"
+  }
+}

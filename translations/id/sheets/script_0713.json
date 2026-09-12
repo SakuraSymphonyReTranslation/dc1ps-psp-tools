@@ -1,0 +1,718 @@
+{
+  "scene": "script_0713.obj",
+  "dialogues": [
+    {
+      "offset": 187,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「Ｚ……」",
+      "en": "\"Zzz......\"",
+      "text": "\"Zzz......\""
+    },
+    {
+      "offset": 236,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あの……朝倉さん？」",
+      "en": "\"Junichi-san...... please wake up......\"",
+      "text": "\"Junichi-san...... please wake up......\""
+    },
+    {
+      "offset": 384,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ゆさゆさ。ゆさゆさ。",
+      "en": "Shake, shake.",
+      "text": "Shake, shake."
+    },
+    {
+      "offset": 411,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ＺＺＺ……」",
+      "en": "\"Zzz.........\"",
+      "text": "\"Zzz.........\""
+    },
+    {
+      "offset": 443,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「困ったな……今朝はなかなか起きてくれない」",
+      "en": "\"What should I do......? He isn't waking up this\nmorning......\"",
+      "text": "\"What should I do......? He isn't waking up this\nmorning......\""
+    },
+    {
+      "offset": 505,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「もう時間だし……どうしたら……」",
+      "en": "\"It's already the time he needs to wake up...... What should\nI do......?\"",
+      "text": "\"It's already the time he needs to wake up...... What should\nI do......?\""
+    },
+    {
+      "offset": 546,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「Ｚ……ＺＺ……」",
+      "en": "\"Zzz......Zzz......\"",
+      "text": "\"Zzz......Zzz......\""
+    },
+    {
+      "offset": 582,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 612,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「でも……そんな事……していいのかしら？」",
+      "en": "\"But...... Should I...... really do that......?\"",
+      "text": "\"But...... Should I...... really do that......?\""
+    },
+    {
+      "offset": 672,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 702,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「ん……」",
+      "en": "\"Mm......\"",
+      "text": "\"Mm......\""
+    },
+    {
+      "offset": 719,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "（んん？　何だ？　この感触……。柔らかい\n　……）",
+      "en": "(Mmmm? What......? What is this touch...... It's so soft...)",
+      "text": "(Mmmm? What......? What is this touch...... It's so soft...)"
+    },
+    {
+      "offset": 775,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "（それに、何だろうな……？　香水のような、\n　いい匂いが……）",
+      "en": "(And what's this......? It smells nice, like a\nperfume......)",
+      "text": "(And what's this......? It smells nice, like a\nperfume......)"
+    },
+    {
+      "offset": 854,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 873,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "（あ……離れていっちゃった……どこに……？）",
+      "en": "(Ah...... it went away...... where did it go......?)",
+      "text": "(Ah...... it went away...... where did it go......?)"
+    },
+    {
+      "offset": 976,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ……」",
+      "en": "\"Ah......\"",
+      "text": "\"Ah......\""
+    },
+    {
+      "offset": 993,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頼子さんだった。顔が真っ赤だ。口元を手で｛おお／覆｝っ\nているのが、妙に目につく。",
+      "en": "It's Yoriko. Her face is red and she's covering her mouth\nwith her hand.",
+      "text": "It's Yoriko. Her face is red and she's covering her mouth\nwith her hand."
+    },
+    {
+      "offset": 1083,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん？　どうかした？」",
+      "en": "\"What's wrong?\"",
+      "text": "\"What's wrong?\""
+    },
+    {
+      "offset": 1112,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目覚ましを止めつつ、｛かたわ／側｝らの頼子さんを見ると、\n何かの魔法をかけられたように、カチカチになっ\nている。",
+      "en": "Her entire body's stiff like a rock, as if she's been\nenchanted.",
+      "text": "Her entire body's stiff like a rock, as if she's been\nenchanted."
+    },
+    {
+      "offset": 1257,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あっ、い、いえっ……その……」",
+      "en": "\"Ah, n-no...... I mean......\"",
+      "text": "\"Ah, n-no...... I mean......\""
+    },
+    {
+      "offset": 1296,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「おおっ」",
+      "en": "\"Oh?\"",
+      "text": "\"Oh?\""
+    },
+    {
+      "offset": 1313,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しゅいしゅいと、スウェーして避ける。",
+      "en": "I dodge to the right and to the left.",
+      "text": "I dodge to the right and to the left."
+    },
+    {
+      "offset": 1354,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "髪の毛の先に重しがついていたら、立派な武器\nになりそうな程、ぶんぶんと首を振ったのだ。",
+      "en": "She's shaking her head from side to side so hard that if she\nhad metal on the end of her hair, it could have been a\nstrong weapon.",
+      "text": "She's shaking her head from side to side so hard that if she\nhad metal on the end of her hair, it could have been a\nstrong weapon."
+    },
+    {
+      "offset": 1474,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ、お、おはようございます。そ、それじゃ」",
+      "en": "\"Ah, G-Good morning. B-Bye.\"",
+      "text": "\"Ah, G-Good morning. B-Bye.\""
+    },
+    {
+      "offset": 1537,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "口の中でむにゃむにゃ呟くと、逃げるように部\n屋を出ていった。",
+      "en": "She mumbles, and leaves my room as if she was running away\nfrom something.",
+      "text": "She mumbles, and leaves my room as if she was running away\nfrom something."
+    },
+    {
+      "offset": 1603,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん？　ん？」",
+      "en": "\"What? What?\"",
+      "text": "\"What? What?\""
+    },
+    {
+      "offset": 1624,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何なんだ？　首を傾げつつも朝の仕度を始める。\n今朝は、少し寝過ごしたらしい。",
+      "en": "What was that about? Tilting my head in question, I start to\nget ready. I think I overslept a little bit this morning.",
+      "text": "What was that about? Tilting my head in question, I start to\nget ready. I think I overslept a little bit this morning."
+    },
+    {
+      "offset": 1706,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん……あれ？」",
+      "en": "\"Huh......what?\"",
+      "text": "\"Huh......what?\""
+    },
+    {
+      "offset": 1729,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "シャツに腕を通しながら、ふと、口元に何かの\n感触が残っている事に気がついた。",
+      "en": "As I put my shirt on, I notice there's a touch left on my\nlips.",
+      "text": "As I put my shirt on, I notice there's a touch left on my\nlips."
+    },
+    {
+      "offset": 1811,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そういや……」",
+      "en": "\"Oh, yeah......\"",
+      "text": "\"Oh, yeah......\""
+    },
+    {
+      "offset": 1834,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そもそも、失われた感触を求めて、目が覚めた\nはず。そして、向けた目の先には頼子さんが。",
+      "en": "I remember that I woke up trying to find the touch that had\nmoved away from me. And when I opened my eyes, there was\nYoriko-san.",
+      "text": "I remember that I woke up trying to find the touch that had\nmoved away from me. And when I opened my eyes, there was\nYoriko-san."
+    },
+    {
+      "offset": 1924,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "より正確には、頼子さんの唇が。",
+      "en": "To be more specific, it was her lips in front of my face.",
+      "text": "To be more specific, it was her lips in front of my face."
+    },
+    {
+      "offset": 1961,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふむ……」",
+      "en": "\"Hummm......\"",
+      "text": "\"Hummm......\""
+    },
+    {
+      "offset": 1980,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "１と１を足してみる。その答えは──。",
+      "en": "1 plus 1 is...",
+      "text": "1 plus 1 is..."
+    },
+    {
+      "offset": 2023,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……魔法をかけられたのは俺だったか。石化\n　じゃないけれど」",
+      "en": "\"......Was it me myself who was enchanted?\"",
+      "text": "\"......Was it me myself who was enchanted?\""
+    },
+    {
+      "offset": 2091,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……うぎゃ〜〜！！」",
+      "en": "\"......Uwaaaaahhhh!!\"",
+      "text": "\"......Uwaaaaahhhh!!\""
+    },
+    {
+      "offset": 2120,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "悲鳴を上げた。",
+      "en": "I scream.",
+      "text": "I scream."
+    },
+    {
+      "offset": 2139,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "嬉しくて。",
+      "en": "I'm happy.",
+      "text": "I'm happy."
+    },
+    {
+      "offset": 2179,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……って、まさか、そんなのはな……」",
+      "en": "\"......No... it can't be......\"",
+      "text": "\"......No... it can't be......\""
+    },
+    {
+      "offset": 2257,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「ど、どうか……しました？」",
+      "en": "\"Wh-What's the matter......?\"",
+      "text": "\"Wh-What's the matter......?\""
+    },
+    {
+      "offset": 2292,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何かの熱病を心配させるほどに、頼子さんの顔\nは赤い。",
+      "en": "Her face is so red that it makes me worry if she's sick with\nhigh fever.",
+      "text": "Her face is so red that it makes me worry if she's sick with\nhigh fever."
+    },
+    {
+      "offset": 2350,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あいやいや。何でも……」",
+      "en": "\"Oh, no, no. It's nothing......\"",
+      "text": "\"Oh, no, no. It's nothing......\""
+    },
+    {
+      "offset": 2383,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さっきから、パンには手をつけずにコーヒーば\nかりを飲んでいる。",
+      "en": "I've been drinking coffee and not even touching bread\nbecause if I eat something, I think the touch left on my\nlips could disappear.",
+      "text": "I've been drinking coffee and not even touching bread\nbecause if I eat something, I think the touch left on my\nlips could disappear."
+    },
+    {
+      "offset": 2449,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "食べると、感触が消えそうで……。",
+      "en": "\"Ummm.\"",
+      "text": "\"Ummm.\""
+    },
+    {
+      "offset": 2488,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「う〜む」",
+      "en": "I can't leave it like this. This is a big thing to me.",
+      "text": "I can't leave it like this. This is a big thing to me."
+    },
+    {
+      "offset": 2505,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やっぱりうやむやにはしておけないな。俺にとっ\nては、重大な出来事だぞ。",
+      "en": "\"Yoriko-san, I want to ask you something.\"",
+      "text": "\"Yoriko-san, I want to ask you something.\""
+    },
+    {
+      "offset": 2669,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「は、はいっ。……何でしょう？」",
+      "en": "\"Y-Yes! ......What is it?\"",
+      "text": "\"Y-Yes! ......What is it?\""
+    },
+    {
+      "offset": 2708,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「頼子さんさ、もしかして、朝に──」",
+      "en": "\"Yoriko-san, this morning, did you......\"",
+      "text": "\"Yoriko-san, this morning, did you......\""
+    },
+    {
+      "offset": 2792,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2811,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "キス｛ぎごく／疑獄｝はあっさりと──でもないが──否定\nされた。",
+      "en": "She easily --well, not quite-- denied the allegation about\nthe kiss.",
+      "text": "She easily --well, not quite-- denied the allegation about\nthe kiss."
+    },
+    {
+      "offset": 2879,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "否定した時のあまりのアセアセぶりは怪しかっ\nたが、ともかく言葉では否定された。",
+      "en": "She reacted very suspiciously when she denied it, but her\nwords were clearly ones of denial.",
+      "text": "She reacted very suspiciously when she denied it, but her\nwords were clearly ones of denial."
+    },
+    {
+      "offset": 2963,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まあ、彼女がキスをする理由もないしな……。\n　はあ……」",
+      "en": "\"Well, it's true that there's no reason for her to kiss\nme... Sigh.\"",
+      "text": "\"Well, it's true that there's no reason for her to kiss\nme... Sigh.\""
+    },
+    {
+      "offset": 3027,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はあ……あ……ふわ〜あ……」",
+      "en": "\"Sigh... Aaah...... Yawn......\"",
+      "text": "\"Sigh... Aaah...... Yawn......\""
+    },
+    {
+      "offset": 3064,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛せんさい／繊細｝なはずのため息が、なぜか大きなあくびに\nコンバートしてしまう。",
+      "en": "It was supposed to be a very sensitive sigh but somehow it\nturned into a yawn.",
+      "text": "It was supposed to be a very sensitive sigh but somehow it\nturned into a yawn."
+    },
+    {
+      "offset": 3150,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ゛〜……眠い」",
+      "en": "\"Ugh...... I'm sleepy.\"",
+      "text": "\"Ugh...... I'm sleepy.\""
+    },
+    {
+      "offset": 3175,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "二日も続けて夢を見せられたせいで、睡魔の戦\n闘力がスカウターぎりぎりだ。",
+      "en": "Since I've been forced to have dreams for two days in a row,\nI have no power left to fight off sleep.",
+      "text": "Since I've been forced to have dreams for two days in a row,\nI have no power left to fight off sleep."
+    },
+    {
+      "offset": 3253,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……寝よ」",
+      "en": "\"......I should sleep...\"",
+      "text": "\"......I should sleep...\""
+    },
+    {
+      "offset": 3272,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "学園で。半分眠ったような頭で、てくてくと寝\n床へ向かう。",
+      "en": "...at school. I'm half-asleep as I walk to 'my bed', as I\nlike to call my desk at school.",
+      "text": "...at school. I'm half-asleep as I walk to 'my bed', as I\nlike to call my desk at school."
+    },
+    {
+      "offset": 3346,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ、マジやば……」",
+      "en": "\"I really don't feel good......\"",
+      "text": "\"I really don't feel good......\""
+    },
+    {
+      "offset": 3373,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "日射病のように視界が白くかすむ。勝手知った\nる道なので、歩く事は出来るが……。",
+      "en": "It's like having sunstroke -- my vision's blurry and white.\nI can still keep walking because I know this road, but......",
+      "text": "It's like having sunstroke -- my vision's blurry and white.\nI can still keep walking because I know this road, but......"
+    },
+    {
+      "offset": 3455,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "………。",
+      "en": ".........",
+      "text": "........."
+    },
+    {
+      "offset": 3468,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 3479,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…。",
+      "en": "...",
+      "text": "..."
+    },
+    {
+      "offset": 3495,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "キキッー！！",
+      "en": "Screeeechh!",
+      "text": "Screeeechh!"
+    },
+    {
+      "offset": 3514,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「え……？」",
+      "en": "\"What......?\"",
+      "text": "\"What......?\""
+    },
+    {
+      "offset": 3533,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "車っ！？",
+      "en": "A car!?",
+      "text": "A car!?"
+    },
+    {
+      "offset": 3548,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おわっ！！」",
+      "en": "\"Oh!!\"",
+      "text": "\"Oh!!\""
+    },
+    {
+      "offset": 3569,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あ……身体が宙に舞う感覚。そして──、",
+      "en": "Ah...... My body is flying through the air. And......",
+      "text": "Ah...... My body is flying through the air. And......"
+    },
+    {
+      "offset": 3612,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": ".........",
+      "text": "........."
+    },
+    {
+      "offset": 3639,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 3711,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「も、もう、やだ、私ったら……」",
+      "en": "\"No, no! What have I done......?\"",
+      "text": "\"No, no! What have I done......?\""
+    },
+    {
+      "offset": 3761,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ、あんな事……しちゃうなんて……」",
+      "en": "\"I can't believe I... did it......\"",
+      "text": "\"I can't believe I... did it......\""
+    },
+    {
+      "offset": 3817,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3864,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「でも……」",
+      "en": "\"But......\"",
+      "text": "\"But......\""
+    },
+    {
+      "offset": 3894,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「柔らかくて……温かかったな……」",
+      "en": "\"It was so soft...... and warm......\"",
+      "text": "\"It was so soft...... and warm......\""
+    },
+    {
+      "offset": 3946,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3993,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「や、やだ、また顔が熱い……」",
+      "en": "\"No! M-My face is so hot again......\"",
+      "text": "\"No! M-My face is so hot again......\""
+    },
+    {
+      "offset": 4063,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「…………？　救急車の音……？」",
+      "en": "\"............? An ambulance......?\"",
+      "text": "\"............? An ambulance......?\""
+    },
+    {
+      "offset": 4130,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「救急車……病院……か」",
+      "en": "\"An ambulance...... a hospital......?\"",
+      "text": "\"An ambulance...... a hospital......?\""
+    },
+    {
+      "offset": 4197,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "………。",
+      "en": ".........",
+      "text": "........."
+    },
+    {
+      "offset": 4210,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 4221,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…。",
+      "en": "...",
+      "text": "..."
+    },
+    {
+      "offset": 4334,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆救急車の音◆",
+      "en": "◆Junichi◆",
+      "text": "◆Junichi◆"
+    },
+    {
+      "offset": 4381,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……起こしに来てくれた頼子さんに、キスをさ\nれたような、でも本人に真っ赤な顔で否定され\nてしまった。",
+      "en": "\"Zzz, zzz......\"",
+      "text": "\"Zzz, zzz......\""
+    },
+    {
+      "offset": 4507,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少々意気消沈しながら登校。二日続けて夢を見\nせられたせいで眠くてしょうがない",
+      "en": "\"Ah...... Junichi-san?\"",
+      "text": "\"Ah...... Junichi-san?\""
+    },
+    {
+      "offset": 4587,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふらふらと歩いていると突然、衝撃と体が宙に\nまう感覚に襲われたのだった。",
+      "en": "\"It's morning...... Please wake up......\"",
+      "text": "\"It's morning...... Please wake up......\""
+    }
+  ],
+  "choices": [],
+  "names": {
+    "228": "Yoriko",
+    "435": "Yoriko",
+    "497": "Yoriko",
+    "574": "Yoriko",
+    "604": "Yoriko",
+    "664": "Yoriko",
+    "694": "Yoriko",
+    "846": "Yoriko",
+    "968": "Yoriko",
+    "1249": "Yoriko",
+    "1466": "Yoriko",
+    "2249": "Yoriko",
+    "2661": "Yoriko",
+    "3703": "Yoriko",
+    "3753": "Yoriko",
+    "3809": "Yoriko",
+    "3856": "Yoriko",
+    "3886": "Yoriko",
+    "3938": "Yoriko",
+    "3985": "Yoriko",
+    "4055": "Yoriko",
+    "4122": "Yoriko"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "scene": "script_0279.obj",
+  "dialogues": [
+    {
+      "offset": 127,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日は歴史の授業と言うより、ずっと豆知識的\nな話が続いている。",
+      "en": "Today's history lesson was even more boring than usual; the\nlesson just sounded like an endless robotic drone to me.",
+      "text": "Today's history lesson was even more boring than usual; the\nlesson just sounded like an endless robotic drone to me."
+    },
+    {
+      "offset": 193,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "中根先生の話は面白くていいんだけど……どう\nもおばあちゃんの知恵袋に話がかたよってるん\nだよな。",
+      "en": "It's not that Nakane-sensei's classes are boring... but\nshe's pretty old, and shows it when she constantly goes off\nthe topic...",
+      "text": "It's not that Nakane-sensei's classes are boring... but\nshe's pretty old, and shows it when she constantly goes off\nthe topic..."
+    },
+    {
+      "offset": 302,
+      "speaker": "Nakane-sensei",
+      "speaker_jp": "正太郎",
+      "jp": "「いざってときのタメに、食べられる草を覚え\n　ておくといいぞ」",
+      "en": "\"In times of desperate need, don't forget that grass is\nedible.\"",
+      "text": "\"In times of desperate need, don't forget that grass is\nedible.\""
+    },
+    {
+      "offset": 378,
+      "speaker": "Nakane-sensei",
+      "speaker_jp": "正太郎",
+      "jp": "「この辺りで生えている雑草でいうと……」",
+      "en": "\"SUch as the weeds shown here, called...\"",
+      "text": "\"SUch as the weeds shown here, called...\""
+    },
+    {
+      "offset": 425,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言って、草の名前と、特徴、生えている場\n所などを説明していく。",
+      "en": "With that, she explained the name of the weed, and the\nlocations it's normally found in.",
+      "text": "With that, she explained the name of the weed, and the\nlocations it's normally found in."
+    },
+    {
+      "offset": 495,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかも、なぜか調理法と味の感想つき……。",
+      "en": "But why on earth are we learning cooking and survival\ntechniques now...",
+      "text": "But why on earth are we learning cooking and survival\ntechniques now..."
+    },
+    {
+      "offset": 542,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（食べたことあるのか？）",
+      "en": "\"(Is she hungry or something?)\"",
+      "text": "\"(Is she hungry or something?)\""
+    },
+    {
+      "offset": 677,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆歴史は知恵袋◆",
+      "en": "◆History is Knowledge◆",
+      "text": "◆History is Knowledge◆"
+    },
+    {
+      "offset": 724,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "中根先生の歴史の授業は、ほとんどおばあちゃ\nんの知恵袋と大差ない内容だ。食べられる草の\n話なんかを聞いた。調理法まで……。",
+      "en": "Nakane-sensei's history lecture ended up being random tips\nfrom a grandma's brain. Such as what kind of weeds to eat,\nand how to cook them...",
+      "text": "Nakane-sensei's history lecture ended up being random tips\nfrom a grandma's brain. Such as what kind of weeds to eat,\nand how to cook them..."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "292": "Nakane-sensei",
+    "368": "Nakane-sensei"
+  }
+}

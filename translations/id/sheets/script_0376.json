@@ -1,0 +1,983 @@
+{
+  "scene": "script_0376.obj",
+  "dialogues": [
+    {
+      "offset": 169,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "テーブルにのっそりと身体を広げながら、ぼ〜っ\nとマンガを読む。",
+      "en": "I was reading a manga magazine as I spread myself over the\ntable.",
+      "text": "I was reading a manga magazine as I spread myself over the\ntable."
+    },
+    {
+      "offset": 235,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "たまに口元が寂しくなった時は、手から和菓子\nを生み出してほっぽり込む。",
+      "en": "And whenever my mouth got lonely, I threw a snack into it.",
+      "text": "And whenever my mouth got lonely, I threw a snack into it."
+    },
+    {
+      "offset": 311,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「最高ですか？」",
+      "en": "\"Isn't this the best?\"",
+      "text": "\"Isn't this the best?\""
+    },
+    {
+      "offset": 334,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なぜか疑問形にしてしまうくらい、まったりと\nした午後だった。",
+      "en": "It was such a mellow afternoon, I had to ask myself a\nquestion.",
+      "text": "It was such a mellow afternoon, I had to ask myself a\nquestion."
+    },
+    {
+      "offset": 398,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつもなら、ようやく授業から解放されて、残\nり少ない時間でなにをしようかと考えていると\nころだが……。",
+      "en": "It was about the time to finish school, and I'd be thinking\nabout what I can do the rest of the day.",
+      "text": "It was about the time to finish school, and I'd be thinking\nabout what I can do the rest of the day."
+    },
+    {
+      "offset": 505,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「つまり、これだけだらけていても、まだ色々\n　と時間があるわけだ」",
+      "en": "\"So, that means, I can waste much more time.\"",
+      "text": "\"So, that means, I can waste much more time.\""
+    },
+    {
+      "offset": 577,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "これは、なかなか新鮮な雰囲気だ。",
+      "en": "This was so refreshing.",
+      "text": "This was so refreshing."
+    },
+    {
+      "offset": 614,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わず笑みがこぼれる。",
+      "en": "I smiled without noticing.",
+      "text": "I smiled without noticing."
+    },
+    {
+      "offset": 641,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なにか、それほどひどくない風邪で休んでいる\n日みたいだな。",
+      "en": "It's kind of like skipping school when you get a cold, but\nonly it's not really a bad cold, or something.",
+      "text": "It's kind of like skipping school when you get a cold, but\nonly it's not really a bad cold, or something."
+    },
+    {
+      "offset": 703,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――ガタガタ。",
+      "en": "Clatter clatter.",
+      "text": "Clatter clatter."
+    },
+    {
+      "offset": 724,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 790,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「よいしょっと」",
+      "en": "\"Hold on.\"",
+      "text": "\"Hold on.\""
+    },
+    {
+      "offset": 813,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "マンガから顔を上げると、さくらが窓からベッ\nドの上に着地しているところだった。",
+      "en": "I looked up and then I saw Sakura landing on my bed from the\nwindow.",
+      "text": "I looked up and then I saw Sakura landing on my bed from the\nwindow."
+    },
+    {
+      "offset": 910,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うたまるはココで大人しくしてるんだよ？」",
+      "en": "\"Wait right here, Utamaru.\"",
+      "text": "\"Wait right here, Utamaru.\""
+    },
+    {
+      "offset": 974,
+      "speaker": "Utamaru",
+      "speaker_jp": "うたまる",
+      "jp": "「にゃ〜」",
+      "en": "\"Meow.\"",
+      "text": "\"Meow.\""
+    },
+    {
+      "offset": 1000,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "相変わらず、こけしにしか見えない白猫を窓辺\nに置いて、さくらがテコテコと寄ってきた。",
+      "en": "Sakura placed the white cat by the window and came closer to\nme.",
+      "text": "Sakura placed the white cat by the window and came closer to\nme."
+    },
+    {
+      "offset": 1125,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「おいっす！」",
+      "en": "\"Hey you!\"",
+      "text": "\"Hey you!\""
+    },
+    {
+      "offset": 1146,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「いや、それはいいんだが……やっぱり俺は、\n　あの猫の造形はおかしいと思うのだが？」",
+      "en": "\"Yeah, right...... You know, I just can't get over how that\ncat looks, what do you think?\"",
+      "text": "\"Yeah, right...... You know, I just can't get over how that\ncat looks, what do you think?\""
+    },
+    {
+      "offset": 1236,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この家の主だとでもいいたげに、断りなく対面\nに座るさくらに首を傾げる。",
+      "en": "I tilted my head toward Sakura who was acting like this was\nher house.",
+      "text": "I tilted my head toward Sakura who was acting like this was\nher house."
+    },
+    {
+      "offset": 1342,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゃ？　そう？」",
+      "en": "\"Huh? You think?\"",
+      "text": "\"Huh? You think?\""
+    },
+    {
+      "offset": 1369,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あきらかに、神の領域に突入してるだろ……」",
+      "en": "\"It must be made by God's hand......\"",
+      "text": "\"It must be made by God's hand......\""
+    },
+    {
+      "offset": 1420,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自力歩行できるのかアレは？",
+      "en": "Can it walk by itself?",
+      "text": "Can it walk by itself?"
+    },
+    {
+      "offset": 1494,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そんなことより、春休みだよ春休み♪」",
+      "en": "\"It's spring break, you know? Spring break!\"",
+      "text": "\"It's spring break, you know? Spring break!\""
+    },
+    {
+      "offset": 1539,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あの存在は、そんなことレベルか？」",
+      "en": "\"You don't care about the existence of that thing?\"",
+      "text": "\"You don't care about the existence of that thing?\""
+    },
+    {
+      "offset": 1582,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "うたまるは、窓辺でメトロノームのように首を\n揺らしている。",
+      "en": "Utamaru's swaying her head like a metronome by the window.",
+      "text": "Utamaru's swaying her head like a metronome by the window."
+    },
+    {
+      "offset": 1646,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まぁ、そうだな……気にしたら夜眠れなくな\n　りそうだし」",
+      "en": "\"Well, I guess if you start thinking about it, you wouldn't\nbe able to go to sleep at night...\"",
+      "text": "\"Well, I guess if you start thinking about it, you wouldn't\nbe able to go to sleep at night...\""
+    },
+    {
+      "offset": 1743,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「で、春休みなんだってば！」",
+      "en": "\"You hear? It's spring break!!\"",
+      "text": "\"You hear? It's spring break!!\""
+    },
+    {
+      "offset": 1778,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あぁ、遠い道のりだった」",
+      "en": "\"Yeah, it was a long road.\"",
+      "text": "\"Yeah, it was a long road.\""
+    },
+    {
+      "offset": 1811,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わずしみじみと頷いてしまう。",
+      "en": "I nodded with deep emotion.",
+      "text": "I nodded with deep emotion."
+    },
+    {
+      "offset": 1889,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うんうん♪　というわけで、遊びに行こう\n　よ！」",
+      "en": "\"Yes, yes. And I think we should go out!!\"",
+      "text": "\"Yes, yes. And I think we should go out!!\""
+    },
+    {
+      "offset": 1960,
+      "speaker": "Utamaru",
+      "speaker_jp": "うたまる",
+      "jp": "「にゃ〜♪」",
+      "en": "\"Meow!\"",
+      "text": "\"Meow!\""
+    },
+    {
+      "offset": 1979,
+      "speaker": "Utamaru",
+      "speaker_jp": "うたまる",
+      "jp": "「え、今からか？」",
+      "en": "\"What? Right now?\"",
+      "text": "\"What? Right now?\""
+    },
+    {
+      "offset": 2037,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「まだ４時だよ。アフターフォー。全然オッ　\n　ケー。ノープロブレム。行こうってんだほ\n　らぁ！」",
+      "en": "\"It's only 4 o'clock. It's only four o'clock and there's no\nproblem. Let's go, I say!!\"",
+      "text": "\"It's only 4 o'clock. It's only four o'clock and there's no\nproblem. Let's go, I say!!\""
+    },
+    {
+      "offset": 2138,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "腕をひっぱりながら、さくらが笑う。",
+      "en": "Sakura smiled as she pulled my arm.",
+      "text": "Sakura smiled as she pulled my arm."
+    },
+    {
+      "offset": 2179,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「待て、今日くらいゆっくりしないか？」",
+      "en": "\"Wait, let's take it easy today, huh?\"",
+      "text": "\"Wait, let's take it easy today, huh?\""
+    },
+    {
+      "offset": 2254,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「なんで、もったいないよぉ」",
+      "en": "\"Why? You're wasting a day.\"",
+      "text": "\"Why? You're wasting a day.\""
+    },
+    {
+      "offset": 2289,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「まぁ、待て」",
+      "en": "\"Wait, hold on.\"",
+      "text": "\"Wait, hold on.\""
+    },
+    {
+      "offset": 2310,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "手でさくらを制しながら、眉にしわを寄せて首\nを振る。",
+      "en": "I shook my head frowning as I stopped Sakura with my hand.",
+      "text": "I shook my head frowning as I stopped Sakura with my hand."
+    },
+    {
+      "offset": 2368,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「日々、学園というコロシアムで戦い続けてい\n　る戦士には、束の間でも休息は必要だと思う\n　ぞ？」",
+      "en": "\"I think we soldiers who fight in the coliseum called school\nshould rest once in a while, don't you think?\"",
+      "text": "\"I think we soldiers who fight in the coliseum called school\nshould rest once in a while, don't you think?\""
+    },
+    {
+      "offset": 2499,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そんなに頑張ってるの？」",
+      "en": "\"You fight that hard?\"",
+      "text": "\"You fight that hard?\""
+    },
+    {
+      "offset": 2532,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「朝起きたり、授業中寝ないようにしたり、混\n　んでいる購買でパンを買うときは命がけだな」",
+      "en": "\"It's a life and death situation every time I wake up in the\nmorning, and try not to sleep during the class, or buying a\nsandwich in the crowded store at school.\"",
+      "text": "\"It's a life and death situation every time I wake up in the\nmorning, and try not to sleep during the class, or buying a\nsandwich in the crowded store at school.\""
+    },
+    {
+      "offset": 2656,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「勉強しなよ……」",
+      "en": "\"You better study......\"",
+      "text": "\"You better study......\""
+    },
+    {
+      "offset": 2681,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ジト目で｛にら／睨｝まれる。",
+      "en": "She glared at me.",
+      "text": "She glared at me."
+    },
+    {
+      "offset": 2716,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「とにかく、今日くらいゆっくりしたいんだ」",
+      "en": "\"I just want to be mellow today.\"",
+      "text": "\"I just want to be mellow today.\""
+    },
+    {
+      "offset": 2795,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「にゃぁ……仕方ない。ま、こうやってお兄ちゃ\n　んとまったりするのも良いか」",
+      "en": "\"Meow...... that's too bad. I guess it shouldn't be bad to\nchill out with you like this.\"",
+      "text": "\"Meow...... that's too bad. I guess it shouldn't be bad to\nchill out with you like this.\""
+    },
+    {
+      "offset": 2877,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "机の上にべた〜っとへばって、さくらが顔を丸\nくする。",
+      "en": "She sat on my desk and smiled.",
+      "text": "She sat on my desk and smiled."
+    },
+    {
+      "offset": 2935,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2984,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3003,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さわさわ、と風が桜をなでる音が聞こえる。",
+      "en": "I hear the wind blowing over the cherry blossom tree.",
+      "text": "I hear the wind blowing over the cherry blossom tree."
+    },
+    {
+      "offset": 3050,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「春だな」",
+      "en": "\"It's spring time.\"",
+      "text": "\"It's spring time.\""
+    },
+    {
+      "offset": 3097,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「春だねぇ」",
+      "en": "\"It sure is spring time.\"",
+      "text": "\"It sure is spring time.\""
+    },
+    {
+      "offset": 3133,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まったりとした空気。",
+      "en": "Really chilled atmosphere.",
+      "text": "Really chilled atmosphere."
+    },
+    {
+      "offset": 3201,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「えへへへ。お兄ちゃん♪」",
+      "en": "\"Hey, oniichan?\"",
+      "text": "\"Hey, oniichan?\""
+    },
+    {
+      "offset": 3234,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ん？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 3282,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「なんでもない。呼んだだけだよ」",
+      "en": "\"Nothing. I just called your name.\"",
+      "text": "\"Nothing. I just called your name.\""
+    },
+    {
+      "offset": 3321,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "机の上で頬杖をついて、さくらが呟く。",
+      "en": "Sakura mumbles as she rests her chin on her hand on the\ndesk.",
+      "text": "Sakura mumbles as she rests her chin on her hand on the\ndesk."
+    },
+    {
+      "offset": 3362,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだか――そう、昔のさくらとふたりだけで\n居る時は、こんな感じだったような気がした。",
+      "en": "Yes, it was like this when we used to hang out together a\nlong time ago...",
+      "text": "Yes, it was like this when we used to hang out together a\nlong time ago..."
+    },
+    {
+      "offset": 3484,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「懐かしいなぁ」",
+      "en": "\"I missed this.\"",
+      "text": "\"I missed this.\""
+    },
+    {
+      "offset": 3507,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ん？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 3552,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「なんだかノスタルジック……甘く切なく懐か\n　しい、っていうかなんていうか」",
+      "en": "\"It's kind of nostalgic...... It's bittersweet, you know?\"",
+      "text": "\"It's kind of nostalgic...... It's bittersweet, you know?\""
+    },
+    {
+      "offset": 3634,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そうか？」",
+      "en": "\"Oh yeah?\"",
+      "text": "\"Oh yeah?\""
+    },
+    {
+      "offset": 3653,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "同じことを考えていたのもシャクで、つい素っ\n気無く答えてしまう。",
+      "en": "I was thinking about the same thing, so I had to say\nsomething opposite.",
+      "text": "I was thinking about the same thing, so I had to say\nsomething opposite."
+    },
+    {
+      "offset": 3738,
+      "speaker": "Utamaru",
+      "speaker_jp": "うたまる",
+      "jp": "「にゃにゃ〜？」",
+      "en": "\"Meow meow?\"",
+      "text": "\"Meow meow?\""
+    },
+    {
+      "offset": 3761,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "生物の進化に疑問を投げかける猫が鳴く。",
+      "en": "The cat which throws a question to Darwin's theory of\nevolution meows.",
+      "text": "The cat which throws a question to Darwin's theory of\nevolution meows."
+    },
+    {
+      "offset": 3836,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ふぅん。えへへへへ」",
+      "en": "\"I see. Teehee.\"",
+      "text": "\"I see. Teehee.\""
+    },
+    {
+      "offset": 3865,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……なんだお前？」",
+      "en": "\"What's going on?\"",
+      "text": "\"What's going on?\""
+    },
+    {
+      "offset": 3927,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ねぇ、お兄ちゃん……ちょうだい」",
+      "en": "\"Oniichan, give it to me...\"",
+      "text": "\"Oniichan, give it to me...\""
+    },
+    {
+      "offset": 3968,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "机に身をのりだして、さくらが唇を指差す。",
+      "en": "Sakura points to her finger as she leans forward.",
+      "text": "Sakura points to her finger as she leans forward."
+    },
+    {
+      "offset": 4015,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「は！？」",
+      "en": "\"What!?\"",
+      "text": "\"What!?\""
+    },
+    {
+      "offset": 4062,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ね、久しぶりに」",
+      "en": "\"It's been a long time.\"",
+      "text": "\"It's been a long time.\""
+    },
+    {
+      "offset": 4087,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「は？　……ちょっと待て」",
+      "en": "\"What? ......Hold on.\"",
+      "text": "\"What? ......Hold on.\""
+    },
+    {
+      "offset": 4120,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こめかみに指を当てて必死に思い返してみる。",
+      "en": "I put my fingers at my temple and try to think back.",
+      "text": "I put my fingers at my temple and try to think back."
+    },
+    {
+      "offset": 4167,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちょうだい？",
+      "en": "Give it to me?",
+      "text": "Give it to me?"
+    },
+    {
+      "offset": 4184,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "久しぶり？",
+      "en": "It's been a long time?",
+      "text": "It's been a long time?"
+    },
+    {
+      "offset": 4199,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "久しぶりにちょうだい……。",
+      "en": "It's been a long time, give it to me......",
+      "text": "It's been a long time, give it to me......"
+    },
+    {
+      "offset": 4230,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "若気の至り？",
+      "en": "A youthful impetuosity?",
+      "text": "A youthful impetuosity?"
+    },
+    {
+      "offset": 4249,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まったく覚えがない……」",
+      "en": "\"I really don't remember......\"",
+      "text": "\"I really don't remember......\""
+    },
+    {
+      "offset": 4323,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「なるべく柔らかくて甘いのがいいな♪」",
+      "en": "\"Make it soft and sweet.\"",
+      "text": "\"Make it soft and sweet.\""
+    },
+    {
+      "offset": 4368,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 4387,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……ああ！」",
+      "en": "\"......Oh!!\"",
+      "text": "\"......Oh!!\""
+    },
+    {
+      "offset": 4413,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "パチンと指を弾いて、そのまま手を握って開く。",
+      "en": "I snapped my finger and closed my hand and opened it.",
+      "text": "I snapped my finger and closed my hand and opened it."
+    },
+    {
+      "offset": 4464,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……今のわざとだろう？」",
+      "en": "\"......You did that on purpose.\"",
+      "text": "\"......You did that on purpose.\""
+    },
+    {
+      "offset": 4497,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "生み出した小粒の饅頭を、さくらの唇に押し付\nけてうめく。",
+      "en": "I made a small sweet rice cake and pushed it against her\nlips.",
+      "text": "I made a small sweet rice cake and pushed it against her\nlips."
+    },
+    {
+      "offset": 4600,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あはははははは♪」",
+      "en": "\"Ha ha.\"",
+      "text": "\"Ha ha.\""
+    },
+    {
+      "offset": 4660,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「はてさて？　ボクは｛・・・／どっち｝でも良かったんだ\n　けどね」",
+      "en": "\"I don't know. I wouldn't have minded either of them\nthough.\"",
+      "text": "\"I don't know. I wouldn't have minded either of them\nthough.\""
+    },
+    {
+      "offset": 4732,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "笑って、俺の指に唇を押し付けて饅頭を口にす\nる。",
+      "en": "She smiled and pushed her lips against my finger and ate the\nsweet rice cake.",
+      "text": "She smiled and pushed her lips against my finger and ate the\nsweet rice cake."
+    },
+    {
+      "offset": 4786,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ、あのなぁ……そんなことばっかしてると、\n　いつか狼に食べられちまうぞ」",
+      "en": "\"You know...... If you keep doing that, then the bad wolf's\ngoing to eat you.\"",
+      "text": "\"You know...... If you keep doing that, then the bad wolf's\ngoing to eat you.\""
+    },
+    {
+      "offset": 4898,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ボクあかずきんちゃん。お兄ちゃんが狼？」",
+      "en": "\"I'm a little red riding-hood. And you're the wolf?\"",
+      "text": "\"I'm a little red riding-hood. And you're the wolf?\""
+    },
+    {
+      "offset": 4947,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「まずそうやなぁ……」",
+      "en": "\"You look unappetizing......\"",
+      "text": "\"You look unappetizing......\""
+    },
+    {
+      "offset": 5006,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「Ｗｈａｔ？　なにそれ！？」",
+      "en": "\"What? What do you mean!?\"",
+      "text": "\"What? What do you mean!?\""
+    },
+    {
+      "offset": 5041,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そのまんまだ」",
+      "en": "\"Just like I said.\"",
+      "text": "\"Just like I said.\""
+    },
+    {
+      "offset": 5064,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "マンガに視線を戻して呟く。",
+      "en": "I looked at the manga magazine again and mumbled.",
+      "text": "I looked at the manga magazine again and mumbled."
+    },
+    {
+      "offset": 5138,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゃ！　なにそれ、喧嘩売ってる？」",
+      "en": "\"Meow! What's that? Do you want to fight me?\"",
+      "text": "\"Meow! What's that? Do you want to fight me?\""
+    },
+    {
+      "offset": 5198,
+      "speaker": "Utamaru",
+      "speaker_jp": "うたまる",
+      "jp": "「にゃ〜！」",
+      "en": "\"Meow!\"",
+      "text": "\"Meow!\""
+    },
+    {
+      "offset": 5217,
+      "speaker": "Utamaru",
+      "speaker_jp": "うたまる",
+      "jp": "「ふっ」",
+      "en": "\"Huh.\"",
+      "text": "\"Huh.\""
+    },
+    {
+      "offset": 5232,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "苦笑いを浮かべながら肩をすくめる。",
+      "en": "I shrugged my shoulders smiling wryly.",
+      "text": "I shrugged my shoulders smiling wryly."
+    },
+    {
+      "offset": 5306,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「じゃあさ……どんな味がするか、なんなら試\n　してみる？」",
+      "en": "\"Then, do you want to try to find out if I'm really\nunappetizing or not?\"",
+      "text": "\"Then, do you want to try to find out if I'm really\nunappetizing or not?\""
+    },
+    {
+      "offset": 5370,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 5385,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わず素で動きを止めてしまう。",
+      "en": "I stopped moving.",
+      "text": "I stopped moving."
+    },
+    {
+      "offset": 5420,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "顔を上げると、さくらがじっ、と俺を見つめて\nいた……。",
+      "en": "I looked up and found Sakura looking into my eyes......",
+      "text": "I looked up and found Sakura looking into my eyes......"
+    },
+    {
+      "offset": 5478,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――冗談。",
+      "en": "---I was just joking.",
+      "text": "---I was just joking."
+    },
+    {
+      "offset": 5493,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言おうと思うのだが、机にのりだしたさく\nらの真剣な瞳がそれを制する。",
+      "en": "I wanted to say that, but Sakura's serious look demanded me\nnot to say that as she leaned against the desk.",
+      "text": "I wanted to say that, but Sakura's serious look demanded me\nnot to say that as she leaned against the desk."
+    },
+    {
+      "offset": 5606,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……ボク……いいよ。向こうでも唇だけはさ\n　せなかったし……」",
+      "en": "\"......I don't mind. I didn't let anyone touch my lips in\nAmerica......\"",
+      "text": "\"......I don't mind. I didn't let anyone touch my lips in\nAmerica......\""
+    },
+    {
+      "offset": 5676,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 5695,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そうか。",
+      "en": "I see.",
+      "text": "I see."
+    },
+    {
+      "offset": 5708,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらの外見は変わっていないが、こいつの中\n身はきちんと成長しているんだ……。",
+      "en": "Sakura's looks haven't changed, but she's matured inside.",
+      "text": "Sakura's looks haven't changed, but she's matured inside."
+    },
+    {
+      "offset": 5790,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふたりの間には机があって。",
+      "en": "There was a desk in between us.",
+      "text": "There was a desk in between us."
+    },
+    {
+      "offset": 5821,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらだけが身を乗り出してキスすることは出\n来ない。",
+      "en": "We couldn't kiss just as Sakura leaning toward me.",
+      "text": "We couldn't kiss just as Sakura leaning toward me."
+    },
+    {
+      "offset": 5877,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ここに来て、ようやく自分の間違いに気が付い\nた。",
+      "en": "I realize my mistake at this moment finally.",
+      "text": "I realize my mistake at this moment finally."
+    },
+    {
+      "offset": 5961,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「だ、大丈夫……ボクも初めてだから」",
+      "en": "\"It's okay...... It's my first time too.\"",
+      "text": "\"It's okay...... It's my first time too.\""
+    },
+    {
+      "offset": 6004,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "桜色の唇が小さく動く。",
+      "en": "Her pink lips moved a little.",
+      "text": "Her pink lips moved a little."
+    },
+    {
+      "offset": 6033,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ、うん」",
+      "en": "\"Huh, yeah.\"",
+      "text": "\"Huh, yeah.\""
+    },
+    {
+      "offset": 6052,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頷いてしまいながら、息が詰まってくるのを覚\nえる。",
+      "en": "I felt like suffocating as I nodded.",
+      "text": "I felt like suffocating as I nodded."
+    },
+    {
+      "offset": 6307,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆さくらとキス！？◆",
+      "en": "◆Kissing Sakura!?◆",
+      "text": "◆Kissing Sakura!?◆"
+    },
+    {
+      "offset": 6356,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "部屋でぼ〜っ、とマンガを読んでいると、さく\nらが窓から入り込んできた。",
+      "en": "Sakura came into my room from the window as I was reading a\nmanga magazine.",
+      "text": "Sakura came into my room from the window as I was reading a\nmanga magazine."
+    },
+    {
+      "offset": 6430,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そのまま机に座るさくらと、まったりと話をし\nていたのだが、いつの間にかキスを迫られるか\nたちになってしまった。",
+      "en": "Sakura sat on my desk and we were just talking, but then she\nwas demanding me to kiss her.",
+      "text": "Sakura sat on my desk and we were just talking, but then she\nwas demanding me to kiss her."
+    }
+  ],
+  "choices": [
+    {
+      "offset": 6116,
+      "jp": "○そっと身をのりだす。",
+      "en": "○I should...",
+      "text": "○I should..."
+    },
+    {
+      "offset": 6147,
+      "jp": "○やっぱり冗談……",
+      "en": "○Gently give her one.",
+      "text": "○Gently give her one."
+    }
+  ],
+  "names": {
+    "780": "Sakura",
+    "900": "Sakura",
+    "962": "Utamaru",
+    "1115": "Sakura",
+    "1332": "Sakura",
+    "1484": "Sakura",
+    "1733": "Sakura",
+    "1879": "Sakura",
+    "1948": "Utamaru",
+    "2027": "Sakura",
+    "2244": "Sakura",
+    "2489": "Sakura",
+    "2646": "Sakura",
+    "2785": "Sakura",
+    "2974": "Sakura",
+    "3087": "Sakura",
+    "3191": "Sakura",
+    "3272": "Sakura",
+    "3474": "Sakura",
+    "3542": "Sakura",
+    "3726": "Utamaru",
+    "3826": "Sakura",
+    "3917": "Sakura",
+    "4052": "Sakura",
+    "4313": "Sakura",
+    "4590": "Sakura",
+    "4650": "Sakura",
+    "4888": "Sakura",
+    "4996": "Sakura",
+    "5128": "Sakura",
+    "5186": "Utamaru",
+    "5296": "Sakura",
+    "5596": "Sakura",
+    "5951": "Sakura"
+  }
+}

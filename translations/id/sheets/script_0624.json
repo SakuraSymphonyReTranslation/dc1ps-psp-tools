@@ -1,0 +1,1449 @@
+{
+  "scene": "script_0624.obj",
+  "dialogues": [
+    {
+      "offset": 177,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "４月８日――月曜日。",
+      "en": "April 8th... Monday.",
+      "text": "April 8th... Monday."
+    },
+    {
+      "offset": 202,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "春。",
+      "en": "Spring.",
+      "text": "Spring."
+    },
+    {
+      "offset": 211,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "新学期。",
+      "en": "A new semester.",
+      "text": "A new semester."
+    },
+    {
+      "offset": 224,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "空は高く、青く。",
+      "en": "The sky is vast and blue.",
+      "text": "The sky is vast and blue."
+    },
+    {
+      "offset": 245,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "風は緻密に計算されたかのように気持ちの良い\n間隔で頬をなでる。",
+      "en": "The wind feels comfortably warm on my cheeks.",
+      "text": "The wind feels comfortably warm on my cheeks."
+    },
+    {
+      "offset": 316,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "うぐいすの鳴き声が遠くから聞こえた。",
+      "en": "I hear a nightingale in the distance.",
+      "text": "I hear a nightingale in the distance."
+    },
+    {
+      "offset": 357,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな、うららかな月曜日の朝。",
+      "en": "On a peaceful Monday morning.",
+      "text": "On a peaceful Monday morning."
+    },
+    {
+      "offset": 394,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ついにこの恐れた日がやってきてしまったか\n　……」",
+      "en": "\"The day I've been dreading has finally come...\"",
+      "text": "\"The day I've been dreading has finally come...\""
+    },
+    {
+      "offset": 452,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "素直に眠かった。",
+      "en": "I was dead tired.",
+      "text": "I was dead tired."
+    },
+    {
+      "offset": 510,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「はいはい」",
+      "en": "\"Here you go.\"",
+      "text": "\"Here you go.\""
+    },
+    {
+      "offset": 529,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぴっ、と俺の制服の｛えり／襟｝を正しながら、音夢がた\nめ息をつく。",
+      "en": "Nemu sighs, fixing the collar of my uniform.",
+      "text": "Nemu sighs, fixing the collar of my uniform."
+    },
+    {
+      "offset": 612,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「普通に学校に行って勉強するだけでしょうが」",
+      "en": "\"You just go and study there just like you used to.\"",
+      "text": "\"You just go and study there just like you used to.\""
+    },
+    {
+      "offset": 663,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「それが嫌なんだろうが……夏休みが早く来な\n　いかなぁ」",
+      "en": "\"That's what I've been dreading. I can't wait until the\nsummer break.\"",
+      "text": "\"That's what I've been dreading. I can't wait until the\nsummer break.\""
+    },
+    {
+      "offset": 753,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あのね……けほっ……ハンカチとティッシュ\n　は持った？」",
+      "en": "\"Oh, come on... (cough)... Do you have a handkerchief and\nsome tissues?\"",
+      "text": "\"Oh, come on... (cough)... Do you have a handkerchief and\nsome tissues?\""
+    },
+    {
+      "offset": 817,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「多分」",
+      "en": "\"Probably.\"",
+      "text": "\"Probably.\""
+    },
+    {
+      "offset": 832,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ごそごそ、とポケットを確認する。",
+      "en": "I check inside my pocket.",
+      "text": "I check inside my pocket."
+    },
+    {
+      "offset": 899,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「準備オッケー？」",
+      "en": "\"Are you ready to go?\"",
+      "text": "\"Are you ready to go?\""
+    },
+    {
+      "offset": 924,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「永遠に心の準備は出来ないと思うがな」",
+      "en": "\"I don't think I will ever be ready for that.\"",
+      "text": "\"I don't think I will ever be ready for that.\""
+    },
+    {
+      "offset": 980,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「はいはい。授業中は携帯の音を切っておくん\n　だよ。あと、もう杉並くんと変なことしたら\n　ダメだからね？」",
+      "en": "\"Fine, fine. Don't forget to turn off your cell phone in\nclass, and don't even think about doing something naughty\nwith Suginami.\"",
+      "text": "\"Fine, fine. Don't forget to turn off your cell phone in\nclass, and don't even think about doing something naughty\nwith Suginami.\""
+    },
+    {
+      "offset": 1091,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だから、俺とアレを一緒にするなっての。そ\n　れに……あ」",
+      "en": "\"Hey, don't treat me like I'm the same as him. And...\"",
+      "text": "\"Hey, don't treat me like I'm the same as him. And...\""
+    },
+    {
+      "offset": 1183,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「どうしたの？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 1206,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いや……」",
+      "en": "\"Well...\"",
+      "text": "\"Well...\""
+    },
+    {
+      "offset": 1225,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わず口が滑ってしまった。",
+      "en": "It slipped out of my mouth.",
+      "text": "It slipped out of my mouth."
+    },
+    {
+      "offset": 1258,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あいつと同じクラスになるとは限らないし\n　……と」",
+      "en": "\"There's no guarantee we'll be in the same class.\"",
+      "text": "\"There's no guarantee we'll be in the same class.\""
+    },
+    {
+      "offset": 1344,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ……うん、そうだね」",
+      "en": "\"Yeah, that's true.\"",
+      "text": "\"Yeah, that's true.\""
+    },
+    {
+      "offset": 1375,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自分にも同じことがいえる音夢が、ちょっと寂\nしそうに微笑む。",
+      "en": "Nemu smiles sadly since it could happen to her, too.",
+      "text": "Nemu smiles sadly since it could happen to her, too."
+    },
+    {
+      "offset": 1441,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「すまない」",
+      "en": "\"Sorry.\"",
+      "text": "\"Sorry.\""
+    },
+    {
+      "offset": 1488,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さんの……けほけほ……ん！」",
+      "en": "\"Brother... (cough)...!\"",
+      "text": "\"Brother... (cough)...!\""
+    },
+    {
+      "offset": 1527,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「無理しないで家に入ってろって。見送りされ\n　ると恥ずかしいしな」",
+      "en": "\"Go inside and take it easy. I'll get embarrassed if you\nsend me off here.\"",
+      "text": "\"Go inside and take it easy. I'll get embarrassed if you\nsend me off here.\""
+    },
+    {
+      "offset": 1627,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ……うん……ごめんね」",
+      "en": "\"Oh, sorry.\"",
+      "text": "\"Oh, sorry.\""
+    },
+    {
+      "offset": 1660,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「謝るなよ。とりあえず、お前の分まで学園で\n　寝てきてやるから」",
+      "en": "\"Don't worry. Anyway I'll get lots of sleep at school, even\nenough for you too.\"",
+      "text": "\"Don't worry. Anyway I'll get lots of sleep at school, even\nenough for you too.\""
+    },
+    {
+      "offset": 1758,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「勉強してらっしゃい！」",
+      "en": "\"You've got to study!\"",
+      "text": "\"You've got to study!\""
+    },
+    {
+      "offset": 1789,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「はぁ……かったりぃなぁ」",
+      "en": "\"Geez... What a pain in the neck.\"",
+      "text": "\"Geez... What a pain in the neck.\""
+    },
+    {
+      "offset": 1834,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頭をかいてとぼとぼと歩き出す。",
+      "en": "I start to plod along, scratching my head.",
+      "text": "I start to plod along, scratching my head."
+    },
+    {
+      "offset": 1869,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……我ながらなんて歩き方だ。",
+      "en": "What a weird walk I do!",
+      "text": "What a weird walk I do!"
+    },
+    {
+      "offset": 1915,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、兄さん兄さん」",
+      "en": "\"Oh, brother!\"",
+      "text": "\"Oh, brother!\""
+    },
+    {
+      "offset": 1942,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぐい、と制服をひっぱられる。",
+      "en": "She pulled me by my uniform.",
+      "text": "She pulled me by my uniform."
+    },
+    {
+      "offset": 1977,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんだよ」",
+      "en": "\"What is it?\"",
+      "text": "\"What is it?\""
+    },
+    {
+      "offset": 2029,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「日課がまだだよ」",
+      "en": "\"You haven't done the morning ritual yet.\"",
+      "text": "\"You haven't done the morning ritual yet.\""
+    },
+    {
+      "offset": 2054,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「医者のお墨付きでお前は病気だよ」",
+      "en": "\"You're sick enough to be certified by a doctor.\"",
+      "text": "\"You're sick enough to be certified by a doctor.\""
+    },
+    {
+      "offset": 2106,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「家にひとりにさせておくのに、心配じゃない\n　の？」",
+      "en": "\"Aren't you worried to leave me alone at home?\"",
+      "text": "\"Aren't you worried to leave me alone at home?\""
+    },
+    {
+      "offset": 2164,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「む」",
+      "en": "\"Hm.\"",
+      "text": "\"Hm.\""
+    },
+    {
+      "offset": 2205,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「えへへへ〜♪」",
+      "en": "\"Teehee!\"",
+      "text": "\"Teehee!\""
+    },
+    {
+      "offset": 2228,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……気持ち悪いやつ」",
+      "en": "\"Creepy...\"",
+      "text": "\"Creepy...\""
+    },
+    {
+      "offset": 2257,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頭をかいてから髪をかきあげて、音夢の額に頭\nをよせる。",
+      "en": "I scratch my head, fix my hair, and get closer to her\nforehead.",
+      "text": "I scratch my head, fix my hair, and get closer to her\nforehead."
+    },
+    {
+      "offset": 2345,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……兄さん」",
+      "en": "\"Niisan...\"",
+      "text": "\"Niisan...\""
+    },
+    {
+      "offset": 2366,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ん」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 2407,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「行ってらっしゃい」",
+      "en": "\"Have fun at school.\"",
+      "text": "\"Have fun at school.\""
+    },
+    {
+      "offset": 2434,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふっ、と音夢の顔が逸れて、頬に柔らかい感触\nが残る。",
+      "en": "I feel the warmth on my cheek when she moves her face.",
+      "text": "I feel the warmth on my cheek when she moves her face."
+    },
+    {
+      "offset": 2492,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……！？」",
+      "en": "\"......!?\"",
+      "text": "\"......!?\""
+    },
+    {
+      "offset": 2522,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「えへへへへ♪　行ってらっしゃい」",
+      "en": "\"Teehee... See you later.\"",
+      "text": "\"Teehee... See you later.\""
+    },
+    {
+      "offset": 2563,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "くるり、と回って音夢が笑う。",
+      "en": "Nemu smiles and turns around.",
+      "text": "Nemu smiles and turns around."
+    },
+    {
+      "offset": 2609,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「目、覚めたでしょ？」",
+      "en": "\"Are you awake now?\"",
+      "text": "\"Are you awake now?\""
+    },
+    {
+      "offset": 2638,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2669,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頬を真っ赤にしながら音夢が家の中に逃げ込む。",
+      "en": "Nemu dashes into the house, blushing.",
+      "text": "Nemu dashes into the house, blushing."
+    },
+    {
+      "offset": 2720,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「恥ずかしいならやるなっての」",
+      "en": "\"Don't do it if you feel embarrassed.\"",
+      "text": "\"Don't do it if you feel embarrassed.\""
+    },
+    {
+      "offset": 2757,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "春風に吹かれて、唇の形にだけ冷たい感触が走\nる。",
+      "en": "In the spring breeze, only the cool feeling remains on my\nlips.",
+      "text": "In the spring breeze, only the cool feeling remains on my\nlips."
+    },
+    {
+      "offset": 2811,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「行ってきますか」",
+      "en": "\"I'm ready to go.\"",
+      "text": "\"I'm ready to go.\""
+    },
+    {
+      "offset": 2847,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、さくらの家の前で動きをとめる。",
+      "en": "I stopped in front of Sakura's house.",
+      "text": "I stopped in front of Sakura's house."
+    },
+    {
+      "offset": 2888,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おーい、さくら〜」",
+      "en": "\"Hey, Sakura!\"",
+      "text": "\"Hey, Sakura!\""
+    },
+    {
+      "offset": 2915,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2934,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「返事がない。ただの屍のようだ」",
+      "en": "\"No response. There must be a dead person in there.\"",
+      "text": "\"No response. There must be a dead person in there.\""
+    },
+    {
+      "offset": 2973,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2992,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「寒い」",
+      "en": "\"It's cold.\"",
+      "text": "\"It's cold.\""
+    },
+    {
+      "offset": 3007,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "朝からハイブリッドなギャグに自分で突っ込み\nつつ、俺はてろてろ、と先ほどよりも鈍い歩調\nで戦場に向かった。",
+      "en": "I walk toward the battlefield at a slower pace than before,\ncracking my own jokes in the morning.",
+      "text": "I walk toward the battlefield at a slower pace than before,\ncracking my own jokes in the morning."
+    },
+    {
+      "offset": 3118,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……かったりぃ」",
+      "en": "\"Tired...\"",
+      "text": "\"Tired...\""
+    },
+    {
+      "offset": 3143,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3162,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なのに、振り返った。",
+      "en": "Nevertheless, I still look back.",
+      "text": "Nevertheless, I still look back."
+    },
+    {
+      "offset": 3187,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自分でも驚いたけれど、俺はさくらの家に向かっ\nて振り返っていた。",
+      "en": "Surprisingly I still look back toward Sakura's house.",
+      "text": "Surprisingly I still look back toward Sakura's house."
+    },
+    {
+      "offset": 3255,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "６年前にも感じた、なんとも言えない人気のな\nい空気。",
+      "en": "The air gives me the same deserted feeling that I had six\nyears ago.",
+      "text": "The air gives me the same deserted feeling that I had six\nyears ago."
+    },
+    {
+      "offset": 3311,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あいつはどこに行ってしまったのか。",
+      "en": "I wonder where she went.",
+      "text": "I wonder where she went."
+    },
+    {
+      "offset": 3350,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あの日の夜を境に、なにもかもが無理やり日常\nを取り戻そうと働いたような気がする。",
+      "en": "Since that night, I have been trying to get the normality\nback in my life.",
+      "text": "Since that night, I have been trying to get the normality\nback in my life."
+    },
+    {
+      "offset": 3434,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "けれど、そこにはさくらも音夢もいない。",
+      "en": "But Sakura and Nemu aren't where they should be.",
+      "text": "But Sakura and Nemu aren't where they should be."
+    },
+    {
+      "offset": 3477,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "当たり前ってやつの力で、俺はいつものように\n学校に通って授業を受けようとする。",
+      "en": "Trying to think that I asked for it, I go to school to study\nas before.",
+      "text": "Trying to think that I asked for it, I go to school to study\nas before."
+    },
+    {
+      "offset": 3559,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "１週間もすれば、本当に慣れてしまいそうで\n……。",
+      "en": "I hope I get used to this in a week or so.",
+      "text": "I hope I get used to this in a week or so."
+    },
+    {
+      "offset": 3611,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "怖かった。",
+      "en": "I'm scared.",
+      "text": "I'm scared."
+    },
+    {
+      "offset": 3628,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3647,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……かったりぃ」",
+      "en": "\"Tired...\"",
+      "text": "\"Tired...\""
+    },
+    {
+      "offset": 3672,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少しだけ後ろ向きに歩いたあと、俺は頭をかい\nてだらだらと登校することにした。",
+      "en": "I walk backwards for a while, then decide to plod along to\nschool, scratching my head.",
+      "text": "I walk backwards for a while, then decide to plod along to\nschool, scratching my head."
+    },
+    {
+      "offset": 3752,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "背中に、まだ、俺達の笑い声が木霊して聞こえ\nてくるような気がするのだ。",
+      "en": "I feel like I can hear an echo of our laughs.",
+      "text": "I feel like I can hear an echo of our laughs."
+    },
+    {
+      "offset": 3826,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "幼い頃の――楽しい笑い声が。",
+      "en": "Happy laughs when we were younger.",
+      "text": "Happy laughs when we were younger."
+    },
+    {
+      "offset": 3916,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 3931,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「出た……」",
+      "en": "\"Here you go...\"",
+      "text": "\"Here you go...\""
+    },
+    {
+      "offset": 3983,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「またお前と一緒になったな。友よ」",
+      "en": "\"We're in the same class again, my friend.\"",
+      "text": "\"We're in the same class again, my friend.\""
+    },
+    {
+      "offset": 4024,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「これは神の試練か？」",
+      "en": "\"Is this an act of God or what?\"",
+      "text": "\"Is this an act of God or what?\""
+    },
+    {
+      "offset": 4081,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「おお！　そんなに喜んでくれるか！　俺は嬉\n　しいぞ」",
+      "en": "\"Oh! I'm so glad you're happy!\"",
+      "text": "\"Oh! I'm so glad you're happy!\""
+    },
+    {
+      "offset": 4141,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……どこをどうやったら、そんな解釈が出て\n　くるんだ？」",
+      "en": "\"Where did you get that impression from?\"",
+      "text": "\"Where did you get that impression from?\""
+    },
+    {
+      "offset": 4233,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「無論、皮肉だ」",
+      "en": "\"Of course, it's sarcasm.\"",
+      "text": "\"Of course, it's sarcasm.\""
+    },
+    {
+      "offset": 4256,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 4275,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頭を抱えながら、俺はクラス替えのリストを作っ\nた講師を呪った。",
+      "en": "I curse the teacher who made the class list.",
+      "text": "I curse the teacher who made the class list."
+    },
+    {
+      "offset": 4371,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ま、同じクラスになってしまったからには仕\n　方ない。これからまた１年、よろしく頼むぞ、\n　朝倉」",
+      "en": "\"Well, what else can we do? Let's have a good year,\nAsakura.\"",
+      "text": "\"Well, what else can we do? Let's have a good year,\nAsakura.\""
+    },
+    {
+      "offset": 4474,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「無理やりだがな」",
+      "en": "\"I guess I've got no choice.\"",
+      "text": "\"I guess I've got no choice.\""
+    },
+    {
+      "offset": 4501,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並はそのまま、俺の前の席にどっかり座り込\nむ。",
+      "en": "Suginami settles into the chair right in front of me.",
+      "text": "Suginami settles into the chair right in front of me."
+    },
+    {
+      "offset": 4553,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "席順がまだ決まっていないので、ＨＲが始まる\nまでは、めいめい好きな所に座るしかない。",
+      "en": "We can sit anywhere we want until the seat layout's set.",
+      "text": "We can sit anywhere we want until the seat layout's set."
+    },
+    {
+      "offset": 4641,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "教室の中には早くもグループが出来ていて、色\nんな音の混じり合った雑音を生み出している。",
+      "en": "People are already divided into groups, making different\nkinds of noises.",
+      "text": "People are already divided into groups, making different\nkinds of noises."
+    },
+    {
+      "offset": 4761,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「しかし、ついに今年は白河とも一緒のクラス\n　か」",
+      "en": "\"I am finally in the same class as Shirakawa this year.\"",
+      "text": "\"I am finally in the same class as Shirakawa this year.\""
+    },
+    {
+      "offset": 4817,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ん」",
+      "en": "\"Hm.\"",
+      "text": "\"Hm.\""
+    },
+    {
+      "offset": 4842,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並の視線を追うと、確かに、クラスの雰囲気\nを一点に集めている学園のアイドルがいた。",
+      "en": "Following Suginami's glance, there's the person who gets all\nthe attention in the class.",
+      "text": "Following Suginami's glance, there's the person who gets all\nthe attention in the class."
+    },
+    {
+      "offset": 4932,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まぁな。お前としても、ことりじゃちょっか\n　いは出しづらいわな」",
+      "en": "\"Well, I know it's hard for you to make a pass at Kotori.\"",
+      "text": "\"Well, I know it's hard for you to make a pass at Kotori.\""
+    },
+    {
+      "offset": 5037,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「まぁな……水越や朝倉妹がいればよかったん\n　だが」",
+      "en": "\"I wish Mizukoshi and your sister were here.\"",
+      "text": "\"I wish Mizukoshi and your sister were here.\""
+    },
+    {
+      "offset": 5095,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「そうだな」",
+      "en": "\"I know that.\"",
+      "text": "\"I know that.\""
+    },
+    {
+      "offset": 5114,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちらっ、と杉並を見るが、音夢の話題を出した\nことに関して特に反応はない。",
+      "en": "I give a quick glance at Suginami, but he doesn't seem to\ncare about the topic of Nemu.",
+      "text": "I give a quick glance at Suginami, but he doesn't seem to\ncare about the topic of Nemu."
+    },
+    {
+      "offset": 5190,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "多分、こいつが一番音夢のことを考えてやって\nいるんだろう。",
+      "en": "I know he's the one who is thinking of her most.",
+      "text": "I know he's the one who is thinking of her most."
+    },
+    {
+      "offset": 5252,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "純粋に、音夢が学園に来れればいいと思ってい\nるのだ。",
+      "en": "He just wants her back in this school.",
+      "text": "He just wants her back in this school."
+    },
+    {
+      "offset": 5310,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「動機が不純だがな」",
+      "en": "\"Although your motive is not pure.\"",
+      "text": "\"Although your motive is not pure.\""
+    },
+    {
+      "offset": 5365,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「なにがだ？」",
+      "en": "\"What are you talking about?\"",
+      "text": "\"What are you talking about?\""
+    },
+    {
+      "offset": 5386,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「いや、また｛・・／学校｝が始まっちまったなってな」",
+      "en": "\"I mean, I was just saying school's started again.\"",
+      "text": "\"I mean, I was just saying school's started again.\""
+    },
+    {
+      "offset": 5473,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「そういえば、新しい講師が入ったって噂、知っ\n　てるか？」",
+      "en": "\"Did you hear about the new teacher?\"",
+      "text": "\"Did you hear about the new teacher?\""
+    },
+    {
+      "offset": 5537,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「またか……」",
+      "en": "\"Another one?\"",
+      "text": "\"Another one?\""
+    },
+    {
+      "offset": 5558,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "通常なら嬉しい話題なのだろうが、風見学園の\n講師には現役研究者が登用されるので、変人が\n多いのだ。",
+      "en": "Usually that would be happy news. But many teachers at\nKazami Academy are active researchers, so they're kind of\nweird.",
+      "text": "Usually that would be happy news. But many teachers at\nKazami Academy are active researchers, so they're kind of\nweird."
+    },
+    {
+      "offset": 5661,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「杉並の暴走を止められるレベルのやつなら、\n　いいんだがな……」",
+      "en": "\"It would be great if they have the guts to keep Suginami in\ncheck.\"",
+      "text": "\"It would be great if they have the guts to keep Suginami in\ncheck.\""
+    },
+    {
+      "offset": 5731,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぼそり、と口の中で言葉をかみつぶす。",
+      "en": "I speak ambiguously.",
+      "text": "I speak ambiguously."
+    },
+    {
+      "offset": 5802,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「とりあえず、バナナの皮と黒板消しとバケツ\n　を用意したが、お前なら挨拶はどれにする？」",
+      "en": "\"In the meantime, I have a banana peel, a blackboard eraser\nand a bucket. Which one would make the best greeting?\"",
+      "text": "\"In the meantime, I have a banana peel, a blackboard eraser\nand a bucket. Which one would make the best greeting?\""
+    },
+    {
+      "offset": 5896,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "当人はいたって楽しそうに笑っている。",
+      "en": "He smiles happily.",
+      "text": "He smiles happily."
+    },
+    {
+      "offset": 5939,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「マンガの中の悪ガキかお前は……だいたい、\n　その話は本当なのか？」",
+      "en": "\"Are you trying to be an unruly student from a comic book?\nFirst of all, is the story you told me true?\"",
+      "text": "\"Are you trying to be an unruly student from a comic book?\nFirst of all, is the story you told me true?\""
+    },
+    {
+      "offset": 6041,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「信頼できる筋からの情報だ」",
+      "en": "\"It's authentic information.\"",
+      "text": "\"It's authentic information.\""
+    },
+    {
+      "offset": 6076,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……誰だよそいつは」",
+      "en": "\"Who told you that?\"",
+      "text": "\"Who told you that?\""
+    },
+    {
+      "offset": 6133,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ふっ……この学園の人間ではない」",
+      "en": "\"Well... he's not a student in this school.\"",
+      "text": "\"Well... he's not a student in this school.\""
+    },
+    {
+      "offset": 6174,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「信用できねぇじゃねーか！」",
+      "en": "\"Then, you can't trust him!\"",
+      "text": "\"Then, you can't trust him!\""
+    },
+    {
+      "offset": 6237,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「お前は大佐の情報網を信頼できないのか？」",
+      "en": "\"You don't trust a captain's intelligence network, do you?\"",
+      "text": "\"You don't trust a captain's intelligence network, do you?\""
+    },
+    {
+      "offset": 6286,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「誰だよそいつは？」",
+      "en": "\"Who's that guy?\"",
+      "text": "\"Who's that guy?\""
+    },
+    {
+      "offset": 6324,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「軍の情報部に籍をおいているらしく、可愛い\n　女学生をチェックすることを趣味とする方だ\n　が？」",
+      "en": "\"He belongs to a military intelligence bureau, and his hobby\nis checking out pretty girls.\"",
+      "text": "\"He belongs to a military intelligence bureau, and his hobby\nis checking out pretty girls.\""
+    },
+    {
+      "offset": 6425,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「はぁ……」",
+      "en": "\"Huh...\"",
+      "text": "\"Huh...\""
+    },
+    {
+      "offset": 6444,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こいつとの会話も久しぶりだが、あいも変わら\nず疲れる。",
+      "en": "It's been a while since I had a conversation with him, but\nit's still tiring to be with him.",
+      "text": "It's been a while since I had a conversation with him, but\nit's still tiring to be with him."
+    },
+    {
+      "offset": 6511,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本来なら、この辺りで音夢の突っ込みが炸裂す\nるのだが……。",
+      "en": "Usually I'd be expecting Nemu's joke just about now.",
+      "text": "Usually I'd be expecting Nemu's joke just about now."
+    },
+    {
+      "offset": 6578,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ガラガラ──",
+      "en": "Rattle...",
+      "text": "Rattle..."
+    },
+    {
+      "offset": 6628,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「はいはい。どこでもいいから席着いてー。ホー\n　ムルーム始めるよー」",
+      "en": "\"Okay, everyone. Have a seat wherever you want. Let's start\nthe homeroom.\"",
+      "text": "\"Okay, everyone. Have a seat wherever you want. Let's start\nthe homeroom.\""
+    },
+    {
+      "offset": 6702,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "聞きなれた声に顔を上げると、見慣れた講師が\nそこにいた。",
+      "en": "I lift my head when I hear the familiar voice, to see a\nteacher I've seen before.",
+      "text": "I lift my head when I hear the familiar voice, to see a\nteacher I've seen before."
+    },
+    {
+      "offset": 6764,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（……って、また暦先生が担任なのか）",
+      "en": "(Koyomi-sensei's our classroom teacher again, huh.)",
+      "text": "(Koyomi-sensei's our classroom teacher again, huh.)"
+    },
+    {
+      "offset": 6807,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりといい杉並といい、知った顔がそれなり\nに多いな。",
+      "en": "I recognize quite a few faces, including Kotori and\nSuginami.",
+      "text": "I recognize quite a few faces, including Kotori and\nSuginami."
+    },
+    {
+      "offset": 6865,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、ふと視線を感じた。顔を巡らせると、こと\nりが小さく手を振っていた。",
+      "en": "I feel someone's eye on me, so I turn and see Kotori waving\nat me quietly.",
+      "text": "I feel someone's eye on me, so I turn and see Kotori waving\nat me quietly."
+    },
+    {
+      "offset": 6939,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それに軽く手を振って応える。",
+      "en": "I wave back to her.",
+      "text": "I wave back to her."
+    },
+    {
+      "offset": 7015,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「はいはい、それじゃ、とりあえず出欠を取ろ\n　うと思うのだが――」",
+      "en": "\"Okay, everyone. I'll have a roll call now.\"",
+      "text": "\"Okay, everyone. I'll have a roll call now.\""
+    },
+    {
+      "offset": 7087,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "含みを持たせて暦先生がほくそ笑む。",
+      "en": "Koyomi-sensei smiles meaningfully.",
+      "text": "Koyomi-sensei smiles meaningfully."
+    },
+    {
+      "offset": 7137,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「実は、君たちの担任は私じゃないんだ」",
+      "en": "\"As a matter of fact, I'm not your teacher this year.\"",
+      "text": "\"As a matter of fact, I'm not your teacher this year.\""
+    },
+    {
+      "offset": 7182,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「お？」",
+      "en": "\"Oh?\"",
+      "text": "\"Oh?\""
+    },
+    {
+      "offset": 7197,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並に目を向けると、奴は薬指をくるくる回し\nて、それを上下に振っていた。",
+      "en": "When I looked at Suginami, he was spinning his fourth finger\nup and down.",
+      "text": "When I looked at Suginami, he was spinning his fourth finger\nup and down."
+    },
+    {
+      "offset": 7273,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんのジェスチャーだか全然分からねぇよ……。",
+      "en": "I have no idea what that gesture means.",
+      "text": "I have no idea what that gesture means."
+    },
+    {
+      "offset": 7350,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ちょっと突然の就任で、紹介が本人からになっ\n　てしまったが、まぁ、お互いにがんばってく\n　れ」",
+      "en": "\"She's a new teacher in this school, so I'll introduce her\nnow. But good luck to you.\"",
+      "text": "\"She's a new teacher in this school, so I'll introduce her\nnow. But good luck to you.\""
+    },
+    {
+      "offset": 7451,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、廊下に向かって暦先生が頷く。",
+      "en": "Koyomi-sensei nods toward the hallway.",
+      "text": "Koyomi-sensei nods toward the hallway."
+    },
+    {
+      "offset": 7490,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まぁ、誰になったところで――！？」",
+      "en": "\"Well, whoever becomes our teacher...\"",
+      "text": "\"Well, whoever becomes our teacher...\""
+    },
+    {
+      "offset": 7568,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「こんちゃーす♪」",
+      "en": "\"Hello!\"",
+      "text": "\"Hello!\""
+    },
+    {
+      "offset": 7595,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ピシィ！！",
+      "en": "Bang!!",
+      "text": "Bang!!"
+    },
+    {
+      "offset": 7623,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――そして時は動き出す。",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 7690,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「まぁ、色々とあるだろうが宜しく――」",
+      "en": "Time starts ticking once again.",
+      "text": "Time starts ticking once again."
+    },
+    {
+      "offset": 7735,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ちょっと待て〜！！」",
+      "en": "\"Good luck to you, everyone.\"",
+      "text": "\"Good luck to you, everyone.\""
+    },
+    {
+      "offset": 7799,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うるさい学生ですね」",
+      "en": "\"Wait a second!\"",
+      "text": "\"Wait a second!\""
+    },
+    {
+      "offset": 7828,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「おぃ……」",
+      "en": "\"You, quiet!\"",
+      "text": "\"You, quiet!\""
+    },
+    {
+      "offset": 7849,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "席を立ったまま、半眼でさくらを｛にら／睨｝む。",
+      "en": "\"Hey...\"",
+      "text": "\"Hey...\""
+    },
+    {
+      "offset": 7937,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「おネ……じゃなかった、先生、これは？」",
+      "en": "\"Onee? I mean, sensei, what's going on?\"",
+      "text": "\"Onee? I mean, sensei, what's going on?\""
+    },
+    {
+      "offset": 7984,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりが小さく手を挙げて呟く。",
+      "en": "Kotori asks, raising her hand quietly.",
+      "text": "Kotori asks, raising her hand quietly."
+    },
+    {
+      "offset": 8052,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「言った通り、彼女が新しい講師だ」",
+      "en": "\"As I told you, she's the new teacher for this class.\"",
+      "text": "\"As I told you, she's the new teacher for this class.\""
+    },
+    {
+      "offset": 8093,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ちょっと待ってください……」",
+      "en": "\"Hold on a second.\"",
+      "text": "\"Hold on a second.\""
+    },
+    {
+      "offset": 8130,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あぁ、本気で頭痛がしてきた。",
+      "en": "Oh, God... I have a headache now.",
+      "text": "Oh, God... I have a headache now."
+    },
+    {
+      "offset": 8191,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「いや、皆が驚くのも無理はないが、彼女の適\n　正に関しては折り紙つきだぞ」",
+      "en": "\"Well, I don't blame you all for being surprised, but I\nguarantee you she is a very good teacher.\"",
+      "text": "\"Well, I don't blame you all for being surprised, but I\nguarantee you she is a very good teacher.\""
+    },
+    {
+      "offset": 8280,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ＩＱ１８０。すでにアメリカで大学も卒業し\n　て、生物工学の博士号を取得している」",
+      "en": "\"Her IQ is 180 and she has a Ph.D in bioengineering from a\nuniversity in America.\"",
+      "text": "\"Her IQ is 180 and she has a Ph.D in bioengineering from a\nuniversity in America.\""
+    },
+    {
+      "offset": 8377,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「特に植物に関する特許をいくつも持っている\n　から、将来の長者番付候補でもある」",
+      "en": "\"And she owns many patents in plants, so she will be on the\nbillionaires list someday.\"",
+      "text": "\"And she owns many patents in plants, so she will be on the\nbillionaires list someday.\""
+    },
+    {
+      "offset": 8472,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「まぁ、簡単に言って、世界中の君らと同世代\n　の中でも掛け値なしの天才ってことだ」",
+      "en": "\"Basically she's one of those geniuses in the world.\"",
+      "text": "\"Basically she's one of those geniuses in the world.\""
+    },
+    {
+      "offset": 8560,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 8579,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "はい？",
+      "en": "What?",
+      "text": "What?"
+    },
+    {
+      "offset": 8590,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "耳というのか、俺の精神がおかしくなってしまっ\nたようだ。",
+      "en": "I think my head broke down, not my hearing.",
+      "text": "I think my head broke down, not my hearing."
+    },
+    {
+      "offset": 8650,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もしくは、さくらのそっくりさんだろうか。",
+      "en": "Is she Sakura's look-alike?",
+      "text": "Is she Sakura's look-alike?"
+    },
+    {
+      "offset": 8706,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「とにかく、本来は向こうでも国外に手放した\n　くないくらいの人材だが事情があって一時的\n　に風見学園の講師に籍をおいてくれたんだ」",
+      "en": "\"Actually she's in great demand over there, but she agreed\nto teach at Kazami Academy temporarily for reasons of her\nown.\"",
+      "text": "\"Actually she's in great demand over there, but she agreed\nto teach at Kazami Academy temporarily for reasons of her\nown.\""
+    },
+    {
+      "offset": 8876,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「いやぁ、そんなたいしたことないですよ〜」",
+      "en": "\"I'm not as special as she says.\"",
+      "text": "\"I'm not as special as she says.\""
+    },
+    {
+      "offset": 8925,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どんな謙遜も嫌味にしかならない経歴だろうが、\nあいつが言うと本当にたいしたことなさそうに\n聞こえる。",
+      "en": "How modestly she speaks about her successful career. It's\nsupposed to sound like modesty, but in her case, we can\nbelieve what she says.",
+      "text": "How modestly she speaks about her successful career. It's\nsupposed to sound like modesty, but in her case, we can\nbelieve what she says."
+    },
+    {
+      "offset": 9043,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あ、ボク、芳乃さくらと申します。不束者で\n　短い間だとは思いますが、皆様宜しくお願い\n　しますにゃ〜♪」",
+      "en": "\"My name is Sakura Yoshino. I'm an inexperienced teacher,\nbut I'll do my best. I'd like to have a good time with you\neven for a short period of time.\"",
+      "text": "\"My name is Sakura Yoshino. I'm an inexperienced teacher,\nbut I'll do my best. I'd like to have a good time with you\neven for a short period of time.\""
+    },
+    {
+      "offset": 9154,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 9181,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 9233,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ほぉ……にゃ〜、とはポイントが高い」",
+      "en": "\"Hmm... She gets a high score.\"",
+      "text": "\"Hmm... She gets a high score.\""
+    },
+    {
+      "offset": 9278,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただ一人を除いて、クラスの人間全員が凍りつ\nいたのは言うまでもあるまい……。",
+      "en": "Needless to say, everyone's stunned except one person in the\nclass.",
+      "text": "Needless to say, everyone's stunned except one person in the\nclass."
+    },
+    {
+      "offset": 9476,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆さくら先生・見参◆",
+      "en": "◆Sakura-sensei's new class◆",
+      "text": "◆Sakura-sensei's new class◆"
+    },
+    {
+      "offset": 9529,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "夢と同じように、さくらの家には人気がなかっ\nた。",
+      "en": "Like in a dream I had, I don't sense anybody in Sakura's\nhouse.",
+      "text": "Like in a dream I had, I don't sense anybody in Sakura's\nhouse."
+    },
+    {
+      "offset": 9609,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "登校した学園では、今度はことりと杉並がクラ\nスメイトとなった。",
+      "en": "At a new school, I was in the same class as Kotori and\nSuginami.",
+      "text": "At a new school, I was in the same class as Kotori and\nSuginami."
+    },
+    {
+      "offset": 9675,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ため息と歓声を上げる配置だったが、新しく赴\n任したという講師がさくらで、俺は｛あぜん／唖然｝とする\nしかなかった。",
+      "en": "Lots of sighs and cheers were flying around in the\nclassroom, but when I found out the new teacher was Sakura,\nI was absolutely dumbfounded.",
+      "text": "Lots of sighs and cheers were flying around in the\nclassroom, but when I found out the new teacher was Sakura,\nI was absolutely dumbfounded."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "502": "Nemu",
+    "604": "Nemu",
+    "745": "Nemu",
+    "891": "Nemu",
+    "972": "Nemu",
+    "1175": "Nemu",
+    "1336": "Nemu",
+    "1480": "Nemu",
+    "1619": "Nemu",
+    "1750": "Nemu",
+    "1907": "Nemu",
+    "2021": "Nemu",
+    "2098": "Nemu",
+    "2197": "Nemu",
+    "2337": "Nemu",
+    "2399": "Nemu",
+    "2514": "Nemu",
+    "2601": "Nemu",
+    "3975": "Suginami",
+    "4073": "Suginami",
+    "4225": "Suginami",
+    "4363": "Suginami",
+    "4753": "Suginami",
+    "5029": "Suginami",
+    "5357": "Suginami",
+    "5465": "Suginami",
+    "5794": "Suginami",
+    "6033": "Suginami",
+    "6125": "Suginami",
+    "6229": "Suginami",
+    "6316": "Suginami",
+    "6622": "Koyomi",
+    "7009": "Koyomi",
+    "7131": "Koyomi",
+    "7344": "Koyomi",
+    "7558": "Sakura",
+    "7684": "Koyomi",
+    "7789": "Sakura",
+    "7927": "Kotori",
+    "8046": "Koyomi",
+    "8185": "Koyomi",
+    "8274": "Koyomi",
+    "8371": "Koyomi",
+    "8466": "Koyomi",
+    "8700": "Koyomi",
+    "8866": "Sakura",
+    "9033": "Sakura",
+    "9171": "Kotori",
+    "9225": "Suginami"
+  }
+}

@@ -1,0 +1,424 @@
+{
+  "scene": "script_0678.obj",
+  "dialogues": [
+    {
+      "offset": 187,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "生活の流れとともに、一日の感覚がまた変わっ\nてきた。",
+      "en": "I already feel different about the passing days.",
+      "text": "I already feel different about the passing days."
+    },
+    {
+      "offset": 243,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらと登校して、校門前で充電して、授業を\n受けて、屋上でお弁当を食べて、帰って音夢の\n様子を見ながらその日の話をする。",
+      "en": "I go to school with Sakura, she gets charged before the\nschool gate, take classes, eat lunch on the rooftop, and we\ntalk about the day when we get home while I check Nemu's\nhealth.",
+      "text": "I go to school with Sakura, she gets charged before the\nschool gate, take classes, eat lunch on the rooftop, and we\ntalk about the day when we get home while I check Nemu's\nhealth."
+    },
+    {
+      "offset": 366,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だいたい、１日の流れがこう説明できるように\nなり、自分でも納得がいくようになった。",
+      "en": "I accept the situation that this is how my days go.",
+      "text": "I accept the situation that this is how my days go."
+    },
+    {
+      "offset": 452,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "家での出来事が希薄になり、生活の大半を過ご\nす学園のほうに意識が移ってきているのか。",
+      "en": "I think I've started to focus more on things at school,\nwhere I spend most of the day, than at home.",
+      "text": "I think I've started to focus more on things at school,\nwhere I spend most of the day, than at home."
+    },
+    {
+      "offset": 540,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とはいえ、授業自体が面白いわけではないので、\nどうにも視線はきれいな桜の見える窓を向いて\nしまう。",
+      "en": "It doesn't mean I'm into studying. I still stare out of the\nwindow at the beautiful cherry blossoms.",
+      "text": "It doesn't mean I'm into studying. I still stare out of the\nwindow at the beautiful cherry blossoms."
+    },
+    {
+      "offset": 678,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あ、ところで５月に入ったらすぐテストがあ\n　るけど、みんな体調には気をつけろよ〜」",
+      "en": "\"At the beginning of May, you'll have a test. Take care of\nyour health by then!\"",
+      "text": "\"At the beginning of May, you'll have a test. Take care of\nyour health by then!\""
+    },
+    {
+      "offset": 768,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本日最後の授業になる物理に参加しているさく\nら｛・・／先生｝が、どこぞのドラマに影響を受けたのか\n口調を変えている。",
+      "en": "Sakura-sensei in the physics class as the last period speaks\nin a different way, I guess she must be influenced by some\nkind of drama.",
+      "text": "Sakura-sensei in the physics class as the last period speaks\nin a different way, I guess she must be influenced by some\nkind of drama."
+    },
+    {
+      "offset": 899,
+      "speaker": "Male student",
+      "speaker_jp": "男子学生",
+      "jp": "「おっす！」",
+      "en": "\"Hey!\"",
+      "text": "\"Hey!\""
+    },
+    {
+      "offset": 951,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ちなみに、さくら先生はなんだか体育会系の\n　男子と、文系の女子に異常な人気があるらし\n　いぞ」",
+      "en": "\"You know what? Sakura-sensei is very popular, especially\namong the guys on the varsity team and female arts\nstudents.\"",
+      "text": "\"You know what? Sakura-sensei is very popular, especially\namong the guys on the varsity team and female arts\nstudents.\""
+    },
+    {
+      "offset": 1052,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "軽く振り返って杉並が呟く。",
+      "en": "Suginami mutters, turning around.",
+      "text": "Suginami mutters, turning around."
+    },
+    {
+      "offset": 1085,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「マジか？」",
+      "en": "\"Are you serious?\"",
+      "text": "\"Are you serious?\""
+    },
+    {
+      "offset": 1115,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「そのスジには、たまらないらしい。合言葉も\n　あるらしいぞ」",
+      "en": "\"They're really into her, and they also have the password,\ntoo.\"",
+      "text": "\"They're really into her, and they also have the password,\ntoo.\""
+    },
+    {
+      "offset": 1181,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「なんだそれ？」",
+      "en": "\"What is it?\"",
+      "text": "\"What is it?\""
+    },
+    {
+      "offset": 1215,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「さくらたん萌え〜、と」",
+      "en": "\"'Sweet Sakura Haha'.\"",
+      "text": "\"'Sweet Sakura Haha'.\""
+    },
+    {
+      "offset": 1246,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……それは……難儀だな」",
+      "en": "\"It sounds weird.\"",
+      "text": "\"It sounds weird.\""
+    },
+    {
+      "offset": 1314,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ほ〜い。じゃあこの問題を市原さん」",
+      "en": "\"Okay, Ichihara-san. Can you solve this problem?\"",
+      "text": "\"Okay, Ichihara-san. Can you solve this problem?\""
+    },
+    {
+      "offset": 1357,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "当の本人はそんなことは露知らず――まぁ、知っ\nていても別段問題なく授業をしている。",
+      "en": "Sakura herself has no idea about what's going on. Well, even\nif she knew, she wouldn't care less and would just keep\nteaching the class as usual.",
+      "text": "Sakura herself has no idea about what's going on. Well, even\nif she knew, she wouldn't care less and would just keep\nteaching the class as usual."
+    },
+    {
+      "offset": 1451,
+      "speaker": "Ichihara",
+      "speaker_jp": "市原",
+      "jp": "「はい」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 1466,
+      "speaker": "Ichihara",
+      "speaker_jp": "市原",
+      "jp": "「……平和だな」",
+      "en": "\"What a peaceful day...\"",
+      "text": "\"What a peaceful day...\""
+    },
+    {
+      "offset": 1489,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頬杖をついて、シャーペンを回しながらあくび\nをかみ殺す。",
+      "en": "I hide a yawn while resting my cheek in my hand, flicking a\nmechanical pencil.",
+      "text": "I hide a yawn while resting my cheek in my hand, flicking a\nmechanical pencil."
+    },
+    {
+      "offset": 1549,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一時はさくらの異常さに騒然としていたクラス\nもあったが、慣れてしまえば平凡な日常そのも\nのである。",
+      "en": "At first, everyone was agitated because Sakura was so\nunusual, but now they're used to it, we have a smooth day as\nusual.",
+      "text": "At first, everyone was agitated because Sakura was so\nunusual, but now they're used to it, we have a smooth day as\nusual."
+    },
+    {
+      "offset": 1650,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "他の先生のように敬語じゃなくてもいいし、年\n齢が同じだから話題もよく合う。",
+      "en": "We don't need to speak formally to her, and we have common\ntopics to talk about since we're the same age.",
+      "text": "We don't need to speak formally to her, and we have common\ntopics to talk about since we're the same age."
+    },
+    {
+      "offset": 1736,
+      "speaker": "Ichihara",
+      "speaker_jp": "市原",
+      "jp": "「これで良いですか？」",
+      "en": "\"Is this all right?\"",
+      "text": "\"Is this all right?\""
+    },
+    {
+      "offset": 1778,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ＧＯＯＤ。じゃ次のところをおに――朝倉く\n　ん」",
+      "en": "\"Good. Then, the next one is for onii... Asakura-kun.\"",
+      "text": "\"Good. Then, the next one is for onii... Asakura-kun.\""
+    },
+    {
+      "offset": 1834,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「はい……あれ？　次の問題なんてないぞ？」",
+      "en": "\"Sure... huh? There are no more problems left.\"",
+      "text": "\"Sure... huh? There are no more problems left.\""
+    },
+    {
+      "offset": 1883,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "教科書の例題は、今の範囲だともう残っていな\nい。",
+      "en": "There are no example problems left in the textbook.",
+      "text": "There are no example problems left in the textbook."
+    },
+    {
+      "offset": 1967,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あ、そう。じゃあ｛あくび／欠伸｝して暇そうにしている\n　から特別問題だね♪」",
+      "en": "\"Oh, you're right. Well, you look so bored killing a yawn,\nso I'll give a special problem for you.\"",
+      "text": "\"Oh, you're right. Well, you look so bored killing a yawn,\nso I'll give a special problem for you.\""
+    },
+    {
+      "offset": 2063,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "カキカキ。",
+      "en": "Scratch, scratch, goes the chalk.",
+      "text": "Scratch, scratch, goes the chalk."
+    },
+    {
+      "offset": 2078,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "カキカキ。",
+      "en": "Scratch, scratch.",
+      "text": "Scratch, scratch."
+    },
+    {
+      "offset": 2095,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……おい」",
+      "en": "\"Hey...\"",
+      "text": "\"Hey...\""
+    },
+    {
+      "offset": 2114,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "カキカキ。",
+      "en": "Scratch, scratch.",
+      "text": "Scratch, scratch."
+    },
+    {
+      "offset": 2129,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "カキカキ。",
+      "en": "Scratch, scratch.",
+      "text": "Scratch, scratch."
+    },
+    {
+      "offset": 2159,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あとは……っと」",
+      "en": "\"Oookay...\"",
+      "text": "\"Oookay...\""
+    },
+    {
+      "offset": 2184,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「いや……なんだそれ……宇宙から飛んできた\n　電波でも受信してるのか？」",
+      "en": "\"Are you picking up radio waves from space?\"",
+      "text": "\"Are you picking up radio waves from space?\""
+    },
+    {
+      "offset": 2262,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "すでに黒板の半分が、見知らぬ記号の羅列で埋\nまっている。",
+      "en": "The blackboard is already half filled with incomprehensible\nsymbols.",
+      "text": "The blackboard is already half filled with incomprehensible\nsymbols."
+    },
+    {
+      "offset": 2337,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「今だかつて誰も証明できなかった公式だから、\n　できたらノーベル賞だよ〜♪」",
+      "en": "\"Nobody has solved this formula yet. If you can prove it,\nyou'll get the Novel Prize for sure.\"",
+      "text": "\"Nobody has solved this formula yet. If you can prove it,\nyou'll get the Novel Prize for sure.\""
+    },
+    {
+      "offset": 2419,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2438,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……さくら先生、ちょっと」",
+      "en": "\"Excuse me, Sakura-sensei.\"",
+      "text": "\"Excuse me, Sakura-sensei.\""
+    },
+    {
+      "offset": 2473,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "にっこりと笑って、手招きする。",
+      "en": "I beckon her with a smile.",
+      "text": "I beckon her with a smile."
+    },
+    {
+      "offset": 2545,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あ、なになに♪」",
+      "en": "\"Yes, what is it?\"",
+      "text": "\"Yes, what is it?\""
+    },
+    {
+      "offset": 2570,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ちょっと後ろ向いて」",
+      "en": "\"Can you turn around for a second?\"",
+      "text": "\"Can you turn around for a second?\""
+    },
+    {
+      "offset": 2612,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あにゃ、なんかゴミとかついてる？」",
+      "en": "\"Huuhh, is there anything on my back?\"",
+      "text": "\"Huuhh, is there anything on my back?\""
+    },
+    {
+      "offset": 2667,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "パタパタ、と軽い足音で近づいてきたさくらが、\n回れ右をする。",
+      "en": "Sakura walks over me with noisy footsteps and turns around.",
+      "text": "Sakura walks over me with noisy footsteps and turns around."
+    },
+    {
+      "offset": 2733,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「やらせんなよそんな問題！！」",
+      "en": "\"Don't give me shit like this!\"",
+      "text": "\"Don't give me shit like this!\""
+    },
+    {
+      "offset": 2783,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゃ〜！！」",
+      "en": "\"Hmmm!!\"",
+      "text": "\"Hmmm!!\""
+    },
+    {
+      "offset": 2839,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「はい撤収〜」",
+      "en": "\"Okay, get out!\"",
+      "text": "\"Okay, get out!\""
+    },
+    {
+      "offset": 2860,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "半ばパターン化している、これが日常だった。",
+      "en": "This is the ordinary day we have at school.",
+      "text": "This is the ordinary day we have at school."
+    },
+    {
+      "offset": 3011,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆さくら先生・ノーベル賞◆",
+      "en": "◆Sakura-sensei Nobel Prize◆",
+      "text": "◆Sakura-sensei Nobel Prize◆"
+    },
+    {
+      "offset": 3066,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なにげない授業の最中、雑談していた杉並から、\nさくらが体育会系のおっきいお兄ちゃん達に人\n気があるなどと聞く。",
+      "en": "Suginami told me that the boys on the varsity team like\nSakura.",
+      "text": "Suginami told me that the boys on the varsity team like\nSakura."
+    },
+    {
+      "offset": 3179,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、それが目についたのか、さくらから解けれ\nばノーベル賞モノの問題を出される俺だった。",
+      "en": "In addition, Sakura set me a problem for the Nobel Prize, if\nI can solve it.",
+      "text": "In addition, Sakura set me a problem for the Nobel Prize, if\nI can solve it."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "668": "Sakura",
+    "887": "Male student",
+    "943": "Suginami",
+    "1107": "Suginami",
+    "1207": "Suginami",
+    "1304": "Sakura",
+    "1443": "Ichihara",
+    "1728": "Ichihara",
+    "1768": "Sakura",
+    "1957": "Sakura",
+    "2149": "Sakura",
+    "2327": "Sakura",
+    "2535": "Sakura",
+    "2602": "Sakura",
+    "2773": "Sakura",
+    "2831": "Suginami"
+  }
+}

@@ -1,0 +1,506 @@
+{
+  "scene": "script_0028.obj",
+  "dialogues": [
+    {
+      "offset": 176,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「お帰り、兄さん」",
+      "en": "\"Welcome back, nii-san.\"",
+      "text": "\"Welcome back, nii-san.\""
+    },
+    {
+      "offset": 201,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "先に帰っていた音夢がテレビを見ていた。",
+      "en": "Nemu, who reached home first, was watching television.",
+      "text": "Nemu, who reached home first, was watching television."
+    },
+    {
+      "offset": 246,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ただいま」",
+      "en": "\"I'm home.\"",
+      "text": "\"I'm home.\""
+    },
+    {
+      "offset": 265,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言いながらソファーにドフッと腰を沈める。",
+      "en": "With that, I sank my body into the sofa.",
+      "text": "With that, I sank my body into the sofa."
+    },
+    {
+      "offset": 312,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どこに遊びに行ってたんだ？」",
+      "en": "\"Where did you go today?\"",
+      "text": "\"Where did you go today?\""
+    },
+    {
+      "offset": 377,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「美春の家でお喋りして、公園の屋台でクレー\n　プ食べてきたの」",
+      "en": "\"I chatted with Miharu for a while at her house, then went\nto the park and ate a crepe from a roadside vendor.\"",
+      "text": "\"I chatted with Miharu for a while at her house, then went\nto the park and ate a crepe from a roadside vendor.\""
+    },
+    {
+      "offset": 445,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そうか……」",
+      "en": "\"I see...\"",
+      "text": "\"I see...\""
+    },
+    {
+      "offset": 466,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さっき美春はマンガを返しに来たとか言ってた\nけど……。",
+      "en": "Earlier, Miharu said she was returning a manga to Nemu...",
+      "text": "Earlier, Miharu said she was returning a manga to Nemu..."
+    },
+    {
+      "offset": 524,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "相変わらずドジだな、美春は。音夢が家に行っ\nたのなら、その時に返せば良いものを……。",
+      "en": "As forgetful as ever, that Miharu. It would certainly have\nbeen easier to return the manga when Nemu went to her\nhouse...",
+      "text": "As forgetful as ever, that Miharu. It would certainly have\nbeen easier to return the manga when Nemu went to her\nhouse..."
+    },
+    {
+      "offset": 612,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いや、今日音夢が貸した本……ということもあ\nるか？",
+      "en": "Well, maybe Nemu lent her the book today?",
+      "text": "Well, maybe Nemu lent her the book today?"
+    },
+    {
+      "offset": 666,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だとしたら、随分と急な話だけどな。",
+      "en": "If so, she must've really rushed through it...",
+      "text": "If so, she must've really rushed through it..."
+    },
+    {
+      "offset": 746,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「それより兄さん……はい、お土産♪」",
+      "en": "\"By the way, nii-san... here you go, a present♪\"",
+      "text": "\"By the way, nii-san... here you go, a present♪\""
+    },
+    {
+      "offset": 789,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "不敵な笑顔を浮かべて、音夢が箱状の包みを差\nし出してくる。バレーボールでも入っていそう\nなデカさだ。",
+      "en": "With a fearless-looking smile, Nemu gave me a box-shaped\nparcel. It was about the size of a volleyball.",
+      "text": "With a fearless-looking smile, Nemu gave me a box-shaped\nparcel. It was about the size of a volleyball."
+    },
+    {
+      "offset": 892,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "チッ、チッ、チッ――",
+      "en": "--Tick, Tick, Tick",
+      "text": "--Tick, Tick, Tick"
+    },
+    {
+      "offset": 919,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……爆弾？」",
+      "en": "\"...A bomb?\"",
+      "text": "\"...A bomb?\""
+    },
+    {
+      "offset": 971,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「どうして私がそんな物を買わなくちゃならな\n　いのよ」",
+      "en": "\"Why would I buy you something like that?\"",
+      "text": "\"Why would I buy you something like that?\""
+    },
+    {
+      "offset": 1031,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いや、ストレス解消に」",
+      "en": "\"To relieve you of your stress?\"",
+      "text": "\"To relieve you of your stress?\""
+    },
+    {
+      "offset": 1090,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そんなことしません……」",
+      "en": "\"Uhm, no, not really...\"",
+      "text": "\"Uhm, no, not really...\""
+    },
+    {
+      "offset": 1134,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だいたい、そんなことをしたら私まで巻き込\n　まれちゃうじゃない」",
+      "en": "\"Anyway, hurry up and open it. I want to see your reaction.\"",
+      "text": "\"Anyway, hurry up and open it. I want to see your reaction.\""
+    },
+    {
+      "offset": 1206,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 1225,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こいつの側から離れないようにしよう。",
+      "en": "She's not going to leave my side until I open it.",
+      "text": "She's not going to leave my side until I open it."
+    },
+    {
+      "offset": 1266,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなことを半ば本気で考えながら、とりあえ\nず中身を確認する。",
+      "en": "I half-seriously think that to myself as I examine the\noutside of the parcel once more.",
+      "text": "I half-seriously think that to myself as I examine the\noutside of the parcel once more."
+    },
+    {
+      "offset": 1332,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "箱を開けると、球状の物体が顔を覗かせた。",
+      "en": "As I opened the box, a ball-shaped thing started to peep\nout.",
+      "text": "As I opened the box, a ball-shaped thing started to peep\nout."
+    },
+    {
+      "offset": 1379,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……なに、これ？」",
+      "en": "\"...What is this?\"",
+      "text": "\"...What is this?\""
+    },
+    {
+      "offset": 1434,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「目覚まし時計」",
+      "en": "\"An alarm clock.\"",
+      "text": "\"An alarm clock.\""
+    },
+    {
+      "offset": 1457,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「は？」",
+      "en": "\"Hah?\"",
+      "text": "\"Hah?\""
+    },
+    {
+      "offset": 1472,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "箱から持ち上げてみると、確かに時を刻んでい\nる。",
+      "en": "I lift the box up, and let it tick for a bit.",
+      "text": "I lift the box up, and let it tick for a bit."
+    },
+    {
+      "offset": 1526,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「何で丸いんだ？」",
+      "en": "\"Why is it spherical?\"",
+      "text": "\"Why is it spherical?\""
+    },
+    {
+      "offset": 1590,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あは、それね、止めようとするとコロがって\n　行くんだって」",
+      "en": "\"Aha, that's because if you try to stop it, it'd roll away.\"",
+      "text": "\"Aha, that's because if you try to stop it, it'd roll away.\""
+    },
+    {
+      "offset": 1656,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――は？",
+      "en": "--Hah?",
+      "text": "--Hah?"
+    },
+    {
+      "offset": 1682,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「センサーがついてて、触ろうとするとコロコ\n　ロ転がって、逃げてくみたい」",
+      "en": "\"It has inbuilt sensors, so you won't be able to just switch\nit off easily anymore.\"",
+      "text": "\"It has inbuilt sensors, so you won't be able to just switch\nit off easily anymore.\""
+    },
+    {
+      "offset": 1762,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――――は？",
+      "en": "----Hah?",
+      "text": "----Hah?"
+    },
+    {
+      "offset": 1820,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「がんばってね、兄さん♪」",
+      "en": "\"Do your best, nii-san♪\"",
+      "text": "\"Do your best, nii-san♪\""
+    },
+    {
+      "offset": 1853,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢のとっても楽しそうな笑顔に、俺もなんだ\nか楽しくなる……。",
+      "en": "Nemu is so happily smiling, so how can I not be happy as\nwell...",
+      "text": "Nemu is so happily smiling, so how can I not be happy as\nwell..."
+    },
+    {
+      "offset": 1921,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（訳ないだろ――っ！）",
+      "en": "\"(EASILY--!)\"",
+      "text": "\"(EASILY--!)\""
+    },
+    {
+      "offset": 1950,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、いい。所詮は目覚まし。動きのパターン\nなど、たかが知れている。",
+      "en": "Well, whatever. In the end, it's just an alarm clock. I'd\neventually figure out it's movement patterns.",
+      "text": "Well, whatever. In the end, it's just an alarm clock. I'd\neventually figure out it's movement patterns."
+    },
+    {
+      "offset": 2055,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「それより兄さん。今日の夕飯、外で食べな\n　い？」",
+      "en": "\"Oh yeah, brother. About tonight's dinner, can we eat out?\"",
+      "text": "\"Oh yeah, brother. About tonight's dinner, can we eat out?\""
+    },
+    {
+      "offset": 2111,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ん？　別にいいけど」",
+      "en": "\"Hm? I'm fine with anything.\"",
+      "text": "\"Hm? I'm fine with anything.\""
+    },
+    {
+      "offset": 2151,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「わーい♪」",
+      "en": "\"Yaaay♪\"",
+      "text": "\"Yaaay♪\""
+    },
+    {
+      "offset": 2170,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ったく、しょうがないな」",
+      "en": "\"Hah, you're easy to please.\"",
+      "text": "\"Hah, you're easy to please.\""
+    },
+    {
+      "offset": 2203,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とは言え、俺も腹は減ったし、今から買いに行っ\nて戻ってくるのもかったるいしな。まあ、音夢\nが買いに行く分には問題ないが。",
+      "en": "Having said that, my own stomach rumbled. It sounded\ntroublesome to me to go out, eat and come back, but if Nemu\nwants to...",
+      "text": "Having said that, my own stomach rumbled. It sounded\ntroublesome to me to go out, eat and come back, but if Nemu\nwants to..."
+    },
+    {
+      "offset": 2326,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうせ行かされるのは俺だろうし……。",
+      "en": "Besides, I just agreed to it anyway...",
+      "text": "Besides, I just agreed to it anyway..."
+    },
+    {
+      "offset": 2408,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「で、どちらでご馳走して下さるの？」",
+      "en": "\"So, what are you treating me to?\"",
+      "text": "\"So, what are you treating me to?\""
+    },
+    {
+      "offset": 2451,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………おい」",
+      "en": "\".......Hey.\"",
+      "text": "\".......Hey.\""
+    },
+    {
+      "offset": 2485,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「はい？」",
+      "en": "\"Yes?\"",
+      "text": "\"Yes?\""
+    },
+    {
+      "offset": 2502,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なんで、俺が｛おご／奢｝らにゃならんのだ！？」",
+      "en": "\"Why do I need to treat you!?\"",
+      "text": "\"Why do I need to treat you!?\""
+    },
+    {
+      "offset": 2557,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "にこやかな笑顔で｛・・・／ぬかす｝音夢に疑問を提起する。",
+      "en": "I leave out the sarcastic smile I usually give in these\nkinds of situation.",
+      "text": "I leave out the sarcastic smile I usually give in these\nkinds of situation."
+    },
+    {
+      "offset": 2651,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「はぁ……では人件費込みで、１０，０００円\n　になります」",
+      "en": "\"Haah... if that's how it is, please pay me 10,000 yen for\npersonnel expenses.\"",
+      "text": "\"Haah... if that's how it is, please pay me 10,000 yen for\npersonnel expenses.\""
+    },
+    {
+      "offset": 2715,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「はい？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 2760,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「目覚まし代♪」",
+      "en": "\"For buying your alarm clock♪\"",
+      "text": "\"For buying your alarm clock♪\""
+    },
+    {
+      "offset": 2783,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2830,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2849,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "にこやかに見つめ合う、兄と妹。",
+      "en": "the brother and sister exchanged glances and smiles.",
+      "text": "the brother and sister exchanged glances and smiles."
+    },
+    {
+      "offset": 2886,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「じゃあ、行こうか音夢。今日は俺の奢りだ」",
+      "en": "\"Let's go Nemu, today, dinner's on me!\"",
+      "text": "\"Let's go Nemu, today, dinner's on me!\""
+    },
+    {
+      "offset": 2946,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ありがと、兄さん」",
+      "en": "\"Thank you, nii-san!\"",
+      "text": "\"Thank you, nii-san!\""
+    },
+    {
+      "offset": 2973,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺のさしだした手に、お姫様のように手を重ね\nて音夢が笑顔で立ちあがった。",
+      "en": "I stuck out my hand, and the princess smilingly used mine to\nstand up.",
+      "text": "I stuck out my hand, and the princess smilingly used mine to\nstand up."
+    },
+    {
+      "offset": 3168,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆目覚ましプレゼント◆",
+      "en": "◆Alarm clock present◆",
+      "text": "◆Alarm clock present◆"
+    },
+    {
+      "offset": 3219,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "家に帰ると、音夢も帰っていた。",
+      "en": "When I returned home, Nemu had already came back.",
+      "text": "When I returned home, Nemu had already came back."
+    },
+    {
+      "offset": 3254,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、お土産などと称して、俺に目覚まし時\n計をくれた。",
+      "en": "Then I received a present, a new alarm clock.",
+      "text": "Then I received a present, a new alarm clock."
+    },
+    {
+      "offset": 3314,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、目覚まし代のカタに、夕食を奢ってく\nれなどとぬかす音夢。全く……。",
+      "en": "And in return for the cost of the clock, Nemu strong-armed\nme into treating her for dinner. Seriously...",
+      "text": "And in return for the cost of the clock, Nemu strong-armed\nme into treating her for dinner. Seriously..."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "168": "Nemu",
+    "369": "Nemu",
+    "738": "Nemu",
+    "963": "Nemu",
+    "1082": "Nemu",
+    "1126": "Nemu",
+    "1426": "Nemu",
+    "1582": "Nemu",
+    "1674": "Nemu",
+    "1812": "Nemu",
+    "2047": "Nemu",
+    "2143": "Nemu",
+    "2400": "Nemu",
+    "2477": "Nemu",
+    "2643": "Nemu",
+    "2752": "Nemu",
+    "2822": "Nemu",
+    "2938": "Nemu"
+  }
+}

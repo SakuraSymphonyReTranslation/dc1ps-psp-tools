@@ -1,0 +1,982 @@
+{
+  "scene": "script_0115.obj",
+  "dialogues": [
+    {
+      "offset": 157,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "帰り道、暇を持て余していた俺は、何の気なし\nに神社へと足を向けることにした。",
+      "en": "On the way home, with time on my hands, my feet started\nwalking by themselves, to the shrine.",
+      "text": "On the way home, with time on my hands, my feet started\nwalking by themselves, to the shrine."
+    },
+    {
+      "offset": 237,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "信心深い……というわけではまったくなく、本\n当に単なる道草だった。",
+      "en": "My devotion knows no bounds... or not, the truth was, I just\nhad nothing else to do.",
+      "text": "My devotion knows no bounds... or not, the truth was, I just\nhad nothing else to do."
+    },
+    {
+      "offset": 307,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただし、形だけでもお参りした俺に、神様が望\n外の幸運を授けてくれるというのならば、それ\nは願ってもないことだが。",
+      "en": "Besides, just maybe, if I pray for good luck here, some\nmight come my way.",
+      "text": "Besides, just maybe, if I pray for good luck here, some\nmight come my way."
+    },
+    {
+      "offset": 422,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "などと虫のいいことを考えながら歩き出すと目\nの前によく知っている後ろ姿があった。",
+      "en": "Thinking simple-mindedly as I walked, my eyes caught a\nglimpse of a familiar face.",
+      "text": "Thinking simple-mindedly as I walked, my eyes caught a\nglimpse of a familiar face."
+    },
+    {
+      "offset": 530,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（ななこじゃないか）",
+      "en": "\"(That's Nanako.)\"",
+      "text": "\"(That's Nanako.)\""
+    },
+    {
+      "offset": 557,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ななこは、歩きながらメモ帳に何かを書き込ん\nでいる。",
+      "en": "Nanako was walking and jotting something down on her memo\npad at the same time.",
+      "text": "Nanako was walking and jotting something down on her memo\npad at the same time."
+    },
+    {
+      "offset": 613,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "構内でも時々見かける彼女のスタイルだ。",
+      "en": "That's the usual style I've seen her doing all the time, in\nschool.",
+      "text": "That's the usual style I've seen her doing all the time, in\nschool."
+    },
+    {
+      "offset": 656,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まったく、危なっかしい。前を見てないぞ、あ\nれ。やはりいつか注意してやらないと……。",
+      "en": "But that's really dangerous, geez. She's not looking in\nfront of her at all. If she isn't careful...",
+      "text": "But that's really dangerous, geez. She's not looking in\nfront of her at all. If she isn't careful..."
+    },
+    {
+      "offset": 753,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は小走りにななこに近づいた。",
+      "en": "I moved in closer to the unwitting Nanako.",
+      "text": "I moved in closer to the unwitting Nanako."
+    },
+    {
+      "offset": 855,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「これが、あーなって、そして、こーなるから、\n　あぁでも、そーするとこの部分の引きが……」",
+      "en": "\"Now, with this.... and this... oh, but that part doesn't\nlook right...\"",
+      "text": "\"Now, with this.... and this... oh, but that part doesn't\nlook right...\""
+    },
+    {
+      "offset": 951,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ななこは眉間を寄せた難しそうな顔で完全にあっ\nちの世界に行っているらしい。",
+      "en": "Her brow knitted furiously. She was in a different world\naltogether.",
+      "text": "Her brow knitted furiously. She was in a different world\naltogether."
+    },
+    {
+      "offset": 1044,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「あれ？　でもそうすると、｛ゆいか／結花｝の伏線に、意\n　味がなくなるから……ってことは、アレをも\n　う一度持ってきて……」",
+      "en": "\"Hrm? But if it's that way, Yuika wouldn't have any reason,\nand there isn't any foreshadowing... I better do this\nagain...\"",
+      "text": "\"Hrm? But if it's that way, Yuika wouldn't have any reason,\nand there isn't any foreshadowing... I better do this\nagain...\""
+    },
+    {
+      "offset": 1173,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はななこが事故る前に声をかけることにした。",
+      "en": "I called out before she bumped right into me.",
+      "text": "I called out before she bumped right into me."
+    },
+    {
+      "offset": 1224,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「前見て歩かないと白いヤギが出てくっぞ」",
+      "en": "\"If you don't look where you're going, a white goat is going\nto appear.\"",
+      "text": "\"If you don't look where you're going, a white goat is going\nto appear.\""
+    },
+    {
+      "offset": 1301,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「ヤ、ヤギ！　うひゃぉう！　や、やめて！\n　お願いだから原稿にだけは、手をつけない\n　でくださいィィ！」",
+      "en": "\"G, g, goat! Wahhhh! S, stop! Pleaseee don't touch my\nmanuscriiiiipt!!!\"",
+      "text": "\"G, g, goat! Wahhhh! S, stop! Pleaseee don't touch my\nmanuscriiiiipt!!!\""
+    },
+    {
+      "offset": 1410,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……どうやら、心に深い傷を負っていたようだ。",
+      "en": "...Looks like the wound remains fresh.",
+      "text": "...Looks like the wound remains fresh."
+    },
+    {
+      "offset": 1459,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちょっぴり悪いことをしたな……。",
+      "en": "I overdid it just a tad...",
+      "text": "I overdid it just a tad..."
+    },
+    {
+      "offset": 1498,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ウソウソ、ヤギなんていねぇよ。そう簡単に\n　いてたまるかっての」",
+      "en": "\"Just kidding, kidding, there's no goat. One won't just\nappear so easily.\"",
+      "text": "\"Just kidding, kidding, there's no goat. One won't just\nappear so easily.\""
+    },
+    {
+      "offset": 1600,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「ひゃううう……って、あ、朝倉くん」",
+      "en": "\"Wahhh.... ah, Asakura-kun...\"",
+      "text": "\"Wahhh.... ah, Asakura-kun...\""
+    },
+    {
+      "offset": 1643,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ななこが我に返ったように、メモ帳から顔を上\nげる。",
+      "en": "Nanako lifted her head from her memo pad, finally noticing\nme.",
+      "text": "Nanako lifted her head from her memo pad, finally noticing\nme."
+    },
+    {
+      "offset": 1729,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「ひ、ヒドイですよぉ〜〜〜。あの悪夢が再び\n　襲ってきたのかと思ったじゃないですかぁ」",
+      "en": "\"T, that was so mean~~~! I thought that demon was going to\nattack again!\"",
+      "text": "\"T, that was so mean~~~! I thought that demon was going to\nattack again!\""
+    },
+    {
+      "offset": 1821,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「悪ィ悪ィ、まさかそこまでトラウマになって\n　いるとは。──それにしても、やるなあ。歩\n　きながら試験勉強か？」",
+      "en": "\"Sorry, sorry, I didn't know you were still so traumatized.\n...By the way, you're pretty good. Walking and studying in\ntandem?\"",
+      "text": "\"Sorry, sorry, I didn't know you were still so traumatized.\n...By the way, you're pretty good. Walking and studying in\ntandem?\""
+    },
+    {
+      "offset": 1968,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「べ、勉強！？　いえいえ、違うんです」",
+      "en": "\"S, studying? No, no, not at all.\"",
+      "text": "\"S, studying? No, no, not at all.\""
+    },
+    {
+      "offset": 2013,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「んじゃ、塾の宿題？」",
+      "en": "\"Tuition homework, then?\"",
+      "text": "\"Tuition homework, then?\""
+    },
+    {
+      "offset": 2055,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「ま、まさか！　あたしが塾だなんて！」",
+      "en": "\"N, no way! I don't have that luxury!\"",
+      "text": "\"N, no way! I don't have that luxury!\""
+    },
+    {
+      "offset": 2100,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ななこが、ぷるぷると首を横に振る。",
+      "en": "Nanako furiously shook her head back and forth.",
+      "text": "Nanako furiously shook her head back and forth."
+    },
+    {
+      "offset": 2141,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「じゃあ、暇人ご用達のクロスワードパズルと\n　か？」",
+      "en": "\"Doing something like a crossword puzzle, then?\"",
+      "text": "\"Doing something like a crossword puzzle, then?\""
+    },
+    {
+      "offset": 2229,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「……パズルには近いかもしれませんね」",
+      "en": "\"...Calling it a puzzle wouldn't be too far off.\"",
+      "text": "\"...Calling it a puzzle wouldn't be too far off.\""
+    },
+    {
+      "offset": 2274,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ななこはちょっと考えたあと、そう答えた。",
+      "en": "She answered after a little thought.",
+      "text": "She answered after a little thought."
+    },
+    {
+      "offset": 2321,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「しかし、テスト前に熱心にパズルとは余裕じゃ\n　ないか」",
+      "en": "\"But you must be really confident, to be tackling puzzles\nwith such zest, with the exams just around the corner...\"",
+      "text": "\"But you must be really confident, to be tackling puzzles\nwith such zest, with the exams just around the corner...\""
+    },
+    {
+      "offset": 2413,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「全然、余裕なんてないですよ」",
+      "en": "\"I'm not confident at all.\"",
+      "text": "\"I'm not confident at all.\""
+    },
+    {
+      "offset": 2480,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「むしろ、逃げ出したいくらいで……」",
+      "en": "\"It'd be more accurate to say that I'm running away from\nit...\"",
+      "text": "\"It'd be more accurate to say that I'm running away from\nit...\""
+    },
+    {
+      "offset": 2523,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ななこが、ぽつりと呟く。",
+      "en": "Nanako lowered her head, with a sigh.",
+      "text": "Nanako lowered her head, with a sigh."
+    },
+    {
+      "offset": 2552,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "が、｛せき／堰｝を切ったように、",
+      "en": "...Then, her head suddenly sprang up again,",
+      "text": "...Then, her head suddenly sprang up again,"
+    },
+    {
+      "offset": 2613,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「ああ！　逃げられるモノなら、逃げたいッ！\n　どこかずっと遠くへ！　あああ、もう、追い\n　かけてこーなーいーでー！」",
+      "en": "\"Yes! I want to run away! Somewhere far away from this! Ahh,\ndon't catch up with me already!\"",
+      "text": "\"Yes! I want to run away! Somewhere far away from this! Ahh,\ndon't catch up with me already!\""
+    },
+    {
+      "offset": 2747,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「寝ーかーせーてー！　ごはんを食ーべーさー\n　せーてー！　マンガを読ーまーさーせーてー」",
+      "en": "\"I want to sleep! Eat! Read my manga~~\"",
+      "text": "\"I want to sleep! Eat! Read my manga~~\""
+    },
+    {
+      "offset": 2841,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ななこが頭を抱えて、悲劇の舞台役者みたいに\n大げさなリアクションをする。",
+      "en": "Her head fell to her hands, potraying a tragic heroine from\na play.",
+      "text": "Her head fell to her hands, potraying a tragic heroine from\na play."
+    },
+    {
+      "offset": 2919,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「な、ななこ……サン？」",
+      "en": "\"Na, Nanako...-san?\"",
+      "text": "\"Na, Nanako...-san?\""
+    },
+    {
+      "offset": 2985,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「はっ……」",
+      "en": "\"Haah...\"",
+      "text": "\"Haah...\""
+    },
+    {
+      "offset": 3004,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "カッと目を見開き、わなわなと震える両手を見\nつめる。",
+      "en": "She closed her eyes for awhile, then reopened them, staring\nat her palms.",
+      "text": "She closed her eyes for awhile, then reopened them, staring\nat her palms."
+    },
+    {
+      "offset": 3092,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「ごめんなさい……。ちょっとせっぱ詰まって\n　たものだから……」",
+      "en": "\"I'm sorry... I'm under quite a bit of pressure right\nnow...\"",
+      "text": "\"I'm sorry... I'm under quite a bit of pressure right\nnow...\""
+    },
+    {
+      "offset": 3175,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「たくさんの人が待ってるんだもの。逃げたり\n　なんて、できないですよ」",
+      "en": "\"A lot of people are waiting for it. So I can't just run\naway...\"",
+      "text": "\"A lot of people are waiting for it. So I can't just run\naway...\""
+    },
+    {
+      "offset": 3251,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「……なんだかよくわからないけど」",
+      "en": "\"...I don't understand at all.\"",
+      "text": "\"...I don't understand at all.\""
+    },
+    {
+      "offset": 3309,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ななこは、たはは……と苦笑する。",
+      "en": "Nanako simply laughed a little.",
+      "text": "Nanako simply laughed a little."
+    },
+    {
+      "offset": 3378,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「……朝倉くんはこれからお家で勉強ですか？」",
+      "en": "\"...Are you heading home to study, Asakura-kun?\"",
+      "text": "\"...Are you heading home to study, Asakura-kun?\""
+    },
+    {
+      "offset": 3429,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「いや。神社でちょっと、お参りでも」",
+      "en": "\"Nope. I thought I'd go to the shrine to pray a little.\"",
+      "text": "\"Nope. I thought I'd go to the shrine to pray a little.\""
+    },
+    {
+      "offset": 3502,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「神社に……？」",
+      "en": "\"The shrine...?\"",
+      "text": "\"The shrine...?\""
+    },
+    {
+      "offset": 3525,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「苦しい時の神頼みってやつだ」",
+      "en": "\"In times of need, it never hurts to pray for salvation.\"",
+      "text": "\"In times of need, it never hurts to pray for salvation.\""
+    },
+    {
+      "offset": 3562,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "意味もなく胸を張って答える。",
+      "en": "Not really sure of what I was saying either, I answered with\nassurance.",
+      "text": "Not really sure of what I was saying either, I answered with\nassurance."
+    },
+    {
+      "offset": 3627,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「…………神社」",
+      "en": "\"......Shrine.\"",
+      "text": "\"......Shrine.\""
+    },
+    {
+      "offset": 3650,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「んっ、どうした？」",
+      "en": "\"Hm, what?\"",
+      "text": "\"Hm, what?\""
+    },
+    {
+      "offset": 3677,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "不意にななこが押し黙ってしまった。",
+      "en": "Nanako suddenly became silent as a mouse.",
+      "text": "Nanako suddenly became silent as a mouse."
+    },
+    {
+      "offset": 3731,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3750,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「お〜い。もしも〜し」",
+      "en": "\"Heeey? Anyone there?\"",
+      "text": "\"Heeey? Anyone there?\""
+    },
+    {
+      "offset": 3779,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ななこの目の前で手をひらひらと振るが、反応\nがない。",
+      "en": "I waved my hand in front of her face, but got no response\nwhatsoever.",
+      "text": "I waved my hand in front of her face, but got no response\nwhatsoever."
+    },
+    {
+      "offset": 3837,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いったい、どうし……」",
+      "en": "\"What is she doi...\"",
+      "text": "\"What is she doi...\""
+    },
+    {
+      "offset": 3898,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「……よし、わかったぁっ！」",
+      "en": "\"...Yes, I got it!\"",
+      "text": "\"...Yes, I got it!\""
+    },
+    {
+      "offset": 3933,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まるで、サスペンス映画に出てくるダメ警部の\nように、ズビシィっと、手を掲げるななこ。",
+      "en": "She hit her palm with her fist, like a police inspector from\nsome suspense film.",
+      "text": "She hit her palm with her fist, like a police inspector from\nsome suspense film."
+    },
+    {
+      "offset": 4021,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いきなりの大声に俺の心臓が跳ね上がる。",
+      "en": "Her sudden exclamation made me jump back in surprise.",
+      "text": "Her sudden exclamation made me jump back in surprise."
+    },
+    {
+      "offset": 4066,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「な、なんだよ、いきなり……」",
+      "en": "\"W, what was that, so suddenly...\"",
+      "text": "\"W, what was that, so suddenly...\""
+    },
+    {
+      "offset": 4133,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「朝倉くんが今、素晴らしいヒントをくれたん\n　です」",
+      "en": "\"You gave me a fantastic hint!\"",
+      "text": "\"You gave me a fantastic hint!\""
+    },
+    {
+      "offset": 4191,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「ヒ、ヒント……？」",
+      "en": "\"H, hint...?\"",
+      "text": "\"H, hint...?\""
+    },
+    {
+      "offset": 4248,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「はい。お蔭で思いつきました」",
+      "en": "\"Yep. What you said got me thinking.\"",
+      "text": "\"Yep. What you said got me thinking.\""
+    },
+    {
+      "offset": 4285,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「思いついたって、何を……？」",
+      "en": "\"Thinking, about...?\"",
+      "text": "\"Thinking, about...?\""
+    },
+    {
+      "offset": 4352,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「はい、えぇとですね……って、げふげふん。\n　その、オホン……内緒です」",
+      "en": "\"Yes, about... err, ahem. That's... a secret.\"",
+      "text": "\"Yes, about... err, ahem. That's... a secret.\""
+    },
+    {
+      "offset": 4430,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "肝心なところをはぐらかされてしまった。",
+      "en": "Of course, she couldn't reveal the most important part.",
+      "text": "Of course, she couldn't reveal the most important part."
+    },
+    {
+      "offset": 4473,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、それでななこの中の何かが解決ついたの\nならいいんだけど。",
+      "en": "Well, as long as it's settled something inside her, it's\nfine.",
+      "text": "Well, as long as it's settled something inside her, it's\nfine."
+    },
+    {
+      "offset": 4571,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「朝倉くんって座禅をしたことありますか？」",
+      "en": "\"Asakura-kun, have you tried meditation before?\"",
+      "text": "\"Asakura-kun, have you tried meditation before?\""
+    },
+    {
+      "offset": 4620,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「なんだよ、いきなり」",
+      "en": "\"You're full of abruptness today, aren't you?\"",
+      "text": "\"You're full of abruptness today, aren't you?\""
+    },
+    {
+      "offset": 4649,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "話が三段跳びしていて、ついていけないぞ。",
+      "en": "I couldn't keep up with the hop, skip and jump in her train\nof thought.",
+      "text": "I couldn't keep up with the hop, skip and jump in her train\nof thought."
+    },
+    {
+      "offset": 4696,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「座禅て、あれか。｛けっかふざ／結跏跌坐｝をしながら｛きょうさく／警策｝っ\n　て棒で坊さんに後ろからどつかれるやつだろ」",
+      "en": "\"Meditation, huh. You mean those monks sitting in the lotus\nposition, carrying a wooden pole on their shoulders?\"",
+      "text": "\"Meditation, huh. You mean those monks sitting in the lotus\nposition, carrying a wooden pole on their shoulders?\""
+    },
+    {
+      "offset": 4852,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「……それだけ言える人はなかなかいませんよ」",
+      "en": "\"...I didn't know that really happened.\"",
+      "text": "\"...I didn't know that really happened.\""
+    },
+    {
+      "offset": 4903,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ほへー妙なため息をついてから、ななこは感心\nしたようにそう言う。",
+      "en": "Nanako had a surprised look on her face.",
+      "text": "Nanako had a surprised look on her face."
+    },
+    {
+      "offset": 4973,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「杉並のバカが以前、座禅の悟りが宇宙パワー\n　とどうたらとか講釈を垂れていたんでな。お\n　蔭でいらん知識が増えてしまったが」",
+      "en": "\"I know way too much about it, from when it was Suginami's\nobssession, thinking it was some space power.\"",
+      "text": "\"I know way too much about it, from when it was Suginami's\nobssession, thinking it was some space power.\""
+    },
+    {
+      "offset": 5102,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「だけど俺のは知識だけで、実際に座禅を組ん\n　だことはないぞ」",
+      "en": "\"I'm not really sure how it's done in the real world,\nthough.\"",
+      "text": "\"I'm not really sure how it's done in the real world,\nthough.\""
+    },
+    {
+      "offset": 5200,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「そうなんですか……」",
+      "en": "\"I see...\"",
+      "text": "\"I see...\""
+    },
+    {
+      "offset": 5229,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「だいたい、俺が座禅を組むようなタイプに見\n　えるか？」",
+      "en": "\"Besides, do I look like the type who would participate in\nmeditation?\"",
+      "text": "\"Besides, do I look like the type who would participate in\nmeditation?\""
+    },
+    {
+      "offset": 5321,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「……仰角斜め４５度からなら、何とか見えな\n　いことも」",
+      "en": "\"...No matter what angle, I don't think I can see you as\none.\"",
+      "text": "\"...No matter what angle, I don't think I can see you as\none.\""
+    },
+    {
+      "offset": 5383,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ななこが両手でファインダーを作りながら、下\nから俺を覗く。",
+      "en": "Nanako was making a square with her thumbs and index\nfingers, peering at me through it.",
+      "text": "Nanako was making a square with her thumbs and index\nfingers, peering at me through it."
+    },
+    {
+      "offset": 5445,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ったく。どこの角度だ、そりゃ。",
+      "en": "Psh, what kind of angle is that.",
+      "text": "Psh, what kind of angle is that."
+    },
+    {
+      "offset": 5512,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「お願いです、朝倉くん」",
+      "en": "\"I have a request to ask of you, Asakura-kun.\"",
+      "text": "\"I have a request to ask of you, Asakura-kun.\""
+    },
+    {
+      "offset": 5543,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ななこが俺を拝むように両の｛てのひら／掌｝を合わせる。",
+      "en": "Her hands turned into one of pleading.",
+      "text": "Her hands turned into one of pleading."
+    },
+    {
+      "offset": 5634,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「座禅をやってください」",
+      "en": "\"Please meditate.\"",
+      "text": "\"Please meditate.\""
+    },
+    {
+      "offset": 5665,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 5684,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なぜに、俺が座禅を……という疑問が頭をよぎ\nる。",
+      "en": "Why me, and meditation... that question ran around my head.",
+      "text": "Why me, and meditation... that question ran around my head."
+    },
+    {
+      "offset": 5736,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だいたい、座禅みたいな精神修養は、自分でやっ\nてこそ意味があるんじゃないのだろうか。",
+      "en": "After all, if your mind and body isn't completely focused\ninto it, there's no reason to...",
+      "text": "After all, if your mind and body isn't completely focused\ninto it, there's no reason to..."
+    },
+    {
+      "offset": 5826,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……それは、なんでもやる約束のうちに含ま\n　れるってことか？」",
+      "en": "\"...I know I promised to do whatever I can, but isn't that a\nbit... much?\"",
+      "text": "\"...I know I promised to do whatever I can, but isn't that a\nbit... much?\""
+    },
+    {
+      "offset": 5926,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「そう言えば、そんな約束をしてましたね。な\n　ら、その約束でお願いしたいのですが……」",
+      "en": "\"Now that you said it, you did promise... in that case,\nplease do it in return...\"",
+      "text": "\"Now that you said it, you did promise... in that case,\nplease do it in return...\""
+    },
+    {
+      "offset": 6018,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ななこが、パンと両手を合わせて、平身低頭で\n懇願する。",
+      "en": "Nanako clasped her hands together, and dropped to her knees.",
+      "text": "Nanako clasped her hands together, and dropped to her knees."
+    },
+    {
+      "offset": 6076,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ここまでされて、まさか断る訳には……。",
+      "en": "If she's that desperate, I can't refuse...",
+      "text": "If she's that desperate, I can't refuse..."
+    },
+    {
+      "offset": 6121,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……でも、座禅をやれったって場所が……」",
+      "en": "\"...But there's no place to meditate effectively...\"",
+      "text": "\"...But there's no place to meditate effectively...\""
+    },
+    {
+      "offset": 6200,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「ありますよ」",
+      "en": "\"Yes, there is.\"",
+      "text": "\"Yes, there is.\""
+    },
+    {
+      "offset": 6221,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ななこがニッコリと笑う。",
+      "en": "Nanako gave me a knowing smile.",
+      "text": "Nanako gave me a knowing smile."
+    },
+    {
+      "offset": 6282,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「ほら、ここは神社じゃないですか！」",
+      "en": "\"This place IS a shrine, after all!\"",
+      "text": "\"This place IS a shrine, after all!\""
+    },
+    {
+      "offset": 6325,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぐぐっと握った拳を強く突き出す。",
+      "en": "She raised her fist in victory.",
+      "text": "She raised her fist in victory."
+    },
+    {
+      "offset": 6362,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……ななこさん、ここは、その。",
+      "en": "...Nanako-san, this is, kind of...",
+      "text": "...Nanako-san, this is, kind of..."
+    },
+    {
+      "offset": 6459,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「座禅……ですか？」",
+      "en": "\"Meditation... you say?\"",
+      "text": "\"Meditation... you say?\""
+    },
+    {
+      "offset": 6486,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "予想通り、さすがの環も困惑したようだった。",
+      "en": "Just as I had foresaw, even Tamaki was perplexed.",
+      "text": "Just as I had foresaw, even Tamaki was perplexed."
+    },
+    {
+      "offset": 6561,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「残念ですが、当家は｛ゼンシュウ／禅宗｝ではありませんので」",
+      "en": "\"Unfortunately, we do not have any practitioners of the Zen\nsect here...\"",
+      "text": "\"Unfortunately, we do not have any practitioners of the Zen\nsect here...\""
+    },
+    {
+      "offset": 6663,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「そ、そうですか……」",
+      "en": "\"I, I see...\"",
+      "text": "\"I, I see...\""
+    },
+    {
+      "offset": 6692,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見た目にもわかるほど、ななこが、がっくりと\n落ちこむ。",
+      "en": "Nanako fell to her knees again, this time in defeat.",
+      "text": "Nanako fell to her knees again, this time in defeat."
+    },
+    {
+      "offset": 6750,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わず、メガネが外れて落ちそうだ。",
+      "en": "Her glasses fell off her face, and onto the floor.",
+      "text": "Her glasses fell off her face, and onto the floor."
+    },
+    {
+      "offset": 6789,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、仕方ないだろう。",
+      "en": "Well, nothing we can do.",
+      "text": "Well, nothing we can do."
+    },
+    {
+      "offset": 6816,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "神社といえば神道であり、禅宗は仏教だからだ。",
+      "en": "This is a Shinto shrine after all, Zen is from Buddhism.",
+      "text": "This is a Shinto shrine after all, Zen is from Buddhism."
+    },
+    {
+      "offset": 6865,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぱっと考えても、出てくるのは神主ではなく和\n尚だ。",
+      "en": "...Although now that I think about it, I haven't seen either\ntype of priest here recently.",
+      "text": "...Although now that I think about it, I haven't seen either\ntype of priest here recently."
+    },
+    {
+      "offset": 6952,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ご期待に添えず、申し訳ありませんが……」",
+      "en": "\"My apologies for not meeting your expectations...\"",
+      "text": "\"My apologies for not meeting your expectations...\""
+    },
+    {
+      "offset": 7036,
+      "speaker": "Nanako",
+      "speaker_jp": "ななこ",
+      "jp": "「はうあうあ〜。ってことは、また考え直しっ\n　てことか〜〜〜」",
+      "en": "\"Hauwahwah... I have to think of another way now~~~\"",
+      "text": "\"Hauwahwah... I have to think of another way now~~~\""
+    },
+    {
+      "offset": 7104,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ななこが、ずるずると畳の上にだらりとへばる。",
+      "en": "Nanako fell backwards onto the tatami mats, exhausted.",
+      "text": "Nanako fell backwards onto the tatami mats, exhausted."
+    },
+    {
+      "offset": 7155,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「よくはわからんが、まあ神社でできるのは、\n　お｛はら／祓｝いとおみくじくらいってことだな」",
+      "en": "\"I don't understand much, but Shinto shrines seem to\nspecialize in exorcism anyway.\"",
+      "text": "\"I don't understand much, but Shinto shrines seem to\nspecialize in exorcism anyway.\""
+    },
+    {
+      "offset": 7253,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、湯飲みに入ったお茶を、ずずずと飲んだ。",
+      "en": "I sipped away at the tea from my teacup.",
+      "text": "I sipped away at the tea from my teacup."
+    },
+    {
+      "offset": 7335,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「朝倉様。神社では他にも色々ございますよ」",
+      "en": "\"Asakura-sama. Shinto shrines do a lot more than that.\"",
+      "text": "\"Asakura-sama. Shinto shrines do a lot more than that.\""
+    },
+    {
+      "offset": 7384,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は、そうにっこりと笑った。",
+      "en": "Tamaki smiled, gently correcting me.",
+      "text": "Tamaki smiled, gently correcting me."
+    },
+    {
+      "offset": 7543,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆座禅のお願い◆",
+      "en": "◆Request To Meditate?◆",
+      "text": "◆Request To Meditate?◆"
+    },
+    {
+      "offset": 7592,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "帰り道、何気なく神社に立ち寄る事にした俺は\n思索にふけりながら歩くななこに出会った。",
+      "en": "On the way home, stopping by the shrine for a bit, I met\nNanako, absorbed in the thought of meditation.",
+      "text": "On the way home, stopping by the shrine for a bit, I met\nNanako, absorbed in the thought of meditation."
+    },
+    {
+      "offset": 7680,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "話していると、なにやら｛ひらめ／閃｝いたらしく、俺に神\n社で座禅を組んで欲しいと言うななこ。",
+      "en": "With a sudden flash of inspiration, she begged me to go to\nthe shrine to meditate.",
+      "text": "With a sudden flash of inspiration, she begged me to go to\nthe shrine to meditate."
+    },
+    {
+      "offset": 7776,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環に聞いたところこの神社は｛ゼンシュウ／禅宗｝ではないので、\n座禅はできないらしい。",
+      "en": "When Tamaki heard of this, she said that the shrine had no\nZen practitioners, so meditating wasn't possible.",
+      "text": "When Tamaki heard of this, she said that the shrine had no\nZen practitioners, so meditating wasn't possible."
+    },
+    {
+      "offset": 7864,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "がっくりと落ち込んだ様子のななこだった。",
+      "en": "Nanako was completely crestfallen.",
+      "text": "Nanako was completely crestfallen."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "845": "Nanako",
+    "1034": "Nanako",
+    "1291": "Nanako",
+    "1590": "Nanako",
+    "1719": "Nanako",
+    "1958": "Nanako",
+    "2045": "Nanako",
+    "2219": "Nanako",
+    "2403": "Nanako",
+    "2470": "Nanako",
+    "2603": "Nanako",
+    "2737": "Nanako",
+    "2975": "Nanako",
+    "3082": "Nanako",
+    "3165": "Nanako",
+    "3368": "Nanako",
+    "3492": "Nanako",
+    "3617": "Nanako",
+    "3721": "Nanako",
+    "3888": "Nanako",
+    "4123": "Nanako",
+    "4238": "Nanako",
+    "4342": "Nanako",
+    "4561": "Nanako",
+    "4842": "Nanako",
+    "5190": "Nanako",
+    "5311": "Nanako",
+    "5502": "Nanako",
+    "5624": "Nanako",
+    "5916": "Nanako",
+    "6190": "Nanako",
+    "6272": "Nanako",
+    "6453": "Tamaki",
+    "6555": "Tamaki",
+    "6653": "Nanako",
+    "6946": "Tamaki",
+    "7026": "Nanako",
+    "7329": "Tamaki"
+  }
+}

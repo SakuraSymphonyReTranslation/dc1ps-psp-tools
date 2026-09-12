@@ -1,0 +1,404 @@
+{
+  "scene": "script_0330.obj",
+  "dialogues": [
+    {
+      "offset": 155,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お？　ありゃ、ことり？」",
+      "en": "\"Oh? Is that Kotori?\"",
+      "text": "\"Oh? Is that Kotori?\""
+    },
+    {
+      "offset": 188,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "公園の向こうから、ママチャリに乗ったことり\nらしき人物が走ってくる。",
+      "en": "Across the park, I saw someone who looked like Kotori riding\non a Mamachari.",
+      "text": "Across the park, I saw someone who looked like Kotori riding\non a Mamachari."
+    },
+    {
+      "offset": 262,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お〜い、ことり」",
+      "en": "\"Heyyyy, Kotori.\"",
+      "text": "\"Heyyyy, Kotori.\""
+    },
+    {
+      "offset": 287,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "大きく手を振る。と、スピードが落ち、俺の目\nの前できゅっとブレーキが効いた。",
+      "en": "I gave her a big wave, partly to let her know that she was\non a collision course with me. She slowed her speed, braking\nat my front.",
+      "text": "I gave her a big wave, partly to let her know that she was\non a collision course with me. She slowed her speed, braking\nat my front."
+    },
+    {
+      "offset": 409,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「こんにちは、朝倉君」",
+      "en": "\"Good afternoon, Asakura-kun!\"",
+      "text": "\"Good afternoon, Asakura-kun!\""
+    },
+    {
+      "offset": 438,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「おっす……って、大丈夫？」",
+      "en": "\"Aftern... I mean, are you okay?\"",
+      "text": "\"Aftern... I mean, are you okay?\""
+    },
+    {
+      "offset": 503,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……何がです？」",
+      "en": "\"...What do you mean?\"",
+      "text": "\"...What do you mean?\""
+    },
+    {
+      "offset": 528,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「何か、顔赤いし、目が潤んでるぞ……もしか\n　して俺に惚れた？」",
+      "en": "\"Your face is red, and your eyes are watery... were you just\novercome by your love for me?\"",
+      "text": "\"Your face is red, and your eyes are watery... were you just\novercome by your love for me?\""
+    },
+    {
+      "offset": 628,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「いくら何でも、唐突過ぎません？」",
+      "en": "\"That's a bit sudden, isn't it?\"",
+      "text": "\"That's a bit sudden, isn't it?\""
+    },
+    {
+      "offset": 669,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "くすくすと笑いながら、ことりが首を傾げる。",
+      "en": "Kotori giggled, tilting her neck to the side.",
+      "text": "Kotori giggled, tilting her neck to the side."
+    },
+    {
+      "offset": 718,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや、さっきの俺の勇姿を見て」",
+      "en": "\"It would happen to anyone who would view such a gallant\nfigure.\"",
+      "text": "\"It would happen to anyone who would view such a gallant\nfigure.\""
+    },
+    {
+      "offset": 787,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「勇姿？」",
+      "en": "\"Gallant figure?\"",
+      "text": "\"Gallant figure?\""
+    },
+    {
+      "offset": 804,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「大きく手を振ったじゃん。こう」",
+      "en": "\"The big wave I gave you just now, you know.\"",
+      "text": "\"The big wave I gave you just now, you know.\""
+    },
+    {
+      "offset": 843,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言って、さっきの仕草を実演してみせる。",
+      "en": "I gave her a repeat performance of my chivalirious\nbehaviour.",
+      "text": "I gave her a repeat performance of my chivalirious\nbehaviour."
+    },
+    {
+      "offset": 922,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……勇姿でも何でもないような」",
+      "en": "\"...I don't see quite see the gallantry in that.\"",
+      "text": "\"...I don't see quite see the gallantry in that.\""
+    },
+    {
+      "offset": 961,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「じゃあ、こう」",
+      "en": "\"Then how about this?\"",
+      "text": "\"Then how about this?\""
+    },
+    {
+      "offset": 984,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぶんっ！　ぶんっ！",
+      "en": "Whoosh! Whoosh!",
+      "text": "Whoosh! Whoosh!"
+    },
+    {
+      "offset": 1039,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……変わってませんよ、それ」",
+      "en": "\"...That's no different.\"",
+      "text": "\"...That's no different.\""
+    },
+    {
+      "offset": 1076,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「せっかく反復横飛びも加えたのに……で、ど\n　うしたの？」",
+      "en": "\"Maybe I'd try doing it in another direction... uhm, so what\nhappened?\"",
+      "text": "\"Maybe I'd try doing it in another direction... uhm, so what\nhappened?\""
+    },
+    {
+      "offset": 1140,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "冗談はともかく、妙に顔が赤いのは確かだ。",
+      "en": "I was getting embarassed with my overdone motions, so I\ndecided to stop the jokes.",
+      "text": "I was getting embarassed with my overdone motions, so I\ndecided to stop the jokes."
+    },
+    {
+      "offset": 1217,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ええと、風邪なんです」",
+      "en": "\"Eehh, it's just a common cold.\"",
+      "text": "\"Eehh, it's just a common cold.\""
+    },
+    {
+      "offset": 1248,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言って、真っ赤な舌をちょろっと出した。",
+      "en": "She stuck her brilliantly red tongue out cheekily.",
+      "text": "She stuck her brilliantly red tongue out cheekily."
+    },
+    {
+      "offset": 1297,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「風邪、か。……じゃ、今は……」",
+      "en": "\"A cold, huh... then right now, you're...\"",
+      "text": "\"A cold, huh... then right now, you're...\""
+    },
+    {
+      "offset": 1366,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「はい、薬局に行く途中です。公園を通ると、\n　家からショートカットなんですよね」",
+      "en": "\"Yes, I went to buy medicine from the pharmacy. Going\nthrough the park is a shortcut to my home.\"",
+      "text": "\"Yes, I went to buy medicine from the pharmacy. Going\nthrough the park is a shortcut to my home.\""
+    },
+    {
+      "offset": 1452,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "チャラチャラと、何だか子供みたいに、自転車\nのベルを鳴らした。",
+      "en": "She playfully rang her Mamachari's bell a few times, looking\na bit like a child.",
+      "text": "She playfully rang her Mamachari's bell a few times, looking\na bit like a child."
+    },
+    {
+      "offset": 1520,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なるほどな。それで、ママチャリに乗ってガ\n　キ共を蹴散らしている、と」",
+      "en": "\"I see. So that's why you're kicking around on that\nMamachari like a kid.\"",
+      "text": "\"I see. So that's why you're kicking around on that\nMamachari like a kid.\""
+    },
+    {
+      "offset": 1611,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……どこにも子供なんて居ませんけど」",
+      "en": "\"...If there's any kid around...\"",
+      "text": "\"...If there's any kid around...\""
+    },
+    {
+      "offset": 1686,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「それじゃ、私はもう行きますね。あんまり、\n　外に長い間居ると、アレなんで」",
+      "en": "\"Anyway, I better be going now. I shouldn't stay outside too\nlong.\"",
+      "text": "\"Anyway, I better be going now. I shouldn't stay outside too\nlong.\""
+    },
+    {
+      "offset": 1768,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ああ、うん、お大事にね」",
+      "en": "\"Ahh, okay, take care of yourself.\"",
+      "text": "\"Ahh, okay, take care of yourself.\""
+    },
+    {
+      "offset": 1814,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「朝倉君も」",
+      "en": "\"You too.\"",
+      "text": "\"You too.\""
+    },
+    {
+      "offset": 1845,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「え？」",
+      "en": "\"Eh?\"",
+      "text": "\"Eh?\""
+    },
+    {
+      "offset": 1860,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "走り掛けた自転車が止まり、ことりが顔だけを\nこちらに向けた。",
+      "en": "She stopped pedaling for a second, and turned her head back\ntowards me.",
+      "text": "She stopped pedaling for a second, and turned her head back\ntowards me."
+    },
+    {
+      "offset": 1939,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「今喋ったから、うつっちゃったかもしれない\n　じゃないですか」",
+      "en": "\"You should be careful as well, I hope I didn't spread any\nof my germs from talking to you...\"",
+      "text": "\"You should be careful as well, I hope I didn't spread any\nof my germs from talking to you...\""
+    },
+    {
+      "offset": 2007,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2026,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それじゃ、とそんな言葉を残して、ことりの姿\nが小さくなっていく。",
+      "en": "After she said that, she turned back and continued pedaling,\nher figure getting smaller by the second.",
+      "text": "After she said that, she turned back and continued pedaling,\nher figure getting smaller by the second."
+    },
+    {
+      "offset": 2096,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「気をつけてな！」",
+      "en": "\"Be careful!\"",
+      "text": "\"Be careful!\""
+    },
+    {
+      "offset": 2121,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "大声を張り上げる。が、届いたのかどうか……\nことりはそのまま走り去ってしまった。",
+      "en": "I raised my voice. I wonder if she heard me... her pace\ndidn't change one bit, though.",
+      "text": "I raised my voice. I wonder if she heard me... her pace\ndidn't change one bit, though."
+    },
+    {
+      "offset": 2207,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……さて、俺も帰るか」",
+      "en": "\"...Guess I should be going too.\"",
+      "text": "\"...Guess I should be going too.\""
+    },
+    {
+      "offset": 2238,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "てくてくと、確かに子供の姿もない桜公園を進\nんでいく。",
+      "en": "I slowly make my way out of the Sakura Park.",
+      "text": "I slowly make my way out of the Sakura Park."
+    },
+    {
+      "offset": 2298,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「風邪……ねえ」",
+      "en": "\"A cold... eh.\"",
+      "text": "\"A cold... eh.\""
+    },
+    {
+      "offset": 2321,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、何とかは風邪引かないって言うけど。",
+      "en": "And she said she was worried that I would catch it?",
+      "text": "And she said she was worried that I would catch it?"
+    },
+    {
+      "offset": 2368,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ことりの風邪だったら移ってもいいかも……\n　なんてな」",
+      "en": "\"It would be better if her germs left her for me instead...\nheh.\"",
+      "text": "\"It would be better if her germs left her for me instead...\nheh.\""
+    },
+    {
+      "offset": 2430,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "冗談はともかく、その“何とか”からはほど遠\nいことり。……早く、治ればいいけれど。",
+      "en": "I sent that joke along with my other thought to the distant\nKotori... get better soon.",
+      "text": "I sent that joke along with my other thought to the distant\nKotori... get better soon."
+    },
+    {
+      "offset": 2516,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな願いのこもった呟きが、夕焼けに染まり\nだした空気に、そっと流れていった。",
+      "en": "As I muttered that wish, it disappered into the flow of the\nred-dyed sunset.",
+      "text": "As I muttered that wish, it disappered into the flow of the\nred-dyed sunset."
+    },
+    {
+      "offset": 2598,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "聞こえるはずのない思いが。",
+      "en": "An unhearable thought.",
+      "text": "An unhearable thought."
+    },
+    {
+      "offset": 2762,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆薬はお早めに◆",
+      "en": "◆Medicine◆",
+      "text": "◆Medicine◆"
+    },
+    {
+      "offset": 2815,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "薬局に行く途中だということりに出会った。ど\nうも、本格的に風邪をひいてしまったらしい。",
+      "en": "I met Kotori while she was buying medicine from the\npharmarcy. She doesn't really look like she's suffering too\nbadly though...",
+      "text": "I met Kotori while she was buying medicine from the\npharmarcy. She doesn't really look like she's suffering too\nbadly though..."
+    },
+    {
+      "offset": 2905,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "早く、良くなってくれよな。",
+      "en": "Get well soon, regardless.",
+      "text": "Get well soon, regardless."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "399": "Kotori",
+    "493": "Kotori",
+    "618": "Kotori",
+    "777": "Kotori",
+    "912": "Kotori",
+    "1029": "Kotori",
+    "1207": "Kotori",
+    "1356": "Kotori",
+    "1601": "Kotori",
+    "1676": "Kotori",
+    "1804": "Kotori",
+    "1929": "Kotori"
+  }
+}

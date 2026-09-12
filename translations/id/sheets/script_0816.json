@@ -1,0 +1,554 @@
+{
+  "scene": "script_0816.obj",
+  "dialogues": [
+    {
+      "offset": 139,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 158,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……ことり、遅いな」",
+      "en": "\"...She's late.\"",
+      "text": "\"...She's late.\""
+    },
+    {
+      "offset": 187,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お手玉遊びにも飽きた……って、そもそも、\n　食べ物で遊んじゃいけない……」",
+      "en": "\"I tired of playing with these bags... they're not toys\nanyway...\"",
+      "text": "\"I tired of playing with these bags... they're not toys\nanyway...\""
+    },
+    {
+      "offset": 269,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「紅茶も……まあ、そろそろ、冷たい飲み物で\n　もいいかもな……」",
+      "en": "\"The black tea as well... I should've bought a cold\ndrink...\"",
+      "text": "\"The black tea as well... I should've bought a cold\ndrink...\""
+    },
+    {
+      "offset": 339,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "春の陽光に手をかざしながら、そんなどうでも\nいいことを呟く。",
+      "en": "I shielded my eyes from the glaring spring sun, as I\nmuttered little nothings to myself.",
+      "text": "I shielded my eyes from the glaring spring sun, as I\nmuttered little nothings to myself."
+    },
+    {
+      "offset": 440,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「朝倉君……」",
+      "en": "\"Asakura-kun...\"",
+      "text": "\"Asakura-kun...\""
+    },
+    {
+      "offset": 461,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、ことり……」",
+      "en": "\"Ah, Kotori...\"",
+      "text": "\"Ah, Kotori...\""
+    },
+    {
+      "offset": 486,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "待っていたはずなのに。",
+      "en": "I've been waiting for this.",
+      "text": "I've been waiting for this."
+    },
+    {
+      "offset": 513,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そこから先、ことりにかける言葉が見つからな\nかった。",
+      "en": "I wanted to talk earlier, but I couldn't find her.",
+      "text": "I wanted to talk earlier, but I couldn't find her."
+    },
+    {
+      "offset": 569,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もしかしてまた、不用意な俺の言葉がことりを\n深く傷つけるかも知れない。",
+      "en": "I had to be careful, or I might hurt her even more...",
+      "text": "I had to be careful, or I might hurt her even more..."
+    },
+    {
+      "offset": 643,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう思うと、言葉が出てこなかった。",
+      "en": "Thinking that, the words couldn't come out.",
+      "text": "Thinking that, the words couldn't come out."
+    },
+    {
+      "offset": 682,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だけど──。",
+      "en": "But--",
+      "text": "But--"
+    },
+    {
+      "offset": 699,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の何がことりを傷つけたのか。知らなければ、\n同じ過ちを繰り返してしまうかも知れないから。",
+      "en": "I wanted to know what I did to hurt her. If I knew, I'd\nremember never to make the same mistake again.",
+      "text": "I wanted to know what I did to hurt her. If I knew, I'd\nremember never to make the same mistake again."
+    },
+    {
+      "offset": 793,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もう二度と、ことりを傷つけたくはないから。",
+      "en": "Never to hurt her so badly again.",
+      "text": "Never to hurt her so badly again."
+    },
+    {
+      "offset": 840,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、ことりをジッと見つめて。",
+      "en": "I fixed my gaze on Kotori.",
+      "text": "I fixed my gaze on Kotori."
+    },
+    {
+      "offset": 877,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺のせいだよな」",
+      "en": "\"It's my fault.\"",
+      "text": "\"It's my fault.\""
+    },
+    {
+      "offset": 902,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "単刀直入に言った。",
+      "en": "I said it point-blank.",
+      "text": "I said it point-blank."
+    },
+    {
+      "offset": 940,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……え？」",
+      "en": "\"...Eh?\"",
+      "text": "\"...Eh?\""
+    },
+    {
+      "offset": 959,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "単刀直入すぎた。ことりが困惑気味の視線を送っ\nてくる。",
+      "en": "A direct hit. Kotori looked up at me with a sense of\nbewilderment.",
+      "text": "A direct hit. Kotori looked up at me with a sense of\nbewilderment."
+    },
+    {
+      "offset": 1019,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まずはゴメン！」",
+      "en": "\"First of all, I'm really sorry!\"",
+      "text": "\"First of all, I'm really sorry!\""
+    },
+    {
+      "offset": 1044,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思いっきり頭を下げる。",
+      "en": "I bowed my head deeply.",
+      "text": "I bowed my head deeply."
+    },
+    {
+      "offset": 1073,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ことりの調子が最近悪いのは、俺が不用意な\n　こと言っちまって、傷つけたせいだろ？」",
+      "en": "\"You've been feeling so bad lately because of something I\nsaid, wasn't it?\"",
+      "text": "\"You've been feeling so bad lately because of something I\nsaid, wasn't it?\""
+    },
+    {
+      "offset": 1163,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺、何言ったかな？　教えてくれ。……同じ\n　ことして、もうことりを傷つけたくないんだ\n　よ」",
+      "en": "\"What was it that I said? Please tell me... I'd never say it\nagain.\"",
+      "text": "\"What was it that I said? Please tell me... I'd never say it\nagain.\""
+    },
+    {
+      "offset": 1275,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……朝倉君……」",
+      "en": "\"...Asakura-kun...\"",
+      "text": "\"...Asakura-kun...\""
+    },
+    {
+      "offset": 1300,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりが肩に手を触れてきた。触れる瞬間、こ\nとりの手が震える。まるで初めて触れるかのよ\nうに……。",
+      "en": "I held on to Kotori's shoulders. At my touch, her shoulders\nstarted trembling. As if that was the first time I touched\nthem...",
+      "text": "I held on to Kotori's shoulders. At my touch, her shoulders\nstarted trembling. As if that was the first time I touched\nthem..."
+    },
+    {
+      "offset": 1416,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……違いますから。これは朝倉君のせいじゃ、\n　ないですから……」",
+      "en": "\"...It's not that, it's not your fault...\"",
+      "text": "\"...It's not that, it's not your fault...\""
+    },
+    {
+      "offset": 1488,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「だけど……っ」",
+      "en": "\"But...\"",
+      "text": "\"But...\""
+    },
+    {
+      "offset": 1524,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「本当に調子が悪いんです。今もだるくて……\n　早退しようと思ってて」",
+      "en": "\"I just feel a little sick, that's all. I figured I'd leave\nearly today...\"",
+      "text": "\"I just feel a little sick, that's all. I figured I'd leave\nearly today...\""
+    },
+    {
+      "offset": 1598,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "手に持っていた通学用の鞄を見せる。",
+      "en": "I looked more closely, and saw her carrying her schoolbag on\nher arm.",
+      "text": "I looked more closely, and saw her carrying her schoolbag on\nher arm."
+    },
+    {
+      "offset": 1639,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そ、そっか……」",
+      "en": "\"I, I see...\"",
+      "text": "\"I, I see...\""
+    },
+    {
+      "offset": 1677,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……はい」",
+      "en": "\"...Yes.\"",
+      "text": "\"...Yes.\""
+    },
+    {
+      "offset": 1696,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……あ、じゃあ、昼食は？」",
+      "en": "\"...Ah, what about lunch?\"",
+      "text": "\"...Ah, what about lunch?\""
+    },
+    {
+      "offset": 1731,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この時間に早退するということは、昼食を食べ\nないで帰るということになる。",
+      "en": "If she's leaving now, does that mean she's going home\nwithout eating lunch?",
+      "text": "If she's leaving now, does that mean she's going home\nwithout eating lunch?"
+    },
+    {
+      "offset": 1839,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「食欲、ありませんから……」",
+      "en": "\"I'm not hungry...\"",
+      "text": "\"I'm not hungry...\""
+    },
+    {
+      "offset": 1904,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「それじゃ、朝倉君、バイバイ……」",
+      "en": "\"I'd see you later, Asakura-kun, bye bye...\"",
+      "text": "\"I'd see you later, Asakura-kun, bye bye...\""
+    },
+    {
+      "offset": 1945,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、ま、待った。食欲なくても、お菓子くら\n　いなら食べられるだろ？」",
+      "en": "\"Ah, w, wait. Even if you're not hungry, why don't you take\na pastry with you in case your appetite returns?\"",
+      "text": "\"Ah, w, wait. Even if you're not hungry, why don't you take\na pastry with you in case your appetite returns?\""
+    },
+    {
+      "offset": 2021,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お菓子を食べたからといって、すぐに元気にな\nれるわけじゃないが。",
+      "en": "It was a desperate attempt, but maybe if she ate something\nsweet, she'd cheer up a bit.",
+      "text": "It was a desperate attempt, but maybe if she ate something\nsweet, she'd cheer up a bit."
+    },
+    {
+      "offset": 2089,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それでも、少しでもことりに元気になって欲し\nかったから、俺は和菓子を出すことにした。",
+      "en": "Hoping against hope, I started the process to create a\nwagashi.",
+      "text": "Hoping against hope, I started the process to create a\nwagashi."
+    },
+    {
+      "offset": 2177,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "手を背中に持っていき、まんじゅうをイメージ\nする。",
+      "en": "I placed my hand behind my back, and started thinking of a\nmanjuu.",
+      "text": "I placed my hand behind my back, and started thinking of a\nmanjuu."
+    },
+    {
+      "offset": 2246,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「なにか和菓子を……出してくれるんですか？」",
+      "en": "\"The wagashi... isn't coming out.\"",
+      "text": "\"The wagashi... isn't coming out.\""
+    },
+    {
+      "offset": 2297,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、ああ、そう──」",
+      "en": "\"A, ahh, looks like--\"",
+      "text": "\"A, ahh, looks like--\""
+    },
+    {
+      "offset": 2326,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "絶句。",
+      "en": "Silence.",
+      "text": "Silence."
+    },
+    {
+      "offset": 2337,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛・・・・・・・・／どうしてことりが｝、｛・・・・・・・・／それを知っている｝？",
+      "en": "Why. Does. She. Know. That?",
+      "text": "Why. Does. She. Know. That?"
+    },
+    {
+      "offset": 2422,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それを知っている人間は、かなり限られている。\nともかく、ことりは知らないはずだった。",
+      "en": "There's 2 people who know that I can do that, and they're\nnot particularly close to her... she shouldn't have known\nthat.",
+      "text": "There's 2 people who know that I can do that, and they're\nnot particularly close to her... she shouldn't have known\nthat."
+    },
+    {
+      "offset": 2525,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「それじゃ」",
+      "en": "\"I'd see you later...\"",
+      "text": "\"I'd see you later...\""
+    },
+    {
+      "offset": 2556,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ……」",
+      "en": "\"Ah...\"",
+      "text": "\"Ah...\""
+    },
+    {
+      "offset": 2573,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2592,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ふう……」",
+      "en": "\"Huu...\"",
+      "text": "\"Huu...\""
+    },
+    {
+      "offset": 2616,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "固いベンチの上で、｛いず／居住｝まいを正す。",
+      "en": "I collapsed back down onto the banch.",
+      "text": "I collapsed back down onto the banch."
+    },
+    {
+      "offset": 2665,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうしてことりが、和菓子の能力を知っていた\nのだろう？",
+      "en": "How did she know about my wagashi power?",
+      "text": "How did she know about my wagashi power?"
+    },
+    {
+      "offset": 2723,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして──、",
+      "en": "And--",
+      "text": "And--"
+    },
+    {
+      "offset": 2740,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりは、どうしてしまったんだろう？",
+      "en": "What is wrong with her in the first place?",
+      "text": "What is wrong with her in the first place?"
+    },
+    {
+      "offset": 2781,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今のことりは、まるで｛さえず／囀｝ることを忘れてしまっ\nた小鳥のようで……。",
+      "en": "The Kotori now is like a small bird who's forgotten how to\nchirp...",
+      "text": "The Kotori now is like a small bird who's forgotten how to\nchirp..."
+    },
+    {
+      "offset": 2861,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "大切ななにかを失ってしまったかのような喪失\n感が胸をさらう。",
+      "en": "Like the feeling of having lost something very important.",
+      "text": "Like the feeling of having lost something very important."
+    },
+    {
+      "offset": 2925,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "………。",
+      "en": ".........",
+      "text": "........."
+    },
+    {
+      "offset": 2938,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 2949,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…。",
+      "en": "...",
+      "text": "..."
+    },
+    {
+      "offset": 2958,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "手が、パンを｛もてあそ／弄｝んでいた。食欲を失っている自\n分を見つけた。",
+      "en": "I absentmindedly played with the bread I was holding. I'd\nlost my own appetite now.",
+      "text": "I absentmindedly played with the bread I was holding. I'd\nlost my own appetite now."
+    },
+    {
+      "offset": 3150,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆能力の消失◆",
+      "en": "◆Loss of Power◆",
+      "text": "◆Loss of Power◆"
+    },
+    {
+      "offset": 3193,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昼休み、またことりが遅刻をした。",
+      "en": "Kotori was late again for lunch.",
+      "text": "Kotori was late again for lunch."
+    },
+    {
+      "offset": 3230,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "最近ことりの調子が悪いのは、俺が傷つけてし\nまったからで。",
+      "en": "I thought that her recently poor mood was due to something I\nsaid that hurt her.",
+      "text": "I thought that her recently poor mood was due to something I\nsaid that hurt her."
+    },
+    {
+      "offset": 3292,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が思いっきり謝ると、ことりは俺のせいじゃ\nないという。",
+      "en": "I tried to apologize, but she said that it wasn't my fault.",
+      "text": "I tried to apologize, but she said that it wasn't my fault."
+    },
+    {
+      "offset": 3352,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当に調子が悪いだけだと……。",
+      "en": "She was just feeling a bit unwell...",
+      "text": "She was just feeling a bit unwell..."
+    },
+    {
+      "offset": 3387,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "和菓子でも食べて少しでも元気になってもらお\nうと思って、俺は和菓子を出そうとした。",
+      "en": "Hoping to cheer her up a little with a sweet, I started\ntrying to make a wagashi come out.",
+      "text": "Hoping to cheer her up a little with a sweet, I started\ntrying to make a wagashi come out."
+    },
+    {
+      "offset": 3475,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "が、手の平から、和菓子が出てこない。",
+      "en": "But the wagashi would not appear in my palm.",
+      "text": "But the wagashi would not appear in my palm."
+    },
+    {
+      "offset": 3516,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さらに不思議な事に、ことりがその能力を知っ\nていた。",
+      "en": "Along with the mystery, apparently Kotori knew about it as\nwell.",
+      "text": "Along with the mystery, apparently Kotori knew about it as\nwell."
+    },
+    {
+      "offset": 3572,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一体、どういう事なんだろうな？",
+      "en": "Just what on earth is happening?",
+      "text": "Just what on earth is happening?"
+    }
+  ],
+  "choices": [],
+  "names": {
+    "430": "Kotori",
+    "930": "Kotori",
+    "1265": "Kotori",
+    "1406": "Kotori",
+    "1514": "Kotori",
+    "1667": "Kotori",
+    "1829": "Kotori",
+    "1894": "Kotori",
+    "2236": "Kotori",
+    "2515": "Kotori"
+  }
+}

@@ -1,0 +1,511 @@
+{
+  "scene": "script_0096.obj",
+  "dialogues": [
+    {
+      "offset": 203,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "登校時間が早いと、普段と違った面々に出会う。",
+      "en": "I was early for school today, for once.",
+      "text": "I was early for school today, for once."
+    },
+    {
+      "offset": 252,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "西側に住んでいる連中は、バスで通ってくるの\nで、混雑を避けようと思うとこの時間になるら\nしい。",
+      "en": "With enough time on my hands, I decide to walk to school and\navoid the crowds on the bus.",
+      "text": "With enough time on my hands, I decide to walk to school and\navoid the crowds on the bus."
+    },
+    {
+      "offset": 386,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「朝倉くん、おはよっす」",
+      "en": "\"Good morning, Asakura-kun!\"",
+      "text": "\"Good morning, Asakura-kun!\""
+    },
+    {
+      "offset": 417,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「やあ、ことり。おはよう」",
+      "en": "\"Hey, Kotori. Good morning.\"",
+      "text": "\"Hey, Kotori. Good morning.\""
+    },
+    {
+      "offset": 480,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「珍しいですね、この時間にここを歩いてるな\n　んて」",
+      "en": "\"This is a pretty rare sight, seeing you here walking so\ncalmly at this time.\"",
+      "text": "\"This is a pretty rare sight, seeing you here walking so\ncalmly at this time.\""
+    },
+    {
+      "offset": 538,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そうかな？　……まあ、そうかもしれないな」",
+      "en": "\"Really? ...Well, if you say so.\"",
+      "text": "\"Really? ...Well, if you say so.\""
+    },
+    {
+      "offset": 589,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "我が身を振り返ってみると、そう言われても仕\n方がないような気はする。",
+      "en": "I turned my head over my shoulder to answer her. It's not\nsurprising that she thinks that, I suppose.",
+      "text": "I turned my head over my shoulder to answer her. It's not\nsurprising that she thinks that, I suppose."
+    },
+    {
+      "offset": 661,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どれだけ早起きして、登校しても、遅刻大王の\n汚名はそう簡単に晴れるものではない。",
+      "en": "No matter how many times I'm early for school now, it won't\nbe easy to shake the title of \"Lateness King\" off my\nreputation.",
+      "text": "No matter how many times I'm early for school now, it won't\nbe easy to shake the title of \"Lateness King\" off my\nreputation."
+    },
+    {
+      "offset": 777,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「じゃあ、私はお友達が待ってるんで、先に行\n　きますね」",
+      "en": "\"Anyway, my friends are waiting for me up ahead, so I'd make\na move.\"",
+      "text": "\"Anyway, my friends are waiting for me up ahead, so I'd make\na move.\""
+    },
+    {
+      "offset": 839,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ああ、またな」",
+      "en": "\"Okay, see you later.\"",
+      "text": "\"Okay, see you later.\""
+    },
+    {
+      "offset": 871,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりは、終始爽やかな笑顔を振りまいており、\nあの声と笑顔で、今日一日が素敵な日になるよ\nうな気がするから不思議だ。",
+      "en": "That Kotori, with her cheerful style, light voice and ready\nsmile... it's always enough to brighten up someone's day.",
+      "text": "That Kotori, with her cheerful style, light voice and ready\nsmile... it's always enough to brighten up someone's day."
+    },
+    {
+      "offset": 1003,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「珍しいな、朝倉。雨でも降らなきゃいいけど」",
+      "en": "\"This is rare, Asakura. You're going to make it rain now.\"",
+      "text": "\"This is rare, Asakura. You're going to make it rain now.\""
+    },
+    {
+      "offset": 1054,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "後ろから、ポンと肩を叩かれる。",
+      "en": "A light punch on my shoulder followed the words.",
+      "text": "A light punch on my shoulder followed the words."
+    },
+    {
+      "offset": 1113,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「誰かと思えば、工藤かよ。朝っぱらからきつ\n　いな」",
+      "en": "\"Oh, it's just you Kudou. As biting as ever even this early\nin the morning, huh?\"",
+      "text": "\"Oh, it's just you Kudou. As biting as ever even this early\nin the morning, huh?\""
+    },
+    {
+      "offset": 1182,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「珍しいのは、事実だろ」",
+      "en": "\"It's the truth, this doesn't happen often at all.\"",
+      "text": "\"It's the truth, this doesn't happen often at all.\""
+    },
+    {
+      "offset": 1213,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「まあな」",
+      "en": "\"Well, whatever.\"",
+      "text": "\"Well, whatever.\""
+    },
+    {
+      "offset": 1241,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「まあ、遅刻するよりマシだ」",
+      "en": "\"Well, it won't do to be late anyway.\"",
+      "text": "\"Well, it won't do to be late anyway.\""
+    },
+    {
+      "offset": 1276,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「ごもっとも」",
+      "en": "\"Quite right.\"",
+      "text": "\"Quite right.\""
+    },
+    {
+      "offset": 1297,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こうして工藤と一緒に登校するなんて、滅多に\nないような気がする。",
+      "en": "We started walking towards the school, participating in\nthoughtless morning chatter.",
+      "text": "We started walking towards the school, participating in\nthoughtless morning chatter."
+    },
+    {
+      "offset": 1365,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだか新鮮な気がするなぁ。",
+      "en": "This is a pretty new experience for me...",
+      "text": "This is a pretty new experience for me..."
+    },
+    {
+      "offset": 1398,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こう、朝の香りっつうか、なんつうか、いい匂\nいがする。",
+      "en": "Not to mention there's some oddly sweet smell in the morning\nair...",
+      "text": "Not to mention there's some oddly sweet smell in the morning\nair..."
+    },
+    {
+      "offset": 1458,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お前のシャンプーの匂いか」",
+      "en": "\"Your shampoo's scent is pretty strong.\"",
+      "text": "\"Your shampoo's scent is pretty strong.\""
+    },
+    {
+      "offset": 1521,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「ん？　匂うか？　悪いな。朝風呂に入ってき\n　たせいだ」",
+      "en": "\"Hm? Scent? Sorry, must've been from the morning bath I\ntook.\"",
+      "text": "\"Hm? Scent? Sorry, must've been from the morning bath I\ntook.\""
+    },
+    {
+      "offset": 1583,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "工藤は、自分の髪の毛を人差し指と親指で、ぐ\nじぐじといじった。",
+      "en": "Kudou ran his thumb and index finger through his hair a few\ntimes.",
+      "text": "Kudou ran his thumb and index finger through his hair a few\ntimes."
+    },
+    {
+      "offset": 1651,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まあ、いいんじゃないか？　音夢だって時々\n　朝にシャワー浴びてることあるし」",
+      "en": "\"Well, it's okay I guess. Nemu always takes morning showers\nas well.\"",
+      "text": "\"Well, it's okay I guess. Nemu always takes morning showers\nas well.\""
+    },
+    {
+      "offset": 1735,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "たとえが女の子じゃ、なんのフォローにもなら\nないな。",
+      "en": "That's pretty typical of a girl, and I've never followed her\nexample.",
+      "text": "That's pretty typical of a girl, and I've never followed her\nexample."
+    },
+    {
+      "offset": 1791,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "でも、朝風呂に入る余裕があるってのは、なん\nとなくうらやましい。",
+      "en": "But having enough time to linger around and enjoy a bath\nmakes me feel sort of envious.",
+      "text": "But having enough time to linger around and enjoy a bath\nmakes me feel sort of envious."
+    },
+    {
+      "offset": 1859,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺がそうするなら、もっと早く起きなければい\nけないってことか。",
+      "en": "Maybe I should consider waking up earlier to do so...",
+      "text": "Maybe I should consider waking up earlier to do so..."
+    },
+    {
+      "offset": 1949,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……先輩、おはようございます」",
+      "en": "\"...Senpai*, Good morning.\"",
+      "text": "\"...Senpai*, Good morning.\""
+    },
+    {
+      "offset": 1988,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この透明感のある声は……、月城か。",
+      "en": "This transparent-like voice... it's Tsukishiro.",
+      "text": "This transparent-like voice... it's Tsukishiro."
+    },
+    {
+      "offset": 2051,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おはよう、月城」",
+      "en": "\"Morning, Tsukishiro.\"",
+      "text": "\"Morning, Tsukishiro.\""
+    },
+    {
+      "offset": 2076,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城の方からあいさつをしてくれるなんて、珍\nしいな。というより、嬉しい。",
+      "en": "Tsukishiro actually saying something to me doesn't happen\nvery often... I'm glad she did, though.",
+      "text": "Tsukishiro actually saying something to me doesn't happen\nvery often... I'm glad she did, though."
+    },
+    {
+      "offset": 2161,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──が、話を続けようとすると、既に月城は俺\nのずっと前方を歩いていた。",
+      "en": "--Then, before I could even continue the \"conversation\",\nTsukishiro had already walked right past and moved in front\nof me.",
+      "text": "--Then, before I could even continue the \"conversation\",\nTsukishiro had already walked right past and moved in front\nof me."
+    },
+    {
+      "offset": 2237,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ありゃりゃ」",
+      "en": "\"Oy oy.\"",
+      "text": "\"Oy oy.\""
+    },
+    {
+      "offset": 2291,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「今の子、知り合いか？」",
+      "en": "\"You know that girl?\"",
+      "text": "\"You know that girl?\""
+    },
+    {
+      "offset": 2322,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「知り合いっつうか……」",
+      "en": "\"You could say that...\"",
+      "text": "\"You could say that...\""
+    },
+    {
+      "offset": 2353,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "知り合いというには、少しばかり寂しく、友達\nというにはちょっと行き過ぎな気がする。",
+      "en": "I felt a bit sad just leaving it as \"knowing her\", but it's\na bit too much to call her a friend right now.",
+      "text": "I felt a bit sad just leaving it as \"knowing her\", but it's\na bit too much to call her a friend right now."
+    },
+    {
+      "offset": 2469,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「結構可愛い子じゃないか」",
+      "en": "\"She's really cute, isn't she?\"",
+      "text": "\"She's really cute, isn't she?\""
+    },
+    {
+      "offset": 2502,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「まあな」",
+      "en": "\"Pretty much.\"",
+      "text": "\"Pretty much.\""
+    },
+    {
+      "offset": 2547,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「でも、なんだか人形を持ってたみたいだった\n　けど……」",
+      "en": "\"But, why's she holding that doll with her...\"",
+      "text": "\"But, why's she holding that doll with her...\""
+    },
+    {
+      "offset": 2609,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「ああ、月城は腹話術が得意らしいんだ」",
+      "en": "\"Ahh, Tsukishiro has a knack for ventriloquism.\"",
+      "text": "\"Ahh, Tsukishiro has a knack for ventriloquism.\""
+    },
+    {
+      "offset": 2682,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「腹話術？」",
+      "en": "\"Ventriloquism?\"",
+      "text": "\"Ventriloquism?\""
+    },
+    {
+      "offset": 2701,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "実際に腹話術かどうかなんてわからないんだけ\nど……、まさか『人形が喋るんだよ』みたいな\nことを朝っぱらから言いたくない。",
+      "en": "I don't even know whether it's really ventriloquism... but\nit's too early to say something like \"the doll can actually\ntalk\".",
+      "text": "I don't even know whether it's really ventriloquism... but\nit's too early to say something like \"the doll can actually\ntalk\"."
+    },
+    {
+      "offset": 2854,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「面白い子だな」",
+      "en": "\"Interesting kid.\"",
+      "text": "\"Interesting kid.\""
+    },
+    {
+      "offset": 2877,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "工藤が、くすくすと笑う。",
+      "en": "Kudou giggled lightly, smiling.",
+      "text": "Kudou giggled lightly, smiling."
+    },
+    {
+      "offset": 2908,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんだよ、含みがある笑い方しやがって」",
+      "en": "\"Heyy, that laugh sounded like it implied something.\"",
+      "text": "\"Heyy, that laugh sounded like it implied something.\""
+    },
+    {
+      "offset": 2983,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「いや、別に意味はないよ」",
+      "en": "\"Nope, not a thing.\"",
+      "text": "\"Nope, not a thing.\""
+    },
+    {
+      "offset": 3016,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "工藤はそう言ったが、どう考えても、後輩に手\nを出しかけている友人を笑う図、にしか見えな\nいっての。",
+      "en": "Although he said that, it's obvious he was thinking about\nsomething involving a close friendship between senpai and\nkouhai*...",
+      "text": "Although he said that, it's obvious he was thinking about\nsomething involving a close friendship between senpai and\nkouhai*..."
+    },
+    {
+      "offset": 3117,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "別に手を出そうとしてる訳でもないんだがな。",
+      "en": "Of course the situation isn't like that.",
+      "text": "Of course the situation isn't like that."
+    },
+    {
+      "offset": 3164,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "でも、どうしても、そういう風に見えちゃうよ\nなぁ……やっぱり。",
+      "en": "But he somehow got that idea, I bet...",
+      "text": "But he somehow got that idea, I bet..."
+    },
+    {
+      "offset": 3243,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「よう、ご両人。今日もいい天気だな」",
+      "en": "\"Yo, guys. The weather is superb today!\"",
+      "text": "\"Yo, guys. The weather is superb today!\""
+    },
+    {
+      "offset": 3319,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "突然、俺と工藤の真ん中に割り入り、二人の肩\nに手を回す杉並。",
+      "en": "Suddenly, Suginami appeared from between us, seperating our\nshoulders with his hands.",
+      "text": "Suddenly, Suginami appeared from between us, seperating our\nshoulders with his hands."
+    },
+    {
+      "offset": 3385,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「騒がしいヤツが、現われたな……」",
+      "en": "\"The noisy one has arrived...\"",
+      "text": "\"The noisy one has arrived...\""
+    },
+    {
+      "offset": 3426,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一通り、挨拶を交わし、３人並んで並木道を歩\nく。",
+      "en": "After the usual morning greeting, the three of us continued\nour way down the avenue.",
+      "text": "After the usual morning greeting, the three of us continued\nour way down the avenue."
+    },
+    {
+      "offset": 3478,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "朝からくだらないことをくっちゃべりながら、\nのんびり登校するのも悪くない。",
+      "en": "Along the way, we also passed by Mako and said hello.",
+      "text": "Along the way, we also passed by Mako and said hello."
+    },
+    {
+      "offset": 3556,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、その横を眞子が「おはよ」と言いなが\nら走りすぎていった。",
+      "en": "From this morning, I started thinking that maybe going to\nschool on time isn't bad after all.",
+      "text": "From this morning, I started thinking that maybe going to\nschool on time isn't bad after all."
+    },
+    {
+      "offset": 3624,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "たまには早起きすることにしよう。",
+      "en": "I should get up early more often.",
+      "text": "I should get up early more often."
+    },
+    {
+      "offset": 3794,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆早起きした日は……◆",
+      "en": "◆An early day is...◆",
+      "text": "◆An early day is...◆"
+    },
+    {
+      "offset": 3853,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "たまに早起きをしてみると、ことりやら、工藤\nやら、普段は登校時に会わないようなやつらに、\n会う。",
+      "en": "On a rare occasion when I woke up early, I met Kotori and\nKudou on the way to school, which I don't usually do when I\nsleep till my usual time.",
+      "text": "On a rare occasion when I woke up early, I met Kotori and\nKudou on the way to school, which I don't usually do when I\nsleep till my usual time."
+    },
+    {
+      "offset": 3952,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "珍しく、月城の方から挨拶されたりもしたが、\n会話を繋げようと思った時には、すでに前方を\n歩いていた。",
+      "en": "Even more oddly, Tsukishiro greeted me, although she\nimmediately cut the conversation off from there.",
+      "text": "Even more oddly, Tsukishiro greeted me, although she\nimmediately cut the conversation off from there."
+    },
+    {
+      "offset": 4055,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並、眞子まで現れて……なるほど、たまには\n早起きもいいものかもしれない。",
+      "en": "I also met Suginami and Mako... I see, I should learn to\nwake up early more often.",
+      "text": "I also met Suginami and Mako... I see, I should learn to\nwake up early more often."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "376": "Kotori",
+    "470": "Kotori",
+    "767": "Kotori",
+    "995": "Kudou",
+    "1174": "Kudou",
+    "1233": "Kudou",
+    "1513": "Kudou",
+    "1939": "Alice",
+    "2283": "Kudou",
+    "2461": "Kudou",
+    "2539": "Kudou",
+    "2674": "Kudou",
+    "2846": "Kudou",
+    "2975": "Kudou",
+    "3235": "Suginami"
+  }
+}

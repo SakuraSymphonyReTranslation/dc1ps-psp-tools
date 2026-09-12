@@ -1,0 +1,1035 @@
+{
+  "scene": "script_0077.obj",
+  "dialogues": [
+    {
+      "offset": 137,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さて、今日の飯はどうするか……。",
+      "en": "What to do for today's lunch...",
+      "text": "What to do for today's lunch..."
+    },
+    {
+      "offset": 174,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "購買に行って何か購入するか、それとも……。",
+      "en": "It's not only a case of where to go, or what to buy, but...",
+      "text": "It's not only a case of where to go, or what to buy, but..."
+    },
+    {
+      "offset": 221,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、死活問題について悩んでいると……。",
+      "en": "Also the threat of getting caught in a stampede...",
+      "text": "Also the threat of getting caught in a stampede..."
+    },
+    {
+      "offset": 304,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さん」",
+      "en": "\"Nii-san?\"",
+      "text": "\"Nii-san?\""
+    },
+    {
+      "offset": 321,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「音夢か。どうしたんだ？」",
+      "en": "\"Nemu? What's up?\"",
+      "text": "\"Nemu? What's up?\""
+    },
+    {
+      "offset": 365,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「もうお昼決まった？」",
+      "en": "\"Have you already made plans for lunch?\"",
+      "text": "\"Have you already made plans for lunch?\""
+    },
+    {
+      "offset": 394,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……うーん」",
+      "en": "\"...Hmm.\"",
+      "text": "\"...Hmm.\""
+    },
+    {
+      "offset": 443,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「その調子じゃ、まだ悩んでるみたいね」",
+      "en": "\"I guess you're still thinking about it?\"",
+      "text": "\"I guess you're still thinking about it?\""
+    },
+    {
+      "offset": 488,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「まあな」",
+      "en": "\"Yeah.\"",
+      "text": "\"Yeah.\""
+    },
+    {
+      "offset": 533,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「一緒に食堂でも行きます？」",
+      "en": "\"Do you want to eat at the cafeteria together?\"",
+      "text": "\"Do you want to eat at the cafeteria together?\""
+    },
+    {
+      "offset": 568,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うーん。食堂ねえ」",
+      "en": "\"Hm. The cafeteria, eh.\"",
+      "text": "\"Hm. The cafeteria, eh.\""
+    },
+    {
+      "offset": 595,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "別に、悪くはないが……。",
+      "en": "Well, that doesn't sound bad...",
+      "text": "Well, that doesn't sound bad..."
+    },
+    {
+      "offset": 624,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いまいち方向性が定まらない。",
+      "en": "It doesn't really matter to me anyway.",
+      "text": "It doesn't really matter to me anyway."
+    },
+    {
+      "offset": 657,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こういう日は、たいてい悩みぬいた挙句に、食\nべ損ねるのが落ちだよな。",
+      "en": "In the end, as long as my stomach's filled, I don't care how\nit's done.",
+      "text": "In the end, as long as my stomach's filled, I don't care how\nit's done."
+    },
+    {
+      "offset": 759,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、そうだ、兄さん」",
+      "en": "\"Ah, nii-san!\"",
+      "text": "\"Ah, nii-san!\""
+    },
+    {
+      "offset": 788,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ん？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 831,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、あのね私、今度、お｛はら／祓｝いに行こうかと思っ\n　てるんだ」",
+      "en": "\"I think, sometime soon, I'm going to go for one of those\nexorcism rituals.\"",
+      "text": "\"I think, sometime soon, I'm going to go for one of those\nexorcism rituals.\""
+    },
+    {
+      "offset": 905,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「お祓い？」",
+      "en": "\"Exorcism?\"",
+      "text": "\"Exorcism?\""
+    },
+    {
+      "offset": 924,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢のヤツ、何でまた急にそんなこと言い出す\nんだ？",
+      "en": "That Nemu, what conclusion has she jumped to this time?",
+      "text": "That Nemu, what conclusion has she jumped to this time?"
+    },
+    {
+      "offset": 1008,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うん。たまに、変な熱とか出るでしょ。だか\n　ら、見てもらおうかなって」",
+      "en": "\"Yeah. You see, I've been feeling like my body's heating up,\nlately...\"",
+      "text": "\"Yeah. You see, I've been feeling like my body's heating up,\nlately...\""
+    },
+    {
+      "offset": 1086,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……なんでお祓いなんだよ。ちゃんと医者に\n　｛み／診｝てもらえばいいだろ」",
+      "en": "\"...That sounds like it needs a doctor more than a\npurification.\"",
+      "text": "\"...That sounds like it needs a doctor more than a\npurification.\""
+    },
+    {
+      "offset": 1196,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ま、まあそうなんだけどね」",
+      "en": "\"Well, you could say that, kinda.\"",
+      "text": "\"Well, you could say that, kinda.\""
+    },
+    {
+      "offset": 1231,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢は言葉を濁す。",
+      "en": "Nemu's words started trailing off.",
+      "text": "Nemu's words started trailing off."
+    },
+    {
+      "offset": 1254,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何かほかに、言いたいことでもあるのか？",
+      "en": "Now what is she trying to say?",
+      "text": "Now what is she trying to say?"
+    },
+    {
+      "offset": 1327,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「む、昔さ、よく縁日行ったよね」",
+      "en": "\"We used to go to the shrine festivals before...\"",
+      "text": "\"We used to go to the shrine festivals before...\""
+    },
+    {
+      "offset": 1366,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「は？」",
+      "en": "\"Haah?\"",
+      "text": "\"Haah?\""
+    },
+    {
+      "offset": 1381,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いきなり話が飛んだので訳がわからない。",
+      "en": "The topic took an unexpected turn.",
+      "text": "The topic took an unexpected turn."
+    },
+    {
+      "offset": 1424,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢は一体、何を考えてるんだ？",
+      "en": "What on earth is she thinking?",
+      "text": "What on earth is she thinking?"
+    },
+    {
+      "offset": 1489,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「焼きそばとか、りんご飴とか、おいしかった\n　よね」",
+      "en": "\"The candy apples and yakisoba were so good too...\"",
+      "text": "\"The candy apples and yakisoba were so good too...\""
+    },
+    {
+      "offset": 1547,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "焼きそば……。",
+      "en": "...Yakisoba...?",
+      "text": "...Yakisoba...?"
+    },
+    {
+      "offset": 1566,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんか、急に腹減ってきたな。",
+      "en": "...Now she's getting me hungry.",
+      "text": "...Now she's getting me hungry."
+    },
+    {
+      "offset": 1599,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "焼きそばから連想するため、必然的に焼きそば\nパンに変身する。",
+      "en": "Her mention of yakisoba immeidately transformed in my mind\nto the thought of yakisoba bread.",
+      "text": "Her mention of yakisoba immeidately transformed in my mind\nto the thought of yakisoba bread."
+    },
+    {
+      "offset": 1663,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やっぱり、さっさと即決して、購買に走ればよ\nかったとちょっと後悔する。",
+      "en": "I better hurry up and decide for us, before everything's\ngone.",
+      "text": "I better hurry up and decide for us, before everything's\ngone."
+    },
+    {
+      "offset": 1739,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、どうしたんだ？」",
+      "en": "\"So, what's wrong?\"",
+      "text": "\"So, what's wrong?\""
+    },
+    {
+      "offset": 1796,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「へ？」",
+      "en": "\"Ah?\"",
+      "text": "\"Ah?\""
+    },
+    {
+      "offset": 1811,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「何か、言いたいことがあるんだろ？」",
+      "en": "\"What were you talking about just now?\"",
+      "text": "\"What were you talking about just now?\""
+    },
+    {
+      "offset": 1882,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「う……」",
+      "en": "\"Oh, uh...\"",
+      "text": "\"Oh, uh...\""
+    },
+    {
+      "offset": 1899,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「遠慮すんなよ。別に、人様に言えないような\n　悪いことをした訳じゃないんだろ？」",
+      "en": "\"No need to be so restrained, I'm no blabbermouth. It's\nnothing bad, right?\"",
+      "text": "\"No need to be so restrained, I'm no blabbermouth. It's\nnothing bad, right?\""
+    },
+    {
+      "offset": 1985,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日の音夢は珍しく遠まわしだ。",
+      "en": "Nemu was surprisingly distant today.",
+      "text": "Nemu was surprisingly distant today."
+    },
+    {
+      "offset": 2020,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "よっぽど聞きづらい事なのか、回り道ばかりし\nてくる。",
+      "en": "Everytime I tried to bring that up, she tried to derail the\nconversation.",
+      "text": "Everytime I tried to bring that up, she tried to derail the\nconversation."
+    },
+    {
+      "offset": 2089,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「う、うん……あのね、兄さん」",
+      "en": "\"Y, yeah... well...\"",
+      "text": "\"Y, yeah... well...\""
+    },
+    {
+      "offset": 2126,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢は俯いて話始める。",
+      "en": "Looking downwards, she began to speak.",
+      "text": "Looking downwards, she began to speak."
+    },
+    {
+      "offset": 2153,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんとなく、気づいてはいたが、やはり環のこ\nとだった。",
+      "en": "As I had somewhat expected, it was regarding Tamaki.",
+      "text": "As I had somewhat expected, it was regarding Tamaki."
+    },
+    {
+      "offset": 2224,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「｛いいなずけ／許嫁｝までになる関係だったら、どこで会った\n　んだろうって」",
+      "en": "\"When did that issue of her being your fiancee ever\nhappen...?\"",
+      "text": "\"When did that issue of her being your fiancee ever\nhappen...?\""
+    },
+    {
+      "offset": 2317,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「縁日のときも、胡ノ宮さんっていなかったよ\n　ね」",
+      "en": "\"Whenever we went to the shrine for the festivals, we never\nmet anyone like Tamaki...\"",
+      "text": "\"Whenever we went to the shrine for the festivals, we never\nmet anyone like Tamaki...\""
+    },
+    {
+      "offset": 2373,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「子どもの頃……か？」",
+      "en": "\"You mean, when we were kids...?\"",
+      "text": "\"You mean, when we were kids...?\""
+    },
+    {
+      "offset": 2402,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の問いかけに、音夢は頷く。",
+      "en": "Nemu nodded at my question.",
+      "text": "Nemu nodded at my question."
+    },
+    {
+      "offset": 2437,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「確かに……、あの神社に環みたいな女の子は\n　いなかった気がする」",
+      "en": "\"That is true... I don't remember seeing a girl like Tamaki\nat the shrine, ever.\"",
+      "text": "\"That is true... I don't remember seeing a girl like Tamaki\nat the shrine, ever.\""
+    },
+    {
+      "offset": 2509,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "小さいときのことはあまり覚えてないけど。",
+      "en": "I can't remember that much about my childhood, admittedly.",
+      "text": "I can't remember that much about my childhood, admittedly."
+    },
+    {
+      "offset": 2554,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、旅行以外で、この島を出たことはほとん\nどない。",
+      "en": "And besides the occasional trip, I've never left the island\neither.",
+      "text": "And besides the occasional trip, I've never left the island\neither."
+    },
+    {
+      "offset": 2610,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "出たにしても、何かの行事だ。知らない女の子\nと仲良くなったなら、覚えているはずだ。",
+      "en": "I don't have any particular memories of getting close to a\ngirl I didn't know, in my childhood days, either.",
+      "text": "I don't have any particular memories of getting close to a\ngirl I didn't know, in my childhood days, either."
+    },
+    {
+      "offset": 2726,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だったら……どうして知り合ったのかなって」",
+      "en": "\"If that's the case... how did you come to know her?\"",
+      "text": "\"If that's the case... how did you come to know her?\""
+    },
+    {
+      "offset": 2777,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢は上目遣いで俺に尋ねる。",
+      "en": "Nemu lifted her gaze to me, as she enquired.",
+      "text": "Nemu lifted her gaze to me, as she enquired."
+    },
+    {
+      "offset": 2810,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "縁日も遊びに行ってたけど、環の記憶はない。",
+      "en": "I remember going to the shrine, but nothing at all about\nTamaki.",
+      "text": "I remember going to the shrine, but nothing at all about\nTamaki."
+    },
+    {
+      "offset": 2876,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「もともとこの島にいた訳でもなさそうだしな\n　あ……」",
+      "en": "\"This might be easier to figure out if she had been on this\nisland the whole time...\"",
+      "text": "\"This might be easier to figure out if she had been on this\nisland the whole time...\""
+    },
+    {
+      "offset": 2936,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は｛・・・／転校生｝だ。",
+      "en": "She is a transfer student, after all.",
+      "text": "She is a transfer student, after all."
+    },
+    {
+      "offset": 2997,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「私……ずっと兄さんと一緒にいたのに、どう\n　して覚えてないんだろうって」",
+      "en": "\"I've... always been by your side too, and I don't remember\nanything about her.\"",
+      "text": "\"I've... always been by your side too, and I don't remember\nanything about her.\""
+    },
+    {
+      "offset": 3077,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、確かにな……。",
+      "en": "Quite true...",
+      "text": "Quite true..."
+    },
+    {
+      "offset": 3102,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もし、たまたまででも、あの神社に環がいたの\nなら、音夢と俺のどちらかが覚えていても不思\n議ではないのだが。",
+      "en": "It would be very odd if she had lived in the shrine all the\nwhile, with neither Nemu nor I noticing it.",
+      "text": "It would be very odd if she had lived in the shrine all the\nwhile, with neither Nemu nor I noticing it."
+    },
+    {
+      "offset": 3213,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ま、多分、心配しなくても追い追いわかるっ\n　て」",
+      "en": "\"Well, it's nothing to worry about, I bet. We'd find out\nsooner or later.\"",
+      "text": "\"Well, it's nothing to worry about, I bet. We'd find out\nsooner or later.\""
+    },
+    {
+      "offset": 3269,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "結局、今はそんな結論しか出せなかった。",
+      "en": "That was the only conclusion I could come up to.",
+      "text": "That was the only conclusion I could come up to."
+    },
+    {
+      "offset": 3312,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本人にもわからないようなこと、｛ただ／質｝しようがな\nい。",
+      "en": "If the person herself doesn't know either, there's not much\nwe can do.",
+      "text": "If the person herself doesn't know either, there's not much\nwe can do."
+    },
+    {
+      "offset": 3374,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それに許嫁っていっても、今日明日にでも、強\n制的にケッコンさせられる訳ではなさそうだか\nら、あまり気にする必要もなさそうだ。",
+      "en": "And despite calling me her fiancee, she hasn't tried to\nforce me into a marriage or anything... it's not worth\nworrying about yet.",
+      "text": "And despite calling me her fiancee, she hasn't tried to\nforce me into a marriage or anything... it's not worth\nworrying about yet."
+    },
+    {
+      "offset": 3531,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3550,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢は黙って俯いてしまう。",
+      "en": "Nemu then bowed her head again, becoming silent.",
+      "text": "Nemu then bowed her head again, becoming silent."
+    },
+    {
+      "offset": 3600,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん？　どうした？」",
+      "en": "\"Hm? What now?\"",
+      "text": "\"Hm? What now?\""
+    },
+    {
+      "offset": 3638,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3657,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「音夢？」",
+      "en": "\"Nemu?\"",
+      "text": "\"Nemu?\""
+    },
+    {
+      "offset": 3702,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「昔、兄さんが射的で人形取ってくれたなって」",
+      "en": "\"Years ago, you used to practice shooting at dummies, using\nthem as target practice...\"",
+      "text": "\"Years ago, you used to practice shooting at dummies, using\nthem as target practice...\""
+    },
+    {
+      "offset": 3753,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「人形？」",
+      "en": "\"Dummies?\"",
+      "text": "\"Dummies?\""
+    },
+    {
+      "offset": 3770,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな古い話、それこそ覚えてない。",
+      "en": "Talking about such old stuff, how could I remember?",
+      "text": "Talking about such old stuff, how could I remember?"
+    },
+    {
+      "offset": 3839,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さん、結構上手で、内心、すごいなって思っ\n　てたんだよ」",
+      "en": "\"You were really skilled at it, I thought.\"",
+      "text": "\"You were really skilled at it, I thought.\""
+    },
+    {
+      "offset": 3905,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「今は、多分腕も落ちてるだろうな……」",
+      "en": "\"Well, I haven't done it for years, so my proficiency's\nprobably dropped off...\"",
+      "text": "\"Well, I haven't done it for years, so my proficiency's\nprobably dropped off...\""
+    },
+    {
+      "offset": 3978,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「こう構えて」",
+      "en": "\"You'd stand like this...\"",
+      "text": "\"You'd stand like this...\""
+    },
+    {
+      "offset": 3999,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢は射的のポーズをする。",
+      "en": "Nemu imitated the post of someone getting read to shoot.",
+      "text": "Nemu imitated the post of someone getting read to shoot."
+    },
+    {
+      "offset": 4043,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「バンって」",
+      "en": "\"Then, bang--\"",
+      "text": "\"Then, bang--\""
+    },
+    {
+      "offset": 4062,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その声と共に、",
+      "en": "At the same time as her words,",
+      "text": "At the same time as her words,"
+    },
+    {
+      "offset": 4088,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──ヒュン！",
+      "en": "--*hyuuu!*",
+      "text": "--*hyuuu!*"
+    },
+    {
+      "offset": 4122,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺達の間を、一筋に何かが｛かす／掠｝めていった。",
+      "en": "Something flew right past, in the space between us.",
+      "text": "Something flew right past, in the space between us."
+    },
+    {
+      "offset": 4180,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──ブスッ！",
+      "en": "--*tock!*",
+      "text": "--*tock!*"
+    },
+    {
+      "offset": 4218,
+      "speaker": "Male Student",
+      "speaker_jp": "男子学生",
+      "jp": "「ひ、ひい…………」",
+      "en": "\"A, ahh!\"",
+      "text": "\"A, ahh!\""
+    },
+    {
+      "offset": 4245,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鈍い音と共に、悲鳴が聞こえる。",
+      "en": "A dull sound, and a shrill shriek, rang out at the same\ntime.",
+      "text": "A dull sound, and a shrill shriek, rang out at the same\ntime."
+    },
+    {
+      "offset": 4280,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見ると、男子学生が座ろうとしていた椅子に、\n破魔矢が突き刺さっている。",
+      "en": "An arrow, one of those used in shrine ceremonies to drive\noff evil, was impaled into a chair about to be sat on.",
+      "text": "An arrow, one of those used in shrine ceremonies to drive\noff evil, was impaled into a chair about to be sat on."
+    },
+    {
+      "offset": 4354,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺と音夢は、思わず顔を見合わせる。",
+      "en": "Nemu and I immediately turned to each other.",
+      "text": "Nemu and I immediately turned to each other."
+    },
+    {
+      "offset": 4393,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 4408,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こんなことができるのは、学園広しと言えども\nそうはいない。",
+      "en": "There's only one person in school amazing enough to be able\nto do this.",
+      "text": "There's only one person in school amazing enough to be able\nto do this."
+    },
+    {
+      "offset": 4470,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……環だな。",
+      "en": "...Tamaki.",
+      "text": "...Tamaki."
+    },
+    {
+      "offset": 4487,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、環の姿は見えない。",
+      "en": "But she was nowhere to be found.",
+      "text": "But she was nowhere to be found."
+    },
+    {
+      "offset": 4553,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さん。これって……」",
+      "en": "\"Nii-san, this is...\"",
+      "text": "\"Nii-san, this is...\""
+    },
+    {
+      "offset": 4584,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は音夢が言おうとしたことを制し、矢が刺さっ\nている椅子を見つめる。",
+      "en": "Not really hearing her, I turned back to the arrowed chair.",
+      "text": "Not really hearing her, I turned back to the arrowed chair."
+    },
+    {
+      "offset": 4665,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうやら、男子生徒に怪我はないらしい。",
+      "en": "At least the guy doesn't seem to be injured...",
+      "text": "At least the guy doesn't seem to be injured..."
+    },
+    {
+      "offset": 4708,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当に、絶妙なタイミングで外すよな。",
+      "en": "That was some amazing timing.",
+      "text": "That was some amazing timing."
+    },
+    {
+      "offset": 4749,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 4764,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それとも、わざと外してんのか？",
+      "en": "Or maybe, it missed on purpose?",
+      "text": "Or maybe, it missed on purpose?"
+    },
+    {
+      "offset": 4799,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は椅子に歩み寄る。",
+      "en": "I walked up to the chair.",
+      "text": "I walked up to the chair."
+    },
+    {
+      "offset": 4824,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一見、普通の椅子だけど……。",
+      "en": "At first glance, it looks like any other chair, yet...",
+      "text": "At first glance, it looks like any other chair, yet..."
+    },
+    {
+      "offset": 4857,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やっぱり、男子生徒を狙って矢を放ったのかな。",
+      "en": "It doesn't look like a arrow aimed at the student on\npurpose...",
+      "text": "It doesn't look like a arrow aimed at the student on\npurpose..."
+    },
+    {
+      "offset": 4906,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "背もたれには、白い羽が着いた矢が、まっすぐ\nと突き刺さっている。",
+      "en": "The directions of the feathers of the arrow showed that it\nwas shot straight, and at a low height.",
+      "text": "The directions of the feathers of the arrow showed that it\nwas shot straight, and at a low height."
+    },
+    {
+      "offset": 4974,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は何気なく椅子に腰を掛ける。",
+      "en": "I cautiously tried sitting on the chair.",
+      "text": "I cautiously tried sitting on the chair."
+    },
+    {
+      "offset": 5009,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ガタッ！",
+      "en": "*crash*",
+      "text": "*crash*"
+    },
+    {
+      "offset": 5024,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「うわっ」",
+      "en": "\"Uwah!\"",
+      "text": "\"Uwah!\""
+    },
+    {
+      "offset": 5041,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "椅子の足が折れ、椅子が倒れて俺はしりもちを\nついた。",
+      "en": "The legs of the chair gave way, making the chair collapse,\nand I fell flat on my backside.",
+      "text": "The legs of the chair gave way, making the chair collapse,\nand I fell flat on my backside."
+    },
+    {
+      "offset": 5097,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "慌てて音夢が駆け寄ってくる。",
+      "en": "Nemu quickly rushed over to me.",
+      "text": "Nemu quickly rushed over to me."
+    },
+    {
+      "offset": 5165,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さん、大丈夫？」",
+      "en": "\"Nii-san, are you alright?\"",
+      "text": "\"Nii-san, are you alright?\""
+    },
+    {
+      "offset": 5209,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の目には、分かりやすいくらい、困惑の色\nが映っている。",
+      "en": "The bewilderment in her eyes was clear to see.",
+      "text": "The bewilderment in her eyes was clear to see."
+    },
+    {
+      "offset": 5273,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ああ、なんとかな……」",
+      "en": "\"Y, yeah, more or less...\"",
+      "text": "\"Y, yeah, more or less...\""
+    },
+    {
+      "offset": 5304,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は制服のホコリを払い、立ち上がる。",
+      "en": "I wiped the dust off my uniform, and stood up.",
+      "text": "I wiped the dust off my uniform, and stood up."
+    },
+    {
+      "offset": 5345,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何なんだ、これ……。",
+      "en": "The hell is this...?",
+      "text": "The hell is this...?"
+    },
+    {
+      "offset": 5370,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まるで、矢が警告みたいに見えなくもない。",
+      "en": "Maybe the arrow was a warning or something...",
+      "text": "Maybe the arrow was a warning or something..."
+    },
+    {
+      "offset": 5415,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただ、そばに環がいないので、何故矢を射たの\nかも確認しようがない。",
+      "en": "But since Tamaki isn't around, there's no way to find out\nwhat's going on.",
+      "text": "But since Tamaki isn't around, there's no way to find out\nwhat's going on."
+    },
+    {
+      "offset": 5515,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「危ないわね。矢もそうだけど、椅子も怖いわ\n　ね」",
+      "en": "\"The chair must have been scared by the dangerous little\narrow.\"",
+      "text": "\"The chair must have been scared by the dangerous little\narrow.\""
+    },
+    {
+      "offset": 5571,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢は椅子を教室の片隅に持っていく。",
+      "en": "Nemu brought the remains of the chair to a corner of the\nclassroom.",
+      "text": "Nemu brought the remains of the chair to a corner of the\nclassroom."
+    },
+    {
+      "offset": 5612,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さすが、風紀委員。",
+      "en": "Not bad, disciplinary committee.",
+      "text": "Not bad, disciplinary committee."
+    },
+    {
+      "offset": 5635,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こういう時は頼りになる。",
+      "en": "You can always rely on them for times like these.",
+      "text": "You can always rely on them for times like these."
+    },
+    {
+      "offset": 5664,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だけど……。",
+      "en": "Yet...",
+      "text": "Yet..."
+    },
+    {
+      "offset": 5681,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はもう一度、片付けられた椅子の残骸を見る。",
+      "en": "I took another long look at the wrecked chair.",
+      "text": "I took another long look at the wrecked chair."
+    },
+    {
+      "offset": 5730,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……まあ、偶然かな。",
+      "en": "...Nah, it has to be a coincidence.",
+      "text": "...Nah, it has to be a coincidence."
+    },
+    {
+      "offset": 5884,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆壊れた椅子◆",
+      "en": "◆Destroyed Chair?◆",
+      "text": "◆Destroyed Chair?◆"
+    },
+    {
+      "offset": 5927,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "休み時間、音夢は俺に、神社の話ばかり振って\nくる。",
+      "en": "During the break, Nemu talked to me a lot about the shrine.",
+      "text": "During the break, Nemu talked to me a lot about the shrine."
+    },
+    {
+      "offset": 5981,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "聞いてみると、何故環と｛いいなずけ／許嫁｝になったのか知り\nたがっていた。",
+      "en": "The long and the short of it, was that she wanted to know\nhow the notion that Tamaki was my fiancee came about.",
+      "text": "The long and the short of it, was that she wanted to know\nhow the notion that Tamaki was my fiancee came about."
+    },
+    {
+      "offset": 6059,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "が、俺にもまだわからない。",
+      "en": "But even that, I didn't know.",
+      "text": "But even that, I didn't know."
+    },
+    {
+      "offset": 6090,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "二人で縁日の射的の話をしていると、近くで弓\nが射られた音がする。",
+      "en": "As we talked about shooting arrows at the shrine festivals,\nwe heard the sound of a nearby arrow being shot.",
+      "text": "As we talked about shooting arrows at the shrine festivals,\nwe heard the sound of a nearby arrow being shot."
+    },
+    {
+      "offset": 6158,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見ると、男子学生が座ろうとした椅子の背もた\nれに破魔矢が刺さっている。",
+      "en": "Looking around, we found a ceremonial arrow stuck into a\nchair a male student was about to sit on.",
+      "text": "Looking around, we found a ceremonial arrow stuck into a\nchair a male student was about to sit on."
+    },
+    {
+      "offset": 6232,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺がその椅子に座ろうとしたら、椅子の足が折\nれて壊れてしまった。",
+      "en": "I tried sitting on the chair, and it instantly collapsed.",
+      "text": "I tried sitting on the chair, and it instantly collapsed."
+    },
+    {
+      "offset": 6300,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まるで、破魔矢が警告であったかのような気が\nするのだった。",
+      "en": "Maybe the arrow was meant as a warning...",
+      "text": "Maybe the arrow was meant as a warning..."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "296": "Nemu",
+    "357": "Nemu",
+    "435": "Nemu",
+    "525": "Nemu",
+    "751": "Nemu",
+    "823": "Nemu",
+    "1000": "Nemu",
+    "1188": "Nemu",
+    "1319": "Nemu",
+    "1481": "Nemu",
+    "1788": "Nemu",
+    "1874": "Nemu",
+    "2081": "Nemu",
+    "2216": "Nemu",
+    "2309": "Nemu",
+    "2718": "Nemu",
+    "2989": "Nemu",
+    "3523": "Nemu",
+    "3630": "Nemu",
+    "3694": "Nemu",
+    "3831": "Nemu",
+    "3970": "Nemu",
+    "4035": "Nemu",
+    "4206": "Male Student",
+    "4545": "Nemu",
+    "5157": "Nemu",
+    "5507": "Nemu"
+  }
+}

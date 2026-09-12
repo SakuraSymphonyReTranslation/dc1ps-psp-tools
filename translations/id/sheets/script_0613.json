@@ -1,0 +1,640 @@
+{
+  "scene": "script_0613.obj",
+  "dialogues": [
+    {
+      "offset": 150,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 180,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 210,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「くすん……」",
+      "en": "\"Sniff......\"",
+      "text": "\"Sniff......\""
+    },
+    {
+      "offset": 252,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "アメリカのスワットチームの勢いで扉をぶち開\nける。",
+      "en": "\"Nemu!?\"",
+      "text": "\"Nemu!?\""
+    },
+    {
+      "offset": 385,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "肩で息をしながら呟く。",
+      "en": "I barged into our house like a member of a SWAT team on a\nmission.",
+      "text": "I barged into our house like a member of a SWAT team on a\nmission."
+    },
+    {
+      "offset": 442,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ど、どうしたの兄さん、忘れ物？　……あ、\n　でも今日は入学式だけだから忘れ物なんてな\n　いし……」",
+      "en": "\"!? Niisan?\"",
+      "text": "\"!? Niisan?\""
+    },
+    {
+      "offset": 547,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目元をこすって音夢が笑う。",
+      "en": "\"Yeah...\"",
+      "text": "\"Yeah...\""
+    },
+    {
+      "offset": 580,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「忘れ物だ」",
+      "en": "I mumbled while I caught my breath.",
+      "text": "I mumbled while I caught my breath."
+    },
+    {
+      "offset": 610,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「成績表でも忘れたの？　でも、そんなの明日\n　でもいいよね」",
+      "en": "\"What happened? Did you forget something? But there's\nnothing to forget since you only have the entrance ceremony\ntoday......\"",
+      "text": "\"What happened? Did you forget something? But there's\nnothing to forget since you only have the entrance ceremony\ntoday......\""
+    },
+    {
+      "offset": 676,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「はぁ……かったり」",
+      "en": "She rubbed her eye and smiled.",
+      "text": "She rubbed her eye and smiled."
+    },
+    {
+      "offset": 703,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "壁によりかかってズルズルと床に座り込む。",
+      "en": "\"I forgot something.\"",
+      "text": "\"I forgot something.\""
+    },
+    {
+      "offset": 778,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ねぇ、本当にどうしたの？」",
+      "en": "\"Did you forget your school record? But you could bring it\ntomorrow.\"",
+      "text": "\"Did you forget your school record? But you could bring it\ntomorrow.\""
+    },
+    {
+      "offset": 813,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なんでもない」",
+      "en": "\"Phew...... what a pain.\"",
+      "text": "\"Phew...... what a pain.\""
+    },
+    {
+      "offset": 866,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢が時計を見る。",
+      "en": "I sat on the floor and leaned against the wall.",
+      "text": "I sat on the floor and leaned against the wall."
+    },
+    {
+      "offset": 919,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うわっ、もう入学式始まっちゃってない！？」",
+      "en": "\"What happened?\"",
+      "text": "\"What happened?\""
+    },
+    {
+      "offset": 995,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺も時計を見ながらうなずく。",
+      "en": "\"Nothing.\"",
+      "text": "\"Nothing.\""
+    },
+    {
+      "offset": 1041,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そうみたいだなって……」",
+      "en": "\"Oh, no. The ceremony would have started by now!\"",
+      "text": "\"Oh, no. The ceremony would have started by now!\""
+    },
+    {
+      "offset": 1074,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の驚いたような、呆れたような声。",
+      "en": "\"Well, that's right...... I have an idea.\"",
+      "text": "\"Well, that's right...... I have an idea.\""
+    },
+    {
+      "offset": 1205,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なに？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 1222,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はにっこりと笑う。",
+      "en": "I smiled.",
+      "text": "I smiled."
+    },
+    {
+      "offset": 1249,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ここで入学式をやろう」",
+      "en": "\"Let's do the ceremony here.\"",
+      "text": "\"Let's do the ceremony here.\""
+    },
+    {
+      "offset": 1308,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え……」",
+      "en": "\"What......\"",
+      "text": "\"What......\""
+    },
+    {
+      "offset": 1325,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢がびくりと肩を震わせる。",
+      "en": "Nemu shook her shoulders.",
+      "text": "Nemu shook her shoulders."
+    },
+    {
+      "offset": 1360,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どうせ学園でやってるのなんて形ばっかりな\n　んだ。ここで心をこめてやるほうがいい」",
+      "en": "\"The ceremony at school is so formal. We should have our own\nceremony here.\"",
+      "text": "\"The ceremony at school is so formal. We should have our own\nceremony here.\""
+    },
+    {
+      "offset": 1461,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なに……バカなこと言ってるの兄さん？」",
+      "en": "\"What are you talking about?\"",
+      "text": "\"What are you talking about?\""
+    },
+    {
+      "offset": 1508,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「俺を誰だと思ってるんだ。お祭りの時にさり\n　げなく意外なことをするお前の兄貴だぞ」",
+      "en": "\"Who do you think you're talking to? It's your brother who\nacts unexpectedly at the festivals.\"",
+      "text": "\"Who do you think you're talking to? It's your brother who\nacts unexpectedly at the festivals.\""
+    },
+    {
+      "offset": 1626,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「本当にバカなこと言ってないで学園に行きな\n　さい！」",
+      "en": "\"You must be crazy, you have to go back to school!\"",
+      "text": "\"You must be crazy, you have to go back to school!\""
+    },
+    {
+      "offset": 1691,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「行けるかバカッ！！」",
+      "en": "\"I can't go, idiot!!\"",
+      "text": "\"I can't go, idiot!!\""
+    },
+    {
+      "offset": 1748,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「――っ！？」",
+      "en": "\"----!!\"",
+      "text": "\"----!!\""
+    },
+    {
+      "offset": 1769,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の怒鳴り声に、音夢が目を丸くして動きを止\nめる。",
+      "en": "Nemu froze, opening her eyes widely as I yelled out.",
+      "text": "Nemu froze, opening her eyes widely as I yelled out."
+    },
+    {
+      "offset": 1823,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "気が付くと立ち上がっていた。",
+      "en": "I stood up unexpectedly.",
+      "text": "I stood up unexpectedly."
+    },
+    {
+      "offset": 1858,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あー……いや、叫んで悪ぃ」",
+      "en": "\"Ah...... sorry I yelled.\"",
+      "text": "\"Ah...... sorry I yelled.\""
+    },
+    {
+      "offset": 1893,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ばつが悪くて頭をかいて座りなおす。",
+      "en": "I felt embarrassed and scratched my head and sat down again.",
+      "text": "I felt embarrassed and scratched my head and sat down again."
+    },
+    {
+      "offset": 1934,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「確かにバカは俺なんだ」",
+      "en": "\"I'm really stupid.\"",
+      "text": "\"I'm really stupid.\""
+    },
+    {
+      "offset": 1965,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お前をこんな日にこそ置いていくなんてな」",
+      "en": "\"To leave you alone on a day like this......\"",
+      "text": "\"To leave you alone on a day like this......\""
+    },
+    {
+      "offset": 2014,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「恋人失格だ」",
+      "en": "\"I'm not a good boyfriend.\"",
+      "text": "\"I'm not a good boyfriend.\""
+    },
+    {
+      "offset": 2035,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "にへへ、と苦笑いが漏れる。",
+      "en": "I smiled wryly.",
+      "text": "I smiled wryly."
+    },
+    {
+      "offset": 2096,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……っあ」",
+      "en": "\"Ah......\"",
+      "text": "\"Ah......\""
+    },
+    {
+      "offset": 2115,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "口元を押さえて音夢が息をのむ。",
+      "en": "She gulped air in covering her mouth with her hand.",
+      "text": "She gulped air in covering her mouth with her hand."
+    },
+    {
+      "offset": 2152,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あのさ……音夢」",
+      "en": "\"Nemu......\"",
+      "text": "\"Nemu......\""
+    },
+    {
+      "offset": 2177,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺はお前と……いや、お前は俺と本校に通う\n　ことは出来ないんだ」",
+      "en": "\"I can't...... no, you can't go to school with me.\"",
+      "text": "\"I can't...... no, you can't go to school with me.\""
+    },
+    {
+      "offset": 2249,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この胸の痛さはどちらのものか……。",
+      "en": "My heart ached. Who's the one having this ache?",
+      "text": "My heart ached. Who's the one having this ache?"
+    },
+    {
+      "offset": 2318,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2365,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「知ってるよ」",
+      "en": "\"I knew it.\"",
+      "text": "\"I knew it.\""
+    },
+    {
+      "offset": 2386,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2433,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「知ってるよ。だから兄さん……そんなに傷つ\n　かないで」",
+      "en": "\"I know that already. So, don't feel bad, niisan......\"",
+      "text": "\"I know that already. So, don't feel bad, niisan......\""
+    },
+    {
+      "offset": 2509,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そっ、と音夢の手に導かれる。",
+      "en": "Nemu took me in her hands gently.",
+      "text": "Nemu took me in her hands gently."
+    },
+    {
+      "offset": 2542,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぎゅっ、と身体が痛いほど音夢に抱きしめられ\nる。",
+      "en": "Nemu held me tightly.",
+      "text": "Nemu held me tightly."
+    },
+    {
+      "offset": 2594,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そうやって心を慰められる。",
+      "en": "She tried to comfort me.",
+      "text": "She tried to comfort me."
+    },
+    {
+      "offset": 2638,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「夢うつつだったけど、兄さんとさくらの話は\n　聞こえてた」",
+      "en": "\"I overheard the conversation you and Sakura had while I was\nasleep.\"",
+      "text": "\"I overheard the conversation you and Sakura had while I was\nasleep.\""
+    },
+    {
+      "offset": 2713,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ごめんね兄さん……私のせいで」",
+      "en": "\"I'm sorry, niisan...... It's my fault.\"",
+      "text": "\"I'm sorry, niisan...... It's my fault.\""
+    },
+    {
+      "offset": 2785,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "傷つけてもかまわない──。",
+      "en": "\"It's not your fault.\"",
+      "text": "\"It's not your fault.\""
+    },
+    {
+      "offset": 2816,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう思っていたはずなのに、この期に及んでも、\n俺は音夢を抱きしめ返すことができなかった。",
+      "en": "I knew I wasn't supposed to, but I held her tightly as well.",
+      "text": "I knew I wasn't supposed to, but I held her tightly as well."
+    },
+    {
+      "offset": 2921,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ううん……ごめんね兄さん……どんなに嘘つ\n　かれても、距離をとられても私はダメなの」",
+      "en": "\"No, I'm sorry. I can't help it even if you lie to me, or\nkeep away from me.\"",
+      "text": "\"No, I'm sorry. I can't help it even if you lie to me, or\nkeep away from me.\""
+    },
+    {
+      "offset": 3024,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さんが素っ気なくしても、バカって言って\n　いても、心の底でやさしさと辛さが分かっちゃ\n　うの」",
+      "en": "\"I know how kind and hurt you are even if you act cold to\nme, or call me an idiot.\"",
+      "text": "\"I know how kind and hurt you are even if you act cold to\nme, or call me an idiot.\""
+    },
+    {
+      "offset": 3138,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「恋人がこんな私だなんて……ごめ……ごめん\n　なさい！」",
+      "en": "\"I'm sorry that I'm your girlfriend...... I'm sorry......\"",
+      "text": "\"I'm sorry that I'm your girlfriend...... I'm sorry......\""
+    },
+    {
+      "offset": 3349,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "肩が冷たくなる。",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3370,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の震えが直接伝わってくる。",
+      "en": "My shoulders became wet and cold.",
+      "text": "My shoulders became wet and cold."
+    },
+    {
+      "offset": 3405,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "身体にも心にも、｛おんさ／音叉｝が共鳴するように俺の心\nもさざめく。",
+      "en": "I could feel her shivering.",
+      "text": "I could feel her shivering."
+    },
+    {
+      "offset": 3477,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言葉はいらなかった。",
+      "en": "My heart reacted like a tuning fork and it shook my body and\nsoul.",
+      "text": "My heart reacted like a tuning fork and it shook my body and\nsoul."
+    },
+    {
+      "offset": 3502,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お互いの心が伝わっている。",
+      "en": "We didn't need words.",
+      "text": "We didn't need words."
+    },
+    {
+      "offset": 3533,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やさしい嘘もつけず。",
+      "en": "We knew how we felt about each other.",
+      "text": "We knew how we felt about each other."
+    },
+    {
+      "offset": 3558,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "容赦のない真実もつけない。",
+      "en": "We couldn't keep up a lie to protect each other.",
+      "text": "We couldn't keep up a lie to protect each other."
+    },
+    {
+      "offset": 3589,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とめどなく涙が溢れてくる。",
+      "en": "We couldn't overlook the truth as well.",
+      "text": "We couldn't overlook the truth as well."
+    },
+    {
+      "offset": 3620,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "喉がひきつることだけは我慢する。",
+      "en": "We cried like there was no tomorrow.",
+      "text": "We cried like there was no tomorrow."
+    },
+    {
+      "offset": 3657,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が悲しむことは、音夢の悲しみに伝わる。",
+      "en": "I try not to make it obvious.",
+      "text": "I try not to make it obvious."
+    },
+    {
+      "offset": 3702,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "歯をくいしばって、楽しいことだけを考えるよ\nうにする。",
+      "en": "If I'm sad, Nemu will catch on to my sadness.",
+      "text": "If I'm sad, Nemu will catch on to my sadness."
+    },
+    {
+      "offset": 3760,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢だけを守ろうと誓う。",
+      "en": "I tried my best to think about happy thoughts.",
+      "text": "I tried my best to think about happy thoughts."
+    },
+    {
+      "offset": 3791,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「………………」",
+      "en": "I swear I'll protect Nemu.",
+      "text": "I swear I'll protect Nemu."
+    },
+    {
+      "offset": 3961,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「嬉しいよぉ……」",
+      "en": "\"I'm sorry, niisan...... I want you to love me, for now.\"",
+      "text": "\"I'm sorry, niisan...... I want you to love me, for now.\""
+    },
+    {
+      "offset": 4051,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ふぁ……」",
+      "en": "\"Don't let me go......\"",
+      "text": "\"Don't let me go......\""
+    },
+    {
+      "offset": 4070,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……音夢？」",
+      "en": "\"I can't help it......\"",
+      "text": "\"I can't help it......\""
+    },
+    {
+      "offset": 5047,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆２人きりの入学式◆",
+      "en": "◆Our own ceremony◆",
+      "text": "◆Our own ceremony◆"
+    },
+    {
+      "offset": 5096,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "家に帰ると、ことりの指摘通り音夢が寂しさに\n泣いていた。",
+      "en": "I came back home to find Nemu crying, as Kotori said she\nwould be.",
+      "text": "I came back home to find Nemu crying, as Kotori said she\nwould be."
+    },
+    {
+      "offset": 5156,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふたりだけの入学式をしようという俺の言葉に、\n音夢は泣き出してしまう。",
+      "en": "Nemu started crying as I said we should have our own\nentrance ceremony.",
+      "text": "Nemu started crying as I said we should have our own\nentrance ceremony."
+    },
+    {
+      "offset": 5230,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、自分の病気のことで俺に迷惑をかけて\nいると、今度こそ本当に泣き出してしまった。",
+      "en": "And she really cried as she said she's making trouble for me\nby being sick.",
+      "text": "And she really cried as she said she's making trouble for me\nby being sick."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "142": "Nemu",
+    "172": "Nemu",
+    "202": "Nemu",
+    "434": "Nemu",
+    "602": "Nemu",
+    "770": "Nemu",
+    "911": "Nemu",
+    "1033": "Nemu",
+    "1197": "Nemu",
+    "1300": "Nemu",
+    "1453": "Nemu",
+    "1618": "Nemu",
+    "1740": "Nemu",
+    "2088": "Nemu",
+    "2310": "Nemu",
+    "2357": "Nemu",
+    "2425": "Nemu",
+    "2630": "Nemu",
+    "2705": "Nemu",
+    "2913": "Nemu",
+    "3016": "Nemu",
+    "3130": "Nemu",
+    "3953": "Nemu",
+    "4043": "Nemu"
+  }
+}

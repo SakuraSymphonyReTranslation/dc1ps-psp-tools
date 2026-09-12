@@ -1,0 +1,370 @@
+{
+  "scene": "script_0119.obj",
+  "dialogues": [
+    {
+      "offset": 153,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頭や肩にはりついた桜の花びらをはたきながら\nようやく見えてきた我が家を見上げる。",
+      "en": "Brushing the cherry blossom petals off my shoulders and\nhead, I look up at my home as it gets closer.",
+      "text": "Brushing the cherry blossom petals off my shoulders and\nhead, I look up at my home as it gets closer."
+    },
+    {
+      "offset": 239,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ベッドが恋しいなぁ」",
+      "en": "\"I wish I were in bed now.\"",
+      "text": "\"I wish I were in bed now.\""
+    },
+    {
+      "offset": 268,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぽかぽか。",
+      "en": "Nice and warm.",
+      "text": "Nice and warm."
+    },
+    {
+      "offset": 283,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "空気はいい具合に暖かいし、風も気持ちいい。",
+      "en": "The air is comfortably warm and there's a nice gentle breeze\nblowing.",
+      "text": "The air is comfortably warm and there's a nice gentle breeze\nblowing."
+    },
+    {
+      "offset": 330,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "おまけに、家の玄関の前でさくらがお怒りのご\n様子で立っている。",
+      "en": "And what's more, Sakura's standing on the porch with an\nangry look.",
+      "text": "And what's more, Sakura's standing on the porch with an\nangry look."
+    },
+    {
+      "offset": 398,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……なにやってるんだお前？」",
+      "en": "\"What are you doing here?\"",
+      "text": "\"What are you doing here?\""
+    },
+    {
+      "offset": 435,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鞄をかつぎなおして見下ろす。",
+      "en": "I put my bag over my shoulder again and look down at her.",
+      "text": "I put my bag over my shoulder again and look down at her."
+    },
+    {
+      "offset": 517,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「お兄ちゃんを待ってたんだよ」",
+      "en": "\"I've been waiting for you, oniichan.\"",
+      "text": "\"I've been waiting for you, oniichan.\""
+    },
+    {
+      "offset": 554,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「俺をわざわざ？」",
+      "en": "\"What for?\"",
+      "text": "\"What for?\""
+    },
+    {
+      "offset": 579,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺自身が禁止しておいてなんだが、窓から入っ\nてくればいいのにと思う。",
+      "en": "Even though I told her not to, I wonder why she didn't enter\nthe house through the window.",
+      "text": "Even though I told her not to, I wonder why she didn't enter\nthe house through the window."
+    },
+    {
+      "offset": 653,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どこか行きたいところでもあるのか？」",
+      "en": "\"Do you have anywhere you want to go?\"",
+      "text": "\"Do you have anywhere you want to go?\""
+    },
+    {
+      "offset": 728,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……ボクはお兄ちゃんの部屋に行きたいんだ\n　よ」",
+      "en": "\"I want to go to your room.\"",
+      "text": "\"I want to go to your room.\""
+    },
+    {
+      "offset": 784,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……殺し文句やな」",
+      "en": "\"That's incriminating, isn't it?\"",
+      "text": "\"That's incriminating, isn't it?\""
+    },
+    {
+      "offset": 841,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゃ？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 860,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「なんでもない」",
+      "en": "\"Nothing.\"",
+      "text": "\"Nothing.\""
+    },
+    {
+      "offset": 895,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そっぽを向きつつ、ポケットから家の鍵をとり\nだす。",
+      "en": "Looking the other way, I take the house key from my pocket.",
+      "text": "Looking the other way, I take the house key from my pocket."
+    },
+    {
+      "offset": 964,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あにゅう〜」",
+      "en": "\"Mmm...\"",
+      "text": "\"Mmm...\""
+    },
+    {
+      "offset": 985,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1004,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "腰元にへばりついて俺を家に帰させようとしない\n不思議な物体がいる。",
+      "en": "There's a strange creature clinging around my waist, not\nletting me go inside my house.",
+      "text": "There's a strange creature clinging around my waist, not\nletting me go inside my house."
+    },
+    {
+      "offset": 1076,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「だから、なんの用事だお前は？」",
+      "en": "\"Why the heck are you here?\"",
+      "text": "\"Why the heck are you here?\""
+    },
+    {
+      "offset": 1150,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「これだよコレ！」",
+      "en": "\"Look at THIS!\"",
+      "text": "\"Look at THIS!\""
+    },
+    {
+      "offset": 1175,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらがビシィ、と札をかざす。",
+      "en": "Sakura holds up a piece of paper.",
+      "text": "Sakura holds up a piece of paper."
+    },
+    {
+      "offset": 1212,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「魔法少女ごっこか？　はにゃ〜ん言って見ろ」",
+      "en": "\"Are you playing a magical girl? Say Haann~\"",
+      "text": "\"Are you playing a magical girl? Say Haann~\""
+    },
+    {
+      "offset": 1293,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……はにゃ〜ん？」",
+      "en": "\"Haann~?\"",
+      "text": "\"Haann~?\""
+    },
+    {
+      "offset": 1320,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「意気込みが足りないな」",
+      "en": "\"You have to be more enthusiastic than that.\"",
+      "text": "\"You have to be more enthusiastic than that.\""
+    },
+    {
+      "offset": 1381,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「意気込みって……うーにゅ」",
+      "en": "\"What do you mean by enthusiastic? Mmmm.\"",
+      "text": "\"What do you mean by enthusiastic? Mmmm.\""
+    },
+    {
+      "offset": 1416,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ん？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 1431,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ようやく、さくらの手の中の札をよく見た。",
+      "en": "I can finally read the note in her hand.",
+      "text": "I can finally read the note in her hand."
+    },
+    {
+      "offset": 1476,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『悪霊退散』",
+      "en": "'EXPEL EVIL SPIRITS'",
+      "text": "'EXPEL EVIL SPIRITS'"
+    },
+    {
+      "offset": 1493,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらは魔法少女に見せかけて巫女さんだった\n――もとい、昨日の夜に冗談で貼ったやつだ。",
+      "en": "Sakura pretends to be a priestess acting like a magical girl\n- But anyway. I actually made that note as a joke last\nnight.",
+      "text": "Sakura pretends to be a priestess acting like a magical girl\n- But anyway. I actually made that note as a joke last\nnight."
+    },
+    {
+      "offset": 1598,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「これはどういう意味かな？」",
+      "en": "\"Can you explain what it means?\"",
+      "text": "\"Can you explain what it means?\""
+    },
+    {
+      "offset": 1633,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あぁ……なんだ……俺の部屋に地縛霊が引っ\n　越してきたから巫女さんが貼ってったんだ」",
+      "en": "\"Oh, I see. A priestess put it up for me because an evil\ndemon moved into my room.\"",
+      "text": "\"Oh, I see. A priestess put it up for me because an evil\ndemon moved into my room.\""
+    },
+    {
+      "offset": 1755,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1774,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1818,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ふみ〜〜〜〜〜ん」",
+      "en": "\"Waaaah~~~\"",
+      "text": "\"Waaaah~~~\""
+    },
+    {
+      "offset": 1845,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "おかしな泣き声を上げながら、さくらが自分の\n家に逃げ出してしまう。",
+      "en": "Crying in a strange way, Sakura runs off to her house.",
+      "text": "Crying in a strange way, Sakura runs off to her house."
+    },
+    {
+      "offset": 1917,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1936,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぽりぽり。",
+      "en": "Scratch, scratch.",
+      "text": "Scratch, scratch."
+    },
+    {
+      "offset": 1953,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……かったりぃなぁ」",
+      "en": "\"What a pain...\"",
+      "text": "\"What a pain...\""
+    },
+    {
+      "offset": 2008,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "部屋に戻った俺が一番最初にしたことは、鞄を\n投げて紙切れとマジックを用意することだった。",
+      "en": "The first thing I did when I got to my room is drop my bag\nand get a piece of paper and a marker pen.",
+      "text": "The first thing I did when I got to my room is drop my bag\nand get a piece of paper and a marker pen."
+    },
+    {
+      "offset": 2100,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その後、部屋の窓に“千客万来”と書かれた紙\nを貼っつけておいたのは音夢には秘密だ。",
+      "en": "After that, I put up a piece of paper on the window in my\nroom that says 'A SUCCESSION OF VISITORS'. But I'd better\nkeep it a secret from Nemu.",
+      "text": "After that, I put up a piece of paper on the window in my\nroom that says 'A SUCCESSION OF VISITORS'. But I'd better\nkeep it a secret from Nemu."
+    },
+    {
+      "offset": 2315,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆悪霊退散の札◆",
+      "en": "◆A tag to expel evil spirits◆",
+      "text": "◆A tag to expel evil spirits◆"
+    },
+    {
+      "offset": 2362,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "前日の夜にはりつけた“悪霊退散”の札を手に\n怒れるさくらに詰め寄られるが、その押しも弱\nく、すぐに泣きながら逃げ帰ってしまった。",
+      "en": "Sakura was very upset and confronted me when she saw the\nnote I put up last night which says 'EXPEL EVIL SPIRITS'.\nBut she ended up running home crying.",
+      "text": "Sakura was very upset and confronted me when she saw the\nnote I put up last night which says 'EXPEL EVIL SPIRITS'.\nBut she ended up running home crying."
+    },
+    {
+      "offset": 2493,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "仕方なく“先客万来”と書いた札を、今度は貼\nり付ける俺だった。",
+      "en": "So I had to put up a piece of paper that says 'A SUCCESSION\nOF VISITORS' instead.",
+      "text": "So I had to put up a piece of paper that says 'A SUCCESSION\nOF VISITORS' instead."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "507": "Sakura",
+    "718": "Sakura",
+    "831": "Sakura",
+    "954": "Sakura",
+    "1140": "Sakura",
+    "1283": "Sakura",
+    "1371": "Sakura",
+    "1588": "Sakura",
+    "1745": "Sakura",
+    "1808": "Sakura"
+  }
+}

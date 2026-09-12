@@ -1,0 +1,787 @@
+{
+  "scene": "script_0494.obj",
+  "dialogues": [
+    {
+      "offset": 205,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「終わった……」",
+      "en": "\"It's over...\"",
+      "text": "\"It's over...\""
+    },
+    {
+      "offset": 228,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「燃え尽きちまったよ……真っ白な灰に……」",
+      "en": "\"Burnt up... into pieces of ash...\"",
+      "text": "\"Burnt up... into pieces of ash...\""
+    },
+    {
+      "offset": 277,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "卒業証書が入った筒を、ぐっと握りしめる。",
+      "en": "I gripped my graduation certificate tightly.",
+      "text": "I gripped my graduation certificate tightly."
+    },
+    {
+      "offset": 324,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺の素晴らしき３年間よ……さらば……」",
+      "en": "\"My wonderful three years... farewell...\"",
+      "text": "\"My wonderful three years... farewell...\""
+    },
+    {
+      "offset": 371,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 392,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「実感が湧かねえぞコノヤロウ」",
+      "en": "\"Show your true feelings already, you bastard.\"",
+      "text": "\"Show your true feelings already, you bastard.\""
+    },
+    {
+      "offset": 439,
+      "speaker": "Male Student",
+      "speaker_jp": "男子学生",
+      "jp": "「え？　な、何ですか、急に……」",
+      "en": "\"W, what are you talking about?\"",
+      "text": "\"W, what are you talking about?\""
+    },
+    {
+      "offset": 483,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "たまたま通りかかったモヤシのような男子学生\nに、｛ししど／宍戸｝｛ばいけん／梅軒｝の鎌のごとく絡みつく。",
+      "en": "A passing student somehow got entwined in my monologue, like\na poor sap into Shishido Baiken's scythe.",
+      "text": "A passing student somehow got entwined in my monologue, like\na poor sap into Shishido Baiken's scythe."
+    },
+    {
+      "offset": 593,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 612,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぱたぱたと走り去る背中を見つめながら、思わ\nずため息をもらした。",
+      "en": "As I watched the back of the guy running away, I gave a\nsigh.",
+      "text": "As I watched the back of the guy running away, I gave a\nsigh."
+    },
+    {
+      "offset": 680,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それなりに楽しかった３年間。",
+      "en": "It was an enoyable three years.",
+      "text": "It was an enoyable three years."
+    },
+    {
+      "offset": 713,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それなりの量の思い出が胸に去来したりして、\n思わず｛まぶた／瞼｝が熱くなったりもした。",
+      "en": "Thinking about all the memories I have of this time was\nenough to get my eyebrows heated up.",
+      "text": "Thinking about all the memories I have of this time was\nenough to get my eyebrows heated up."
+    },
+    {
+      "offset": 805,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「でも……」",
+      "en": "\"But...\"",
+      "text": "\"But...\""
+    },
+    {
+      "offset": 824,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "これからまたまた、見飽きた風見学園にお世話\nになるのか……。",
+      "en": "I'd still have to stare at this scenery of Kazami Academy\nagain soon...",
+      "text": "I'd still have to stare at this scenery of Kazami Academy\nagain soon..."
+    },
+    {
+      "offset": 890,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「やるせねえなあ……」",
+      "en": "\"It's despressing...\"",
+      "text": "\"It's despressing...\""
+    },
+    {
+      "offset": 932,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「やるせないですよねえ……」",
+      "en": "\"Yeah it is...\"",
+      "text": "\"Yeah it is...\""
+    },
+    {
+      "offset": 967,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ぬおっ」",
+      "en": "\"Wha?!\"",
+      "text": "\"Wha?!\""
+    },
+    {
+      "offset": 1019,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「３年間、お疲れさまでした。朝倉君」",
+      "en": "\"Congratulations for the three years, Asakura-kun.\"",
+      "text": "\"Congratulations for the three years, Asakura-kun.\""
+    },
+    {
+      "offset": 1062,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「お、おう。いや、ことりもお疲れさま」",
+      "en": "\"O, oh. Yes, you too.\"",
+      "text": "\"O, oh. Yes, you too.\""
+    },
+    {
+      "offset": 1107,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "唐突に現れたことりに、何とか｛どうき／動悸｝を整える。",
+      "en": "At Kotori's sudden appearance, my pulse suddenly stared\nracing.",
+      "text": "At Kotori's sudden appearance, my pulse suddenly stared\nracing."
+    },
+    {
+      "offset": 1168,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「んでも、やるせないって何が？　せっかくの、\n　卒業式＆卒パだってのに」",
+      "en": "\"Anyway, what's depressing? It IS the long-awaited\ngraduation ceremony and party...\"",
+      "text": "\"Anyway, what's depressing? It IS the long-awaited\ngraduation ceremony and party...\""
+    },
+    {
+      "offset": 1246,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "工事現場のライトのように、証書の入った筒を\nぱたぱた振る。",
+      "en": "Pointing to the work being done outside using my graduation\ncertificate.",
+      "text": "Pointing to the work being done outside using my graduation\ncertificate."
+    },
+    {
+      "offset": 1340,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「だって、ほら──」",
+      "en": "\"Because of that--\"",
+      "text": "\"Because of that--\""
+    },
+    {
+      "offset": 1367,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "嫌でも視線がぶつかる、廊下でたむろする学生\n達を指差す。",
+      "en": "With a depressed look on her face, she pointed to several\nstudents loitering in a corridor.",
+      "text": "With a depressed look on her face, she pointed to several\nstudents loitering in a corridor."
+    },
+    {
+      "offset": 1442,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「さっきまでシクシク〜だった在学生が、今は\n　もう笑ってるんだもん」",
+      "en": "\"Those students who were shedding so many tears just now are\nlaughing again.\"",
+      "text": "\"Those students who were shedding so many tears just now are\nlaughing again.\""
+    },
+    {
+      "offset": 1516,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ああ……泣いたカラスがもう笑うってやつだ\n　な」",
+      "en": "\"Ahh, when those who exhaust all their tears and start\nlaughing?\"",
+      "text": "\"Ahh, when those who exhaust all their tears and start\nlaughing?\""
+    },
+    {
+      "offset": 1602,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そうそう、それです」",
+      "en": "\"Yes yes, that.\"",
+      "text": "\"Yes yes, that.\""
+    },
+    {
+      "offset": 1631,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 1650,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わず、ことりの顔に見入ってしまう。そんな\n言葉が口を衝いて出た理由が、瞬時に分かった。",
+      "en": "I looked at Kotori bewildered for a moment, then in an\ninstant, I realized what she was trying to say.",
+      "text": "I looked at Kotori bewildered for a moment, then in an\ninstant, I realized what she was trying to say."
+    },
+    {
+      "offset": 1742,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "泣いていた子ども──。",
+      "en": "When a kid crys--",
+      "text": "When a kid crys--"
+    },
+    {
+      "offset": 1769,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "和菓子を食べて、すぐに笑った──。",
+      "en": "Then right after you give him sweets to eat, he laughs\nagain--.",
+      "text": "Then right after you give him sweets to eat, he laughs\nagain--."
+    },
+    {
+      "offset": 1840,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ねえ、朝倉君」",
+      "en": "\"Hey, Asakura-kun?\"",
+      "text": "\"Hey, Asakura-kun?\""
+    },
+    {
+      "offset": 1863,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ん？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 1878,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "凧のように飛び立っていた意識を、すぐさま巻\nき戻す。",
+      "en": "My mind, which was flying like a kite, quickly returned back\nto earth.",
+      "text": "My mind, which was flying like a kite, quickly returned back\nto earth."
+    },
+    {
+      "offset": 1949,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「もうすぐですよ」",
+      "en": "\"It's coming soon.\"",
+      "text": "\"It's coming soon.\""
+    },
+    {
+      "offset": 1974,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……え？　そうだっけか？」",
+      "en": "\"...Eh? It is?\"",
+      "text": "\"...Eh? It is?\""
+    },
+    {
+      "offset": 2009,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "パンフを開く。確か、ことり達の演奏は、もっ\nと後だったはず……。",
+      "en": "I opened the pamphlet for the graduation party. I thought\nthe trio's performance was quite a bit later.",
+      "text": "I opened the pamphlet for the graduation party. I thought\nthe trio's performance was quite a bit later."
+    },
+    {
+      "offset": 2109,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「違います。手芸部主催の──」",
+      "en": "\"No no. I mean the handicraft club's--\"",
+      "text": "\"No no. I mean the handicraft club's--\""
+    },
+    {
+      "offset": 2179,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ああ、ここに居たんですね。兄さんに、白河\n　さ──ことり」",
+      "en": "\"Ahh, here you are. Brother, and Shirkawa-sa...Kotori.\"",
+      "text": "\"Ahh, here you are. Brother, and Shirkawa-sa...Kotori.\""
+    },
+    {
+      "offset": 2294,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「卒業おめでとさんです♪　音夢」",
+      "en": "\"Congratulations on your graduation, Nemu♪\"",
+      "text": "\"Congratulations on your graduation, Nemu♪\""
+    },
+    {
+      "offset": 2361,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、うん、おめでとうございます」",
+      "en": "\"Ah, uhn, congratulations to you as well.\"",
+      "text": "\"Ah, uhn, congratulations to you as well.\""
+    },
+    {
+      "offset": 2402,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「どうかしたのか、音夢？　俺は何もやってな\n　いぞ？」",
+      "en": "\"What's up, Nemu? What've I done now?\"",
+      "text": "\"What's up, Nemu? What've I done now?\""
+    },
+    {
+      "offset": 2490,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そういう、犯罪者と刑事みたいな応答はしな\n　いでくれます？　せっかくの、晴れの卒業式\n　だというのに……」",
+      "en": "\"Why are you answering like a criminal? Don't make me worry\ntoo much about the graduation party events now...\"",
+      "text": "\"Why are you answering like a criminal? Don't make me worry\ntoo much about the graduation party events now...\""
+    },
+    {
+      "offset": 2603,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「分かった分かった」",
+      "en": "\"Okay, okay.\"",
+      "text": "\"Okay, okay.\""
+    },
+    {
+      "offset": 2630,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうどうとなだめる。",
+      "en": "I tried to pacify her.",
+      "text": "I tried to pacify her."
+    },
+    {
+      "offset": 2657,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、何よ？」",
+      "en": "\"So, what's wrong?\"",
+      "text": "\"So, what's wrong?\""
+    },
+    {
+      "offset": 2706,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さん、その……聞いてないんですか？」",
+      "en": "\"Brother, have you... heard lately?\"",
+      "text": "\"Brother, have you... heard lately?\""
+    },
+    {
+      "offset": 2753,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちらちらとことりを窺いながら、音夢が言う。",
+      "en": "Taking a short glance at Kotori, she continued.",
+      "text": "Taking a short glance at Kotori, she continued."
+    },
+    {
+      "offset": 2813,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「白──ことりが、手芸部主催のコンテストに\n　出るって……」",
+      "en": "\"Shi--Kotori's entering the contest, sponsored by the\nhandicrafts club...\"",
+      "text": "\"Shi--Kotori's entering the contest, sponsored by the\nhandicrafts club...\""
+    },
+    {
+      "offset": 2879,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「おお、さすがに情報が早いな。さすがは風紀\n　委員──」",
+      "en": "\"Ooh, your sources are quick. Just as expected from the\ndiscplinary committee--\"",
+      "text": "\"Ooh, your sources are quick. Just as expected from the\ndiscplinary committee--\""
+    },
+    {
+      "offset": 2941,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「って、まさか、お前も出るのか？」",
+      "en": "\"...Wait a minute, don't tell me you're entering too?\"",
+      "text": "\"...Wait a minute, don't tell me you're entering too?\""
+    },
+    {
+      "offset": 3010,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「出ません」",
+      "en": "\"Absolutely not.\"",
+      "text": "\"Absolutely not.\""
+    },
+    {
+      "offset": 3029,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛みけん／眉間｝を押さえつつ、音夢が即答する。",
+      "en": "Her forehead wrinkling, Nemu responded in the negative\nimmediately.",
+      "text": "Her forehead wrinkling, Nemu responded in the negative\nimmediately."
+    },
+    {
+      "offset": 3110,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「万難を排して、回避しましたからね。ほんと\n　に、あんな恥ずかしい事……」",
+      "en": "\"No way, not ever again, over my dead body. Not that\nembarassing thing...\"",
+      "text": "\"No way, not ever again, over my dead body. Not that\nembarassing thing...\""
+    },
+    {
+      "offset": 3190,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3209,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「クリスマスのアレがそんなに辛かったのかぁ、\n　音夢ぅ」",
+      "en": "\"...I didn't know you felt that badly about that Christmas,\nNemu.\"",
+      "text": "\"...I didn't know you felt that badly about that Christmas,\nNemu.\""
+    },
+    {
+      "offset": 3299,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……一人部外者顔して、肩を叩かないでいた\n　だけます？」",
+      "en": "\"...Of course an outsider wouldn't be able to, and shouldn't\npretend to pat my shoulder and understand.\"",
+      "text": "\"...Of course an outsider wouldn't be able to, and shouldn't\npretend to pat my shoulder and understand.\""
+    },
+    {
+      "offset": 3363,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "額をぴくぴくさせながら、手の甲をつねる。",
+      "en": "She wiggled my hand off her shoulder.",
+      "text": "She wiggled my hand off her shoulder."
+    },
+    {
+      "offset": 3410,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……痛い」",
+      "en": "\"...Oof.\"",
+      "text": "\"...Oof.\""
+    },
+    {
+      "offset": 3457,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「それで……いいんですか？　コンテスト……」",
+      "en": "\"But anyway... is it really okay to enter the contest?\"",
+      "text": "\"But anyway... is it really okay to enter the contest?\""
+    },
+    {
+      "offset": 3508,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "懸念に満ちた視線を、俺とことりと、等分に送っ\nてきた。",
+      "en": "There was a surprising amount of worry on her face as she\nconstantly switched her gaze between the two of us.",
+      "text": "There was a surprising amount of worry on her face as she\nconstantly switched her gaze between the two of us."
+    },
+    {
+      "offset": 3598,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「仕方ないんです。これは、交換条件なんで」",
+      "en": "\"It can't be helped. This was the bargaining chip.\"",
+      "text": "\"It can't be helped. This was the bargaining chip.\""
+    },
+    {
+      "offset": 3675,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「交換条件？」",
+      "en": "\"Bargaining chip?\"",
+      "text": "\"Bargaining chip?\""
+    },
+    {
+      "offset": 3722,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりは事情を説明した。",
+      "en": "Kotori explained the situation.",
+      "text": "Kotori explained the situation."
+    },
+    {
+      "offset": 3807,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「衣装を……」",
+      "en": "\"So it's about the clothes...\"",
+      "text": "\"So it's about the clothes...\""
+    },
+    {
+      "offset": 3841,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「しゃくに障りますけどね。でも、フィフティ\n　フィフティです」",
+      "en": "\"It's irritating. But in the end, it's about give and take,\n50-50.\"",
+      "text": "\"It's irritating. But in the end, it's about give and take,\n50-50.\""
+    },
+    {
+      "offset": 3920,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そういう事情があったんだったら……確かに、\n　仕方ないですね……」",
+      "en": "\"If that's how it is... I guess there's really no choice.\"",
+      "text": "\"If that's how it is... I guess there's really no choice.\""
+    },
+    {
+      "offset": 4024,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「でも、ありがとね、音夢」",
+      "en": "\"Though, thank you Nemu.\"",
+      "text": "\"Though, thank you Nemu.\""
+    },
+    {
+      "offset": 4068,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え？」",
+      "en": "\"Eh?\"",
+      "text": "\"Eh?\""
+    },
+    {
+      "offset": 4113,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「心配してくれて」",
+      "en": "\"For your concern.\"",
+      "text": "\"For your concern.\""
+    },
+    {
+      "offset": 4177,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え、あ、いや、私はその……」",
+      "en": "\"Eh, ah, no, I wasn't..\"",
+      "text": "\"Eh, ah, no, I wasn't..\""
+    },
+    {
+      "offset": 4225,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そうだっ。私、やりかけの仕事があったんで\n　す。危ない危ない、忘れるところだった……」",
+      "en": "\"Oh, I almost forgot! I have unfinished business to settle!\nI have to go now, busy busy...\"",
+      "text": "\"Oh, I almost forgot! I have unfinished business to settle!\nI have to go now, busy busy...\""
+    },
+    {
+      "offset": 4319,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "おいおい音夢よ、棒読みだぜ？",
+      "en": "Oyoy Nemu, you sound like you're reading off a script.",
+      "text": "Oyoy Nemu, you sound like you're reading off a script."
+    },
+    {
+      "offset": 4385,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そ、それじゃ、失礼しますね。ふたりとも」",
+      "en": "\"I, if you will, excuse me, both of you.\"",
+      "text": "\"I, if you will, excuse me, both of you.\""
+    },
+    {
+      "offset": 4443,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 4462,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何とも分かりやすい少女は、ぱたぱたと廊下を\n走り去っていった。",
+      "en": "As always, the easy-to-read girl flusteredly ran down the\ncorridor.",
+      "text": "As always, the easy-to-read girl flusteredly ran down the\ncorridor."
+    },
+    {
+      "offset": 4560,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……いい人ですよね」",
+      "en": "\"...She's a good person.\"",
+      "text": "\"...She's a good person.\""
+    },
+    {
+      "offset": 4589,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな背中を見遣りながら、ことりが相好を崩\nす。",
+      "en": "Watching her back, Kotori smiled.",
+      "text": "Watching her back, Kotori smiled."
+    },
+    {
+      "offset": 4643,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まあ、な」",
+      "en": "\"Pretty much.\"",
+      "text": "\"Pretty much.\""
+    },
+    {
+      "offset": 4662,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺も同じようにして見つめ、目尻が下がってし\nまうのを抑える事が出来ない。",
+      "en": "I looked at Nemu's back as well, surpressing the urge to\nsneak a peek sideways.",
+      "text": "I looked at Nemu's back as well, surpressing the urge to\nsneak a peek sideways."
+    },
+    {
+      "offset": 4740,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……ま、自慢の妹だよ」",
+      "en": "\"...Well, I'm proud to have her as my sister.\"",
+      "text": "\"...Well, I'm proud to have her as my sister.\""
+    },
+    {
+      "offset": 4771,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "せっかくの卒業式だ。それくらい言っても、バ\nチは当たらないだろう。",
+      "en": "It is a graduation now. If I wasn't honest any other time,\nnow would be one where I should.",
+      "text": "It is a graduation now. If I wasn't honest any other time,\nnow would be one where I should."
+    },
+    {
+      "offset": 4873,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ふふ、少しだけ、妬けちゃいます」",
+      "en": "\"Hehe, I'm a little envious.\"",
+      "text": "\"Hehe, I'm a little envious.\""
+    },
+    {
+      "offset": 4914,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 4933,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「いや、盛大に妬いてくれていいぜ？」",
+      "en": "\"Aww, you mean it's not envy on a grand scale?\"",
+      "text": "\"Aww, you mean it's not envy on a grand scale?\""
+    },
+    {
+      "offset": 5006,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「それは遠慮します」",
+      "en": "\"I have some restraint, thank you.\"",
+      "text": "\"I have some restraint, thank you.\""
+    },
+    {
+      "offset": 5063,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あっ、もう時間ですよ。私達も行きましょ！」",
+      "en": "\"Ah, it's already time! Let's go!\"",
+      "text": "\"Ah, it's already time! Let's go!\""
+    },
+    {
+      "offset": 5114,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「え？　お、俺も？」",
+      "en": "\"Eh? M, me as well?\"",
+      "text": "\"Eh? M, me as well?\""
+    },
+    {
+      "offset": 5141,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりはびゅしっと親指を立てた。",
+      "en": "Kotori stuck her thumb out.",
+      "text": "Kotori stuck her thumb out."
+    },
+    {
+      "offset": 5193,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「決まってます」",
+      "en": "\"Of course!\"",
+      "text": "\"Of course!\""
+    },
+    {
+      "offset": 5334,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆卒業◆",
+      "en": "◆Graduation◆",
+      "text": "◆Graduation◆"
+    },
+    {
+      "offset": 5371,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "卒業である。",
+      "en": "The graduatation had came.",
+      "text": "The graduatation had came."
+    },
+    {
+      "offset": 5388,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、ことりと出会がやって来た。例の手芸部主\n催のコンテストはもうすぐで、俺にも見に来て\n欲しいと言うのだが……。",
+      "en": "I came across Kotori and Nemu along the way. The former\nreminded me that the contest was coming soon, and wanted me\nto go watch it...",
+      "text": "I came across Kotori and Nemu along the way. The former\nreminded me that the contest was coming soon, and wanted me\nto go watch it..."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "427": "Male Student",
+    "922": "Kotori",
+    "1009": "Kotori",
+    "1330": "Kotori",
+    "1432": "Kotori",
+    "1592": "Kotori",
+    "1830": "Kotori",
+    "1939": "Kotori",
+    "2099": "Kotori",
+    "2171": "Nemu",
+    "2284": "Kotori",
+    "2353": "Nemu",
+    "2482": "Nemu",
+    "2698": "Nemu",
+    "2805": "Nemu",
+    "3002": "Nemu",
+    "3102": "Nemu",
+    "3291": "Nemu",
+    "3449": "Nemu",
+    "3588": "Kotori",
+    "3667": "Nemu",
+    "3799": "Nemu",
+    "3831": "Kotori",
+    "3912": "Nemu",
+    "4014": "Kotori",
+    "4060": "Nemu",
+    "4103": "Kotori",
+    "4169": "Nemu",
+    "4217": "Nemu",
+    "4377": "Nemu",
+    "4550": "Kotori",
+    "4863": "Kotori",
+    "4996": "Kotori",
+    "5053": "Kotori",
+    "5183": "Kotori"
+  }
+}

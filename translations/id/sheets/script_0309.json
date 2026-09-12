@@ -1,0 +1,828 @@
+{
+  "scene": "script_0309.obj",
+  "dialogues": [
+    {
+      "offset": 164,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「おや、朝倉。いいところにいるじゃないか」",
+      "en": "\"Ooh, Asakura. Right place, right time.\"",
+      "text": "\"Ooh, Asakura. Right place, right time.\""
+    },
+    {
+      "offset": 213,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「そ、その声は……」",
+      "en": "\"T, that voice...\"",
+      "text": "\"T, that voice...\""
+    },
+    {
+      "offset": 240,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "物理教室での授業の帰りに、あまり聞きたくな\nい声に呼び止められた。",
+      "en": "Returning to the physics classroom, a voice I didn't want to\nhear, stopped me in my tracks.",
+      "text": "Returning to the physics classroom, a voice I didn't want to\nhear, stopped me in my tracks."
+    },
+    {
+      "offset": 334,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「これは、白河先生じゃないですか？　こんち\n　またご機嫌麗しゅう……」",
+      "en": "\"Ahh, if it isn't Shirakawa-sensei? You're looking even more\nbeautiful than usual.\"",
+      "text": "\"Ahh, if it isn't Shirakawa-sensei? You're looking even more\nbeautiful than usual.\""
+    },
+    {
+      "offset": 436,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「思ってもない台詞なんか口にしなくていいよ。\n　言うだけ無駄だっての」",
+      "en": "\"Don't bother flattering me. I can tell that's not what\nyou're thinking.\"",
+      "text": "\"Don't bother flattering me. I can tell that's not what\nyou're thinking.\""
+    },
+    {
+      "offset": 512,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「で、何の用ッスか？」",
+      "en": "\"Guh... what do you need me for?\"",
+      "text": "\"Guh... what do you need me for?\""
+    },
+    {
+      "offset": 567,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ああ、そうそう。この前のテストの点数につ\n　いてちょっと話がしたいと思いましてな」",
+      "en": "\"Ah, right right. I want to talk to you about your score for\nthe recent test.\"",
+      "text": "\"Ah, right right. I want to talk to you about your score for\nthe recent test.\""
+    },
+    {
+      "offset": 657,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暦先生が、にやぁとイヤな笑いを浮かべる。",
+      "en": "Koyomi-sensei's smile was frightening.",
+      "text": "Koyomi-sensei's smile was frightening."
+    },
+    {
+      "offset": 704,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「この前のテストって言うと期末テストですな」",
+      "en": "\"By recent tests, you mean the end-of-term exams?\"",
+      "text": "\"By recent tests, you mean the end-of-term exams?\""
+    },
+    {
+      "offset": 764,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「そう。ほら、結構面白い点数だったろ？　ど\n　うしたらあんな点数が取れるのか、教えてほ\n　しくてさ」",
+      "en": "\"Correct. It's a very... amazing score, you see? That's why\nI'm so... interested to find out how you managed it.\"",
+      "text": "\"Correct. It's a very... amazing score, you see? That's why\nI'm so... interested to find out how you managed it.\""
+    },
+    {
+      "offset": 869,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暦先生は、とたんに悪鬼のような表情をし、生\n物準備室まで来るよう言い渡された。",
+      "en": "Koyomi-sensei, looking like the spitting image of a devil,\ngestured me into the biology room.",
+      "text": "Koyomi-sensei, looking like the spitting image of a devil,\ngestured me into the biology room."
+    },
+    {
+      "offset": 951,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "逮捕状はあるのかと言いたいところだが、たぶ\nん、あたしが法律だ！　と返されるだろう。",
+      "en": "I was about to protest that it felt like I was getting\narrested, but then, she'd probably reply with \"I AM the\nlaw!\".",
+      "text": "I was about to protest that it felt like I was getting\narrested, but then, she'd probably reply with \"I AM the\nlaw!\"."
+    },
+    {
+      "offset": 1127,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「あのさぁ、７点ってなんだよ。７点て」",
+      "en": "\"You got 7 marks. 7 out of friggin 100.\"",
+      "text": "\"You got 7 marks. 7 out of friggin 100.\""
+    },
+    {
+      "offset": 1172,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「いやぁ、ほら縁起がいいと思って」",
+      "en": "\"H, hey, 7 is a lucky number, isn't it?\"",
+      "text": "\"H, hey, 7 is a lucky number, isn't it?\""
+    },
+    {
+      "offset": 1239,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「じゃあなにかい？　アンタは狙ってこの点数\n　を取ったと言いたい訳だ」",
+      "en": "\"Oh really? Are you trying to say you were aiming to get 7\nmarks?\"",
+      "text": "\"Oh really? Are you trying to say you were aiming to get 7\nmarks?\""
+    },
+    {
+      "offset": 1315,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「まあ、そういうこと……ですかね」",
+      "en": "\"Well, you could... say that.\"",
+      "text": "\"Well, you could... say that.\""
+    },
+    {
+      "offset": 1382,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ふざけんじゃないっての……。そんなこと言\n　うなら、７７点取れっての」",
+      "en": "\"Don't try to fool me... if that was true, you'd have gone\nfor 77 marks at least.\"",
+      "text": "\"Don't try to fool me... if that was true, you'd have gone\nfor 77 marks at least.\""
+    },
+    {
+      "offset": 1460,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「いや、ほら、潔さってあるじゃないですか」",
+      "en": "\"But, well, that isn't a manly score!\"",
+      "text": "\"But, well, that isn't a manly score!\""
+    },
+    {
+      "offset": 1535,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「潔さねぇ。じゃあ、今度は狙って１００点取っ\n　もらいたいもんだねぇ」",
+      "en": "\"Manly, huh. Do you know what I think is manly? 100 marks.\nYou'd be aiming for that next time, right?\"",
+      "text": "\"Manly, huh. Do you know what I think is manly? 100 marks.\nYou'd be aiming for that next time, right?\""
+    },
+    {
+      "offset": 1611,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「いやぁ、ははは……」",
+      "en": "\"W, well, ahahaha....\"",
+      "text": "\"W, well, ahahaha....\""
+    },
+    {
+      "offset": 1666,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「その方がよっぽど縁起がいいと思うよ」",
+      "en": "\"And I'd say that number is luckier than any I can think\nof.\"",
+      "text": "\"And I'd say that number is luckier than any I can think\nof.\""
+    },
+    {
+      "offset": 1711,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「そ、そうですね……」",
+      "en": "\"T, that's true...\"",
+      "text": "\"T, that's true...\""
+    },
+    {
+      "offset": 1740,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暦先生は、ニヤリと笑って、座ったまま俺の腹\nにパンチを入れてきた。",
+      "en": "I was reeling from the verbal punches she was giving me,\nwhile she simply sat there and grinned.",
+      "text": "I was reeling from the verbal punches she was giving me,\nwhile she simply sat there and grinned."
+    },
+    {
+      "offset": 1815,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──コンコン",
+      "en": "--*knock knock*",
+      "text": "--*knock knock*"
+    },
+    {
+      "offset": 1860,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「はぁい、空いてるよ」",
+      "en": "\"It's not locked, come in.\"",
+      "text": "\"It's not locked, come in.\""
+    },
+    {
+      "offset": 1898,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "カラカラと扉が開き、２年生の女の子が入って\nきた。",
+      "en": "The rusty door squeaked open, revealing a 2nd-year girl.",
+      "text": "The rusty door squeaked open, revealing a 2nd-year girl."
+    },
+    {
+      "offset": 1952,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "よく見ると、それは、",
+      "en": "Taking a closer look, it was,",
+      "text": "Taking a closer look, it was,"
+    },
+    {
+      "offset": 2024,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「おや、月城じゃないか。どうしたんだい？」",
+      "en": "\"Ah, Tsukishiro. Do you need something?\"",
+      "text": "\"Ah, Tsukishiro. Do you need something?\""
+    },
+    {
+      "offset": 2103,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……呼ばれたので」",
+      "en": "\"...You called for me.\"",
+      "text": "\"...You called for me.\""
+    },
+    {
+      "offset": 2156,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「え、ああ、そうか。いつでもいいからおいでっ\n　て言ったんだっけ。ごめんごめん」",
+      "en": "\"Eh, ahh, that's right. I asked you to come when you were\nfree. Sorry, sorry.\"",
+      "text": "\"Eh, ahh, that's right. I asked you to come when you were\nfree. Sorry, sorry.\""
+    },
+    {
+      "offset": 2242,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は準備室に入ると、静かに扉を閉めた。",
+      "en": "Tsukishiro quietly entered the room, closing the door behind\nher.",
+      "text": "Tsukishiro quietly entered the room, closing the door behind\nher."
+    },
+    {
+      "offset": 2315,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「これは……あたしが言うことじゃないかも知\n　れないけど、ちょっと気になったからさ」",
+      "en": "\"This is about... I don't know whether it's my place to be\nsaying this, but I'm worried about it.\"",
+      "text": "\"This is about... I don't know whether it's my place to be\nsaying this, but I'm worried about it.\""
+    },
+    {
+      "offset": 2405,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暦先生は、そう言って軽く咳払いをする。",
+      "en": "Koyomi-sensei cleared her throat lightly.",
+      "text": "Koyomi-sensei cleared her throat lightly."
+    },
+    {
+      "offset": 2476,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「あのさ、お前が大切に持ってるその人形な、\n　大切なのはわかるけれど、授業中もずっと\n　持ったままってのはどうかと思うよ」",
+      "en": "\"Well, Tsukishiro, about that doll... I know it's very\nimportant to you, but you shouldn't be holding it during\nclasses...\"",
+      "text": "\"Well, Tsukishiro, about that doll... I know it's very\nimportant to you, but you shouldn't be holding it during\nclasses...\""
+    },
+    {
+      "offset": 2633,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……大切なんです」",
+      "en": "\"...It's special.\"",
+      "text": "\"...It's special.\""
+    },
+    {
+      "offset": 2686,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「いや、わかるけどさ。学校は遊び場じゃない\n　んだ。その辺のけじめっていうのをつけるべ\n　きだと思うよ」",
+      "en": "\"Yes, I know that. But school isn't the same as a\nplayground. You have to realize the differences between the\ntwo.\"",
+      "text": "\"Yes, I know that. But school isn't the same as a\nplayground. You have to realize the differences between the\ntwo.\""
+    },
+    {
+      "offset": 2808,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……ピロスは、大切だから」",
+      "en": "\"...Piros... is important.\"",
+      "text": "\"...Piros... is important.\""
+    },
+    {
+      "offset": 2869,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「月城……あのな」",
+      "en": "\"Tsukishiro... you know, if...\"",
+      "text": "\"Tsukishiro... you know, if...\""
+    },
+    {
+      "offset": 2894,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「って、まぁまぁ。月城だって、次から気をつ\n　けるって言ってるし」",
+      "en": "\"W, well well. Tsukishiro, what she's trying to say, is to\nbe more careful about that in the future.\"",
+      "text": "\"W, well well. Tsukishiro, what she's trying to say, is to\nbe more careful about that in the future.\""
+    },
+    {
+      "offset": 2992,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「は？　そんなこと、一言も言って……」",
+      "en": "\"Hah? Since when was I...\"",
+      "text": "\"Hah? Since when was I...\""
+    },
+    {
+      "offset": 3054,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ほらほら、月城。気をつけるよな！　気をつ\n　けるっていっとけ。この人は怖い人だ。逆ら\n　うと人体実験の材料にされちまうぞ」",
+      "en": "\"Alright, Tsukishiro, just be careful next time! And hurry\nup out of here. This woman is scary. She'd use you for her\nexperiements...\"",
+      "text": "\"Alright, Tsukishiro, just be careful next time! And hurry\nup out of here. This woman is scary. She'd use you for her\nexperiements...\""
+    },
+    {
+      "offset": 3209,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「朝倉、お前な……」",
+      "en": "\"Asakura, you...\"",
+      "text": "\"Asakura, you...\""
+    },
+    {
+      "offset": 3266,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……気を、つけます」",
+      "en": "\"...I will be careful.\"",
+      "text": "\"...I will be careful.\""
+    },
+    {
+      "offset": 3295,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「ね、先生。月城もああ言ってることだし」",
+      "en": "\"See, sensei. She said it herself.\"",
+      "text": "\"See, sensei. She said it herself.\""
+    },
+    {
+      "offset": 3351,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「……あんたってヤツは」",
+      "en": "\"...You're such a busybody.\"",
+      "text": "\"...You're such a busybody.\""
+    },
+    {
+      "offset": 3382,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暦先生は俺を｛にら／睨｝みつけ、懐のタバコを漁る。",
+      "en": "Glaring at me, Koyomi-sensei started fishing for a cigarette\nin her pockets.",
+      "text": "Glaring at me, Koyomi-sensei started fishing for a cigarette\nin her pockets."
+    },
+    {
+      "offset": 3465,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「月城。もういい。ちゃんと気をつけるんだよ。\n　お前もいつまでも子どもじゃないんだから」",
+      "en": "\"Tsukishiro, that's enough. You can go now. Just be careful\nabout that from now on. You won't be a kid forever.\"",
+      "text": "\"Tsukishiro, that's enough. You can go now. Just be careful\nabout that from now on. You won't be a kid forever.\""
+    },
+    {
+      "offset": 3572,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……はい」",
+      "en": "\"...Yes.\"",
+      "text": "\"...Yes.\""
+    },
+    {
+      "offset": 3591,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城はそう言ってぺこりと頭を下げると、来た\n時と同じように静かに出て行った。",
+      "en": "Upon hearing Koyomi's words, she nodded respectfully, then\nleft as quietly as she came.",
+      "text": "Upon hearing Koyomi's words, she nodded respectfully, then\nleft as quietly as she came."
+    },
+    {
+      "offset": 3703,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、ふぅと胸を撫で下ろす。",
+      "en": "I sighed, rubbing my chest.",
+      "text": "I sighed, rubbing my chest."
+    },
+    {
+      "offset": 3752,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「朝倉、あんたいったい何のつもりだい？」",
+      "en": "\"Asakura, what do you think you were doing there?\"",
+      "text": "\"Asakura, what do you think you were doing there?\""
+    },
+    {
+      "offset": 3799,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "カチリと音がして、部屋中にオイルとタバコの\n匂いが充満する。",
+      "en": "At the sound of the door being shut tightly, the room was\ninstantly overcome with the mixed scent of oil and cigarette\nsmoke.",
+      "text": "At the sound of the door being shut tightly, the room was\ninstantly overcome with the mixed scent of oil and cigarette\nsmoke."
+    },
+    {
+      "offset": 3865,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや、あの人形はダメですよ……。月城にとっ\n　ちゃ、すごく大事なものなんすから」",
+      "en": "\"It's just that, you can't stop her from holding that\ndoll... it's very very important to her.\"",
+      "text": "\"It's just that, you can't stop her from holding that\ndoll... it's very very important to her.\""
+    },
+    {
+      "offset": 3990,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「あたしだって知ってるよ。大事じゃなかった\n　ら、あんなに持ち歩かないだろうよ」",
+      "en": "\"I know that too. If it wasn't so important, she wouldn't be\ncarying it around that much.\"",
+      "text": "\"I know that too. If it wasn't so important, she wouldn't be\ncarying it around that much.\""
+    },
+    {
+      "offset": 4076,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「なら、わざわざ呼び出して、注意することは\n　ないんじゃ……」",
+      "en": "\"Then, you didn't have to expressedly call her just to warn\nher about that...\"",
+      "text": "\"Then, you didn't have to expressedly call her just to warn\nher about that...\""
+    },
+    {
+      "offset": 4170,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「講師があたしだけなら、別にいいけどさ。あ\n　あいうのを毛嫌いする先生もいるんだよ」",
+      "en": "\"If I wasn't a teacher, I wouldn't mind either. I'm not that\nhorrible a sensei, you know.\"",
+      "text": "\"If I wasn't a teacher, I wouldn't mind either. I'm not that\nhorrible a sensei, you know.\""
+    },
+    {
+      "offset": 4260,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "２〜３回、大きく吸うと先生はタバコを灰皿に\n憎々しげに押しつけて消す。",
+      "en": "2~3 clouds of smoke were puffed out from her mouth,\neventually disappearing in the air.",
+      "text": "2~3 clouds of smoke were puffed out from her mouth,\neventually disappearing in the air."
+    },
+    {
+      "offset": 4365,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「あんた、何か知ってるのかい？」",
+      "en": "\"What do you know about this?\"",
+      "text": "\"What do you know about this?\""
+    },
+    {
+      "offset": 4404,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「いや、俺は月城とは、ちょっと話をしたこと\n　がある程度だし……」",
+      "en": "\"Not much, Tsukishiro and I have just talked about that a\nlittle...\"",
+      "text": "\"Not much, Tsukishiro and I have just talked about that a\nlittle...\""
+    },
+    {
+      "offset": 4502,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「じゃ、どうしてあの子の肩を持つんだい？\n　あたしが知ってる範囲だとあんたと月城の\n　接点は無いに等しいんだがね」",
+      "en": "\"Well then, what is her reason exactly for that? My extent\nof knowledge of that is limited to the whats, and not the\nwhys.\"",
+      "text": "\"Well then, what is her reason exactly for that? My extent\nof knowledge of that is limited to the whats, and not the\nwhys.\""
+    },
+    {
+      "offset": 4621,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「……いろいろあるんですよ」",
+      "en": "\"...It's quite complicated.\"",
+      "text": "\"...It's quite complicated.\""
+    },
+    {
+      "offset": 4682,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「そーかい、そーかい。じゃ、あの子になにか\n　あったら、朝倉が責任を持つって事だね」",
+      "en": "\"I see, I see. In that case, if anything happens to her,\nyou'd be responsible.\"",
+      "text": "\"I see, I see. In that case, if anything happens to her,\nyou'd be responsible.\""
+    },
+    {
+      "offset": 4772,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「え、俺が！？」",
+      "en": "\"Huh, me!?\"",
+      "text": "\"Huh, me!?\""
+    },
+    {
+      "offset": 4804,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「そういうことだろ？　今の行動は」",
+      "en": "\"Isn't that true? Look at what you just did.\"",
+      "text": "\"Isn't that true? Look at what you just did.\""
+    },
+    {
+      "offset": 4845,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暦先生がにや〜っと笑いながら、俺を見る。",
+      "en": "With a wide grin on her face, Koyomi-sensei was looking at\nme.",
+      "text": "With a wide grin on her face, Koyomi-sensei was looking at\nme."
+    },
+    {
+      "offset": 4890,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "最初からわかっているのだ、この人は！",
+      "en": "This must have been her plan from the start, this...!",
+      "text": "This must have been her plan from the start, this...!"
+    },
+    {
+      "offset": 4933,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「かったりぃなぁ、そういうの……」",
+      "en": "\"But that's so troublesome...\"",
+      "text": "\"But that's so troublesome...\""
+    },
+    {
+      "offset": 5000,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ぼやくな。あたしだってあの子のことは、前\n　からなんとかしてやりたかったんだ」",
+      "en": "\"Stop your whining. I've always been worried about that kid\nsince the day she enrolled into this school.\"",
+      "text": "\"Stop your whining. I've always been worried about that kid\nsince the day she enrolled into this school.\""
+    },
+    {
+      "offset": 5112,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「見るからに、いつも独りぼっちだし、他人と\n　話をするのもうまくない」",
+      "en": "\"Everytime I see her, she's alone. She never seems to talk\nto anyone.\"",
+      "text": "\"Everytime I see her, she's alone. She never seems to talk\nto anyone.\""
+    },
+    {
+      "offset": 5197,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「けど、講師という立場もあってか、あの子は\n　あたしを受け入れちゃくれない」",
+      "en": "\"I would try to do something, but I'm a teacher. There's are\nbarriers that aren't easy for her or myself to get around.\"",
+      "text": "\"I would try to do something, but I'm a teacher. There's are\nbarriers that aren't easy for her or myself to get around.\""
+    },
+    {
+      "offset": 5279,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「まあ、俺だって、ほとんど口は聞いてもらえ\n　ないッスからね」",
+      "en": "\"Well, in truth, she doesn't really tell me much either.\"",
+      "text": "\"Well, in truth, she doesn't really tell me much either.\""
+    },
+    {
+      "offset": 5373,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「最近は、天枷がちょっかい出してるのをよく\n　見るから、うまく友達になれるといいと思う\n　んだけどね」",
+      "en": "\"Recently, it seems that Amakase has been attempting to talk\nto her, perhaps to make friends with her. That would be\ngood.\"",
+      "text": "\"Recently, it seems that Amakase has been attempting to talk\nto her, perhaps to make friends with her. That would be\ngood.\""
+    },
+    {
+      "offset": 5480,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「月城は……友達はあの人形だけしかいないっ\n　て言ってますからね」",
+      "en": "\"Tsukishiro said... that the only friend she has, is that\ndoll.\"",
+      "text": "\"Tsukishiro said... that the only friend she has, is that\ndoll.\""
+    },
+    {
+      "offset": 5561,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「噂だと、あの人形を使った腹話術で話したり\n　もするらしいじゃないか」",
+      "en": "\"From the rumours I've heard, doesn't that doll talk thanks\nto her ventriloquism?\"",
+      "text": "\"From the rumours I've heard, doesn't that doll talk thanks\nto her ventriloquism?\""
+    },
+    {
+      "offset": 5637,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ええ、そうですね。やたらとうまいですけど」",
+      "en": "\"Yes, that bit is accurate, at least.\"",
+      "text": "\"Yes, that bit is accurate, at least.\""
+    },
+    {
+      "offset": 5714,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「あの子はきっと何かが欠けてるんだ。だから\n　朝倉にはそれを埋めてやって欲しい」",
+      "en": "\"That girl definitely needs someone by her side right now.\nThat's why I want you to be that someone for her.\"",
+      "text": "\"That girl definitely needs someone by her side right now.\nThat's why I want you to be that someone for her.\""
+    },
+    {
+      "offset": 5800,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「んなこと言われましても……」",
+      "en": "\"Even if you say that, she...\"",
+      "text": "\"Even if you say that, she...\""
+    },
+    {
+      "offset": 5863,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「まあ、堅っ苦しく考える必要はないだろうよ。\n　そんな気持ちで接すれば、あの子は一言も口\n　を聞いてくれなくなるだろうから」",
+      "en": "\"Hah, there's no need to think so long and hard about it.\nEven if you do, that girl won't say one thing about it\nanyway.\"",
+      "text": "\"Hah, there's no need to think so long and hard about it.\nEven if you do, that girl won't say one thing about it\nanyway.\""
+    },
+    {
+      "offset": 5992,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暦先生が、けらけらと笑う。",
+      "en": "Koyomi-sensei laughed a little.",
+      "text": "Koyomi-sensei laughed a little."
+    },
+    {
+      "offset": 6051,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「あんたには、あんたのできることがある。気\n　が向いた時にそれをすればいいのさ。自分だっ\n　てわかってるはずだ」",
+      "en": "\"There are things that you can do. Sooner or later, they\nwill come up, and you'll understand.\"",
+      "text": "\"There are things that you can do. Sooner or later, they\nwill come up, and you'll understand.\""
+    },
+    {
+      "offset": 6168,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「気が向いた時ね……」",
+      "en": "\"Sooner or later, huh...\"",
+      "text": "\"Sooner or later, huh...\""
+    },
+    {
+      "offset": 6206,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ああ。なんにしたって、構えてすることじゃ\n　あないからね」",
+      "en": "\"Mmm. I don't think it's something you can force to happen.\"",
+      "text": "\"Mmm. I don't think it's something you can force to happen.\""
+    },
+    {
+      "offset": 6272,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ま、俺としても、月城はなんだか放っておけ\n　ないっていうか……そういうヤツなんすよ」",
+      "en": "\"Well, both ways... I'm not the kind of person who can just\nleave someone like Tsukishiro alone either.\"",
+      "text": "\"Well, both ways... I'm not the kind of person who can just\nleave someone like Tsukishiro alone either.\""
+    },
+    {
+      "offset": 6390,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ふふ、それでいいよ。──ところで、朝倉。\n　メシはまだかい？　まだなら、おごってやる\n　ぞ？　学食でよければ」",
+      "en": "\"Haha, that'd be just fine. --Anyway, Asakura. Have you\neaten yet? If you haven't, how about lunch at the cafeteria?\nMy treat.\"",
+      "text": "\"Haha, that'd be just fine. --Anyway, Asakura. Have you\neaten yet? If you haven't, how about lunch at the cafeteria?\nMy treat.\""
+    },
+    {
+      "offset": 6507,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ま、マジっすか？」",
+      "en": "\"S, seriously?\"",
+      "text": "\"S, seriously?\""
+    },
+    {
+      "offset": 6560,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ああ、たまにはいいだろ。ホントは、特定の\n　学生にこういうことやっちゃいけないんだけ\n　どな」",
+      "en": "\"Yup, it's fine once in a while. After all, You're not a\ntypical student to me.\"",
+      "text": "\"Yup, it's fine once in a while. After all, You're not a\ntypical student to me.\""
+    },
+    {
+      "offset": 6661,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暦先生は、そう言って、大げさにウインクをし\nて見せた。",
+      "en": "As she spoke, she winked at me.",
+      "text": "As she spoke, she winked at me."
+    },
+    {
+      "offset": 6730,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「テストの点数は……７点しか取れないが、他\n　の部分でいい点数取ってるからな。あたしか\n　らのサービスだ」",
+      "en": "\"And about the test scores... I can't change the 7 mark one,\nbut I'd make sure you do well on the others. Treat it as\nservice.\"",
+      "text": "\"And about the test scores... I can't change the 7 mark one,\nbut I'd make sure you do well on the others. Treat it as\nservice.\""
+    },
+    {
+      "offset": 6841,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言って、年甲斐もなく『よっこいせ』など\nと口にして立ち上がる先生。",
+      "en": "With a noise undeserving of her age, she then lifted herself\noff her chair, and stood up.",
+      "text": "With a noise undeserving of her age, she then lifted herself\noff her chair, and stood up."
+    },
+    {
+      "offset": 6915,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "他の部分のいい点数って、──なんなんだ？",
+      "en": "Make sure I do well on the others... eh?",
+      "text": "Make sure I do well on the others... eh?"
+    },
+    {
+      "offset": 6960,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ま、おごってもらえるなら、なんでもいいや。",
+      "en": "Well, I'm getting treated anyway, so who cares.",
+      "text": "Well, I'm getting treated anyway, so who cares."
+    },
+    {
+      "offset": 7136,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆それぞれのできること◆",
+      "en": "◆The Thingss People Can Do◆",
+      "text": "◆The Thingss People Can Do◆"
+    },
+    {
+      "offset": 7189,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "テストのことで暦先生に怒られていると、先生\nに呼ばれたらしい月城が入ってきた。",
+      "en": "Koyomi-sensei was furious with me about the tests, but then\nTsukishiro interrupted us, apparently having been called up\nbefore.",
+      "text": "Koyomi-sensei was furious with me about the tests, but then\nTsukishiro interrupted us, apparently having been called up\nbefore."
+    },
+    {
+      "offset": 7271,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "先生は、月城の人形のことを注意するが、彼女\nは大切なモノなのだと言い張り、暦先生を困ら\nせていた。",
+      "en": "Sensei wanted Tsukishiro to be more careful about where she\ntook the doll, despite it being important to her.\nKoyomi-sensei was worried for her.",
+      "text": "Sensei wanted Tsukishiro to be more careful about where she\ntook the doll, despite it being important to her.\nKoyomi-sensei was worried for her."
+    },
+    {
+      "offset": 7372,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城が帰った後、暦先生は俺に、自分は教師と\nいう立場上、どうしても月城に受け入れてもら\nえない部分があるとこぼす。",
+      "en": "When Tsukishiro left, Koyomi-sensei told me that since she\nwas a teacher, there were boundaries between the two of them\nthat were hard to surpass.",
+      "text": "When Tsukishiro left, Koyomi-sensei told me that since she\nwas a teacher, there were boundaries between the two of them\nthat were hard to surpass."
+    },
+    {
+      "offset": 7489,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、俺に、月城と仲がいいのなら、ぜひ彼\n女の力になってくれと言われるのだった。",
+      "en": "So I was to be her pillar of strength, to support her when\nshe needs it.",
+      "text": "So I was to be her pillar of strength, to support her when\nshe needs it."
+    },
+    {
+      "offset": 7575,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "学食でのおごりと引き替えに。",
+      "en": "I was treated to lunch at the caferteria, due to my\nacceptance of her request.",
+      "text": "I was treated to lunch at the caferteria, due to my\nacceptance of her request."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "158": "Koyomi",
+    "430": "Koyomi",
+    "561": "Koyomi",
+    "758": "Koyomi",
+    "1121": "Koyomi",
+    "1233": "Koyomi",
+    "1376": "Koyomi",
+    "1529": "Koyomi",
+    "1660": "Koyomi",
+    "1854": "Koyomi",
+    "2018": "Koyomi",
+    "2093": "Alice",
+    "2150": "Koyomi",
+    "2309": "Koyomi",
+    "2470": "Koyomi",
+    "2623": "Alice",
+    "2680": "Koyomi",
+    "2798": "Alice",
+    "2863": "Koyomi",
+    "2986": "Koyomi",
+    "3203": "Koyomi",
+    "3256": "Alice",
+    "3345": "Koyomi",
+    "3459": "Koyomi",
+    "3562": "Alice",
+    "3746": "Koyomi",
+    "3984": "Koyomi",
+    "4164": "Koyomi",
+    "4359": "Koyomi",
+    "4496": "Koyomi",
+    "4676": "Koyomi",
+    "4798": "Koyomi",
+    "4994": "Koyomi",
+    "5106": "Koyomi",
+    "5191": "Koyomi",
+    "5367": "Koyomi",
+    "5555": "Koyomi",
+    "5708": "Koyomi",
+    "5857": "Koyomi",
+    "6045": "Koyomi",
+    "6200": "Koyomi",
+    "6384": "Koyomi",
+    "6554": "Koyomi",
+    "6724": "Koyomi"
+  }
+}

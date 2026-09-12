@@ -1,0 +1,455 @@
+{
+  "scene": "script_0163.obj",
+  "dialogues": [
+    {
+      "offset": 193,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あー……いい天気だなぁ」",
+      "en": "\"Aaahhh.... good weather today.\"",
+      "text": "\"Aaahhh.... good weather today.\""
+    },
+    {
+      "offset": 226,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まるでトンネルのような桜の向こう側に広がる\n青空を見て、俺は呟いた。",
+      "en": "After breaking through what seemed like a tunnel of sakura\npetals, I finally could look at the blue sky above.",
+      "text": "After breaking through what seemed like a tunnel of sakura\npetals, I finally could look at the blue sky above."
+    },
+    {
+      "offset": 300,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「こんな日は家で一日中ごろごろしてるのが幸\n　せってもんだよなぁ……」",
+      "en": "\"This kind of day would be perfect for just lazing around at\nhome...\"",
+      "text": "\"This kind of day would be perfect for just lazing around at\nhome...\""
+    },
+    {
+      "offset": 376,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "飯を食うのも忘れて、ただベッドの中で延々と\n微睡む……。",
+      "en": "Forgetting about breakfast, lying in bed and slowly dozing\noff...",
+      "text": "Forgetting about breakfast, lying in bed and slowly dozing\noff..."
+    },
+    {
+      "offset": 436,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ああ、なんと幸せなことかっ！",
+      "en": "That would be true happiness!",
+      "text": "That would be true happiness!"
+    },
+    {
+      "offset": 506,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「それって、いい天気とあまり関係ないと思う\n　んですけど」",
+      "en": "\"I don't think that has anything to do with good weather...\"",
+      "text": "\"I don't think that has anything to do with good weather...\""
+    },
+    {
+      "offset": 570,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "柔らかく響く声に、俺は振り返った。",
+      "en": "A meek voice from behind caused me to turn my head.",
+      "text": "A meek voice from behind caused me to turn my head."
+    },
+    {
+      "offset": 609,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりが苦笑を浮かべながら立っていた。",
+      "en": "Kotori had a sheepish smile on her face.",
+      "text": "Kotori had a sheepish smile on her face."
+    },
+    {
+      "offset": 654,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「現実逃避だからな」",
+      "en": "\"Just escaping reality for awhile.\"",
+      "text": "\"Just escaping reality for awhile.\""
+    },
+    {
+      "offset": 711,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あっさり言いますね」",
+      "en": "\"Just like you, hee.\"",
+      "text": "\"Just like you, hee.\""
+    },
+    {
+      "offset": 753,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そんなに今日のテスト、やばいんですか？」",
+      "en": "\"How are you feeling for today's test? Uneasy?\"",
+      "text": "\"How are you feeling for today's test? Uneasy?\""
+    },
+    {
+      "offset": 802,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ああ。自慢じゃないが、授業はいつも寝てる\n　からな。試験範囲すらおぼろげだぞ」",
+      "en": "\"Ahh. I'm not exactly proud to say this, but I'm always\nsleeping during lessons. And the exam scope is pretty vague\nas well.\"",
+      "text": "\"Ahh. I'm not exactly proud to say this, but I'm always\nsleeping during lessons. And the exam scope is pretty vague\nas well.\""
+    },
+    {
+      "offset": 888,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "わずかながら胸を反らして言う。",
+      "en": "I slump over slightly.",
+      "text": "I slump over slightly."
+    },
+    {
+      "offset": 955,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「それ、ほんとに自慢になりませんよ」",
+      "en": "\"That's really something not to be proud of...\"",
+      "text": "\"That's really something not to be proud of...\""
+    },
+    {
+      "offset": 998,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「むぅ。やっぱりか」",
+      "en": "\"Mm. That's why I'm worried.\"",
+      "text": "\"Mm. That's why I'm worried.\""
+    },
+    {
+      "offset": 1025,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……ま、立ち話も何だし。歩こうぜ」",
+      "en": "\"Well, no reason to just stand here and talk. Let's go.\"",
+      "text": "\"Well, no reason to just stand here and talk. Let's go.\""
+    },
+    {
+      "offset": 1098,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「はい」",
+      "en": "\"Okay.\"",
+      "text": "\"Okay.\""
+    },
+    {
+      "offset": 1113,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "並んで歩き出す。",
+      "en": "We start walking side-by-side.",
+      "text": "We start walking side-by-side."
+    },
+    {
+      "offset": 1136,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「けど……ことりはいいよな」",
+      "en": "\"But... you're really good, Kotori.\"",
+      "text": "\"But... you're really good, Kotori.\""
+    },
+    {
+      "offset": 1184,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「何がですか？」",
+      "en": "\"What do you mean?\"",
+      "text": "\"What do you mean?\""
+    },
+    {
+      "offset": 1207,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「テスト前の一夜漬けとかやらないだろ？」",
+      "en": "\"You don't need to do last-minute cramming, right?\"",
+      "text": "\"You don't need to do last-minute cramming, right?\""
+    },
+    {
+      "offset": 1254,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりは見た目が可愛いだけじゃなくて、頭も\n良い。",
+      "en": "Kotori's not just a pretty face, she has a good head as\nwell.",
+      "text": "Kotori's not just a pretty face, she has a good head as\nwell."
+    },
+    {
+      "offset": 1340,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「まぁ、確かにあまりやりませんね」",
+      "en": "\"Well, sort of...\"",
+      "text": "\"Well, sort of...\""
+    },
+    {
+      "offset": 1381,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "顎に人差し指を当てて頷くことり。",
+      "en": "Kotori stroked her chin with her index finger and nodded.",
+      "text": "Kotori stroked her chin with her index finger and nodded."
+    },
+    {
+      "offset": 1433,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「授業中にポイントをしっかり押さえちゃいま\n　すから。テスト前にすることと言ったら、そ\n　れの見直しくらいかな？」",
+      "en": "\"I do look over the points I take down during lessons the\nnight before an exam. Besides, the teacher did say the exam\nscope.\"",
+      "text": "\"I do look over the points I take down during lessons the\nnight before an exam. Besides, the teacher did say the exam\nscope.\""
+    },
+    {
+      "offset": 1552,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「じゃあ、どこら辺が出題されるか、ヤマはわ\n　かってると？」",
+      "en": "\"Then you know roughly what will come out on the exam?\"",
+      "text": "\"Then you know roughly what will come out on the exam?\""
+    },
+    {
+      "offset": 1631,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ええ」",
+      "en": "\"Uh huh.\"",
+      "text": "\"Uh huh.\""
+    },
+    {
+      "offset": 1646,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんと。",
+      "en": "I see.",
+      "text": "I see."
+    },
+    {
+      "offset": 1659,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それはいいことを聞いたぞ。",
+      "en": "Maybe I could make use of this.",
+      "text": "Maybe I could make use of this."
+    },
+    {
+      "offset": 1690,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今からテスト開始時間までそう多いわけじゃな\nいが、それでも全くないわけじゃない。",
+      "en": "There may not be that much time till the exam, but I don't\nhave to go in knowing absolutely nothing.",
+      "text": "There may not be that much time till the exam, but I don't\nhave to go in knowing absolutely nothing."
+    },
+    {
+      "offset": 1774,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ヤマを押さえて勉強すれば、多少マシになるは\nず！",
+      "en": "If I do this, I might not be in as much trouble as I think!",
+      "text": "If I do this, I might not be in as much trouble as I think!"
+    },
+    {
+      "offset": 1828,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なぁ、ことり」",
+      "en": "\"Hey, Kotori.\"",
+      "text": "\"Hey, Kotori.\""
+    },
+    {
+      "offset": 1881,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「はい？」",
+      "en": "\"Yes?\"",
+      "text": "\"Yes?\""
+    },
+    {
+      "offset": 1898,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "無邪気な笑顔を浮かべることり。",
+      "en": "Kotori gave me an innocent smile.",
+      "text": "Kotori gave me an innocent smile."
+    },
+    {
+      "offset": 1935,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あー……なんというかその……」",
+      "en": "\"Ahh... how do I say this...\"",
+      "text": "\"Ahh... how do I say this...\""
+    },
+    {
+      "offset": 1987,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……はい？」",
+      "en": "\"...Yes?\"",
+      "text": "\"...Yes?\""
+    },
+    {
+      "offset": 2008,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「………………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2044,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「………………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2067,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………何でもない。忘れてくれ」",
+      "en": "\"......Never mind. Just forget it.\"",
+      "text": "\"......Never mind. Just forget it.\""
+    },
+    {
+      "offset": 2138,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「はぁ……」",
+      "en": "\"Haah...\"",
+      "text": "\"Haah...\""
+    },
+    {
+      "offset": 2157,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今から集中して詰め込めば何とかなるかも知れ\nない……。",
+      "en": "I can barely concentrate now, I won't be able to cram much\nmore in...",
+      "text": "I can barely concentrate now, I won't be able to cram much\nmore in..."
+    },
+    {
+      "offset": 2215,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だけど、今さらジタバタするのなんてみっとも\nないと思ったのだ。",
+      "en": "And there's no real point in putting up a hopeless struggle\nnow.",
+      "text": "And there's no real point in putting up a hopeless struggle\nnow."
+    },
+    {
+      "offset": 2281,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何より、血眼になってことりにヤマを聞いてい\nる俺の姿は、無様以外の何ものでもない。",
+      "en": "Besides, I don't really want to disgrace myself any further\nin front of her, already appearing before with these\nbloodshot eyes.",
+      "text": "Besides, I don't really want to disgrace myself any further\nin front of her, already appearing before with these\nbloodshot eyes."
+    },
+    {
+      "offset": 2399,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「男の子、なんですね」",
+      "en": "\"That's how boys are like, huh.\"",
+      "text": "\"That's how boys are like, huh.\""
+    },
+    {
+      "offset": 2428,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりが微笑みを浮かべた。",
+      "en": "Kotori continued smiling.",
+      "text": "Kotori continued smiling."
+    },
+    {
+      "offset": 2461,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん？　何か言ったか？」",
+      "en": "\"Mm? What did you say?\"",
+      "text": "\"Mm? What did you say?\""
+    },
+    {
+      "offset": 2522,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「頑張ってくださいねって言ったんですよ」",
+      "en": "\"I said do your best for the exams.\"",
+      "text": "\"I said do your best for the exams.\""
+    },
+    {
+      "offset": 2569,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「おう。任せとけ」",
+      "en": "\"Ahh, you can count on me.\"",
+      "text": "\"Ahh, you can count on me.\""
+    },
+    {
+      "offset": 2594,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "運も実力のうちということで、持てる限りの運\nを使って頑張るか。",
+      "en": "I'd have to count on the powers of my luck to pull me\nthrough.",
+      "text": "I'd have to count on the powers of my luck to pull me\nthrough."
+    },
+    {
+      "offset": 2660,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう決めた俺の横で、ことりが何だか楽しそう\nに笑っていた。",
+      "en": "As I decide that, Kotori for some reason started smiling\nhappily.",
+      "text": "As I decide that, Kotori for some reason started smiling\nhappily."
+    },
+    {
+      "offset": 2848,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆男の意地◆",
+      "en": "◆A Man's Backbone◆",
+      "text": "◆A Man's Backbone◆"
+    },
+    {
+      "offset": 2897,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いよいよテストが始まる日。俺が現実逃避して\nいると、ことりに出会った。",
+      "en": "It's now the first day of tests. Kotori caught me in the\nmidsts of one of my traversals into an alternate reality.",
+      "text": "It's now the first day of tests. Kotori caught me in the\nmidsts of one of my traversals into an alternate reality."
+    },
+    {
+      "offset": 2971,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "成績優秀なことりにテストのヤマを聞こうとも\n思ったが、それはあれだ。男として格好悪い。",
+      "en": "With her academic excellence and her basic understanding of\nthe exam scope, I thought of trying to finagle it out of\nher, but eventually thought better of it.",
+      "text": "With her academic excellence and her basic understanding of\nthe exam scope, I thought of trying to finagle it out of\nher, but eventually thought better of it."
+    },
+    {
+      "offset": 3061,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は実力で乗り切ることにした。",
+      "en": "I'd rely on my own power for it.",
+      "text": "I'd rely on my own power for it."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "496": "Kotori",
+    "701": "Kotori",
+    "743": "Kotori",
+    "945": "Kotori",
+    "1088": "Kotori",
+    "1174": "Kotori",
+    "1330": "Kotori",
+    "1423": "Kotori",
+    "1621": "Kotori",
+    "1871": "Kotori",
+    "1977": "Kotori",
+    "2034": "Kotori",
+    "2128": "Kotori",
+    "2389": "Kotori",
+    "2512": "Kotori"
+  }
+}

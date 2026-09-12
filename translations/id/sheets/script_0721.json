@@ -1,0 +1,699 @@
+{
+  "scene": "script_0721.obj",
+  "dialogues": [
+    {
+      "offset": 228,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「は〜い、じゃあ今日は物理の担当します。皆\n　さん宜しくお願いしますね〜♪」",
+      "en": "\"Hi! I'm in charge of Physics today.\"",
+      "text": "\"Hi! I'm in charge of Physics today.\""
+    },
+    {
+      "offset": 310,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつものように、さくらが元気良く挨拶する。",
+      "en": "Sakura greets the class energetically as usual.",
+      "text": "Sakura greets the class energetically as usual."
+    },
+    {
+      "offset": 372,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「さて、皆さんは物理なんて社会に出たら役に\n　立たないと思っているでしょうが、実はびっ\n　くりです！」",
+      "en": "\"Now, you may think you never use physics after graduating\nschool, but actually, you'd be surprised.\"",
+      "text": "\"Now, you may think you never use physics after graduating\nschool, but actually, you'd be surprised.\""
+    },
+    {
+      "offset": 509,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「一部の方を除いては、これが本当に役に立ち\n　ません……」",
+      "en": "\"It's certainly really useless for some people.\"",
+      "text": "\"It's certainly really useless for some people.\""
+    },
+    {
+      "offset": 573,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 592,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頬杖をつきながら、どうしても周囲の様子を気\nにしてしまう。",
+      "en": "I look around, resting my chin in the hand.",
+      "text": "I look around, resting my chin in the hand."
+    },
+    {
+      "offset": 654,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "声や目立った行動はないが、教室の中に明らか\nな不信の空気がまじっている。",
+      "en": "I don't see any suspicious behavior, but obviously there is\na mood of public distrust in the class.",
+      "text": "I don't see any suspicious behavior, but obviously there is\na mood of public distrust in the class."
+    },
+    {
+      "offset": 762,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「でもでもね、皆さんが人間の力を超えている\n　なんていう――奇跡なんていうのは、実はこ\n　の物理と数学の上に成り立っているんだよ」",
+      "en": "\"But, but... Something transcending the bounds of human\npower which people call a miracle is actually based on\nphysics and mathematics.\"",
+      "text": "\"But, but... Something transcending the bounds of human\npower which people call a miracle is actually based on\nphysics and mathematics.\""
+    },
+    {
+      "offset": 927,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「もちろん核とかが分かりやすいだろうけど、\n　医療の場の薬とかだってそうなんだよ」",
+      "en": "\"You may understand how the nucleus is made, but medicine in\nthe medical field is based on that, too.\"",
+      "text": "\"You may understand how the nucleus is made, but medicine in\nthe medical field is based on that, too.\""
+    },
+    {
+      "offset": 1028,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ウイルスとかワクチンとかあるけど、あれも\n　突き詰めれば化学反応だし、紙に鉛筆で字を\n　書くのだってそうだからね♪」",
+      "en": "\"When you think about viruses or vaccines, they are also\ncreated by a chemical reaction, and writing on paper is the\nsame thing, too.\"",
+      "text": "\"When you think about viruses or vaccines, they are also\ncreated by a chemical reaction, and writing on paper is the\nsame thing, too.\""
+    },
+    {
+      "offset": 1151,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この空気が俺の気のせいなのか……確かめるの\nは簡単だった。",
+      "en": "I don't know if this is just me, but it's easy to find out.",
+      "text": "I don't know if this is just me, but it's easy to find out."
+    },
+    {
+      "offset": 1215,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……なぁ、杉並」",
+      "en": "\"Hey, Suginami...\"",
+      "text": "\"Hey, Suginami...\""
+    },
+    {
+      "offset": 1240,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とん、と背中をつつく。",
+      "en": "I poke his back.",
+      "text": "I poke his back."
+    },
+    {
+      "offset": 1302,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ちょっと待て……いいところだ」",
+      "en": "\"Wait a second, this is the best part.\"",
+      "text": "\"Wait a second, this is the best part.\""
+    },
+    {
+      "offset": 1341,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ん？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 1356,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだか必死にノートをとっているようだが\n……。",
+      "en": "I see he's making a note.",
+      "text": "I see he's making a note."
+    },
+    {
+      "offset": 1445,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「と、まぁ、物理だけが大切だって話じゃない\n　んだけどね。学ぶことが大切だって話だよ」",
+      "en": "\"Well, I'm not saying physics is the most important subject.\nWhat I want to say is learning is important.\"",
+      "text": "\"Well, I'm not saying physics is the most important subject.\nWhat I want to say is learning is important.\""
+    },
+    {
+      "offset": 1567,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「健康な心は、健康な肉体からということで体\n　育も重要です……ボクは嫌いだけど」",
+      "en": "\"They say a healthy mind grows in a healthy body. Physical\nexercise is also important... I don't like it, though.\"",
+      "text": "\"They say a healthy mind grows in a healthy body. Physical\nexercise is also important... I don't like it, though.\""
+    },
+    {
+      "offset": 1666,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「社会とか国語は心を豊かにします」",
+      "en": "\"Social Study and Language broaden your mind.\"",
+      "text": "\"Social Study and Language broaden your mind.\""
+    },
+    {
+      "offset": 1737,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そう、人の心だけは化学反応じゃないんだよ♪\n　……実際は色々とあるけどね」",
+      "en": "\"The human mind is the only thing not based on a chemical\nreaction. In real life, you see many different kinds of\nthings.\"",
+      "text": "\"The human mind is the only thing not based on a chemical\nreaction. In real life, you see many different kinds of\nthings.\""
+    },
+    {
+      "offset": 1830,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「くっくっ……」",
+      "en": "\"Nyuk, nyuk...\"",
+      "text": "\"Nyuk, nyuk...\""
+    },
+    {
+      "offset": 1853,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "面白いのか今の？",
+      "en": "What's funny?",
+      "text": "What's funny?"
+    },
+    {
+      "offset": 1874,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふと、ことりが口元を押さえているのを見かけ\nたところによると、なにか知識を要求する冗談\nだったらしい。",
+      "en": "I can tell by seeing Kotori covering her mouth it must be a\njoke you have to understand.",
+      "text": "I can tell by seeing Kotori covering her mouth it must be a\njoke you have to understand."
+    },
+    {
+      "offset": 1979,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "皆を代表して分からないと思っておこう。",
+      "en": "I pretend I don't understand it as one of the rest.",
+      "text": "I pretend I don't understand it as one of the rest."
+    },
+    {
+      "offset": 2054,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ま、恋心は化学反応じゃないから♪」",
+      "en": "\"Well, love is not created by a chemical reaction.\"",
+      "text": "\"Well, love is not created by a chemical reaction.\""
+    },
+    {
+      "offset": 2130,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「なんだ？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 2149,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "最後の言葉にビッと横線をひいて、杉並が振り\n返る。",
+      "en": "Suginami turns back with her last words.",
+      "text": "Suginami turns back with her last words."
+    },
+    {
+      "offset": 2205,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「蛍光ペンでマークをいれとけや今のところ\n　……テストに出るぞ」",
+      "en": "\"Why don't you mark that line with a highlighter pen? It'll\nbe on the test.\"",
+      "text": "\"Why don't you mark that line with a highlighter pen? It'll\nbe on the test.\""
+    },
+    {
+      "offset": 2303,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「理解できない事柄を丸暗記しても仕方ない」",
+      "en": "\"It's useless to memorize if I don't understand.\"",
+      "text": "\"It's useless to memorize if I don't understand.\""
+    },
+    {
+      "offset": 2352,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「あ〜……最後のだけは皆にも理解できたと思\n　うけどな」",
+      "en": "\"Ahhh... everybody can understand the last thing I said,\nright?\"",
+      "text": "\"Ahhh... everybody can understand the last thing I said,\nright?\""
+    },
+    {
+      "offset": 2442,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「で、どうした？」",
+      "en": "\"So, what happened?\"",
+      "text": "\"So, what happened?\""
+    },
+    {
+      "offset": 2467,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「さくらの――いや、後ででいいや」",
+      "en": "\"Sakura... I'll tell you later.\"",
+      "text": "\"Sakura... I'll tell you later.\""
+    },
+    {
+      "offset": 2508,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "教室でのヒソヒソ話が、いかに響くのかなんて\n周知の事実だ。",
+      "en": "It's obvious to everyone how the whisper rings through the\nclassroom.",
+      "text": "It's obvious to everyone how the whisper rings through the\nclassroom."
+    },
+    {
+      "offset": 2572,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ちょっと調べて欲しいことが――」",
+      "en": "\"I want you to look up something...\"",
+      "text": "\"I want you to look up something...\""
+    },
+    {
+      "offset": 2626,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「はい、そこ、私語は禁止です！　……よし♪」",
+      "en": "\"Excuse me, there. No talking! ...Right.\"",
+      "text": "\"Excuse me, there. No talking! ...Right.\""
+    },
+    {
+      "offset": 2699,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 2714,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "顔を上げると、さくらが嬉しそうにチョークを\n振りかぶっているのが見えた。",
+      "en": "When I lift my head, I see Sakura happily weighing the chalk\nin her hand.",
+      "text": "When I lift my head, I see Sakura happily weighing the chalk\nin her hand."
+    },
+    {
+      "offset": 2790,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なにに影響されたのか知らないが……それはマ\nズイ。",
+      "en": "I don't know what gave her the idea, but it doesn't look\ngood at all.",
+      "text": "I don't know what gave her the idea, but it doesn't look\ngood at all."
+    },
+    {
+      "offset": 2844,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そしてネタが古い。",
+      "en": "Besides, the material is old.",
+      "text": "Besides, the material is old."
+    },
+    {
+      "offset": 2882,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「憧れのＳｈｏｏｔｓ♪」",
+      "en": "\"Shot of yearning!\"",
+      "text": "\"Shot of yearning!\""
+    },
+    {
+      "offset": 2933,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「――！？」",
+      "en": "\"............!?\"",
+      "text": "\"............!?\""
+    },
+    {
+      "offset": 2963,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「俺が盾か！？」",
+      "en": "\"Am I the target?\"",
+      "text": "\"Am I the target?\""
+    },
+    {
+      "offset": 2986,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とっさに逃げようとした杉並の背中をおさえて、\nその後ろに隠れる。",
+      "en": "I hold Suginami's back to hide behind him as he runs away.",
+      "text": "I hold Suginami's back to hide behind him as he runs away."
+    },
+    {
+      "offset": 3054,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "バキ――！",
+      "en": "Swt!",
+      "text": "Swt!"
+    },
+    {
+      "offset": 3081,
+      "speaker": "Male Student",
+      "speaker_jp": "男子学生",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3100,
+      "speaker": "Male Student",
+      "speaker_jp": "男子学生",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3125,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3157,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あ」",
+      "en": "\"Uh...\"",
+      "text": "\"Uh...\""
+    },
+    {
+      "offset": 3170,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ん？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 3196,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「はずれたぞ朝倉」",
+      "en": "\"It missed, Asakura.\"",
+      "text": "\"It missed, Asakura.\""
+    },
+    {
+      "offset": 3221,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「そうか……」",
+      "en": "\"Ah...\"",
+      "text": "\"Ah...\""
+    },
+    {
+      "offset": 3266,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、顔を上げるとクラス中の視線が俺のビ\nミョーに隣に集まっている。",
+      "en": "When I lift my head, I see everybody's gaze at the person\nright next to me.",
+      "text": "When I lift my head, I see everybody's gaze at the person\nright next to me."
+    },
+    {
+      "offset": 3344,
+      "speaker": "Tabata",
+      "speaker_jp": "田端",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3363,
+      "speaker": "Tabata",
+      "speaker_jp": "田端",
+      "jp": "「田端ッ！？」",
+      "en": "\"Tabata!\"",
+      "text": "\"Tabata!\""
+    },
+    {
+      "offset": 3384,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "付属でクラスメートだった、１日に一言しか喋\nらないことで有名な男が、頭をのけぞらせた形\nでそこにいた。",
+      "en": "He was my classmate in the previous school, and he was\nfamous for speaking only one word a day. That person's\nsitting right next to me with his head thrown back.",
+      "text": "He was my classmate in the previous school, and he was\nfamous for speaking only one word a day. That person's\nsitting right next to me with his head thrown back."
+    },
+    {
+      "offset": 3491,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お前、同じクラスだったのか！？」",
+      "en": "\"I didn't know you were in my class.\"",
+      "text": "\"I didn't know you were in my class.\""
+    },
+    {
+      "offset": 3567,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「おいおい」",
+      "en": "\"Hey, hey.\"",
+      "text": "\"Hey, hey.\""
+    },
+    {
+      "offset": 3586,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "駆け寄ってきたことりが俺にツッこむ。",
+      "en": "Kotori runs up to me to interrupt our conversation.",
+      "text": "Kotori runs up to me to interrupt our conversation."
+    },
+    {
+      "offset": 3635,
+      "speaker": "Tabata",
+      "speaker_jp": "田端",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3684,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「田端君、大丈夫？」",
+      "en": "\"Are you okay, Tabata-kun?\"",
+      "text": "\"Are you okay, Tabata-kun?\""
+    },
+    {
+      "offset": 3717,
+      "speaker": "Tabata",
+      "speaker_jp": "田端",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3736,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりの問いに、田端がなんでもない、と無言\nで頷く。",
+      "en": "Tabata nods to Kotori's question without saying anything.",
+      "text": "Tabata nods to Kotori's question without saying anything."
+    },
+    {
+      "offset": 3827,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「あの、さくら先生、とりあえず保健室に連れ\n　て行ったほうがいいかと」",
+      "en": "\"Um... Sakura-sensei, I think we should take him to the\nnurse's office.\"",
+      "text": "\"Um... Sakura-sensei, I think we should take him to the\nnurse's office.\""
+    },
+    {
+      "offset": 3938,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そうだね……あははははは」",
+      "en": "\"You're right. Hahahahaha.\"",
+      "text": "\"You're right. Hahahahaha.\""
+    },
+    {
+      "offset": 3973,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "無言で立ち上がる田端。怒ってはいない。俺に\nは分かる。",
+      "en": "Tabata gets up with no words. I can tell he's not angry.",
+      "text": "Tabata gets up with no words. I can tell he's not angry."
+    },
+    {
+      "offset": 4046,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ご、ごめんなさい田端くん」",
+      "en": "\"S-sorry, Tabata-kun.\"",
+      "text": "\"S-sorry, Tabata-kun.\""
+    },
+    {
+      "offset": 4087,
+      "speaker": "Tabata",
+      "speaker_jp": "田端",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 4106,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やっぱり田端が無言で頷く。",
+      "en": "As expected, Tabata nods without saying anything.",
+      "text": "As expected, Tabata nods without saying anything."
+    },
+    {
+      "offset": 4145,
+      "speaker": "Tabata",
+      "speaker_jp": "田端",
+      "jp": "「気にするな先生」",
+      "en": "\"Don't worry about me, Sakura-sensei.\"",
+      "text": "\"Don't worry about me, Sakura-sensei.\""
+    },
+    {
+      "offset": 4204,
+      "speaker": "Suginami & Junichi",
+      "speaker_jp": "朝倉＆杉並",
+      "jp": "「――！？」",
+      "en": "\".........!?\"",
+      "text": "\".........!?\""
+    },
+    {
+      "offset": 4223,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ざわっ、とクラスの極一部に波紋が広がる。",
+      "en": "That causes a commotion among part of the class.",
+      "text": "That causes a commotion among part of the class."
+    },
+    {
+      "offset": 4268,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりにすら声をかけなかったと言うのに……。",
+      "en": "He never said a word before, even to Kotori.",
+      "text": "He never said a word before, even to Kotori."
+    },
+    {
+      "offset": 4330,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「しかし、これでさらにマズくなったな」",
+      "en": "\"But this means it makes Sakura's situation worse.\"",
+      "text": "\"But this means it makes Sakura's situation worse.\""
+    },
+    {
+      "offset": 4375,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 4396,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並が俺に対して言ったのではないだろうが、\nクラスの視線は痛いほどさくらの背中を見つめ\nていた。",
+      "en": "I know Suginami didn't spell it out to me, but the whole\nclass has got it in for Sakura now.",
+      "text": "I know Suginami didn't spell it out to me, but the whole\nclass has got it in for Sakura now."
+    },
+    {
+      "offset": 4497,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「かったりぃ……」",
+      "en": "\"What a pain in the neck...\"",
+      "text": "\"What a pain in the neck...\""
+    },
+    {
+      "offset": 4522,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "田端を支えるというよりも、田端に抱え込まれ\nるようにさくらが廊下に消える。",
+      "en": "Sakura disappears into the hallway, being held up by Tabata\nrather than supporting him.",
+      "text": "Sakura disappears into the hallway, being held up by Tabata\nrather than supporting him."
+    },
+    {
+      "offset": 4600,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、自習。",
+      "en": "And we study by ourselves.",
+      "text": "And we study by ourselves."
+    },
+    {
+      "offset": 4737,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆さくらの授業、田端語る◆",
+      "en": "◆Tabata speaks up at Sakura's class◆",
+      "text": "◆Tabata speaks up at Sakura's class◆"
+    },
+    {
+      "offset": 4792,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "物理の時間、勉強や恋愛の大切さを説くさくら。",
+      "en": "Sakura was teaching her students how important it is to\nlearn and to love during Physics class.",
+      "text": "Sakura was teaching her students how important it is to\nlearn and to love during Physics class."
+    },
+    {
+      "offset": 4841,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな最中、ついつい杉並と雑談していると、\nなにに影響をされたのかさくらがチョークを投\nげてきた。",
+      "en": "I was talking with Suginami during Sakura's lecture, and\nthen she unexpectedly threw a piece of chalk at me.",
+      "text": "I was talking with Suginami during Sakura's lecture, and\nthen she unexpectedly threw a piece of chalk at me."
+    },
+    {
+      "offset": 4942,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それがマズイことに、まったくの別人に当たっ\nてしまう。ただでさえ例の噂があったのに、さ\nくらの立場が困ったことになってきた……。",
+      "en": "Unfortunately, it hit another guy, not me. That made\nSakura's situation worse than before.",
+      "text": "Unfortunately, it hit another guy, not me. That made\nSakura's situation worse than before."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "218": "Sakura",
+    "362": "Sakura",
+    "499": "Sakura",
+    "752": "Sakura",
+    "917": "Sakura",
+    "1018": "Sakura",
+    "1294": "Suginami",
+    "1435": "Sakura",
+    "1557": "Sakura",
+    "1656": "Sakura",
+    "1727": "Sakura",
+    "1822": "Suginami",
+    "2044": "Sakura",
+    "2122": "Suginami",
+    "2295": "Suginami",
+    "2434": "Suginami",
+    "2616": "Sakura",
+    "2872": "Sakura",
+    "2955": "Suginami",
+    "3069": "Male Student",
+    "3117": "Suginami",
+    "3147": "Sakura",
+    "3188": "Suginami",
+    "3336": "Tabata",
+    "3557": "Kotori",
+    "3627": "Tabata",
+    "3674": "Kotori",
+    "3709": "Tabata",
+    "3819": "Suginami",
+    "3928": "Sakura",
+    "4036": "Sakura",
+    "4079": "Tabata",
+    "4137": "Tabata",
+    "4190": "Suginami & Junichi",
+    "4322": "Suginami"
+  }
+}

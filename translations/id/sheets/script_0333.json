@@ -1,0 +1,517 @@
+{
+  "scene": "script_0333.obj",
+  "dialogues": [
+    {
+      "offset": 151,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ほへ〜」",
+      "en": "\"Whew!\"",
+      "text": "\"Whew!\""
+    },
+    {
+      "offset": 168,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "我ながらぬぼ〜っ、と崩れた表情のまま玄関の\n前に立つ。",
+      "en": "Stunned, I stand in front of the entrance to my house.",
+      "text": "Stunned, I stand in front of the entrance to my house."
+    },
+    {
+      "offset": 226,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "扉に手をかけると、音夢がいつものように先に\n帰宅しているのだろう。鍵が開いている。",
+      "en": "I found the door was unlocked when I placed my hand on the\ndoorknob. Probably Nemu is already at home as usual.",
+      "text": "I found the door was unlocked when I placed my hand on the\ndoorknob. Probably Nemu is already at home as usual."
+    },
+    {
+      "offset": 314,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「と言うか、あいつの帰宅のスピードだけは分\n　からん……」",
+      "en": "\"Actually, I can't tell how fast she walks home.\"",
+      "text": "\"Actually, I can't tell how fast she walks home.\""
+    },
+    {
+      "offset": 378,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "同じ教室をスタート地点にして、真っ直ぐ帰っ\nてきている俺が追いつけないとはなんなのだろ\nう……。",
+      "en": "We leave the classroom at the same time, but I don't know\nwhy I don't get home earlier than her. Even if I go straight\nhome without wasting my time on the road.",
+      "text": "We leave the classroom at the same time, but I don't know\nwhy I don't get home earlier than her. Even if I go straight\nhome without wasting my time on the road."
+    },
+    {
+      "offset": 479,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どこでもド――」",
+      "en": "\"Where...\"",
+      "text": "\"Where...\""
+    },
+    {
+      "offset": 551,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あにゃ、お兄ちゃん発見！」",
+      "en": "\"Here you are, oniichan!\"",
+      "text": "\"Here you are, oniichan!\""
+    },
+    {
+      "offset": 586,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の部屋の押入れに猫型ロボットがいるのを\n想像したところで、横槍が飛び込んでくる。",
+      "en": "Peering into Nemu's closet, I was thinking about a\ncat-shaped robot when I got a sudden kick.",
+      "text": "Peering into Nemu's closet, I was thinking about a\ncat-shaped robot when I got a sudden kick."
+    },
+    {
+      "offset": 706,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「たりゃ！」",
+      "en": "\"Fwap!\"",
+      "text": "\"Fwap!\""
+    },
+    {
+      "offset": 731,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「――ぐはっ！？」",
+      "en": "\"Gwah!\"",
+      "text": "\"Gwah!\""
+    },
+    {
+      "offset": 756,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "文字通り槍のように横腹に突き刺さった。",
+      "en": "I feel a jab on my side.",
+      "text": "I feel a jab on my side."
+    },
+    {
+      "offset": 814,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「こんなところで出会うなんて運命！？」",
+      "en": "\"What a coincidence to see you here!\"",
+      "text": "\"What a coincidence to see you here!\""
+    },
+    {
+      "offset": 859,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……家が隣だ」",
+      "en": "\"Your house is next door.\"",
+      "text": "\"Your house is next door.\""
+    },
+    {
+      "offset": 882,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぐぐっ、とさくらの額を押しながら咳き込む。",
+      "en": "Pressing Sakura's forehead, I keep coughing.",
+      "text": "Pressing Sakura's forehead, I keep coughing."
+    },
+    {
+      "offset": 961,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにょ〜、お兄ちゃん、こんなイー天気なの\n　に家に引きこもっちゃうの？」",
+      "en": "\"Hm, the weather is too nice to withdraw from the world,\noniichan.\"",
+      "text": "\"Hm, the weather is too nice to withdraw from the world,\noniichan.\""
+    },
+    {
+      "offset": 1041,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「俺はひきこもりじゃない……」",
+      "en": "\"I'm not withdrawing from the world.\"",
+      "text": "\"I'm not withdrawing from the world.\""
+    },
+    {
+      "offset": 1108,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「じゃあ、なに？」",
+      "en": "\"Then, what is it?\"",
+      "text": "\"Then, what is it?\""
+    },
+    {
+      "offset": 1133,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1152,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「面倒くさがり」",
+      "en": "\"It's too much hassle for me.\"",
+      "text": "\"It's too much hassle for me.\""
+    },
+    {
+      "offset": 1205,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「はいはい……暇ならちょーどいいから。ボク\n　のうちでお茶しよ〜♪」",
+      "en": "\"Fine, fine, you don't have anything to do, anyway. Let's\nhave tea at my house.\"",
+      "text": "\"Fine, fine, you don't have anything to do, anyway. Let's\nhave tea at my house.\""
+    },
+    {
+      "offset": 1291,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ずるずる、とさくらに引きずられる。",
+      "en": "I accidentally fall for Sakura's idea.",
+      "text": "I accidentally fall for Sakura's idea."
+    },
+    {
+      "offset": 1332,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……あぁ」",
+      "en": "\"Waah...\"",
+      "text": "\"Waah...\""
+    },
+    {
+      "offset": 1351,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ベッドと和菓子とマンガが遠ざかっていく……。",
+      "en": "I can see my bed, snack and manga receding...",
+      "text": "I can see my bed, snack and manga receding..."
+    },
+    {
+      "offset": 1402,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まったく、どこから出てくる怪力か知らないが\n足が地面をこすりつつさくらの家に向かった。",
+      "en": "From somewhere I find the enormous strength to drag myself\nto Sakura's house.",
+      "text": "From somewhere I find the enormous strength to drag myself\nto Sakura's house."
+    },
+    {
+      "offset": 1577,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「まぁ、好きなところに座って」",
+      "en": "\"Please sit down anywhere you want.\"",
+      "text": "\"Please sit down anywhere you want.\""
+    },
+    {
+      "offset": 1614,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「どこでも空きまくりだがな」",
+      "en": "\"They're all empty anyway.\"",
+      "text": "\"They're all empty anyway.\""
+    },
+    {
+      "offset": 1649,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当に適当に寝転ぶ。畳の匂いが心地よい。",
+      "en": "I lie down randomly. I like the smell of tatami mats.",
+      "text": "I lie down randomly. I like the smell of tatami mats."
+    },
+    {
+      "offset": 1726,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「にゃはははは。なんか、仲良し老夫婦みたい\n　だね♪」",
+      "en": "\"Nyahahahaha. We're like a happy old couple, aren't we?\"",
+      "text": "\"Nyahahahaha. We're like a happy old couple, aren't we?\""
+    },
+    {
+      "offset": 1786,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらは日当たりのよい縁側に腰掛けて微笑む。",
+      "en": "Sakura smiles, sitting on the sun-drenched veranda.",
+      "text": "Sakura smiles, sitting on the sun-drenched veranda."
+    },
+    {
+      "offset": 1837,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「やめぃ」",
+      "en": "\"Stop that.\"",
+      "text": "\"Stop that.\""
+    },
+    {
+      "offset": 1884,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「じぃさんや……桜がきれいだよ」",
+      "en": "\"Hey jiisan, aren't the cherry blossoms beautiful?\"",
+      "text": "\"Hey jiisan, aren't the cherry blossoms beautiful?\""
+    },
+    {
+      "offset": 1923,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うぅぅ……」",
+      "en": "\"Ooohhh...\"",
+      "text": "\"Ooohhh...\""
+    },
+    {
+      "offset": 1956,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらは冗談で言っているのだろうが、なんだ\nか自分が本当に年寄りじみている気がする。",
+      "en": "I know Sakura's joking, but I feel I'm a real old man\nsomehow.",
+      "text": "I know Sakura's joking, but I feel I'm a real old man\nsomehow."
+    },
+    {
+      "offset": 2046,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「分かったよ。話し相手になるって」",
+      "en": "\"Okay, you can keep me company now.\"",
+      "text": "\"Okay, you can keep me company now.\""
+    },
+    {
+      "offset": 2087,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "畳をはいずってさくらの隣に座る。",
+      "en": "I crawl up to the tatami mat that Sakura's sitting on, and\nsit next to her.",
+      "text": "I crawl up to the tatami mat that Sakura's sitting on, and\nsit next to her."
+    },
+    {
+      "offset": 2126,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……縁側はぬくいな」",
+      "en": "\"It's warm on the veranda, isn't it?\"",
+      "text": "\"It's warm on the veranda, isn't it?\""
+    },
+    {
+      "offset": 2155,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "宇宙の真理が口からこぼれる。",
+      "en": "It's true.",
+      "text": "It's true."
+    },
+    {
+      "offset": 2225,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「春だねぇ」",
+      "en": "\"It's spring.\"",
+      "text": "\"It's spring.\""
+    },
+    {
+      "offset": 2244,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらが危うい細さをもつ足をぶらつかせて、\n春風のように笑う。",
+      "en": "Sakura smiles, as the spring breeze moves her slender legs.",
+      "text": "Sakura smiles, as the spring breeze moves her slender legs."
+    },
+    {
+      "offset": 2342,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「春だよぉ。春ですなぁ」",
+      "en": "\"Spring is here. It's spring time.\"",
+      "text": "\"Spring is here. It's spring time.\""
+    },
+    {
+      "offset": 2373,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "漢字の活用に興味でもあるのか、先ほどから同\nじ言葉をくりかえしていた。",
+      "en": "She must have an interest in Chinese characters; she's been\nusing the same words one after another.",
+      "text": "She must have an interest in Chinese characters; she's been\nusing the same words one after another."
+    },
+    {
+      "offset": 2447,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ひよよよよ――と、どこかで鳥が鳴いている。",
+      "en": "I hear the birds chirping somewhere.",
+      "text": "I hear the birds chirping somewhere."
+    },
+    {
+      "offset": 2494,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "車の音、風の音、雲がゆっくりと動いている感\n触。",
+      "en": "I feel the sound of cars, wind and the movement of clouds.",
+      "text": "I feel the sound of cars, wind and the movement of clouds."
+    },
+    {
+      "offset": 2546,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなモノを認識してしまうほど――暇だ。",
+      "en": "I am such an idler that I can recognize those little things.",
+      "text": "I am such an idler that I can recognize those little things."
+    },
+    {
+      "offset": 2593,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……別に話題もない……ん？」",
+      "en": "\"Plus, nothing to talk about.\"",
+      "text": "\"Plus, nothing to talk about.\""
+    },
+    {
+      "offset": 2630,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、さくらが俺の肩に抱きついてくる。",
+      "en": "Suddenly, Sakura's standing over my shoulders.",
+      "text": "Suddenly, Sakura's standing over my shoulders."
+    },
+    {
+      "offset": 2703,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あったかいなぁ……こうやってるだけでボク\n　は幸せだよ」",
+      "en": "\"So warm...... I feel so happy by just doing this.\"",
+      "text": "\"So warm...... I feel so happy by just doing this.\""
+    },
+    {
+      "offset": 2767,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "無垢な笑顔が間近でほころぶ。",
+      "en": "I see her innocent smile right next to me.",
+      "text": "I see her innocent smile right next to me."
+    },
+    {
+      "offset": 2802,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2821,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……安上がりなヤツ」",
+      "en": "\"She's easy on the purse.\"",
+      "text": "\"She's easy on the purse.\""
+    },
+    {
+      "offset": 2862,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだか照れくさくって、ぶっきらぼうに顔の\n向きを変える。",
+      "en": "I turn my face away, feeling embarrassed.",
+      "text": "I turn my face away, feeling embarrassed."
+    },
+    {
+      "offset": 2924,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ざざざざ――。",
+      "en": "Shoom......",
+      "text": "Shoom......"
+    },
+    {
+      "offset": 2943,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "風が、俺の部屋へと続く桜の枝を揺らした。",
+      "en": "The cherry branches next to my room's window sway in the\nwind.",
+      "text": "The cherry branches next to my room's window sway in the\nwind."
+    },
+    {
+      "offset": 2990,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3044,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「平和だねぇ」",
+      "en": "\"It's so peaceful, isn't it?\"",
+      "text": "\"It's so peaceful, isn't it?\""
+    },
+    {
+      "offset": 3065,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「まぁな」",
+      "en": "\"It's like harakiri time.\"",
+      "text": "\"It's like harakiri time.\""
+    },
+    {
+      "offset": 3082,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "小さくため息をつきつつ、名前の通り桜のいい\n匂いのする少女を軽く抱きしめる。",
+      "en": "\"That's too much.\"",
+      "text": "\"That's too much.\""
+    },
+    {
+      "offset": 3162,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "うららかな春の日の午後。",
+      "en": "Breathing a sigh, I give a hug to the girl that smells like\nher name, cherry blossom.",
+      "text": "Breathing a sigh, I give a hug to the girl that smells like\nher name, cherry blossom."
+    },
+    {
+      "offset": 3191,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺達は日向ぼっこを楽しんだ。",
+      "en": "It's a glorious spring afternoon.",
+      "text": "It's a glorious spring afternoon."
+    },
+    {
+      "offset": 3353,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆日向ぼっことハラキリ◆",
+      "en": "◆Sunbathing and Harakiri◆",
+      "text": "◆Sunbathing and Harakiri◆"
+    },
+    {
+      "offset": 3408,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "家に入る直前にさくらに捕まり、なぜか隣の家\nで日向ぼっこすることになる。",
+      "en": "Just before I got into my house, Sakura got me, and we ended\nup relaxing in the sun next door.",
+      "text": "Just before I got into my house, Sakura got me, and we ended\nup relaxing in the sun next door."
+    },
+    {
+      "offset": 3484,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "縁側で茶をすすりながら、ハラキリみたい\nねぇ〜、などと穏やかに会話を交わす俺達\nだった。",
+      "en": "We enjoyed the moment together, drinking green tea on the\nveranda and talking about harakiri as a joke.",
+      "text": "We enjoyed the moment together, drinking green tea on the\nveranda and talking about harakiri as a joke."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "541": "Sakura",
+    "696": "Sakura",
+    "804": "Sakura",
+    "951": "Sakura",
+    "1098": "Sakura",
+    "1195": "Sakura",
+    "1567": "Sakura",
+    "1716": "Sakura",
+    "1874": "Sakura",
+    "2215": "Sakura",
+    "2332": "Sakura",
+    "2693": "Sakura",
+    "3034": "Sakura"
+  }
+}

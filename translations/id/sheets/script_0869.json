@@ -1,0 +1,735 @@
+{
+  "scene": "script_0869.obj",
+  "dialogues": [
+    {
+      "offset": 203,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その次の日になっても叶が学園に姿を見せるこ\nとはなかった。",
+      "en": "Kanae didn't come to school today either.",
+      "text": "Kanae didn't come to school today either."
+    },
+    {
+      "offset": 265,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "結局昨日は、そのまま廊下で寝てしまい、体の\n節々が痛い。",
+      "en": "I spent the whole of last night sleeping n the corridor, so\nmy joints were aching...",
+      "text": "I spent the whole of last night sleeping n the corridor, so\nmy joints were aching..."
+    },
+    {
+      "offset": 325,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だがそんな体の痛みより、胸の痛みの方がこた\nえた。",
+      "en": "But even the pain from there couldn't match the pain in my\nchest.",
+      "text": "But even the pain from there couldn't match the pain in my\nchest."
+    },
+    {
+      "offset": 379,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "楽しそうに雑談を交わすクラスメイト達。",
+      "en": "The classmates around me were chatting among themselves\nidly.",
+      "text": "The classmates around me were chatting among themselves\nidly."
+    },
+    {
+      "offset": 422,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その会話の内容は、昨日見たＴＶの内容だった\nり、古文の小テストの事だったり……。",
+      "en": "About what they watched on TV yesterday, about the\nliterature test coming up soon...",
+      "text": "About what they watched on TV yesterday, about the\nliterature test coming up soon..."
+    },
+    {
+      "offset": 506,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まるで叶がもとから存在しなかったかのような、\nごくごく当たり前の日常。",
+      "en": "As if Kanae's disappearance from class was a normal everyday\nthing.",
+      "text": "As if Kanae's disappearance from class was a normal everyday\nthing."
+    },
+    {
+      "offset": 580,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もしかしたら叶はこのまま学園には帰ってこな\nいのかもしれない……。",
+      "en": "Maybe Kanae really won't come back to school at this rate...",
+      "text": "Maybe Kanae really won't come back to school at this rate..."
+    },
+    {
+      "offset": 652,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（そんなことある訳ない！！）",
+      "en": "\"(Of course that won't happen!!)\"",
+      "text": "\"(Of course that won't happen!!)\""
+    },
+    {
+      "offset": 687,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "弱気になった自分に心の中で｛しった／叱咤｝を加える。",
+      "en": "I scolded myself for being so weak.",
+      "text": "I scolded myself for being so weak."
+    },
+    {
+      "offset": 744,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "たとえほんの一瞬とはいえ、そんな可能性を疑\nうなんて。",
+      "en": "For even doubting it for a moment, for accepting any other\npossibility.",
+      "text": "For even doubting it for a moment, for accepting any other\npossibility."
+    },
+    {
+      "offset": 802,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "信じるんだ……かならず叶は帰ってくる。",
+      "en": "She'd definitely come back... I have to believe so.",
+      "text": "She'd definitely come back... I have to believe so."
+    },
+    {
+      "offset": 845,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が、俺だけは、信じてやらなければ、本当に\n彼女は戻って来ないような気がした。",
+      "en": "If I don't, she really might never come back again.",
+      "text": "If I don't, she really might never come back again."
+    },
+    {
+      "offset": 927,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう、叶は必ず戻ってくる……………。",
+      "en": "Right, she definitely will return......",
+      "text": "Right, she definitely will return......"
+    },
+    {
+      "offset": 999,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暦先生が姿を見せると、騒がしかった連中も席\nについた。",
+      "en": "Koyomi-sensei popped into the classroom, cueing the\nreturning to seats of my noisy classmates.",
+      "text": "Koyomi-sensei popped into the classroom, cueing the\nreturning to seats of my noisy classmates."
+    },
+    {
+      "offset": 1106,
+      "speaker": "Weekly Duty",
+      "speaker_jp": "週番",
+      "jp": "「起立、礼！」",
+      "en": "\"Stand up, bow!\"",
+      "text": "\"Stand up, bow!\""
+    },
+    {
+      "offset": 1127,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "週番の号令と共にふぞろいな礼をする。",
+      "en": "On the weekly duty's order, we simultaneously bowed.",
+      "text": "On the weekly duty's order, we simultaneously bowed."
+    },
+    {
+      "offset": 1168,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当に、俺と叶以外は全ていつも通りの朝。",
+      "en": "If you ignore Kanae and I, it's really like every other\nmorning.",
+      "text": "If you ignore Kanae and I, it's really like every other\nmorning."
+    },
+    {
+      "offset": 1246,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「あー……今朝は皆にふたつ報せておかねばな\n　らんことがある」",
+      "en": "\"Ahh-.... I have two things to tell the class this morning.",
+      "text": "\"Ahh-.... I have two things to tell the class this morning."
+    },
+    {
+      "offset": 1314,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつもなら名簿を出すタイミングで、ふいに先生\nが口を開く。",
+      "en": "As she took out her class register as usual, she started\nspeaking.",
+      "text": "As she took out her class register as usual, she started\nspeaking."
+    },
+    {
+      "offset": 1392,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「わがクラスの工藤叶だが……彼は退学届を出\n　した」",
+      "en": "\"Kudou Kanae from our class... he has officially dropped out\nfrom our school.\"",
+      "text": "\"Kudou Kanae from our class... he has officially dropped out\nfrom our school.\""
+    },
+    {
+      "offset": 1450,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「……なっ！！？？」",
+      "en": "\".....What!!??\"",
+      "text": "\".....What!!??\""
+    },
+    {
+      "offset": 1477,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一斉にざわめきが走る。俺は勢いよく席を立ち\n上がっていた。",
+      "en": "Confusion reigned at once. I heatedly stood up at my desk.",
+      "text": "Confusion reigned at once. I heatedly stood up at my desk."
+    },
+    {
+      "offset": 1541,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どういう事ですか！？」",
+      "en": "\"What do you mean by that!?\"",
+      "text": "\"What do you mean by that!?\""
+    },
+    {
+      "offset": 1598,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「はい、みんな静かに！　……特に朝倉、落ち\n　着け」",
+      "en": "\"Alright, everyone, settle down! ... And you, Asakura, calm\ndown.\"",
+      "text": "\"Alright, everyone, settle down! ... And you, Asakura, calm\ndown.\""
+    },
+    {
+      "offset": 1682,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ふたつめの報せを先にしなきゃならん。わが\n　クラスに転入生が来たのだ」",
+      "en": "\"Like I said before, I have two things to say. A new\ntransfer student is taking his place.\"",
+      "text": "\"Like I said before, I have two things to say. A new\ntransfer student is taking his place.\""
+    },
+    {
+      "offset": 1760,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「転入生なんてどうでもいい！　俺が知りたい\n　のは叶の事だ！！」",
+      "en": "\"Who cares about that transfer student! I want to know what\nhappened to Kanae!!\"",
+      "text": "\"Who cares about that transfer student! I want to know what\nhappened to Kanae!!\""
+    },
+    {
+      "offset": 1847,
+      "speaker": "Girl",
+      "speaker_jp": "女の子",
+      "jp": "「ひどいな、朝倉君」",
+      "en": "\"That's mean, Asakura-kun.\"",
+      "text": "\"That's mean, Asakura-kun.\""
+    },
+    {
+      "offset": 1874,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……その時、涼やかな声が俺を制した。",
+      "en": "...At that moment, a cool voice reached my ears.",
+      "text": "...At that moment, a cool voice reached my ears."
+    },
+    {
+      "offset": 1929,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……………え？」",
+      "en": "\"......Eh?\"",
+      "text": "\"......Eh?\""
+    },
+    {
+      "offset": 1954,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……聞き覚えがある、この声…………………。",
+      "en": "...I remember it, that voice.........",
+      "text": "...I remember it, that voice........."
+    },
+    {
+      "offset": 2001,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目に見えない糸に惹かれるように、俺はゆっく\nりとそちらを振り返った。",
+      "en": "I slowly turned my head to face that voice that I knew\nall-so-well.",
+      "text": "I slowly turned my head to face that voice that I knew\nall-so-well."
+    },
+    {
+      "offset": 2113,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「私のこと、どうでもいいんだ」",
+      "en": "\"Who cares about me, huh?\"",
+      "text": "\"Who cares about me, huh?\""
+    },
+    {
+      "offset": 2150,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふわり。スカートの｛すそ／裾｝を軽やかになびかせて、",
+      "en": "There. Straigtening the hem of her skirt,",
+      "text": "There. Straigtening the hem of her skirt,"
+    },
+    {
+      "offset": 2207,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ショートカットの美少女が立っていた。",
+      "en": "a pretty girl with short hair stood.",
+      "text": "a pretty girl with short hair stood."
+    },
+    {
+      "offset": 2250,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……か………………………」",
+      "en": "\"......Ka.........\"",
+      "text": "\"......Ka.........\""
+    },
+    {
+      "offset": 2285,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "叶。",
+      "en": "Kanae.",
+      "text": "Kanae."
+    },
+    {
+      "offset": 2294,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それは、ほんとうの「工藤叶」だった。",
+      "en": "That is, the real \"Kudou Kanae\".",
+      "text": "That is, the real \"Kudou Kanae\"."
+    },
+    {
+      "offset": 2335,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "先ほどとは打って変わった、静かなざわめきが、\nまるで｛さざなみ／漣｝のように広まっていく。",
+      "en": "Unlike before, rather than a sudden burst of noise, just a\nslow ripple overcame the class.",
+      "text": "Unlike before, rather than a sudden burst of noise, just a\nslow ripple overcame the class."
+    },
+    {
+      "offset": 2429,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "クラスの連中も、どこか見覚えのあるこの少女\nに対して戸惑っているのがうかがい知れた。",
+      "en": "The classmates knew that they've seen her before, yet\ncouldn't place where...",
+      "text": "The classmates knew that they've seen her before, yet\ncouldn't place where..."
+    },
+    {
+      "offset": 2564,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ほれ、自己紹介だ。案の定、みんな分からん\n　らしい」",
+      "en": "\"Alright, introduce yourself. Sure enough, no one got it. I\nsuppose that's expected, though.\"",
+      "text": "\"Alright, introduce yourself. Sure enough, no one got it. I\nsuppose that's expected, though.\""
+    },
+    {
+      "offset": 2624,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どこか面白がるような口調で促す暦先生。",
+      "en": "Her tone of voice was far more amused than anything else.",
+      "text": "Her tone of voice was far more amused than anything else."
+    },
+    {
+      "offset": 2697,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「はい、先生」",
+      "en": "\"Okay, sensei.\"",
+      "text": "\"Okay, sensei.\""
+    },
+    {
+      "offset": 2730,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "叶は小さく頷くと教壇の脇に立った。",
+      "en": "Kanae nodded, walked to the platform, and stood at it's\nside.",
+      "text": "Kanae nodded, walked to the platform, and stood at it's\nside."
+    },
+    {
+      "offset": 2790,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "礼儀正しく頭をさげ、ゆっくり教室中を見回し\nてから思い切ったように口を開く。",
+      "en": "She bowed with just the right amount of politeness, took a\nquick look around the classroom, then opened her mouth\nresolutely.",
+      "text": "She bowed with just the right amount of politeness, took a\nquick look around the classroom, then opened her mouth\nresolutely."
+    },
+    {
+      "offset": 2883,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「はじめまして…………になるんでしょうか。\n　私の名前は、工藤叶と申します」",
+      "en": "\"Nice to meet you... of sorts. My name is Kudou Kanae.\"",
+      "text": "\"Nice to meet you... of sorts. My name is Kudou Kanae.\""
+    },
+    {
+      "offset": 2971,
+      "speaker": "Guy",
+      "speaker_jp": "男子",
+      "jp": "「っえ……………………」",
+      "en": "\"Wha......\"",
+      "text": "\"Wha......\""
+    },
+    {
+      "offset": 3002,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ざわざわと漣が広がっていく。",
+      "en": "The ripple of noise was slowly becoming a wave.",
+      "text": "The ripple of noise was slowly becoming a wave."
+    },
+    {
+      "offset": 3043,
+      "speaker": "Tahata",
+      "speaker_jp": "田端",
+      "jp": "「……工藤、か」",
+      "en": "\"...Kudou, huh.\"",
+      "text": "\"...Kudou, huh.\""
+    },
+    {
+      "offset": 3066,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "未だ事情が飲み込めぬらしきクラスメイトたち\nの間で、日頃寡黙な田端が一言を発する。",
+      "en": "The shock of the class was evident by Tahata actually\nthrowing off his reticience in shock.",
+      "text": "The shock of the class was evident by Tahata actually\nthrowing off his reticience in shock."
+    },
+    {
+      "offset": 3152,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつもと同じくぼそりとつぶやくような口調だっ\nたが、それはさながら一発の爆弾が放り込まれ\nたような効果をもたらした。",
+      "en": "It's not something he hasn't said before, but the impact of\nthat was enough to set bombs off around the classroom.",
+      "text": "It's not something he hasn't said before, but the impact of\nthat was enough to set bombs off around the classroom."
+    },
+    {
+      "offset": 3281,
+      "speaker": "Guy A",
+      "speaker_jp": "男子Ａ",
+      "jp": "「っえ…………く……工藤って、あの娘が！？」",
+      "en": "\"...What.... the.... Kudou is that girl!?\"",
+      "text": "\"...What.... the.... Kudou is that girl!?\""
+    },
+    {
+      "offset": 3340,
+      "speaker": "Guy B",
+      "speaker_jp": "男子Ｂ",
+      "jp": "「嘘だろぉおお！！？？」",
+      "en": "\"This HAS to be a joke!!??\"",
+      "text": "\"This HAS to be a joke!!??\""
+    },
+    {
+      "offset": 3371,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その漣は、やがて怒涛に変わり教室中を埋め尽\nくした。",
+      "en": "The wave then became a tsunami, enveloping the entire class.",
+      "text": "The wave then became a tsunami, enveloping the entire class."
+    },
+    {
+      "offset": 3479,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「やっと気兼ねなく呼べるね、叶ちゃん」",
+      "en": "\"I can finally address you comfortably, Kanae-chan.\"",
+      "text": "\"I can finally address you comfortably, Kanae-chan.\""
+    },
+    {
+      "offset": 3524,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "嬉しそうな笑顔でことりが叶の肩を叩く。",
+      "en": "Kotori patted Kanae on the shoulder with a bright smile.",
+      "text": "Kotori patted Kanae on the shoulder with a bright smile."
+    },
+    {
+      "offset": 3602,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「ごめんね、ことり。ずっと迷惑かけて」",
+      "en": "\"Sorry, Kotori. I troubled you so much all this time.\"",
+      "text": "\"Sorry, Kotori. I troubled you so much all this time.\""
+    },
+    {
+      "offset": 3682,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「もー。謝る相手は、私じゃないでしょ？」",
+      "en": "\"Heeeyy, I'm not the one you need to apologize to, right?\"",
+      "text": "\"Heeeyy, I'm not the one you need to apologize to, right?\""
+    },
+    {
+      "offset": 3729,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、ことりは俺に向けて小さくウインクをして\nみせた。",
+      "en": "Kotori then glanced at me, giving me a small wink.",
+      "text": "Kotori then glanced at me, giving me a small wink."
+    },
+    {
+      "offset": 3787,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……ことり」",
+      "en": "\"...Kotori.\"",
+      "text": "\"...Kotori.\""
+    },
+    {
+      "offset": 3844,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「なるほど………………そういうことであった\n　のだな、朝倉」",
+      "en": "\"I see......... I finally understand, Asakura.\"",
+      "text": "\"I see......... I finally understand, Asakura.\""
+    },
+    {
+      "offset": 3910,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつの間にか隣に立っていた杉並が腕組みをし\nてうむうむと首を上下に動かしていた。",
+      "en": "Suginami had sneaked up beside me without my notice, folding\nhis arms and scratching his chin.",
+      "text": "Suginami had sneaked up beside me without my notice, folding\nhis arms and scratching his chin."
+    },
+    {
+      "offset": 3996,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ああ……」",
+      "en": "\"Yeah...\"",
+      "text": "\"Yeah...\""
+    },
+    {
+      "offset": 4043,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「三年以上友として過ごしながら正体を見抜け\n　なんだとは……この杉並、一生の不覚！」",
+      "en": "\"Being a friend for three years, yet not being able to see\nthrough the facade... this failure will stay with me through\nmy life!\"",
+      "text": "\"Being a friend for three years, yet not being able to see\nthrough the facade... this failure will stay with me through\nmy life!\""
+    },
+    {
+      "offset": 4161,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……だが朝倉、よくやったぞぉ。風聞や逆境\n　に耐えてなお己の想い人を護り通したその立\n　派さ、騎士の称号に相応しき哉！」",
+      "en": "\"...Yet for you, Asakura, who braved adversity and venomous\nrumours to pursue and protect your lover, you truly are a\nknight!\"",
+      "text": "\"...Yet for you, Asakura, who braved adversity and venomous\nrumours to pursue and protect your lover, you truly are a\nknight!\""
+    },
+    {
+      "offset": 4294,
+      "speaker": "朝倉",
+      "speaker_jp": "朝倉",
+      "jp": "「……お前はいちいち大袈裟なんだよ」",
+      "en": "\"...You're always exaggerating so damn much.\"",
+      "text": "\"...You're always exaggerating so damn much.\""
+    },
+    {
+      "offset": 4337,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな大袈裟な事をいいながらも、杉並の口元\nは笑みを作っていた。",
+      "en": "I tried to get him to stop, but he had that usual grin on\nhis face.",
+      "text": "I tried to get him to stop, but he had that usual grin on\nhis face."
+    },
+    {
+      "offset": 4405,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その笑みを見て、ふとあることに思い至ったが、",
+      "en": "Looking at that grin made me realize something...",
+      "text": "Looking at that grin made me realize something..."
+    },
+    {
+      "offset": 4456,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「って……」",
+      "en": "\"Wait a minute...\"",
+      "text": "\"Wait a minute...\""
+    },
+    {
+      "offset": 4475,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並にその事を尋ねる前に、「とっとと側にいっ\nてやらんか馬鹿者」と、頭をこづかれる。",
+      "en": "But before I could say anything further, he told me \"Go to\nher side, idiot\", and clocked me one on the head.",
+      "text": "But before I could say anything further, he told me \"Go to\nher side, idiot\", and clocked me one on the head."
+    },
+    {
+      "offset": 4565,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ああ……」",
+      "en": "\"Yeah...\"",
+      "text": "\"Yeah...\""
+    },
+    {
+      "offset": 4584,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "わかってるさそんなこと、言われなくてもな。",
+      "en": "I know that already, sheesh, you don't have to tell me.",
+      "text": "I know that already, sheesh, you don't have to tell me."
+    },
+    {
+      "offset": 4643,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう……なんていうか、もしかしたら｛こいつ／杉並｝、本\n当は全部知っていたのかもしれない。",
+      "en": "Yeah... maybe, just maybe, that idiot knew everything from\nthe start as well.",
+      "text": "Yeah... maybe, just maybe, that idiot knew everything from\nthe start as well."
+    },
+    {
+      "offset": 4737,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう考えるとあの忠告の意味も頷けた。",
+      "en": "I thought about the advice he gave me before.",
+      "text": "I thought about the advice he gave me before."
+    },
+    {
+      "offset": 4778,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いろいろと回りくどいことしやがって。",
+      "en": "It could mean so many things though.",
+      "text": "It could mean so many things though."
+    },
+    {
+      "offset": 4819,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……まったくかったるい奴だよ。",
+      "en": "...Bah, what a troublesome idiot.",
+      "text": "...Bah, what a troublesome idiot."
+    },
+    {
+      "offset": 4854,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふらふらと歩み出る。",
+      "en": "I staggeredly made my way.",
+      "text": "I staggeredly made my way."
+    },
+    {
+      "offset": 4879,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の大切な女の子の前に。",
+      "en": "To my most important girl.",
+      "text": "To my most important girl."
+    },
+    {
+      "offset": 4943,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「朝倉君…………」",
+      "en": "\"Asakura-kun...\"",
+      "text": "\"Asakura-kun...\""
+    },
+    {
+      "offset": 4968,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "叶は微笑んでそっと俺の手をとった。",
+      "en": "Kanae smiled and took my hand.",
+      "text": "Kanae smiled and took my hand."
+    },
+    {
+      "offset": 5007,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、はにかみながらもしっかりとした通る\n声で、クラス中に呼びかけた。",
+      "en": "Then, using me to shyly hide herself from the rest of the\nclass, started addressing them through me.",
+      "text": "Then, using me to shyly hide herself from the rest of the\nclass, started addressing them through me."
+    },
+    {
+      "offset": 5113,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「私は、ほんの少しだけ変わりましたけど……\n　このクラスの一員で、『工藤叶』であること\n　は同じなんです」",
+      "en": "\"I may have have changed a bit... but I'm still the same\n\"Kudou Kanae\" that was once part of this class.\"",
+      "text": "\"I may have have changed a bit... but I'm still the same\n\"Kudou Kanae\" that was once part of this class.\""
+    },
+    {
+      "offset": 5252,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「だから、皆さん……今までと変わらずに、仲\n　良くしてくださいね」",
+      "en": "\"So, everyone... just as before, let's become good friends.\"",
+      "text": "\"So, everyone... just as before, let's become good friends.\""
+    },
+    {
+      "offset": 5324,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一点の曇りも無く｛すがすが／清々｝しいその笑顔は、｛さわ／爽｝やか\nに晴れ渡る初夏の青空のようだった。",
+      "en": "in the fresh and clear first days of summer, her smile was\neven more invigorating and bright.",
+      "text": "in the fresh and clear first days of summer, her smile was\neven more invigorating and bright."
+    },
+    {
+      "offset": 5548,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆転入生◆",
+      "en": "◆Transfer Student◆",
+      "text": "◆Transfer Student◆"
+    },
+    {
+      "offset": 5587,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昨日、『さようなら』と言って俺の前から去っ\nた叶のことが気になって仕方なかった。",
+      "en": "Yesterday, I couldn't get the girl who told me \"farewell\"\nout of my mind.",
+      "text": "Yesterday, I couldn't get the girl who told me \"farewell\"\nout of my mind."
+    },
+    {
+      "offset": 5671,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな時、暦先生から皆に信じられない話があっ\nた。叶が退学届を出したと言うのだ。",
+      "en": "Then today, Koyomi-sensei told everyone something\nunbelievable; that Kanae had dropped out of the school.",
+      "text": "Then today, Koyomi-sensei told everyone something\nunbelievable; that Kanae had dropped out of the school."
+    },
+    {
+      "offset": 5755,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "たまらず、暦先生に詰め寄る俺の耳に響いた、\n懐かしい声。",
+      "en": "Then, drawing closer to Koyomi-sensei, a voice that I held\nso close to my heart.",
+      "text": "Then, drawing closer to Koyomi-sensei, a voice that I held\nso close to my heart."
+    },
+    {
+      "offset": 5815,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そこには真新しい本校制服に身を包んだ転入生、\n工藤叶が微笑んでいた。",
+      "en": "The new transfer student Kudou Kanae, wearing the female\nuniform of the main school, was smiling.",
+      "text": "The new transfer student Kudou Kanae, wearing the female\nuniform of the main school, was smiling."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "1098": "Weekly Duty",
+    "1240": "Koyomi",
+    "1386": "Koyomi",
+    "1592": "Koyomi",
+    "1676": "Koyomi",
+    "1837": "Girl",
+    "2105": "Kudou",
+    "2558": "Koyomi",
+    "2689": "Kudou",
+    "2875": "Kudou",
+    "2963": "Guy",
+    "3035": "Tahata",
+    "3271": "Guy A",
+    "3330": "Guy B",
+    "3469": "Kotori",
+    "3594": "Kudou",
+    "3672": "Kotori",
+    "3836": "Suginami",
+    "4035": "Suginami",
+    "4153": "Suginami",
+    "4935": "Kudou",
+    "5105": "Kudou",
+    "5244": "Kudou"
+  }
+}

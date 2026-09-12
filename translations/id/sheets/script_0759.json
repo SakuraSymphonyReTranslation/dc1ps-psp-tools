@@ -1,0 +1,542 @@
+{
+  "scene": "script_0759.obj",
+  "dialogues": [
+    {
+      "offset": 145,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "つつがなく授業が終わる。",
+      "en": "\"Hm...\"",
+      "text": "\"Hm...\""
+    },
+    {
+      "offset": 176,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……ふむ」",
+      "en": "Even though we had Math and Physics today, Sakura wasn't\nallowed to teach them.",
+      "text": "Even though we had Math and Physics today, Sakura wasn't\nallowed to teach them."
+    },
+    {
+      "offset": 195,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日も数学や物理はあったのだが、さくらは授\n業をやらせてもらえないらしい。",
+      "en": "She showed up in the homeroom after the class, but after she\ndid the administrative stuff, she left the room with a sad\nsmile on her face.",
+      "text": "She showed up in the homeroom after the class, but after she\ndid the administrative stuff, she left the room with a sad\nsmile on her face."
+    },
+    {
+      "offset": 273,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "帰りのホームルームには現れたが、事務的に片\n付けて、俺に少しだけ笑顔を浮かべて去ってし\nまった。",
+      "en": "I wonder if she was alone in the staff room in the\nafternoon.",
+      "text": "I wonder if she was alone in the staff room in the\nafternoon."
+    },
+    {
+      "offset": 372,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "午後の時間は、また職員室で一人ぼっちだった\nのだろうか。",
+      "en": "When I think about that, I can't sit still, but I don't want\nto spoil her, either.",
+      "text": "When I think about that, I can't sit still, but I don't want\nto spoil her, either."
+    },
+    {
+      "offset": 432,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう考えると、いてもたってもいられないのだ\nが、甘やかすこともしたくはない。",
+      "en": "If her dream is being a teacher, she should get over it by\nherself.",
+      "text": "If her dream is being a teacher, she should get over it by\nherself."
+    },
+    {
+      "offset": 622,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「朝倉君って結構シビアだよね」",
+      "en": "\"You're a quite strict guy, aren't you?\"",
+      "text": "\"You're a quite strict guy, aren't you?\""
+    },
+    {
+      "offset": 659,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "帽子を整えながら、ことりが上品に微笑んでい\nた。",
+      "en": "Kotori is smiling elegantly while fixing her hat.",
+      "text": "Kotori is smiling elegantly while fixing her hat."
+    },
+    {
+      "offset": 713,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 758,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、なんでもないの。珍しい顔してたなって」",
+      "en": "\"Oh, nothing. I said you looked a little different.\"",
+      "text": "\"Oh, nothing. I said you looked a little different.\""
+    },
+    {
+      "offset": 918,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぐーっと机に寝そべる。",
+      "en": "\"Really?\"",
+      "text": "\"Really?\""
+    },
+    {
+      "offset": 977,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「くすくす……別に照れなくてもいいのに」",
+      "en": "\"You looked kinda cool, though.\"",
+      "text": "\"You looked kinda cool, though.\""
+    },
+    {
+      "offset": 1308,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "椅子を足で押しながら立ち上がり、そのまま机\nに座る。",
+      "en": "\"Come on, stop that nonsense...\"",
+      "text": "\"Come on, stop that nonsense...\""
+    },
+    {
+      "offset": 1366,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「杉並は？」",
+      "en": "I lean on the desk.",
+      "text": "I lean on the desk."
+    },
+    {
+      "offset": 1499,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「なんか学園のデータを見てるのが楽しすぎ\n　るらしくて、私に代返頼む、って引きこもっ\n　ちゃった」",
+      "en": "\"Heehee... You don't need to be embarrassed.\"",
+      "text": "\"Heehee... You don't need to be embarrassed.\""
+    },
+    {
+      "offset": 1639,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あいつ、ちゃんとさくらのこと調べてるんだろ\nうな。",
+      "en": "\"Who wouldn't feel embarrassed when you say it like that?\"",
+      "text": "\"Who wouldn't feel embarrassed when you say it like that?\""
+    },
+    {
+      "offset": 1725,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そぅ、朝倉くんにも教えておくことがひとつ\n　だけあるの……その、変な話」",
+      "en": "\"Really? I think Nemu-chan does an even better job on that\nscore.\"",
+      "text": "\"Really? I think Nemu-chan does an even better job on that\nscore.\""
+    },
+    {
+      "offset": 1805,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "人差し指を立ててことりが顔を寄せてくる。",
+      "en": "\"Is that 'better', or 'worse'?\"",
+      "text": "\"Is that 'better', or 'worse'?\""
+    },
+    {
+      "offset": 1865,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あのね……芳乃先生を辞めさせるって話、な\n　くなっちゃった」",
+      "en": "\"A girl's smile is measured by how attractive it is.\"",
+      "text": "\"A girl's smile is measured by how attractive it is.\""
+    },
+    {
+      "offset": 1952,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "唐突過ぎて、本来なら喜ばしい話なのに呆然と\nしてしまう。",
+      "en": "\"Good to know...\"",
+      "text": "\"Good to know...\""
+    },
+    {
+      "offset": 2269,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "両手を合わせて、ことりが鞄を持って出て行っ\nてしまう。",
+      "en": "I stand up while pushing the chair out, and sit on the desk.",
+      "text": "I stand up while pushing the chair out, and sit on the desk."
+    },
+    {
+      "offset": 2329,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんだ？　――あ」",
+      "en": "\"Where's Suginami?\"",
+      "text": "\"Where's Suginami?\""
+    },
+    {
+      "offset": 2356,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ポケットの中の携帯が震える。",
+      "en": "I haven't seen him since this afternoon. I know he must have\nmet Kotori for the meeting at lunch recess.",
+      "text": "I haven't seen him since this afternoon. I know he must have\nmet Kotori for the meeting at lunch recess."
+    },
+    {
+      "offset": 2389,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もやもやと何一つ気持ちよくなれない気分のま\nま、携帯を取り出す。",
+      "en": "\"He said he's been having so much fun taking a look at the\nschool database, and went inside after he asked me to answer\nthe roll for him.\"",
+      "text": "\"He said he's been having so much fun taking a look at the\nschool database, and went inside after he asked me to answer\nthe roll for him.\""
+    },
+    {
+      "offset": 2459,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「メールか……。杉並？」",
+      "en": "\"What an idiot to ask you to answer the roll for him...\"",
+      "text": "\"What an idiot to ask you to answer the roll for him...\""
+    },
+    {
+      "offset": 2490,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "小さな液晶には、杉並の名前とメール着信の表\n示があった。",
+      "en": "I hope he's checking the information about Sakura in there.",
+      "text": "I hope he's checking the information about Sakura in there."
+    },
+    {
+      "offset": 2552,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あいつ、なにやってんだ……」",
+      "en": "\"Oh, I've one thing I've to tell you, Asakura-kun... It's a\nkind of weird story, but...\"",
+      "text": "\"Oh, I've one thing I've to tell you, Asakura-kun... It's a\nkind of weird story, but...\""
+    },
+    {
+      "offset": 2589,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "開いたメールには、一言。",
+      "en": "Putting her index finger up, Kotori brings her face closer\nto me.",
+      "text": "Putting her index finger up, Kotori brings her face closer\nto me."
+    },
+    {
+      "offset": 2618,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『今日は、天気がいいな』",
+      "en": "\"Listen... They're not talking about firing Yoshino-sensei\nany more.\"",
+      "text": "\"Listen... They're not talking about firing Yoshino-sensei\nany more.\""
+    },
+    {
+      "offset": 2647,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とだけ書かれていた。",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 2674,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「バカバカしい！　データの閲覧ってやつは、\n　そんなに楽しいのか？」",
+      "en": "That's totally out of the blue. I feel dumbfounded at this\nhappy news.",
+      "text": "That's totally out of the blue. I feel dumbfounded at this\nhappy news."
+    },
+    {
+      "offset": 2748,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、返事などするはずもなく、携帯を仕舞う。",
+      "en": "\"Well, those people who wanted to get rid of Sakura-sensei\nhad accidents. Umm... I will tell you more after I find out\na bit more.\"",
+      "text": "\"Well, those people who wanted to get rid of Sakura-sensei\nhad accidents. Umm... I will tell you more after I find out\na bit more.\""
+    },
+    {
+      "offset": 2797,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "席を立ち、カバンを手にする。ことりも頑張っ\nているんだから、俺も頑張らなきゃ。",
+      "en": "\"Wait a second, Kotori.\"",
+      "text": "\"Wait a second, Kotori.\""
+    },
+    {
+      "offset": 2879,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──ぶるる",
+      "en": "\"Sorry, but I don't have any evidence yet to confirm.\"",
+      "text": "\"Sorry, but I don't have any evidence yet to confirm.\""
+    },
+    {
+      "offset": 2896,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……また、メール？」",
+      "en": "Picking up her bag with her hands close together, Kotori\nleaves the room.",
+      "text": "Picking up her bag with her hands close together, Kotori\nleaves the room."
+    },
+    {
+      "offset": 2925,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかも、また杉並だった。",
+      "en": "\"What's that? Uhh...\"",
+      "text": "\"What's that? Uhh...\""
+    },
+    {
+      "offset": 2954,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『お前、俺のこと好きか？』",
+      "en": "Walking with other students on their way home, Suginami\ncomes in the classroom.",
+      "text": "Walking with other students on their way home, Suginami\ncomes in the classroom."
+    },
+    {
+      "offset": 2987,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……ハァ！？」",
+      "en": "\"Suginami.\"",
+      "text": "\"Suginami.\""
+    },
+    {
+      "offset": 3010,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さすがに、『いっぺん死んで来い』とでも返事\nを打とうとした矢先に、続けてメール着信が入\nる。",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3105,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もちろん、杉並だった。",
+      "en": "\"Hey?\"",
+      "text": "\"Hey?\""
+    },
+    {
+      "offset": 3132,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『朝倉、お前は魔法って信じるか？』",
+      "en": "I'm not sure if he heard me or not, but he sits on the chair\nright in front of me and stares at the blackboard.",
+      "text": "I'm not sure if he heard me or not, but he sits on the chair\nright in front of me and stares at the blackboard."
+    },
+    {
+      "offset": 3171,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "くだらない質問だと思った。ただの｛ざ／戯｝れ言のよ\nうな（その前のメールを考えれば、あからさま\nに戯れ言なのだが）",
+      "en": "\"Oh? I didn't realize that class was already over.\"",
+      "text": "\"Oh? I didn't realize that class was already over.\""
+    },
+    {
+      "offset": 3288,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その一文が、妙に引っかかった。",
+      "en": "\"What are you doing here?\"",
+      "text": "\"What are you doing here?\""
+    },
+    {
+      "offset": 3323,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "きゅうっと胸が締め付けられる──というより\n心臓を鷲づかみにされる感覚。",
+      "en": "I give him a karate-chop on the back of his head.",
+      "text": "I give him a karate-chop on the back of his head."
+    },
+    {
+      "offset": 3401,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ちっ、あいつめ……一体何をやってやがる」",
+      "en": "\"Hm, Asakura. I guess you finally mastered the instant\nmovement.\"",
+      "text": "\"Hm, Asakura. I guess you finally mastered the instant\nmovement.\""
+    },
+    {
+      "offset": 3450,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "着信から、メニューを開いて、電話をかける。",
+      "en": "\"Your brains are just tripped out, that's it.\"",
+      "text": "\"Your brains are just tripped out, that's it.\""
+    },
+    {
+      "offset": 3497,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ワンコールもしないまま、電話は通じた。",
+      "en": "He'll realize it when he looks at the students going home or\nthe chime in the hallway.",
+      "text": "He'll realize it when he looks at the students going home or\nthe chime in the hallway."
+    },
+    {
+      "offset": 3542,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おいっ、杉並！　なんだ、このメールは！\n　お前、なにしてる！」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3612,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、杉並からは返事はなかった。",
+      "en": "\"Hey, Suginami? Why are you so quiet?\"",
+      "text": "\"Hey, Suginami? Why are you so quiet?\""
+    },
+    {
+      "offset": 3653,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「返事しろよ、コラ！　ふざけてんじゃねぇ」",
+      "en": "\"Uhh, yeah... I have a question for you.\"",
+      "text": "\"Uhh, yeah... I have a question for you.\""
+    },
+    {
+      "offset": 3702,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やはり、電話はつながっただけで、返事もなに\nもない。",
+      "en": "After getting up from the chair, Suginami stands at the\nfront of the class.",
+      "text": "After getting up from the chair, Suginami stands at the\nfront of the class."
+    },
+    {
+      "offset": 3760,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「──杉並？」",
+      "en": "I realize there are only Suginami and me in the room.",
+      "text": "I realize there are only Suginami and me in the room."
+    },
+    {
+      "offset": 3786,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『──にゃ〜ん』",
+      "en": "\"Do you believe in magic powers?\"",
+      "text": "\"Do you believe in magic powers?\""
+    },
+    {
+      "offset": 3809,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ちっ、勝手にやってろ」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 3840,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──ピッ",
+      "en": "It was another unexpected question.",
+      "text": "It was another unexpected question."
+    },
+    {
+      "offset": 3853,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さすがに付き合ってられない。俺は通信を切る。",
+      "en": "What's going on with Kotori and Suginami today?",
+      "text": "What's going on with Kotori and Suginami today?"
+    },
+    {
+      "offset": 3902,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、さっきの一文──。",
+      "en": "\"Well, never mind...\"",
+      "text": "\"Well, never mind...\""
+    },
+    {
+      "offset": 3933,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、もう一度、さっきのメールを開いた。",
+      "en": "\"Hey.\"",
+      "text": "\"Hey.\""
+    },
+    {
+      "offset": 3978,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『朝倉、お前は魔法って信じるか？』",
+      "en": "He finished his comment halfway through, and I feel\ndumbfounded again, just like when he came in.",
+      "text": "He finished his comment halfway through, and I feel\ndumbfounded again, just like when he came in."
+    },
+    {
+      "offset": 4017,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりといい、杉並といい、いったい今日はな\nんなのだろう？",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 4081,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……わけが分からん」",
+      "en": "I give a sigh, scratching my head.",
+      "text": "I give a sigh, scratching my head."
+    },
+    {
+      "offset": 4110,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、探偵映画よろしく、ばりばりと髪の毛を\nかき回した。",
+      "en": "\"I have no idea what's going on.\"",
+      "text": "\"I have no idea what's going on.\""
+    },
+    {
+      "offset": 4292,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆変化の兆し◆",
+      "en": "◆Foreboding change◆",
+      "text": "◆Foreboding change◆"
+    },
+    {
+      "offset": 4335,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "不思議な話だが、さくらを講師から辞めさせよ\nうとしていた人達が、皆して事故にあってしまっ\nたという。",
+      "en": "Strangely, all the people who wanted to kick Sakura out of\nher teaching position had accidents.",
+      "text": "Strangely, all the people who wanted to kick Sakura out of\nher teaching position had accidents."
+    },
+    {
+      "offset": 4438,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並は「魔法を信じるか？」なんて訳のわから\nないメールを送ってくるし、",
+      "en": "Even Suginami asked if I believe in magic powers, which made\nme wonder if something awful was about to happen.",
+      "text": "Even Suginami asked if I believe in magic powers, which made\nme wonder if something awful was about to happen."
+    },
+    {
+      "offset": 4512,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さすがの俺も、なにかおかしなことが起こり始\nめているのを感じた。",
+      "en": "The class finishes without any mishaps.",
+      "text": "The class finishes without any mishaps."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "612": "Kotori",
+    "748": "Kotori",
+    "967": "Kotori",
+    "1489": "Kotori",
+    "1715": "Kotori",
+    "1855": "Kotori"
+  }
+}

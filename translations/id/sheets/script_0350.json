@@ -1,0 +1,55 @@
+{
+  "scene": "script_0350.obj",
+  "dialogues": [
+    {
+      "offset": 131,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（今日もあと２時間か……）",
+      "en": "\"(Just two more hours left from today...)\"",
+      "text": "\"(Just two more hours left from today...)\""
+    },
+    {
+      "offset": 164,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "付属最後のランチは何を食べようかな。",
+      "en": "I wonder what I should eat for my final lunch as a\nmid-grader.",
+      "text": "I wonder what I should eat for my final lunch as a\nmid-grader."
+    },
+    {
+      "offset": 207,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（といっても選択肢は限られてるけど）",
+      "en": "\"(Not that I have many choices, anyway.)\"",
+      "text": "\"(Not that I have many choices, anyway.)\""
+    },
+    {
+      "offset": 250,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さて、どこに行こうか……。",
+      "en": "Now then, where should I go.",
+      "text": "Now then, where should I go."
+    },
+    {
+      "offset": 385,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆付属最後の昼◆",
+      "en": "◆The Final Day's Lunch Break◆",
+      "text": "◆The Final Day's Lunch Break◆"
+    },
+    {
+      "offset": 430,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日はなんでも『付属最後の』になるが、さて\nどうしようかな。",
+      "en": "Since today's the final day of classes, I wonder where\nshould I go for lunch.",
+      "text": "Since today's the final day of classes, I wonder where\nshould I go for lunch."
+    }
+  ],
+  "choices": [],
+  "names": {}
+}

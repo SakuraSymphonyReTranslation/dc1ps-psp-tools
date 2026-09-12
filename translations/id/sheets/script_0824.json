@@ -1,0 +1,807 @@
+{
+  "scene": "script_0824.obj",
+  "dialogues": [
+    {
+      "offset": 220,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「遅いな……」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 241,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりとどこかに出かける時は、学園の前で待\nち合わせをすることにしていた。",
+      "en": "\"She's late...\"",
+      "text": "\"She's late...\""
+    },
+    {
+      "offset": 319,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "約束の時間を３０分過ぎているのに、ことりの\n姿は未だ現れない。",
+      "en": "Not sure exactly where to wait for Kotori, I decided to wait\nat school.",
+      "text": "Not sure exactly where to wait for Kotori, I decided to wait\nat school."
+    },
+    {
+      "offset": 387,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どうしたんだろうな……」",
+      "en": "It was 30 minutes past the time we had promised to meet, but\nher figure had not appeared.",
+      "text": "It was 30 minutes past the time we had promised to meet, but\nher figure had not appeared."
+    },
+    {
+      "offset": 420,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昨日、あれだけはっきりと遊園地に行くと言っ\nていたのに。",
+      "en": "\"What happened to her this time...\"",
+      "text": "\"What happened to her this time...\""
+    },
+    {
+      "offset": 482,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「後１０分待って……それで来なかったら、家\n　に行ってみよう……」",
+      "en": "\"I'd wait 10 more minutes... then I'd check her house...\"",
+      "text": "\"I'd wait 10 more minutes... then I'd check her house...\""
+    },
+    {
+      "offset": 554,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "………。",
+      "en": ".........",
+      "text": "........."
+    },
+    {
+      "offset": 567,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 578,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…。",
+      "en": "...",
+      "text": "..."
+    },
+    {
+      "offset": 639,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『はい』",
+      "en": "\"Yes?\"",
+      "text": "\"Yes?\""
+    },
+    {
+      "offset": 654,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「あ、暦先生ですか？　朝倉です」",
+      "en": "\"Ah, Koyomi-sensei? It's Asakura.\"",
+      "text": "\"Ah, Koyomi-sensei? It's Asakura.\""
+    },
+    {
+      "offset": 702,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "『ああ、うん、君か。今、開けるから』",
+      "en": "\"Ahh, it's you. I'd open the door.\"",
+      "text": "\"Ahh, it's you. I'd open the door.\""
+    },
+    {
+      "offset": 809,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「どうしたんだい？　授業の分からないところ\n　でも｛き／訊｝きに来た？」",
+      "en": "\"What are you doing here? Did you come to ask me about\nsomething in the lesson you didn't understand?\"",
+      "text": "\"What are you doing here? Did you come to ask me about\nsomething in the lesson you didn't understand?\""
+    },
+    {
+      "offset": 887,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ソファーにゆったりと身体を横たえた暦先生は、\n何だか疲れたような笑みを向けてきた。",
+      "en": "Koyomi-sensei sat down calmly on the sofa, with a smile that\nhinted at tiredness.",
+      "text": "Koyomi-sensei sat down calmly on the sofa, with a smile that\nhinted at tiredness."
+    },
+    {
+      "offset": 975,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はは、俺がそんな殊勝な学生に見えますか？」",
+      "en": "\"Haha, you think I am such an admirable student?\"",
+      "text": "\"Haha, you think I am such an admirable student?\""
+    },
+    {
+      "offset": 1052,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ま、メガネを取ればあるいは」",
+      "en": "\"Maybe when I take off my glasses.\"",
+      "text": "\"Maybe when I take off my glasses.\""
+    },
+    {
+      "offset": 1089,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "レンズをくいっと持ち上げ、口元をにやっと歪\nめる。",
+      "en": "She lifted her lens on top of her head, and frowned at me in\nthought.",
+      "text": "She lifted her lens on top of her head, and frowned at me in\nthought."
+    },
+    {
+      "offset": 1145,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まあそれはまた今度ってことで。それで……\n　ことり、さんは居ます？」",
+      "en": "\"Anyway, that's something for next time. Is Kotori...-san,\nhere?\"",
+      "text": "\"Anyway, that's something for next time. Is Kotori...-san,\nhere?\""
+    },
+    {
+      "offset": 1247,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「今さら“さん”はいいよ……居るけど、それ\n　がどうかした？」",
+      "en": "\"You don't have to add that honorific in front of me...\nshe's here, why?\"",
+      "text": "\"You don't have to add that honorific in front of me...\nshe's here, why?\""
+    },
+    {
+      "offset": 1315,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「いや、今日、一緒に出かけようって約束だっ\n　たんですけど、来なくて……」",
+      "en": "\"Well, today, we promised to go out together, but she didn't\ncome to the meeting place...\"",
+      "text": "\"Well, today, we promised to go out together, but she didn't\ncome to the meeting place...\""
+    },
+    {
+      "offset": 1404,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ん？　そう。ちょっと待ってな」",
+      "en": "\"Hm? I see, please wait a minute.\"",
+      "text": "\"Hm? I see, please wait a minute.\""
+    },
+    {
+      "offset": 1443,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "大儀そうに身体を起こす。",
+      "en": "She exaggeratedly got up with a huge sigh.",
+      "text": "She exaggeratedly got up with a huge sigh."
+    },
+    {
+      "offset": 1483,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「何時に待ち合わせしたの？」",
+      "en": "\"When were you two supposed to meet?\"",
+      "text": "\"When were you two supposed to meet?\""
+    },
+    {
+      "offset": 1518,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「１１時です」",
+      "en": "\"11 AM.\"",
+      "text": "\"11 AM.\""
+    },
+    {
+      "offset": 1548,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「……もう、１２時前か。確かに変だね……」",
+      "en": "\"...It's nearing 12 already. This is really weird for\nher...\"",
+      "text": "\"...It's nearing 12 already. This is really weird for\nher...\""
+    },
+    {
+      "offset": 1609,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "首を傾げながら、暦先生は部屋を出ていった。",
+      "en": "She tilted her neck in thought, and left the room.",
+      "text": "She tilted her neck in thought, and left the room."
+    },
+    {
+      "offset": 1658,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 1708,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ああ、お待たせ。あの子ったら、時間を勘違\n　いしていたみたいだね」",
+      "en": "\"Ahh, sorry for the wait. That girl misunderstood the time\nfor your date.\"",
+      "text": "\"Ahh, sorry for the wait. That girl misunderstood the time\nfor your date.\""
+    },
+    {
+      "offset": 1782,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「そう……ですか」",
+      "en": "\"I... see.\"",
+      "text": "\"I... see.\""
+    },
+    {
+      "offset": 1816,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「１２時だと思ってたらしいよ。ちなみに、そ\n　れでも遅刻なんじゃないかと思うけど」",
+      "en": "\"She thought it was at 12. She wouldn't have been late if\nthat was the case.\"",
+      "text": "\"She thought it was at 12. She wouldn't have been late if\nthat was the case.\""
+    },
+    {
+      "offset": 1913,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「すぐに来るって。待ってる間、コーヒーでも\n　飲む？」",
+      "en": "\"She'd be ready in a bit, do you want some coffee while we\nwait?\"",
+      "text": "\"She'd be ready in a bit, do you want some coffee while we\nwait?\""
+    },
+    {
+      "offset": 1985,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "返事も聞かず、暦先生は再び部屋を出た。",
+      "en": "At my affirmative reply, Koyomi-sensei exited the room once\nagain.",
+      "text": "At my affirmative reply, Koyomi-sensei exited the room once\nagain."
+    },
+    {
+      "offset": 2030,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（時間を勘違い……）",
+      "en": "\"(Misunderstood the time...)\"",
+      "text": "\"(Misunderstood the time...)\""
+    },
+    {
+      "offset": 2057,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当なんだろうか？",
+      "en": "Was that really it?",
+      "text": "Was that really it?"
+    },
+    {
+      "offset": 2113,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「お待たせ、と」",
+      "en": "\"It's ready.\"",
+      "text": "\"It's ready.\""
+    },
+    {
+      "offset": 2136,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "両手にカップを持ち、暦先生は足でドアを開け\nた。",
+      "en": "Holding cups with both hands, Koyomi-sensei kicked the door\nopen.",
+      "text": "Holding cups with both hands, Koyomi-sensei kicked the door\nopen."
+    },
+    {
+      "offset": 2199,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「インスタントだけどね。どうぞ。砂糖とか\n　は？」",
+      "en": "\"It's instant coffee. Here you go. Do you want any sugar?\"",
+      "text": "\"It's instant coffee. Here you go. Do you want any sugar?\""
+    },
+    {
+      "offset": 2255,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「いえ、いいです。どうも」",
+      "en": "\"No thank you.\"",
+      "text": "\"No thank you.\""
+    },
+    {
+      "offset": 2288,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "カップを手にして、ふたりして静かにすすった。\n舌が｛やけど／火傷｝しそうな程、熱い。",
+      "en": "I took one of the cups, and we stayed silent like that for\nawhile. The coffee was hot enough to scald my tongue.",
+      "text": "I took one of the cups, and we stayed silent like that for\nawhile. The coffee was hot enough to scald my tongue."
+    },
+    {
+      "offset": 2404,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ふう……」",
+      "en": "\"Hrmph...\"",
+      "text": "\"Hrmph...\""
+    },
+    {
+      "offset": 2423,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "深いため息と一緒に、暦先生はカップをテーブ\nルに置いた。",
+      "en": "We sighed at the same time, with her placing her cup on the\ntable.",
+      "text": "We sighed at the same time, with her placing her cup on the\ntable."
+    },
+    {
+      "offset": 2485,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どうしたんです？　マリッジブルーって奴で\n　すか？」",
+      "en": "\"What's wrong? Hit by the marriage blues?\"",
+      "text": "\"What's wrong? Hit by the marriage blues?\""
+    },
+    {
+      "offset": 2571,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「……ふん。しょうもない言葉を知ってるんだ\n　ねえ」",
+      "en": "\"...Hmph, you really have a way with words.\"",
+      "text": "\"...Hmph, you really have a way with words.\""
+    },
+    {
+      "offset": 2629,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「はは」",
+      "en": "\"Haha.\"",
+      "text": "\"Haha.\""
+    },
+    {
+      "offset": 2653,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「あたしはそんな繊細じゃあないよ」",
+      "en": "\"I'm not one for subtleness, anyway.\"",
+      "text": "\"I'm not one for subtleness, anyway.\""
+    },
+    {
+      "offset": 2694,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「……じゃあ、ことりのこと、ですか？」",
+      "en": "\"...Then it's about Kotori, right?\"",
+      "text": "\"...Then it's about Kotori, right?\""
+    },
+    {
+      "offset": 2739,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、静かにカップを置いた。暦先生は、ドア\nへ──開け放たれたドアへと、視線を向ける。",
+      "en": "I silently placed my cup on the table as well. Koyomi-sensei\nsnuck a peek at the door, left ajar.",
+      "text": "I silently placed my cup on the table as well. Koyomi-sensei\nsnuck a peek at the door, left ajar."
+    },
+    {
+      "offset": 2840,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「……まあ、そうなんだ」",
+      "en": "\"...Well, yes.\"",
+      "text": "\"...Well, yes.\""
+    },
+    {
+      "offset": 2871,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "視線はそのままに、暦先生はうなずいた。",
+      "en": "After making sure no one was eavesdropping, she nodded.",
+      "text": "After making sure no one was eavesdropping, she nodded."
+    },
+    {
+      "offset": 2942,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「何か……変なんだよね」",
+      "en": "\"She seems... a bit strange.\"",
+      "text": "\"She seems... a bit strange.\""
+    },
+    {
+      "offset": 2973,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2992,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ゆっくりとかぶりを振る。メガネをずり上げ、\n目と目の間をつまんだ。",
+      "en": "She looked a different person with her glasses on top of her\nhead.",
+      "text": "She looked a different person with her glasses on top of her\nhead."
+    },
+    {
+      "offset": 3073,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「あれじゃ、まるで……」",
+      "en": "\"It's as if...\"",
+      "text": "\"It's as if...\""
+    },
+    {
+      "offset": 3104,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「まるで？」",
+      "en": "\"As if?\"",
+      "text": "\"As if?\""
+    },
+    {
+      "offset": 3132,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「昔のことりを──」",
+      "en": "\"That the old Kotori--\"",
+      "text": "\"That the old Kotori--\""
+    },
+    {
+      "offset": 3178,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言葉が止まる。定位置に戻ったレンズの向こう\nで、瞳が動揺していた。",
+      "en": "She immediately stopped talking. She pushed her glasses back\nto their original position, her eyes wary.",
+      "text": "She immediately stopped talking. She pushed her glasses back\nto their original position, her eyes wary."
+    },
+    {
+      "offset": 3248,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "足音が聞こえてくる──。",
+      "en": "I could hear foosteps--",
+      "text": "I could hear foosteps--"
+    },
+    {
+      "offset": 3319,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「お待たせー！」",
+      "en": "\"I'm here!\"",
+      "text": "\"I'm here!\""
+    },
+    {
+      "offset": 3342,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ことり……」",
+      "en": "\"Kotori...\"",
+      "text": "\"Kotori...\""
+    },
+    {
+      "offset": 3396,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "明るい──明るすぎる声に、背中に強張りを感\nじた。",
+      "en": "A cheerful-- well beyond cheerful voice, causing my back to\nstiffen up.",
+      "text": "A cheerful-- well beyond cheerful voice, causing my back to\nstiffen up."
+    },
+    {
+      "offset": 3450,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "明るいのに？",
+      "en": "Cheerful now?",
+      "text": "Cheerful now?"
+    },
+    {
+      "offset": 3482,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ごめんね、遅れちゃって。じゃ、行こ。ほら、\n　コーヒーなんて飲んでないで」",
+      "en": "\"Sorry for being late. Let's go now! Come on, you can drink\ncoffee there.\"",
+      "text": "\"Sorry for being late. Let's go now! Come on, you can drink\ncoffee there.\""
+    },
+    {
+      "offset": 3564,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "手を掴み、反動をつけるようにして、ソファー\nから持ち上げようとする。",
+      "en": "She grabbed my hand and pulled me off the sofa.",
+      "text": "She grabbed my hand and pulled me off the sofa."
+    },
+    {
+      "offset": 3638,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ、ああ……」",
+      "en": "\"Ah, ahh...\"",
+      "text": "\"Ah, ahh...\""
+    },
+    {
+      "offset": 3661,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "遠く離れた外国との中継のように、ワンテンポ\n遅れて反応する俺。",
+      "en": "My reaction was more like the reception you would get from\nforeign radio stations.",
+      "text": "My reaction was more like the reception you would get from\nforeign radio stations."
+    },
+    {
+      "offset": 3727,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりの笑顔。それは、今まで見たことの──\n夢を除けば──なかったもので……。",
+      "en": "Kotori's smile. And what I was seeing -- just like in the\ndream where she was an outcast -- she seemed so distant...",
+      "text": "Kotori's smile. And what I was seeing -- just like in the\ndream where she was an outcast -- she seemed so distant..."
+    },
+    {
+      "offset": 3824,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「それじゃ、お姉ちゃん、行ってくるね！」",
+      "en": "\"We're leaving now, onee-chan!\"",
+      "text": "\"We're leaving now, onee-chan!\""
+    },
+    {
+      "offset": 3880,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「あ、ああ……行ってらっしゃい」",
+      "en": "\"Ah, ahh... have fun.\"",
+      "text": "\"Ah, ahh... have fun.\""
+    },
+    {
+      "offset": 3919,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "顔を背けるようにして、暦先生は呟いた。",
+      "en": "Koyomi-sensei turned her face away and muttered.",
+      "text": "Koyomi-sensei turned her face away and muttered."
+    },
+    {
+      "offset": 4007,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりが俺の腕を抱きしめながら、ズンズン進\nんでいく。",
+      "en": "Kotori held on to my arm and moved on.",
+      "text": "Kotori held on to my arm and moved on."
+    },
+    {
+      "offset": 4067,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ことり……」",
+      "en": "\"Kotori...\"",
+      "text": "\"Kotori...\""
+    },
+    {
+      "offset": 4101,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「今日のデート、楽しみだよね」",
+      "en": "\"Today's date will be fun.\"",
+      "text": "\"Today's date will be fun.\""
+    },
+    {
+      "offset": 4138,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ことり……」",
+      "en": "\"Kotori...\"",
+      "text": "\"Kotori...\""
+    },
+    {
+      "offset": 4172,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「私、昨日はドキドキして眠れなかったんだよ」",
+      "en": "\"I was so excited, I couldn't sleep last night!\"",
+      "text": "\"I was so excited, I couldn't sleep last night!\""
+    },
+    {
+      "offset": 4223,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ことりっ！」",
+      "en": "\"Kotori!\"",
+      "text": "\"Kotori!\""
+    },
+    {
+      "offset": 4244,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はことりの腕を振りほどくように、立ち止まっ\nた。",
+      "en": "I stopped walking, forcing the Kotori clinging onto my arm\nto stop as well.",
+      "text": "I stopped walking, forcing the Kotori clinging onto my arm\nto stop as well."
+    },
+    {
+      "offset": 4335,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ん？　どしたの？　大きな声出しちゃって」",
+      "en": "\"Hm? What's wrong? You don't need to shout.\"",
+      "text": "\"Hm? What's wrong? You don't need to shout.\""
+    },
+    {
+      "offset": 4384,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……一体、どうしたんだよ？」",
+      "en": "\"...Just what on earth is going on?\"",
+      "text": "\"...Just what on earth is going on?\""
+    },
+    {
+      "offset": 4434,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「どうしたって、何が？」",
+      "en": "\"What do you mean, what's going on?\"",
+      "text": "\"What do you mean, what's going on?\""
+    },
+    {
+      "offset": 4465,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "くいっと首を傾げる。その仕草に、何か、計算\nのようなものを感じた。",
+      "en": "She leaned her head to the side thoughtfully. Not quite the\nreaction I was expecting.",
+      "text": "She leaned her head to the side thoughtfully. Not quite the\nreaction I was expecting."
+    },
+    {
+      "offset": 4550,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ああ、うん、昨日までのことだね」",
+      "en": "\"Ahh, you mean about yesterday.\"",
+      "text": "\"Ahh, you mean about yesterday.\""
+    },
+    {
+      "offset": 4591,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "笑顔で、二度三度とうなずく。委細、承知して\nいますよ……とでも言うように。",
+      "en": "She smiled, and nodded a few times. Then she proceeded to\nexplain.",
+      "text": "She smiled, and nodded a few times. Then she proceeded to\nexplain."
+    },
+    {
+      "offset": 4684,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ごめんね。虫歯で歯が痛くて、それで、機嫌\n　が悪かったの」",
+      "en": "\"Sorry about that, I had a really bad toothache, so my mood\nwasn't very good.\"",
+      "text": "\"Sorry about that, I had a really bad toothache, so my mood\nwasn't very good.\""
+    },
+    {
+      "offset": 4750,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言って、にっと笑う。並びのいい、真っ白\nな歯。",
+      "en": "As she said that, she smiled. Perfectly lined up, sheer\nwhite teeth.",
+      "text": "As she said that, she smiled. Perfectly lined up, sheer\nwhite teeth."
+    },
+    {
+      "offset": 4819,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「さ、早く行こうよ」",
+      "en": "\"Let's hurry up!\"",
+      "text": "\"Let's hurry up!\""
+    },
+    {
+      "offset": 4846,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "手をすっと取り、指を絡めてくる。",
+      "en": "She took my hand, clasping her fingers against mine.",
+      "text": "She took my hand, clasping her fingers against mine."
+    },
+    {
+      "offset": 4883,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言われてしまえば。",
+      "en": "From those words...",
+      "text": "From those words..."
+    },
+    {
+      "offset": 4910,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりではない俺に、違うと言えるはずもなく\nて。",
+      "en": "I simply didn't know what to say.",
+      "text": "I simply didn't know what to say."
+    },
+    {
+      "offset": 4964,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ、ああ……」",
+      "en": "\"Ah, ahh...\"",
+      "text": "\"Ah, ahh...\""
+    },
+    {
+      "offset": 4999,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛でく／木偶｝のように歩き出す。",
+      "en": "I kept on walking like a doll.",
+      "text": "I kept on walking like a doll."
+    },
+    {
+      "offset": 5036,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺には、その温もりさえ、以前とは別のものの\nように感じたのだった。",
+      "en": "The feeling of warmth I used to get from her was different\nfrom now.",
+      "text": "The feeling of warmth I used to get from her was different\nfrom now."
+    },
+    {
+      "offset": 5118,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ここに居るのは、俺の知っていることりじゃな\nい……。",
+      "en": "This isn't the Kotori I know...",
+      "text": "This isn't the Kotori I know..."
+    },
+    {
+      "offset": 5296,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆仮面の笑み◆",
+      "en": "◆A Masked Smile◆",
+      "text": "◆A Masked Smile◆"
+    },
+    {
+      "offset": 5343,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりと一緒に遊びに行く約束をしていたのだ\nが、時間になっても現れず、俺は直接家に向かっ\nた。",
+      "en": "Kotori and I had promised to meet up and go to the amusement\npark, but the appointed time passed without her appearing,\nso I went to her house to check for her.",
+      "text": "Kotori and I had promised to meet up and go to the amusement\npark, but the appointed time passed without her appearing,\nso I went to her house to check for her."
+    },
+    {
+      "offset": 5440,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりは時間を勘違いしていたらしいが、それ\nは本当なんだろうか？",
+      "en": "Kotori said she had misunderstood the appointed time, but\nwas that really the case?",
+      "text": "Kotori said she had misunderstood the appointed time, but\nwas that really the case?"
+    },
+    {
+      "offset": 5513,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、ことりが顔を見せた。まるで、別人の\nような笑みを浮かべて。",
+      "en": "Then, I finally saw Kotori's face. Her smile was different,\nas if someone else was smiling for her.",
+      "text": "Then, I finally saw Kotori's face. Her smile was different,\nas if someone else was smiling for her."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "633": "Koyomi",
+    "696": "Koyomi",
+    "803": "Koyomi",
+    "1046": "Koyomi",
+    "1241": "Koyomi",
+    "1398": "Koyomi",
+    "1477": "Koyomi",
+    "1542": "Koyomi",
+    "1702": "Koyomi",
+    "1810": "Koyomi",
+    "1907": "Koyomi",
+    "2107": "Koyomi",
+    "2193": "Koyomi",
+    "2398": "Koyomi",
+    "2565": "Koyomi",
+    "2647": "Koyomi",
+    "2834": "Koyomi",
+    "2936": "Koyomi",
+    "3067": "Koyomi",
+    "3126": "Koyomi",
+    "3309": "Kotori",
+    "3472": "Kotori",
+    "3814": "Kotori",
+    "3874": "Koyomi",
+    "4091": "Kotori",
+    "4162": "Kotori",
+    "4325": "Kotori",
+    "4424": "Kotori",
+    "4540": "Kotori",
+    "4674": "Kotori",
+    "4809": "Kotori"
+  }
+}

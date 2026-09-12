@@ -1,0 +1,655 @@
+{
+  "scene": "script_0525.obj",
+  "dialogues": [
+    {
+      "offset": 199,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "晴れて今日から、自由の身！",
+      "en": "On this beautiful day, I can do what I want!",
+      "text": "On this beautiful day, I can do what I want!"
+    },
+    {
+      "offset": 230,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "日曜日でもない、春休みでもない素晴らしき休\n日を謳歌する。",
+      "en": "It's not a Sunday, nor spring break yet, but simply the\nglory of a rest day for us graduates.",
+      "text": "It's not a Sunday, nor spring break yet, but simply the\nglory of a rest day for us graduates."
+    },
+    {
+      "offset": 292,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "学校では、来週まで授業が行われているらしい。",
+      "en": "It seems the school will continue to hold lessons through\nnext week, though.",
+      "text": "It seems the school will continue to hold lessons through\nnext week, though."
+    },
+    {
+      "offset": 341,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "去年までは、のうのうと遊び呆ける卒業生達を\n恨めしそうに見ていたものだが、今年は俺がヒー\nローだ。",
+      "en": "Unlike last year, where I was jealous of the graduates, this\ntime, I'm the hero!",
+      "text": "Unlike last year, where I was jealous of the graduates, this\ntime, I'm the hero!"
+    },
+    {
+      "offset": 442,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな気分だから、咲き乱れる桜の花もいつも\nより美しく感じるというものだ。",
+      "en": "With that mood, the ever-blooming sakura petals seemed even\nmore pleasant than usual.",
+      "text": "With that mood, the ever-blooming sakura petals seemed even\nmore pleasant than usual."
+    },
+    {
+      "offset": 522,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そろそろ、かな……」",
+      "en": "\"It's just about time...\"",
+      "text": "\"It's just about time...\""
+    },
+    {
+      "offset": 551,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そろそろ、昼休憩の時間だ。月城も授業を終え\nてあの草……ロスキルラベンダーの様子を見に\n来るはずだ。",
+      "en": "Just about time for lunch period. Tsukishiro'd surely check\non that plant... that Roskill Lavender, once lessons end.",
+      "text": "Just about time for lunch period. Tsukishiro'd surely check\non that plant... that Roskill Lavender, once lessons end."
+    },
+    {
+      "offset": 654,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、公園の時計を見ながら、頃合いを計り、\n学校へ向かう。",
+      "en": "I looked at the clock in the park. Figuring that it was a\nsuitable time, I started heading for the school.",
+      "text": "I looked at the clock in the park. Figuring that it was a\nsuitable time, I started heading for the school."
+    },
+    {
+      "offset": 716,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昨日、さくらから聞いたこと、ロスキルラベン\nダーは日本で花を咲かせることはない、それを\n伝えなければならないと思った。",
+      "en": "I had to try and tell Alice what I had heard from Sakura\nyesterday; that there's no way the Roskill Lavender can\nbloom in Japan.",
+      "text": "I had to try and tell Alice what I had heard from Sakura\nyesterday; that there's no way the Roskill Lavender can\nbloom in Japan."
+    },
+    {
+      "offset": 837,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつか知る、つぼみすらつけないという事実は\nきっと早く知った方がいい。",
+      "en": "She may well have to find out sooner or later, but in this\ncase, it'd probably be much better if it's sooner.",
+      "text": "She may well have to find out sooner or later, but in this\ncase, it'd probably be much better if it's sooner."
+    },
+    {
+      "offset": 911,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "期待の大きさは、待っている時間に比例する。",
+      "en": "The longer I wait, the bigger the expectations will grow.",
+      "text": "The longer I wait, the bigger the expectations will grow."
+    },
+    {
+      "offset": 958,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だから、俺はたとえ月城を悲しませることになっ\nても、後悔はすまいと思った。",
+      "en": "That's why, despite the possibility of seeing Tsukishiro's\nsad face, I wanted to leave no regrets behind.",
+      "text": "That's why, despite the possibility of seeing Tsukishiro's\nsad face, I wanted to leave no regrets behind."
+    },
+    {
+      "offset": 1095,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「よぉ、月城」",
+      "en": "\"Hey, Tsukishiro.\"",
+      "text": "\"Hey, Tsukishiro.\""
+    },
+    {
+      "offset": 1156,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……朝倉、先輩」",
+      "en": "\"...Asakura, senpai.\"",
+      "text": "\"...Asakura, senpai.\""
+    },
+    {
+      "offset": 1181,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は、ちょうどロスキルラベンダーに水をやっ\nていたところだった。",
+      "en": "Tsukishiro was giving the Roskill Lavender some water.",
+      "text": "Tsukishiro was giving the Roskill Lavender some water."
+    },
+    {
+      "offset": 1283,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……今日は、元気みたい」",
+      "en": "\"...It seems healthy today.\"",
+      "text": "\"...It seems healthy today.\""
+    },
+    {
+      "offset": 1316,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城が、少しだけ嬉しそうな顔をして、そう言っ\nた。",
+      "en": "Tsukishios spoke, with joy clear on that\nusually-expressionless face.",
+      "text": "Tsukishios spoke, with joy clear on that\nusually-expressionless face."
+    },
+    {
+      "offset": 1372,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あのさ、月城」",
+      "en": "\"You know, Tsukishiro...\"",
+      "text": "\"You know, Tsukishiro...\""
+    },
+    {
+      "offset": 1425,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……はい？」",
+      "en": "\"...Yes?\"",
+      "text": "\"...Yes?\""
+    },
+    {
+      "offset": 1446,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「あの……」",
+      "en": "\"Well...\"",
+      "text": "\"Well...\""
+    },
+    {
+      "offset": 1465,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ここまできて、俺は｛ちゅうちょ／躊躇｝した。",
+      "en": "At the crucial point, I hesitated.",
+      "text": "At the crucial point, I hesitated."
+    },
+    {
+      "offset": 1514,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "果たして本当に伝えていいのだろうか。",
+      "en": "Was this really the right thing to do?",
+      "text": "Was this really the right thing to do?"
+    },
+    {
+      "offset": 1555,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もしかしたら、咲くかも知れない。",
+      "en": "There's no knowing whether it'd actually bloom after all.",
+      "text": "There's no knowing whether it'd actually bloom after all."
+    },
+    {
+      "offset": 1592,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "日本では、育つことが難しいと言われた草がこ\nこまで立派に育ったのだ。",
+      "en": "The very fact that this plant exists here, despite how\ndelicate it is, and how difficult it's supposed to grow...",
+      "text": "The very fact that this plant exists here, despite how\ndelicate it is, and how difficult it's supposed to grow..."
+    },
+    {
+      "offset": 1664,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "つぼみだってつくかもしれない。花だって咲く\nかもしれない。",
+      "en": "It might just bud. A flower might just bloom.",
+      "text": "It might just bud. A flower might just bloom."
+    },
+    {
+      "offset": 1758,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……今度こそ」",
+      "en": "\"...This should do it.\"",
+      "text": "\"...This should do it.\""
+    },
+    {
+      "offset": 1781,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "水をやり終えた月城が、葉に水玉を載せている\nロスキルラベンダーを軽くつついた。",
+      "en": "Finishing her watering, a lone waterdrop was hanging from a\nleaf of the Roskill Lavender.",
+      "text": "Finishing her watering, a lone waterdrop was hanging from a\nleaf of the Roskill Lavender."
+    },
+    {
+      "offset": 1863,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "水玉が、ぷるんと弾けるようにして地面に飛び\n散る。",
+      "en": "It then dropped to the groound, exploding into a splatter of\nsmaller drops.",
+      "text": "It then dropped to the groound, exploding into a splatter of\nsmaller drops."
+    },
+    {
+      "offset": 1949,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……先輩」",
+      "en": "\"...Senpai.\"",
+      "text": "\"...Senpai.\""
+    },
+    {
+      "offset": 1968,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城が俺の方を向く。",
+      "en": "Tsukishiro faced me.",
+      "text": "Tsukishiro faced me."
+    },
+    {
+      "offset": 2025,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……なに？」",
+      "en": "\"...What's wrong?\"",
+      "text": "\"...What's wrong?\""
+    },
+    {
+      "offset": 2046,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「あのさ……」",
+      "en": "\"You know...\"",
+      "text": "\"You know...\""
+    },
+    {
+      "offset": 2067,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、なにもあきらめろと説得しに来た訳じゃ\nあない。",
+      "en": "I didn't come here to convince her to give up.",
+      "text": "I didn't come here to convince her to give up."
+    },
+    {
+      "offset": 2123,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "草を育てるのをやめろといいに来た訳じゃない。",
+      "en": "Nor did I come here to tell her to stop trying to grow that\nplant.",
+      "text": "Nor did I come here to tell her to stop trying to grow that\nplant."
+    },
+    {
+      "offset": 2172,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "愛情を持って草の世話をするのは、いいことだ\nと思うし、あの草だってここまで育ててもらっ\nてきっと喜んでいる。",
+      "en": "Her feelings of love for the plant was clear; it would be an\nawesome situation if it actually bloomed.",
+      "text": "Her feelings of love for the plant was clear; it would be an\nawesome situation if it actually bloomed."
+    },
+    {
+      "offset": 2283,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただ、……ただ、過度の期待はしない方がいい、\nそう伝えるだけだ。",
+      "en": "Just... I just didn't want her to get too hopeful about it.",
+      "text": "Just... I just didn't want her to get too hopeful about it."
+    },
+    {
+      "offset": 2353,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺の知り合いで、植物にすごく詳しいヤツが\n　いてさ」",
+      "en": "\"Someone I know, told me that that plant is a very difficult\none to grow.\"",
+      "text": "\"Someone I know, told me that that plant is a very difficult\none to grow.\""
+    },
+    {
+      "offset": 2413,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城が、半ば首を傾げながら俺を見る。",
+      "en": "Tsukishiro's eyes kept gazing at me, her full attention on\nme now.",
+      "text": "Tsukishiro's eyes kept gazing at me, her full attention on\nme now."
+    },
+    {
+      "offset": 2456,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ロスキルラベンダーって言うんだってな、そ\n　の草。なんでも北欧の方の花だって？」",
+      "en": "\"It's called Roskill Lavender, and apparently only grows in\nScandinavian countries, or something?\"",
+      "text": "\"It's called Roskill Lavender, and apparently only grows in\nScandinavian countries, or something?\""
+    },
+    {
+      "offset": 2561,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城が｛けげん／怪訝｝そうな表情を浮かべた後、静かにこ\nくんと頷いた。",
+      "en": "Although a bout of dubiousness crept into her face, she\ncontinued to display complete attentiveness.",
+      "text": "Although a bout of dubiousness crept into her face, she\ncontinued to display complete attentiveness."
+    },
+    {
+      "offset": 2637,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そいつが言うには、ロスキルラベンダーって\n　ヤツは気候の関係で、日本じゃ育たない植物\n　なんだと」",
+      "en": "\"That person said that, thanks to the climate of Japan,\nRoskill Lavenders can't be grown here.\"",
+      "text": "\"That person said that, thanks to the climate of Japan,\nRoskill Lavenders can't be grown here.\""
+    },
+    {
+      "offset": 2742,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ゆっくりと草に目をやる月城。草は、弱々しい\nが立派に根を張っている。",
+      "en": "Tsukishiro's eyes slowly turned to the plant, looking as\nweak as ever.",
+      "text": "Tsukishiro's eyes slowly turned to the plant, looking as\nweak as ever."
+    },
+    {
+      "offset": 2833,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そこまで育ったのは、あり得ないことではな\n　いけれど、ほとんど奇跡に近いくらいらしい。\n　そして──」",
+      "en": "\"It's not impossible for a plant like that to have grown\nhere, but it'd be more closer to a miracle than anything\nelse. And--\"",
+      "text": "\"It's not impossible for a plant like that to have grown\nhere, but it'd be more closer to a miracle than anything\nelse. And--\""
+    },
+    {
+      "offset": 2942,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城の表情が、暗く沈んでいく。しかし、俺は\nもう止めることができない。",
+      "en": "Her face grew more gloomy by the second. But I couldn't stop\nnow.",
+      "text": "Her face grew more gloomy by the second. But I couldn't stop\nnow."
+    },
+    {
+      "offset": 3018,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「──日本の気候では、ロスキルラベンダーが\n　つぼみをつけることはないんだって」",
+      "en": "\"--A Roskill Lavender won't be able to bud in Japan's\nclimate.\"",
+      "text": "\"--A Roskill Lavender won't be able to bud in Japan's\nclimate.\""
+    },
+    {
+      "offset": 3104,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城がびくんと肩を震わせる。そして、下唇を\nきゅっと噛みながら俺を見上げた。",
+      "en": "Her shoulders started to tremble. She bit her lower lip,\nlooking up at me.",
+      "text": "Her shoulders started to tremble. She bit her lower lip,\nlooking up at me."
+    },
+    {
+      "offset": 3186,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「つぼみも花もつけないまま、枯れていくだろ\n　うって」",
+      "en": "\"And if it can't bud flowers, it'd wilt.\"",
+      "text": "\"And if it can't bud flowers, it'd wilt.\""
+    },
+    {
+      "offset": 3278,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……咲きます」",
+      "en": "\"...It will bloom.\"",
+      "text": "\"...It will bloom.\""
+    },
+    {
+      "offset": 3301,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城が、ぼそりとそう言った。",
+      "en": "Her voice was cracking as she whispered.",
+      "text": "Her voice was cracking as she whispered."
+    },
+    {
+      "offset": 3366,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……花は、咲きます」",
+      "en": "\"...A flower will bloom from it.\"",
+      "text": "\"...A flower will bloom from it.\""
+    },
+    {
+      "offset": 3395,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「でも、元気そうに見えて、その草はずっと病\n　気にかかったままじゃないか」",
+      "en": "\"But look at it... it's never really looked healthy, always\non the verge of wilting...\"",
+      "text": "\"But look at it... it's never really looked healthy, always\non the verge of wilting...\""
+    },
+    {
+      "offset": 3510,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……この花が咲かないと、私」",
+      "en": "\"...If it doesn't bloom, I...\"",
+      "text": "\"...If it doesn't bloom, I...\""
+    },
+    {
+      "offset": 3547,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城の表情が歪んでいく。",
+      "en": "Her expression was strained.",
+      "text": "Her expression was strained."
+    },
+    {
+      "offset": 3576,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目尻に涙がたまり、それが溢れ、頬を伝って、\nゆっくりと落ちていく。",
+      "en": "Tears were forming in the corners of her eyes, and slowly\nstarted rolling down her cheeks.",
+      "text": "Tears were forming in the corners of her eyes, and slowly\nstarted rolling down her cheeks."
+    },
+    {
+      "offset": 3646,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は手袋を外し、人形に触れる。",
+      "en": "She quietly removed her gloves, and stroked the doll once\nmore.",
+      "text": "She quietly removed her gloves, and stroked the doll once\nmore."
+    },
+    {
+      "offset": 3715,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「……きっと、咲くよ」",
+      "en": "\"...It'd definitely bloom.\"",
+      "text": "\"...It'd definitely bloom.\""
+    },
+    {
+      "offset": 3774,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「……頑張っていれば、いつか、咲くよ」",
+      "en": "\"...If we work hard, it'd bloom someday.\"",
+      "text": "\"...If we work hard, it'd bloom someday.\""
+    },
+    {
+      "offset": 3819,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "胸の上で、ぎゅうっと強く抱きしめた人形の身\n体が歪む。",
+      "en": "Her entire body was shivering, as she held the doll tightly\nto her chest.",
+      "text": "Her entire body was shivering, as she held the doll tightly\nto her chest."
+    },
+    {
+      "offset": 3879,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺は、あきらめろって言ってる訳じゃない」",
+      "en": "\"I didn't mean for you to give up.\"",
+      "text": "\"I didn't mean for you to give up.\""
+    },
+    {
+      "offset": 3928,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ただ、その草がどういう状況なのかを知って\n　ほしくて」",
+      "en": "\"I just wanted you to know the full extent of the\nsituation...\"",
+      "text": "\"I just wanted you to know the full extent of the\nsituation...\""
+    },
+    {
+      "offset": 4020,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「……それでも、一生懸命、育てるよ」",
+      "en": "\"...Even so, we'd continue putting our all into making it\ngrow.\"",
+      "text": "\"...Even so, we'd continue putting our all into making it\ngrow.\""
+    },
+    {
+      "offset": 4076,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「きっとロスキルラベンダーは答えてくれる」",
+      "en": "\"This Roskill Lavender will surely answer us.\"",
+      "text": "\"This Roskill Lavender will surely answer us.\""
+    },
+    {
+      "offset": 4155,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「花を咲かせて、願いを叶えてくれる」",
+      "en": "\"And when it blooms, our wish will come true.\"",
+      "text": "\"And when it blooms, our wish will come true.\""
+    },
+    {
+      "offset": 4198,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "歪んだ身体のままの人形が、いつもの調子で、\nそう言った。",
+      "en": "Being held by such a quivering body, the doll itself seemed\nto remain calm.",
+      "text": "Being held by such a quivering body, the doll itself seemed\nto remain calm."
+    },
+    {
+      "offset": 4290,
+      "speaker": "Piros",
+      "speaker_jp": "ピロス",
+      "jp": "「……ボクとアリスは、花が咲くって信じてる」",
+      "en": "\"...Alice and I believe that a flower will bloom.\"",
+      "text": "\"...Alice and I believe that a flower will bloom.\""
+    },
+    {
+      "offset": 4350,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "人形がそう言うと、月城はくるりと俺に背を向\nけ、校舎の方へ走っていった。",
+      "en": "Upon the doll saying that, Alice ran past me and behind, and\ntowards the school building.",
+      "text": "Upon the doll saying that, Alice ran past me and behind, and\ntowards the school building."
+    },
+    {
+      "offset": 4426,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "声をかける間もないくらいに速く。",
+      "en": "A speed at which my voice wouldn't be able to reach her.",
+      "text": "A speed at which my voice wouldn't be able to reach her."
+    },
+    {
+      "offset": 4463,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "追いつく間もないくらいに速く。",
+      "en": "A speed at which I wouldn't be able to catch her.",
+      "text": "A speed at which I wouldn't be able to catch her."
+    },
+    {
+      "offset": 4500,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「やっぱ、言わない方がよかったのかな……」",
+      "en": "\"Maybe I shouldn't have said anything at all...\"",
+      "text": "\"Maybe I shouldn't have said anything at all...\""
+    },
+    {
+      "offset": 4549,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "予想はしていた。",
+      "en": "I predicted this, though.",
+      "text": "I predicted this, though."
+    },
+    {
+      "offset": 4570,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の言葉が、月城を悲しませてしまうだろうこ\nとは、ある程度予想はしていた。",
+      "en": "Her sad reaction to my words, I was fully expecting it.",
+      "text": "Her sad reaction to my words, I was fully expecting it."
+    },
+    {
+      "offset": 4648,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "けれど、言わずにはいられなかった。",
+      "en": "Yet, I still felt that I shouldn't have said it.",
+      "text": "Yet, I still felt that I shouldn't have said it."
+    },
+    {
+      "offset": 4687,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ロスキルラベンダーのことを伝えた時の、月城\nの悲しそうな顔。",
+      "en": "Her sorrowful face when I told her about the Rosekill\nLavender...",
+      "text": "Her sorrowful face when I told her about the Rosekill\nLavender..."
+    },
+    {
+      "offset": 4751,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、やはり後悔をした。",
+      "en": "It was one I regretted ever making, and one I could never\nforget.",
+      "text": "It was one I regretted ever making, and one I could never\nforget."
+    },
+    {
+      "offset": 4884,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆花が咲くって信じてる◆",
+      "en": "◆Believing That It'll Bloom◆",
+      "text": "◆Believing That It'll Bloom◆"
+    },
+    {
+      "offset": 4937,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、さくらに聞いたことを黙っていることが\nできず、月城に、日本でロスキルラベンダーの\n花が咲くことはほぼ無理だと伝えた。",
+      "en": "Not able to keep quiet about what Sakura told me, I repeated\nto Alice that expecting the Rosekill Lavender to bloom in\nJapan was unreasonable.",
+      "text": "Not able to keep quiet about what Sakura told me, I repeated\nto Alice that expecting the Rosekill Lavender to bloom in\nJapan was unreasonable."
+    },
+    {
+      "offset": 5062,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、月城は、涙目になりながら、絶対に咲\nくのだと、いつになく、感情を露わにしていう\nのだった。",
+      "en": "But Tsukishiro, with tears falling from her eyes, exposed\nher feelings to me, saying that it'd surely bloom, someday.",
+      "text": "But Tsukishiro, with tears falling from her eyes, exposed\nher feelings to me, saying that it'd surely bloom, someday."
+    },
+    {
+      "offset": 5163,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、声をかける間もなく、どこかへ行って\nしまった……。",
+      "en": "Then she ran off, before I could call out to her.",
+      "text": "Then she ran off, before I could call out to her."
+    },
+    {
+      "offset": 5225,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ある程度は、予想はしていたものの、あの月城\nの悲しそうな顔を思い出すと、やはり後悔せざ\nるをえなかった……。",
+      "en": "I knew it was going to happen, but remembering her sorrowful\nface made me regret ever doing it.",
+      "text": "I knew it was going to happen, but remembering her sorrowful\nface made me regret ever doing it."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "1146": "Alice",
+    "1273": "Alice",
+    "1415": "Alice",
+    "1748": "Alice",
+    "1939": "Alice",
+    "2015": "Alice",
+    "3268": "Alice",
+    "3356": "Alice",
+    "3500": "Alice",
+    "3705": "Piros",
+    "3764": "Piros",
+    "4010": "Piros",
+    "4066": "Piros",
+    "4145": "Piros",
+    "4280": "Piros"
+  }
+}

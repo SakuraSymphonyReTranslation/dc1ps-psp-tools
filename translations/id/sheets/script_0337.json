@@ -1,0 +1,98 @@
+{
+  "scene": "script_0337.obj",
+  "dialogues": [
+    {
+      "offset": 166,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「じゃあ、今日で授業は終わり。明日からは卒\n　業パーティーの準備期間だから登校は自由に\n　なるが、明日だけはちゃんと来るんだよ」",
+      "en": "\"This ends the classes for this semester. Those with\ngraduation party commitments, please don't forget to come to\nschool.\"",
+      "text": "\"This ends the classes for this semester. Those with\ngraduation party commitments, please don't forget to come to\nschool.\""
+    },
+    {
+      "offset": 308,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「じゃあ週番、号令」",
+      "en": "\"Weekly duty, go ahead.\"",
+      "text": "\"Weekly duty, go ahead.\""
+    },
+    {
+      "offset": 335,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 377,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（よっしゃ――っ！）",
+      "en": "\"(Alriiiiight!)\"",
+      "text": "\"(Alriiiiight!)\""
+    },
+    {
+      "offset": 404,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "終わった。",
+      "en": "it's over.",
+      "text": "it's over."
+    },
+    {
+      "offset": 419,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "これで事実上、休みに入ったも同然。明日の朝\nは出欠をとるだけで終わり。卒パに出店・出席\nする連中はそうじゃないけど",
+      "en": "From here on, it's as good as vacation. Tomorrow, attendance\nwon't be taken in the morning anymore, and I'm not joining\nevents.",
+      "text": "From here on, it's as good as vacation. Tomorrow, attendance\nwon't be taken in the morning anymore, and I'm not joining\nevents."
+    },
+    {
+      "offset": 538,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（まあ、俺には今のところ関係ない）",
+      "en": "\"(Well, even so, it'd have nothing to do with me.)\"",
+      "text": "\"(Well, even so, it'd have nothing to do with me.)\""
+    },
+    {
+      "offset": 579,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さてと……これからどうしようか。",
+      "en": "Now then... what should I do.",
+      "text": "Now then... what should I do."
+    },
+    {
+      "offset": 720,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆終った〜！◆",
+      "en": "◆It's Over~!◆",
+      "text": "◆It's Over~!◆"
+    },
+    {
+      "offset": 763,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "よっしゃ、とうとう終った。付属最後の授業。\nどうせ、明日の登校は朝出席を取るだけだし、\n卒パの関係ない俺は、特に残る必要もないし。",
+      "en": "It's finally over, all the classes. Tomorrow attendance\nwon't be taken, and I have nothing to do regarding the\ngraduation party, so there's no reason for me to be here\nagain.",
+      "text": "It's finally over, all the classes. Tomorrow attendance\nwon't be taken, and I have nothing to do regarding the\ngraduation party, so there's no reason for me to be here\nagain."
+    },
+    {
+      "offset": 896,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さて、これからどうするかな。",
+      "en": "Now then, what should I do.",
+      "text": "Now then, what should I do."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "160": "Koyomi",
+    "302": "Koyomi"
+  }
+}

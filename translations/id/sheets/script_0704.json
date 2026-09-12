@@ -1,0 +1,1092 @@
+{
+  "scene": "script_0704.obj",
+  "dialogues": [
+    {
+      "offset": 219,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日は、珍しくひとりで帰っていた。",
+      "en": "Unusually, I was heading home alone, today.",
+      "text": "Unusually, I was heading home alone, today."
+    },
+    {
+      "offset": 258,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "というのも、アリスがちょっと居残りがあるか\nらという理由からだった。",
+      "en": "Alice had some reason or other to stay behind at school.",
+      "text": "Alice had some reason or other to stay behind at school."
+    },
+    {
+      "offset": 330,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、たまにはひとりでのんびり帰るのも悪く\nないけど。",
+      "en": "Well, it's not a bad thing to go home alone every now and\nthen, anyway.",
+      "text": "Well, it's not a bad thing to go home alone every now and\nthen, anyway."
+    },
+    {
+      "offset": 388,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、バナナンボーでチョコバナナを買い、そ\nれをもしゃもしゃとかじりながら歩いた。",
+      "en": "With a chocolate banana in hand, I muched and walked in\ntandem.",
+      "text": "With a chocolate banana in hand, I muched and walked in\ntandem."
+    },
+    {
+      "offset": 491,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「お兄ーちゃん」",
+      "en": "\"Oniiii-chan!\"",
+      "text": "\"Oniiii-chan!\""
+    },
+    {
+      "offset": 514,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ん、そ、その声は！」",
+      "en": "\"T, that voice!\"",
+      "text": "\"T, that voice!\""
+    },
+    {
+      "offset": 543,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と振り返った瞬間に、黄色い髪のちびっ子が首\n根っこに飛びついてきた。",
+      "en": "I managed to turn around, just in time to see a blonde blur\nreach for my neck.",
+      "text": "I managed to turn around, just in time to see a blonde blur\nreach for my neck."
+    },
+    {
+      "offset": 657,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あにょーん、ひっさしぶりィ！」",
+      "en": "\"Ani-yooon, long time no see!\"",
+      "text": "\"Ani-yooon, long time no see!\""
+    },
+    {
+      "offset": 696,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ぐッ、苦しいッ、離れろ……ッ」",
+      "en": "\"L, let go, I, can't, breathe...\"",
+      "text": "\"L, let go, I, can't, breathe...\""
+    },
+    {
+      "offset": 765,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「にゃー、久しぶりだから、もうちょっとくっ\n　ついていたいんだけどなぁ」",
+      "en": "\"Nyaa, it's been so long since we've seen each other, you\ncould be more friendly!\"",
+      "text": "\"Nyaa, it's been so long since we've seen each other, you\ncould be more friendly!\""
+    },
+    {
+      "offset": 843,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「よせッ、世間の人々が誤解する！」",
+      "en": "\"Stop it, people will misunderstand!\"",
+      "text": "\"Stop it, people will misunderstand!\""
+    },
+    {
+      "offset": 914,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「誤解してもイイよぉ。パパー」",
+      "en": "\"A misunderstanding is fine too, papa!\"",
+      "text": "\"A misunderstanding is fine too, papa!\""
+    },
+    {
+      "offset": 951,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「パパ、はやめろッ！」",
+      "en": "\"Don't call me papa!\"",
+      "text": "\"Don't call me papa!\""
+    },
+    {
+      "offset": 993,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「おじさまぁー！」",
+      "en": "\"Oji-sama~!\"",
+      "text": "\"Oji-sama~!\""
+    },
+    {
+      "offset": 1018,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「おじさまもやめろッ！」",
+      "en": "\"Not that either!\"",
+      "text": "\"Not that either!\""
+    },
+    {
+      "offset": 1079,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「じゃあ、なんて呼べばいいのかわかんないよ」",
+      "en": "\"Then, I don't know what would be good to call you!\"",
+      "text": "\"Then, I don't know what would be good to call you!\""
+    },
+    {
+      "offset": 1130,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「普通にしろ、普通に」",
+      "en": "\"Just call me normally, sheesh!\"",
+      "text": "\"Just call me normally, sheesh!\""
+    },
+    {
+      "offset": 1189,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ちぇ、つまんないなぁ。せっかく会えたのに」",
+      "en": "\"Psh, how boring. After so long, as well.\"",
+      "text": "\"Psh, how boring. After so long, as well.\""
+    },
+    {
+      "offset": 1240,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらは、ようやく俺の首から手を離し、地面\nに足をつける。",
+      "en": "Sakura finally let go of my neck, falling gracefully onto\nthe floor.",
+      "text": "Sakura finally let go of my neck, falling gracefully onto\nthe floor."
+    },
+    {
+      "offset": 1304,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ったく、このちびっ子が」",
+      "en": "\"Sheesh, you midget...\"",
+      "text": "\"Sheesh, you midget...\""
+    },
+    {
+      "offset": 1367,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「だから、人の身体的特徴をけなすのは、よく\n　ないって言ってるでしょ？」",
+      "en": "\"You shouldn't be so careless about people's height, you\nknow?\"",
+      "text": "\"You shouldn't be so careless about people's height, you\nknow?\""
+    },
+    {
+      "offset": 1445,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はチョコバナナをがつがつとたいらげ、近く\nのゴミ箱に、棒を捨てる。",
+      "en": "I finished up the chocolate banana, throwing away the stick.",
+      "text": "I finished up the chocolate banana, throwing away the stick."
+    },
+    {
+      "offset": 1536,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、どうしたんだ？　先月、やることがある\n　だの、家を空けるだの、いろいろ言ってただ\n　ろ？」",
+      "en": "\"Anyway, what happened? Didn't you talk so much last month\nabout having things to do, moving out for awhile, et\ncetera?\"",
+      "text": "\"Anyway, what happened? Didn't you talk so much last month\nabout having things to do, moving out for awhile, et\ncetera?\""
+    },
+    {
+      "offset": 1667,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うん、ちょっとだけ一段落ついたから、あい\n　さつしに来たんだよ」",
+      "en": "\"Yep, I got a short break, so I came back!\"",
+      "text": "\"Yep, I got a short break, so I came back!\""
+    },
+    {
+      "offset": 1739,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……家で待ってろよ」",
+      "en": "\"...Your house is waiting for you.\"",
+      "text": "\"...Your house is waiting for you.\""
+    },
+    {
+      "offset": 1798,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゅ、少しでも早くお兄ちゃんに会いたかっ\n　たんだよぅ」",
+      "en": "\"Unya, I wanted to see you for awhile~\"",
+      "text": "\"Unya, I wanted to see you for awhile~\""
+    },
+    {
+      "offset": 1864,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「まあ、いいや。俺んちに帰ろう。音夢はいな\n　いけど、今晩は一緒に飯でも食おう」",
+      "en": "\"Hah, oh well. Let's head back to my house. Nemu's not\naround anymore, so we can have dinner together.\"",
+      "text": "\"Hah, oh well. Let's head back to my house. Nemu's not\naround anymore, so we can have dinner together.\""
+    },
+    {
+      "offset": 1980,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ううん。この後、またすぐ出かけなきゃいけ\n　ないんだ。ごめんね」",
+      "en": "\"Ehh. I can't, I'll have to go back after this. Sorry!\"",
+      "text": "\"Ehh. I can't, I'll have to go back after this. Sorry!\""
+    },
+    {
+      "offset": 2052,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そっか……。また寂しくなるな」",
+      "en": "\"I see... it'd be lonely again.\"",
+      "text": "\"I see... it'd be lonely again.\""
+    },
+    {
+      "offset": 2121,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あっれぇ？　さっきはボクのこと、邪険にし\n　てたくせに」",
+      "en": "\"Huuuh? You used to be so cruel to me before.\"",
+      "text": "\"Huuuh? You used to be so cruel to me before.\""
+    },
+    {
+      "offset": 2185,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「アレはアレ。コレはコレ」",
+      "en": "\"That was then, now is now.\"",
+      "text": "\"That was then, now is now.\""
+    },
+    {
+      "offset": 2248,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「袖振り合うも多生の縁！」",
+      "en": "\"I'd measure your honesty with your sleeve!\"",
+      "text": "\"I'd measure your honesty with your sleeve!\""
+    },
+    {
+      "offset": 2281,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ワケわかんねぇ」",
+      "en": "\"Incomprehensible to the max.\"",
+      "text": "\"Incomprehensible to the max.\""
+    },
+    {
+      "offset": 2306,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "相変わらず、さくらのヤツはところどころが掴\nみにくい。",
+      "en": "As usual, she held on to my arm tightly.",
+      "text": "As usual, she held on to my arm tightly."
+    },
+    {
+      "offset": 2396,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ところで、お兄ちゃん」",
+      "en": "\"By the way, onii-chan.\"",
+      "text": "\"By the way, onii-chan.\""
+    },
+    {
+      "offset": 2427,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「なんだ？」",
+      "en": "\"What is it?\"",
+      "text": "\"What is it?\""
+    },
+    {
+      "offset": 2476,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「体育館裏のロスキルラベンダーどうなった？」",
+      "en": "\"How's the Roskill Lavender behind the gym been?\"",
+      "text": "\"How's the Roskill Lavender behind the gym been?\""
+    },
+    {
+      "offset": 2527,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……全部ダメになったよ。先月嵐があったろ？\n　あれで、全部折れちまった」",
+      "en": "\"...It's hopeless. There was a storm last month, you know?\nIt was ripped up completely from that...\"",
+      "text": "\"...It's hopeless. There was a storm last month, you know?\nIt was ripped up completely from that...\""
+    },
+    {
+      "offset": 2637,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ううん、その嵐の後だよ」",
+      "en": "\"Noo, I mean after the storm.\"",
+      "text": "\"Noo, I mean after the storm.\""
+    },
+    {
+      "offset": 2670,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「だから、全部ダメになったって……」",
+      "en": "\"Like I said, it's hopeless...\"",
+      "text": "\"Like I said, it's hopeless...\""
+    },
+    {
+      "offset": 2743,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あ、そうか。まだ見に行ってないんだ……」",
+      "en": "\"Ah, I see. So you haven't gone to see it...\"",
+      "text": "\"Ah, I see. So you haven't gone to see it...\""
+    },
+    {
+      "offset": 2792,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「どういうことだ？」",
+      "en": "\"What do you mean?\"",
+      "text": "\"What do you mean?\""
+    },
+    {
+      "offset": 2849,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「えーと、あの、怒らないで聞いて」",
+      "en": "\"...Err... don't get mad when you hear it!\"",
+      "text": "\"...Err... don't get mad when you hear it!\""
+    },
+    {
+      "offset": 2890,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「怒らないよ……って、さてはなにかやったな」",
+      "en": "\"I won't get mad... now tell me what the hell you did.\"",
+      "text": "\"I won't get mad... now tell me what the hell you did.\""
+    },
+    {
+      "offset": 2941,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "じろりとさくらを｛にら／睨｝む。",
+      "en": "I glared at her menacingly.",
+      "text": "I glared at her menacingly."
+    },
+    {
+      "offset": 3010,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あにゅぅ、ぶたないでぇ。ぶたないでぇ」",
+      "en": "\"Anyuu, scary, scary!\"",
+      "text": "\"Anyuu, scary, scary!\""
+    },
+    {
+      "offset": 3057,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらが頭を抱えて、縮こまる。この構図は社\n会的に問題を巻き起こしてしまう。",
+      "en": "She covered her head with her hands, turning away from me in\nmock fear. If anyone were to see this scene...",
+      "text": "She covered her head with her hands, turning away from me in\nmock fear. If anyone were to see this scene..."
+    },
+    {
+      "offset": 3139,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そ、その世間に誤解を招くような言い方はよ\n　せッ。怒らず聞いてやるから」",
+      "en": "\"S, stop inviting stupid misunderstandings already. I won't\nget mad, really.\"",
+      "text": "\"S, stop inviting stupid misunderstandings already. I won't\nget mad, really.\""
+    },
+    {
+      "offset": 3236,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらは、ぺろりと舌を出し、ニヒヒと笑う。",
+      "en": "She giggled, sticking her tongue out at me.",
+      "text": "She giggled, sticking her tongue out at me."
+    },
+    {
+      "offset": 3315,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あのね、ボクね、あのロスキルラベンダーが\n　どうしても気になっちゃってさ」",
+      "en": "\"You know, about that Roskill Lavender, I couldn't stop\nthinking about it.\"",
+      "text": "\"You know, about that Roskill Lavender, I couldn't stop\nthinking about it.\""
+    },
+    {
+      "offset": 3427,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「１本だけ研究用にしばらく借りちゃった」",
+      "en": "\"So I cut off a stalk with a leaf from it, for research\npurposes.\"",
+      "text": "\"So I cut off a stalk with a leaf from it, for research\npurposes.\""
+    },
+    {
+      "offset": 3474,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「な、なぬぅ！」",
+      "en": "\"W, what!?\"",
+      "text": "\"W, what!?\""
+    },
+    {
+      "offset": 3527,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「だ、だから、研究が終わった後は、元のとこ\n　ろに返しておいたんだよぅ」",
+      "en": "\"B, but, after I finished researching it, I replanted it at\nit's original location!\"",
+      "text": "\"B, but, after I finished researching it, I replanted it at\nit's original location!\""
+    },
+    {
+      "offset": 3605,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「元のところに返した……って、体育館裏か？」",
+      "en": "\"It's old location... you mean, behind the gym?\"",
+      "text": "\"It's old location... you mean, behind the gym?\""
+    },
+    {
+      "offset": 3686,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そうだよ、他のどこに返すのさ」",
+      "en": "\"Of course. Where else could I return it?\"",
+      "text": "\"Of course. Where else could I return it?\""
+    },
+    {
+      "offset": 3725,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あ……、嵐の後にか？」",
+      "en": "\"Ah.... and this was after the storm?\"",
+      "text": "\"Ah.... and this was after the storm?\""
+    },
+    {
+      "offset": 3786,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そうだよ。だから、今どうなってるかなぁと\n　思ってさ」",
+      "en": "\"Yep! That's why I was wondering how it was doing.\"",
+      "text": "\"Yep! That's why I was wondering how it was doing.\""
+    },
+    {
+      "offset": 3862,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ロスキルラベンダーが、まだ残ってる！",
+      "en": "There's still a Roskill Lavender left!",
+      "text": "There's still a Roskill Lavender left!"
+    },
+    {
+      "offset": 3903,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まさか、あの嵐の前にさくらが……。",
+      "en": "Just maybe, by doing that before the storm, Sakura has...",
+      "text": "Just maybe, by doing that before the storm, Sakura has..."
+    },
+    {
+      "offset": 3942,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の心臓が、やけに速く鳴っているのが聞こえ\nてくる。",
+      "en": "My heart started racing at the thought.",
+      "text": "My heart started racing at the thought."
+    },
+    {
+      "offset": 3998,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらが『想定してたのより、随分と強く育っ\nていたから、もしかしたら……』という言葉が\n耳を｛かす／掠｝める。",
+      "en": "Sakura's continued explanation, on how \"it might grow with\nlots and lots of care and attention\", flew right over my\nhead.",
+      "text": "Sakura's continued explanation, on how \"it might grow with\nlots and lots of care and attention\", flew right over my\nhead."
+    },
+    {
+      "offset": 4111,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あの花が……。アリスの花が……。",
+      "en": "That flower is... Alice's flower is...",
+      "text": "That flower is... Alice's flower is..."
+    },
+    {
+      "offset": 4150,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さくら、悪ィ。また今度な」",
+      "en": "\"Sakura, sorry, I'd see you next time.\"",
+      "text": "\"Sakura, sorry, I'd see you next time.\""
+    },
+    {
+      "offset": 4220,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「え、お兄ちゃん、どこいくの？」",
+      "en": "\"Ehh, onii-chan, where're you going?\"",
+      "text": "\"Ehh, onii-chan, where're you going?\""
+    },
+    {
+      "offset": 4259,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そのロスキルラベンダーのところだよ！」",
+      "en": "\"To the Roskill Lavender!\"",
+      "text": "\"To the Roskill Lavender!\""
+    },
+    {
+      "offset": 4319,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そ、そんなに急がなくても」",
+      "en": "\"T, there's no need to be in such a hurry!\"",
+      "text": "\"T, there's no need to be in such a hurry!\""
+    },
+    {
+      "offset": 4354,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「超特急だ！」",
+      "en": "\"You're right! I should be faster!\"",
+      "text": "\"You're right! I should be faster!\""
+    },
+    {
+      "offset": 4375,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、さくらの肩をポンと叩いて、学校へ逆戻\nりする。",
+      "en": "With a quick pat on the shoulder, I ran back towards the\ndirection of the school.",
+      "text": "With a quick pat on the shoulder, I ran back towards the\ndirection of the school."
+    },
+    {
+      "offset": 4519,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……朝倉、先輩？」",
+      "en": "\"...Asakura, senpai?\"",
+      "text": "\"...Asakura, senpai?\""
+    },
+    {
+      "offset": 4546,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「アリス、急いで来てくれ！」",
+      "en": "\"Alice, come with me!\"",
+      "text": "\"Alice, come with me!\""
+    },
+    {
+      "offset": 4611,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「え、どこへ……」",
+      "en": "\"Eh, where...?\"",
+      "text": "\"Eh, where...?\""
+    },
+    {
+      "offset": 4636,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「いいから、ついて来て！」",
+      "en": "\"Just hurry up and follow me!\"",
+      "text": "\"Just hurry up and follow me!\""
+    },
+    {
+      "offset": 4678,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、アリスの細い腕を掴み、体育館裏に直行\nする。",
+      "en": "I grabbed Alice's slender hand, and rushed off towards the\nback of the gym.",
+      "text": "I grabbed Alice's slender hand, and rushed off towards the\nback of the gym."
+    },
+    {
+      "offset": 4771,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あのな、実はロスキルラベンダー、残ってた\n　んだよ」",
+      "en": "\"Apparently, there's still a Roskill Lavender left there!\"",
+      "text": "\"Apparently, there's still a Roskill Lavender left there!\""
+    },
+    {
+      "offset": 4866,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「ロスキルラベンダーが？」",
+      "en": "\"A Roskill Lavender?",
+      "text": "\"A Roskill Lavender?"
+    },
+    {
+      "offset": 4899,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「ああ。さくらってヤツが、嵐の前にこっそり\n　抜いてたらしいんだ。それで、その後にまた\n　戻しておいたらしいんだよ」",
+      "en": "\"Yeah. That Sakura took one of the stalks with her before\nthe storm, and only returned it after.\"",
+      "text": "\"Yeah. That Sakura took one of the stalks with her before\nthe storm, and only returned it after.\""
+    },
+    {
+      "offset": 5050,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「知らなかった……」",
+      "en": "\"I didn't know...\"",
+      "text": "\"I didn't know...\""
+    },
+    {
+      "offset": 5077,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あの日以来、俺もアリスもここに訪れたことは\nなかった。",
+      "en": "After that day, neither Alice nor I ever visited that place.",
+      "text": "After that day, neither Alice nor I ever visited that place."
+    },
+    {
+      "offset": 5135,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "花がダメになった後は、来る理由もなかったし、\n花のことを思い出すのも、はばかられていたか\nらだった。",
+      "en": "Not only was there no reason to go there without the flower,\nbut it would've only brought back bad memories.",
+      "text": "Not only was there no reason to go there without the flower,\nbut it would've only brought back bad memories."
+    },
+    {
+      "offset": 5270,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……朝倉、先輩。あれ……」",
+      "en": "\"...Asakura, senpai. That's...\"",
+      "text": "\"...Asakura, senpai. That's...\""
+    },
+    {
+      "offset": 5305,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「え……」",
+      "en": "\"Eh...\"",
+      "text": "\"Eh...\""
+    },
+    {
+      "offset": 5335,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……ロスキルラベンダー」",
+      "en": "\"...Roskill Lavender.\"",
+      "text": "\"...Roskill Lavender.\""
+    },
+    {
+      "offset": 5368,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「花が咲いてる……」",
+      "en": "\"It's blooming...\"",
+      "text": "\"It's blooming...\""
+    },
+    {
+      "offset": 5434,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「ロスキルラベンダーの花が咲いてる」",
+      "en": "\"The Roskill Lavender bloomed.\"",
+      "text": "\"The Roskill Lavender bloomed.\""
+    },
+    {
+      "offset": 5477,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「日本じゃ絶対に咲かないって言われてたのに」",
+      "en": "\"And it was said that it couldn't possibly grow in Japan...\"",
+      "text": "\"And it was said that it couldn't possibly grow in Japan...\""
+    },
+    {
+      "offset": 5528,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そこには、健気に花をつけたロスキルラベンダー\nが｛つつ／慎｝ましく｛たたず／佇｝んでいた。",
+      "en": "The Roskill Lavender was sporting a flower, standing upright\nand proud.",
+      "text": "The Roskill Lavender was sporting a flower, standing upright\nand proud."
+    },
+    {
+      "offset": 5637,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……きれい」",
+      "en": "\"...Beautiful.\"",
+      "text": "\"...Beautiful.\""
+    },
+    {
+      "offset": 5658,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……きれいだな」",
+      "en": "\"...It's so beautiful.\"",
+      "text": "\"...It's so beautiful.\""
+    },
+    {
+      "offset": 5683,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "北欧の寒い地域に咲く、小さな花。",
+      "en": "A tiny flower that was supposed to only grow in cold\nclimates, in Scandinavian countries.",
+      "text": "A tiny flower that was supposed to only grow in cold\nclimates, in Scandinavian countries."
+    },
+    {
+      "offset": 5720,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "わずかな時間しか開花することのない花に願い\nをかければ、叶うと言われている不思議な花。",
+      "en": "The flower which, in the short time it blooms, was said to\nbe able to grant wishes.",
+      "text": "The flower which, in the short time it blooms, was said to\nbe able to grant wishes."
+    },
+    {
+      "offset": 5810,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "日本では、咲かないと言われた花。",
+      "en": "The flower that was said to not be able to grow in Japan.",
+      "text": "The flower that was said to not be able to grow in Japan."
+    },
+    {
+      "offset": 5847,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それが、今、目の前に咲いていた……。",
+      "en": "That flower was in front of me right now...",
+      "text": "That flower was in front of me right now..."
+    },
+    {
+      "offset": 5888,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "小さな花びらを、春のそよ風になびかせながら、\nそれは咲いていた。",
+      "en": "The small flower, swaying with the gentle spring wind.",
+      "text": "The small flower, swaying with the gentle spring wind."
+    },
+    {
+      "offset": 5958,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「願い、かけなきゃ」",
+      "en": "\"...We can make a wish.\"",
+      "text": "\"...We can make a wish.\""
+    },
+    {
+      "offset": 5985,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当に叶うかどうか知らないけれど、こんな奇\n跡またとない。",
+      "en": "Who knows whether it'd really come true, but if miracles\nlike this can happen...",
+      "text": "Who knows whether it'd really come true, but if miracles\nlike this can happen..."
+    },
+    {
+      "offset": 6047,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、何か願い事を探す。",
+      "en": "I tried to think of something to wish for.",
+      "text": "I tried to think of something to wish for."
+    },
+    {
+      "offset": 6091,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……先輩」",
+      "en": "\"...Senpai.\"",
+      "text": "\"...Senpai.\""
+    },
+    {
+      "offset": 6110,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「なんだ？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 6142,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「違うと思う」",
+      "en": "\"I think that's a bit off.\"",
+      "text": "\"I think that's a bit off.\""
+    },
+    {
+      "offset": 6163,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「違う？」",
+      "en": "\"It is?\"",
+      "text": "\"It is?\""
+    },
+    {
+      "offset": 6180,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こくんと頷くアリス。",
+      "en": "She nodded.",
+      "text": "She nodded."
+    },
+    {
+      "offset": 6220,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「この花、……ロスキルラベンダーは、短い間\n　に咲いた花に願いをかけるんじゃなくて」",
+      "en": "\"This flower... the Roskill Lavender, I don't think it\ngrants wishes in the short time that it blooms.\"",
+      "text": "\"This flower... the Roskill Lavender, I don't think it\ngrants wishes in the short time that it blooms.\""
+    },
+    {
+      "offset": 6323,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「願いが叶った時に、花を咲かせるんじゃない\n　かなって」",
+      "en": "\"Instead, it only blooms after your wish has been granted.\"",
+      "text": "\"Instead, it only blooms after your wish has been granted.\""
+    },
+    {
+      "offset": 6385,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「アリスの願い……」",
+      "en": "\"Alice's wish...\"",
+      "text": "\"Alice's wish...\""
+    },
+    {
+      "offset": 6425,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「そう……。お友達がほしいっていう、私の願\n　い」",
+      "en": "\"Yes... my wish, to have friends.\"",
+      "text": "\"Yes... my wish, to have friends.\""
+    },
+    {
+      "offset": 6481,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "アリスは、ロスキルラベンダーの花をゆっくり\nと触った。",
+      "en": "Alice gently and slowly brushed the Roskill Lavender with\nher hand.",
+      "text": "Alice gently and slowly brushed the Roskill Lavender with\nher hand."
+    },
+    {
+      "offset": 6554,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「私の願い、叶いました……。とっても素敵な\n　お友達が、たくさんできました」",
+      "en": "\"My wish came true... I managed to make lots of wonderful\nfriends.\"",
+      "text": "\"My wish came true... I managed to make lots of wonderful\nfriends.\""
+    },
+    {
+      "offset": 6649,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「それに、素敵な恋人もできました」",
+      "en": "\"And a wonderful lover, as well.\"",
+      "text": "\"And a wonderful lover, as well.\""
+    },
+    {
+      "offset": 6690,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──コホン。なんだか照れるな。",
+      "en": "--cough. That was kinda embarassing.",
+      "text": "--cough. That was kinda embarassing."
+    },
+    {
+      "offset": 6740,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「ありがとう。咲いてくれて、ありがとう。私\n　の願いを｛・・・／聞いて｝くれて、ありがとう」",
+      "en": "\"Thank you. Thank you for blooming. Thank you for listening\nto my wish.\"",
+      "text": "\"Thank you. Thank you for blooming. Thank you for listening\nto my wish.\""
+    },
+    {
+      "offset": 6838,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、アリスの肩をきゅっと抱きしめる。",
+      "en": "I hugged Alice's shoulders tightly.",
+      "text": "I hugged Alice's shoulders tightly."
+    },
+    {
+      "offset": 6881,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "小さくて｛きゃしゃ／華奢｝な身体を、きゅっと抱きしめる。",
+      "en": "Tightly hugging that slender body of hers.",
+      "text": "Tightly hugging that slender body of hers."
+    },
+    {
+      "offset": 6957,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「また、来年……会いましょう」",
+      "en": "\"Next year... we'd see you again.\"",
+      "text": "\"Next year... we'd see you again.\""
+    },
+    {
+      "offset": 6994,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ロスキルラベンダーの花びらがゆっくりと閉じ\nていく。",
+      "en": "The Roskill Lavender's petals slowly started to close up.",
+      "text": "The Roskill Lavender's petals slowly started to close up."
+    },
+    {
+      "offset": 7050,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "咲いている期間が終わったらしい。",
+      "en": "Seems it's blooming period just expired.",
+      "text": "Seems it's blooming period just expired."
+    },
+    {
+      "offset": 7087,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、ロスキルラベンダーの花に、たった一つ、\n願いをかけておいた。",
+      "en": "I ended up making a wish to it.",
+      "text": "I ended up making a wish to it."
+    },
+    {
+      "offset": 7157,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『アリスといつまでも一緒にいられますように』",
+      "en": "\"I want to be together with Alice, always.\"",
+      "text": "\"I want to be together with Alice, always.\""
+    },
+    {
+      "offset": 7221,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「──ありがとう」",
+      "en": "\"--Thank you.\"",
+      "text": "\"--Thank you.\""
+    },
+    {
+      "offset": 7246,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "誰に向けてかわからないけれど、アリスはそう\n呟いた。",
+      "en": "She whispered, lost to the light spring breeze.",
+      "text": "She whispered, lost to the light spring breeze."
+    },
+    {
+      "offset": 7413,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆ＥＤ・いつまでも……◆",
+      "en": "◆ED. Always...◆",
+      "text": "◆ED. Always...◆"
+    },
+    {
+      "offset": 7468,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "公園を歩いていると、久しぶりにさくらに出会\nう。",
+      "en": "Walking through the park, I met someone I hadn't seen in\nawhile; Sakura.",
+      "text": "Walking through the park, I met someone I hadn't seen in\nawhile; Sakura."
+    },
+    {
+      "offset": 7520,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "彼女は、用事があってしばらく姿を見せなかっ\nたのだといい、そして、またしばらくは会えな\nいのだという。",
+      "en": "She had left to take care of something suddenly before, and\nafter this, wouldn't be coming back for awhile again.",
+      "text": "She had left to take care of something suddenly before, and\nafter this, wouldn't be coming back for awhile again."
+    },
+    {
+      "offset": 7625,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただ、さくらが気になることを言っていた。",
+      "en": "But, Sakura had something she wanted to ask me.",
+      "text": "But, Sakura had something she wanted to ask me."
+    },
+    {
+      "offset": 7670,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ロスキルラベンダーの花はどうなったのか、と。",
+      "en": "That is, how the Roskill Lavender was doing.",
+      "text": "That is, how the Roskill Lavender was doing."
+    },
+    {
+      "offset": 7719,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ダメになったはずの花。よくよく話を聞いてみ\nると、あの嵐の前、さくらが研究のため、１度\n抜いてしまった株があったのだという。",
+      "en": "It was a flower that should've had no hope left. After some\nconversation, I found out she had taken a stalk before the\nstorm, to research.",
+      "text": "It was a flower that should've had no hope left. After some\nconversation, I found out she had taken a stalk before the\nstorm, to research."
+    },
+    {
+      "offset": 7846,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、さくらと別れ、アリスを捜しに行く。そ\nして、彼女の手をひっぱり、体育館の裏へ赴く。",
+      "en": "I left Sakura behind, and went to look for Alice. I took her\nby the hand, and dashed off to behind the gym.",
+      "text": "I left Sakura behind, and went to look for Alice. I took her\nby the hand, and dashed off to behind the gym."
+    },
+    {
+      "offset": 7938,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そこには──、見事な花を咲かせているロスキ\nルラベンダーがあった。",
+      "en": "Standing proudly, there-- a beautiful flower of the Roskill\nLavender.",
+      "text": "Standing proudly, there-- a beautiful flower of the Roskill\nLavender."
+    },
+    {
+      "offset": 8008,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "アリスは言う。この花は、願いをかける花では\nなく、願いを叶えたときこそ、花を咲かせるの\nではないかと……。",
+      "en": "According to Alice, it doesn't actually grant wishes when it\nblooms, but instead, blooms when wishes are granted.",
+      "text": "According to Alice, it doesn't actually grant wishes when it\nblooms, but instead, blooms when wishes are granted."
+    },
+    {
+      "offset": 8117,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "けれど、俺はロスキルラベンダーの花に願いを\nかける。",
+      "en": "Despite that, I still offered my wish to the Roskill\nLavender.",
+      "text": "Despite that, I still offered my wish to the Roskill\nLavender."
+    },
+    {
+      "offset": 8173,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『アリスといつまでも一緒にいられますように』",
+      "en": "\"I want to be together with Alice, always.\"",
+      "text": "\"I want to be together with Alice, always.\""
+    }
+  ],
+  "choices": [],
+  "names": {
+    "481": "Sakura",
+    "647": "Sakura",
+    "755": "Sakura",
+    "904": "Sakura",
+    "983": "Sakura",
+    "1069": "Sakura",
+    "1179": "Sakura",
+    "1357": "Sakura",
+    "1657": "Sakura",
+    "1788": "Sakura",
+    "1970": "Sakura",
+    "2111": "Sakura",
+    "2238": "Sakura",
+    "2386": "Sakura",
+    "2466": "Sakura",
+    "2627": "Sakura",
+    "2733": "Sakura",
+    "2839": "Sakura",
+    "3000": "Sakura",
+    "3305": "Sakura",
+    "3417": "Sakura",
+    "3517": "Sakura",
+    "3676": "Sakura",
+    "3776": "Sakura",
+    "4210": "Sakura",
+    "4309": "Sakura",
+    "4509": "Alice",
+    "4601": "Alice",
+    "4856": "Alice",
+    "5040": "Alice",
+    "5260": "Alice",
+    "5325": "Alice",
+    "5424": "Alice",
+    "5627": "Alice",
+    "6081": "Alice",
+    "6132": "Alice",
+    "6210": "Alice",
+    "6313": "Alice",
+    "6415": "Alice",
+    "6544": "Alice",
+    "6639": "Alice",
+    "6730": "Alice",
+    "6947": "Alice",
+    "7211": "Alice"
+  }
+}

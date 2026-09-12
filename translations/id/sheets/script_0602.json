@@ -1,0 +1,1988 @@
+{
+  "scene": "script_0602.obj",
+  "dialogues": [
+    {
+      "offset": 259,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "白い天井が見える。",
+      "en": "I gazed at the white clouds above.",
+      "text": "I gazed at the white clouds above."
+    },
+    {
+      "offset": 282,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ここは病院なのだろう。",
+      "en": "So this is a hospital...",
+      "text": "So this is a hospital..."
+    },
+    {
+      "offset": 309,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、ベッドに寝て、真っ白い天井を見ていた。",
+      "en": "I was lying on a bed, watching the pure white clouds roll\nby.",
+      "text": "I was lying on a bed, watching the pure white clouds roll\nby."
+    },
+    {
+      "offset": 358,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並の苦笑する顔が見える。",
+      "en": "Suginami's face then popped into my view.",
+      "text": "Suginami's face then popped into my view."
+    },
+    {
+      "offset": 424,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「心配するな。後は俺に任せておけ」",
+      "en": "\"Don't worry. Leave the rest to me.\"",
+      "text": "\"Don't worry. Leave the rest to me.\""
+    },
+    {
+      "offset": 465,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並らしくない、しおらしい表情だ。",
+      "en": "A serious face, very unlike him.",
+      "text": "A serious face, very unlike him."
+    },
+    {
+      "offset": 517,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「お前はただ、そこでおとなしくしていればい\n　い……。わかったな」",
+      "en": "\"You just stay here and be a good boy... understand?\"",
+      "text": "\"You just stay here and be a good boy... understand?\""
+    },
+    {
+      "offset": 589,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……ああ」",
+      "en": "\"...Yeah.\"",
+      "text": "\"...Yeah.\""
+    },
+    {
+      "offset": 608,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は力無く答えた。",
+      "en": "I feebly answered.",
+      "text": "I feebly answered."
+    },
+    {
+      "offset": 644,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「じゃあ、俺は月城嬢のところに行ってくる。\n　そろそろ彼女にも知らせないとな」",
+      "en": "\"I'll head for Tsukishiro-jou's location now, then... it's\ntime for her to find out.\"",
+      "text": "\"I'll head for Tsukishiro-jou's location now, then... it's\ntime for her to find out.\""
+    },
+    {
+      "offset": 728,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……頼む」",
+      "en": "\"...Please.\"",
+      "text": "\"...Please.\""
+    },
+    {
+      "offset": 747,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、動くことができない。",
+      "en": "I couldn't move from my bed.",
+      "text": "I couldn't move from my bed."
+    },
+    {
+      "offset": 787,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しばらく、視点は杉並を追いかけることになる。",
+      "en": "Suginami's figure quickly disappeared from my vision.",
+      "text": "Suginami's figure quickly disappeared from my vision."
+    },
+    {
+      "offset": 836,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あいつのことは、美春がきちんと追いかけてく\nれるはずだ……。",
+      "en": "Miharu will probably cover for me now...",
+      "text": "Miharu will probably cover for me now..."
+    },
+    {
+      "offset": 900,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、ゆっくりと目を｛つむ／瞑｝った。",
+      "en": "I slowly closed my eyes.",
+      "text": "I slowly closed my eyes."
+    },
+    {
+      "offset": 1025,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「わんこ嬢、急いで行くぞ」",
+      "en": "\"Puppy, let us hurry.\"",
+      "text": "\"Puppy, let us hurry.\""
+    },
+    {
+      "offset": 1069,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「はい、行きましょう！」",
+      "en": "\"Yes, I'm ready!\"",
+      "text": "\"Yes, I'm ready!\""
+    },
+    {
+      "offset": 1111,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「なんせ、一大事だからな……」",
+      "en": "\"This is as serious as it gets, after all...\"",
+      "text": "\"This is as serious as it gets, after all...\""
+    },
+    {
+      "offset": 1148,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ここからは、しばらく朝倉先輩に代わり、美春\nが杉並先輩を追いかけます。",
+      "en": "From now on, in Asakura-senpai's place, Miharu will cover\nthe following of Suginami.",
+      "text": "From now on, in Asakura-senpai's place, Miharu will cover\nthe following of Suginami."
+    },
+    {
+      "offset": 1222,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並先輩は、走りながら、連絡をもらっていた\n通りに、美春と合流しました。",
+      "en": "Suginami-senpai was running past junctions and streets, and\nI did my best to follow him.",
+      "text": "Suginami-senpai was running past junctions and streets, and\nI did my best to follow him."
+    },
+    {
+      "offset": 1298,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、美春達は急いで月城さんのおうちを目\n指しました。",
+      "en": "Shortly after, Tsukishiro's home came into view.",
+      "text": "Shortly after, Tsukishiro's home came into view."
+    },
+    {
+      "offset": 1371,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「はぁ、はぁ……杉並先輩、タクシーの方が早\n　くないですか？　ここから月城さんちまでは\n　随分ありますよ」",
+      "en": "\"Hah, hahh... Suginami-senpai, wouldn't a taxi be faster? To\nget to Tsukishiro-san's place...\"",
+      "text": "\"Hah, hahh... Suginami-senpai, wouldn't a taxi be faster? To\nget to Tsukishiro-san's place...\""
+    },
+    {
+      "offset": 1493,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「そうだな。事態は一刻を争うからな。できる\n　限り早い方がいい」",
+      "en": "\"True. Considering the circumstances, we must do everything\nwe can to extend what little time we have.\"",
+      "text": "\"True. Considering the circumstances, we must do everything\nwe can to extend what little time we have.\""
+    },
+    {
+      "offset": 1563,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並先輩はそう言って、スピードを落とし、近\nくの手頃なタクシーを停めました。",
+      "en": "As he spoke, he slowed down his speed, and hailed a nearby\ntaxi.",
+      "text": "As he spoke, he slowed down his speed, and hailed a nearby\ntaxi."
+    },
+    {
+      "offset": 1656,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「はぁ、はぁ、杉並先輩、足早いです……」",
+      "en": "\"Hah, hahh... Suginami-senpai, you run really fast...\"",
+      "text": "\"Hah, hahh... Suginami-senpai, you run really fast...\""
+    },
+    {
+      "offset": 1714,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「わんこのくせにだらしがないぞ。鍛えておか\n　ないとこんな時に困るんだよ」",
+      "en": "\"I cannot wait for any puppy. Every second is vital.\"",
+      "text": "\"I cannot wait for any puppy. Every second is vital.\""
+    },
+    {
+      "offset": 1794,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並先輩は、病院からずっと走っているはずな\nのに、ほとんど汗をかいていませんでした。",
+      "en": "Despite running all the way from the hospital to here,\nSuginami-senpai didn't seem to even sweat one drop.",
+      "text": "Despite running all the way from the hospital to here,\nSuginami-senpai didn't seem to even sweat one drop."
+    },
+    {
+      "offset": 1900,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "タクシーには、急いでいるからと伝え、少しだ\nけ多めにスピードを出してもらいました。",
+      "en": "We implored the taxi driver to go faster, and the taxi\nincreased it's speed bit by bit.",
+      "text": "We implored the taxi driver to go faster, and the taxi\nincreased it's speed bit by bit."
+    },
+    {
+      "offset": 1986,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "けれど、杉並先輩は、イライラしているのか、\nずっと指で膝を叩いていました。",
+      "en": "But Suginami-senpai still seemed nervous and fidgety,\ntapping his finger on his knee irratatedly.",
+      "text": "But Suginami-senpai still seemed nervous and fidgety,\ntapping his finger on his knee irratatedly."
+    },
+    {
+      "offset": 2064,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "親友の朝倉先輩の一大事なのですから、仕方あ\nりません。",
+      "en": "It can't be helped... it's such a serious amtter involving\nhis best friend.",
+      "text": "It can't be helped... it's such a serious amtter involving\nhis best friend."
+    },
+    {
+      "offset": 2122,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春だって、連絡をもらった時はすごくびっく\nりしました。",
+      "en": "When I heard it myself, I was so shocked as well...",
+      "text": "When I heard it myself, I was so shocked as well..."
+    },
+    {
+      "offset": 2182,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "早く病院にいきたかったけれど、杉並先輩の\n『月城嬢に知らせなくては』との一言で、先\nにそっちへ向かうことになったのです。",
+      "en": "I wanted to go straight to the hospital, but Suginami-senpai\nsaid that Tsukishiro still hadn't heard, and rushed towards\nher home.",
+      "text": "I wanted to go straight to the hospital, but Suginami-senpai\nsaid that Tsukishiro still hadn't heard, and rushed towards\nher home."
+    },
+    {
+      "offset": 2305,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "タクシーは随分スピードを出していたけれど、\n美春は心の中で、ずっと『もっと速く、もっと\n速く』と呟いていました。",
+      "en": "The taxi was moving even faster than the speed limit here,\nyet my heart was still pleading it to go faster and faster.",
+      "text": "The taxi was moving even faster than the speed limit here,\nyet my heart was still pleading it to go faster and faster."
+    },
+    {
+      "offset": 2455,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「急ぎましょう……杉並先輩」",
+      "en": "\"Let's hurry... Suginami-senpai.\"",
+      "text": "\"Let's hurry... Suginami-senpai.\""
+    },
+    {
+      "offset": 2523,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「わかっている。遅れないようにちゃんとつい\n　てくるんだぞ」",
+      "en": "\"I know. You better not slow me down.\"",
+      "text": "\"I know. You better not slow me down.\""
+    },
+    {
+      "offset": 2600,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「はい！　頑張ります」",
+      "en": "\"I won't! I'd do my best!\"",
+      "text": "\"I won't! I'd do my best!\""
+    },
+    {
+      "offset": 2687,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「なんですと！？　今、なんとおっしゃいまし\n　た？」",
+      "en": "\"W, what in the name of...!? What did you just say!?\"",
+      "text": "\"W, what in the name of...!? What did you just say!?\""
+    },
+    {
+      "offset": 2756,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「はぁ、はぁ……、だから、朝倉先輩が」",
+      "en": "\"Haah, haah... Asakura-senpai, is...\"",
+      "text": "\"Haah, haah... Asakura-senpai, is...\""
+    },
+    {
+      "offset": 2812,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「早く月城嬢を呼んできてくれ、セバスチャン」",
+      "en": "\"Call Tsukishiro-jou as fast as possible, Sebastian.\"",
+      "text": "\"Call Tsukishiro-jou as fast as possible, Sebastian.\""
+    },
+    {
+      "offset": 2879,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「承知致しました。お待ちくださいませ」",
+      "en": "\"I shall. Please wait a moment.\"",
+      "text": "\"I shall. Please wait a moment.\""
+    },
+    {
+      "offset": 2933,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "瀬場さんは、急いで階段を駆け上がって、月城\nさんを呼んできました。",
+      "en": "Seiba-san hurried up the stairs, and called for\nTsukishiro-san.",
+      "text": "Seiba-san hurried up the stairs, and called for\nTsukishiro-san."
+    },
+    {
+      "offset": 3040,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……あの」",
+      "en": "\"...Um...\"",
+      "text": "\"...Um...\""
+    },
+    {
+      "offset": 3059,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城さんが、いつになく取り乱した表情で、美\n春と杉並先輩を見ました。",
+      "en": "Tsukishiro-san looked at us with a confused face.",
+      "text": "Tsukishiro-san looked at us with a confused face."
+    },
+    {
+      "offset": 3144,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「月城嬢よ、落ち着いて聞いてくれ……」",
+      "en": "\"Tsukishiro-jou, listen to me calmly and carefully...\"",
+      "text": "\"Tsukishiro-jou, listen to me calmly and carefully...\""
+    },
+    {
+      "offset": 3189,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こくんと頷く月城さん。",
+      "en": "Tsukishiro-san nodded.",
+      "text": "Tsukishiro-san nodded."
+    },
+    {
+      "offset": 3229,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「朝倉が、事故にあった……。交通事故だ」",
+      "en": "\"Asakura met with an accident... a traffic accident.\"",
+      "text": "\"Asakura met with an accident... a traffic accident.\""
+    },
+    {
+      "offset": 3289,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……え」",
+      "en": "\"...Ah.\"",
+      "text": "\"...Ah.\""
+    },
+    {
+      "offset": 3306,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城さんが息を呑んで、身を乗り出してきまし\nた。",
+      "en": "Tsukishiro-san inhaled suddenly, and leaned forward.",
+      "text": "Tsukishiro-san inhaled suddenly, and leaned forward."
+    },
+    {
+      "offset": 3371,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「今、病院にいる。月城嬢にも知らせなければ\n　と思って、急いでやってきた」",
+      "en": "\"He's in the hospital right now. I thought you may not have\nknown, so we came here as fast as we could.\"",
+      "text": "\"He's in the hospital right now. I thought you may not have\nknown, so we came here as fast as we could.\""
+    },
+    {
+      "offset": 3481,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……先輩、が」",
+      "en": "\"...Senpai, is...\"",
+      "text": "\"...Senpai, is...\""
+    },
+    {
+      "offset": 3504,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その時、美春には月城さんが唾を飲み込む音が\n聞こえたような気がしました。",
+      "en": "I heard Tsukishiro swallow deeply, as she digested what\nSuginami said.",
+      "text": "I heard Tsukishiro swallow deeply, as she digested what\nSuginami said."
+    },
+    {
+      "offset": 3593,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「月城さん、行きましょう、朝倉先輩のところ\n　へ……」",
+      "en": "\"Tsukishiro-san, let's go, to where Asakura-senpai is...\"",
+      "text": "\"Tsukishiro-san, let's go, to where Asakura-senpai is...\""
+    },
+    {
+      "offset": 3683,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……先輩ッ！」",
+      "en": "\"...Senpai!!\"",
+      "text": "\"...Senpai!!\""
+    },
+    {
+      "offset": 3715,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その瞬間、月城さんが、玄関に向かって、走り\n出しました。",
+      "en": "At that moment, Tsukishiro-san jumped up and dashed towards\nthe entranceway.",
+      "text": "At that moment, Tsukishiro-san jumped up and dashed towards\nthe entranceway."
+    },
+    {
+      "offset": 3788,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「月城さんッ！」",
+      "en": "\"Tsukishiro-san!\"",
+      "text": "\"Tsukishiro-san!\""
+    },
+    {
+      "offset": 3844,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「杉並様……まさか」",
+      "en": "\"Suginami-senpai... are you...\"",
+      "text": "\"Suginami-senpai... are you...\""
+    },
+    {
+      "offset": 3871,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつも落ち着いていた瀬場さんも表情を強ばら\nせ、杉並先輩を問いただします。",
+      "en": "Even the ever-calm Seiba-san's face had hardened with shock,\nas he questioned Suginami-senpai.",
+      "text": "Even the ever-calm Seiba-san's face had hardened with shock,\nas he questioned Suginami-senpai."
+    },
+    {
+      "offset": 3949,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並先輩は、何も言わず、ただゆっくりと頷い\nていました。",
+      "en": "Suginami-senpai, simply, slowly and wordlessly, nodded to\nhim.",
+      "text": "Suginami-senpai, simply, slowly and wordlessly, nodded to\nhim."
+    },
+    {
+      "offset": 4044,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「じゃ、セバスチャン、行ってくる」",
+      "en": "\"Sebastian, we're going now.\"",
+      "text": "\"Sebastian, we're going now.\""
+    },
+    {
+      "offset": 4129,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「はい、お嬢様を、よろしくお願い致します」",
+      "en": "\"Alright. Please take care of the mistress.\"",
+      "text": "\"Alright. Please take care of the mistress.\""
+    },
+    {
+      "offset": 4206,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ああ、任しておいてくれ」",
+      "en": "\"Ahh, leave it to me.\"",
+      "text": "\"Ahh, leave it to me.\""
+    },
+    {
+      "offset": 4272,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「わんこ嬢、月城嬢を追うぞッ」",
+      "en": "\"Puppy, we're going to chase after Tsukishiro-jou.\"",
+      "text": "\"Puppy, we're going to chase after Tsukishiro-jou.\""
+    },
+    {
+      "offset": 4320,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「はっ、はいい！」",
+      "en": "\"Y, yesss!\"",
+      "text": "\"Y, yesss!\""
+    },
+    {
+      "offset": 4374,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春達は、急いで屋敷を出て、タクシーを探し\nました。",
+      "en": "We hurried out of the mansion, and looked for the taxi.",
+      "text": "We hurried out of the mansion, and looked for the taxi."
+    },
+    {
+      "offset": 4465,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「わんこ嬢……。タクシーを待たせておかなかっ\n　たのか？」",
+      "en": "\"Dear puppy... did you tell the taxi to wait for us?\"",
+      "text": "\"Dear puppy... did you tell the taxi to wait for us?\""
+    },
+    {
+      "offset": 4540,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「え？　あ。あわわ、そうでした！」",
+      "en": "\"Eh? A, awahwah, I forgot!\"",
+      "text": "\"Eh? A, awahwah, I forgot!\""
+    },
+    {
+      "offset": 4609,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ちっ、仕方ない。月城嬢よ、走れるか？」",
+      "en": "\"Ugh, what's done is done... Tsukishiro-jou, can you run?\"",
+      "text": "\"Ugh, what's done is done... Tsukishiro-jou, can you run?\""
+    },
+    {
+      "offset": 4678,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城さんは、こくんと頷くと、病院のある方向\nへ走り出しました。",
+      "en": "Tsukishiro-san, with a quick nod, ran off in the direction\nof the hospital.",
+      "text": "Tsukishiro-san, with a quick nod, ran off in the direction\nof the hospital."
+    },
+    {
+      "offset": 4753,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それを杉並先輩が追いかけます。",
+      "en": "Suginami-senpai followed immediately after.",
+      "text": "Suginami-senpai followed immediately after."
+    },
+    {
+      "offset": 4801,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「水越総合病院だ！　わかるか？」",
+      "en": "\"It's the Mizukoshi Hospital! Do you know where it is?\"",
+      "text": "\"It's the Mizukoshi Hospital! Do you know where it is?\""
+    },
+    {
+      "offset": 4840,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こくんと頷きながらも、走る月城さん。",
+      "en": "Without slowing her pace, Tsukishiro-san nodded in reply.",
+      "text": "Without slowing her pace, Tsukishiro-san nodded in reply."
+    },
+    {
+      "offset": 4881,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並さんまでもが離されるくらいのものすごい\nスピードです。",
+      "en": "Her speed was so amazing, that it was leaving even\nSuginami-senpai in the dust.",
+      "text": "Her speed was so amazing, that it was leaving even\nSuginami-senpai in the dust."
+    },
+    {
+      "offset": 4956,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「はぁ、はぁ、杉並先輩……美春は……」",
+      "en": "\"Hah, haah, Suginami-senpai... I'm...\"",
+      "text": "\"Hah, haah, Suginami-senpai... I'm...\""
+    },
+    {
+      "offset": 5001,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さすがにバナナのスタミナパワーにも限界があ\nりました。",
+      "en": "I guess the stamina power of bananas has reached it's\nlimit...",
+      "text": "I guess the stamina power of bananas has reached it's\nlimit..."
+    },
+    {
+      "offset": 5072,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「朝倉の家に自転車があるはずだ。鍵は、ポス\n　トの中にある！」",
+      "en": "\"There's a bicycle at Asakura's house! The key's in the\nmailbox!\"",
+      "text": "\"There's a bicycle at Asakura's house! The key's in the\nmailbox!\""
+    },
+    {
+      "offset": 5151,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「は、はいぃぃ……」",
+      "en": "\"O, okayyy....\"",
+      "text": "\"O, okayyy....\""
+    },
+    {
+      "offset": 5178,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春は、杉並先輩の言うとおり、朝倉先輩のお\nうちで自転車をお借りし、走らせます。",
+      "en": "Just as Suginami-senpai said, there was a bicycle at\nAsakura's house. I borrowed it for a short while, and headed\nonwards.",
+      "text": "Just as Suginami-senpai said, there was a bicycle at\nAsakura's house. I borrowed it for a short while, and headed\nonwards."
+    },
+    {
+      "offset": 5297,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「俺はいいから、月城嬢を……。くッ……、こ\n　の俺が遅れを取るとは……」",
+      "en": "\"I'd be fine, just watch for Tsukshiro-jou.... ugh... looks\nlike I'd be there late...\"",
+      "text": "\"I'd be fine, just watch for Tsukshiro-jou.... ugh... looks\nlike I'd be there late...\""
+    },
+    {
+      "offset": 5384,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城さんの足はとても速く、美春が自転車を一\n生懸命漕いで、ようやく追いつくスピードでし\nた。",
+      "en": "Tsukishiro-san's pace was blazingly quick, but with me\npedaling with all I had, I managed to catch up to her.",
+      "text": "Tsukishiro-san's pace was blazingly quick, but with me\npedaling with all I had, I managed to catch up to her."
+    },
+    {
+      "offset": 5479,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "子どもの頃にサーカスで働いていたというのは\nダテじゃないということでしょうか。",
+      "en": "The training she received at the circus when she was a child\nreally hasn't gone to waste.",
+      "text": "The training she received at the circus when she was a child\nreally hasn't gone to waste."
+    },
+    {
+      "offset": 5561,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春だって、早く先輩のところへ行きたいんだ\nから、もっと速く漕がないと……。",
+      "en": "I wanted to reach where senpai was faster as well, but my\nfeet couldn't pedal any faster than they were now...",
+      "text": "I wanted to reach where senpai was faster as well, but my\nfeet couldn't pedal any faster than they were now..."
+    },
+    {
+      "offset": 5678,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ふぅ、はぁ、ふぅ、月城さん……乗って……\n　行きますか？」",
+      "en": "\"Haah, haah, haah, Tsukishiro-san... do you... want to get\non...?\"",
+      "text": "\"Haah, haah, haah, Tsukishiro-san... do you... want to get\non...?\""
+    },
+    {
+      "offset": 5744,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふるふると首を横に振る月城さん。",
+      "en": "Tsukishiro-san simply shook her head.",
+      "text": "Tsukishiro-san simply shook her head."
+    },
+    {
+      "offset": 5781,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城さんは、少しだけ前傾姿勢になり、さらに\nスピードをあげました。",
+      "en": "Then, tilting her body slightly forward, somehow moved up a\ngear and accelerated.",
+      "text": "Then, tilting her body slightly forward, somehow moved up a\ngear and accelerated."
+    },
+    {
+      "offset": 5866,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……先輩」",
+      "en": "\"...Senpai.\"",
+      "text": "\"...Senpai.\""
+    },
+    {
+      "offset": 5898,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「…………先輩」",
+      "en": "\"......Senpai.\"",
+      "text": "\"......Senpai.\""
+    },
+    {
+      "offset": 5934,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……朝倉、先輩」",
+      "en": "\"...Asakura, senpai...\"",
+      "text": "\"...Asakura, senpai...\""
+    },
+    {
+      "offset": 5959,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城さんは、荒い呼吸でずっと朝倉先輩の名前\nを呼んでいました。",
+      "en": "Tsukishiro-san constantly repeated Asakura-senpai's name in\nbetween her quick breaths.",
+      "text": "Tsukishiro-san constantly repeated Asakura-senpai's name in\nbetween her quick breaths."
+    },
+    {
+      "offset": 6025,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "すごく、不安そうな……、見ている方も胸がきゅ\nうっと締め付けられそうなくらいの、苦しそう\nな表情。",
+      "en": "She's really worried... just looking at her pained face,\nmade my chest tighten up as well.",
+      "text": "She's really worried... just looking at her pained face,\nmade my chest tighten up as well."
+    },
+    {
+      "offset": 6139,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「……ふぅ、ふぅ、頑張りましょう、月城さん」",
+      "en": "\"...Haah, haah... keep going, Tsukishiro-san!\"",
+      "text": "\"...Haah, haah... keep going, Tsukishiro-san!\""
+    },
+    {
+      "offset": 6203,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……はい！」",
+      "en": "\"...Okay!\"",
+      "text": "\"...Okay!\""
+    },
+    {
+      "offset": 6252,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一生懸命走っているうちに、なんとか病院に到\n着しました。",
+      "en": "Moving as quickly as we humanly could, we reached the\nhospital.",
+      "text": "Moving as quickly as we humanly could, we reached the\nhospital."
+    },
+    {
+      "offset": 6325,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「すいません……あの、朝倉さんの入院してい\n　る部屋は……」",
+      "en": "\"Excuse me... may I know which ward Asakura-san is staying\nin...?\"",
+      "text": "\"Excuse me... may I know which ward Asakura-san is staying\nin...?\""
+    },
+    {
+      "offset": 6399,
+      "speaker": "Nurse",
+      "speaker_jp": "看護師",
+      "jp": "「はい？　朝倉……さんですか？」",
+      "en": "\"Yes? Asakura...-san, you say?\"",
+      "text": "\"Yes? Asakura...-san, you say?\""
+    },
+    {
+      "offset": 6449,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「わんこ嬢、月城嬢、こっちだ！」",
+      "en": "\"Puppy, Tsukishiro-jou, here!\"",
+      "text": "\"Puppy, Tsukishiro-jou, here!\""
+    },
+    {
+      "offset": 6499,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「は、はいぃぃッ！」",
+      "en": "\"O, okaayyyy!\"",
+      "text": "\"O, okaayyyy!\""
+    },
+    {
+      "offset": 6539,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……はいッ！」",
+      "en": "\"...Okay!\"",
+      "text": "\"...Okay!\""
+    },
+    {
+      "offset": 6562,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並先輩の案内で、朝倉先輩の入っている病室\nに向かいます。",
+      "en": "With Suginami-senpai's guidance, we entered Asakura-senpai's\nhospital room.",
+      "text": "With Suginami-senpai's guidance, we entered Asakura-senpai's\nhospital room."
+    },
+    {
+      "offset": 6683,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「朝倉ッ！」",
+      "en": "\"Asakura!!\"",
+      "text": "\"Asakura!!\""
+    },
+    {
+      "offset": 6702,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "個室になっているそこには、朝倉先輩がベッド\nで寝ていました。",
+      "en": "Asakura-senpai appeared to be unconscious, lying in bed in a\nprivate room.",
+      "text": "Asakura-senpai appeared to be unconscious, lying in bed in a\nprivate room."
+    },
+    {
+      "offset": 6779,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「朝倉……先輩」",
+      "en": "\"Asakura...senpai...\"",
+      "text": "\"Asakura...senpai...\""
+    },
+    {
+      "offset": 6802,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当に、事故だってことをここでようやく理解\nすることができたような気がします。",
+      "en": "The realization that he was in accident was beginning to\nsink in.",
+      "text": "The realization that he was in accident was beginning to\nsink in."
+    },
+    {
+      "offset": 6921,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……先輩！」",
+      "en": "\"...Senpai!\"",
+      "text": "\"...Senpai!\""
+    },
+    {
+      "offset": 6942,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "後ろにいた月城さんが、美春を押しのけて、先\n輩のところに駆け寄りました。",
+      "en": "Tsukishiro-san pushed me out of the way from behind, and\nrushed over to Asakura-senpai's side.",
+      "text": "Tsukishiro-san pushed me out of the way from behind, and\nrushed over to Asakura-senpai's side."
+    },
+    {
+      "offset": 7059,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……先輩」",
+      "en": "\"...Senpai...\"",
+      "text": "\"...Senpai...\""
+    },
+    {
+      "offset": 7091,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……朝倉、先輩」",
+      "en": "\"...Asakura, senpai...\"",
+      "text": "\"...Asakura, senpai...\""
+    },
+    {
+      "offset": 7127,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「お、おい、月城嬢……、そんなにゆらしちゃ\n　ダメだ！」",
+      "en": "\"O, oy, Tsukishiro-jou... don't shake him like that!\"",
+      "text": "\"O, oy, Tsukishiro-jou... don't shake him like that!\""
+    },
+    {
+      "offset": 7202,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……先輩」",
+      "en": "\"...Senpai...\"",
+      "text": "\"...Senpai...\""
+    },
+    {
+      "offset": 7234,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「…………死なないで」",
+      "en": "\"...Don't die...\"",
+      "text": "\"...Don't die...\""
+    },
+    {
+      "offset": 7263,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつになく、月城さんの声が強く、感情的に思\nえました。",
+      "en": "Tsukishiro-san's voice was unusually strong, filled with\nemotion.",
+      "text": "Tsukishiro-san's voice was unusually strong, filled with\nemotion."
+    },
+    {
+      "offset": 7336,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……朝倉先輩、死なないで！」",
+      "en": "\"...Asakura-senpai, don't die!\"",
+      "text": "\"...Asakura-senpai, don't die!\""
+    },
+    {
+      "offset": 7386,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「…………死なないで、先輩には、朝倉先輩に\n　は、……あなたには死んで欲しくないの！」",
+      "en": "\"...Don't die, I, I.. I don't want you to die!\"",
+      "text": "\"...Don't die, I, I.. I don't want you to die!\""
+    },
+    {
+      "offset": 7478,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛せき／堰｝を切ったように強く言葉を発する月城さん。",
+      "en": "She spoke strongly, firing off what she wanted to say and\nnot holding back.",
+      "text": "She spoke strongly, firing off what she wanted to say and\nnot holding back."
+    },
+    {
+      "offset": 7535,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城さんは、精一杯、自分の気持ちを、言葉に\nしているように思えました。",
+      "en": "Tsukishiro-san was finally speaking, with all her heart, her\nown feelings.",
+      "text": "Tsukishiro-san was finally speaking, with all her heart, her\nown feelings."
+    },
+    {
+      "offset": 7661,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……私は、……先輩が、……好きです！　ずっ\n　と側にいてほしい、いなくならないで！」",
+      "en": "\"...I... Senpai, I... I love you! I want you by my side\nforever, never going away!\"",
+      "text": "\"...I... Senpai, I... I love you! I want you by my side\nforever, never going away!\""
+    },
+    {
+      "offset": 7753,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「つ、月城……苦しい……」",
+      "en": "\"T, Tsukishiro... it hurts...\"",
+      "text": "\"T, Tsukishiro... it hurts...\""
+    },
+    {
+      "offset": 7816,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……え？」",
+      "en": "\"...Ehh?\"",
+      "text": "\"...Ehh?\""
+    },
+    {
+      "offset": 7835,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……く、首、締まってる」",
+      "en": "\"...You're... strangling me...\"",
+      "text": "\"...You're... strangling me...\""
+    },
+    {
+      "offset": 7898,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……え？　……え？」",
+      "en": "\"...Ehh? ...Ehhh?\"",
+      "text": "\"...Ehh? ...Ehhh?\""
+    },
+    {
+      "offset": 7960,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ちっ、……バカめ」",
+      "en": "\"Pah... what an idiot.\"",
+      "text": "\"Pah... what an idiot.\""
+    },
+    {
+      "offset": 7998,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あ、あの……杉並先輩、これって……」",
+      "en": "\"Um, ah... Suginami-senpai, this is...\"",
+      "text": "\"Um, ah... Suginami-senpai, this is...\""
+    },
+    {
+      "offset": 8045,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──バン！",
+      "en": "--*bang!*",
+      "text": "--*bang!*"
+    },
+    {
+      "offset": 8105,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ちょっとぉ！　心の病気を治す手伝いはして\n　あげるって言ったけど、人の恋路の手伝いを\n　するなんて聞いてないわよ！」",
+      "en": "\"Hold it! I said we'd help to heal a person's heart\nproblems, but I don't remember promising to help romantic\npursuits!\"",
+      "text": "\"Hold it! I said we'd help to heal a person's heart\nproblems, but I don't remember promising to help romantic\npursuits!\""
+    },
+    {
+      "offset": 8239,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ま、眞子先輩！？」",
+      "en": "\"M, Mako-senpai!?\"",
+      "text": "\"M, Mako-senpai!?\""
+    },
+    {
+      "offset": 8299,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……出てくるなと言っておいただろう」",
+      "en": "\"...And here it comes, now...\"",
+      "text": "\"...And here it comes, now...\""
+    },
+    {
+      "offset": 8377,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「もう、見てるとね……、ガマンできなくなっ\n　たっていうか」",
+      "en": "\"I've seen enough... I can't take much more of this.\"",
+      "text": "\"I've seen enough... I can't take much more of this.\""
+    },
+    {
+      "offset": 8454,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「なんで、あたしが朝倉の、恋路を……」",
+      "en": "\"Why am I, of all people, helping with Asakura's love\naffairs...\"",
+      "text": "\"Why am I, of all people, helping with Asakura's love\naffairs...\""
+    },
+    {
+      "offset": 8510,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「杉並先輩、どういうこと……ですか？」",
+      "en": "\"Suginami-senpai, um... what is happening?\"",
+      "text": "\"Suginami-senpai, um... what is happening?\""
+    },
+    {
+      "offset": 8595,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……朝倉先輩は、もしかして」",
+      "en": "\"...Asakura-senpai, are you...\"",
+      "text": "\"...Asakura-senpai, are you...\""
+    },
+    {
+      "offset": 8641,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「やれやれ……。マズったもんだ」",
+      "en": "\"Oh boy... now this is what I call awkward.\"",
+      "text": "\"Oh boy... now this is what I call awkward.\""
+    },
+    {
+      "offset": 8680,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、シーツの中からゆっくりと身体を起こす。",
+      "en": "Still lying under the sheets, I lifted my body into a\nseating position.",
+      "text": "Still lying under the sheets, I lifted my body into a\nseating position."
+    },
+    {
+      "offset": 8764,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ま、別に目的は達成できた訳だから、気にす\n　るな」",
+      "en": "\"Well, we fulfilled the objective anyway, so I suppose it's\nalright.\"",
+      "text": "\"Well, we fulfilled the objective anyway, so I suppose it's\nalright.\""
+    },
+    {
+      "offset": 8857,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……あの、いったいどうなってるんですか？」",
+      "en": "\"...Um, may I know what is going on?\"",
+      "text": "\"...Um, may I know what is going on?\""
+    },
+    {
+      "offset": 8941,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「眞子先輩、どういうことですか！」",
+      "en": "\"Mako-senpai, what is this!\"",
+      "text": "\"Mako-senpai, what is this!\""
+    },
+    {
+      "offset": 9015,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……美春ちゃん、聞いてないの？」",
+      "en": "\"...Miharu-chan doesn't know about it either?\"",
+      "text": "\"...Miharu-chan doesn't know about it either?\""
+    },
+    {
+      "offset": 9089,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「わんこ嬢に教えたら、うまくいくものもいか\n　ないからな」",
+      "en": "\"The plan would've had a much higher chance of failure, if\nthe dear puppy knew the truth.\"",
+      "text": "\"The plan would've had a much higher chance of failure, if\nthe dear puppy knew the truth.\""
+    },
+    {
+      "offset": 9186,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「はえ？」",
+      "en": "\"Haehh?\"",
+      "text": "\"Haehh?\""
+    },
+    {
+      "offset": 9236,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「昨日ね、杉並から連絡があってね。『心に傷\n　を持った後輩がいる。助けてやりたいとは思\n　わんか』って」",
+      "en": "\"Suginami talked to me yesterday. \"I know a lowerclassman\nwith a heart problem. I want to try and save her.\"... was\nwhat he said.\"",
+      "text": "\"Suginami talked to me yesterday. \"I know a lowerclassman\nwith a heart problem. I want to try and save her.\"... was\nwhat he said.\""
+    },
+    {
+      "offset": 9373,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「それで、あたしがお父さんに話をつけて、空\n　いてる部屋をひとつ貸してもらったって訳。\n　夕方までって約束でね」",
+      "en": "\"So, I talked with my father about it, and managed to get\nhim to loan one empty room. I promised it to Suginami last\nevening.\"",
+      "text": "\"So, I talked with my father about it, and managed to get\nhim to loan one empty room. I promised it to Suginami last\nevening.\""
+    },
+    {
+      "offset": 9525,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……朝倉先輩」",
+      "en": "\"...Asakura-senpai...\"",
+      "text": "\"...Asakura-senpai...\""
+    },
+    {
+      "offset": 9548,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「悪ィ、月城。そういうことだ。俺はこの通り\n　事故には遭ってない。元気なままだ」",
+      "en": "\"Sorry, Tsukishiro. It's as she says. I didn't get caught in\nany accident. I'm still as healthy as ever.\"",
+      "text": "\"Sorry, Tsukishiro. It's as she says. I didn't get caught in\nany accident. I'm still as healthy as ever.\""
+    },
+    {
+      "offset": 9634,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "作戦は終了って事だ。",
+      "en": "The operation is over, it seems.",
+      "text": "The operation is over, it seems."
+    },
+    {
+      "offset": 9661,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「杉並の一計でな。月城は、きっかけがあった\n　ら、自分の気持ちを言葉にすることができる\n　んじゃないかって」",
+      "en": "\"It was Suginami's plan. He thought that you wouldn't just\nbe able to start communicating your own feelings by\nyourself.\"",
+      "text": "\"It was Suginami's plan. He thought that you wouldn't just\nbe able to start communicating your own feelings by\nyourself.\""
+    },
+    {
+      "offset": 9774,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「多少強引だけど、ショック療法はどうだって\n　話になってな」",
+      "en": "\"What was needed, was a bigger push, shock treatment... you\ncould say.\"",
+      "text": "\"What was needed, was a bigger push, shock treatment... you\ncould say.\""
+    },
+    {
+      "offset": 9873,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ちょ、ちょ、ちょっと待ってくださいよ！\n　じゃあ、先輩達は揃って美春達を騙したって\n　ことですか！？」",
+      "en": "\"W, w, w, wait a minute here! So Suginami and Asakura-senpai\nwere lying to all of us!?\"",
+      "text": "\"W, w, w, wait a minute here! So Suginami and Asakura-senpai\nwere lying to all of us!?\""
+    },
+    {
+      "offset": 9982,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「そう……なるかな」",
+      "en": "\"Yup... that's pretty much it.\"",
+      "text": "\"Yup... that's pretty much it.\""
+    },
+    {
+      "offset": 10037,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「じょ、じょーだんじゃないですよ！　美春達\n　がどれだけ先輩のことを心配したか！　ねえ、\n　月城さん！」",
+      "en": "\"T, this isn't a joking matter! We were so worried about\nyou! Right, Tsukishiro-san!?\"",
+      "text": "\"T, this isn't a joking matter! We were so worried about\nyou! Right, Tsukishiro-san!?\""
+    },
+    {
+      "offset": 10195,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「…………はい」",
+      "en": "\"......Right.\"",
+      "text": "\"......Right.\""
+    },
+    {
+      "offset": 10246,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「怒るべきですよ！　断固！　糾弾ですよ！\n　裁判ですよ！」",
+      "en": "\"This is horrible! Completely uncalled for! Terrible!\nAtrocious!\"",
+      "text": "\"This is horrible! Completely uncalled for! Terrible!\nAtrocious!\""
+    },
+    {
+      "offset": 10342,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……でも」",
+      "en": "\"...But.\"",
+      "text": "\"...But.\""
+    },
+    {
+      "offset": 10389,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「でも？」",
+      "en": "\"But?\"",
+      "text": "\"But?\""
+    },
+    {
+      "offset": 10441,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……よかった」",
+      "en": "\"...I'm glad.\"",
+      "text": "\"...I'm glad.\""
+    },
+    {
+      "offset": 10492,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「はえ？」",
+      "en": "\"Haeeh?\"",
+      "text": "\"Haeeh?\""
+    },
+    {
+      "offset": 10544,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……先輩が無事で、よかった。朝倉先輩が、\n　なんともなくてよかった……」",
+      "en": "\"...I'm glad Senpai's fine... that Asakura-senpai's still\nhere...\"",
+      "text": "\"...I'm glad Senpai's fine... that Asakura-senpai's still\nhere...\""
+    },
+    {
+      "offset": 10641,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城の目から、ポロポロポロポロと涙がこぼれ\n落ちる。",
+      "en": "Tears were rapidly dropping from Tsukishiro's eyes.",
+      "text": "Tears were rapidly dropping from Tsukishiro's eyes."
+    },
+    {
+      "offset": 10697,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、月城はヒックヒックと嗚咽を漏らしな\nがら、俺の手をきゅっと握る。",
+      "en": "I broughy my hand up, wiping them from her soft face.",
+      "text": "I broughy my hand up, wiping them from her soft face."
+    },
+    {
+      "offset": 10792,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ごめんな、月城。悪気はなかったんだ」",
+      "en": "\"I'm sorry, Tsukishiro. I didn't mean to trick you...\"",
+      "text": "\"I'm sorry, Tsukishiro. I didn't mean to trick you...\""
+    },
+    {
+      "offset": 10854,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目をこすりながら、こくんと頷く月城。",
+      "en": "Rubbing her eyes, Tsukshiro nodded.",
+      "text": "Rubbing her eyes, Tsukshiro nodded."
+    },
+    {
+      "offset": 10897,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ありがとう、月城……。月城の気持ち、しっ\n　かり聞かせてもらったよ」",
+      "en": "\"And, thank you, Tsukishiro... I'm happy to hear your true\nfeelings.\"",
+      "text": "\"And, thank you, Tsukishiro... I'm happy to hear your true\nfeelings.\""
+    },
+    {
+      "offset": 11006,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「はっはっは、月城嬢よ。その気になってみれ\n　ば、自分の気持ちも言えるものだろう？」",
+      "en": "\"Ha ha ha, Tsukishiro-jou! Do you not realize that you just\nspoke your feelings through your own mouth?\"",
+      "text": "\"Ha ha ha, Tsukishiro-jou! Do you not realize that you just\nspoke your feelings through your own mouth?\""
+    },
+    {
+      "offset": 11142,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……あ、あの……その」",
+      "en": "\"A, ah... that's...\"",
+      "text": "\"A, ah... that's...\""
+    },
+    {
+      "offset": 11201,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「自分の気持ちは、自分の言葉で伝える方がい\n　いと思うんだが、どうだ？」",
+      "en": "\"Isn't it a good feeling, to say what you truly feel\nyourself, to the one you love?\"",
+      "text": "\"Isn't it a good feeling, to say what you truly feel\nyourself, to the one you love?\""
+    },
+    {
+      "offset": 11309,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……その、……その方がいいと思います」",
+      "en": "\"...That's.... that felt very nice.\"",
+      "text": "\"...That's.... that felt very nice.\""
+    },
+    {
+      "offset": 11356,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城の涙はいつの間にか止まっていた。そして\nとてもきれいな笑顔を見せた。",
+      "en": "Her tears had stopped. Replacing them, on her face, was a\nbeautiful smile.",
+      "text": "Her tears had stopped. Replacing them, on her face, was a\nbeautiful smile."
+    },
+    {
+      "offset": 11480,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ちょ、ちょっとぉ、月城さんはいいですけど、\n　美春はどうなんですかぁ？　騙され損？　巻\n　き添え？」",
+      "en": "\"H, hold on! It's fine with Tsukishiro-san, but what about\nme? Why did you deceive me? Why did you get me involved?\"",
+      "text": "\"H, hold on! It's fine with Tsukishiro-san, but what about\nme? Why did you deceive me? Why did you get me involved?\""
+    },
+    {
+      "offset": 11634,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「まあ、敵を騙すにはまず味方からって言うだ\n　ろう？」",
+      "en": "\"Well, to trick your enemies, you must first trick your\nallies, you could say...\"",
+      "text": "\"Well, to trick your enemies, you must first trick your\nallies, you could say...\""
+    },
+    {
+      "offset": 11705,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「でも、でも……。う〜ッ、やっぱり納得でき\n　ないッ。慰謝料、バナナ１００万本……！」",
+      "en": "\"But, but... grrr, I cannot accept this! I demand\ncompensation, in the form of 1 million bananas!\"",
+      "text": "\"But, but... grrr, I cannot accept this! I demand\ncompensation, in the form of 1 million bananas!\""
+    },
+    {
+      "offset": 11825,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……わんこ嬢よ。今日は何月の何日だ？」",
+      "en": "\"...My dear puppy. What is today's date?\"",
+      "text": "\"...My dear puppy. What is today's date?\""
+    },
+    {
+      "offset": 11900,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「３月……、あ、今日から４月か。……ええと、\n　４月の１日……って、ああ！」",
+      "en": "\"March... ah, it's April today... ermm, April 1st....\nahhhh!\"",
+      "text": "\"March... ah, it's April today... ermm, April 1st....\nahhhh!\""
+    },
+    {
+      "offset": 11999,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「──ああ！」",
+      "en": "\"...Oh!\"",
+      "text": "\"...Oh!\""
+    },
+    {
+      "offset": 12031,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「お前もか！」",
+      "en": "\"Hah, you too!\"",
+      "text": "\"Hah, you too!\""
+    },
+    {
+      "offset": 12080,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「……エ、エイプリルフール」",
+      "en": "\"...A, April Fools...\"",
+      "text": "\"...A, April Fools...\""
+    },
+    {
+      "offset": 12115,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺も言われるまで、気づかなかったよ……。",
+      "en": "Until he said it, I didn't realize either...",
+      "text": "Until he said it, I didn't realize either..."
+    },
+    {
+      "offset": 12195,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ほら、じゃあ、後は若い二人に任せて、邪魔\n　者は退散しようじゃないか」",
+      "en": "\"Now then, let's leave the young ones alone. It won't do\ngood to be crowded now.\"",
+      "text": "\"Now then, let's leave the young ones alone. It won't do\ngood to be crowded now.\""
+    },
+    {
+      "offset": 12306,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……もしかして、あたしの出番、これだけ？\n　すっごい、損な役回りじゃない？」",
+      "en": "\"...So this was all I had to do? A tiny tiny role, isn't\nit?\"",
+      "text": "\"...So this was all I had to do? A tiny tiny role, isn't\nit?\""
+    },
+    {
+      "offset": 12437,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「いやいや、水越の協力がなかったら、この作\n　戦にこれほどのリアリティを出すことはでき\n　なかった」",
+      "en": "\"No no, without Mizukoshi's cooperation, this operation\nwould never even have achieved reality.\"",
+      "text": "\"No no, without Mizukoshi's cooperation, this operation\nwould never even have achieved reality.\""
+    },
+    {
+      "offset": 12570,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……朝倉は、ドサクサにまぎれて告白なんか\n　されちゃうし」",
+      "en": "\"...So my role was to help a girl confess to Asakura in\nconfusion?\"",
+      "text": "\"...So my role was to help a girl confess to Asakura in\nconfusion?\""
+    },
+    {
+      "offset": 12674,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……あの、先輩……ですよね。……その、私\n　のためにご迷惑を……」",
+      "en": "\"...Um, Senpai... I think? I'm sorry for being the source of\nthe trouble...\"",
+      "text": "\"...Um, Senpai... I think? I'm sorry for being the source of\nthe trouble...\""
+    },
+    {
+      "offset": 12781,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「えっ、あっ、あの、つ、月城さんだっけ？\n　いいのよ？　あたしは別に。もともとはあな\n　たのためにした訳だし」",
+      "en": "\"Eh, ah, um, Tsukishiro-san, was it? It's fine. I don't have\nany problems. This was for your benefit, so...\"",
+      "text": "\"Eh, ah, um, Tsukishiro-san, was it? It's fine. I don't have\nany problems. This was for your benefit, so...\""
+    },
+    {
+      "offset": 12896,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子がスズメの行水みたいに、手をバタバタと\n振る。",
+      "en": "Mako flapped her hand up and down, like a bird.",
+      "text": "Mako flapped her hand up and down, like a bird."
+    },
+    {
+      "offset": 12980,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「はい、ここはもう少し使っても大丈夫だから\n　あのバカとゆっくりしてってちょうだい」",
+      "en": "\"It should be okay to use the room for a little longer...\ndon't let the idiot extend it too long, though.\"",
+      "text": "\"It should be okay to use the room for a little longer...\ndon't let the idiot extend it too long, though.\""
+    },
+    {
+      "offset": 13070,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「バ、バカとは何だ！」",
+      "en": "\"W, who's the idiot!\"",
+      "text": "\"W, who's the idiot!\""
+    },
+    {
+      "offset": 13127,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あんたねぇ、この子にあそこまで言わせたん\n　だから、ちゃんとしないとあたし許さないか\n　らね……」",
+      "en": "\"You, if you don't answer her properly, I won't ever forgive\nyou. Remember that!\"",
+      "text": "\"You, if you don't answer her properly, I won't ever forgive\nyou. Remember that!\""
+    },
+    {
+      "offset": 13232,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ま、眞子ッ……お前」",
+      "en": "\"M, Mako... you...\"",
+      "text": "\"M, Mako... you...\""
+    },
+    {
+      "offset": 13294,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「では、我々はこれで失礼する。行くぞ、水越、\n　わんこ嬢」",
+      "en": "\"Perhaps it is time for us to leave. Let's go, Mizukoshi,\npuppy.\"",
+      "text": "\"Perhaps it is time for us to leave. Let's go, Mizukoshi,\npuppy.\""
+    },
+    {
+      "offset": 13358,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並が病室のドアを開ける。",
+      "en": "Suginami opened the door back to the hospital.",
+      "text": "Suginami opened the door back to the hospital."
+    },
+    {
+      "offset": 13424,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「──なんか、美春は納得できないですよぅ」",
+      "en": "\"--I still can't accept this.\"",
+      "text": "\"--I still can't accept this.\""
+    },
+    {
+      "offset": 13506,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ハイハイ、向こうでゆっくり聞いてあげるか\n　ら……」",
+      "en": "\"Yes, yes, we'd hear you out outside...\"",
+      "text": "\"Yes, yes, we'd hear you out outside...\""
+    },
+    {
+      "offset": 13577,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並と眞子によって、美春はブツブツと言いな\nがら外へ連れて行かれた。",
+      "en": "Suginami and Mako dragged the stilll-grumbling Miharu out of\nthe room, and shut the door.",
+      "text": "Suginami and Mako dragged the stilll-grumbling Miharu out of\nthe room, and shut the door."
+    },
+    {
+      "offset": 13649,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、部屋は静かになった。",
+      "en": "The room suddenly became a lot quieter.",
+      "text": "The room suddenly became a lot quieter."
+    },
+    {
+      "offset": 13682,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城と二人っきり。",
+      "en": "Just Tsukshiro and I remained.",
+      "text": "Just Tsukshiro and I remained."
+    },
+    {
+      "offset": 13705,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、なんだかうまく月城の顔が見ることがで\nきずに、ほんの少しだけ目線を逸らして、口を\n開く。",
+      "en": "I stared straight at her face, as she did the same for me. I\nslowly opened my mouth.",
+      "text": "I stared straight at her face, as she did the same for me. I\nslowly opened my mouth."
+    },
+    {
+      "offset": 13809,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あの……月城？」",
+      "en": "\"Um... Tsukishiro?\"",
+      "text": "\"Um... Tsukishiro?\""
+    },
+    {
+      "offset": 13869,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……はい」",
+      "en": "\"...Yes?\"",
+      "text": "\"...Yes?\""
+    },
+    {
+      "offset": 13888,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「その……さっきの気持ちって、やっぱり」",
+      "en": "\"About... your feelings earlier, were they...?\"",
+      "text": "\"About... your feelings earlier, were they...?\""
+    },
+    {
+      "offset": 13965,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……はい、あの……その、私は……その先輩\n　のことが好きです」",
+      "en": "\"...Yes, um... I... I love you, Senpai.\"",
+      "text": "\"...Yes, um... I... I love you, Senpai.\""
+    },
+    {
+      "offset": 14065,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「好きっていう気持ちが、今の私の気持ちなら、\n　ですけど……」",
+      "en": "\"The feelings of love I have, but, you don't...\"",
+      "text": "\"The feelings of love I have, but, you don't...\""
+    },
+    {
+      "offset": 14133,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城が頬を赤らめながら、そう言った。",
+      "en": "Tsukishiro's cheeks turned bright red, as she spoke.",
+      "text": "Tsukishiro's cheeks turned bright red, as she spoke."
+    },
+    {
+      "offset": 14176,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ううん、それでも嬉しいよ……」",
+      "en": "\"No, I'm very happy...\"",
+      "text": "\"No, I'm very happy...\""
+    },
+    {
+      "offset": 14245,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「この気持ちは……その、ずっと前からあって、\n　けど……言えなくて」",
+      "en": "\"These feelings, they were... I've had them for a while,\nbut... I couldn't say it.\"",
+      "text": "\"These feelings, they were... I've had them for a while,\nbut... I couldn't say it.\""
+    },
+    {
+      "offset": 14319,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「月城……。あのさ、俺もさ」",
+      "en": "\"Tsukishiro... it's the same for me too.\"",
+      "text": "\"Tsukishiro... it's the same for me too.\""
+    },
+    {
+      "offset": 14384,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……はい？」",
+      "en": "\"...Eh?\"",
+      "text": "\"...Eh?\""
+    },
+    {
+      "offset": 14405,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「俺も月城のことが好きなんだと思う。この胸\n　があったかくなるような気持ちが好きって気\n　持ちなら」",
+      "en": "\"I think love you too, Tsukishiro. This warm feeling in my\nchest, it can't be anything but love.\"",
+      "text": "\"I think love you too, Tsukishiro. This warm feeling in my\nchest, it can't be anything but love.\""
+    },
+    {
+      "offset": 14540,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……それは、私と同じ気持ちですか？」",
+      "en": "\"...Is that, the same feelings as mine?\"",
+      "text": "\"...Is that, the same feelings as mine?\""
+    },
+    {
+      "offset": 14585,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……たぶん同じ気持ちだよ。俺も月城のそば\n　を離れたくないと思ってる。ずっと一緒にい\n　たいと思ってる」",
+      "en": "\"...I think it is. I also don't want to leave your side...\nwant to be together with you forever.\"",
+      "text": "\"...I think it is. I also don't want to leave your side...\nwant to be together with you forever.\""
+    },
+    {
+      "offset": 14726,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……朝倉、先輩」",
+      "en": "\"...Asakura, senpai.\"",
+      "text": "\"...Asakura, senpai.\""
+    },
+    {
+      "offset": 14751,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "触れていた月城の手が俺の手を、きゅっと握る。",
+      "en": "OUr hands came together, holding each others' tightly.",
+      "text": "OUr hands came together, holding each others' tightly."
+    },
+    {
+      "offset": 14802,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……ちゃんと、自分の気持ち、伝えられるよ\n　うになったな」",
+      "en": "\"...And now, you know my true feelings as well.\"",
+      "text": "\"...And now, you know my true feelings as well.\""
+    },
+    {
+      "offset": 14898,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……はい」",
+      "en": "\"...Yes.\"",
+      "text": "\"...Yes.\""
+    },
+    {
+      "offset": 14917,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城が、ゆっくりと、そして強く……こくんと\n頷いた。",
+      "en": "Tsukishiro slowly, yet strongly, nodded.",
+      "text": "Tsukishiro slowly, yet strongly, nodded."
+    },
+    {
+      "offset": 14975,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「みんなに感謝しなきゃな」",
+      "en": "\"You should thank everyone as well.\"",
+      "text": "\"You should thank everyone as well.\""
+    },
+    {
+      "offset": 15021,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……そう、ですね。私が、もう１度喋れるよ\n　うになったのは、あの先輩達のおかげです」",
+      "en": "\"...That's right. The reason I can talk again, is all thanks\nto everyone...\"",
+      "text": "\"...That's right. The reason I can talk again, is all thanks\nto everyone...\""
+    },
+    {
+      "offset": 15113,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「いや、月城がっていうより、俺が、かな」",
+      "en": "\"But, Tsukishiro, there's one more thing that you and I\nforgot to thank.\"",
+      "text": "\"But, Tsukishiro, there's one more thing that you and I\nforgot to thank.\""
+    },
+    {
+      "offset": 15190,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……？」",
+      "en": "\"...?\"",
+      "text": "\"...?\""
+    },
+    {
+      "offset": 15207,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「俺と月城を結び合わせてくれたこと……」",
+      "en": "\"The one thing that brought us together in the first\nplace...\"",
+      "text": "\"The one thing that brought us together in the first\nplace...\""
+    },
+    {
+      "offset": 15284,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……そう、ですね」",
+      "en": "\"...You're right.\"",
+      "text": "\"...You're right.\""
+    },
+    {
+      "offset": 15311,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城が、笑う。",
+      "en": "Tsukishiro smiled.",
+      "text": "Tsukishiro smiled."
+    },
+    {
+      "offset": 15330,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城が、笑った。",
+      "en": "Smiling a beautiful smile.",
+      "text": "Smiling a beautiful smile."
+    },
+    {
+      "offset": 15351,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "にっこりと、──笑った。",
+      "en": "The sweetest smile I had ever seen.",
+      "text": "The sweetest smile I had ever seen."
+    },
+    {
+      "offset": 15382,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺は、その笑顔が見たかったんだ」",
+      "en": "\"I want to see that smile, closer...\"",
+      "text": "\"I want to see that smile, closer...\""
+    },
+    {
+      "offset": 15423,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、そんな月城をそっと引き寄せた。",
+      "en": "I brought Tsukishiro closer to me...",
+      "text": "I brought Tsukishiro closer to me..."
+    },
+    {
+      "offset": 15568,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆月城の気持ち◆",
+      "en": "◆Tsukishiro's Feelings◆",
+      "text": "◆Tsukishiro's Feelings◆"
+    },
+    {
+      "offset": 15615,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "きっかけがあればいい。",
+      "en": "This was the start that she needed.",
+      "text": "This was the start that she needed."
+    },
+    {
+      "offset": 15642,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言いだしたのは杉並だった。",
+      "en": "At least, that was what Suginami said.",
+      "text": "At least, that was what Suginami said."
+    },
+    {
+      "offset": 15677,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、杉並の言葉を信じるまま、病院のベッド\nに入り、待っていた。",
+      "en": "Believing in Suginami's words, I waited patiently in a bed,\nat the hospital.",
+      "text": "Believing in Suginami's words, I waited patiently in a bed,\nat the hospital."
+    },
+    {
+      "offset": 15745,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が事故だと聞いた月城は、病室に入ってくる\nなり、その感情を爆発させた。",
+      "en": "Hearing that I had met with an accident, Tsukishiro burst\ninto the hospital room, and her emotions came pouring out.",
+      "text": "Hearing that I had met with an accident, Tsukishiro burst\ninto the hospital room, and her emotions came pouring out."
+    },
+    {
+      "offset": 15821,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並の作戦は、うまくいった訳だ。",
+      "en": "Suginami's operation had worked to perfection.",
+      "text": "Suginami's operation had worked to perfection."
+    },
+    {
+      "offset": 15858,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、そんなことよりも、月城が俺のことを\n好きだという告白の方がなんだか驚いてしまっ\nた。",
+      "en": "Except, perhaps, it worked even better than it should.\nTsukishiro's confession that she loved me shocked me as\nwell.",
+      "text": "Except, perhaps, it worked even better than it should.\nTsukishiro's confession that she loved me shocked me as\nwell."
+    },
+    {
+      "offset": 15953,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、俺の中にあった｛あいまい／曖昧｝な気持ちも認めざ\nるを得なかった。",
+      "en": "But, it allowed me to acknowledge the vague feelings I had\nwithin me as well.",
+      "text": "But, it allowed me to acknowledge the vague feelings I had\nwithin me as well."
+    },
+    {
+      "offset": 16031,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、月城のことが好きだ。",
+      "en": "I loved Tsukishiro, too.",
+      "text": "I loved Tsukishiro, too."
+    },
+    {
+      "offset": 16062,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "互いの気持ちを確かめ合った今、",
+      "en": "At the knowledge that our feelings were mutual,",
+      "text": "At the knowledge that our feelings were mutual,"
+    },
+    {
+      "offset": 16097,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は、──ようやく笑った。",
+      "en": "Tsukishiro finally smiled a brilliant smile.",
+      "text": "Tsukishiro finally smiled a brilliant smile."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "416": "Suginami",
+    "509": "Suginami",
+    "636": "Suginami",
+    "1017": "Suginami",
+    "1061": "Miharu",
+    "1103": "Suginami",
+    "1363": "Miharu",
+    "1485": "Suginami",
+    "1648": "Miharu",
+    "1706": "Suginami",
+    "2447": "Miharu",
+    "2515": "Suginami",
+    "2592": "Miharu",
+    "2679": "Seiba",
+    "2748": "Miharu",
+    "2804": "Suginami",
+    "2871": "Seiba",
+    "3030": "Alice",
+    "3136": "Suginami",
+    "3221": "Suginami",
+    "3279": "Alice",
+    "3363": "Suginami",
+    "3471": "Alice",
+    "3585": "Miharu",
+    "3673": "Alice",
+    "3780": "Miharu",
+    "3836": "Seiba",
+    "4036": "Suginami",
+    "4121": "Seiba",
+    "4198": "Suginami",
+    "4264": "Suginami",
+    "4312": "Miharu",
+    "4457": "Suginami",
+    "4532": "Miharu",
+    "4601": "Suginami",
+    "4793": "Suginami",
+    "4948": "Miharu",
+    "5064": "Suginami",
+    "5143": "Miharu",
+    "5289": "Suginami",
+    "5670": "Miharu",
+    "5856": "Alice",
+    "5888": "Alice",
+    "5924": "Alice",
+    "6131": "Miharu",
+    "6193": "Alice",
+    "6317": "Miharu",
+    "6389": "Nurse",
+    "6441": "Suginami",
+    "6491": "Miharu",
+    "6529": "Alice",
+    "6675": "Suginami",
+    "6771": "Miharu",
+    "6911": "Alice",
+    "7049": "Alice",
+    "7081": "Alice",
+    "7119": "Suginami",
+    "7192": "Alice",
+    "7224": "Alice",
+    "7326": "Alice",
+    "7376": "Alice",
+    "7651": "Alice",
+    "7806": "Alice",
+    "7888": "Alice",
+    "7952": "Suginami",
+    "7990": "Miharu",
+    "8097": "Mako",
+    "8231": "Miharu",
+    "8291": "Suginami",
+    "8369": "Mako",
+    "8446": "Mako",
+    "8502": "Miharu",
+    "8585": "Alice",
+    "8756": "Suginami",
+    "8847": "Alice",
+    "8933": "Miharu",
+    "9007": "Mako",
+    "9081": "Suginami",
+    "9178": "Miharu",
+    "9228": "Mako",
+    "9365": "Mako",
+    "9515": "Alice",
+    "9865": "Miharu",
+    "10029": "Miharu",
+    "10185": "Alice",
+    "10238": "Miharu",
+    "10332": "Alice",
+    "10381": "Miharu",
+    "10431": "Alice",
+    "10484": "Miharu",
+    "10534": "Alice",
+    "10998": "Suginami",
+    "11132": "Alice",
+    "11193": "Suginami",
+    "11299": "Alice",
+    "11472": "Miharu",
+    "11626": "Suginami",
+    "11697": "Miharu",
+    "11817": "Suginami",
+    "11892": "Miharu",
+    "12023": "Suginami",
+    "12072": "Miharu",
+    "12187": "Suginami",
+    "12298": "Mako",
+    "12429": "Suginami",
+    "12562": "Mako",
+    "12664": "Alice",
+    "12773": "Mako",
+    "12972": "Mako",
+    "13119": "Mako",
+    "13286": "Suginami",
+    "13416": "Miharu",
+    "13498": "Mako",
+    "13859": "Alice",
+    "13955": "Alice",
+    "14055": "Alice",
+    "14235": "Alice",
+    "14374": "Alice",
+    "14530": "Alice",
+    "14716": "Alice",
+    "14888": "Alice",
+    "15011": "Alice",
+    "15180": "Alice",
+    "15274": "Alice"
+  }
+}

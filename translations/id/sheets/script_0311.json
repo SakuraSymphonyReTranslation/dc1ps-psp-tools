@@ -1,0 +1,145 @@
+{
+  "scene": "script_0311.obj",
+  "dialogues": [
+    {
+      "offset": 167,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ほら、席につきなー」",
+      "en": "\"Alright, return to your seats.\"",
+      "text": "\"Alright, return to your seats.\""
+    },
+    {
+      "offset": 196,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "出席簿をもって、暦先生が教室に入ってくる。",
+      "en": "Holding the attendance records in her hand, Koyomi-sensei\nentered the classroom.",
+      "text": "Holding the attendance records in her hand, Koyomi-sensei\nentered the classroom."
+    },
+    {
+      "offset": 243,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつも通りの朝の風景――。",
+      "en": "The usual morning routine...",
+      "text": "The usual morning routine..."
+    },
+    {
+      "offset": 276,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（いつも同じってのも飽きるよな……）",
+      "en": "\"(And the usual tiresome look as well...)\"",
+      "text": "\"(And the usual tiresome look as well...)\""
+    },
+    {
+      "offset": 319,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "たまには違った感じで来てくれると、こっちも\n朝礼が楽しみになるんだけど。",
+      "en": "If she just did things differently once in a while, she\ncould liven up this time of the day.",
+      "text": "If she just did things differently once in a while, she\ncould liven up this time of the day."
+    },
+    {
+      "offset": 395,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "屋上からロープを伸ばして、窓ガラスを割って\n登場するとか……。",
+      "en": "Like rappeling from the school building and coming in\nthrough the window...",
+      "text": "Like rappeling from the school building and coming in\nthrough the window..."
+    },
+    {
+      "offset": 461,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "例えば、コスプレとか……。",
+      "en": "Or coming while doing cosplay...",
+      "text": "Or coming while doing cosplay..."
+    },
+    {
+      "offset": 494,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（……うむ。そんなんだったら皆の遅刻も減る\n　だろうな）",
+      "en": "\"(...If that happened, I bet the tardiness rate will drop\ndramatically.)\"",
+      "text": "\"(...If that happened, I bet the tardiness rate will drop\ndramatically.)\""
+    },
+    {
+      "offset": 556,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 569,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 582,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "フリフリの衣装を着た暦先生ってのにも、興味\nがあるかも。",
+      "en": "Koyomi-sensei wearing something fluffy would certainly cause\nsome commotion.",
+      "text": "Koyomi-sensei wearing something fluffy would certainly cause\nsome commotion."
+    },
+    {
+      "offset": 644,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（キャラの雰囲気とのアンバランスさが、かえっ\n　てそそる……）",
+      "en": "\"(It'd be a complete distinction from her actual\ncharacter...)\"",
+      "text": "\"(It'd be a complete distinction from her actual\ncharacter...)\""
+    },
+    {
+      "offset": 712,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "絶対極秘の妄想を膨らませている間に、ＨＲが\n終わる。",
+      "en": "Vowing to myself never to reveal this to anyone, HR quickly\nended.",
+      "text": "Vowing to myself never to reveal this to anyone, HR quickly\nended."
+    },
+    {
+      "offset": 872,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆非日常を想像◆",
+      "en": "◆Wild Imagnation◆",
+      "text": "◆Wild Imagnation◆"
+    },
+    {
+      "offset": 917,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつも通りの暦先生のＨＲ。ちょっと違ったこ\nとを想像してみる。",
+      "en": "Koyomi-sensei's usual HR. It'd be more interesting if she\nshook things up a little.",
+      "text": "Koyomi-sensei's usual HR. It'd be more interesting if she\nshook things up a little."
+    },
+    {
+      "offset": 983,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "窓を突き破って突入、コスプレ、そしてフリフ\nリ衣装の暦先生。",
+      "en": "Like breaking the window to enter the class, cosplay, or\nwearing a fluffy costume.",
+      "text": "Like breaking the window to enter the class, cosplay, or\nwearing a fluffy costume."
+    },
+    {
+      "offset": 1047,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――それはそれで。",
+      "en": "--But that's that.",
+      "text": "--But that's that."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "161": "Koyomi"
+  }
+}

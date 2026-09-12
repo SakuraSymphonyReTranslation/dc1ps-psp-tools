@@ -1,0 +1,427 @@
+{
+  "scene": "script_0551.obj",
+  "dialogues": [
+    {
+      "offset": 189,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（暇だ……）",
+      "en": "\"Yes, come in.\"",
+      "text": "\"Yes, come in.\""
+    },
+    {
+      "offset": 409,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「失礼します」",
+      "en": "\"Hello.\"",
+      "text": "\"Hello.\""
+    },
+    {
+      "offset": 430,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "礼儀正しく萌先輩が病室に入ってくる。今日は\nパジャマでなく普通に私服だ。まあ、これはこ\nれでいい。",
+      "en": "Moe-sempai politely came into the room. She's not wearing\npajamas today, just regular clothes. She still looks good.",
+      "text": "Moe-sempai politely came into the room. She's not wearing\npajamas today, just regular clothes. She still looks good."
+    },
+    {
+      "offset": 566,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「朝倉、どお調子は？」",
+      "en": "\"How are you, Asakura?\"",
+      "text": "\"How are you, Asakura?\""
+    },
+    {
+      "offset": 595,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩に続いて眞子が視界に入ってくる。",
+      "en": "Mako came in along with Moe-sempai.",
+      "text": "Mako came in along with Moe-sempai."
+    },
+    {
+      "offset": 676,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんでお前がいるんだ？」",
+      "en": "\"Why are you here?\"",
+      "text": "\"Why are you here?\""
+    },
+    {
+      "offset": 737,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「なによ、お見舞いに来てあげたんじゃない」",
+      "en": "\"What's that supposed to mean? I came to visit you.\"",
+      "text": "\"What's that supposed to mean? I came to visit you.\""
+    },
+    {
+      "offset": 786,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "軽くムッとした顔をしながら、萌先輩とこちら\nにやって来る。",
+      "en": "She made an angry face, and walked toward me with\nMoe-sempai.",
+      "text": "She made an angry face, and walked toward me with\nMoe-sempai."
+    },
+    {
+      "offset": 876,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「具合はどうですか？」",
+      "en": "\"How are you feeling, Asakura-kun?\"",
+      "text": "\"How are you feeling, Asakura-kun?\""
+    },
+    {
+      "offset": 905,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「大丈夫ですって。じっとしている分には痛く\n　ないし」",
+      "en": "\"I'm fine. It doesn't hurt as long as I'm still.\"",
+      "text": "\"I'm fine. It doesn't hurt as long as I'm still.\""
+    },
+    {
+      "offset": 965,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "誰かが見舞いに来るたびに聞かれる質問に、苦\n笑しながら答える。",
+      "en": "I smiled and answered the same question everyone keeps\nasking me.",
+      "text": "I smiled and answered the same question everyone keeps\nasking me."
+    },
+    {
+      "offset": 1033,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「それより眞子」",
+      "en": "\"By the way, Mako?\"",
+      "text": "\"By the way, Mako?\""
+    },
+    {
+      "offset": 1084,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「なに？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 1101,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「なんでお前だけ制服着てるんだ？」",
+      "en": "\"Why are you wearing a uniform?\"",
+      "text": "\"Why are you wearing a uniform?\""
+    },
+    {
+      "offset": 1142,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もう学園は終わったろう。",
+      "en": "The school's on break.",
+      "text": "The school's on break."
+    },
+    {
+      "offset": 1184,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「部活の練習よ。春の大会なんて、入学したら\n　すぐだし」",
+      "en": "\"I went to a club meeting. Also the spring contest is right\nafter the entrance ceremony.\"",
+      "text": "\"I went to a club meeting. Also the spring contest is right\nafter the entrance ceremony.\""
+    },
+    {
+      "offset": 1246,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「なるへそ……」",
+      "en": "\"I see......\"",
+      "text": "\"I see......\""
+    },
+    {
+      "offset": 1269,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "大変だな、期待されてるってのも。",
+      "en": "I guess it's tough being the star of hope......",
+      "text": "I guess it's tough being the star of hope......"
+    },
+    {
+      "offset": 1308,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「それにしても、私服ってことは萌先輩、今日\n　退院ですか？」",
+      "en": "\"Since you're wearing your regular clothes, I guess you're\ngoing to leave the hospital today, Moe-sempai?\"",
+      "text": "\"Since you're wearing your regular clothes, I guess you're\ngoing to leave the hospital today, Moe-sempai?\""
+    },
+    {
+      "offset": 1400,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 1415,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「じゃあ検査、問題なかったんですね」",
+      "en": "\"So your physical exam turned out fine?\"",
+      "text": "\"So your physical exam turned out fine?\""
+    },
+    {
+      "offset": 1484,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい。これも朝倉くんのおかげです」",
+      "en": "\"Yes. This is all because of you.\"",
+      "text": "\"Yes. This is all because of you.\""
+    },
+    {
+      "offset": 1527,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "元気そうな微笑みに安心する。",
+      "en": "I felt relieved to see her healthy smile.",
+      "text": "I felt relieved to see her healthy smile."
+    },
+    {
+      "offset": 1573,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ほんと、何もなくて良かったよ」",
+      "en": "\"I'm glad she was fine.\"",
+      "text": "\"I'm glad she was fine.\""
+    },
+    {
+      "offset": 1612,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「俺のおかげだな」",
+      "en": "\"It's all because of me!\"",
+      "text": "\"It's all because of me!\""
+    },
+    {
+      "offset": 1665,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あんたねぇ。何も言わなければ、素直に感謝\n　されるのに」",
+      "en": "\"I'd be more appreciative if you'd just shut up.\"",
+      "text": "\"I'd be more appreciative if you'd just shut up.\""
+    },
+    {
+      "offset": 1755,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「でも、ほんとうに朝倉くんのおかげです」",
+      "en": "\"But it's all because of you, Asakura-kun.\"",
+      "text": "\"But it's all because of you, Asakura-kun.\""
+    },
+    {
+      "offset": 1828,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あの……これからも毎日お見舞いに来ますか\n　ら、何かあったら遠慮なく言ってくださいね」",
+      "en": "\"Umm...... I'll visit you every day, so please let me know\nif you need anything.\"",
+      "text": "\"Umm...... I'll visit you every day, so please let me know\nif you need anything.\""
+    },
+    {
+      "offset": 1922,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はは、お願いしま――ィッ」",
+      "en": "\"Hahaha. Thank you...... ouch!\"",
+      "text": "\"Hahaha. Thank you...... ouch!\""
+    },
+    {
+      "offset": 1957,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "身じろぎした瞬間、足に痛みが走り、思わず顔\nをしかめる。",
+      "en": "The moment I slightly moved, I felt pain in my leg and\ncontorted my face.",
+      "text": "The moment I slightly moved, I felt pain in my leg and\ncontorted my face."
+    },
+    {
+      "offset": 2045,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あの……どこか痛いんですか？」",
+      "en": "\"Umm...... are you in pain?\"",
+      "text": "\"Umm...... are you in pain?\""
+    },
+    {
+      "offset": 2084,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "心配そうに萌先輩が俺の顔を覗き込む。",
+      "en": "Moe-sempai looked into my face with concern.",
+      "text": "Moe-sempai looked into my face with concern."
+    },
+    {
+      "offset": 2127,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや……ちょっと身じろぎした拍子に足が痛\n　んだだけだから……」",
+      "en": "\"No...... I just felt some pain in my leg when I moved a\nlittle bit......\"",
+      "text": "\"No...... I just felt some pain in my leg when I moved a\nlittle bit......\""
+    },
+    {
+      "offset": 2225,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「足ですね？」",
+      "en": "\"Your leg hurts?\"",
+      "text": "\"Your leg hurts?\""
+    },
+    {
+      "offset": 2255,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "真剣な瞳を見せると、萌先輩は布団を捲って俺\nの足にそっと手を添える。",
+      "en": "She looked at me with serious eyes, and pulled the blanket\nup to touch my leg.",
+      "text": "She looked at me with serious eyes, and pulled the blanket\nup to touch my leg."
+    },
+    {
+      "offset": 2357,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「お姉ちゃん？」",
+      "en": "\"Oneechan?\"",
+      "text": "\"Oneechan?\""
+    },
+    {
+      "offset": 2394,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「痛いの痛いの、とんでいけ〜」",
+      "en": "\"Pain, pain, go away!!\"",
+      "text": "\"Pain, pain, go away!!\""
+    },
+    {
+      "offset": 2448,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「……へ？」",
+      "en": "\"......Huh?\"",
+      "text": "\"......Huh?\""
+    },
+    {
+      "offset": 2467,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "先輩は俺の足を撫でると、捕まえた痛みを投げ\n捨てるような動きをして｛てのひら／掌｝を広げる。そして、\nまた俺の足を撫で、同じことを繰り返す。",
+      "en": "She rubbed my leg as if she was taking the pain away from\nme. She continued to do so several times.",
+      "text": "She rubbed my leg as if she was taking the pain away from\nme. She continued to do so several times."
+    },
+    {
+      "offset": 2621,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「痛いの痛いの、とんでいけ〜」",
+      "en": "\"Pain, pain, go away!!\"",
+      "text": "\"Pain, pain, go away!!\""
+    },
+    {
+      "offset": 2658,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2705,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2724,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どう見てもマジでやっている萌先輩の表情に、\n俺と眞子はただ見守ることしか出来なかった。",
+      "en": "As she continued with a serious face, Mako and I could do\nnothing but observe her.",
+      "text": "As she continued with a serious face, Mako and I could do\nnothing but observe her."
+    },
+    {
+      "offset": 2825,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「痛いの痛いの、とんでいけ〜」",
+      "en": "\"Pain, pain, go away!!\"",
+      "text": "\"Pain, pain, go away!!\""
+    },
+    {
+      "offset": 2862,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩の真剣で楽しげな声が、病室に｛こだま／木霊｝する。",
+      "en": "Moe's serious but joyful voice echoed inside the room.",
+      "text": "Moe's serious but joyful voice echoed inside the room."
+    },
+    {
+      "offset": 3027,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆痛いの、とんでいけ〜◆",
+      "en": "◆Junichi◆",
+      "text": "◆Junichi◆"
+    },
+    {
+      "offset": 3080,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見舞いに、萌先輩と眞子が来てくれた。眞子は\n制服を着ているが、どうやら休みになっても部\n活に勤しんでいるらしい。",
+      "en": "No one's been here since Nemu came this morning to pick up\nmy laundry......",
+      "text": "No one's been here since Nemu came this morning to pick up\nmy laundry......"
+    },
+    {
+      "offset": 3195,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩も今日はパジャマでは無かった。どうや\nら検査に問題は無く、退院できるようになった\nという。",
+      "en": "(Well, the nurse came here once...)",
+      "text": "(Well, the nurse came here once...)"
+    },
+    {
+      "offset": 3294,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺がちょっと動いた拍子に足に痛みが襲い、苦\nしげな表情を浮かべると、萌先輩は俺の足元に\n｛ひざまず／跪｝き――",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 3407,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「痛いの、痛いの、とんでけ〜」と呪文を唱え\nるのであった……。",
+      "en": "Knock, knock......",
+      "text": "Knock, knock......"
+    }
+  ],
+  "choices": [],
+  "names": {
+    "403": "Moe",
+    "558": "Mako",
+    "729": "Mako",
+    "870": "Moe",
+    "1076": "Mako",
+    "1176": "Mako",
+    "1394": "Moe",
+    "1478": "Moe",
+    "1565": "Mako",
+    "1657": "Mako",
+    "1749": "Moe",
+    "1822": "Moe",
+    "2039": "Moe",
+    "2219": "Moe",
+    "2349": "Mako",
+    "2388": "Moe",
+    "2615": "Moe",
+    "2697": "Mako",
+    "2819": "Moe"
+  }
+}

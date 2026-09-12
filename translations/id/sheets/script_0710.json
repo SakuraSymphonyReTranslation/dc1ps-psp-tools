@@ -1,0 +1,518 @@
+{
+  "scene": "script_0710.obj",
+  "dialogues": [
+    {
+      "offset": 145,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いただきま〜す」",
+      "en": "\"......It tastes good.\"",
+      "text": "\"......It tastes good.\""
+    },
+    {
+      "offset": 203,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「はい」",
+      "en": "\"Does it?\"",
+      "text": "\"Does it?\""
+    },
+    {
+      "offset": 218,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今夜の献立は、オムライスのデミグラスソース\nかけと、カボチャのスープ、大根サラダだった。",
+      "en": "She looks a little bit nervous but she finally smiles.",
+      "text": "She looks a little bit nervous but she finally smiles."
+    },
+    {
+      "offset": 312,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（どんどん、本格的になっていくな……）",
+      "en": "\"Ah...... I wasn't sure about the demiglace sauce......\"",
+      "text": "\"Ah...... I wasn't sure about the demiglace sauce......\""
+    },
+    {
+      "offset": 357,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "にわかに、自分が座っているのが、レストラン\nの椅子なんじゃないかって錯覚に襲われる。",
+      "en": "\"It's delicious.\"",
+      "text": "\"It's delicious.\""
+    },
+    {
+      "offset": 445,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ともかく俺は、オムライスの一角をスプーンで\n切り崩した。",
+      "en": "She releases a sigh of relief and picks up a spoon.",
+      "text": "She releases a sigh of relief and picks up a spoon."
+    },
+    {
+      "offset": 558,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「本当ですか？」",
+      "en": "\"If you have anything you want to eat... please let me\nknow.\"",
+      "text": "\"If you have anything you want to eat... please let me\nknow.\""
+    },
+    {
+      "offset": 648,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「その……ソースの味の加減が、どうかなと思っ\n　たんですけれども……」",
+      "en": "\"I'll cook anything for you......\"",
+      "text": "\"I'll cook anything for you......\""
+    },
+    {
+      "offset": 753,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その言葉にホッと息をつき、頼子さんはスプー\nンを手にした。",
+      "en": "\"Ah, yes, about that...\"",
+      "text": "\"Ah, yes, about that...\""
+    },
+    {
+      "offset": 1010,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "カボチャのスープに口を付け、俺は言った。",
+      "en": "I take a sip of the pumpkin soup --it also tastes good-- and\nI say,",
+      "text": "I take a sip of the pumpkin soup --it also tastes good-- and\nI say,"
+    },
+    {
+      "offset": 1057,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「頼子さんて、その……ほんとに、メイドをやっ\n　ていたい？」",
+      "en": "\"Yoriko-san, do you really want to continue being a maid?\"",
+      "text": "\"Yoriko-san, do you really want to continue being a maid?\""
+    },
+    {
+      "offset": 1151,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「え？　そ、それは……」",
+      "en": "\"What? You mean......\"",
+      "text": "\"What? You mean......\""
+    },
+    {
+      "offset": 1182,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "途端によぎった不安の影に、俺は慌てて首を振\nる。",
+      "en": "She looks anxious all of a sudden, so I quickly shake my\nhead.",
+      "text": "She looks anxious all of a sudden, so I quickly shake my\nhead."
+    },
+    {
+      "offset": 1236,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ああ、いや、そういう意味じゃなくてさ、た\n　だ、その……」",
+      "en": "\"Oh, no, I didn't mean that. But it's just......\"",
+      "text": "\"Oh, no, I didn't mean that. But it's just......\""
+    },
+    {
+      "offset": 1302,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「うら若き乙女が、いつまでもやるような仕事\n　でもないんじゃないかって思ったんだけど」",
+      "en": "\"I just thought working as a maid isn't a good job for a\nyoung lady like you to do for such a long period.\"",
+      "text": "\"I just thought working as a maid isn't a good job for a\nyoung lady like you to do for such a long period.\""
+    },
+    {
+      "offset": 1394,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "冗談をまぶした感じで、笑顔で言ってみる。が、\n頼子さんは沈んだ顔をしたままだ。",
+      "en": "I tell her with a smile. But she's still looking anxious.",
+      "text": "I tell her with a smile. But she's still looking anxious."
+    },
+    {
+      "offset": 1506,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「わ、私は……その、ずっと、メイドを……」",
+      "en": "\"I...... I want to...... continue......\"",
+      "text": "\"I...... I want to...... continue......\""
+    },
+    {
+      "offset": 1583,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「その……出来たら、続けたいと思うんです」",
+      "en": "\"......being a maid...... if it's okay with you......\"",
+      "text": "\"......being a maid...... if it's okay with you......\""
+    },
+    {
+      "offset": 1632,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「そ、そう」",
+      "en": "\"Oh, okay.\"",
+      "text": "\"Oh, okay.\""
+    },
+    {
+      "offset": 1651,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その訴えかけるような視線に、俺はやや上体を\n後ろに｛ひ／退｝いた。",
+      "en": "She gives me a pleading look, so I slightly pull my upper\nbody away from her.",
+      "text": "She gives me a pleading look, so I slightly pull my upper\nbody away from her."
+    },
+    {
+      "offset": 1723,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ま、まあ、頼子さんがやりたいって言うなら、\n　そりゃ構わないけど」",
+      "en": "\"I mean, if that's what you want to do, I don't mind.\"",
+      "text": "\"I mean, if that's what you want to do, I don't mind.\""
+    },
+    {
+      "offset": 1825,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ、ありがとうございます……」",
+      "en": "\"Th-Thank you so much......\"",
+      "text": "\"Th-Thank you so much......\""
+    },
+    {
+      "offset": 1881,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "止まっていた食事が再開される。",
+      "en": "We start to eat again. While I'm eating the radish salad,\nI'm thinking...",
+      "text": "We start to eat again. While I'm eating the radish salad,\nI'm thinking..."
+    },
+    {
+      "offset": 1916,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "サラダをしゃりしゃり食べながら、ふと思った。",
+      "en": "(But how long does she wants to be my maid......?)",
+      "text": "(But how long does she wants to be my maid......?)"
+    },
+    {
+      "offset": 1967,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（しかし、“ずっと”？　ずっとってのは……）",
+      "en": "I glance at her. She seems to be looking at me as well and\nquickly looks away.",
+      "text": "I glance at her. She seems to be looking at me as well and\nquickly looks away."
+    },
+    {
+      "offset": 2018,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちらりと頼子さんを窺う。と、向こうもこちら\nを見ていたらしく、すっと視線が弾け飛んだ。",
+      "en": "(......Oh well.)",
+      "text": "(......Oh well.)"
+    },
+    {
+      "offset": 2110,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（……ま、いっか）",
+      "en": "I don't want to pursue it further. I don't want to sound\nlike I want to get rid of her from this house.",
+      "text": "I don't want to pursue it further. I don't want to sound\nlike I want to get rid of her from this house."
+    },
+    {
+      "offset": 2147,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "追及するのも気が引ける。何だか、頼子さんを\n追い出したがっているようにも取れるしな。",
+      "en": "(I just thought that it isn't a good idea for her to\ncontinue being a maid if she wants to go to school......)",
+      "text": "(I just thought that it isn't a good idea for her to\ncontinue being a maid if she wants to go to school......)"
+    },
+    {
+      "offset": 2237,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（学園に行きたいのなら、メイドであり続ける\n　のはどうかと思っただけで……）",
+      "en": "(Being with her all the time is what I wanted to do from the\nbeginning, and......)",
+      "text": "(Being with her all the time is what I wanted to do from the\nbeginning, and......)"
+    },
+    {
+      "offset": 2319,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（ずっと一緒に居るってのは、それは俺だって\n　望んでいた事で……）",
+      "en": "\"......Ah!\"",
+      "text": "\"......Ah!\""
+    },
+    {
+      "offset": 2391,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……あ」",
+      "en": "I catch my breath and cover my mouth with my hand.",
+      "text": "I catch my breath and cover my mouth with my hand."
+    },
+    {
+      "offset": 2476,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ、あの……どうかしました？」",
+      "en": "\"Wh-What's wrong......?\"",
+      "text": "\"Wh-What's wrong......?\""
+    },
+    {
+      "offset": 2515,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「ああ、いや、何でもない……」",
+      "en": "\"Oh, nothing......\"",
+      "text": "\"Oh, nothing......\""
+    },
+    {
+      "offset": 2564,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ごまかすように、皿に顔を向ける。",
+      "en": "Pretending it's nothing, I search for something in my heart\nwhile I look at the yellow soup.",
+      "text": "Pretending it's nothing, I search for something in my heart\nwhile I look at the yellow soup."
+    },
+    {
+      "offset": 2601,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "黄色いスープを見つめながら、自分の心を探っ\nていた。",
+      "en": "But I don't have to search for anything because I find the\nemotion I'm looking for.",
+      "text": "But I don't have to search for anything because I find the\nemotion I'm looking for."
+    },
+    {
+      "offset": 2657,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "探す必要なんてなかった。右も左も見ないうち\nに、その感情はすぐに見つかった。",
+      "en": "That is...... @",
+      "text": "That is...... @"
+    },
+    {
+      "offset": 2739,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "つまり──俺は、頼子さんが好きらしい。",
+      "en": "I think I love Yoriko-san.",
+      "text": "I think I love Yoriko-san."
+    },
+    {
+      "offset": 2782,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "長年追い求めてきた宝物を見つけたような、泣\nきたいような気分が胸を｛つ／衝｝いた。",
+      "en": "As if I've just found a treasure I've been looking for for\nyears, the emotion I feel almost makes me want to cry.",
+      "text": "As if I've just found a treasure I've been looking for for\nyears, the emotion I feel almost makes me want to cry."
+    },
+    {
+      "offset": 2903,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「良かったです……。何か変なものでも入って\n　いたかと……思いました」",
+      "en": "\"Oh...... I thought you found something wrong in the soup.\"",
+      "text": "\"Oh...... I thought you found something wrong in the soup.\""
+    },
+    {
+      "offset": 2979,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さっきの話の続きらしい。俺は心に向けていた\n目を頼子さんに向けた。",
+      "en": "She's still talking about the food. I change my focus from\nmy heart to her.",
+      "text": "She's still talking about the food. I change my focus from\nmy heart to her."
+    },
+    {
+      "offset": 3056,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「変なものって？　隠し味とか？」",
+      "en": "\"What do you mean by wrong? Did you put a secret spice or\nsomething?\"",
+      "text": "\"What do you mean by wrong? Did you put a secret spice or\nsomething?\""
+    },
+    {
+      "offset": 3123,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ、いえ、そういう事ではなくて……その\n　……」",
+      "en": "\"Ah, no, that's not what I meant...... but......\"",
+      "text": "\"Ah, no, that's not what I meant...... but......\""
+    },
+    {
+      "offset": 3179,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もじもじと言いにくそうにする。",
+      "en": "She hesitates.",
+      "text": "She hesitates."
+    },
+    {
+      "offset": 3216,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なっ、何だ？　そんな風にされると、気にな\n　るって」",
+      "en": "\"Wh-What is it? You are making me curious.\"",
+      "text": "\"Wh-What is it? You are making me curious.\""
+    },
+    {
+      "offset": 3304,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「は、はい、そのぉ……」",
+      "en": "\"Y-Yes, ah......\"",
+      "text": "\"Y-Yes, ah......\""
+    },
+    {
+      "offset": 3363,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「初めて料理した時に、その……小皿が一枚足\n　りなくなっていて……」",
+      "en": "\"When I cooked for the first time, I...... think I lost a\nvery small plate......\"",
+      "text": "\"When I cooked for the first time, I...... think I lost a\nvery small plate......\""
+    },
+    {
+      "offset": 3437,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「え？　どういう事？」",
+      "en": "\"What? What do you mean?\"",
+      "text": "\"What? What do you mean?\""
+    },
+    {
+      "offset": 3466,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "話がいまいち見えてこない。",
+      "en": "I can't understand.",
+      "text": "I can't understand."
+    },
+    {
+      "offset": 3527,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「で、ですから、その……もしかしたら、料理\n　の中に紛れ込んでしまったのかと……」",
+      "en": "\"I mean, I thought...... the small plate got into the\nmeal......\"",
+      "text": "\"I mean, I thought...... the small plate got into the\nmeal......\""
+    },
+    {
+      "offset": 3615,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3634,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「今日も、何かなくしたの？」",
+      "en": "\"Did you lose something today, too?\"",
+      "text": "\"Did you lose something today, too?\""
+    },
+    {
+      "offset": 3697,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ、いえ、今日はそんな事はないと、思うん\n　です……」",
+      "en": "\"Ah, no. I don't think so......\"",
+      "text": "\"Ah, no. I don't think so......\""
+    },
+    {
+      "offset": 3759,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「ふむ、じゃあＯＫだよ」",
+      "en": "\"Well, then it's okay.\"",
+      "text": "\"Well, then it's okay.\""
+    },
+    {
+      "offset": 3802,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だが、今夜がそうだとしても、小皿をなくした\nその日もＯＫだったって事にはならない。",
+      "en": "But it doesn't mean it's okay to lose something every other\nday.",
+      "text": "But it doesn't mean it's okay to lose something every other\nday."
+    },
+    {
+      "offset": 3890,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（まあ、まさか、小皿を間違って食べる事はな\n　いだろうが……）",
+      "en": "(Oh, well. There's no way I could eat a small plate by\nmistake......)",
+      "text": "(Oh, well. There's no way I could eat a small plate by\nmistake......)"
+    },
+    {
+      "offset": 3958,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう思う一方で、いつバリっという感触に出く\nわすかに｛おび／怯｝えつつ、食事を続ける俺だった。",
+      "en": "But even though I think it wouldn't happen, I'm still scared\nto eat in case I bite a hard plate all of a sudden.",
+      "text": "But even though I think it wouldn't happen, I'm still scared\nto eat in case I bite a hard plate all of a sudden."
+    },
+    {
+      "offset": 4174,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆恋愛感情◆",
+      "en": "◆Junichi◆",
+      "text": "◆Junichi◆"
+    },
+    {
+      "offset": 4217,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頼子さんはいつまでメイドを続けるんだろう？\n夕食時、俺がそう尋ねると、",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 4291,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頼子さんは、ずっとメイドをやっていたいのだ\nと言った。",
+      "en": "Today's dinner is rice omelet with demiglace sauce, pumpkin\nsoup, and radish salad.",
+      "text": "Today's dinner is rice omelet with demiglace sauce, pumpkin\nsoup, and radish salad."
+    },
+    {
+      "offset": 4349,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ずっと……それは俺も望んでいたことだった。",
+      "en": "(She's getting better and better......)",
+      "text": "(She's getting better and better......)"
+    },
+    {
+      "offset": 4396,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、俺は気づいた。",
+      "en": "For a moment, I feel like I'm sitting on a restaurant chair.",
+      "text": "For a moment, I feel like I'm sitting on a restaurant chair."
+    },
+    {
+      "offset": 4423,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自分が頼子さんの事を好きであることに……。",
+      "en": "I cut the corner of the rice omelet with my spoon.",
+      "text": "I cut the corner of the rice omelet with my spoon."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "195": "Yoriko",
+    "550": "Yoriko",
+    "640": "Yoriko",
+    "1143": "Yoriko",
+    "1498": "Yoriko",
+    "1575": "Yoriko",
+    "1817": "Yoriko",
+    "2468": "Yoriko",
+    "2895": "Yoriko",
+    "3115": "Yoriko",
+    "3296": "Yoriko",
+    "3355": "Yoriko",
+    "3519": "Yoriko",
+    "3689": "Yoriko"
+  }
+}

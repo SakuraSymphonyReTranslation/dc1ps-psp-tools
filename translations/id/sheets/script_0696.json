@@ -1,0 +1,760 @@
+{
+  "scene": "script_0696.obj",
+  "dialogues": [
+    {
+      "offset": 221,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 240,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "うららかな春の日の午後。",
+      "en": "It's a warm spring afternoon.",
+      "text": "It's a warm spring afternoon."
+    },
+    {
+      "offset": 269,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は居間で粗大ゴミになっていた。",
+      "en": "I'm a lump of trash in the living room.",
+      "text": "I'm a lump of trash in the living room."
+    },
+    {
+      "offset": 341,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「どっか出かけてきたら？」",
+      "en": "\"Why don't you go out?\"",
+      "text": "\"Why don't you go out?\""
+    },
+    {
+      "offset": 374,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こぽこぽ、と最近ひきこもり化している音夢が\nお茶をいれながら首をかしげた。",
+      "en": "Nemu tilts her head as she pours tea in the cup. She's been\nstuck inside the house for days.",
+      "text": "Nemu tilts her head as she pours tea in the cup. She's been\nstuck inside the house for days."
+    },
+    {
+      "offset": 452,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "調子がいいように見えるが、微熱はひかないし、\n家の外に出るとすぐに咳き込む始末である。",
+      "en": "She looks better but she still has a mild fever. So when she\ngoes outside, she starts coughing.",
+      "text": "She looks better but she still has a mild fever. So when she\ngoes outside, she starts coughing."
+    },
+    {
+      "offset": 544,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや、いい……今週は疲れた」",
+      "en": "\"No thanks. I'm tired enough this week.\"",
+      "text": "\"No thanks. I'm tired enough this week.\""
+    },
+    {
+      "offset": 581,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ソファーに深く背を預けて呟く。",
+      "en": "I mumble after settling down on the couch.",
+      "text": "I mumble after settling down on the couch."
+    },
+    {
+      "offset": 646,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そういう時こそ外を散歩とかしてくるといい\n　のに」",
+      "en": "\"That's why you need to go for a walk or something.\"",
+      "text": "\"That's why you need to go for a walk or something.\""
+    },
+    {
+      "offset": 704,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うるさいな……かったるいんだよ……」",
+      "en": "\"Can you stop it? I'm exhausted.\"",
+      "text": "\"Can you stop it? I'm exhausted.\""
+    },
+    {
+      "offset": 777,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「まぁ、あのさくらが先生だもんね」",
+      "en": "\"Well, I suppose so, because Sakura is your teacher now.\"",
+      "text": "\"Well, I suppose so, because Sakura is your teacher now.\""
+    },
+    {
+      "offset": 818,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あれは珍獣だ珍獣」",
+      "en": "\"I guarantee you she's an exotic animal.\"",
+      "text": "\"I guarantee you she's an exotic animal.\""
+    },
+    {
+      "offset": 856,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ち、珍獣ってね……」",
+      "en": "\"Exotic animal...?\"",
+      "text": "\"Exotic animal...?\""
+    },
+    {
+      "offset": 885,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、そういえば音夢、さくらに勉強でも見て\n　もらうか？」",
+      "en": "\"Oh, Nemu. Why don't you ask Sakura to be a tutor for you?\"",
+      "text": "\"Oh, Nemu. Why don't you ask Sakura to be a tutor for you?\""
+    },
+    {
+      "offset": 977,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 992,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「科目と要点をまとめてもらえば、復学したと\n　きに置いていかれずにすむだろ」",
+      "en": "\"If she can sort out the points in each subject, you could\ncatch up in class easily when you come back to school.\"",
+      "text": "\"If she can sort out the points in each subject, you could\ncatch up in class easily when you come back to school.\""
+    },
+    {
+      "offset": 1102,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いいよ、自分でも勉強はしてるし、さくらだっ\n　て毎日授業やって疲れてるよ」",
+      "en": "\"Don't worry. I've been studying by myself, and she must be\ntired from teaching every day.\"",
+      "text": "\"Don't worry. I've been studying by myself, and she must be\ntired from teaching every day.\""
+    },
+    {
+      "offset": 1184,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……お前、家で勉強してるのか？」",
+      "en": "\"...Are you studying at home?\"",
+      "text": "\"...Are you studying at home?\""
+    },
+    {
+      "offset": 1253,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うん。３時間くらい」",
+      "en": "\"Yes. I've been doing it for about three hours each day.\"",
+      "text": "\"Yes. I've been doing it for about three hours each day.\""
+    },
+    {
+      "offset": 1282,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「面倒だな……」",
+      "en": "\"Oh, come on...\"",
+      "text": "\"Oh, come on...\""
+    },
+    {
+      "offset": 1305,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ため息まじりに天井を見上げて｛うめ／呻｝く。",
+      "en": "I mutter, looking up the ceiling with a sigh.",
+      "text": "I mutter, looking up the ceiling with a sigh."
+    },
+    {
+      "offset": 1359,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、玄関のチャイムが鳴る。",
+      "en": "Suddenly, the doorbell rings.",
+      "text": "Suddenly, the doorbell rings."
+    },
+    {
+      "offset": 1420,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、はーい」",
+      "en": "\"Coming!\"",
+      "text": "\"Coming!\""
+    },
+    {
+      "offset": 1441,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いいよ、俺が行く」",
+      "en": "\"I'll get it.\"",
+      "text": "\"I'll get it.\""
+    },
+    {
+      "offset": 1496,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「別にゆっくりしてればいいのに」",
+      "en": "\"You take it easy.\"",
+      "text": "\"You take it easy.\""
+    },
+    {
+      "offset": 1535,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そのカッコで来た人間を喜ばすのか？」",
+      "en": "\"Do you think a visitor will like your outfit?\"",
+      "text": "\"Do you think a visitor will like your outfit?\""
+    },
+    {
+      "offset": 1608,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え、うわ！　なに見てるのよ！」",
+      "en": "\"What? Oh my God! Don't look!\"",
+      "text": "\"What? Oh my God! Don't look!\""
+    },
+    {
+      "offset": 1647,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "シャツの｛すそ／裾｝をおさえて音夢が身をひく。",
+      "en": "Nemu steps back, tugging the edge of the shirt.",
+      "text": "Nemu steps back, tugging the edge of the shirt."
+    },
+    {
+      "offset": 1700,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「今更だろうが……」",
+      "en": "\"It's not new to me, anyway.\"",
+      "text": "\"It's not new to me, anyway.\""
+    },
+    {
+      "offset": 1727,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "呟くが、そういえば音夢のシャツの絶対防衛線\nが破られたことはなかったか。",
+      "en": "I've never seen Nemu wearing a shirt that's indecent like\nthat.",
+      "text": "I've never seen Nemu wearing a shirt that's indecent like\nthat."
+    },
+    {
+      "offset": 1805,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「このまま部屋に帰っちまおうかな」",
+      "en": "\"I wanna go back to my room, though.\"",
+      "text": "\"I wanna go back to my room, though.\""
+    },
+    {
+      "offset": 1846,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頭をかいて玄関に向かう。",
+      "en": "I walk to the front door, scratching my head.",
+      "text": "I walk to the front door, scratching my head."
+    },
+    {
+      "offset": 1908,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はい」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 1936,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「おっはよんよん！」",
+      "en": "\"Gooood morning!\"",
+      "text": "\"Gooood morning!\""
+    },
+    {
+      "offset": 1978,
+      "speaker": "Utamaru",
+      "speaker_jp": "うたまる",
+      "jp": "「うなー」",
+      "en": "\"Meow!\"",
+      "text": "\"Meow!\""
+    },
+    {
+      "offset": 1995,
+      "speaker": "Utamaru",
+      "speaker_jp": "うたまる",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2047,
+      "speaker": "Utamaru",
+      "speaker_jp": "うたまる",
+      "jp": "「雨は降ってないか」",
+      "en": "\"Is it raining?\"",
+      "text": "\"Is it raining?\""
+    },
+    {
+      "offset": 2125,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゃ、なにやってる？」",
+      "en": "\"Hm? What are you doing?\"",
+      "text": "\"Hm? What are you doing?\""
+    },
+    {
+      "offset": 2158,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……お前がチャイムを鳴らすなんて、なんか\n　悪いモンでも食ったか？」",
+      "en": "\"You can't be feeling well, to ring the door bell.\"",
+      "text": "\"You can't be feeling well, to ring the door bell.\""
+    },
+    {
+      "offset": 2275,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゃ？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 2309,
+      "speaker": "Utamaru",
+      "speaker_jp": "うたまる",
+      "jp": "「にゃー」",
+      "en": "\"Meow...\"",
+      "text": "\"Meow...\""
+    },
+    {
+      "offset": 2326,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらを真似て頭の上の猫も首をかしげようと\nするが、足場がそもそも斜めなのでずれ落ちか\nける。",
+      "en": "The cat on her head tries to cock her head like Sakura, but\nshe almost falls off.",
+      "text": "The cat on her head tries to cock her head like Sakura, but\nshe almost falls off."
+    },
+    {
+      "offset": 2425,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、どうした？」",
+      "en": "\"So, what's up?\"",
+      "text": "\"So, what's up?\""
+    },
+    {
+      "offset": 2491,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あのねあのねあのねあのね！　今日は日曜日\n　なんだよ日曜日！」",
+      "en": "\"Listen, listen, listen!! It's Sunday today, do you know\nthat?\"",
+      "text": "\"Listen, listen, listen!! It's Sunday today, do you know\nthat?\""
+    },
+    {
+      "offset": 2561,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぶんぶん、と拳を振りながらまくしたてる。",
+      "en": "She talks fast while spinning her fist.",
+      "text": "She talks fast while spinning her fist."
+    },
+    {
+      "offset": 2608,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「用件を言え」",
+      "en": "\"What do you want?\"",
+      "text": "\"What do you want?\""
+    },
+    {
+      "offset": 2629,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "日曜日に子供に遊園地に行きたいとせがまれる、\n父親の気分を味わう。",
+      "en": "The little kid begs me to go to the amusement park on\nSunday.I feel like a father.",
+      "text": "The little kid begs me to go to the amusement park on\nSunday.I feel like a father."
+    },
+    {
+      "offset": 2714,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「今日は先生じゃないから、お兄ちゃんに甘え\n　に来たの♪」",
+      "en": "\"I'm not a teacher today, so I'm a spoiled child of yours.\"",
+      "text": "\"I'm not a teacher today, so I'm a spoiled child of yours.\""
+    },
+    {
+      "offset": 2778,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そりゃ難儀だな」",
+      "en": "\"What an ordeal.\"",
+      "text": "\"What an ordeal.\""
+    },
+    {
+      "offset": 2816,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「後ね、初お給料日前だからなんかショッピン\n　グに行こうと思って」",
+      "en": "\"Also, I want to go shopping, because I'm getting paid\nsoon.\"",
+      "text": "\"Also, I want to go shopping, because I'm getting paid\nsoon.\""
+    },
+    {
+      "offset": 2888,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「その報告か」",
+      "en": "\"That's why you're here?\"",
+      "text": "\"That's why you're here?\""
+    },
+    {
+      "offset": 2939,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「一緒に行こうって言ってるんだよ」",
+      "en": "\"I'm asking you to come with me.\"",
+      "text": "\"I'm asking you to come with me.\""
+    },
+    {
+      "offset": 2980,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あ、悪い、音夢の体調がよくなくてさ」",
+      "en": "\"Umm... sorry, but Nemu isn't feeling well today.\"",
+      "text": "\"Umm... sorry, but Nemu isn't feeling well today.\""
+    },
+    {
+      "offset": 3025,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わず声をひそめてしまう。",
+      "en": "I lower my voice unconsciously.",
+      "text": "I lower my voice unconsciously."
+    },
+    {
+      "offset": 3088,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あ……そうなの？」",
+      "en": "\"Oh, really?\"",
+      "text": "\"Oh, really?\""
+    },
+    {
+      "offset": 3115,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あいついつも独りだろ、日曜日くらい一緒に\n　居てやろうと思って」",
+      "en": "\"She always stays at home by herself during the week, so I\nwant to keep her company on Sunday at least.\"",
+      "text": "\"She always stays at home by herself during the week, so I\nwant to keep her company on Sunday at least.\""
+    },
+    {
+      "offset": 3187,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "小言はうるさいが、まぁ、そんなものだ。",
+      "en": "That's all I needed to say.",
+      "text": "That's all I needed to say."
+    },
+    {
+      "offset": 3262,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3322,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ねぇ、お兄ちゃん。もし、もしだよ」",
+      "en": "\"Hey, oniichan. What if... I mean if...\"",
+      "text": "\"Hey, oniichan. What if... I mean if...\""
+    },
+    {
+      "offset": 3395,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「お兄ちゃんの大好きな子がふたりいて、その\n　どちらかがいなくなるとして……お兄ちゃん\n　が失うほうを選べるとしたら……」",
+      "en": "\"If you had two lovely children, and one of them has to\ndisappear. Then, which one do you think you'd let go?\"",
+      "text": "\"If you had two lovely children, and one of them has to\ndisappear. Then, which one do you think you'd let go?\""
+    },
+    {
+      "offset": 3535,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「その片方が音夢ちゃんだったら、もうひとり\n　はどのくらい大切じゃないといけないかな？」",
+      "en": "\"If one of them was Nemu-chan, then, how important would the\nother one have to be for you?\"",
+      "text": "\"If one of them was Nemu-chan, then, how important would the\nother one have to be for you?\""
+    },
+    {
+      "offset": 3629,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……なんだその質問は」",
+      "en": "\"What are you talking about?\"",
+      "text": "\"What are you talking about?\""
+    },
+    {
+      "offset": 3660,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "また、日曜の午後に破壊力の高い質問をされる\nものだ。",
+      "en": "I can't believe she asked me such an intimidating question\non Sunday afternoon.",
+      "text": "I can't believe she asked me such an intimidating question\non Sunday afternoon."
+    },
+    {
+      "offset": 3718,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「相手しだいだろうが。そもそも、ふたりとも\n　守ることが本当に出来ないか考えるのが先だ\n　ろう」",
+      "en": "\"It depends on who the other one is. But first, I would\nthink how I can save both of them at once.\"",
+      "text": "\"It depends on who the other one is. But first, I would\nthink how I can save both of them at once.\""
+    },
+    {
+      "offset": 3860,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そうだよね」",
+      "en": "\"You're right.\"",
+      "text": "\"You're right.\""
+    },
+    {
+      "offset": 3896,
+      "speaker": "Utamaru",
+      "speaker_jp": "うたまる",
+      "jp": "「うにゃ……」",
+      "en": "\"Meow...\"",
+      "text": "\"Meow...\""
+    },
+    {
+      "offset": 3947,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あ、うたまるお腹すいたの？　仕方ない、そ\n　れじゃ帰ろうか？」",
+      "en": "\"Oh, are you hungry, Utamaru? Let's go home now.\"",
+      "text": "\"Oh, are you hungry, Utamaru? Let's go home now.\""
+    },
+    {
+      "offset": 4029,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "明らかな作り笑いを浮かべてさくらが帰ろうと\nする。",
+      "en": "Sakura tries to leave, making an obviously fake smile.",
+      "text": "Sakura tries to leave, making an obviously fake smile."
+    },
+    {
+      "offset": 4085,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おい」",
+      "en": "\"Hey.\"",
+      "text": "\"Hey.\""
+    },
+    {
+      "offset": 4146,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あ、なにかな？」",
+      "en": "\"Yeah, what?\"",
+      "text": "\"Yeah, what?\""
+    },
+    {
+      "offset": 4171,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「さっきの質問だけど……」",
+      "en": "\"About the question you asked...\"",
+      "text": "\"About the question you asked...\""
+    },
+    {
+      "offset": 4204,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頬をかいて視線を逸らす。どうにも、女子供に\nは弱いな俺は。",
+      "en": "I look away scratching my cheek. How vulnerable I am to\ngirls and children.",
+      "text": "I look away scratching my cheek. How vulnerable I am to\ngirls and children."
+    },
+    {
+      "offset": 4268,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「もうひとりがお前だったら選べないな」",
+      "en": "\"If the other one is you, I couldn't choose.\"",
+      "text": "\"If the other one is you, I couldn't choose.\""
+    },
+    {
+      "offset": 4343,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゃ！？」",
+      "en": "\"Hm?!\"",
+      "text": "\"Hm?!\""
+    },
+    {
+      "offset": 4364,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "電気でも走ったみたいに身体が震えた。",
+      "en": "Her body trembles as if she got an electric shock.",
+      "text": "Her body trembles as if she got an electric shock."
+    },
+    {
+      "offset": 4437,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「えへへへへへへへへへへへへへ♪」",
+      "en": "\"Teeheeheeheehee......!\"",
+      "text": "\"Teeheeheeheehee......!\""
+    },
+    {
+      "offset": 4478,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「――！？」",
+      "en": "\"!?\"",
+      "text": "\"!?\""
+    },
+    {
+      "offset": 4497,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とろとろ、と本気で頬が落ちそうなくらいの表\n情をさくらが浮かべる。",
+      "en": "Sakura smiles so widely, I thought her head would fall off.",
+      "text": "Sakura smiles so widely, I thought her head would fall off."
+    },
+    {
+      "offset": 4582,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「えへへへへへへへへへへへへへへへへへへへ\n　へへへへへへへへへへへへ……♪」",
+      "en": "\"Teeheeheeheeheeheeheeheehee...!\"",
+      "text": "\"Teeheeheeheeheeheeheeheehee...!\""
+    },
+    {
+      "offset": 4666,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「帰れ帰れ！」",
+      "en": "\"Get going!!\"",
+      "text": "\"Get going!!\""
+    },
+    {
+      "offset": 4700,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うん、ボク帰る〜♪」",
+      "en": "\"Yep, I am!\"",
+      "text": "\"Yep, I am!\""
+    },
+    {
+      "offset": 4741,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "酒に酔ったみたいに足元危なっかしく、さくら\nが去っていく。",
+      "en": "Sakura walks away, wobbling as if she were a drunk.",
+      "text": "Sakura walks away, wobbling as if she were a drunk."
+    },
+    {
+      "offset": 4805,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まったく……甘いな俺も」",
+      "en": "\"Darn it... What a nice guy I am.\"",
+      "text": "\"Darn it... What a nice guy I am.\""
+    },
+    {
+      "offset": 4838,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ため息ばっかりついて、今度は音夢の相手をす\nるために家に入った。",
+      "en": "Sighing, I went inside to be with Nemu.",
+      "text": "Sighing, I went inside to be with Nemu."
+    },
+    {
+      "offset": 5010,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆さくら先生・日曜日◆",
+      "en": "◆Sakura-sensei on Sunday◆",
+      "text": "◆Sakura-sensei on Sunday◆"
+    },
+    {
+      "offset": 5061,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "日曜日、さくらが遊びに行こうと来るのだが、\nたまには音夢と一緒にいてやりたいと断る。",
+      "en": "On Sunday, Sakura came to my house to ask me if I would go\nsomewhere. But I declined her offer because I wanted to be\nwith Nemu on Sunday at least.",
+      "text": "On Sunday, Sakura came to my house to ask me if I would go\nsomewhere. But I declined her offer because I wanted to be\nwith Nemu on Sunday at least."
+    },
+    {
+      "offset": 5149,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やさしいんだね、と言われた後、不思議で困っ\nた質問をされる。",
+      "en": "After she said I was very kind to her, she gave me a queer\nquestion.",
+      "text": "After she said I was very kind to her, she gave me a queer\nquestion."
+    },
+    {
+      "offset": 5213,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お兄ちゃんの大好きな子がふたりいて、その\n　どちらかがいなくなるとして……お兄ちゃん\n　が失うほうを選べるとしたら……」",
+      "en": "\"If you had two lovely children and one of them had to go\naway, then, which one would you choose?\"",
+      "text": "\"If you had two lovely children and one of them had to go\naway, then, which one would you choose?\""
+    },
+    {
+      "offset": 5338,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「その片方が音夢ちゃんだったら、もうひとり\n　はどのくらい大切じゃないといけないかな？」",
+      "en": "\"If one of them is Nemu, how important does the other one\nhave to be for you?\"",
+      "text": "\"If one of them is Nemu, how important does the other one\nhave to be for you?\""
+    },
+    {
+      "offset": 5430,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はなんとなく照れながら、それがお前だった\nら難しい質問だなと答えた。",
+      "en": "Feeling embarrassed, I answered it would be very difficult\nif the other one is Sakura.",
+      "text": "Feeling embarrassed, I answered it would be very difficult\nif the other one is Sakura."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "333": "Nemu",
+    "638": "Nemu",
+    "769": "Nemu",
+    "848": "Nemu",
+    "969": "Nemu",
+    "1094": "Nemu",
+    "1245": "Nemu",
+    "1412": "Nemu",
+    "1488": "Nemu",
+    "1600": "Nemu",
+    "1926": "Sakura",
+    "1966": "Utamaru",
+    "2115": "Sakura",
+    "2265": "Sakura",
+    "2297": "Utamaru",
+    "2481": "Sakura",
+    "2704": "Sakura",
+    "2806": "Sakura",
+    "2929": "Sakura",
+    "3078": "Sakura",
+    "3252": "Sakura",
+    "3312": "Sakura",
+    "3385": "Sakura",
+    "3525": "Sakura",
+    "3850": "Sakura",
+    "3884": "Utamaru",
+    "3937": "Sakura",
+    "4136": "Sakura",
+    "4333": "Sakura",
+    "4427": "Sakura",
+    "4572": "Sakura",
+    "4690": "Sakura"
+  }
+}

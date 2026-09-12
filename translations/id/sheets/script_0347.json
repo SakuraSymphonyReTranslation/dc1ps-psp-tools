@@ -1,0 +1,565 @@
+{
+  "scene": "script_0347.obj",
+  "dialogues": [
+    {
+      "offset": 155,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「たまにはひとり、静かな所で食事というのも\n　悪くないな」",
+      "en": "\"It's not too bad having lunch alone somewhere nice and\nquiet.\"",
+      "text": "\"It's not too bad having lunch alone somewhere nice and\nquiet.\""
+    },
+    {
+      "offset": 219,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まだ暖かいとはいえない気候の中庭には、俺の\nような物好きは他にいない。",
+      "en": "No one else was out in the garden because of the nippy\nweather.",
+      "text": "No one else was out in the garden because of the nippy\nweather."
+    },
+    {
+      "offset": 293,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "購買で買った焼きそばパンにかぶりつく。",
+      "en": "I bit into the chow mein sandwich that I bought from the\nstore.",
+      "text": "I bit into the chow mein sandwich that I bought from the\nstore."
+    },
+    {
+      "offset": 338,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふぅ……」",
+      "en": "\"Mmm......\"",
+      "text": "\"Mmm......\""
+    },
+    {
+      "offset": 357,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "授業の疲れが吹き飛ぶ瞬間だ。",
+      "en": "This is how I could relieve my stress away from the classes.",
+      "text": "This is how I could relieve my stress away from the classes."
+    },
+    {
+      "offset": 403,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「本当にここにいるの？」",
+      "en": "\"Are you sure it's here?\"",
+      "text": "\"Are you sure it's here?\""
+    },
+    {
+      "offset": 443,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「たぶん……いるとしたら、ここだと思うんだ\n　けど……」",
+      "en": "\"Yes...... I think it should be here.\"",
+      "text": "\"Yes...... I think it should be here.\""
+    },
+    {
+      "offset": 505,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「んっ？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 522,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ベンチ越しに振り向くと、クーラーボックスを\n肩から提げた萌先輩と眞子の姿が見えた。",
+      "en": "When I looked behind the bench, I saw Moe-sempai and Mako\nwith a cooler box.",
+      "text": "When I looked behind the bench, I saw Moe-sempai and Mako\nwith a cooler box."
+    },
+    {
+      "offset": 608,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふたりともなにやら周囲の地面に目を凝らし、\n何かを探しているようだった。",
+      "en": "They were both staring at the ground and looking for\nsomething.",
+      "text": "They were both staring at the ground and looking for\nsomething."
+    },
+    {
+      "offset": 686,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……何してんだ？」",
+      "en": "\"......What are they doing?\"",
+      "text": "\"......What are they doing?\""
+    },
+    {
+      "offset": 713,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "地面に目をやりながら、ふたりがこっちに近づ\nいてくる。",
+      "en": "The two came toward me while looking down at the ground.",
+      "text": "The two came toward me while looking down at the ground."
+    },
+    {
+      "offset": 825,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あ、朝倉」",
+      "en": "\"Oh, Asakura.\"",
+      "text": "\"Oh, Asakura.\""
+    },
+    {
+      "offset": 853,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「こんにちは」",
+      "en": "\"Hello.\"",
+      "text": "\"Hello.\""
+    },
+    {
+      "offset": 874,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「こんにちは。何してるの？」",
+      "en": "\"Hello. What are you two doing?\"",
+      "text": "\"Hello. What are you two doing?\""
+    },
+    {
+      "offset": 937,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「それが、お姉ちゃんが持ってきた食材が逃げ\n　たらしくて、捜してんのよ」",
+      "en": "\"Well, one of the ingredients my sister brought escaped, and\nwe're looking for it.\"",
+      "text": "\"Well, one of the ingredients my sister brought escaped, and\nwe're looking for it.\""
+    },
+    {
+      "offset": 1015,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「は？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 1030,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "食材が……逃げる？",
+      "en": "The ingredient...... escaped?",
+      "text": "The ingredient...... escaped?"
+    },
+    {
+      "offset": 1053,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わず、大根や白菜に足が生えて猛ダッシュを\nかましているシーンを想像してしまう。",
+      "en": "I imagine a radish or napa cabbage running away on legs.",
+      "text": "I imagine a radish or napa cabbage running away on legs."
+    },
+    {
+      "offset": 1167,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「なんか、生きたヤツを持ってきたらしいんだ\n　けど、昼休みに屋上に行ったらいなくなって\n　たみたいで……」",
+      "en": "\"I guess she brought the one that's alive, but it was gone\nwhen we got to the roof top for lunch.\"",
+      "text": "\"I guess she brought the one that's alive, but it was gone\nwhen we got to the roof top for lunch.\""
+    },
+    {
+      "offset": 1278,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1297,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「生きた？」",
+      "en": "\"The one that's alive......?\"",
+      "text": "\"The one that's alive......?\""
+    },
+    {
+      "offset": 1316,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それは……何というか……。",
+      "en": "What can I say......?",
+      "text": "What can I say......?"
+    },
+    {
+      "offset": 1349,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……スゴイですね」",
+      "en": "\"......It's amazing.\"",
+      "text": "\"......It's amazing.\""
+    },
+    {
+      "offset": 1376,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――としか言えない。",
+      "en": "...That's all I could think of to say.",
+      "text": "...That's all I could think of to say."
+    },
+    {
+      "offset": 1429,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「ホントにどこ行ってしまったんでしょう……」",
+      "en": "\"I wonder where it went......\"",
+      "text": "\"I wonder where it went......\""
+    },
+    {
+      "offset": 1508,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「とにかく、早く捜さないと」",
+      "en": "\"Anyway, we have to look for it!\"",
+      "text": "\"Anyway, we have to look for it!\""
+    },
+    {
+      "offset": 1543,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「まあ、他の連中に見つかったら、騒ぎになる\n　かもな。そうしたら講師に大目玉で――」",
+      "en": "\"Right. If the other kids find it, it would be chaos. Also,\nthe teachers would be very mad......\"",
+      "text": "\"Right. If the other kids find it, it would be chaos. Also,\nthe teachers would be very mad......\""
+    },
+    {
+      "offset": 1661,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「違うわよ！　お昼が食べられなくなっちゃう\n　でしょうが」",
+      "en": "\"That's not it! I'm saying that we would miss our lunch!\"",
+      "text": "\"That's not it! I'm saying that we would miss our lunch!\""
+    },
+    {
+      "offset": 1725,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1744,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「おまえ……意外と冷淡だな」",
+      "en": "\"You're...... kind of cold.\"",
+      "text": "\"You're...... kind of cold.\""
+    },
+    {
+      "offset": 1807,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「だから、あんたも一緒に捜してくれる？」",
+      "en": "\"Will you look for it with us?\"",
+      "text": "\"Will you look for it with us?\""
+    },
+    {
+      "offset": 1854,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「なんで、俺がそんなかったるいことを……」",
+      "en": "\"Why the heck do I have to do something that's such a\npain......?\"",
+      "text": "\"Why the heck do I have to do something that's such a\npain......?\""
+    },
+    {
+      "offset": 1929,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あの……私からもお願いします」",
+      "en": "\"Umm...... Please help us......\"",
+      "text": "\"Umm...... Please help us......\""
+    },
+    {
+      "offset": 1968,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子の隣で萌先輩が深々と頭を下げる。",
+      "en": "Moe politely bowed at me.",
+      "text": "Moe politely bowed at me."
+    },
+    {
+      "offset": 2011,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はぁ……まあ、萌先輩がそう言うなら」",
+      "en": "\"Well...... If Moe-sempai's asking me......\"",
+      "text": "\"Well...... If Moe-sempai's asking me......\""
+    },
+    {
+      "offset": 2084,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ちょっと、何であたしの時と対応が違うのよ」",
+      "en": "\"Hey! Why is your reaction different all of a sudden?\"",
+      "text": "\"Hey! Why is your reaction different all of a sudden?\""
+    },
+    {
+      "offset": 2135,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「いや、萌先輩には色々と世話になってること\n　もあるし」",
+      "en": "\"Well, Moe-sempai's been really good to me......\"",
+      "text": "\"Well, Moe-sempai's been really good to me......\""
+    },
+    {
+      "offset": 2225,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あたしには恩はないっての？」",
+      "en": "\"You're saying you don't owe me anything?\"",
+      "text": "\"You're saying you don't owe me anything?\""
+    },
+    {
+      "offset": 2262,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「いや……」",
+      "en": "\"Well......\"",
+      "text": "\"Well......\""
+    },
+    {
+      "offset": 2281,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺、Ｍじゃないし……。",
+      "en": "I'm not masochistic......",
+      "text": "I'm not masochistic......"
+    },
+    {
+      "offset": 2336,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「ま、眞子ちゃん。暴力は待って」",
+      "en": "\"Hey Mako-chan, don't be violent.\"",
+      "text": "\"Hey Mako-chan, don't be violent.\""
+    },
+    {
+      "offset": 2375,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩が眞子を鎮めてくれる。",
+      "en": "Moe-sempai tried to calm Mako down.",
+      "text": "Moe-sempai tried to calm Mako down."
+    },
+    {
+      "offset": 2438,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「別に本気じゃないわよ……」",
+      "en": "\"I'm not being serious......\"",
+      "text": "\"I'm not being serious......\""
+    },
+    {
+      "offset": 2473,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いや、そんなことはないと俺は思うぞ。",
+      "en": "That's what she says, but I think she was pretty serious.",
+      "text": "That's what she says, but I think she was pretty serious."
+    },
+    {
+      "offset": 2516,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まあともかく、早く捜そう。時間も限られて\n　るしな」",
+      "en": "\"Anyway, let's start looking. we don't have much time.\"",
+      "text": "\"Anyway, let's start looking. we don't have much time.\""
+    },
+    {
+      "offset": 2613,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 2628,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「で、萌先輩。その逃げた“食材”ってどんな\n　やつなんです」",
+      "en": "\"......So Moe-sempai, what exactly is the ingredient that\nescaped?\"",
+      "text": "\"......So Moe-sempai, what exactly is the ingredient that\nescaped?\""
+    },
+    {
+      "offset": 2720,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「これぐらいの大きさのなんですが……」",
+      "en": "\"It's about this size......\"",
+      "text": "\"It's about this size......\""
+    },
+    {
+      "offset": 2765,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言って、手で大きさを説明する――そんな\nに大きくない……ウサギぐらいか？",
+      "en": "She spoke and showed me with her hands. It's not that\nbig...... perhaps about the size of a rabbit.",
+      "text": "She spoke and showed me with her hands. It's not that\nbig...... perhaps about the size of a rabbit."
+    },
+    {
+      "offset": 2845,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "でもそれだけじゃ分からん。",
+      "en": "However, that's not enough.",
+      "text": "However, that's not enough."
+    },
+    {
+      "offset": 2878,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「名前は？」",
+      "en": "\"What's the name?\"",
+      "text": "\"What's the name?\""
+    },
+    {
+      "offset": 2906,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「それが、変わった名前で、よく覚えてないん\n　です」",
+      "en": "\"Well, it has a weird name, and I don't really\nremember......\"",
+      "text": "\"Well, it has a weird name, and I don't really\nremember......\""
+    },
+    {
+      "offset": 2964,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「そ、そうですか……」",
+      "en": "\"You don't......?\"",
+      "text": "\"You don't......?\""
+    },
+    {
+      "offset": 3019,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「でも、大丈夫です。毒はありませんから」",
+      "en": "\"But it's okay. It's not poisonous.\"",
+      "text": "\"But it's okay. It's not poisonous.\""
+    },
+    {
+      "offset": 3100,
+      "speaker": "Junichi & Mako",
+      "speaker_jp": "朝倉＆眞子",
+      "jp": "「えっ！？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 3119,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "毒がないってことは――毒があるやつもいるっ\nてことだよな……。",
+      "en": "That means...... it could be poisonous depending on what\nkind it is......?",
+      "text": "That means...... it could be poisonous depending on what\nkind it is......?"
+    },
+    {
+      "offset": 3185,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 3198,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "な、何を持ってきたんですか先輩ッ！？",
+      "en": "What the heck did she bring?",
+      "text": "What the heck did she bring?"
+    },
+    {
+      "offset": 3269,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あたし、今日お昼抜きでいいや」",
+      "en": "\"I don't need any lunch today.\"",
+      "text": "\"I don't need any lunch today.\""
+    },
+    {
+      "offset": 3330,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "きょとんとする萌先輩を置いて、眞子がそそく\nさと退散していく。",
+      "en": "Mako left in a hurry while Moe-sempai remained standing.",
+      "text": "Mako left in a hurry while Moe-sempai remained standing."
+    },
+    {
+      "offset": 3396,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺も逃げたい……。",
+      "en": "I want to go too......",
+      "text": "I want to go too......"
+    },
+    {
+      "offset": 3419,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩の期待の眼差しを受けながら、天を仰ぐ。",
+      "en": "I looked up at the sky as Moe-sempai stared at me with hope\nin her eyes.",
+      "text": "I looked up at the sky as Moe-sempai stared at me with hope\nin her eyes."
+    },
+    {
+      "offset": 3468,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺……ここで死ぬのかな。",
+      "en": "Is today my last day......?",
+      "text": "Is today my last day......?"
+    },
+    {
+      "offset": 3626,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆逃げてしまった食材◆",
+      "en": "◆The ingredient that escaped◆",
+      "text": "◆The ingredient that escaped◆"
+    },
+    {
+      "offset": 3677,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "中庭でメシを食っていると、萌先輩と眞子が\nやって来た。",
+      "en": "When I was eating lunch in the garden, Moe-sempai and Mako\nshowed up.",
+      "text": "When I was eating lunch in the garden, Moe-sempai and Mako\nshowed up."
+    },
+    {
+      "offset": 3735,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何でも、逃げた食材を探しているらしいのだ\nが……。一体、何を持ってきたんです？　萌\n先輩。",
+      "en": "They were looking for an ingredient that escaped...... What\nthe heck did you bring, Moe-sempai?",
+      "text": "They were looking for an ingredient that escaped...... What\nthe heck did you bring, Moe-sempai?"
+    }
+  ],
+  "choices": [],
+  "names": {
+    "395": "Mako",
+    "437": "Moe",
+    "817": "Mako",
+    "847": "Moe",
+    "929": "Mako",
+    "1159": "Mako",
+    "1423": "Moe",
+    "1500": "Mako",
+    "1653": "Mako",
+    "1799": "Mako",
+    "1923": "Moe",
+    "2076": "Mako",
+    "2217": "Mako",
+    "2330": "Moe",
+    "2430": "Mako",
+    "2607": "Moe",
+    "2714": "Moe",
+    "2900": "Moe",
+    "3013": "Moe",
+    "3086": "Junichi & Mako",
+    "3261": "Mako"
+  }
+}

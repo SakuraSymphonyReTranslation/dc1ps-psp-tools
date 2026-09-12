@@ -1,0 +1,654 @@
+{
+  "scene": "script_0541.obj",
+  "dialogues": [
+    {
+      "offset": 143,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「暇だなぁ……」",
+      "en": "\"I'm bored......\"",
+      "text": "\"I'm bored......\""
+    },
+    {
+      "offset": 166,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢に持ってきてもらったパジャマに身を包み、\n純白のベッドに横たわる俺は、ひとり時間を持\nて余していた。",
+      "en": "I was lying on the white sheets and feeling bored. I was\nwearing the pajamas that Nemu brought for me.",
+      "text": "I was lying on the white sheets and feeling bored. I was\nwearing the pajamas that Nemu brought for me."
+    },
+    {
+      "offset": 275,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんか本でも買って来てもらえばよかったな」",
+      "en": "\"I should've asked her to bring some books or something.\"",
+      "text": "\"I should've asked her to bring some books or something.\""
+    },
+    {
+      "offset": 326,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 345,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「静かだ……」",
+      "en": "\"It's so quiet......\"",
+      "text": "\"It's so quiet......\""
+    },
+    {
+      "offset": 366,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "個室には俺以外に人が居るはずもなく、病院だ\nけに周囲はとても静かで……。",
+      "en": "There's no one else in this private room, and it's so quiet\nsince this is a hospital......",
+      "text": "There's no one else in this private room, and it's so quiet\nsince this is a hospital......"
+    },
+    {
+      "offset": 442,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだか、俺ひとりだけ置いてけぼりをくらっ\nた気分だな。",
+      "en": "I felt like everyone had left me here all alone.",
+      "text": "I felt like everyone had left me here all alone."
+    },
+    {
+      "offset": 502,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こうなると、定期的に来てくれる看護師さんが、\nとても待ち遠しい。",
+      "en": "I was looking forward to seeing the nurse who checked on me\nevery once in a while.",
+      "text": "I was looking forward to seeing the nurse who checked on me\nevery once in a while."
+    },
+    {
+      "offset": 572,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「白衣の天使とはよくいったものだ」",
+      "en": "\"Nurses are like angels with white gowns......\"",
+      "text": "\"Nurses are like angels with white gowns......\""
+    },
+    {
+      "offset": 613,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "看護師さんに憧れを抱くやつらの気持ちが、か\nすかにだが分かる気がする。",
+      "en": "I think I understand why people get the urge to touch a\nnurse's behind when they're stuck in hospital.",
+      "text": "I think I understand why people get the urge to touch a\nnurse's behind when they're stuck in hospital."
+    },
+    {
+      "offset": 687,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "寂しいんだろう。",
+      "en": "They're probably feeling lonely.",
+      "text": "They're probably feeling lonely."
+    },
+    {
+      "offset": 710,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 729,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「関係ないか」",
+      "en": "\"It's none of my business.\"",
+      "text": "\"It's none of my business.\""
+    },
+    {
+      "offset": 750,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さっきから、独り言ばっかりだな……。",
+      "en": "I've been talking to myself way too much......",
+      "text": "I've been talking to myself way too much......"
+    },
+    {
+      "offset": 791,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そろそろ危ない気がする。",
+      "en": "I think I might be losing my mind.",
+      "text": "I think I might be losing my mind."
+    },
+    {
+      "offset": 825,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "コンコン――",
+      "en": "Knock, knock......",
+      "text": "Knock, knock......"
+    },
+    {
+      "offset": 842,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "天使降臨！？",
+      "en": "Is it my angel?",
+      "text": "Is it my angel?"
+    },
+    {
+      "offset": 859,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一瞬、そう思ったが、まだ定期検診の時間には\n早すぎる。すでに検診の時間は把握していた。",
+      "en": "I thought for a moment, but it's too early for the routine\ncheck up. I know when they're supposed to come.",
+      "text": "I thought for a moment, but it's too early for the routine\ncheck up. I know when they're supposed to come."
+    },
+    {
+      "offset": 949,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ということは、見舞いの客か。",
+      "en": "Could it be someone else visiting me?",
+      "text": "Could it be someone else visiting me?"
+    },
+    {
+      "offset": 984,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どうぞ」",
+      "en": "\"Come in.\"",
+      "text": "\"Come in.\""
+    },
+    {
+      "offset": 1001,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "扉が開いて女の子が入ってくる。",
+      "en": "The door opened, and a girl came inside.",
+      "text": "The door opened, and a girl came inside."
+    },
+    {
+      "offset": 1074,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「こんにちは、朝倉くん」",
+      "en": "\"Hello, Asakura-kun.\"",
+      "text": "\"Hello, Asakura-kun.\""
+    },
+    {
+      "offset": 1105,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1124,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あえて言おう――クマさん模様の可愛らしいパ\nジャマを着た萌先輩が、にこやかに微笑みなが\nら、俺の目の前に立っている。",
+      "en": "Let me tell you something...... Moe-sempai was standing\nthere smiling, wearing cute teddy bear print pajamas.",
+      "text": "Let me tell you something...... Moe-sempai was standing\nthere smiling, wearing cute teddy bear print pajamas."
+    },
+    {
+      "offset": 1271,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あの……お身体の具合はどうですか？」",
+      "en": "\"Umm...... How are you feeling?\"",
+      "text": "\"Umm...... How are you feeling?\""
+    },
+    {
+      "offset": 1316,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「えっと……まあ大丈夫です」",
+      "en": "\"Well...... I'm okay......\"",
+      "text": "\"Well...... I'm okay......\""
+    },
+    {
+      "offset": 1351,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢のパジャマ姿で一応免疫があるとは言え、\nやはり家族以外の女の子の姿は特別だ。",
+      "en": "I'm used to seeing Nemu in her pajamas, but it's a different\nfeeling to see a girl who isn't in my family wearing\npajamas.",
+      "text": "I'm used to seeing Nemu in her pajamas, but it's a different\nfeeling to see a girl who isn't in my family wearing\npajamas."
+    },
+    {
+      "offset": 1463,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あの……本当にすみませんでした。朝倉くん\n　にケガをさせてしまって……ほんとにほんと\n　にすみませんでした」",
+      "en": "Her soft skin is hidden under that thin piece of\nmaterial......",
+      "text": "Her soft skin is hidden under that thin piece of\nmaterial......"
+    },
+    {
+      "offset": 1578,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「別に萌先輩のせいじゃないですよ」",
+      "en": "\"Umm...... I'm so sorry. It's my fault you got hurt......\nI'm terribly sorry......\"",
+      "text": "\"Umm...... I'm so sorry. It's my fault you got hurt......\nI'm terribly sorry......\""
+    },
+    {
+      "offset": 1619,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "諸悪の根源は、信号が変わる前に加速して走り\nぬけようとしたへたれドライバーだ。",
+      "en": "\"It's not your fault, Moe-sempai.\"",
+      "text": "\"It's not your fault, Moe-sempai.\""
+    },
+    {
+      "offset": 1703,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「先輩の検査入院って、いつまでなんですか？」",
+      "en": "The driver of the car was speeding through the light before\nit changed. He's at fault.",
+      "text": "The driver of the car was speeding through the light before\nit changed. He's at fault."
+    },
+    {
+      "offset": 1780,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「問題がないようでしたら、明日には退院です」",
+      "en": "\"When are they going to finish your physical exam?\"",
+      "text": "\"When are they going to finish your physical exam?\""
+    },
+    {
+      "offset": 1831,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「そうですか」",
+      "en": "\"If there's no problem, I'm getting out of here tomorrow.\"",
+      "text": "\"If there's no problem, I'm getting out of here tomorrow.\""
+    },
+    {
+      "offset": 1852,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "残念。もっと萌先輩のパジャマ姿を見たかった\nんだけどな。",
+      "en": "\"Is that so?\"",
+      "text": "\"Is that so?\""
+    },
+    {
+      "offset": 1923,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「毎日、お見舞いに来ますね」",
+      "en": "That's unfortunate. I wanted to see more of her in those\npajamas.",
+      "text": "That's unfortunate. I wanted to see more of her in those\npajamas."
+    },
+    {
+      "offset": 1958,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「そんな無理しなくても……」",
+      "en": "\"I'll come visit you every day.\"",
+      "text": "\"I'll come visit you every day.\""
+    },
+    {
+      "offset": 2019,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「いえ、大丈夫です。なんでも言ってください。\n　朝倉くんのために、なんでもしますから」",
+      "en": "\"You don't have to do that.\"",
+      "text": "\"You don't have to do that.\""
+    },
+    {
+      "offset": 2111,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「…………」",
+      "en": "\"No, I will. Please ask me anything. I'll do anything for\nyou, Asakura-kun.\"",
+      "text": "\"No, I will. Please ask me anything. I'll do anything for\nyou, Asakura-kun.\""
+    },
+    {
+      "offset": 2130,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――なんでも？",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2149,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いろんなシーンが次々と頭に浮かび、脳内が煩\n悩で満たされる。",
+      "en": "...Did she just say anything?",
+      "text": "...Did she just say anything?"
+    },
+    {
+      "offset": 2213,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "I started imagining all kinds of scenes, and my brain was\nfilled with fantasies.",
+      "text": "I started imagining all kinds of scenes, and my brain was\nfilled with fantasies."
+    },
+    {
+      "offset": 2226,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "素晴らしい言葉だ。",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 2277,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あの、今なにかして欲しいこととかはありま\n　すか？」",
+      "en": "What a nice word.",
+      "text": "What a nice word."
+    },
+    {
+      "offset": 2337,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「いえ、とくに――あっ、そうだ」",
+      "en": "\"Umm, is there anything you want me to do for you now?\"",
+      "text": "\"Umm, is there anything you want me to do for you now?\""
+    },
+    {
+      "offset": 2385,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい？」",
+      "en": "\"Not really...... oh, that's right!\"",
+      "text": "\"Not really...... oh, that's right!\""
+    },
+    {
+      "offset": 2402,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「すみませんが、マンガを買って来てもらえま\n　せんか？」",
+      "en": "\"Yes?\"",
+      "text": "\"Yes?\""
+    },
+    {
+      "offset": 2464,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "これで萌先輩が帰ったら、また、何もすること\nのない退屈な時間を過ごすハメになる。",
+      "en": "\"Will you please go and get me some manga?\"",
+      "text": "\"Will you please go and get me some manga?\""
+    },
+    {
+      "offset": 2550,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「マンガの雑誌を２〜３冊、お願いします。も\n　う、暇で暇で」",
+      "en": "I'll have nothing to do after she leaves the room.",
+      "text": "I'll have nothing to do after she leaves the room."
+    },
+    {
+      "offset": 2642,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「わかりました。では、行ってきますね」",
+      "en": "\"Okay. I'll go get them now.\"",
+      "text": "\"Okay. I'll go get them now.\""
+    },
+    {
+      "offset": 2696,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩はなんだか嬉しそうに微笑むと、張り切っ\nて出て行った。",
+      "en": "She smiled joyfully and left the room.",
+      "text": "She smiled joyfully and left the room."
+    },
+    {
+      "offset": 2786,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 2847,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「お待たせしました、朝倉くん。マンガの雑誌\n　を買ってきました」",
+      "en": "\"I'm back, Asakura-kun. I got you some manga.\"",
+      "text": "\"I'm back, Asakura-kun. I got you some manga.\""
+    },
+    {
+      "offset": 2917,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "随分と時間がたったころ、萌先輩がノックをし\nて病室に戻ってきた。",
+      "en": "After a while, Moe-sempai knocked on the door and returned\nto my room.",
+      "text": "After a while, Moe-sempai knocked on the door and returned\nto my room."
+    },
+    {
+      "offset": 2987,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「遅かったですね。もしかして、売店に売って\n　なかったんですか？」",
+      "en": "\"It took you a long time. Were they sold out in the hospital\nshop?\"",
+      "text": "\"It took you a long time. Were they sold out in the hospital\nshop?\""
+    },
+    {
+      "offset": 3059,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まさか、外まで買いに行ったのかな……。",
+      "en": "Perhaps, she went out of the hospital to get them......",
+      "text": "Perhaps, she went out of the hospital to get them......"
+    },
+    {
+      "offset": 3130,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「いえ。ただ、あまり良さそうなものがなかっ\n　たので、病院の前にあるお店まで買いにいっ\n　ていたんです」",
+      "en": "\"No, but they didn't have any good ones in the shop, so I\nwent to the book store across from the hospital.\"",
+      "text": "\"No, but they didn't have any good ones in the shop, so I\nwent to the book store across from the hospital.\""
+    },
+    {
+      "offset": 3239,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やっぱり……。",
+      "en": "I knew it.",
+      "text": "I knew it."
+    },
+    {
+      "offset": 3260,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まさか、その格好のままで行ったんですか？」",
+      "en": "\"You went out there in that outfit?\"",
+      "text": "\"You went out there in that outfit?\""
+    },
+    {
+      "offset": 3337,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい。朝倉くんを待たせてしまってはいけな\n　いと思ったので。でも、結局選ぶのに時間が\n　かかってしまいました」",
+      "en": "\"Yes. I didn't want to make you wait too long. However, it\ntook me a while to pick them out.\"",
+      "text": "\"Yes. I didn't want to make you wait too long. However, it\ntook me a while to pick them out.\""
+    },
+    {
+      "offset": 3454,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちょっと申し訳なさそうに言う萌先輩。",
+      "en": "Moe spoke with regret.",
+      "text": "Moe spoke with regret."
+    },
+    {
+      "offset": 3497,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いえ、謝る必要はないですよ。ありがとうご\n　ざいます」",
+      "en": "\"You don't need to feel bad. Thank you very much.\"",
+      "text": "\"You don't need to feel bad. Thank you very much.\""
+    },
+    {
+      "offset": 3559,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩相手に、この程度のことで驚いてはいら\nれない。",
+      "en": "I can't be surprised with her actions. It's Moe-sempai after\nall.",
+      "text": "I can't be surprised with her actions. It's Moe-sempai after\nall."
+    },
+    {
+      "offset": 3643,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「いえ。あの……どうぞ」",
+      "en": "\"You're welcome. Umm...... here you go.\"",
+      "text": "\"You're welcome. Umm...... here you go.\""
+    },
+    {
+      "offset": 3674,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「どうも」",
+      "en": "\"Thank you.\"",
+      "text": "\"Thank you.\""
+    },
+    {
+      "offset": 3691,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩から袋を受け取り、中身を確かめる。",
+      "en": "I got the bag from Moe and looked inside.",
+      "text": "I got the bag from Moe and looked inside."
+    },
+    {
+      "offset": 3736,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "中から出てきたのは……。",
+      "en": "When I looked at the books she got......",
+      "text": "When I looked at the books she got......"
+    },
+    {
+      "offset": 3767,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3786,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『コレコレ』\n『ボムボム』",
+      "en": "\"'Hussy''Bunny boy''Slut house'.\"",
+      "text": "\"'Hussy''Bunny boy''Slut house'.\""
+    },
+    {
+      "offset": 3816,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "表紙にいかにも元気そうな少年の絵が描かれた\n雑誌にはそんなタイトルがつけられていた……。",
+      "en": "The magazines she brought had titles like that, with sexy\ngirls and the word 'X-rated' on the cover.",
+      "text": "The magazines she brought had titles like that, with sexy\ngirls and the word 'X-rated' on the cover."
+    },
+    {
+      "offset": 3910,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あの……どうしてこれを？」",
+      "en": "\"Umm...... Why did you buy these?\"",
+      "text": "\"Umm...... Why did you buy these?\""
+    },
+    {
+      "offset": 3971,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あの……どんな本がいいか分からなかったの\n　で、男の子が喜びそうなものを選んだんです」",
+      "en": "\"Well...... I didn't know what kind of books you wanted, so\nI got something that I thought men would like.\"",
+      "text": "\"Well...... I didn't know what kind of books you wanted, so\nI got something that I thought men would like.\""
+    },
+    {
+      "offset": 4065,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「……そうですか」",
+      "en": "\"......I see.\"",
+      "text": "\"......I see.\""
+    },
+    {
+      "offset": 4090,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "確かに、男の子が喜ぶ本だが……。",
+      "en": "They're indeed, something that men like......",
+      "text": "They're indeed, something that men like......"
+    },
+    {
+      "offset": 4129,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（弟さんが基準なんだろうな……）",
+      "en": "(But it's awkward to get these from a girl......)",
+      "text": "(But it's awkward to get these from a girl......)"
+    },
+    {
+      "offset": 4168,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "手の上の雑誌を眺めながら、買ってくるものを\n指定するべきだったと激しく後悔するのだった。",
+      "en": "As I stared at the magazines in my hands, I had feelings of\nregret. I should've told her what to get.",
+      "text": "As I stared at the magazines in my hands, I had feelings of\nregret. I should've told her what to get."
+    },
+    {
+      "offset": 4378,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆本◆",
+      "en": "◆Books◆",
+      "text": "◆Books◆"
+    },
+    {
+      "offset": 4413,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暇をしている俺の元に、萌先輩がやって来てく\nれた。検査だけの萌先輩は、問題がなければ、\n明日退院出来るらしい。",
+      "en": "As I was stuck being bored, Moe-sempai came to visit me.\nShe's staying in the hospital for a physical exam, but she's\nleaving tomorrow if there's no problem.",
+      "text": "As I was stuck being bored, Moe-sempai came to visit me.\nShe's staying in the hospital for a physical exam, but she's\nleaving tomorrow if there's no problem."
+    },
+    {
+      "offset": 4526,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、萌先輩にマンガの雑誌を買ってきてくれ\nるよう頼んだ。",
+      "en": "I asked her to get me some manga.",
+      "text": "I asked her to get me some manga."
+    },
+    {
+      "offset": 4588,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "外の本屋まで行って、戻ってきた萌先輩。彼女\nの手にあった雑誌は子供向けの雑誌だった……。",
+      "en": "She went out to the book store and came back. The books she\nbrought me back will make my lower body uncomfortable......",
+      "text": "She went out to the book store and came back. The books she\nbrought me back will make my lower body uncomfortable......"
+    }
+  ],
+  "choices": [],
+  "names": {
+    "1068": "Moe",
+    "1265": "Moe",
+    "1457": "Moe",
+    "1774": "Moe",
+    "1917": "Moe",
+    "2013": "Moe",
+    "2271": "Moe",
+    "2379": "Moe",
+    "2636": "Moe",
+    "2841": "Moe",
+    "3124": "Moe",
+    "3331": "Moe",
+    "3637": "Moe",
+    "3965": "Moe"
+  }
+}

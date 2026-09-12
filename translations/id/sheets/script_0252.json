@@ -1,0 +1,515 @@
+{
+  "scene": "script_0252.obj",
+  "dialogues": [
+    {
+      "offset": 155,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はっくしょん！」",
+      "en": "\"Achoo!\"",
+      "text": "\"Achoo!\""
+    },
+    {
+      "offset": 186,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「うい〜……」",
+      "en": "\"Bwuh...\"",
+      "text": "\"Bwuh...\""
+    },
+    {
+      "offset": 207,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思いっきりくしゃみ。花粉か？",
+      "en": "I've suddenly started sneezing. The pollen, maybe?",
+      "text": "I've suddenly started sneezing. The pollen, maybe?"
+    },
+    {
+      "offset": 242,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……ていうか、寒いのかも」",
+      "en": "\"...Nah, probably just the cold weather.\"",
+      "text": "\"...Nah, probably just the cold weather.\""
+    },
+    {
+      "offset": 277,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "歩いていれば心地のいい春の空気も、ただベン\nチに座っているだけでは、じわじわと体温を奪っ\nていく。",
+      "en": "When walking, the spring temperature is just right, but just\nsitting and not moving around left me scrambling for warmth.",
+      "text": "When walking, the spring temperature is just right, but just\nsitting and not moving around left me scrambling for warmth."
+    },
+    {
+      "offset": 380,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「は、は……」",
+      "en": "\"Ah, ah...\"",
+      "text": "\"Ah, ah...\""
+    },
+    {
+      "offset": 407,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はあくっしょん！」",
+      "en": "\"Achooooo!\"",
+      "text": "\"Achooooo!\""
+    },
+    {
+      "offset": 447,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「くすくす……凄い、くしゃみですね」",
+      "en": "\"Hehe... cold, isn't it?\"",
+      "text": "\"Hehe... cold, isn't it?\""
+    },
+    {
+      "offset": 501,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「だね」",
+      "en": "\"Indeed.\"",
+      "text": "\"Indeed.\""
+    },
+    {
+      "offset": 516,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「ん？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 531,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ずるずると鼻をすすりながら顔を上げると、そ\nこにはティッシュを手にしたことりの姿が。",
+      "en": "I lifted my head as I my nose sniffed unconciously, to the\nsight of Kotori handing me a tissue.",
+      "text": "I lifted my head as I my nose sniffed unconciously, to the\nsight of Kotori handing me a tissue."
+    },
+    {
+      "offset": 619,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そしてその後ろには、相変わらず爽やかな笑み\nを浮かべた工藤が立っていた。",
+      "en": "And next to her was Kudou, ever-smiling.",
+      "text": "And next to her was Kudou, ever-smiling."
+    },
+    {
+      "offset": 751,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「はい、どうぞ」",
+      "en": "\"Here, use this.\"",
+      "text": "\"Here, use this.\""
+    },
+    {
+      "offset": 774,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ニッコリと微笑んで、ポケットティッシュを渡\nしてきてくれる。",
+      "en": "Grinning, Kotori passed me a few pocket tissues.",
+      "text": "Grinning, Kotori passed me a few pocket tissues."
+    },
+    {
+      "offset": 840,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん、さんきゅ」",
+      "en": "\"Mm, thank you.\"",
+      "text": "\"Mm, thank you.\""
+    },
+    {
+      "offset": 863,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ち〜ん！",
+      "en": "*chiin!*",
+      "text": "*chiin!*"
+    },
+    {
+      "offset": 878,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……見る？」",
+      "en": "\"...Did you see anything?\"",
+      "text": "\"...Did you see anything?\""
+    },
+    {
+      "offset": 929,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……見ませんよ」",
+      "en": "\"...No I didn't.",
+      "text": "\"...No I didn't."
+    },
+    {
+      "offset": 954,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「桜の花粉で、ピンク色になっているかもしれ\n　ないからさ」",
+      "en": "\"I didn't know sakura pollen was pink in colour.\"",
+      "text": "\"I didn't know sakura pollen was pink in colour.\""
+    },
+    {
+      "offset": 1048,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「からさって、そんな……宝物でも見せるよう\n　に」",
+      "en": "\"That's... like looking for treasure, isn't it?",
+      "text": "\"That's... like looking for treasure, isn't it?"
+    },
+    {
+      "offset": 1104,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「残念」",
+      "en": "\"Unfortunate.\"",
+      "text": "\"Unfortunate.\""
+    },
+    {
+      "offset": 1119,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "くしゃっと丸め、屑カゴへと捨てる。",
+      "en": "I rolled up the tissue in a ball and threw it in a nearby\ntrash bin.",
+      "text": "I rolled up the tissue in a ball and threw it in a nearby\ntrash bin."
+    },
+    {
+      "offset": 1190,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「何やってるんですか？　こんなところで」",
+      "en": "\"What are you doing here?\"",
+      "text": "\"What are you doing here?\""
+    },
+    {
+      "offset": 1237,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「まあ、何となく。春だし、外に出たら気持ち\n　いいかなって」",
+      "en": "\"Nothing much. It's spring after all, when being outdoors\nfeels great.\"",
+      "text": "\"Nothing much. It's spring after all, when being outdoors\nfeels great.\""
+    },
+    {
+      "offset": 1303,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そう言うことり達こそ、何やってるんだよ？」",
+      "en": "\"What about you two? What are you doing?\"",
+      "text": "\"What about you two? What are you doing?\""
+    },
+    {
+      "offset": 1367,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「私達ですか？」",
+      "en": "\"Us?\"",
+      "text": "\"Us?\""
+    },
+    {
+      "offset": 1401,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「朝倉と一緒だよ。天気がいいなって外に出た\n　ら」",
+      "en": "\"Same as you. The weather was good, so we went out to enjoy\nit.\"",
+      "text": "\"Same as you. The weather was good, so we went out to enjoy\nit.\""
+    },
+    {
+      "offset": 1470,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そこでバッタリ会ったんです」",
+      "en": "\"And we just happened to bump into each other.\"",
+      "text": "\"And we just happened to bump into each other.\""
+    },
+    {
+      "offset": 1507,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ふ〜ん」",
+      "en": "\"Hmmmmm.\"",
+      "text": "\"Hmmmmm.\""
+    },
+    {
+      "offset": 1537,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「その顔、何か疑ってますね？」",
+      "en": "\"What's the suspicious look for?\"",
+      "text": "\"What's the suspicious look for?\""
+    },
+    {
+      "offset": 1574,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「べっつにぃ」",
+      "en": "\"Noooothing.\"",
+      "text": "\"Noooothing.\""
+    },
+    {
+      "offset": 1595,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺とことり達がこうして会ったみたいに、そう\n言う偶然もあるだろう。",
+      "en": "She says that them meeting me was a complete coincidence.",
+      "text": "She says that them meeting me was a complete coincidence."
+    },
+    {
+      "offset": 1665,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんせ狭い島だからな。",
+      "en": "A small island, isn't it.",
+      "text": "A small island, isn't it."
+    },
+    {
+      "offset": 1707,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「………………」",
+      "en": "\".........\"",
+      "text": "\".........\""
+    },
+    {
+      "offset": 1730,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "唇に指をあて、ジッと俺の瞳を覗き込んでいた\nことりが、にこっと微笑む。",
+      "en": "With a finger on her lips, Kotori stared into my eyes for\nawhile, then suddenly pulled back and smiled.",
+      "text": "With a finger on her lips, Kotori stared into my eyes for\nawhile, then suddenly pulled back and smiled."
+    },
+    {
+      "offset": 1819,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「疑ってないんだったら、別にいいです」",
+      "en": "\"Well, if you're not being skeptic, then it's fine.\"",
+      "text": "\"Well, if you're not being skeptic, then it's fine.\""
+    },
+    {
+      "offset": 1864,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「なんだかな」",
+      "en": "\"What's that supposed to mean.\"",
+      "text": "\"What's that supposed to mean.\""
+    },
+    {
+      "offset": 1885,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりの不思議な雰囲気に苦笑する。",
+      "en": "The only thing that Kotori gave was a mysterious smile.",
+      "text": "The only thing that Kotori gave was a mysterious smile."
+    },
+    {
+      "offset": 1926,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「それにしても、こんなに気持ちのいい春空の\n　下を、みんな｛そろ／揃｝って無意味に｛はいかい／徘徊｝かぁ」",
+      "en": "\"In any case, it's amazing, everyone with nothing to do in\nthis feel-good Sunday under the blue sky...\"",
+      "text": "\"In any case, it's amazing, everyone with nothing to do in\nthis feel-good Sunday under the blue sky...\""
+    },
+    {
+      "offset": 2068,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……散歩って言ってくださいよ」",
+      "en": "\"...I did say we were taking a walk.\"",
+      "text": "\"...I did say we were taking a walk.\""
+    },
+    {
+      "offset": 2107,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ま、似たようなもんだろ」",
+      "en": "\"Well, is that really something to do?\"",
+      "text": "\"Well, is that really something to do?\""
+    },
+    {
+      "offset": 2151,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「意味的にはかなり違うと思うぞ」",
+      "en": "\"I definitely don't think it isn't.\"",
+      "text": "\"I definitely don't think it isn't.\""
+    },
+    {
+      "offset": 2203,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「うんうん」",
+      "en": "\"Uh huh.\"",
+      "text": "\"Uh huh.\""
+    },
+    {
+      "offset": 2222,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「２対１。……俺の負けか」",
+      "en": "\"2v1. ....I lose.\"",
+      "text": "\"2v1. ....I lose.\""
+    },
+    {
+      "offset": 2268,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「いや、勝負でもないと思うんですけど」",
+      "en": "\"Heyy, it's not a battle or anything.\"",
+      "text": "\"Heyy, it's not a battle or anything.\""
+    },
+    {
+      "offset": 2313,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「まぁ、俺もそう思うんだけどな」",
+      "en": "\"What if I think it is.\"",
+      "text": "\"What if I think it is.\""
+    },
+    {
+      "offset": 2352,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……とりあえず、散歩でもするか？　ここで\n　立ち話してるのもなんだし」",
+      "en": "\"...Anyway, want to just take a walk? No point just standing\naround here talking.\"",
+      "text": "\"...Anyway, want to just take a walk? No point just standing\naround here talking.\""
+    },
+    {
+      "offset": 2441,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「だね」",
+      "en": "\"Indeed.\"",
+      "text": "\"Indeed.\""
+    },
+    {
+      "offset": 2469,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ですね」",
+      "en": "\"Right!\"",
+      "text": "\"Right!\""
+    },
+    {
+      "offset": 2486,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "３人並んで歩き出す。",
+      "en": "The three of us started walking together.",
+      "text": "The three of us started walking together."
+    },
+    {
+      "offset": 2511,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、その時。",
+      "en": "Then at that moment.",
+      "text": "Then at that moment."
+    },
+    {
+      "offset": 2528,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さあ……っと。",
+      "en": "Fwoooosh!",
+      "text": "Fwoooosh!"
+    },
+    {
+      "offset": 2547,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "花の匂いを含んだ風が吹いてきた。ことりの髪\nがふわりと浮かぶ。",
+      "en": "The sweet scent of sakura petals could be smelled, as a\nsudden gust of wind blew them past us, and through Kotori's\nhair.",
+      "text": "The sweet scent of sakura petals could be smelled, as a\nsudden gust of wind blew them past us, and through Kotori's\nhair."
+    },
+    {
+      "offset": 2613,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ほっそりとした指で髪を押さえ、ことりが屈託\nなく笑う。",
+      "en": "Kotori controlled her hair with her fingers, all the while\nwearing a carefree grin.",
+      "text": "Kotori controlled her hair with her fingers, all the while\nwearing a carefree grin."
+    },
+    {
+      "offset": 2703,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……気持ちいいですよね、春って」",
+      "en": "\"...Spring really feels great.\"",
+      "text": "\"...Spring really feels great.\""
+    },
+    {
+      "offset": 2744,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はそんなことりを見つめ、微笑みながら頷い\nた。",
+      "en": "I look towards Kotori and gave her a sly grin while nodding\nmy head.",
+      "text": "I look towards Kotori and gave her a sly grin while nodding\nmy head."
+    },
+    {
+      "offset": 2798,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「風でこう、微妙に翻ったスカートとかたまら\n　ないよな」",
+      "en": "\"Better be more careful of the wind's effect on your skirt\nrather than on your hair.\"",
+      "text": "\"Better be more careful of the wind's effect on your skirt\nrather than on your hair.\""
+    },
+    {
+      "offset": 2860,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりと、なぜか工藤に｛にら／睨｝まれた。",
+      "en": "Kotori, for some reason, started scowling at Kudou on my\nremark.",
+      "text": "Kotori, for some reason, started scowling at Kudou on my\nremark."
+    },
+    {
+      "offset": 3040,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆みんなで散歩◆",
+      "en": "◆Walking With Everyone◆",
+      "text": "◆Walking With Everyone◆"
+    },
+    {
+      "offset": 3093,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "たまたま出会ったことり、工藤と一緒に、公園\nの中を散歩する事になった。",
+      "en": "We walked through the park without a care in the world;\nmyself, Kotori who I met by chance, and Kudou who was with\nher.",
+      "text": "We walked through the park without a care in the world;\nmyself, Kotori who I met by chance, and Kudou who was with\nher."
+    },
+    {
+      "offset": 3167,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ひとりでぶらつくより、よっぽど楽しいよな。",
+      "en": "Compared to walking about alone, it was far more enjoyable.",
+      "text": "Compared to walking about alone, it was far more enjoyable."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "437": "Kotori",
+    "493": "Kudou",
+    "741": "Kotori",
+    "919": "Kotori",
+    "1038": "Kotori",
+    "1180": "Kotori",
+    "1357": "Kotori",
+    "1393": "Kudou",
+    "1460": "Kotori",
+    "1527": "Kotori",
+    "1697": "Kotori",
+    "1809": "Kotori",
+    "2058": "Kotori",
+    "2143": "Kudou",
+    "2193": "Kotori",
+    "2258": "Kotori",
+    "2433": "Kudou",
+    "2459": "Kotori",
+    "2693": "Kotori"
+  }
+}

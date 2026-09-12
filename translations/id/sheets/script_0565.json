@@ -1,0 +1,812 @@
+{
+  "scene": "script_0565.obj",
+  "dialogues": [
+    {
+      "offset": 179,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや、いいお父さんだ」",
+      "en": "\"You have such a good dad.\"",
+      "text": "\"You have such a good dad.\""
+    },
+    {
+      "offset": 243,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「まだ引きずってたんですか？」",
+      "en": "\"Are you still talking about him?\"",
+      "text": "\"Are you still talking about him?\""
+    },
+    {
+      "offset": 280,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ん？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 323,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「いえ、いいです」",
+      "en": "\"Oh, it's okay.\"",
+      "text": "\"Oh, it's okay.\""
+    },
+    {
+      "offset": 348,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「そうか」",
+      "en": "\"Okay.\"",
+      "text": "\"Okay.\""
+    },
+    {
+      "offset": 365,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "笑いながらドアノブに手をかける。",
+      "en": "I place my hand on the doorknob.",
+      "text": "I place my hand on the doorknob."
+    },
+    {
+      "offset": 459,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「む〜」",
+      "en": "\"Mmm...\"",
+      "text": "\"Mmm...\""
+    },
+    {
+      "offset": 474,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして音夢は包丁を見ながら｛うな／唸｝っていた。",
+      "en": "Nemu's growling looking at the kitchen knife.",
+      "text": "Nemu's growling looking at the kitchen knife."
+    },
+    {
+      "offset": 573,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「こんにちは音夢先輩♪」",
+      "en": "\"Hello, Nemu-sempai!\"",
+      "text": "\"Hello, Nemu-sempai!\""
+    },
+    {
+      "offset": 632,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、美春」",
+      "en": "\"Hi, Miharu!\"",
+      "text": "\"Hi, Miharu!\""
+    },
+    {
+      "offset": 651,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なにやってんだ音夢？」",
+      "en": "\"What were you doing?\"",
+      "text": "\"What were you doing?\""
+    },
+    {
+      "offset": 682,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なるべく、何気なく振舞う。",
+      "en": "I try to act casually.",
+      "text": "I try to act casually."
+    },
+    {
+      "offset": 743,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ちょっと料理の練習がてらに昼食のメニュー\n　を考えていたんですけど、なかなか決まらな\n　くて」",
+      "en": "\"I was thinking about the lunch menu for my cooking\npractice, but I still don't know what to make.\"",
+      "text": "\"I was thinking about the lunch menu for my cooking\npractice, but I still don't know what to make.\""
+    },
+    {
+      "offset": 844,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺にはどこの銀行に押し入るか考えているよう\nにしか見えなかったが。",
+      "en": "It actually looked as if she was going to rob a bank soon.",
+      "text": "It actually looked as if she was going to rob a bank soon."
+    },
+    {
+      "offset": 944,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「わ、音夢先輩の料理ですかぁ！？」",
+      "en": "\"Whoa, am I going to eat your cooking?!\"",
+      "text": "\"Whoa, am I going to eat your cooking?!\""
+    },
+    {
+      "offset": 985,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「まだ、懲りてないのか……」",
+      "en": "\"You haven't learned anything yet, huh.\"",
+      "text": "\"You haven't learned anything yet, huh.\""
+    },
+    {
+      "offset": 1048,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ふたりして、なによその反応は」",
+      "en": "\"You guys are so rude.\"",
+      "text": "\"You guys are so rude.\""
+    },
+    {
+      "offset": 1115,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「いや、音夢先輩の料理なんて、食材がもった\n　いないなぁ、と思っただけですよぉ♪」",
+      "en": "\"No, I thought your cooking is too good to use any\ningredients, that's all.\"",
+      "text": "\"No, I thought your cooking is too good to use any\ningredients, that's all.\""
+    },
+    {
+      "offset": 1212,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まったく、フォローの｛かけら／欠片｝にもならないような\n誤魔化しを残して美春がさがる。",
+      "en": "Miharu tries to defuse the situation, but it's not working.\nShe steps back.",
+      "text": "Miharu tries to defuse the situation, but it's not working.\nShe steps back."
+    },
+    {
+      "offset": 1316,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「大人しく調理器具３択に答えろ、音夢。正解\n　すると俺の好感度が上がるぞ」",
+      "en": "\"You have to pick one of these kitchen utensils. If you pick\nthe right one, I will give you more respect.\"",
+      "text": "\"You have to pick one of these kitchen utensils. If you pick\nthe right one, I will give you more respect.\""
+    },
+    {
+      "offset": 1429,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「は？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 1444,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「今日お前が使う器具は次のうち１点だけです。\n　１お湯、２電子レンジ、３出前」",
+      "en": "\"You use one of these things today. Number one is hot water,\nnumber two is a microwave oven, and number three is a\ndelivery service.\"",
+      "text": "\"You use one of these things today. Number one is hot water,\nnumber two is a microwave oven, and number three is a\ndelivery service.\""
+    },
+    {
+      "offset": 1556,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1603,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……遠まわしに喧嘩を売っていますか兄さ\n　ん？」",
+      "en": "\"You're trying to pick a fight, aren't you?\"",
+      "text": "\"You're trying to pick a fight, aren't you?\""
+    },
+    {
+      "offset": 1659,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "キラッ、と手の白刃が光る。",
+      "en": "The knife in her hand glitters.",
+      "text": "The knife in her hand glitters."
+    },
+    {
+      "offset": 1692,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1711,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや、手料理が楽しみだなぁ」",
+      "en": "\"Oh man, I can't wait for your homemade dish.\"",
+      "text": "\"Oh man, I can't wait for your homemade dish.\""
+    },
+    {
+      "offset": 1776,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ほほほほほ」",
+      "en": "\"Hahaha...\"",
+      "text": "\"Hahaha...\""
+    },
+    {
+      "offset": 1797,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あはははは」",
+      "en": "\"Ahahaha...\"",
+      "text": "\"Ahahaha...\""
+    },
+    {
+      "offset": 1831,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「にゃははは」",
+      "en": "\"Wahahaha...\"",
+      "text": "\"Wahahaha...\""
+    },
+    {
+      "offset": 1852,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「にゃ？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 1869,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "唐突に紛れ込んだ笑い声に振り返る。",
+      "en": "I turn around toward the unexpected voice.",
+      "text": "I turn around toward the unexpected voice."
+    },
+    {
+      "offset": 1950,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「よーほー」",
+      "en": "\"Yoo-hoo!\"",
+      "text": "\"Yoo-hoo!\""
+    },
+    {
+      "offset": 1969,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……どこから入りやがった？」",
+      "en": "\"How did you come inside?\"",
+      "text": "\"How did you come inside?\""
+    },
+    {
+      "offset": 2036,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「玄関から入ったよ〜。ちゃんと挨拶もした\n　よ〜。敷居も踏まなかったよ〜」",
+      "en": "\"I came in the front door and I gave you a greeting, too.\nPlus, I didn't step on the windowsill this time.\"",
+      "text": "\"I came in the front door and I gave you a greeting, too.\nPlus, I didn't step on the windowsill this time.\""
+    },
+    {
+      "offset": 2149,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あ、朝倉先輩達が立てこんでたときに玄関の\n　辺りで見かけたので、美春が応対しましたけ\n　ど」",
+      "en": "\"I saw her at the door, so I let her in while you guys were\nbusy with each other.\"",
+      "text": "\"I saw her at the door, so I let her in while you guys were\nbusy with each other.\""
+    },
+    {
+      "offset": 2248,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢から逃げているときに、なにをやってるん\nだ、このわんこは……。",
+      "en": "When I try to be away from Nemu, why do you do this, little\ndoggy?",
+      "text": "When I try to be away from Nemu, why do you do this, little\ndoggy?"
+    },
+    {
+      "offset": 2320,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ちゃんと家主に挨拶をしろ」",
+      "en": "\"Say hello properly to the owner of the house.\"",
+      "text": "\"Say hello properly to the owner of the house.\""
+    },
+    {
+      "offset": 2390,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「さっきしたよ」",
+      "en": "\"I already did.\"",
+      "text": "\"I already did.\""
+    },
+    {
+      "offset": 2413,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「いつ？　なにを？」",
+      "en": "\"When? What did you say?\"",
+      "text": "\"When? What did you say?\""
+    },
+    {
+      "offset": 2470,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「よーほー」",
+      "en": "\"Yoo-hoo!\"",
+      "text": "\"Yoo-hoo!\""
+    },
+    {
+      "offset": 2489,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2508,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……どこの部族のものだ貴様？」",
+      "en": "\"Which tribe do you belong to?\"",
+      "text": "\"Which tribe do you belong to?\""
+    },
+    {
+      "offset": 2577,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「まぁまぁ、ああやって、お代官様への献上品\n　も持ってきたりなんだり」",
+      "en": "\"Hey, chill out, because I brought some presents for you.\"",
+      "text": "\"Hey, chill out, because I brought some presents for you.\""
+    },
+    {
+      "offset": 2653,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、さくらが台所の鍋を示す。",
+      "en": "Sakura points at the pot in the kitchen.",
+      "text": "Sakura points at the pot in the kitchen."
+    },
+    {
+      "offset": 2688,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いつの間に？」",
+      "en": "\"When?\"",
+      "text": "\"When?\""
+    },
+    {
+      "offset": 2711,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "持ち上げると、醤油とみりんの混ざった香ばし\nい匂いがした。",
+      "en": "I hold it up, and it smells so good with soy sauce and sweet\ncooking wine.",
+      "text": "I hold it up, and it smells so good with soy sauce and sweet\ncooking wine."
+    },
+    {
+      "offset": 2775,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「和食」",
+      "en": "\"A Japanese recipe.\"",
+      "text": "\"A Japanese recipe.\""
+    },
+    {
+      "offset": 2823,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あ、煮物ですね」",
+      "en": "\"Yeah, it's cooked food.\"",
+      "text": "\"Yeah, it's cooked food.\""
+    },
+    {
+      "offset": 2848,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春が鼻をならして手を打ち合わせる。",
+      "en": "Miharu puts her hands together sniffing around.",
+      "text": "Miharu puts her hands together sniffing around."
+    },
+    {
+      "offset": 2891,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どうしたんだこれ？」",
+      "en": "\"How did you get this?\"",
+      "text": "\"How did you get this?\""
+    },
+    {
+      "offset": 2955,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「同じ長屋に住むもの同士、持ちつ持たれつ、\n　袖振り合うも他生の縁が日本の心だよ」",
+      "en": "\"It's like 'you scratch my back, and I'll scratch yours'.\nIt's a Japanese custom I keep as a row house dweller.\"",
+      "text": "\"It's like 'you scratch my back, and I'll scratch yours'.\nIt's a Japanese custom I keep as a row house dweller.\""
+    },
+    {
+      "offset": 3043,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「つまり、おすそ分けな」",
+      "en": "\"You mean sharing.\"",
+      "text": "\"You mean sharing.\""
+    },
+    {
+      "offset": 3074,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらの解説を５文字に要約してやる。",
+      "en": "I summarize what Sakura wants to say in two syllables.",
+      "text": "I summarize what Sakura wants to say in two syllables."
+    },
+    {
+      "offset": 3150,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3169,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「音夢」",
+      "en": "\"Nemu?\"",
+      "text": "\"Nemu?\""
+    },
+    {
+      "offset": 3212,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え……あぁ、気にしなくてもいいよ兄さん」",
+      "en": "\"Don't worry, brother.\"",
+      "text": "\"Don't worry, brother.\""
+    },
+    {
+      "offset": 3261,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "胸を押さえて音夢が困った笑顔を浮かべた。",
+      "en": "Nemu puts her hand to her chest with a puzzled expression.",
+      "text": "Nemu puts her hand to her chest with a puzzled expression."
+    },
+    {
+      "offset": 3336,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なんか最近おかしくて……さくらも兄さんも、\n　先週はごめんね」",
+      "en": "\"I've been acting weird recently. Sorry for what happened\nlast week, guys.\"",
+      "text": "\"I've been acting weird recently. Sorry for what happened\nlast week, guys.\""
+    },
+    {
+      "offset": 3441,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「え、にゃ？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 3462,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あれ？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 3479,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらと目配せする。",
+      "en": "I give a signal to Sakura with my eyes.",
+      "text": "I give a signal to Sakura with my eyes."
+    },
+    {
+      "offset": 3504,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "先週の――というと、例のキスの一件だろうが、\nあれを音夢自身が流そうというのか。",
+      "en": "Last week... which means a kiss. I can't believe Nemu will\nlet it go.",
+      "text": "Last week... which means a kiss. I can't believe Nemu will\nlet it go."
+    },
+    {
+      "offset": 3588,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "確かに、さきほどから感じていた音夢の気配が、\n胸元から消えてはいるが……。",
+      "en": "To be honest, I don't have the heart-wrenching feelings I\nused to have.",
+      "text": "To be honest, I don't have the heart-wrenching feelings I\nused to have."
+    },
+    {
+      "offset": 3701,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「どうしたの？」",
+      "en": "\"What happened?\"",
+      "text": "\"What happened?\""
+    },
+    {
+      "offset": 3757,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「どうしたもこうしたも、美春にはさっぱり話\n　が分かりませんけどね」",
+      "en": "\"Whatever it is, I have no idea what's going on here.\"",
+      "text": "\"Whatever it is, I have no idea what's going on here.\""
+    },
+    {
+      "offset": 3831,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いじけかけている美春を｛いちべつ／一瞥｝だけして、肩をす\nくめる。",
+      "en": "I shrug, looking at Miharu feeling sorry for herself.",
+      "text": "I shrug, looking at Miharu feeling sorry for herself."
+    },
+    {
+      "offset": 3903,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや、俺は別に気にしてないし……そもそも、\n　俺がさくらになんて……なぁ？」",
+      "en": "\"Well, I really don't care. Besides, I don't know why you\nsaid that about me and Sakura.\"",
+      "text": "\"Well, I really don't care. Besides, I don't know why you\nsaid that about me and Sakura.\""
+    },
+    {
+      "offset": 3987,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春がいるので言葉を濁したが、俺がさくらを\n好きだということはないと思うのだが。",
+      "en": "I'm speaking vaguely because Miharu is here. I don't think I\nlike Sakura like she thinks.",
+      "text": "I'm speaking vaguely because Miharu is here. I don't think I\nlike Sakura like she thinks."
+    },
+    {
+      "offset": 4071,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらを見ると、",
+      "en": "When I look at Sakura,",
+      "text": "When I look at Sakura,"
+    },
+    {
+      "offset": 4129,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「にへへへへ」",
+      "en": "\"Teehee...\"",
+      "text": "\"Teehee...\""
+    },
+    {
+      "offset": 4150,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こいつも困った笑みを浮かべるだけだ。",
+      "en": "She also gives a puzzling smile.",
+      "text": "She also gives a puzzling smile."
+    },
+    {
+      "offset": 4226,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ぽつ〜ん」",
+      "en": "\"Whew...\"",
+      "text": "\"Whew...\""
+    },
+    {
+      "offset": 4292,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「はいはい。お昼食べたら遊んであげるから。\n　さくらの持ってきてくれた煮物を頂きましょ\n　う」",
+      "en": "\"Okay, after finishing lunch, I'll play with you. So let's\neat the dish Sakura brought.\"",
+      "text": "\"Okay, after finishing lunch, I'll play with you. So let's\neat the dish Sakura brought.\""
+    },
+    {
+      "offset": 4419,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「わ〜い♪」",
+      "en": "\"Hoorah!\"",
+      "text": "\"Hoorah!\""
+    },
+    {
+      "offset": 4438,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ついていれば尻尾を振り回しそうな勢いで、美\n春が万歳する。",
+      "en": "Miharu jumps, with her arms up in the air and her tail\nwagging, if there was one.",
+      "text": "Miharu jumps, with her arms up in the air and her tail\nwagging, if there was one."
+    },
+    {
+      "offset": 4540,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……わんこだ」",
+      "en": "\"She's a doggy...\"",
+      "text": "\"She's a doggy...\""
+    },
+    {
+      "offset": 4563,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あ、だろ？」",
+      "en": "\"See?\"",
+      "text": "\"See?\""
+    },
+    {
+      "offset": 4596,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらに言いながら、鍋を火にかけようとコン\nロに戻す。",
+      "en": "I put the pot on the stove while talking to Sakura.",
+      "text": "I put the pot on the stove while talking to Sakura."
+    },
+    {
+      "offset": 4656,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「その前に米だけは炊かないと……」",
+      "en": "\"You'd better make sure the steamed rice is done.\"",
+      "text": "\"You'd better make sure the steamed rice is done.\""
+    },
+    {
+      "offset": 4697,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、続けて炊飯器に伸ばした手が止まった。",
+      "en": "I reached towards the rice cooker and stopped.",
+      "text": "I reached towards the rice cooker and stopped."
+    },
+    {
+      "offset": 4742,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "全自動炊飯器の液晶メニューが、後ちょっとで\n炊き上がるぞ〜、と明かりを灯していた。",
+      "en": "The sensor of the automatic rice cooker is on, saying it'll\nbe ready any second.",
+      "text": "The sensor of the automatic rice cooker is on, saying it'll\nbe ready any second."
+    },
+    {
+      "offset": 4830,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なー、おい音夢」",
+      "en": "\"Hey, Nemu...\"",
+      "text": "\"Hey, Nemu...\""
+    },
+    {
+      "offset": 4866,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なんです兄さん？」",
+      "en": "\"What's that, niisan?\"",
+      "text": "\"What's that, niisan?\""
+    },
+    {
+      "offset": 4893,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「お前、メニューが決まってないって米は炊い\n　てたのか？」",
+      "en": "\"You said you didn't know what to make, but I didn't know\nyou already started cooking rice.\"",
+      "text": "\"You said you didn't know what to make, but I didn't know\nyou already started cooking rice.\""
+    },
+    {
+      "offset": 4968,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え？　私じゃないよ〜」",
+      "en": "\"What? I didn't do it.\"",
+      "text": "\"What? I didn't do it.\""
+    },
+    {
+      "offset": 4999,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あれ？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 5016,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "居間を振り返るが、音夢はなにごともなかった\nかのように、美春と戯れている。",
+      "en": "I turn toward the living room where Nemu and Miharu are\nplaying happily as if nothing had happened.",
+      "text": "I turn toward the living room where Nemu and Miharu are\nplaying happily as if nothing had happened."
+    },
+    {
+      "offset": 5096,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「え、あれ？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 5117,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "朝に誰かが炊いていて保温になっているなら分\nかるが、今の段階で炊飯になっているのはなぜ\nだろう？",
+      "en": "I could understand it if somebody turned on the switch on\nthe rice cooker this morning, then the sensor tells you it's\nkeeping warm. But this case is different because it's still\nin the middle of cooking.",
+      "text": "I could understand it if somebody turned on the switch on\nthe rice cooker this morning, then the sensor tells you it's\nkeeping warm. But this case is different because it's still\nin the middle of cooking."
+    },
+    {
+      "offset": 5253,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……親切な泥棒さんじゃない？」",
+      "en": "\"It could be a very nice burglar, don't you think?\"",
+      "text": "\"It could be a very nice burglar, don't you think?\""
+    },
+    {
+      "offset": 5292,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「んなアホな」",
+      "en": "\"It can't be.\"",
+      "text": "\"It can't be.\""
+    },
+    {
+      "offset": 5313,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が腕組みしている前で、炊飯器がシュ〜っと\n煙を噴き出した。",
+      "en": "While I fold my arms, the rice cooker starts emitting steam.",
+      "text": "While I fold my arms, the rice cooker starts emitting steam."
+    },
+    {
+      "offset": 5481,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆かしまし３人娘◆",
+      "en": "◆Three girls chatting◆",
+      "text": "◆Three girls chatting◆"
+    },
+    {
+      "offset": 5532,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "家に帰ってくると、昼時とあって、音夢が料理\nの練習をしていた。",
+      "en": "When I came home with Miharu at lunchtime, Nemu was cooking\nfor practice.",
+      "text": "When I came home with Miharu at lunchtime, Nemu was cooking\nfor practice."
+    },
+    {
+      "offset": 5621,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なにげなく話しているうちに、家に遊びに来た\nさくらを混ぜて、４人で仲良く昼ご飯を食べる\nことになったのだ。",
+      "en": "While we were talking casually, Sakura came over and joined\nus, and it turned out to be a nice lunch with four of us\ntogether.",
+      "text": "While we were talking casually, Sakura came over and joined\nus, and it turned out to be a nice lunch with four of us\ntogether."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "235": "Miharu",
+    "315": "Miharu",
+    "451": "Nemu",
+    "565": "Miharu",
+    "624": "Nemu",
+    "735": "Nemu",
+    "936": "Miharu",
+    "1040": "Nemu",
+    "1107": "Miharu",
+    "1421": "Nemu",
+    "1548": "Nemu",
+    "1595": "Nemu",
+    "1768": "Nemu",
+    "1821": "Sakura",
+    "1940": "Sakura",
+    "2026": "Sakura",
+    "2141": "Miharu",
+    "2380": "Sakura",
+    "2460": "Sakura",
+    "2567": "Sakura",
+    "2815": "Miharu",
+    "2945": "Sakura",
+    "3142": "Nemu",
+    "3204": "Nemu",
+    "3328": "Nemu",
+    "3431": "Sakura",
+    "3693": "Nemu",
+    "3749": "Miharu",
+    "4119": "Sakura",
+    "4218": "Miharu",
+    "4284": "Nemu",
+    "4411": "Miharu",
+    "4530": "Sakura",
+    "4858": "Nemu",
+    "4960": "Nemu",
+    "5243": "Sakura"
+  }
+}

@@ -1,0 +1,973 @@
+{
+  "scene": "script_0126.obj",
+  "dialogues": [
+    {
+      "offset": 191,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 204,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 247,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（さて、起きるか）",
+      "en": "\"(Time to get up...)\"",
+      "text": "\"(Time to get up...)\""
+    },
+    {
+      "offset": 309,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おーい、音夢」",
+      "en": "\"Heeey, Nemu.\"",
+      "text": "\"Heeey, Nemu.\""
+    },
+    {
+      "offset": 332,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "姿が見えない。",
+      "en": "She's not in the living room.",
+      "text": "She's not in the living room."
+    },
+    {
+      "offset": 351,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もう先に行ったのか。",
+      "en": "She must've went on ahead.",
+      "text": "She must've went on ahead."
+    },
+    {
+      "offset": 376,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "わが妹ながら、朝の強さには感心する。",
+      "en": "My sister's a morning person by far, something to be\nadmired.",
+      "text": "My sister's a morning person by far, something to be\nadmired."
+    },
+    {
+      "offset": 417,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢が買ってきた菓子パンを食べ、学校へと向\nかう。",
+      "en": "I quickly stuffed down the sweetened bun Nemu had bought,\nand left for school.",
+      "text": "I quickly stuffed down the sweetened bun Nemu had bought,\nand left for school."
+    },
+    {
+      "offset": 518,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（ここはいつも綺麗だよな）",
+      "en": "\"(This place is as beautiful as ever.)\"",
+      "text": "\"(This place is as beautiful as ever.)\""
+    },
+    {
+      "offset": 551,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一年中桜が咲き誇る並木道。",
+      "en": "The year-round blooming of the Sakura petals danced as I\nwalked down the avenue.",
+      "text": "The year-round blooming of the Sakura petals danced as I\nwalked down the avenue."
+    },
+    {
+      "offset": 582,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自然の摂理には逆らっているのかもしれないが\nこれはこれで、綺麗だ。",
+      "en": "One of the few occurences of going against mother nature,\nit's a beautiful sight regardless.",
+      "text": "One of the few occurences of going against mother nature,\nit's a beautiful sight regardless."
+    },
+    {
+      "offset": 654,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（ま、たまに飽きることもあるのだが……）",
+      "en": "\"(Although too much of it will surely get tiresome...)\"",
+      "text": "\"(Although too much of it will surely get tiresome...)\""
+    },
+    {
+      "offset": 701,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その時の気分によって、綺麗だったり、花びら\nが邪魔だったり。",
+      "en": "And when that happens, the sakura petals will go from\nbeautiful to a nuisance in one fell swoop.",
+      "text": "And when that happens, the sakura petals will go from\nbeautiful to a nuisance in one fell swoop."
+    },
+    {
+      "offset": 765,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当、人間なんて勝手なものだ。",
+      "en": "Humans really are the most selfish of God's creatures.",
+      "text": "Humans really are the most selfish of God's creatures."
+    },
+    {
+      "offset": 802,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（と、いうより俺がわがままなのか？）",
+      "en": "\"(And I just called myself selfish apparently...)\"",
+      "text": "\"(And I just called myself selfish apparently...)\""
+    },
+    {
+      "offset": 845,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ま、桜には野郎よりも｛おなご／女子｝だな。",
+      "en": "Well, the Sakura petals would just be like a girl party to a\nselfish boyfriend.",
+      "text": "Well, the Sakura petals would just be like a girl party to a\nselfish boyfriend."
+    },
+    {
+      "offset": 892,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう思っていると、桜にぴったりな女子が前を\n歩いている。",
+      "en": "As I think that, the sakura petals scatter to reveal a girl\nwalking in front of me.",
+      "text": "As I think that, the sakura petals scatter to reveal a girl\nwalking in front of me."
+    },
+    {
+      "offset": 954,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おーい。環」",
+      "en": "\"Hey, Tamaki.\"",
+      "text": "\"Hey, Tamaki.\""
+    },
+    {
+      "offset": 975,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "声をかけると、環は長い髪をなびかせながら振\nり返る。",
+      "en": "Hearing my voice, Tamaki's long hair was swept around as she\nturned around to face me.",
+      "text": "Hearing my voice, Tamaki's long hair was swept around as she\nturned around to face me."
+    },
+    {
+      "offset": 1053,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一瞬、桜の花びらが環に合わせて回る。",
+      "en": "In an instant, the sakura petals twirled around Tamaki.",
+      "text": "In an instant, the sakura petals twirled around Tamaki."
+    },
+    {
+      "offset": 1094,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "風がすっと動いたような、そんな爽やかさが環\nから漂う。",
+      "en": "The wind continued gently blowing around Tamaki, making the\nscene look like a work of art.",
+      "text": "The wind continued gently blowing around Tamaki, making the\nscene look like a work of art."
+    },
+    {
+      "offset": 1180,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「あら、朝倉様。おはようございます」",
+      "en": "\"My, Asakura-sama. Good morning to you.\"",
+      "text": "\"My, Asakura-sama. Good morning to you.\""
+    },
+    {
+      "offset": 1223,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「おう」",
+      "en": "\"Ahh.\"",
+      "text": "\"Ahh.\""
+    },
+    {
+      "offset": 1247,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「今日も早いんですね？」",
+      "en": "\"You appear to be a bit early today?\"",
+      "text": "\"You appear to be a bit early today?\""
+    },
+    {
+      "offset": 1278,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「まあな」",
+      "en": "\"Sorta.\"",
+      "text": "\"Sorta.\""
+    },
+    {
+      "offset": 1295,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ところで、数学の宿題やった？」",
+      "en": "\"By the way, did you manage to do the homework for maths?\"",
+      "text": "\"By the way, did you manage to do the homework for maths?\""
+    },
+    {
+      "offset": 1360,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「はい、一応は埋めましたが……」",
+      "en": "\"Yes I have. For the time being, I have caught up with all\nmy homework...\"",
+      "text": "\"Yes I have. For the time being, I have caught up with all\nmy homework...\""
+    },
+    {
+      "offset": 1399,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ラッキー。",
+      "en": "Lucky!",
+      "text": "Lucky!"
+    },
+    {
+      "offset": 1414,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日は朝から縁起がいい。",
+      "en": "Today looks like a good day.",
+      "text": "Today looks like a good day."
+    },
+    {
+      "offset": 1445,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「マジで？　あのさ、よかったら見せてよ」",
+      "en": "\"Seriously? Mind letting me taking a look?\"",
+      "text": "\"Seriously? Mind letting me taking a look?\""
+    },
+    {
+      "offset": 1518,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「え？　あの私、数学はあまり得意では……」",
+      "en": "\"Eh? But I cannot say that mathematics is my forte...\"",
+      "text": "\"Eh? But I cannot say that mathematics is my forte...\""
+    },
+    {
+      "offset": 1567,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「いや、俺よりはマシだろう。頼む！」",
+      "en": "\"No, I'm okay with that. Please?\"",
+      "text": "\"No, I'm okay with that. Please?\""
+    },
+    {
+      "offset": 1610,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は両手を合わせて拝む。",
+      "en": "I clasp my hands together and plead.",
+      "text": "I clasp my hands together and plead."
+    },
+    {
+      "offset": 1667,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「……はあ」",
+      "en": "\"...Very well.\"",
+      "text": "\"...Very well.\""
+    },
+    {
+      "offset": 1686,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「じゃ、学校着いたらよろしく」",
+      "en": "\"Then let's go to class together.\"",
+      "text": "\"Then let's go to class together.\""
+    },
+    {
+      "offset": 1723,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、環と校門まで一緒に行こうとしたその時、",
+      "en": "Then, just as Tamaki and I were about to reach the school\ngates,",
+      "text": "Then, just as Tamaki and I were about to reach the school\ngates,"
+    },
+    {
+      "offset": 1787,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぐ〜。",
+      "en": "--*guu~*",
+      "text": "--*guu~*"
+    },
+    {
+      "offset": 1800,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（あれ？　何の音だ？）",
+      "en": "\"(Huh? What was that sound?)\"",
+      "text": "\"(Huh? What was that sound?)\""
+    },
+    {
+      "offset": 1846,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぎゅるるるる〜。",
+      "en": "--*gyurururu*",
+      "text": "--*gyurururu*"
+    },
+    {
+      "offset": 1867,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お腹の鳴る音……か？",
+      "en": "Sounds like... a rumbling stomach?",
+      "text": "Sounds like... a rumbling stomach?"
+    },
+    {
+      "offset": 1894,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（お、俺のじゃないよな）",
+      "en": "\"(Well, it's not mine.)\"",
+      "text": "\"(Well, it's not mine.)\""
+    },
+    {
+      "offset": 1925,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、なると……。",
+      "en": "Then it has to be...",
+      "text": "Then it has to be..."
+    },
+    {
+      "offset": 1963,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "隣を見ると、環が赤面して下を向いている。",
+      "en": "I look to my side at Tamaki, who was looking downwards, her\nface red.",
+      "text": "I look to my side at Tamaki, who was looking downwards, her\nface red."
+    },
+    {
+      "offset": 2010,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2038,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2057,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "（こういう時って、女の子にとってはきっと恥\n　ずかしいんだろうな）",
+      "en": "\"(These type of situations must be really embarassing for a\ngirl...)\"",
+      "text": "\"(These type of situations must be really embarassing for a\ngirl...)\""
+    },
+    {
+      "offset": 2129,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふーむ。",
+      "en": "Hmmm.",
+      "text": "Hmmm."
+    },
+    {
+      "offset": 2142,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は頭の中で栗饅頭をイメージする。",
+      "en": "I form a picture of a chestnut manjuu in my head.",
+      "text": "I form a picture of a chestnut manjuu in my head."
+    },
+    {
+      "offset": 2183,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（朝、菓子パン食ってきてよかった）",
+      "en": "\"(A sweet bun is usually good for the morning.)\"",
+      "text": "\"(A sweet bun is usually good for the morning.)\""
+    },
+    {
+      "offset": 2224,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この技はある程度カロリーが無いと辛いからな。",
+      "en": "That this technique takes up as much calories as you put in\nis painful for me.",
+      "text": "That this technique takes up as much calories as you put in\nis painful for me."
+    },
+    {
+      "offset": 2273,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "右手に栗饅頭が生み出される。",
+      "en": "I finally make a chestnut manjuu appear in my right hand.",
+      "text": "I finally make a chestnut manjuu appear in my right hand."
+    },
+    {
+      "offset": 2308,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「これ、よかったら……」",
+      "en": "\"Here, you can have this...\"",
+      "text": "\"Here, you can have this...\""
+    },
+    {
+      "offset": 2365,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「え？」",
+      "en": "\"Eh?\"",
+      "text": "\"Eh?\""
+    },
+    {
+      "offset": 2380,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は、俺の手に乗っている栗饅頭を、不思議そ\nうに眺める。",
+      "en": "Tamaki looked at the chestnut manjuu in my hand curiously.",
+      "text": "Tamaki looked at the chestnut manjuu in my hand curiously."
+    },
+    {
+      "offset": 2442,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「毒は入ってねえよ」",
+      "en": "\"Don't worry, it's not poison.\"",
+      "text": "\"Don't worry, it's not poison.\""
+    },
+    {
+      "offset": 2478,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「え……、でも、いいです」",
+      "en": "\"Eh... but is it really okay?\"",
+      "text": "\"Eh... but is it really okay?\""
+    },
+    {
+      "offset": 2511,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「遠慮するなって」",
+      "en": "\"Don't be so reserved.\"",
+      "text": "\"Don't be so reserved.\""
+    },
+    {
+      "offset": 2536,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、無理やり環に栗饅頭を渡した。",
+      "en": "I placed the bun in Tamaki's hand.",
+      "text": "I placed the bun in Tamaki's hand."
+    },
+    {
+      "offset": 2603,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「じゃあ、いただきます……」",
+      "en": "\"Well, then thank you..\"",
+      "text": "\"Well, then thank you..\""
+    },
+    {
+      "offset": 2638,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は、恥ずかしそうに俯きながらも、饅頭を口\nにする。",
+      "en": "Tamaki, still embarassedly looking downwards, took a bite\nout of the manjuu.",
+      "text": "Tamaki, still embarassedly looking downwards, took a bite\nout of the manjuu."
+    },
+    {
+      "offset": 2722,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「あ……」",
+      "en": "\"Ah...\"",
+      "text": "\"Ah...\""
+    },
+    {
+      "offset": 2739,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「どうだ、うまいだろ？」",
+      "en": "\"How is it? Good?\"",
+      "text": "\"How is it? Good?\""
+    },
+    {
+      "offset": 2796,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「おいしい」",
+      "en": "\"Very.\"",
+      "text": "\"Very.\""
+    },
+    {
+      "offset": 2815,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さっきまでの赤面した顔が、笑顔に変わる。",
+      "en": "The previously red face quickly changed to a smiling one.",
+      "text": "The previously red face quickly changed to a smiling one."
+    },
+    {
+      "offset": 2888,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「実は、今日寝坊してしまったんです」",
+      "en": "\"Actually, I slept later than I usually would today...\"",
+      "text": "\"Actually, I slept later than I usually would today...\""
+    },
+    {
+      "offset": 2957,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「でも、だからって朝のお勤めは休めませんか\n　ら……実は、ご飯を食べてなくて……」",
+      "en": "\"But I could not shirk from my morning duties at the\nshrine... so I had no choice but to skip breakfast...\"",
+      "text": "\"But I could not shirk from my morning duties at the\nshrine... so I had no choice but to skip breakfast...\""
+    },
+    {
+      "offset": 3045,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ふーん」",
+      "en": "\"I see.\"",
+      "text": "\"I see.\""
+    },
+    {
+      "offset": 3062,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "（環って、笑うとやっぱ、かわいいな）",
+      "en": "\"(When she's smiling, she's really cute.)\"",
+      "text": "\"(When she's smiling, she's really cute.)\""
+    },
+    {
+      "offset": 3105,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "上品な雰囲気もいいが、今日のように打ち解け\nた笑い方も良い。",
+      "en": "The atmosphere was lifted quite a bit. On a beautiful day\nlike today, it's much better to throw off one's reservations\nand smile.",
+      "text": "The atmosphere was lifted quite a bit. On a beautiful day\nlike today, it's much better to throw off one's reservations\nand smile."
+    },
+    {
+      "offset": 3169,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環の中の、自然な部分を引き出せた気がして、\nちょっとうれしい。",
+      "en": "That I managed to pull out the real Tamaki a bit more from\nher shell made me feel a little happy.",
+      "text": "That I managed to pull out the real Tamaki a bit more from\nher shell made me feel a little happy."
+    },
+    {
+      "offset": 3235,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環を見ると、既に栗饅頭はきれいに無くなって\nいた。",
+      "en": "I look back at Tamaki, to see that she'd already finished\nthe manjuu.",
+      "text": "I look back at Tamaki, to see that she'd already finished\nthe manjuu."
+    },
+    {
+      "offset": 3317,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ごちそうさまでした」",
+      "en": "\"Thank you very much for your treat.\"",
+      "text": "\"Thank you very much for your treat.\""
+    },
+    {
+      "offset": 3346,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と環は｛がっしょう／合掌｝した後、突然、俺の顔をまじまじと\n見つめる。",
+      "en": "Tamaki clasped her hands in thanks, then suddenly, started\nstaring intently at my face.",
+      "text": "Tamaki clasped her hands in thanks, then suddenly, started\nstaring intently at my face."
+    },
+    {
+      "offset": 3437,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何かを、訴えるような瞳……。",
+      "en": "As if she was trying to tell me something...",
+      "text": "As if she was trying to tell me something..."
+    },
+    {
+      "offset": 3470,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思いつめて今にも何かを語りだそうとしている。",
+      "en": "I stare back at her, trying to figure out what she's trying\nto say.",
+      "text": "I stare back at her, trying to figure out what she's trying\nto say."
+    },
+    {
+      "offset": 3521,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（な、なんだよ）",
+      "en": "\"(Wh, what's going on...)\"",
+      "text": "\"(Wh, what's going on...)\""
+    },
+    {
+      "offset": 3544,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなに見られたら、正直、照れる。",
+      "en": "Staring at her like that made me feel embarassed.",
+      "text": "Staring at her like that made me feel embarassed."
+    },
+    {
+      "offset": 3583,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "餅のような柔らかそうな頬や、形の良い鼻、ふっ\nくらとした唇をひとつひとつはっきり見ること\nができる。",
+      "en": "My eyes involuntarily moved one by one to her soft cheeks\nshaped like buns, her well-formed nose, and those tender\nlips.",
+      "text": "My eyes involuntarily moved one by one to her soft cheeks\nshaped like buns, her well-formed nose, and those tender\nlips."
+    },
+    {
+      "offset": 3686,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わず環の澄んだ瞳に引き込まれそうになる。",
+      "en": "Finally, her eyes then completely drew mine in.",
+      "text": "Finally, her eyes then completely drew mine in."
+    },
+    {
+      "offset": 3761,
+      "speaker": "Tmaki",
+      "speaker_jp": "環",
+      "jp": "「あ、あの、朝倉様……」",
+      "en": "\"Uh, uhm, Asakura-sama...\"",
+      "text": "\"Uh, uhm, Asakura-sama...\""
+    },
+    {
+      "offset": 3792,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環が、何か言おうとした、正にその時、",
+      "en": "Tamaki started to say something, then,",
+      "text": "Tamaki started to say something, then,"
+    },
+    {
+      "offset": 3881,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「おにいちゃーん」",
+      "en": "\"Onii-chaaan!\"",
+      "text": "\"Onii-chaaan!\""
+    },
+    {
+      "offset": 3906,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "肝心なところで邪魔が入る。",
+      "en": "The tension level suddenly dropped like a rock.",
+      "text": "The tension level suddenly dropped like a rock."
+    },
+    {
+      "offset": 3969,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「はにゃ？　何やってるの？」",
+      "en": "\"Hanya? What's going on?\"",
+      "text": "\"Hanya? What's going on?\""
+    },
+    {
+      "offset": 4004,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「いや、今、環に饅頭を……それより、何か言\n　いかけたよな？」",
+      "en": "\"Nothing, Tamaki was just... did you want to say something,\nTamaki?\"",
+      "text": "\"Nothing, Tamaki was just... did you want to say something,\nTamaki?\""
+    },
+    {
+      "offset": 4098,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「い、いえ、何でもありません……」",
+      "en": "\"N, no, nothing...\"",
+      "text": "\"N, no, nothing...\""
+    },
+    {
+      "offset": 4139,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は俺から急いで目を反らし、",
+      "en": "Tamaki hurriedly averted her eyes from my gaze.",
+      "text": "Tamaki hurriedly averted her eyes from my gaze."
+    },
+    {
+      "offset": 4183,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「あの、私はこれで」",
+      "en": "\"Uhm, I will move on ahead.\"",
+      "text": "\"Uhm, I will move on ahead.\""
+    },
+    {
+      "offset": 4210,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、その場を立ち去ろうとする。",
+      "en": "And just as she was about to leave,",
+      "text": "And just as she was about to leave,"
+    },
+    {
+      "offset": 4277,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あー！」",
+      "en": "\"Ahhhh~!\"",
+      "text": "\"Ahhhh~!\""
+    },
+    {
+      "offset": 4320,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「はい？」",
+      "en": "\"Yes?\"",
+      "text": "\"Yes?\""
+    },
+    {
+      "offset": 4367,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「噂の巫女さんだあ」",
+      "en": "\"You're that miko everyone's talking about!\"",
+      "text": "\"You're that miko everyone's talking about!\""
+    },
+    {
+      "offset": 4394,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらは人の良い笑顔を浮かべて、環に声をか\nける。",
+      "en": "Sakura called out to Tamaki, with a good-natured smile on\nher face.",
+      "text": "Sakura called out to Tamaki, with a good-natured smile on\nher face."
+    },
+    {
+      "offset": 4450,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おい、さくら……」",
+      "en": "\"Oy, Sakura...\"",
+      "text": "\"Oy, Sakura...\""
+    },
+    {
+      "offset": 4477,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いくらなんでも『噂の』はまずいだろう。",
+      "en": "I tried to stop her from bringing up the \"gossip\".",
+      "text": "I tried to stop her from bringing up the \"gossip\"."
+    },
+    {
+      "offset": 4520,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかしそんなことは一向にお構いなしである。",
+      "en": "But I was completely ignored, of course.",
+      "text": "But I was completely ignored, of course."
+    },
+    {
+      "offset": 4567,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ま、さくらなら当然の行動である。",
+      "en": "This was fairly normal behaviour for Sakura.",
+      "text": "This was fairly normal behaviour for Sakura."
+    },
+    {
+      "offset": 4636,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ねえねえボクも巫女さんの修行してみたい！\n　今度、神社に行ってもいい？」",
+      "en": "\"Hey, hey, I'm training to be a miko someday! Can I go to\nyour shrine sometime?\"",
+      "text": "\"Hey, hey, I'm training to be a miko someday! Can I go to\nyour shrine sometime?\""
+    },
+    {
+      "offset": 4742,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「え……修行はちょっと……」",
+      "en": "\"Uhm... training is a bit...\"",
+      "text": "\"Uhm... training is a bit...\""
+    },
+    {
+      "offset": 4807,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「いいでしょ？　いいでしょ？　いいでしょ？」",
+      "en": "\"Is it okay? Is it okay? Is it okay?!\"",
+      "text": "\"Is it okay? Is it okay? Is it okay?!\""
+    },
+    {
+      "offset": 4858,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらはずいずい、っと環の方に寄っている。",
+      "en": "Sakura started leaning on Tamaki, pleading.",
+      "text": "Sakura started leaning on Tamaki, pleading."
+    },
+    {
+      "offset": 4905,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は完全にさくらのペースに引き込まれている。",
+      "en": "Tamaki was completely won over by Sakura's energy.",
+      "text": "Tamaki was completely won over by Sakura's energy."
+    },
+    {
+      "offset": 4965,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「……別に、神社に来てもらうのは構わないで\n　すけど」",
+      "en": "\"...Well, I do not see any problems if you were to come to\nthe shrine...\"",
+      "text": "\"...Well, I do not see any problems if you were to come to\nthe shrine...\""
+    },
+    {
+      "offset": 5055,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「やった！！　本当に？　お兄ちゃんも今度一\n　緒に行こう」",
+      "en": "\"Yeah!! Really?! Onii-chan will go with me too, right?!\"",
+      "text": "\"Yeah!! Really?! Onii-chan will go with me too, right?!\""
+    },
+    {
+      "offset": 5119,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あ、ああ……」",
+      "en": "\"A, ahhhhh...\"",
+      "text": "\"A, ahhhhh...\""
+    },
+    {
+      "offset": 5142,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "願いが叶って大喜びのさくらに、適当に｛あいづち／相槌｝を\n打つ。",
+      "en": "Having her wish just come true, I couldn't do much to spoil\nher mood and just became her yes-man.",
+      "text": "Having her wish just come true, I couldn't do much to spoil\nher mood and just became her yes-man."
+    },
+    {
+      "offset": 5238,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「では、私はこれで失礼します」",
+      "en": "\"In any case, please excuse me.\"",
+      "text": "\"In any case, please excuse me.\""
+    },
+    {
+      "offset": 5284,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環はその場を去り、先に学校へと入っていく。",
+      "en": "Tamaki then left for school ahead of us.",
+      "text": "Tamaki then left for school ahead of us."
+    },
+    {
+      "offset": 5363,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「はにゃ。お急ぎみたいだね。それとも、ボク\n　何か悪いことしたかな？」",
+      "en": "\"Hanya. She really rushed off. Did I say something bad?\"",
+      "text": "\"Hanya. She really rushed off. Did I say something bad?\""
+    },
+    {
+      "offset": 5439,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ま、大丈夫だろ」",
+      "en": "\"Nah, it's alright.\"",
+      "text": "\"Nah, it's alright.\""
+    },
+    {
+      "offset": 5464,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環がさっき言おうとしたことは、一体何だった\nのだろう。",
+      "en": "Although now I really wonder what Tamaki was trying to say\nearlier.",
+      "text": "Although now I really wonder what Tamaki was trying to say\nearlier."
+    },
+    {
+      "offset": 5522,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 5537,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ま、いっか。",
+      "en": "Well, whatever.",
+      "text": "Well, whatever."
+    },
+    {
+      "offset": 5687,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆お腹の音と栗饅頭◆",
+      "en": "◆The rumbling stomach and the chestnut manjuu◆",
+      "text": "◆The rumbling stomach and the chestnut manjuu◆"
+    },
+    {
+      "offset": 5744,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "朝、桜並木で環と会うと、環のお腹の音を聞い\nてしまう。",
+      "en": "In the morning, I met Tamaki on the Sakura Avenue, and heard\nher stomach rumbling.",
+      "text": "In the morning, I met Tamaki on the Sakura Avenue, and heard\nher stomach rumbling."
+    },
+    {
+      "offset": 5802,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環に栗饅頭を出してやると、おいしいと自然な\n笑いを見せる。",
+      "en": "I produced a chestnut manjuu for her to eat, and her\nspontaneous smile and claim of deliciousness was more than\nenough thanks.",
+      "text": "I produced a chestnut manjuu for her to eat, and her\nspontaneous smile and claim of deliciousness was more than\nenough thanks."
+    },
+    {
+      "offset": 5864,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺に何かを言おうとしたが、さくらが来ると、\nさっさと先に学校へ行ってしまう。",
+      "en": "She was about to say something to me, but Sakura interrupted\nthe moment, and Tamaki left ahead towards school quickly.",
+      "text": "She was about to say something to me, but Sakura interrupted\nthe moment, and Tamaki left ahead towards school quickly."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "1174": "Tamaki",
+    "1241": "Tamaki",
+    "1354": "Tamaki",
+    "1512": "Tamaki",
+    "1661": "Tamaki",
+    "2032": "Tamaki",
+    "2359": "Tamaki",
+    "2472": "Tamaki",
+    "2597": "Tamaki",
+    "2716": "Tamaki",
+    "2790": "Tamaki",
+    "2882": "Tamaki",
+    "2951": "Tamaki",
+    "3311": "Tamaki",
+    "3755": "Tmaki",
+    "3871": "Sakura",
+    "3959": "Sakura",
+    "4092": "Tamaki",
+    "4177": "Tamaki",
+    "4267": "Sakura",
+    "4314": "Tamaki",
+    "4357": "Sakura",
+    "4626": "Sakura",
+    "4736": "Tamaki",
+    "4797": "Sakura",
+    "4959": "Tamaki",
+    "5045": "Sakura",
+    "5232": "Tamaki",
+    "5353": "Sakura"
+  }
+}

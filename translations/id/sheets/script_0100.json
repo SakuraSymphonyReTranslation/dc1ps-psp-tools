@@ -1,0 +1,986 @@
+{
+  "scene": "script_0100.obj",
+  "dialogues": [
+    {
+      "offset": 196,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あ、こんにちは朝倉くん」",
+      "en": "\"Oh, hello, Asakura-kun.\"",
+      "text": "\"Oh, hello, Asakura-kun.\""
+    },
+    {
+      "offset": 229,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "屋上の扉を開けると、丁度、萌先輩がコンロに\n火を点けているところだった。",
+      "en": "When I opened the door to the roof top, Moe-sempai was\nthere, turning the stove on.",
+      "text": "When I opened the door to the roof top, Moe-sempai was\nthere, turning the stove on."
+    },
+    {
+      "offset": 335,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あんたも来るなら来るで、もっと早く来なさ\n　いよね。テーブル組み立てちゃったじゃない」",
+      "en": "\"Hey, Asakura, if you're coming, you have to get here\nearlier. We've finished setting up the table already!\"",
+      "text": "\"Hey, Asakura, if you're coming, you have to get here\nearlier. We've finished setting up the table already!\""
+    },
+    {
+      "offset": 429,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 448,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こいつは、全部俺に押しつける気でいやがる。",
+      "en": "She's trying to force everything on me.",
+      "text": "She's trying to force everything on me."
+    },
+    {
+      "offset": 523,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あの、もう少し待ってもらえますか？　これ\n　から具を入れますから」",
+      "en": "\"Can you wait for a little bit? I'm going to put some\ningredients in now.\"",
+      "text": "\"Can you wait for a little bit? I'm going to put some\ningredients in now.\""
+    },
+    {
+      "offset": 597,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言って、萌先輩がクーラーボックスの留め\n金を外す。",
+      "en": "Moe spoke and unlocked the cooler box.",
+      "text": "Moe spoke and unlocked the cooler box."
+    },
+    {
+      "offset": 657,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんか、材料が違いますね？」",
+      "en": "\"The ingredients look different today.\"",
+      "text": "\"The ingredients look different today.\""
+    },
+    {
+      "offset": 703,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「南蛮鍋をしようかと思ってるんです」",
+      "en": "\"We're trying Nanban hot pot today.\"",
+      "text": "\"We're trying Nanban hot pot today.\""
+    },
+    {
+      "offset": 746,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「南蛮？」",
+      "en": "\"Nanban?\"",
+      "text": "\"Nanban?\""
+    },
+    {
+      "offset": 789,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい、｛かも／鴨｝を入れるんですよ」",
+      "en": "\"Yes. We're going to use duck meat.\"",
+      "text": "\"Yes. We're going to use duck meat.\""
+    },
+    {
+      "offset": 834,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「鴨？　はぁ、そりゃ凄いな」",
+      "en": "\"Duck? That's pretty amazing.\"",
+      "text": "\"Duck? That's pretty amazing.\""
+    },
+    {
+      "offset": 897,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「鴨って美味しいよね。あたしすっごく好き」",
+      "en": "\"Ducks are delicious. I love them.\"",
+      "text": "\"Ducks are delicious. I love them.\""
+    },
+    {
+      "offset": 946,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子が滅多に見せない、｛ほころ／綻｝んだ笑顔を見せる。",
+      "en": "Mako spoke with a big smile, which was rare for her.",
+      "text": "Mako spoke with a big smile, which was rare for her."
+    },
+    {
+      "offset": 1007,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんだか、よく食べてる言い方だが……」",
+      "en": "\"It sounds like you eat duck often......\"",
+      "text": "\"It sounds like you eat duck often......\""
+    },
+    {
+      "offset": 1054,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鴨って高いんじゃないか？",
+      "en": "I thought ducks were expensive.",
+      "text": "I thought ducks were expensive."
+    },
+    {
+      "offset": 1083,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もしかして、こいつ……お嬢？",
+      "en": "Are they...... rich girls?",
+      "text": "Are they...... rich girls?"
+    },
+    {
+      "offset": 1144,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「じゃあ、そろそろ始めましょう」",
+      "en": "\"Shall we start now?\"",
+      "text": "\"Shall we start now?\""
+    },
+    {
+      "offset": 1183,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩が、張り切ってクーラーボックスの｛ふた／蓋｝を\nカパッと開ける。",
+      "en": "Moe opened up the lid of the cooler box.",
+      "text": "Moe opened up the lid of the cooler box."
+    },
+    {
+      "offset": 1287,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1332,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1351,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1404,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 1438,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「空っぽ？」",
+      "en": "\"It's empty......\"",
+      "text": "\"It's empty......\""
+    },
+    {
+      "offset": 1457,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "クーラーボックスの中は、もぬけの殻だった。",
+      "en": "There was nothing inside of the cooler box.",
+      "text": "There was nothing inside of the cooler box."
+    },
+    {
+      "offset": 1537,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「ごめんなさい……今朝は慌ててたものですか\n　ら、材料入れ忘れてしまったみたいです……」",
+      "en": "\"I'm sorry...... I was in a hurry this morning, and I guess\nI forgot to pack the ingredients......\"",
+      "text": "\"I'm sorry...... I was in a hurry this morning, and I guess\nI forgot to pack the ingredients......\""
+    },
+    {
+      "offset": 1631,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……マジっすか？",
+      "en": "......Is she serious?",
+      "text": "......Is she serious?"
+    },
+    {
+      "offset": 1698,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「もうっ、お姉ちゃんったら！　なんてことし\n　てくれるのよ！」",
+      "en": "\"Hey, oneechan! What are you doing?\"",
+      "text": "\"Hey, oneechan! What are you doing?\""
+    },
+    {
+      "offset": 1766,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "食べ物の恨みは怖いと言うが……それをひとり\nで立証するがのごとく、眞子が憤激する。",
+      "en": "A grudge match over food is scary...... Mako started going\noff on Moe-sempai.",
+      "text": "A grudge match over food is scary...... Mako started going\noff on Moe-sempai."
+    },
+    {
+      "offset": 1880,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「ごめんなさい……ごめんなさい……」",
+      "en": "\"I'm sorry...... I'm sorry......\"",
+      "text": "\"I'm sorry...... I'm sorry......\""
+    },
+    {
+      "offset": 1923,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩は俺と眞子に対し、交互に頭をペコペコ\nと下げ続ける。",
+      "en": "Moe-sempai bowed at Mako and me and apologized.",
+      "text": "Moe-sempai bowed at Mako and me and apologized."
+    },
+    {
+      "offset": 2015,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あたしの……鴨が……」",
+      "en": "\"My duck......\"",
+      "text": "\"My duck......\""
+    },
+    {
+      "offset": 2046,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「いや、お前の鴨じゃないと思うがな」",
+      "en": "\"It's not exactly your duck.\"",
+      "text": "\"It's not exactly your duck.\""
+    },
+    {
+      "offset": 2089,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "軽口を叩きつつも、眞子の落ち込みようにちと\n同情してしまう。",
+      "en": "However, I did feel her pain.",
+      "text": "However, I did feel her pain."
+    },
+    {
+      "offset": 2153,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まるで、砂漠を｛さまよ／彷徨｝う旅人が、自分の目指して\nいたオアシスが、幻であったことに気づいた時\nのようだ。",
+      "en": "It was as if a lost traveler in the desert found out that\nthe oasis he was heading towards was only a mirage.",
+      "text": "It was as if a lost traveler in the desert found out that\nthe oasis he was heading towards was only a mirage."
+    },
+    {
+      "offset": 2296,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「とにかく、お昼を確保しなくちゃ……朝倉」",
+      "en": "\"Anyway, we have to get something for lunch...... Asakura.\"",
+      "text": "\"Anyway, we have to get something for lunch...... Asakura.\""
+    },
+    {
+      "offset": 2345,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「なんだよ」",
+      "en": "\"What is it?\"",
+      "text": "\"What is it?\""
+    },
+    {
+      "offset": 2364,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだか、むちゃくちゃかったるくなりそうな、\nそんな予感がする。",
+      "en": "I sense something troublesome......",
+      "text": "I sense something troublesome......"
+    },
+    {
+      "offset": 2432,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ペコペコ",
+      "en": "Moe continued to bow.",
+      "text": "Moe continued to bow."
+    },
+    {
+      "offset": 2475,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あたしたちのお昼、購買で買ってきて」",
+      "en": "\"Could you go buy our lunch from the school store?\"",
+      "text": "\"Could you go buy our lunch from the school store?\""
+    },
+    {
+      "offset": 2520,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「やっぱり……」",
+      "en": "\"I knew it......\"",
+      "text": "\"I knew it......\""
+    },
+    {
+      "offset": 2543,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ペコペコ",
+      "en": "She bowed at me again.",
+      "text": "She bowed at me again."
+    },
+    {
+      "offset": 2558,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なぜ俺が？」",
+      "en": "\"Why me?\"",
+      "text": "\"Why me?\""
+    },
+    {
+      "offset": 2607,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「男だから」",
+      "en": "\"Because you're the man.\"",
+      "text": "\"Because you're the man.\""
+    },
+    {
+      "offset": 2626,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ペコペコ",
+      "en": "Another bow.",
+      "text": "Another bow."
+    },
+    {
+      "offset": 2641,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「じゃあ、お前が行け」",
+      "en": "\"Then you should go.\"",
+      "text": "\"Then you should go.\""
+    },
+    {
+      "offset": 2698,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「じゃあって、何よ、じゃあって！」",
+      "en": "\"What do you mean by that?\"",
+      "text": "\"What do you mean by that?\""
+    },
+    {
+      "offset": 2739,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ペコペコ",
+      "en": "She's still bowing.",
+      "text": "She's still bowing."
+    },
+    {
+      "offset": 2782,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ほら！　早くしないと、｛・・・・・／あたしたち｝のお昼が\n　なくなっちゃうでしょ！」",
+      "en": "\"Move! Hurry up, or our lunch will be gone!\"",
+      "text": "\"Move! Hurry up, or our lunch will be gone!\""
+    },
+    {
+      "offset": 2874,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ったく、しゃーねぇーなー」",
+      "en": "\"Good grief...\"",
+      "text": "\"Good grief...\""
+    },
+    {
+      "offset": 2909,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ここでは立場的に俺の分が悪い。",
+      "en": "I guess I'm in a weaker position here.",
+      "text": "I guess I'm in a weaker position here."
+    },
+    {
+      "offset": 2974,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あたし、アンパンとクリームパンね」",
+      "en": "\"I want a bean paste bun and a cream bun.\"",
+      "text": "\"I want a bean paste bun and a cream bun.\""
+    },
+    {
+      "offset": 3017,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「了解」",
+      "en": "\"All right.\"",
+      "text": "\"All right.\""
+    },
+    {
+      "offset": 3058,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「ごめんなさい……ごめんなさい……」",
+      "en": "\"I'm sorry...... I'm sorry......\"",
+      "text": "\"I'm sorry...... I'm sorry......\""
+    },
+    {
+      "offset": 3101,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ペコペコ",
+      "en": "Bow, bow.",
+      "text": "Bow, bow."
+    },
+    {
+      "offset": 3116,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3135,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「萌先輩は何がいいですか？」",
+      "en": "\"What would you like to eat, Moe-sempai?\"",
+      "text": "\"What would you like to eat, Moe-sempai?\""
+    },
+    {
+      "offset": 3170,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "先ほどから、頭を下げつづけていることには、\n気づいていたが、いまいち、ツッコミどころが\nなかったのだ。",
+      "en": "I noticed that she's been bowing for the last few minutes,\nbut I had nothing to say about it.",
+      "text": "I noticed that she's been bowing for the last few minutes,\nbut I had nothing to say about it."
+    },
+    {
+      "offset": 3303,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「え、あの……では、どら焼きをお願いします」",
+      "en": "\"What? ......Well, then I'll have some bean paste waffles.\"",
+      "text": "\"What? ......Well, then I'll have some bean paste waffles.\""
+    },
+    {
+      "offset": 3354,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「他には？」",
+      "en": "\"Anything else?\"",
+      "text": "\"Anything else?\""
+    },
+    {
+      "offset": 3382,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「いえ、どら焼きだけでいいです。どら焼きを\n　３つ、お願いします」",
+      "en": "\"No thank you. I'll just have 3 bean paste waffles.\"",
+      "text": "\"No thank you. I'll just have 3 bean paste waffles.\""
+    },
+    {
+      "offset": 3454,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「３つ！？」",
+      "en": "\"You want 3?\"",
+      "text": "\"You want 3?\""
+    },
+    {
+      "offset": 3482,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 3497,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": "............",
+      "text": "............"
+    },
+    {
+      "offset": 3512,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あなたはキャット型ロボットですか？",
+      "en": "She sounds like a character from a famous animation...",
+      "text": "She sounds like a character from a famous animation..."
+    },
+    {
+      "offset": 3579,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あ、あと牛乳もお願いします。餡子と牛乳っ\n　てとっても合うんですよ」",
+      "en": "\"Oh, and can you get some milk too? Bean paste and milk go\nwell together.\"",
+      "text": "\"Oh, and can you get some milk too? Bean paste and milk go\nwell together.\""
+    },
+    {
+      "offset": 3655,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ニッコリ微笑む嬉しそうな笑顔。本当に好きみ\nたいだ。",
+      "en": "She made a big smile as she spoke. I guess she really likes\nit.",
+      "text": "She made a big smile as she spoke. I guess she really likes\nit."
+    },
+    {
+      "offset": 3713,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……了解」",
+      "en": "\"......Okay.\"",
+      "text": "\"......Okay.\""
+    },
+    {
+      "offset": 3744,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "オーダーを聞き終えると、ふたりに背を向け、\n急いで校舎内に向かう。",
+      "en": "As soon as I got their orders, I turned back and hurried to\nthe store.",
+      "text": "As soon as I got their orders, I turned back and hurried to\nthe store."
+    },
+    {
+      "offset": 3826,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "屋上の扉を開け、階段を駆け下りる。",
+      "en": "I opened the door and went down the stairs.",
+      "text": "I opened the door and went down the stairs."
+    },
+    {
+      "offset": 3888,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そうやって、一応、急いではみたものの……。",
+      "en": "I did my best to hurry......",
+      "text": "I did my best to hurry......"
+    },
+    {
+      "offset": 3935,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "予想通りというか、どら焼きとか鴨だとか騒い\nでいるうちに、購買のパンは売り切れていた。",
+      "en": "However by the time I got there, all the food in the store\nwas sold out.",
+      "text": "However by the time I got there, all the food in the store\nwas sold out."
+    },
+    {
+      "offset": 4027,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まいったな……今日は昼抜きかぁ」",
+      "en": "\"Man...... we have to starve without lunch today?\"",
+      "text": "\"Man...... we have to starve without lunch today?\""
+    },
+    {
+      "offset": 4068,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はいいとしても、また萌先輩はペコペコする\nのだろう。そして俺は眞子の鉄拳制裁を食らい、\nコンクリートの床にキッス……。",
+      "en": "I can take it, but it's going to make Moe-sempai feel\nguiltier. Mako might knock me out and I'll end up kissing\nthe floor.",
+      "text": "I can take it, but it's going to make Moe-sempai feel\nguiltier. Mako might knock me out and I'll end up kissing\nthe floor."
+    },
+    {
+      "offset": 4193,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 4212,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "うーむ。",
+      "en": "Hmm.......",
+      "text": "Hmm......."
+    },
+    {
+      "offset": 4225,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 4240,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「しゃあない」",
+      "en": "\"I have no choice.\"",
+      "text": "\"I have no choice.\""
+    },
+    {
+      "offset": 4261,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お腹と背中がくっつきそう……と言うか、背に\n腹はかえられないと言うのか。",
+      "en": "I was starving, and I had to do something.",
+      "text": "I was starving, and I had to do something."
+    },
+    {
+      "offset": 4337,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は購買のおばちゃんに袋をもらうと、人気の\nないところで手を握る。",
+      "en": "I got an empty bag from the store, and went to a quiet area.\nThen I held my hands.",
+      "text": "I got an empty bag from the store, and went to a quiet area.\nThen I held my hands."
+    },
+    {
+      "offset": 4409,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふぅ……」",
+      "en": "\"Huh......\"",
+      "text": "\"Huh......\""
+    },
+    {
+      "offset": 4428,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目を｛つむ／瞑｝り、イメージを膨らませると、徐々に手\nの中に確かな感覚が広がっていく。",
+      "en": "As I closed my eyes, and imagined, I felt a sensation in my\nhands.",
+      "text": "As I closed my eyes, and imagined, I felt a sensation in my\nhands."
+    },
+    {
+      "offset": 4518,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――ポンポン",
+      "en": "Something appeared.",
+      "text": "Something appeared."
+    },
+    {
+      "offset": 4535,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "次第に袋の重さが増し、比例するように俺の空\n腹感が増す。",
+      "en": "Eventually, the bag started to get heavy, and I was getting\nhungrier.",
+      "text": "Eventually, the bag started to get heavy, and I was getting\nhungrier."
+    },
+    {
+      "offset": 4595,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目を開けると、八橋、大福、、饅頭、どら焼き、\nなどなどの和菓子が、袋に２０個ぐらい詰まっ\nていた。",
+      "en": "When I opened my eyes, there were roughly 20 different\nJapanese sweets in the bag, like bean paste waffles, bean\npaste crepes, bean and rice cakes, and rice cake balls.",
+      "text": "When I opened my eyes, there were roughly 20 different\nJapanese sweets in the bag, like bean paste waffles, bean\npaste crepes, bean and rice cakes, and rice cake balls."
+    },
+    {
+      "offset": 4698,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ま、こんなもんだろう」",
+      "en": "\"This should do it.\"",
+      "text": "\"This should do it.\""
+    },
+    {
+      "offset": 4729,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "空腹のところに、さらに和菓子を作るためのカ\nロリーを消費したもんだから、少し｛めまい／眩暈｝がする。",
+      "en": "I felt dizzy from burning my calories to make these sweets\nwhen I'm starving.",
+      "text": "I felt dizzy from burning my calories to make these sweets\nwhen I'm starving."
+    },
+    {
+      "offset": 4833,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は袋から手を抜くと、ふらつく足をひきずっ\nて屋上に戻ることにした。",
+      "en": "I hung the bag over my shoulder and dragged myself back to\nthe roof top.",
+      "text": "I hung the bag over my shoulder and dragged myself back to\nthe roof top."
+    },
+    {
+      "offset": 4983,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「おそいっ――て、なによそれ？」",
+      "en": "\"You're late! What are they?\"",
+      "text": "\"You're late! What are they?\""
+    },
+    {
+      "offset": 5022,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "怒鳴りかけていた眞子が、透明な袋の中を見て\n驚く。",
+      "en": "Mako looked inside of the bag and asked with a surprised\nvoice.",
+      "text": "Mako looked inside of the bag and asked with a surprised\nvoice."
+    },
+    {
+      "offset": 5104,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「和菓子……ですか？」",
+      "en": "\"Japanese sweets......?\"",
+      "text": "\"Japanese sweets......?\""
+    },
+    {
+      "offset": 5133,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「ええ、パンは売り切れてたんで」",
+      "en": "\"Yes. All the buns were sold out.\"",
+      "text": "\"Yes. All the buns were sold out.\""
+    },
+    {
+      "offset": 5200,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「こんなのどっから買ってきた――ようには、\n　見えないわね」",
+      "en": "\"It doesn't look like you bought these from the store......\"",
+      "text": "\"It doesn't look like you bought these from the store......\""
+    },
+    {
+      "offset": 5266,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の創り出す和菓子は、包装されていないから、\n色んなものが、ごちゃ混ぜに入っている。",
+      "en": "The sweets I make aren't wrapped. They're always mixed up.",
+      "text": "The sweets I make aren't wrapped. They're always mixed up."
+    },
+    {
+      "offset": 5367,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「もしかして……毒入り？」",
+      "en": "\"Are these poisonous?\"",
+      "text": "\"Are these poisonous?\""
+    },
+    {
+      "offset": 5400,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「んなわけねーだろうが」",
+      "en": "\"No way!\"",
+      "text": "\"No way!\""
+    },
+    {
+      "offset": 5459,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「まあいいか。背に腹はかえられないし」",
+      "en": "\"Oh well, I guess we'll just have these.\"",
+      "text": "\"Oh well, I guess we'll just have these.\""
+    },
+    {
+      "offset": 5504,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "袋の中に手を突っ込んで、眞子が、はむっと大\n福を口に含む。",
+      "en": "Mako stuck her hand in the bag, and put a bean rice cake bun\ninto her mouth.",
+      "text": "Mako stuck her hand in the bag, and put a bean rice cake bun\ninto her mouth."
+    },
+    {
+      "offset": 5566,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……マジで毒が入ってたらどうするんだ？",
+      "en": "......What would she do if it was really poisonous?",
+      "text": "......What would she do if it was really poisonous?"
+    },
+    {
+      "offset": 5611,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ、萌先輩もどうぞ。頼まれてたどら焼きは\n　確保できましたんで」",
+      "en": "\"Please have some, Moe-sempai. I did get your bean paste\nwaffles.\"",
+      "text": "\"Please have some, Moe-sempai. I did get your bean paste\nwaffles.\""
+    },
+    {
+      "offset": 5709,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい、ありがとうございます」",
+      "en": "\"Okay, thank you very much.\"",
+      "text": "\"Okay, thank you very much.\""
+    },
+    {
+      "offset": 5746,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "袋の中にごそごそと手を入れ、萌先輩がどら焼\nきを手にする。",
+      "en": "She put her hand inside of the bag and got the bean paste\nwaffle out.",
+      "text": "She put her hand inside of the bag and got the bean paste\nwaffle out."
+    },
+    {
+      "offset": 5836,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「おいしいです」",
+      "en": "\"It's very good.\"",
+      "text": "\"It's very good.\""
+    },
+    {
+      "offset": 5859,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「それはよかったです」",
+      "en": "\"I'm glad you like it.\"",
+      "text": "\"I'm glad you like it.\""
+    },
+    {
+      "offset": 5914,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「どうもありがとうございました」",
+      "en": "\"Thank you so much.\"",
+      "text": "\"Thank you so much.\""
+    },
+    {
+      "offset": 5953,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「え？　なにがです？」",
+      "en": "\"For what?\"",
+      "text": "\"For what?\""
+    },
+    {
+      "offset": 5991,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「朝倉くんがいてくれなかったら、お昼を食べ\n　られないところでした」",
+      "en": "\"If you weren't here, we were going to starve.\"",
+      "text": "\"If you weren't here, we were going to starve.\""
+    },
+    {
+      "offset": 6065,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ペコリと頭が下げられる。",
+      "en": "She bowed at me.",
+      "text": "She bowed at me."
+    },
+    {
+      "offset": 6096,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ、いや、いいですよ、別にそんなの。ミス\n　なんて誰にでもあることだし」",
+      "en": "\"Oh, you don't have to feel that way. Everybody makes\nmistakes.\"",
+      "text": "\"Oh, you don't have to feel that way. Everybody makes\nmistakes.\""
+    },
+    {
+      "offset": 6176,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当にありがたがられることなんてないのに、\n萌先輩はゆっくりと首を横に振って微笑む。",
+      "en": "She slowly shook her head and smiled softly.",
+      "text": "She slowly shook her head and smiled softly."
+    },
+    {
+      "offset": 6292,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「ほんとうに、ありがとうございました♪」",
+      "en": "\"Thank you very much.\"",
+      "text": "\"Thank you very much.\""
+    },
+    {
+      "offset": 6339,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あ……はい」",
+      "en": "\"Oh...... you're welcome.\"",
+      "text": "\"Oh...... you're welcome.\""
+    },
+    {
+      "offset": 6360,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "買い出しは面倒だし、腹は減ったが、萌先輩の\nこんな笑顔がご褒美なら、それもいいかな。",
+      "en": "I went through some drama and I'm starving, but I guess\neverything's all right now that I got to see her pretty\nsmile.",
+      "text": "I went through some drama and I'm starving, but I guess\neverything's all right now that I got to see her pretty\nsmile."
+    },
+    {
+      "offset": 6448,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんて、ついつい、青い空を見上げながら思っ\nてしまった。",
+      "en": "I thought that while I looked up at the blue sky.",
+      "text": "I thought that while I looked up at the blue sky."
+    },
+    {
+      "offset": 6637,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆お昼は和菓子◆",
+      "en": "◆Japanese sweets for lunch◆",
+      "text": "◆Japanese sweets for lunch◆"
+    },
+    {
+      "offset": 6682,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鴨の入った南蛮鍋の予定だった今日のお昼は、\n萌先輩が材料を忘れ中止に。",
+      "en": "We were going to have Nanban hot pot with duck in, but it\nwas canceled because Moe-sempai forgot to bring the\ningredients.",
+      "text": "We were going to have Nanban hot pot with duck in, but it\nwas canceled because Moe-sempai forgot to bring the\ningredients."
+    },
+    {
+      "offset": 6756,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "激怒する眞子に言われ購買に走るが、予想通り\nパンは売り切れ。仕方なく和菓子を出してふた\nりに持っていく。",
+      "en": "I ran to the store as Mako barked at me, but all the buns\nwere sold out as I expected. Having no other choice, I made\nsome Japanese sweets, and took them to the two girls.",
+      "text": "I ran to the store as Mako barked at me, but all the buns\nwere sold out as I expected. Having no other choice, I made\nsome Japanese sweets, and took them to the two girls."
+    },
+    {
+      "offset": 6863,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "買出しは面倒だし、腹は減ったが、萌先輩の嬉\nしそうな笑顔がご褒美なら、それもいいかな。",
+      "en": "I went through some drama and I'm starving, but I guess\neverything's all right now that I got to see Moe-sempai's\npretty smile.",
+      "text": "I went through some drama and I'm starving, but I guess\neverything's all right now that I got to see Moe-sempai's\npretty smile."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "190": "Moe",
+    "327": "Mako",
+    "517": "Moe",
+    "697": "Moe",
+    "783": "Moe",
+    "889": "Mako",
+    "1138": "Moe",
+    "1279": "Mako",
+    "1326": "Moe",
+    "1531": "Moe",
+    "1690": "Mako",
+    "1874": "Moe",
+    "2007": "Mako",
+    "2288": "Mako",
+    "2467": "Mako",
+    "2599": "Mako",
+    "2690": "Mako",
+    "2774": "Mako",
+    "2966": "Mako",
+    "3052": "Moe",
+    "3297": "Moe",
+    "3376": "Moe",
+    "3476": "Moe",
+    "3573": "Moe",
+    "4975": "Mako",
+    "5098": "Moe",
+    "5192": "Mako",
+    "5359": "Mako",
+    "5451": "Mako",
+    "5703": "Moe",
+    "5830": "Moe",
+    "5908": "Moe",
+    "5985": "Moe",
+    "6286": "Moe"
+  }
+}

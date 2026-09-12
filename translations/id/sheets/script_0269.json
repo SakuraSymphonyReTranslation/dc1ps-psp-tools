@@ -1,0 +1,106 @@
+{
+  "scene": "script_0269.obj",
+  "dialogues": [
+    {
+      "offset": 166,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「あと２日で授業も終わりだけど、その後の卒\n　業パーティーの準備も、しっかり手伝うんだ\n　よ」",
+      "en": "\"Just two more days to the end of classes. Be sure to help\nout with the graduation party preparations after that.\"",
+      "text": "\"Just two more days to the end of classes. Be sure to help\nout with the graduation party preparations after that.\""
+    },
+    {
+      "offset": 271,
+      "speaker": "Tahata",
+      "speaker_jp": "田端",
+      "jp": "「礼」",
+      "en": "\"BoW!\"",
+      "text": "\"BoW!\""
+    },
+    {
+      "offset": 284,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暦先生の合図を受けて、田端が号令をだす。",
+      "en": "At Koyomi's signal, Tahata gave the order for the class to\nbow goodbye.",
+      "text": "At Koyomi's signal, Tahata gave the order for the class to\nbow goodbye."
+    },
+    {
+      "offset": 363,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そうか……来週で卒業なんだな。",
+      "en": "That's right... next week is graduation week.",
+      "text": "That's right... next week is graduation week."
+    },
+    {
+      "offset": 398,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちょっとだけ、感傷的な気分に浸ってみる。",
+      "en": "Even I was getting a bit caught up in the sentimentality of\nit all now.",
+      "text": "Even I was getting a bit caught up in the sentimentality of\nit all now."
+    },
+    {
+      "offset": 445,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（まあ、校舎が変わるだけだから、どうってこ\n　とないんだがな……）",
+      "en": "\"(It'd probably be worse if I actually had to change\nschools...)\"",
+      "text": "\"(It'd probably be worse if I actually had to change\nschools...)\""
+    },
+    {
+      "offset": 517,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "島の外にでも出ない限り、また会うことになる。",
+      "en": "As long as I can't leave this island, I'd surely come back\nto here again.",
+      "text": "As long as I can't leave this island, I'd surely come back\nto here again."
+    },
+    {
+      "offset": 568,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「んな先のことよりも、今日のことを考えよう」",
+      "en": "\"Well, that's something for the future. Now, to think about\ntoday.\"",
+      "text": "\"Well, that's something for the future. Now, to think about\ntoday.\""
+    },
+    {
+      "offset": 619,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は帰り支度をしながら、何をしようか考える。",
+      "en": "As I prepare to go home, I think about what to do.",
+      "text": "As I prepare to go home, I think about what to do."
+    },
+    {
+      "offset": 772,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆田端の号令◆",
+      "en": "◆Tahata's Order◆",
+      "text": "◆Tahata's Order◆"
+    },
+    {
+      "offset": 815,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "田端の号令でＨＲが終った。今週末から、卒パ\n準備期間、そしてそれが終ればとうとう卒業か。",
+      "en": "At Tahata's order, HR ended. Starting from this weekend\nwould be the graduation party preparation period, then after\nthat the graduation itself.",
+      "text": "At Tahata's order, HR ended. Starting from this weekend\nwould be the graduation party preparation period, then after\nthat the graduation itself."
+    },
+    {
+      "offset": 907,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、それよりはまず、今日何するかだよな。",
+      "en": "Anyway, putting that aside, what should I do today.",
+      "text": "Anyway, putting that aside, what should I do today."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "160": "Koyomi",
+    "263": "Tahata"
+  }
+}

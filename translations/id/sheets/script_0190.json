@@ -1,0 +1,1007 @@
+{
+  "scene": "script_0190.obj",
+  "dialogues": [
+    {
+      "offset": 163,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「家に帰っても、やる事ねえんだよなぁ……」",
+      "en": "\"If I go home, there's nothing much to do...\"",
+      "text": "\"If I go home, there's nothing much to do...\""
+    },
+    {
+      "offset": 212,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とはいえ、帰らないわけにもいかないわけで。",
+      "en": "Then again, if I don't, there's nothing to do either.",
+      "text": "Then again, if I don't, there's nothing to do either."
+    },
+    {
+      "offset": 261,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「しゃーない。かったるいから帰るか」",
+      "en": "\"Blah, might as well just go home.\"",
+      "text": "\"Blah, might as well just go home.\""
+    },
+    {
+      "offset": 304,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自分でもどんな理屈だと思いつつ、俺は昇降口\nに向かった。",
+      "en": "With nothing in mind, I head for the school entrance.",
+      "text": "With nothing in mind, I head for the school entrance."
+    },
+    {
+      "offset": 378,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「んお？」",
+      "en": "\"Hmm?\"",
+      "text": "\"Hmm?\""
+    },
+    {
+      "offset": 395,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昇降口に出た所で、ことりを見つけた。",
+      "en": "Nearing the entrance, I see Kotori heading out through it.",
+      "text": "Nearing the entrance, I see Kotori heading out through it."
+    },
+    {
+      "offset": 436,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何やら、ロッカーを覗き込んだまま、固まって\nいる様子。",
+      "en": "She had just peered into her locker, then suddenly stiffened\nup and walked off.",
+      "text": "She had just peered into her locker, then suddenly stiffened\nup and walked off."
+    },
+    {
+      "offset": 496,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おーい、ことりさんや」",
+      "en": "\"Heeeey, Kotori.\"",
+      "text": "\"Heeeey, Kotori.\""
+    },
+    {
+      "offset": 540,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………っ！」",
+      "en": "\"......Ah!\"",
+      "text": "\"......Ah!\""
+    },
+    {
+      "offset": 563,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ん？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 578,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "悪戯でも見つかったようにびくっとした顔をす\nると、ずだだっと逃げ出した。",
+      "en": "As if I was about to play a joke on her, she ran off as soon\nas she saw my face.",
+      "text": "As if I was about to play a joke on her, she ran off as soon\nas she saw my face."
+    },
+    {
+      "offset": 656,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「な、何だ？」",
+      "en": "\"W, what?\"",
+      "text": "\"W, what?\""
+    },
+    {
+      "offset": 677,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が呆然としていると。",
+      "en": "My expression was one of blank surprise.",
+      "text": "My expression was one of blank surprise."
+    },
+    {
+      "offset": 717,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「あ。朝倉じゃないか。今帰るところか？」",
+      "en": "\"Ah, Asakura. Going home already?\"",
+      "text": "\"Ah, Asakura. Going home already?\""
+    },
+    {
+      "offset": 764,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「…………いいところに来た」",
+      "en": "\"......Excellent timing.\"",
+      "text": "\"......Excellent timing.\""
+    },
+    {
+      "offset": 810,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「え？」",
+      "en": "\"Eh?\"",
+      "text": "\"Eh?\""
+    },
+    {
+      "offset": 825,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「いいか、工藤。お前はこっちから回り込め。\n　俺はあっちから回り込む。ふたりでことりを\n　挟み撃ちだ」",
+      "en": "\"Okay, Kudou. You come from here, and I'd go from over\nthere. We'd catch Kotori in a pincer attack.\"",
+      "text": "\"Okay, Kudou. You come from here, and I'd go from over\nthere. We'd catch Kotori in a pincer attack.\""
+    },
+    {
+      "offset": 943,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「お、おい、朝倉、話が見えないんだけど……」",
+      "en": "\"H, hey, Asakura, what are you trying to do...\"",
+      "text": "\"H, hey, Asakura, what are you trying to do...\""
+    },
+    {
+      "offset": 994,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「大丈夫だ。俺にもまだ見えてない」",
+      "en": "\"It's okay. I'm not sure myself either.\"",
+      "text": "\"It's okay. I'm not sure myself either.\""
+    },
+    {
+      "offset": 1035,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "逃げ出した理由は、逃げ出した張本人に尋ねる\n以外わからない。",
+      "en": "Only she would know the reason why she ran off like that at\nthe sight of me.",
+      "text": "Only she would know the reason why she ran off like that at\nthe sight of me."
+    },
+    {
+      "offset": 1101,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「鳴かぬなら食べてしまえホトトギスって奴だ」",
+      "en": "\"She's as curious as a cuckoo.\"",
+      "text": "\"She's as curious as a cuckoo.\""
+    },
+    {
+      "offset": 1163,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「……ますますわけがわからないぞ？」",
+      "en": "\"...I still don't understand?\"",
+      "text": "\"...I still don't understand?\""
+    },
+    {
+      "offset": 1206,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "首を傾げる工藤を置いて、俺は走り出した。",
+      "en": "Ignoring the confused Kudou, I walk out of the entrance.",
+      "text": "Ignoring the confused Kudou, I walk out of the entrance."
+    },
+    {
+      "offset": 1276,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「うお、もう校門の所に？」",
+      "en": "\"Woh, she's already at the gates?\"",
+      "text": "\"Woh, she's already at the gates?\""
+    },
+    {
+      "offset": 1309,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "普通に追いかけたら追いつかない。",
+      "en": "A normal chase will definitely not be enough now.",
+      "text": "A normal chase will definitely not be enough now."
+    },
+    {
+      "offset": 1348,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「工藤！　作戦通りに行くぞ！」",
+      "en": "\"Kudou! The operation begins now!\"",
+      "text": "\"Kudou! The operation begins now!\""
+    },
+    {
+      "offset": 1385,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "追いかけてきている工藤に声をかける。",
+      "en": "I yelled at him as I ran off in pursuit.",
+      "text": "I yelled at him as I ran off in pursuit."
+    },
+    {
+      "offset": 1439,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「あ、ああ。とにかくことりを捕まえればいい\n　んだよな？」",
+      "en": "\"O, okay. We just have to catch Kotori, right?\"",
+      "text": "\"O, okay. We just have to catch Kotori, right?\""
+    },
+    {
+      "offset": 1503,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「そうだ！」",
+      "en": "\"Yes!\"",
+      "text": "\"Yes!\""
+    },
+    {
+      "offset": 1522,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は近道をした。",
+      "en": "I managed to take a shortcut.",
+      "text": "I managed to take a shortcut."
+    },
+    {
+      "offset": 1576,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「追いつい……たっ！」",
+      "en": "\"I've got you.. now!\"",
+      "text": "\"I've got you.. now!\""
+    },
+    {
+      "offset": 1640,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「わっ！？」",
+      "en": "\"Wah?!\"",
+      "text": "\"Wah?!\""
+    },
+    {
+      "offset": 1659,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "突如ことりの前に出現した俺に、ことりの足が\n止まる。",
+      "en": "Jumping in front of her suddenly, Kotori stopped in her\ntracks.",
+      "text": "Jumping in front of her suddenly, Kotori stopped in her\ntracks."
+    },
+    {
+      "offset": 1715,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "慌てて反対方向を向くが──。",
+      "en": "And right after me, from behind Kotori, came--",
+      "text": "And right after me, from behind Kotori, came--"
+    },
+    {
+      "offset": 1761,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「はぁ……はぁ……はぁ、ことりって、足、速\n　いんだね？」",
+      "en": "\"Haah... Haah... Haah, Kotori, you run pretty... Haah...\nfast...\"",
+      "text": "\"Haah... Haah... Haah, Kotori, you run pretty... Haah...\nfast...\""
+    },
+    {
+      "offset": 1825,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "工藤が息を切らしながら立っていた。",
+      "en": "Kudou bended forward slightly, breathless.",
+      "text": "Kudou bended forward slightly, breathless."
+    },
+    {
+      "offset": 1917,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「なんで──」",
+      "en": "\"Why--\"",
+      "text": "\"Why--\""
+    },
+    {
+      "offset": 1938,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "全て言い切る前に、胸に抱えていた何か──色\nとりどりの紙封筒──を地面に落とした。",
+      "en": "Before she could say anything else, something she was\nholding close to her chest --a multi-coloured envolope--\ndropped to the ground.",
+      "text": "Before she could say anything else, something she was\nholding close to her chest --a multi-coloured envolope--\ndropped to the ground."
+    },
+    {
+      "offset": 2026,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あっ……悪い」",
+      "en": "\"Ah... sorry.\"",
+      "text": "\"Ah... sorry.\""
+    },
+    {
+      "offset": 2074,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「だ、駄目っ！」",
+      "en": "\"D, Don't!\"",
+      "text": "\"D, Don't!\""
+    },
+    {
+      "offset": 2097,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "拾おうとしてしゃがんだところで、頭上から声\nが振ってきた。",
+      "en": "Just as I started bending downwards to pick it up, her voice\nshrieked out from above my head.",
+      "text": "Just as I started bending downwards to pick it up, her voice\nshrieked out from above my head."
+    },
+    {
+      "offset": 2161,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「え？」",
+      "en": "\"Eh?\"",
+      "text": "\"Eh?\""
+    },
+    {
+      "offset": 2176,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふわっと、風が吹き付けてきた。ことりが凄い\n勢いでしゃがみ込んだのだ。",
+      "en": "A gust of wind suddenly blew past. With surprising agility,\nKotori squatted down and grabbed the flapping letter in\nmid-flight.",
+      "text": "A gust of wind suddenly blew past. With surprising agility,\nKotori squatted down and grabbed the flapping letter in\nmid-flight."
+    },
+    {
+      "offset": 2252,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2271,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鞄の中に封筒を｛か／掻｝き入れていくその姿に、ふと、\nとある光景を思い出した。",
+      "en": "she quickly threw the envelope back into a bag. I caught a\nglimpse inside, and would do well to forget it.",
+      "text": "she quickly threw the envelope back into a bag. I caught a\nglimpse inside, and would do well to forget it."
+    },
+    {
+      "offset": 2353,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "電車の中、紙袋から大量の同人誌をこぼしてし\nまい、真っ赤になりながら回収していた青年…。",
+      "en": "It was a bag full of envelopes, about the size of a garbage\nbag.",
+      "text": "It was a bag full of envelopes, about the size of a garbage\nbag."
+    },
+    {
+      "offset": 2496,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、あはは……」",
+      "en": "\"A, ahaha...\"",
+      "text": "\"A, ahaha...\""
+    },
+    {
+      "offset": 2521,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……恥ずかしいポエムでも書きつづったブツ\n　なのか？」",
+      "en": "\"...A bunch of embarassing poems inside, I bet?\"",
+      "text": "\"...A bunch of embarassing poems inside, I bet?\""
+    },
+    {
+      "offset": 2611,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「……朝倉、それは違うだろ」",
+      "en": "\"...A bit wrong I think, Asakura.\"",
+      "text": "\"...A bit wrong I think, Asakura.\""
+    },
+    {
+      "offset": 2659,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ〜も〜、分かっているくせに、そういう事\n　言うんですよね」",
+      "en": "\"Ah~ Geez~, you know already, don't tease me like that...\"",
+      "text": "\"Ah~ Geez~, you know already, don't tease me like that...\""
+    },
+    {
+      "offset": 2727,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「やっぱ、そうか」",
+      "en": "\"So that's what it is.\"",
+      "text": "\"So that's what it is.\""
+    },
+    {
+      "offset": 2752,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "色とりどりの紙封筒──ラブレターってわけだ。",
+      "en": "The colourful envelopes-- they definitely housed love\nletters.",
+      "text": "The colourful envelopes-- they definitely housed love\nletters."
+    },
+    {
+      "offset": 2803,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ことりってもてるんだな」",
+      "en": "\"You're really popular, Kotori.\"",
+      "text": "\"You're really popular, Kotori.\""
+    },
+    {
+      "offset": 2866,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「もてる女はツライですよ」",
+      "en": "\"It's painful for a girl to be popular.\"",
+      "text": "\"It's painful for a girl to be popular.\""
+    },
+    {
+      "offset": 2899,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「もてない男よりはツラクはないだろ」",
+      "en": "\"You obviously haven't been an unpopular guy.\"",
+      "text": "\"You obviously haven't been an unpopular guy.\""
+    },
+    {
+      "offset": 2972,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3021,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「朝倉君って、結構素敵だと思いますよ」",
+      "en": "\"That's not true, I think you are!\"",
+      "text": "\"That's not true, I think you are!\""
+    },
+    {
+      "offset": 3066,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりがくるりと背後を振り返る。",
+      "en": "Kotori turned her head to face behind her.",
+      "text": "Kotori turned her head to face behind her."
+    },
+    {
+      "offset": 3118,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ねっ？　工藤君？」",
+      "en": "\"Right, Kudou-kun?\"",
+      "text": "\"Right, Kudou-kun?\""
+    },
+    {
+      "offset": 3145,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "急にふられた工藤は面食らったような表情を見\nせていたが、すぐに余裕を取り戻して、にっこ\nり笑った。",
+      "en": "Kudou was taken aback for a second, but quickly regained his\ncomposure and returned a willing smile.",
+      "text": "Kudou was taken aback for a second, but quickly regained his\ncomposure and returned a willing smile."
+    },
+    {
+      "offset": 3276,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「ああ、そうだな」",
+      "en": "\"Right, of course!\"",
+      "text": "\"Right, of course!\""
+    },
+    {
+      "offset": 3301,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「……お前に誉められて、俺は喜ぶべきなの\n　か？」",
+      "en": "\"...Should I be happy at your compliments?\"",
+      "text": "\"...Should I be happy at your compliments?\""
+    },
+    {
+      "offset": 3387,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「喜ぶべきですよ。ね？　工藤君？」",
+      "en": "\"Of course you should, right, Kudou-kun?\"",
+      "text": "\"Of course you should, right, Kudou-kun?\""
+    },
+    {
+      "offset": 3439,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「あ、ああ。そうだな。喜んでくれたら、嬉し\n　いぞ」",
+      "en": "\"A, ahh, of course. I'd be glad to make someone else happy\nas well!\"",
+      "text": "\"A, ahh, of course. I'd be glad to make someone else happy\nas well!\""
+    },
+    {
+      "offset": 3497,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「……んじゃまぁ、一応喜んでおくか」",
+      "en": "\"...In that case, I guess I am, thanks.\"",
+      "text": "\"...In that case, I guess I am, thanks.\""
+    },
+    {
+      "offset": 3540,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だけど、実際のところ、学園一の美男美女に誉\nめられても、ちっとも誉められた気がしないん\nだよなぁ。",
+      "en": "Then again, being complimented by the school's number one\ngood looking girl and guy, doesn't really make me feel\ncomforted.",
+      "text": "Then again, being complimented by the school's number one\ngood looking girl and guy, doesn't really make me feel\ncomforted."
+    },
+    {
+      "offset": 3641,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目の前に確実に俺以上の存在がいるわけで。",
+      "en": "Just looking at the pair in front of me was already enough\nevidence against it.",
+      "text": "Just looking at the pair in front of me was already enough\nevidence against it."
+    },
+    {
+      "offset": 3686,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……はぁ……。",
+      "en": "....Haah...",
+      "text": "....Haah..."
+    },
+    {
+      "offset": 3724,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……で、そのラブレターだけど。どうするん\n　だ？」",
+      "en": "\"...Anyway, what are you going to do with those love\nletters?",
+      "text": "\"...Anyway, what are you going to do with those love\nletters?"
+    },
+    {
+      "offset": 3795,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そうですね。みんな、ごめんなさい、ですね。\n　だから、ご安心を」",
+      "en": "\"That's right... I'd probably just answer \"I'm sorry\" to all\nof them or something. So don't worry.\"",
+      "text": "\"That's right... I'd probably just answer \"I'm sorry\" to all\nof them or something. So don't worry.\""
+    },
+    {
+      "offset": 3867,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「な、何だよ、安心って」",
+      "en": "\"W, what do you mean, me, worry?\"",
+      "text": "\"W, what do you mean, me, worry?\""
+    },
+    {
+      "offset": 3928,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「何となく、そんな気がしたんですよ」",
+      "en": "\"I mean, you seem pretty concerned about it...\"",
+      "text": "\"I mean, you seem pretty concerned about it...\""
+    },
+    {
+      "offset": 3971,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……そうか？」",
+      "en": "\"...Really?\"",
+      "text": "\"...Really?\""
+    },
+    {
+      "offset": 3994,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わず、頬を揉んでしまう。変な表情でもして\nたかな？",
+      "en": "I unconciously started to blush. Did my face give anything\naway?",
+      "text": "I unconciously started to blush. Did my face give anything\naway?"
+    },
+    {
+      "offset": 4082,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「やっぱり、恋愛って真面目にしたいじゃない\n　ですか」",
+      "en": "\"And in the end, I don't think the senders are serious about\ntheir love...\"",
+      "text": "\"And in the end, I don't think the senders are serious about\ntheir love...\""
+    },
+    {
+      "offset": 4142,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ん？　まあ、そりゃ、な」",
+      "en": "\"Hm? Well, really?\"",
+      "text": "\"Hm? Well, really?\""
+    },
+    {
+      "offset": 4188,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「だから、お断りするんですよね」",
+      "en": "\"So I'd reject it.\"",
+      "text": "\"So I'd reject it.\""
+    },
+    {
+      "offset": 4227,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ラブレター送ってくる連中は、真面目じゃな\n　いのか？」",
+      "en": "\"Isn't sending a love letter pretty serious as is?\"",
+      "text": "\"Isn't sending a love letter pretty serious as is?\""
+    },
+    {
+      "offset": 4319,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……その人達が真面目じゃないって言うつも\n　りはないんです。ただ……」",
+      "en": "\"...I'm not saying that they aren't being serious. But...\"",
+      "text": "\"...I'm not saying that they aren't being serious. But...\""
+    },
+    {
+      "offset": 4408,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「ただ？」",
+      "en": "\"But?\"",
+      "text": "\"But?\""
+    },
+    {
+      "offset": 4455,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……私、あまり手紙とかって好きになれない\n　んですよね」",
+      "en": "\"...I don't think it's possible to express love through a\nletter.\"",
+      "text": "\"...I don't think it's possible to express love through a\nletter.\""
+    },
+    {
+      "offset": 4519,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「何で……って聞いていいか？」",
+      "en": "\"Why... you'd rather hear it?\"",
+      "text": "\"Why... you'd rather hear it?\""
+    },
+    {
+      "offset": 4556,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりがこくんと頷いた。",
+      "en": "Kotori nodded her head slightly.",
+      "text": "Kotori nodded her head slightly."
+    },
+    {
+      "offset": 4600,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……文字だけじゃ、相手のほんとの気持ちな\n　んて、分からないじゃないですか……」",
+      "en": "\"...From just words, you can't really tell the person's true\nfeelings...\"",
+      "text": "\"...From just words, you can't really tell the person's true\nfeelings...\""
+    },
+    {
+      "offset": 4699,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 4718,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 4750,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「不安なんですよね、それって……」",
+      "en": "\"It's so uneasy that way, I feel...\"",
+      "text": "\"It's so uneasy that way, I feel...\""
+    },
+    {
+      "offset": 4791,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "唇をきゅっと噛みしめ、ことりは俯いてしまっ\nた。",
+      "en": "Kotori had her head bowed slightly, chewing on her lip.",
+      "text": "Kotori had her head bowed slightly, chewing on her lip."
+    },
+    {
+      "offset": 4843,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、その顔がぱっと上がる。",
+      "en": "Then, she quickly lifted it back up.",
+      "text": "Then, she quickly lifted it back up."
+    },
+    {
+      "offset": 4906,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ご、ごめんなさい、何だか、変な事言っちゃ\n　いましたね」",
+      "en": "\"I, I'm so sorry... I just started saying weird things...\"",
+      "text": "\"I, I'm so sorry... I just started saying weird things...\""
+    },
+    {
+      "offset": 4970,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「いやあ、別に。むしろ、参考になったくらい\n　で」",
+      "en": "\"No, it's nothing. It's for the better anyway, now I have\nsomething to reference.\"",
+      "text": "\"No, it's nothing. It's for the better anyway, now I have\nsomething to reference.\""
+    },
+    {
+      "offset": 5056,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「え……？」",
+      "en": "\"Eh...?\"",
+      "text": "\"Eh...?\""
+    },
+    {
+      "offset": 5105,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「わ、私につられたんですか？　何か、変な事\n　言ってましたよ、今」",
+      "en": "\"Y, you don't mean what I think you do, do you? Don't say\nsuch weird things...\"",
+      "text": "\"Y, you don't mean what I think you do, do you? Don't say\nsuch weird things...\""
+    },
+    {
+      "offset": 5177,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「う〜ん、どうだろ……。ま、心にはとどめて\n　おくって事で」",
+      "en": "\"Hm, how to put it... perhaps, a heartstopping matter?\"",
+      "text": "\"Hm, how to put it... perhaps, a heartstopping matter?\""
+    },
+    {
+      "offset": 5256,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 5305,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そ、それじゃ、帰ります。バイバイ」",
+      "en": "\"W, well, I'm heading back. Bye bye!\"",
+      "text": "\"W, well, I'm heading back. Bye bye!\""
+    },
+    {
+      "offset": 5359,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「バイバイ……って」",
+      "en": "\"Bye...bye.\"",
+      "text": "\"Bye...bye.\""
+    },
+    {
+      "offset": 5386,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言った時にはもう消えている……。",
+      "en": "Before I could even finish my farewell, she had disappeared.",
+      "text": "Before I could even finish my farewell, she had disappeared."
+    },
+    {
+      "offset": 5466,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「行っちゃったな……」",
+      "en": "\"She escaped...\"",
+      "text": "\"She escaped...\""
+    },
+    {
+      "offset": 5495,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「ああ……」",
+      "en": "\"Yeah...\"",
+      "text": "\"Yeah...\""
+    },
+    {
+      "offset": 5525,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「ラブレター、か……」",
+      "en": "\"Love letter, huh...\"",
+      "text": "\"Love letter, huh...\""
+    },
+    {
+      "offset": 5554,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「……どうしたんだよ？」",
+      "en": "\"...What about that?\"",
+      "text": "\"...What about that?\""
+    },
+    {
+      "offset": 5596,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「いや、別に」",
+      "en": "\"No, nothing.\"",
+      "text": "\"No, nothing.\""
+    },
+    {
+      "offset": 5617,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「さよか」",
+      "en": "\"Whatever.\"",
+      "text": "\"Whatever.\""
+    },
+    {
+      "offset": 5634,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうせこいつも腐るほどもらって困ってるとか\n何とか、そう言うことだろう。",
+      "en": "Despite getting all those declarions of love, she hasn't\nseemed to take up any of them...",
+      "text": "Despite getting all those declarions of love, she hasn't\nseemed to take up any of them..."
+    },
+    {
+      "offset": 5710,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もしくは、本当にもらいたい相手からはもらえ\nてない、とか？",
+      "en": "Maybe being popular, and having so many suitors, isn't as\nmuch of an easy road as it seems?",
+      "text": "Maybe being popular, and having so many suitors, isn't as\nmuch of an easy road as it seems?"
+    },
+    {
+      "offset": 5772,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 5787,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あり得ねえ。",
+      "en": "No use thinking about it now.",
+      "text": "No use thinking about it now."
+    },
+    {
+      "offset": 5806,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺は帰るぞ」",
+      "en": "\"I'm heading home.\"",
+      "text": "\"I'm heading home.\""
+    },
+    {
+      "offset": 5827,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「別に腹が立ったわけでも、虚しくなったわけ\n　でもないからなっ」",
+      "en": "\"My stomach's grumbling, I need to go fill it.\"",
+      "text": "\"My stomach's grumbling, I need to go fill it.\""
+    },
+    {
+      "offset": 5925,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「あ、ああ……」",
+      "en": "\"O, okay...\"",
+      "text": "\"O, okay...\""
+    },
+    {
+      "offset": 5957,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "呆然とする工藤を置いて、俺は家路についた。",
+      "en": "Leaving the dumbfounded Kudou, I head back towards home.",
+      "text": "Leaving the dumbfounded Kudou, I head back towards home."
+    },
+    {
+      "offset": 6004,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こんなところで、現実の不平等さを目の当たり\nにするとは……。",
+      "en": "This has shown me just how unfair the world is.",
+      "text": "This has shown me just how unfair the world is."
+    },
+    {
+      "offset": 6068,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日の夜、俺の枕は涙に濡れてるぜ。",
+      "en": "Tonight, I'm going to cry into my pillow.",
+      "text": "Tonight, I'm going to cry into my pillow."
+    },
+    {
+      "offset": 6240,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆ラブレターがたくさん◆",
+      "en": "◆The Bagful of Love Letters◆",
+      "text": "◆The Bagful of Love Letters◆"
+    },
+    {
+      "offset": 6286,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "帰る途中、昇降口の所でことりを見かけた。声\nを掛けると、どうしてか逃げ出してしまう。",
+      "en": "As I was heading home, I saw Kotori at the school building's\nentrance. When I called to her though, she ran off\nimmediately.",
+      "text": "As I was heading home, I saw Kotori at the school building's\nentrance. When I called to her though, she ran off\nimmediately."
+    },
+    {
+      "offset": 6374,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "帰宅途中だった工藤を捕まえて、俺達は後を追っ\nた。",
+      "en": "Coercing Kudou into assistance, we ran off in hot pursuit.",
+      "text": "Coercing Kudou into assistance, we ran off in hot pursuit."
+    },
+    {
+      "offset": 6428,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "挟み込むようにして追いつき、事情を｛き／訊｝く。",
+      "en": "We maanged to chase her down, and got the entire matter out\nof her.",
+      "text": "We maanged to chase her down, and got the entire matter out\nof her."
+    },
+    {
+      "offset": 6481,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうやらことりは、ラブレターをもらったとこ\nろを見られたくなかったらしい。",
+      "en": "It was completely unsurprising to be honest. Kotori was\nexactly the type I'd imagine to receive so many love\nletters.",
+      "text": "It was completely unsurprising to be honest. Kotori was\nexactly the type I'd imagine to receive so many love\nletters."
+    },
+    {
+      "offset": 6559,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さすがにもてますな。",
+      "en": "As expected from someone so popular.",
+      "text": "As expected from someone so popular."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "530": "Kotori",
+    "709": "Kudou",
+    "802": "Kudou",
+    "935": "Kudou",
+    "1155": "Kudou",
+    "1431": "Kudou",
+    "1630": "Kotori",
+    "1753": "Kudou",
+    "1907": "Kotori",
+    "2064": "Kotori",
+    "2486": "Kotori",
+    "2603": "Kudou",
+    "2649": "Kotori",
+    "2856": "Kotori",
+    "2962": "Kotori",
+    "3011": "Kotori",
+    "3108": "Kotori",
+    "3268": "Kudou",
+    "3377": "Kotori",
+    "3431": "Kudou",
+    "3785": "Kotori",
+    "3918": "Kotori",
+    "4072": "Kotori",
+    "4178": "Kotori",
+    "4309": "Kotori",
+    "4400": "Kudou",
+    "4445": "Kotori",
+    "4590": "Kotori",
+    "4691": "Kudou",
+    "4740": "Kotori",
+    "4896": "Kotori",
+    "5046": "Kotori",
+    "5095": "Kotori",
+    "5246": "Kotori",
+    "5295": "Kotori",
+    "5458": "Kudou",
+    "5517": "Kudou",
+    "5588": "Kudou",
+    "5917": "Kudou"
+  }
+}

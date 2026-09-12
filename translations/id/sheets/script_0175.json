@@ -1,0 +1,81 @@
+{
+  "scene": "script_0175.obj",
+  "dialogues": [
+    {
+      "offset": 137,
+      "speaker": "Wakui",
+      "speaker_jp": "和久井",
+      "jp": "「それじゃあ、始めていいぞ」",
+      "en": "\"If there's nothing else, you may begin.\"",
+      "text": "\"If there's nothing else, you may begin.\""
+    },
+    {
+      "offset": 172,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "講師の言葉に学生たちが一斉に動き出す。裏に\nしていたテスト用紙を表に返し、シャーペンを\n走らせる。",
+      "en": "At the teacher's approval, all the students started moving\nat once to the rear, to get the test paper and to sharpen\ntheir pencils.",
+      "text": "At the teacher's approval, all the students started moving\nat once to the rear, to get the test paper and to sharpen\ntheir pencils."
+    },
+    {
+      "offset": 275,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（どれ……）",
+      "en": "\"(Let's see...)\"",
+      "text": "\"(Let's see...)\""
+    },
+    {
+      "offset": 294,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺もプリントを表に返し、問題を確認する。",
+      "en": "I take a copy of the test paper and flip it around, looking\nat the questions.",
+      "text": "I take a copy of the test paper and flip it around, looking\nat the questions."
+    },
+    {
+      "offset": 339,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "数学は、公式を覚えればあとはそれを当てはめ\nるだけ……。",
+      "en": "Maths is almost entirely about remembering the formulas...",
+      "text": "Maths is almost entirely about remembering the formulas..."
+    },
+    {
+      "offset": 401,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（……のハズなんだけど、それがムズイんだよ\n　な）",
+      "en": "\"(...Which doesn't make it any less difficult.)\"",
+      "text": "\"(...Which doesn't make it any less difficult.)\""
+    },
+    {
+      "offset": 457,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "周りのシャーペンの音に急かされながら、軽く\n唇を舐めてペンをかまえた。",
+      "en": "With the sound of pencils being sharpened all around me, I\nplace my pen lightly on my lips.",
+      "text": "With the sound of pencils being sharpened all around me, I\nplace my pen lightly on my lips."
+    },
+    {
+      "offset": 635,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆数学のテスト◆",
+      "en": "◆Maths Test◆",
+      "text": "◆Maths Test◆"
+    },
+    {
+      "offset": 682,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "数学は公式さえ覚えれば、後はそれに当てはめ\nるだけ……ってわかっていても、それができな\nい身の辛さ。",
+      "en": "As long as you know the formulas, you can do the problems...\nso if one has managed to remember them, you're halfway\nthere.",
+      "text": "As long as you know the formulas, you can do the problems...\nso if one has managed to remember them, you're halfway\nthere."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "127": "Wakui"
+  }
+}

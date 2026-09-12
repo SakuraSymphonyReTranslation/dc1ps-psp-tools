@@ -1,0 +1,749 @@
+{
+  "scene": "script_0036.obj",
+  "dialogues": [
+    {
+      "offset": 165,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言えば、いつも特別教室棟の屋上でお昼を\n食べてるって、萌先輩が言ってたっけ。",
+      "en": "I remember Moe-sempai telling me that they always eat lunch\nout on the rooftop.",
+      "text": "I remember Moe-sempai telling me that they always eat lunch\nout on the rooftop."
+    },
+    {
+      "offset": 249,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "せっかくフリーパスを許されたんだ。無下にし\nては、もったいない。",
+      "en": "She did invite me, I might as well go there.",
+      "text": "She did invite me, I might as well go there."
+    },
+    {
+      "offset": 319,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そうと決まれば、早いとこ移動しよう」",
+      "en": "\"As a matter of fact, I'm going to go now.\"",
+      "text": "\"As a matter of fact, I'm going to go now.\""
+    },
+    {
+      "offset": 364,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この場所に、長居は無用だ。",
+      "en": "No need for me to stay here any longer.",
+      "text": "No need for me to stay here any longer."
+    },
+    {
+      "offset": 418,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は眞子を追って廊下に出る。",
+      "en": "I followed Mako and went out to the hallway.",
+      "text": "I followed Mako and went out to the hallway."
+    },
+    {
+      "offset": 451,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ゆっくりと歩く俺の横を、食堂組みが走り抜け\nていく。渡り廊下を通り教員棟に｛たど／辿｝り着くと、\n下ではなく馴染みのない上階へと向かう。",
+      "en": "As I walk slowly down the hall, other students heading\ntoward the cafeteria passed by me. I walked through the\nbreezeway to the teachers' building and climbed up the\nstairs.",
+      "text": "As I walk slowly down the hall, other students heading\ntoward the cafeteria passed by me. I walked through the\nbreezeway to the teachers' building and climbed up the\nstairs."
+    },
+    {
+      "offset": 625,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あれ？　いないや」",
+      "en": "\"Huh? They're not here.\"",
+      "text": "\"Huh? They're not here.\""
+    },
+    {
+      "offset": 652,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "時間が早かったのか、屋上には誰もいなかった。\n確か、眞子のやつが先に教室を出て行ったハズ\nなのだが……。",
+      "en": "Perhaps I was too early. No one else is here on the rooftop.\nI thought Mako left the classroom before me......",
+      "text": "Perhaps I was too early. No one else is here on the rooftop.\nI thought Mako left the classroom before me......"
+    },
+    {
+      "offset": 761,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まあ、そのうち来るだろう。とりあえず、身\n　の安全を確保できたことを喜ぼう」",
+      "en": "\"Well, I'm sure they'll be here soon. I'll just secure my\nspace for now.\"",
+      "text": "\"Well, I'm sure they'll be here soon. I'll just secure my\nspace for now.\""
+    },
+    {
+      "offset": 845,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらも少しは成長してるかと思ったら、外見\nも内面も全く変わってないし……こうなると、\n逃げの一手しかない。",
+      "en": "I expected Sakura to be more mature, but nothing has\nchanged, on the outside or on the inside...... I just have\nto keep my distance from her.",
+      "text": "I expected Sakura to be more mature, but nothing has\nchanged, on the outside or on the inside...... I just have\nto keep my distance from her."
+    },
+    {
+      "offset": 956,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "付属の屋上では、あいつに見つかるかも知れな\nいが、まさかこの俺が職員室の上にいるとは思\nうまい。",
+      "en": "She might find me on the other side of the building, but\nshe'll never think that I'm in the teachers' building.",
+      "text": "She might find me on the other side of the building, but\nshe'll never think that I'm in the teachers' building."
+    },
+    {
+      "offset": 1057,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「フッ……敵の裏をかくのは、戦術の基本よ」",
+      "en": "\"Hah...... Outwitting the enemy's the basic rule in a\nfight.\"",
+      "text": "\"Hah...... Outwitting the enemy's the basic rule in a\nfight.\""
+    },
+    {
+      "offset": 1106,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "誰もいない屋上で、一人勝利の余韻に浸る。",
+      "en": "I was in my foolish paradise.",
+      "text": "I was in my foolish paradise."
+    },
+    {
+      "offset": 1164,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「不気味……」",
+      "en": "\"Strange......\"",
+      "text": "\"Strange......\""
+    },
+    {
+      "offset": 1185,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「うわぁ！？」",
+      "en": "\"Wow!!\"",
+      "text": "\"Wow!!\""
+    },
+    {
+      "offset": 1217,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あぁっ！？」",
+      "en": "\"Kyaa!!\"",
+      "text": "\"Kyaa!!\""
+    },
+    {
+      "offset": 1238,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とっさに横に飛びのき、声のした方に構える。",
+      "en": "I jumped and looked toward the voice.",
+      "text": "I jumped and looked toward the voice."
+    },
+    {
+      "offset": 1325,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ちょ、ちょっと！　急になによ。ビックリす\n　るじゃない！」",
+      "en": "\"Hey! What's your problem! You scared me!\"",
+      "text": "\"Hey! What's your problem! You scared me!\""
+    },
+    {
+      "offset": 1391,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「なんだ、眞子か……」",
+      "en": "\"Oh, it's you, Mako......\"",
+      "text": "\"Oh, it's you, Mako......\""
+    },
+    {
+      "offset": 1420,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "絶妙なタイミングで声をかけおって。",
+      "en": "She spoke to me with the weirdest timing.",
+      "text": "She spoke to me with the weirdest timing."
+    },
+    {
+      "offset": 1492,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あの、ごめんなさい。驚かせてしまったみた\n　いですね……」",
+      "en": "\"Umm, I'm sorry. I guess we scared you......\"",
+      "text": "\"Umm, I'm sorry. I guess we scared you......\""
+    },
+    {
+      "offset": 1558,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一人、穏やかな萌先輩が、ぺこりと頭を下げる。\nこの人は……どうやら驚かなかったらしい。",
+      "en": "Moe-sempai calmly bowed toward me. I guess she didn't get\nscared.",
+      "text": "Moe-sempai calmly bowed toward me. I guess she didn't get\nscared."
+    },
+    {
+      "offset": 1650,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……いえ……大丈夫です」",
+      "en": "\"......Oh, I'm fine.\"",
+      "text": "\"......Oh, I'm fine.\""
+    },
+    {
+      "offset": 1683,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は構えを解き、ふたりの元に歩み寄る。",
+      "en": "I relaxed and walked closer toward them.",
+      "text": "I relaxed and walked closer toward them."
+    },
+    {
+      "offset": 1764,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どこにいたんだ？　俺より先に出て行ったは\n　ずなのに」",
+      "en": "\"Where were you? I thought you left before me.\"",
+      "text": "\"Where were you? I thought you left before me.\""
+    },
+    {
+      "offset": 1826,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なぜか板を持っている眞子に声をかける。",
+      "en": "I asked Mako, while she held a piece of board for some\nreason.",
+      "text": "I asked Mako, while she held a piece of board for some\nreason."
+    },
+    {
+      "offset": 1910,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「先に……って、あんた頃合を計ってたんじゃ」",
+      "en": "\"What......? Are you stalking me or something?\"",
+      "text": "\"What......? Are you stalking me or something?\""
+    },
+    {
+      "offset": 1961,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「いや、お前が教室を出て行くときに会っただ\n　ろうが」",
+      "en": "\"No, but we saw each other when we were leaving the\nclassroom, remember?\"",
+      "text": "\"No, but we saw each other when we were leaving the\nclassroom, remember?\""
+    },
+    {
+      "offset": 2049,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ん？　そう言えば……」",
+      "en": "\"Huh? Maybe we did......\"",
+      "text": "\"Huh? Maybe we did......\""
+    },
+    {
+      "offset": 2080,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子が記憶を辿るように呟く。",
+      "en": "She murmured as she searched her mind.",
+      "text": "She murmured as she searched her mind."
+    },
+    {
+      "offset": 2113,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、のんびり歩いてきたのも確かだが……。",
+      "en": "I do admit that I walked here slowly so that she would get\nhere first......",
+      "text": "I do admit that I walked here slowly so that she would get\nhere first......"
+    },
+    {
+      "offset": 2162,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、何してたんだ？」",
+      "en": "\"So, what took you so long?\"",
+      "text": "\"So, what took you so long?\""
+    },
+    {
+      "offset": 2202,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……テーブルとかを取りに行ってたの」",
+      "en": "\"...... I went and got the table and stuff.\"",
+      "text": "\"...... I went and got the table and stuff.\""
+    },
+    {
+      "offset": 2247,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「テーブル？」",
+      "en": "\"The table?\"",
+      "text": "\"The table?\""
+    },
+    {
+      "offset": 2294,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「そこの壁の陰に、置いているんです」",
+      "en": "\"We keep it by the wall over there.\"",
+      "text": "\"We keep it by the wall over there.\""
+    },
+    {
+      "offset": 2337,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そうか、そのデカイ板は昨日のテーブルだった\nのか。そう言えば、萌先輩も手にコンロを持っ\nてるし。",
+      "en": "I realized that the board Mako's holding is the table from\nyesterday. Moe-sempai also has a portable stove in her hand.",
+      "text": "I realized that the board Mako's holding is the table from\nyesterday. Moe-sempai also has a portable stove in her hand."
+    },
+    {
+      "offset": 2436,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあそうだよな、いちいち持って帰ってたら、\n大変だもんな――ていうか、目立ちすぎだ。",
+      "en": "It makes sense. It's too much work for them to take them\nback home every day.",
+      "text": "It makes sense. It's too much work for them to take them\nback home every day."
+    },
+    {
+      "offset": 2554,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「朝倉、組み立てるの手伝ってよ」",
+      "en": "\"Hey Asakura, help us put this together.\"",
+      "text": "\"Hey Asakura, help us put this together.\""
+    },
+    {
+      "offset": 2593,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の身体にテーブルが｛・・・・・・・／立てかけられる｝。",
+      "en": "She leaned the table against my body.",
+      "text": "She leaned the table against my body."
+    },
+    {
+      "offset": 2656,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2675,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "これを“手伝う”というのか？",
+      "en": "She's forcing me to help.",
+      "text": "She's forcing me to help."
+    },
+    {
+      "offset": 2708,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、さすがに昼食をたかりにきた手前、働\nかなければならないのだ。",
+      "en": "\"Why do I have to do it?\"",
+      "text": "\"Why do I have to do it?\""
+    },
+    {
+      "offset": 2842,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目の前には、ぐつぐつと小気味よい音を立てて、\n鍋が煮えていた。",
+      "en": "However, I guess it's a courtesy for me to help, since I'm\nhere for the free food.",
+      "text": "However, I guess it's a courtesy for me to help, since I'm\nhere for the free food."
+    },
+    {
+      "offset": 2908,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そしてテーブルの上には、ポン酢と大根おろし\nと錠剤が置かれている。",
+      "en": "The pot was boiling with an appetizing smell in front of me.",
+      "text": "The pot was boiling with an appetizing smell in front of me."
+    },
+    {
+      "offset": 2978,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "他にも、萌先輩が持ってきたクーラーボックス\nから、豚肉や白菜、えのきにほうれん草、ねぎ\nや豆腐などが取り出されていき――。",
+      "en": "There's soy sauce, grated radish and a bottle of pills on\nthe table.",
+      "text": "There's soy sauce, grated radish and a bottle of pills on\nthe table."
+    },
+    {
+      "offset": 3105,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「それにしても、なんで鍋なんです？　別に手\n　作りなら弁当でもいいと思うんだけど」",
+      "en": "Moe-sempai also took out some slices of pork, napa cabbage,\nmushrooms, spinach, green onion, and tofu out from her\ncooler box.",
+      "text": "Moe-sempai also took out some slices of pork, napa cabbage,\nmushrooms, spinach, green onion, and tofu out from her\ncooler box."
+    },
+    {
+      "offset": 3202,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 3217,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩は、きょとんとした顔をして俺の顔を見\nつめる。",
+      "en": "Moe-sempai looked at me with a surprised expression on her\nface.",
+      "text": "Moe-sempai looked at me with a surprised expression on her\nface."
+    },
+    {
+      "offset": 3305,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「冬といったら、お鍋じゃないですか」",
+      "en": "\"Hot pot's the food for this season, right?\"",
+      "text": "\"Hot pot's the food for this season, right?\""
+    },
+    {
+      "offset": 3348,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「いや、そうですけど、なにも学園の屋上で食\n　べなくても……寒いし」",
+      "en": "\"Well, that's right, but you don't have to eat it on the\nrooftop of the school...... Besides it's so cold out here.\"",
+      "text": "\"Well, that's right, but you don't have to eat it on the\nrooftop of the school...... Besides it's so cold out here.\""
+    },
+    {
+      "offset": 3452,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「私、お鍋大好きなんですよ。それに、お鍋を\n　囲んでいると、心まで温かくなりませんか？」",
+      "en": "\"I just love hot pot. Don't you feel your heart getting\nwarmer when you're eating hot pot?\"",
+      "text": "\"I just love hot pot. Don't you feel your heart getting\nwarmer when you're eating hot pot?\""
+    },
+    {
+      "offset": 3546,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はぁ」",
+      "en": "\"Hmm......\"",
+      "text": "\"Hmm......\""
+    },
+    {
+      "offset": 3591,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「やっぱり冬はお鍋です♪」",
+      "en": "\"I love hot pot in the winter time!\"",
+      "text": "\"I love hot pot in the winter time!\""
+    },
+    {
+      "offset": 3624,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3675,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「答えになってないわね」",
+      "en": "\"That's not a good answer.\"",
+      "text": "\"That's not a good answer.\""
+    },
+    {
+      "offset": 3706,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子の呟きを聞きながら、とりあえず俺は具材\nを鍋に入れるのを手伝うことにする。",
+      "en": "I heard Mako's reply as I helped put the ingredients into\nthe pot.",
+      "text": "I heard Mako's reply as I helped put the ingredients into\nthe pot."
+    },
+    {
+      "offset": 3788,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "手近にあった春菊に箸を伸ばし、鍋の中へ……。",
+      "en": "I reached for the corn marigold near me and tried to put it\nin the pot......",
+      "text": "I reached for the corn marigold near me and tried to put it\nin the pot......"
+    },
+    {
+      "offset": 3869,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「待ってくださいっ！」",
+      "en": "\"Wait a minute!\"",
+      "text": "\"Wait a minute!\""
+    },
+    {
+      "offset": 3898,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「な、なんですか？」",
+      "en": "\"W, What is it?\"",
+      "text": "\"W, What is it?\""
+    },
+    {
+      "offset": 3925,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩のイメージからは想像も出来ない大きな\n声に、思わず箸が止まる。",
+      "en": "My hand stopped as I heard an unimaginable loud voice come\nout of Moe.",
+      "text": "My hand stopped as I heard an unimaginable loud voice come\nout of Moe."
+    },
+    {
+      "offset": 4008,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「春菊は、食べる直前に入れなければならない\n　んです」",
+      "en": "\"Corn marigold must go into the pot right before we start\neating.\"",
+      "text": "\"Corn marigold must go into the pot right before we start\neating.\""
+    },
+    {
+      "offset": 4068,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「へっ……？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 4089,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あまりにも真顔で言う萌先輩に、間抜けな声が\n出てしまう。",
+      "en": "I asked with a foolish voice, as Moe-sempai spoke to me with\na serious look on her face.",
+      "text": "I asked with a foolish voice, as Moe-sempai spoke to me with\na serious look on her face."
+    },
+    {
+      "offset": 4160,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「まずは火の通りにくいものや、旨味の出てく\n　るお魚やお肉を入れるべきです」",
+      "en": "\"You must first put the fish and meat in, in order to get\nthe broth.\"",
+      "text": "\"You must first put the fish and meat in, in order to get\nthe broth.\""
+    },
+    {
+      "offset": 4242,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「は、はぁ」",
+      "en": "\"O- Okay......\"",
+      "text": "\"O- Okay......\""
+    },
+    {
+      "offset": 4261,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩の勢いにおされ、箸を戻す。",
+      "en": "I put back my hand as I was swamped by her lecture.",
+      "text": "I put back my hand as I was swamped by her lecture."
+    },
+    {
+      "offset": 4309,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「眞子ちゃん、しいたけ入れてくれる？　あっ、\n　あと白菜の芯もお願い」",
+      "en": "\"Mako, will you put the shitake mushrooms in there? Oh, and\nthe hard part of the napa cabbage too.\"",
+      "text": "\"Mako, will you put the shitake mushrooms in there? Oh, and\nthe hard part of the napa cabbage too.\""
+    },
+    {
+      "offset": 4417,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「うん」",
+      "en": "\"Okay.\"",
+      "text": "\"Okay.\""
+    },
+    {
+      "offset": 4432,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "慣れているのか、眞子は萌先輩に言われた通り\nに具材を入れていく。",
+      "en": "Mako put the ingredients into the pot as Moe-sempai ordered\nher.",
+      "text": "Mako put the ingredients into the pot as Moe-sempai ordered\nher."
+    },
+    {
+      "offset": 4502,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 4521,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もしかして、萌先輩って鍋奉行？",
+      "en": "Is Moe-sempai a hot pot maniac?",
+      "text": "Is Moe-sempai a hot pot maniac?"
+    },
+    {
+      "offset": 4556,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鍋の手順を仕切る奴をそう言うけど、まさか萌\n先輩がそれとは……。",
+      "en": "I've heard of hot pot maniacs, but I never thought\nMoe-sempai was one of them......",
+      "text": "I've heard of hot pot maniacs, but I never thought\nMoe-sempai was one of them......"
+    },
+    {
+      "offset": 4624,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "人の性格とは不思議なものだ。",
+      "en": "People's personalities are full of wonder.",
+      "text": "People's personalities are full of wonder."
+    },
+    {
+      "offset": 4657,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 4670,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩の指示通りに具材が鍋に入れられていき、\nそして取り出されていく。",
+      "en": "Ingredients went in and out of the pot at Moe-sempai's\ninstruction.",
+      "text": "Ingredients went in and out of the pot at Moe-sempai's\ninstruction."
+    },
+    {
+      "offset": 4744,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鍋の中は良く整理され、整然と並べられた貝の\n｛ふた／蓋｝が、パカッと開く。",
+      "en": "It looked neat inside, and the shells of the clams were\nstarting to open up.",
+      "text": "It looked neat inside, and the shells of the clams were\nstarting to open up."
+    },
+    {
+      "offset": 4833,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「今です！　貝を食べてください」",
+      "en": "\"Right now! You have to eat the clam now!\"",
+      "text": "\"Right now! You have to eat the clam now!\""
+    },
+    {
+      "offset": 4872,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 4887,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "再び、マジ顔で注意を促す萌先輩。",
+      "en": "Once again, she looked at me with a serious face.",
+      "text": "Once again, she looked at me with a serious face."
+    },
+    {
+      "offset": 4956,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「貝は蓋が開いた瞬間が美味しいんですよ」",
+      "en": "\"Clams taste the best at the moment their shells open!\"",
+      "text": "\"Clams taste the best at the moment their shells open!\""
+    },
+    {
+      "offset": 5003,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ニッコリ微笑む萌先輩。眞子は表情を崩さず、\n当たり前のように貝を自分の皿に取っていく。",
+      "en": "Moe-sempai smiled, while Mako put the clams into her bowl\nwith a blank expression.",
+      "text": "Moe-sempai smiled, while Mako put the clams into her bowl\nwith a blank expression."
+    },
+    {
+      "offset": 5095,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「頂きます」",
+      "en": "\"Thank you.\"",
+      "text": "\"Thank you.\""
+    },
+    {
+      "offset": 5114,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "貝を自分の皿に取り、中身を口に含む。",
+      "en": "I also took a clam and put it inside my mouth.",
+      "text": "I also took a clam and put it inside my mouth."
+    },
+    {
+      "offset": 5155,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "確かに美味しい。でも……、",
+      "en": "It was indeed delicious, but......",
+      "text": "It was indeed delicious, but......"
+    },
+    {
+      "offset": 5188,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「違いがわからん……」",
+      "en": "\"I can't tell the difference......\"",
+      "text": "\"I can't tell the difference......\""
+    },
+    {
+      "offset": 5217,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その後も、違いの分からないこだわりが続いた\nのだった……。",
+      "en": "Her particular instructions continued endlessly......",
+      "text": "Her particular instructions continued endlessly......"
+    },
+    {
+      "offset": 5408,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆鍋奉行◆",
+      "en": "◆Hot pot maniac◆",
+      "text": "◆Hot pot maniac◆"
+    },
+    {
+      "offset": 5449,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "屋上で萌先輩たちと鍋を食べる。冬は鍋という\n萌先輩だけど、なにも学園の屋上で料理をしな\nくても……。",
+      "en": "I ate hot pot with Moe-sempai and Mako on the rooftop.\nMoe-sempai insisted that we must eat hot pot in the winter\ntime, but why should we eat it on the school rooftop......?",
+      "text": "I ate hot pot with Moe-sempai and Mako on the rooftop.\nMoe-sempai insisted that we must eat hot pot in the winter\ntime, but why should we eat it on the school rooftop......?"
+    },
+    {
+      "offset": 5552,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それにしても萌先輩が鍋奉行だったとは驚いた。",
+      "en": "Anyway, I was surprised to discover that Moe was a hot pot\nmaniac.",
+      "text": "Anyway, I was surprised to discover that Moe was a hot pot\nmaniac."
+    },
+    {
+      "offset": 5601,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただ先輩の言うとおりに食べては見たけれど\n……違いがわからん。",
+      "en": "I ate it as she instructed...... but I can't tell the\ndifference.",
+      "text": "I ate it as she instructed...... but I can't tell the\ndifference."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "1156": "Mako",
+    "1209": "Mako",
+    "1317": "Mako",
+    "1486": "Moe",
+    "1902": "Mako",
+    "2041": "Mako",
+    "2194": "Mako",
+    "2288": "Moe",
+    "2546": "Mako",
+    "3196": "Moe",
+    "3299": "Moe",
+    "3446": "Moe",
+    "3585": "Moe",
+    "3667": "Mako",
+    "3863": "Moe",
+    "4002": "Moe",
+    "4154": "Moe",
+    "4303": "Moe",
+    "4409": "Mako",
+    "4827": "Moe",
+    "4950": "Moe"
+  }
+}

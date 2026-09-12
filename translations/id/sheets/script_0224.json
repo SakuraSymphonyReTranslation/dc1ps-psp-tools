@@ -1,0 +1,513 @@
+{
+  "scene": "script_0224.obj",
+  "dialogues": [
+    {
+      "offset": 149,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "マンガでも買おうと、本屋に向かう。",
+      "en": "I headed to the bookstore to buy some manga.",
+      "text": "I headed to the bookstore to buy some manga."
+    },
+    {
+      "offset": 188,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "３月に入り、段々と気温は穏やかになってきた。\nそろそろ春を実感出来る季節だ。",
+      "en": "Being March, the temperature had slowly gotten warmer. It's\nstarting to feel a lot more like spring now.",
+      "text": "Being March, the temperature had slowly gotten warmer. It's\nstarting to feel a lot more like spring now."
+    },
+    {
+      "offset": 268,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もっとも、年中咲いている桜のせいで、その実\n感もバーゲンセールって感じなのだが。",
+      "en": "Although, thanks to those year-round blooming Sakura, the\nonly way to really tell when it's spring now is by the\nbargain sales.",
+      "text": "Although, thanks to those year-round blooming Sakura, the\nonly way to really tell when it's spring now is by the\nbargain sales."
+    },
+    {
+      "offset": 354,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おっと」",
+      "en": "\"Oops.\"",
+      "text": "\"Oops.\""
+    },
+    {
+      "offset": 371,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本屋に入ろうとして、同時に入ろうとした人と\nぶつかりそうになってしまった。",
+      "en": "As I entered the bookstore, I bumped into someone else\nleaving at the same time.",
+      "text": "As I entered the bookstore, I bumped into someone else\nleaving at the same time."
+    },
+    {
+      "offset": 491,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「すみません……って、何だ、朝倉君か。こん\n　ちわっす」",
+      "en": "\"I'm sorry... oh, Asakura-kun. Good afternoon!\"",
+      "text": "\"I'm sorry... oh, Asakura-kun. Good afternoon!\""
+    },
+    {
+      "offset": 553,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「こんちは。ことりも、本屋に買い物？」",
+      "en": "\"Afternoon. Were you shopping at the bookstore as well?\"",
+      "text": "\"Afternoon. Were you shopping at the bookstore as well?\""
+    },
+    {
+      "offset": 628,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「うん。予約しておいた本が、今日届いたって\n　電話があったから。朝倉君は？」",
+      "en": "\"Uh huh. The book that I reserved some time back has just\ncame in. What about you?\"",
+      "text": "\"Uh huh. The book that I reserved some time back has just\ncame in. What about you?\""
+    },
+    {
+      "offset": 710,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「まあ、適当に。マンガでも買おうかと思って」",
+      "en": "\"Well, nothing much. Just thinking of buying some manga.\"",
+      "text": "\"Well, nothing much. Just thinking of buying some manga.\""
+    },
+    {
+      "offset": 791,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「朝倉君って、どんなの読むの？」",
+      "en": "\"Hm, what kind of manga do you read?\"",
+      "text": "\"Hm, what kind of manga do you read?\""
+    },
+    {
+      "offset": 830,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ま、それは売ってたら見せるよ」",
+      "en": "\"I'd let you see after I buy it.\"",
+      "text": "\"I'd let you see after I buy it.\""
+    },
+    {
+      "offset": 899,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「売ってるといいな♪」",
+      "en": "\"I'd be waiting♪\"",
+      "text": "\"I'd be waiting♪\""
+    },
+    {
+      "offset": 948,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "　　　　　　　　　　・\n　　　　　　　　　　・\n　　　　　　　　　　・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 1073,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「売ってました？」",
+      "en": "\"Have you finished already?\"",
+      "text": "\"Have you finished already?\""
+    },
+    {
+      "offset": 1098,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "レジで商品を受け取るだけだったことりは、俺\nよりも先に店を出ていた。",
+      "en": "I finished paying for the manga at the register, then headed\nout of the store to where Kotori was waiting.",
+      "text": "I finished paying for the manga at the register, then headed\nout of the store to where Kotori was waiting."
+    },
+    {
+      "offset": 1172,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はい、これ」",
+      "en": "\"Yup, here it is.\"",
+      "text": "\"Yup, here it is.\""
+    },
+    {
+      "offset": 1193,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "茶色の紙封筒を手渡す。",
+      "en": "I passed the brown envelope-like bag to her.",
+      "text": "I passed the brown envelope-like bag to her."
+    },
+    {
+      "offset": 1235,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「開けていいんですか」",
+      "en": "\"May I open it?\"",
+      "text": "\"May I open it?\""
+    },
+    {
+      "offset": 1264,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "うなずくと、がさがさ中身を取りだした。",
+      "en": "I nodded in assent, and she opened the envelope skillfully.",
+      "text": "I nodded in assent, and she opened the envelope skillfully."
+    },
+    {
+      "offset": 1322,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「これって…………料理マンガ？」",
+      "en": "\"This is........ a cooking manga?\"",
+      "text": "\"This is........ a cooking manga?\""
+    },
+    {
+      "offset": 1361,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ああ」",
+      "en": "\"Yeah.\"",
+      "text": "\"Yeah.\""
+    },
+    {
+      "offset": 1376,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とんでもない食材を使って読者の度肝を抜くマ\nンガで、料理を食べた後のリアクションが激し\nくて面白い。",
+      "en": "It has some nice cooking tips, but that's not the main\nreason I bought it. I just love the reactions of the people\nwho eat the food.\"",
+      "text": "It has some nice cooking tips, but that's not the main\nreason I bought it. I just love the reactions of the people\nwho eat the food.\""
+    },
+    {
+      "offset": 1479,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当はウケを狙ってもっと違ったものを買おう\nかとも思ったんだが。",
+      "en": "A double reason to buy it, essentially.",
+      "text": "A double reason to buy it, essentially."
+    },
+    {
+      "offset": 1549,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「うちには食える材料を使って食えない料理を\n　作れるシェフがいるんでね。これで少し勉強\n　してもらおうと思ってな」",
+      "en": "\"There's a chef at home who can't cook anything no matter\nthe ingredients provided, so I figured I'd better study on\nthis subject.\"",
+      "text": "\"There's a chef at home who can't cook anything no matter\nthe ingredients provided, so I figured I'd better study on\nthis subject.\""
+    },
+    {
+      "offset": 1681,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「マンガで……ですか？」",
+      "en": "\"Using... a manga?\"",
+      "text": "\"Using... a manga?\""
+    },
+    {
+      "offset": 1712,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「まぁ、普通の方法じゃどうあっても食えない\n　もんしかできないから。これぐらいトンデモ\n　ナイ方がいいんだよ」",
+      "en": "\"Well, it's not normal, but I might as well mix work and\npleasure. Besides, what I learn from this can't be any worse\nthan what she makes...\"",
+      "text": "\"Well, it's not normal, but I might as well mix work and\npleasure. Besides, what I learn from this can't be any worse\nthan what she makes...\""
+    },
+    {
+      "offset": 1827,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……たぶん。",
+      "en": "...More or less.",
+      "text": "...More or less."
+    },
+    {
+      "offset": 1846,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、ことりは何を買ったんだ？」",
+      "en": "\"Anyway, what did you buy?\"",
+      "text": "\"Anyway, what did you buy?\""
+    },
+    {
+      "offset": 1898,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「私ですか？」",
+      "en": "\"Me?\"",
+      "text": "\"Me?\""
+    },
+    {
+      "offset": 1919,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あらかじめ用意していたのか、すっと本を差し\n出してきた。",
+      "en": "She passed the already-opened book to me.",
+      "text": "She passed the already-opened book to me."
+    },
+    {
+      "offset": 1981,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん……？　“正しい声楽”。……ああ、歌の\n　本ね」",
+      "en": "\"Hmm? \"Perfect Vocal Music\". ......Ahh, a music book.\"",
+      "text": "\"Hmm? \"Perfect Vocal Music\". ......Ahh, a music book.\""
+    },
+    {
+      "offset": 2039,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "固い表紙で、いかにも高そうな本だった。",
+      "en": "It was a large, hard-cover book.",
+      "text": "It was a large, hard-cover book."
+    },
+    {
+      "offset": 2084,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なるほどな。確かにこういうのは、取り寄せ\n　じゃないと買えないかも」",
+      "en": "\"I see. I can understand why you needed to order this, it\nprobably isn't sold on shelves normally.\"",
+      "text": "\"I see. I can understand why you needed to order this, it\nprobably isn't sold on shelves normally.\""
+    },
+    {
+      "offset": 2190,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「それに、時間も掛かるんですから。マメな自\n　分に、拍手したいぐらいですよ、ほんと」",
+      "en": "\"And I came here right on the day it came in! I should\ndeserve some applause for my dedication, really.\"",
+      "text": "\"And I came here right on the day it came in! I should\ndeserve some applause for my dedication, really.\""
+    },
+    {
+      "offset": 2280,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "パチパチ。",
+      "en": "--*clap clap*",
+      "text": "--*clap clap*"
+    },
+    {
+      "offset": 2295,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が拍手すると。",
+      "en": "I clapped my hands together.",
+      "text": "I clapped my hands together."
+    },
+    {
+      "offset": 2331,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「どうもです」",
+      "en": "\"Thank you, thank you.\"",
+      "text": "\"Thank you, thank you.\""
+    },
+    {
+      "offset": 2352,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少しだけ照れたことりがぺこりと頭を下げた。",
+      "en": "The slightly embarassed Kotori bowed multiple times.",
+      "text": "The slightly embarassed Kotori bowed multiple times."
+    },
+    {
+      "offset": 2401,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「でも、やっぱことりって歌が好きなんだな」",
+      "en": "\"You must really like singing.\"",
+      "text": "\"You must really like singing.\""
+    },
+    {
+      "offset": 2450,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本を受け取りながら、ことりは首を傾げた。",
+      "en": "I return the book to her, as she tilted her head slightly in\nthought.",
+      "text": "I return the book to her, as she tilted her head slightly in\nthought."
+    },
+    {
+      "offset": 2527,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「う〜ん、どうでしょうね。好きなのかな……」",
+      "en": "\"Weeell, I wouldn't exactly say that... how would I put\nit...\"",
+      "text": "\"Weeell, I wouldn't exactly say that... how would I put\nit...\""
+    },
+    {
+      "offset": 2578,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「好きだから上手だし、こういう本を買って、\n　勉強するんだろ？」",
+      "en": "\"You like it and want to get better, so you bought this book\nto improve yourself, right?\"",
+      "text": "\"You like it and want to get better, so you bought this book\nto improve yourself, right?\""
+    },
+    {
+      "offset": 2661,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「まあ、そうかもしれないですね」",
+      "en": "\"Well, I don't know about that.\"",
+      "text": "\"Well, I don't know about that.\""
+    },
+    {
+      "offset": 2700,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………？」",
+      "en": "\"......?\"",
+      "text": "\"......?\""
+    },
+    {
+      "offset": 2721,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何か、引っかかる言い方だった。",
+      "en": "What's she being so evasive about?",
+      "text": "What's she being so evasive about?"
+    },
+    {
+      "offset": 2758,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「違うの？」",
+      "en": "\"Is that wrong?\"",
+      "text": "\"Is that wrong?\""
+    },
+    {
+      "offset": 2807,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「何だか、分からないんですよね、自分でも」",
+      "en": "\"Well, heh, I don't really know myself...\"",
+      "text": "\"Well, heh, I don't really know myself...\""
+    },
+    {
+      "offset": 2856,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どことなく｛じちょう／自嘲｝めいた笑みを浮かべ、ことりは\n言った。",
+      "en": "With a curiously wistful smile, Kotori's unclear words hung\nin the air for a moment.",
+      "text": "With a curiously wistful smile, Kotori's unclear words hung\nin the air for a moment."
+    },
+    {
+      "offset": 2958,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「分かるようになれれば、いいと思うんですけ\n　どね……」",
+      "en": "\"If I really knew, that would be so nice...\"",
+      "text": "\"If I really knew, that would be so nice...\""
+    },
+    {
+      "offset": 3050,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「それじゃ、私は机にかじりついて鬼のように\n　読まなければいけないので、これにて帰りま\n　す」",
+      "en": "\"Anyway, I'm going home to tear into this book.\"",
+      "text": "\"Anyway, I'm going home to tear into this book.\""
+    },
+    {
+      "offset": 3179,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ばいばいきーん」",
+      "en": "\"Bye bye kiin!\"",
+      "text": "\"Bye bye kiin!\""
+    },
+    {
+      "offset": 3218,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「バイバイ……菌？」",
+      "en": "\"Bye bye... kiin?\"",
+      "text": "\"Bye bye... kiin?\""
+    },
+    {
+      "offset": 3245,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3264,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "微妙な挨拶を春先の空気に残して、ことりは去っ\nていったのだった。",
+      "en": "As her subtle farewell hung in the air, Kotori left the\nshoping district.",
+      "text": "As her subtle farewell hung in the air, Kotori left the\nshoping district."
+    },
+    {
+      "offset": 3332,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "………。",
+      "en": ".........",
+      "text": "........."
+    },
+    {
+      "offset": 3345,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 3356,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…。",
+      "en": "...",
+      "text": "..."
+    },
+    {
+      "offset": 3367,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「空元気……なのかな？」",
+      "en": "\"...Trying to act cool?\"",
+      "text": "\"...Trying to act cool?\""
+    },
+    {
+      "offset": 3527,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆ことりと歌◆",
+      "en": "◆Kotori and Singing◆",
+      "text": "◆Kotori and Singing◆"
+    },
+    {
+      "offset": 3570,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本屋へと行くと、偶然にもことりに出会った。\nことりは、歌の本を買いに来たらしい。",
+      "en": "As I walked into the bookshop, I met Kotori by chance.\nKotori had went to the bookshop to buy a music book.",
+      "text": "As I walked into the bookshop, I met Kotori by chance.\nKotori had went to the bookshop to buy a music book."
+    },
+    {
+      "offset": 3654,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりは歌が好きなんだな、そう言うと、こと\nりは妙にあやふやな態度を見せたのだった。",
+      "en": "When I said that Kotori must really like singing, her\nresponse and attitude was far more vague than I was\nexpecting.",
+      "text": "When I said that Kotori must really like singing, her\nresponse and attitude was far more vague than I was\nexpecting."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "481": "Kotori",
+    "618": "Kotori",
+    "781": "Kotori",
+    "889": "Kotori",
+    "1063": "Kotori",
+    "1225": "Kotori",
+    "1312": "Kotori",
+    "1671": "Kotori",
+    "1888": "Kotori",
+    "2180": "Kotori",
+    "2321": "Kotori",
+    "2517": "Kotori",
+    "2651": "Kotori",
+    "2797": "Kotori",
+    "2948": "Kotori",
+    "3040": "Kotori",
+    "3169": "Kotori"
+  }
+}

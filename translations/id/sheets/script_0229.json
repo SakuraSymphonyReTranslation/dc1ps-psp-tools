@@ -1,0 +1,807 @@
+{
+  "scene": "script_0229.obj",
+  "dialogues": [
+    {
+      "offset": 143,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「暇つぶしにと、神社に来てみた訳だが」",
+      "en": "\"(I always seems to come to the shrine when I'm bored.)\"",
+      "text": "\"(I always seems to come to the shrine when I'm bored.)\""
+    },
+    {
+      "offset": 188,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環と巫女について話すのも、悪くない。",
+      "en": "It's kinda enjoyable, talking to Tamaki aboutMiko.",
+      "text": "It's kinda enjoyable, talking to Tamaki aboutMiko."
+    },
+    {
+      "offset": 231,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（あれ……？　今日は居ない……のか？）",
+      "en": "\"(Eh....? She's not around today?)\"",
+      "text": "\"(Eh....? She's not around today?)\""
+    },
+    {
+      "offset": 276,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "神社の中を歩き回ったものの、環を見つけるこ\nとはできなかった。",
+      "en": "I walked around the shrine, but couldn't find her anywhere.",
+      "text": "I walked around the shrine, but couldn't find her anywhere."
+    },
+    {
+      "offset": 344,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ま、しょうがない、か」",
+      "en": "\"Oh well.\"",
+      "text": "\"Oh well.\""
+    },
+    {
+      "offset": 375,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "巫女装束の環を見ようと思ったけど……こうい\nう日もある。",
+      "en": "I thought I'd see Tamaki in her Miko dress today... looks\nlike it's not meant to be.",
+      "text": "I thought I'd see Tamaki in her Miko dress today... looks\nlike it's not meant to be."
+    },
+    {
+      "offset": 437,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "無駄足だったなと重い足を引きずって帰ろうと\n向きを変えた時。",
+      "en": "Thinking I'd wasted my time, I started heading back, when...",
+      "text": "Thinking I'd wasted my time, I started heading back, when..."
+    },
+    {
+      "offset": 506,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ざあああああ……。",
+      "en": "*whoooooosh...*",
+      "text": "*whoooooosh...*"
+    },
+    {
+      "offset": 529,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "風が流れた。",
+      "en": "A wind blew past suddenly.",
+      "text": "A wind blew past suddenly."
+    },
+    {
+      "offset": 546,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "風は俺を取り巻き、足を止まらせる。",
+      "en": "It surrounded me entirely, keeping me from walking.",
+      "text": "It surrounded me entirely, keeping me from walking."
+    },
+    {
+      "offset": 590,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ざあああああ……。",
+      "en": "*whoooooosh...*",
+      "text": "*whoooooosh...*"
+    },
+    {
+      "offset": 613,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "耳元で鳴る風は、まるで俺に話しかけているよ\nうで──。",
+      "en": "The roar of the wind almost made it seem like it was trying\nto talk to me...",
+      "text": "The roar of the wind almost made it seem like it was trying\nto talk to me..."
+    },
+    {
+      "offset": 671,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ザワザワ……。",
+      "en": "*flutter...*",
+      "text": "*flutter...*"
+    },
+    {
+      "offset": 690,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "木がなびき、話に加わってくる。",
+      "en": "The trees started swaying, joining in on the conversation.",
+      "text": "The trees started swaying, joining in on the conversation."
+    },
+    {
+      "offset": 725,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は上を見て、そこに一本の大きな｛まき／槙｝の木を認\nめた。",
+      "en": "I looked up, at a large tree in front of me.",
+      "text": "I looked up, at a large tree in front of me."
+    },
+    {
+      "offset": 791,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（でかい木だな……）",
+      "en": "\"(What a huge tree...)\"",
+      "text": "\"(What a huge tree...)\""
+    },
+    {
+      "offset": 818,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "樹齢何百年、ってところか。",
+      "en": "It looks like it's survived for hundreds of years.",
+      "text": "It looks like it's survived for hundreds of years."
+    },
+    {
+      "offset": 849,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "御神木なのか、周りに柵がある。",
+      "en": "Fences surrounded it, protecting it from outside influence.",
+      "text": "Fences surrounded it, protecting it from outside influence."
+    },
+    {
+      "offset": 886,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（なんだ……？）",
+      "en": "\"(What is this...?)\"",
+      "text": "\"(What is this...?)\""
+    },
+    {
+      "offset": 909,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の足が動き出す。",
+      "en": "My legs began to move by themselves.",
+      "text": "My legs began to move by themselves."
+    },
+    {
+      "offset": 932,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "風と木の会話にでも混ざろうっていうのか。",
+      "en": "To get further mixed into the conversation between the wind\nand the trees.",
+      "text": "To get further mixed into the conversation between the wind\nand the trees."
+    },
+    {
+      "offset": 977,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まるで導かれるように、その木に歩み寄る俺。",
+      "en": "As if guided somehow, my legs led me to the base of the\ntree.",
+      "text": "As if guided somehow, my legs led me to the base of the\ntree."
+    },
+    {
+      "offset": 1026,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 1045,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "柵の手前まで来て、槙の木を見上げた時、俺の\n中の何かが動いた。",
+      "en": "Placing my hands on the fence, and looking up to this tree,\nsomething inside me stirred.",
+      "text": "Placing my hands on the fence, and looking up to this tree,\nsomething inside me stirred."
+    },
+    {
+      "offset": 1140,
+      "speaker": "???",
+      "speaker_jp": "？？？",
+      "jp": "「……………………聞いたんだもん……」",
+      "en": "\".....Please listen to me...\"",
+      "text": "\".....Please listen to me...\""
+    },
+    {
+      "offset": 1204,
+      "speaker": "???",
+      "speaker_jp": "？？？",
+      "jp": "「！？」",
+      "en": "\"!?\"",
+      "text": "\"!?\""
+    },
+    {
+      "offset": 1219,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだ、今の？",
+      "en": "What the?",
+      "text": "What the?"
+    },
+    {
+      "offset": 1238,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "風の声……じゃないよな。",
+      "en": "That wasn't... just the wind.",
+      "text": "That wasn't... just the wind."
+    },
+    {
+      "offset": 1267,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "遠い昔、どこかで聞いたような……。",
+      "en": "It sounded like a voice I've heard long ago...",
+      "text": "It sounded like a voice I've heard long ago..."
+    },
+    {
+      "offset": 1306,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それに、この木。",
+      "en": "And, this tree.",
+      "text": "And, this tree."
+    },
+    {
+      "offset": 1327,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はこの木を知っているような気がする。",
+      "en": "I've seen this tree before, somewhere, somehow.",
+      "text": "I've seen this tree before, somewhere, somehow."
+    },
+    {
+      "offset": 1370,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "すごく懐かしいような……。",
+      "en": "It feels so nostaglic...",
+      "text": "It feels so nostaglic..."
+    },
+    {
+      "offset": 1401,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何だろう。",
+      "en": "What's happening?",
+      "text": "What's happening?"
+    },
+    {
+      "offset": 1416,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一生懸命、記憶の糸を手繰り寄せる。",
+      "en": "I tried my best to recall every thread of my memory for such\nan instance...",
+      "text": "I tried my best to recall every thread of my memory for such\nan instance..."
+    },
+    {
+      "offset": 1482,
+      "speaker": "???",
+      "speaker_jp": "？？？",
+      "jp": "「ねえ…………なってくれない？」",
+      "en": "\"Hey..... you can't remember?\"",
+      "text": "\"Hey..... you can't remember?\""
+    },
+    {
+      "offset": 1540,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "聞こえる声の正体を確かめたいのに、その糸は\n弱くて、掴んだ途端千切れてしまって。",
+      "en": "The voice rang through my ears again, disturbing my\nconcentration.",
+      "text": "The voice rang through my ears again, disturbing my\nconcentration."
+    },
+    {
+      "offset": 1624,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思い出せない。",
+      "en": "I simply can't remember.",
+      "text": "I simply can't remember."
+    },
+    {
+      "offset": 1645,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（なんなんだ？　これ……？）",
+      "en": "\"(The hell is this...?)\"",
+      "text": "\"(The hell is this...?)\""
+    },
+    {
+      "offset": 1680,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ありがちなデ・ジャヴなのかも知れない。",
+      "en": "Maybe it's just a case of deja vu...",
+      "text": "Maybe it's just a case of deja vu..."
+    },
+    {
+      "offset": 1723,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言い切ってしまうのは簡単なのに。",
+      "en": "But I can't just declare that so easily either.",
+      "text": "But I can't just declare that so easily either."
+    },
+    {
+      "offset": 1764,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何でだろう？",
+      "en": "Just what is going on?",
+      "text": "Just what is going on?"
+    },
+    {
+      "offset": 1781,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はそう言い切りたくなかった。",
+      "en": "I didn't know anything for sure.",
+      "text": "I didn't know anything for sure."
+    },
+    {
+      "offset": 1816,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が固まっていると──。",
+      "en": "Perhaps, only that I exist as I am now--",
+      "text": "Perhaps, only that I exist as I am now--"
+    },
+    {
+      "offset": 1858,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「朝倉様……」",
+      "en": "\"Asakura-sama...\"",
+      "text": "\"Asakura-sama...\""
+    },
+    {
+      "offset": 1879,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "柔らかい、声。",
+      "en": "A soft, tender voice.",
+      "text": "A soft, tender voice."
+    },
+    {
+      "offset": 1898,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どこかで聞いたことのある、声。",
+      "en": "A voice I've heard many times before.",
+      "text": "A voice I've heard many times before."
+    },
+    {
+      "offset": 1933,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "声の正体が知りたくて……でも、確かめるのが\n何となく怖くて。",
+      "en": "A voice I wanted to know more of... yet scared to find out\nmore, at the same time.",
+      "text": "A voice I wanted to know more of... yet scared to find out\nmore, at the same time."
+    },
+    {
+      "offset": 1997,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ゆっくりと振り返ると。",
+      "en": "I turned around slowly.",
+      "text": "I turned around slowly."
+    },
+    {
+      "offset": 2064,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「朝倉様、いらしてたんですね」",
+      "en": "\"Asakura-sama, did you just arrive?\"",
+      "text": "\"Asakura-sama, did you just arrive?\""
+    },
+    {
+      "offset": 2101,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そこには、笑顔を浮かべた環が立っていた。",
+      "en": "Tamaki stood there, with her usual gentle smile.",
+      "text": "Tamaki stood there, with her usual gentle smile."
+    },
+    {
+      "offset": 2146,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環の、声……か。",
+      "en": "The voice of Tamaki... indeed.",
+      "text": "The voice of Tamaki... indeed."
+    },
+    {
+      "offset": 2167,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……なら、聞いたことがあって当たり前だよな。",
+      "en": "...Of course I've heard it many times before.",
+      "text": "...Of course I've heard it many times before."
+    },
+    {
+      "offset": 2216,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "教室で、あるいは桜並木で。",
+      "en": "At class, on the way to school...",
+      "text": "At class, on the way to school..."
+    },
+    {
+      "offset": 2247,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "会えば挨拶をして、その時に聞くんだから。",
+      "en": "When we say hello... audible at all those times.",
+      "text": "When we say hello... audible at all those times."
+    },
+    {
+      "offset": 2320,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「……どうかしたんですか？」",
+      "en": "\"...Is something the matter?\"",
+      "text": "\"...Is something the matter?\""
+    },
+    {
+      "offset": 2355,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「うん……」",
+      "en": "\"Mm...\"",
+      "text": "\"Mm...\""
+    },
+    {
+      "offset": 2374,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は環から視線を離して、木を見つめた。",
+      "en": "I let my gaze trail off from Tamaki, and lock onto the tree.",
+      "text": "I let my gaze trail off from Tamaki, and lock onto the tree."
+    },
+    {
+      "offset": 2419,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「この木……何だか見覚えがあるような気がす\n　るんだよ」",
+      "en": "\"This tree... made me remember something from long ago.\"",
+      "text": "\"This tree... made me remember something from long ago.\""
+    },
+    {
+      "offset": 2507,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2535,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「見覚え……ですか？」",
+      "en": "\"Remember... you say?\"",
+      "text": "\"Remember... you say?\""
+    },
+    {
+      "offset": 2564,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ああ。でも……よく思い出せなくて」",
+      "en": "\"Ahh... but I can't recall exactly what it is.\"",
+      "text": "\"Ahh... but I can't recall exactly what it is.\""
+    },
+    {
+      "offset": 2607,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思い出すための記憶の糸は、今も掴んだ先から\n千切れてしまう。",
+      "en": "The vague picture I had in my mind as I searched the threads\nof my memories, was now in pieces.",
+      "text": "The vague picture I had in my mind as I searched the threads\nof my memories, was now in pieces."
+    },
+    {
+      "offset": 2671,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もどかしい。自分の記憶だからこそ、余計｛いらだ／苛立｝\nちが募る。",
+      "en": "It's irritating, considering how much useless stuff that's\nstuck in there...",
+      "text": "It's irritating, considering how much useless stuff that's\nstuck in there..."
+    },
+    {
+      "offset": 2743,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2762,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……止めだ、止め」",
+      "en": "\"...Stop it, you, stop it..\"",
+      "text": "\"...Stop it, you, stop it..\""
+    },
+    {
+      "offset": 2789,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は髪をかき回して、振り返った。",
+      "en": "I shook my head back and forth vigourously, letting my hair\nflop around.",
+      "text": "I shook my head back and forth vigourously, letting my hair\nflop around."
+    },
+    {
+      "offset": 2828,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺に考え込むのは似合わない」",
+      "en": "\"Brooding doesn't become me.\"",
+      "text": "\"Brooding doesn't become me.\""
+    },
+    {
+      "offset": 2865,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺がそう言うと、環が何とも言えない複雑な表\n情をした。",
+      "en": "Tamaki had a complex expression on her face as she heard my\nmonologue.",
+      "text": "Tamaki had a complex expression on her face as she heard my\nmonologue."
+    },
+    {
+      "offset": 2951,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2970,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「というか、そもそも、こんなに考え込むのは\n　かったるい」",
+      "en": "\"And pondering over something so deeply like this is\ntroublesome anyway.\"",
+      "text": "\"And pondering over something so deeply like this is\ntroublesome anyway.\""
+    },
+    {
+      "offset": 3060,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「かったるい……。朝倉様、らしいですね」",
+      "en": "\"Troublesome... how very like Asakura-sama.\"",
+      "text": "\"Troublesome... how very like Asakura-sama.\""
+    },
+    {
+      "offset": 3107,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環が微笑んだ。",
+      "en": "Her giggles lifted the mood.",
+      "text": "Her giggles lifted the mood."
+    },
+    {
+      "offset": 3128,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まぁ、俺のことはさておき、だ。どこ行って\n　たんだ？」",
+      "en": "\"Anyway, enough about me. Where were you?\"",
+      "text": "\"Anyway, enough about me. Where were you?\""
+    },
+    {
+      "offset": 3216,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「買い物です」",
+      "en": "\"I was shopping.\"",
+      "text": "\"I was shopping.\""
+    },
+    {
+      "offset": 3237,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見れば、確かに環の手には、買い物袋があった。",
+      "en": "Indeed, she was carrying a shopping bag with her.",
+      "text": "Indeed, she was carrying a shopping bag with her."
+    },
+    {
+      "offset": 3297,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「食事の用意をしようと思って……あっ、そう\n　です！」",
+      "en": "\"I was buying ingredients to prepare for dinner... ah,\nthat's right!\"",
+      "text": "\"I was buying ingredients to prepare for dinner... ah,\nthat's right!\""
+    },
+    {
+      "offset": 3357,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ん？」",
+      "en": "\"Mm?\"",
+      "text": "\"Mm?\""
+    },
+    {
+      "offset": 3398,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「よろしかったら、一緒にお食事を召し上がっ\n　て行きませんか？」",
+      "en": "\"If you have nothing else to do, would you like to have a\nmeal with me?\"",
+      "text": "\"If you have nothing else to do, would you like to have a\nmeal with me?\""
+    },
+    {
+      "offset": 3468,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お食事……。",
+      "en": "A meal...",
+      "text": "A meal..."
+    },
+    {
+      "offset": 3485,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんと｛こわく／蠱惑｝的で、魅力的な響きなんだ。",
+      "en": "What an alluring and charming word.",
+      "text": "What an alluring and charming word."
+    },
+    {
+      "offset": 3538,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかも、神社でご飯を食べるというのも、なか\nなか無い経験だ。",
+      "en": "Furthermore, I've not tasted food from a shrine before.",
+      "text": "Furthermore, I've not tasted food from a shrine before."
+    },
+    {
+      "offset": 3602,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だけど。",
+      "en": "However,",
+      "text": "However,"
+    },
+    {
+      "offset": 3615,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢一人で飯を食わせるのも、何となく可愛そ\nうに思える。",
+      "en": "Thinking of Nemu eating by herself, made me feel lonely for\nher.",
+      "text": "Thinking of Nemu eating by herself, made me feel lonely for\nher."
+    },
+    {
+      "offset": 3677,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや、今日はやめておくよ」",
+      "en": "\"I'm sorry, not today.\"",
+      "text": "\"I'm sorry, not today.\""
+    },
+    {
+      "offset": 3712,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「音夢のことが気になるし……」",
+      "en": "\"Nemu's probably expecting me...\"",
+      "text": "\"Nemu's probably expecting me...\""
+    },
+    {
+      "offset": 3775,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そ、そうですよね。やっぱり」",
+      "en": "\"A, ahh, of course.\"",
+      "text": "\"A, ahh, of course.\""
+    },
+    {
+      "offset": 3812,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「やっぱり？」",
+      "en": "\"Of course?\"",
+      "text": "\"Of course?\""
+    },
+    {
+      "offset": 3859,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「い、いえ。何でもありません」",
+      "en": "\"O, oh, it's nothing.\"",
+      "text": "\"O, oh, it's nothing.\""
+    },
+    {
+      "offset": 3896,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつもより強い口調で言い切る環。",
+      "en": "Her tone was stronger than usual.",
+      "text": "Her tone was stronger than usual."
+    },
+    {
+      "offset": 3935,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………？」",
+      "en": "\"......?\"",
+      "text": "\"......?\""
+    },
+    {
+      "offset": 3982,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「また、次の機会にしましょう」",
+      "en": "\"Well then, until we meet again.\"",
+      "text": "\"Well then, until we meet again.\""
+    },
+    {
+      "offset": 4019,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「悪いな。せっかく誘ってもらったのに」",
+      "en": "\"Sorry again, maybe next time.\"",
+      "text": "\"Sorry again, maybe next time.\""
+    },
+    {
+      "offset": 4064,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちょっと……というか、かなりもったいない気\nはするが。",
+      "en": "Although... I don't feel like I'm worthy of it.",
+      "text": "Although... I don't feel like I'm worthy of it."
+    },
+    {
+      "offset": 4122,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は環に別れを告げ、夕日で赤く染まる神社を\n後にした。",
+      "en": "I seperated from Tamaki, and left the shrine under the red\nof the evening.",
+      "text": "I seperated from Tamaki, and left the shrine under the red\nof the evening."
+    },
+    {
+      "offset": 4309,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆大きな槙の木◆",
+      "en": "◆The Large Evergreen Tree?◆",
+      "text": "◆The Large Evergreen Tree?◆"
+    },
+    {
+      "offset": 4354,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暇つぶしに神社へ行くと、環はいなかった。",
+      "en": "With nothing to do, I went to the shrine, but Tamaki wasn't\nthere.",
+      "text": "With nothing to do, I went to the shrine, but Tamaki wasn't\nthere."
+    },
+    {
+      "offset": 4399,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぶらぶらと境内を歩き回ると、一本の槙の木を\n見つける。",
+      "en": "Wandering aimlessly around the shrine grounds, I happened\nupon a large evergreen tree.",
+      "text": "Wandering aimlessly around the shrine grounds, I happened\nupon a large evergreen tree."
+    },
+    {
+      "offset": 4457,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何だか、とても懐かしい気がするのだが、思い\n出せなかった。",
+      "en": "It gave me a nostalgic feeling, but I couldn't place exactly\nwhat it was.",
+      "text": "It gave me a nostalgic feeling, but I couldn't place exactly\nwhat it was."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "1130": "???",
+    "1472": "???",
+    "1852": "Tamaki",
+    "2058": "Tamaki",
+    "2314": "Tamaki",
+    "2501": "Tamaki",
+    "2529": "Tamaki",
+    "2945": "Tamaki",
+    "3054": "Tamaki",
+    "3210": "Tamaki",
+    "3291": "Tamaki",
+    "3392": "Tamaki",
+    "3769": "Tamaki",
+    "3853": "Tamaki",
+    "3976": "Tamaki"
+  }
+}

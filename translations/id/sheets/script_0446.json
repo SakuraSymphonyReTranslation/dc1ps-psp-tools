@@ -1,0 +1,1230 @@
+{
+  "scene": "script_0446.obj",
+  "dialogues": [
+    {
+      "offset": 232,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「鍵閉めた〜？」",
+      "en": "\"Did you lock the door?\"",
+      "text": "\"Did you lock the door?\""
+    },
+    {
+      "offset": 255,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「閉めたよ」",
+      "en": "\"Yeah.\"",
+      "text": "\"Yeah.\""
+    },
+    {
+      "offset": 274,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鍵をポケットにしまって、施錠を確かめるため\nに扉をひっぱる。",
+      "en": "I pulled the door to check if the door has been locked as I\nput my keys in my pocket.",
+      "text": "I pulled the door to check if the door has been locked as I\nput my keys in my pocket."
+    },
+    {
+      "offset": 340,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「うっし」",
+      "en": "\"Okay.\"",
+      "text": "\"Okay.\""
+    },
+    {
+      "offset": 390,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「窓も閉めてきた？　ガスの元栓は？」",
+      "en": "\"Did you close the window? What about the gas?\"",
+      "text": "\"Did you close the window? What about the gas?\""
+    },
+    {
+      "offset": 433,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "玄関から出てきた俺を音夢が上目遣いに見上げ\nる。",
+      "en": "Nemu looked up to me as I came out of the house.",
+      "text": "Nemu looked up to me as I came out of the house."
+    },
+    {
+      "offset": 487,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ちゃんと全部閉めた」",
+      "en": "\"Yes, I did all of that.\"",
+      "text": "\"Yes, I did all of that.\""
+    },
+    {
+      "offset": 544,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ホント？」",
+      "en": "\"Really?\"",
+      "text": "\"Really?\""
+    },
+    {
+      "offset": 563,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「お前は｛こじゅうと／小姑｝か……」",
+      "en": "\"You sound like a mother-in-law......\"",
+      "text": "\"You sound like a mother-in-law......\""
+    },
+    {
+      "offset": 634,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「小姑って――」",
+      "en": "\"Mother-in-law?\"",
+      "text": "\"Mother-in-law?\""
+    },
+    {
+      "offset": 657,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の｛にら／睨｝みに、しかし音夢も腕を組んで目を細め\nる。",
+      "en": "Nemu folded her arms and narrowed her eyes to look back at\nme as I stared at her.",
+      "text": "Nemu folded her arms and narrowed her eyes to look back at\nme as I stared at her."
+    },
+    {
+      "offset": 749,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「この年の女の子つかまえて小姑ってねぇ……\n　もう、そんなことじゃ兄さん、お｛むこ／婿｝さんにな\n　れなくなるよ？」",
+      "en": "\"How could you call a young girl like me a mother-in-law?\nYou should worry about yourself. You can't get married if\nyou're like that.\"",
+      "text": "\"How could you call a young girl like me a mother-in-law?\nYou should worry about yourself. You can't get married if\nyou're like that.\""
+    },
+    {
+      "offset": 870,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「婿？」",
+      "en": "\"Me?\"",
+      "text": "\"Me?\""
+    },
+    {
+      "offset": 913,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ん？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 928,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「俺が婿に行くんじゃなくて、お前が嫁に行く\n　んだろうが」",
+      "en": "\"I'm not marrying into someone else's family. You are.\"",
+      "text": "\"I'm not marrying into someone else's family. You are.\""
+    },
+    {
+      "offset": 1020,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「は？　どうして私が無精の兄さんを置いて、\n　お嫁さんに行くのよ」",
+      "en": "\"What? How could I get married leaving you behind?\"",
+      "text": "\"What? How could I get married leaving you behind?\""
+    },
+    {
+      "offset": 1092,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なんだそれ？」",
+      "en": "\"What do you mean?\"",
+      "text": "\"What do you mean?\""
+    },
+    {
+      "offset": 1143,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ふっ。甲斐性無しの兄さんがひとりになった\n　ら、掃除も洗濯も面倒だって、家がどうなる\n　か怖くて……」",
+      "en": "\"I'm so worried what the house will be like if I leave you.\nYou're so lazy, you can't do anything by yourself.\"",
+      "text": "\"I'm so worried what the house will be like if I leave you.\nYou're so lazy, you can't do anything by yourself.\""
+    },
+    {
+      "offset": 1252,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「っ！」",
+      "en": "\"What!\"",
+      "text": "\"What!\""
+    },
+    {
+      "offset": 1267,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "無精で甲斐性なしかい。",
+      "en": "I'm a lazy bum?",
+      "text": "I'm a lazy bum?"
+    },
+    {
+      "offset": 1324,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「言葉につまるってことは、自分でもそう思っ\n　ている証拠よね」",
+      "en": "\"See? You must know that, since you aren't talking back to\nme at all.\"",
+      "text": "\"See? You must know that, since you aren't talking back to\nme at all.\""
+    },
+    {
+      "offset": 1392,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ぐ……！　ま、まぁ、そうだな。料理の出来\n　ないお前が嫁に行けることもあるまい」",
+      "en": "\"Mm...... Well, fine. I guess you won't be getting married\nany time soon since you can't cook.\"",
+      "text": "\"Mm...... Well, fine. I guess you won't be getting married\nany time soon since you can't cook.\""
+    },
+    {
+      "offset": 1519,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「む……む〜！！」",
+      "en": "\"How could you!!\"",
+      "text": "\"How could you!!\""
+    },
+    {
+      "offset": 1544,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うぐぐぐ！」",
+      "en": "\"Mm......!\"",
+      "text": "\"Mm......!\""
+    },
+    {
+      "offset": 1596,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「む〜……って、バカなことやってないで、早\n　く学園に行くわよ」",
+      "en": "\"Fine, we have to quit all of this. Let's go to school.\"",
+      "text": "\"Fine, we have to quit all of this. Let's go to school.\""
+    },
+    {
+      "offset": 1666,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "肩の力を抜いて、音夢がてへへ、と笑う。",
+      "en": "Nemu smiles in a relaxed mood.",
+      "text": "Nemu smiles in a relaxed mood."
+    },
+    {
+      "offset": 1711,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そうだな……でも、とりあえずお前が先に嫁\n　に行けよ」",
+      "en": "\"I guess...... But I still think you should get married\nfirst.\"",
+      "text": "\"I guess...... But I still think you should get married\nfirst.\""
+    },
+    {
+      "offset": 1801,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なに、まだ、こだわってるの？」",
+      "en": "\"What? Why are you saying that?\"",
+      "text": "\"What? Why are you saying that?\""
+    },
+    {
+      "offset": 1840,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「順番だよ。お前が嫁に行くのを見届けるのが、\n　死んだ父親代わりの俺の役目だ」",
+      "en": "\"We have to take turns. I think it's my duty to make sure\nyou get married for dad's sake.\"",
+      "text": "\"We have to take turns. I think it's my duty to make sure\nyou get married for dad's sake.\""
+    },
+    {
+      "offset": 1924,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "腕を組んでしみじみと頷く。",
+      "en": "I folded my arms and nodded nostalgically.",
+      "text": "I folded my arms and nodded nostalgically."
+    },
+    {
+      "offset": 1996,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……お父さん死んでないわよ」",
+      "en": "\"......Dad's not dead yet.\"",
+      "text": "\"......Dad's not dead yet.\""
+    },
+    {
+      "offset": 2033,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ん？　おぉ！　あんまりにも影が薄いんで忘\n　れてたぞ」",
+      "en": "\"Huh? Oh, yeah!\"",
+      "text": "\"Huh? Oh, yeah!\""
+    },
+    {
+      "offset": 2134,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「笑顔で言うことじゃないでしょうが……」",
+      "en": "I forgot because he's gone all the time.",
+      "text": "I forgot because he's gone all the time."
+    },
+    {
+      "offset": 2181,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ははははは」",
+      "en": "\"Don't smile like that......\"",
+      "text": "\"Don't smile like that......\""
+    },
+    {
+      "offset": 2202,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わず笑って誤魔化す。",
+      "en": "\"Ha ha.\"",
+      "text": "\"Ha ha.\""
+    },
+    {
+      "offset": 2229,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "すまんな親父。",
+      "en": "I laughed it off.",
+      "text": "I laughed it off."
+    },
+    {
+      "offset": 2281,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「はぁ……順番なら、やっぱり兄さんが先で\n　しょ。兄妹なんだから」",
+      "en": "Sorry dad.",
+      "text": "Sorry dad."
+    },
+    {
+      "offset": 2353,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「どうせなら、誕生日一緒なんだし同じ日に結\n　婚すれば問題なしなのにな」",
+      "en": "\"When you talk about turns, you have to get married first.\nYou're older.\"",
+      "text": "\"When you talk about turns, you have to get married first.\nYou're older.\""
+    },
+    {
+      "offset": 2459,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「えっ？」",
+      "en": "\"I guess we should get married on the same day since we're\nborn on the same day.\"",
+      "text": "\"I guess we should get married on the same day since we're\nborn on the same day.\""
+    },
+    {
+      "offset": 2476,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「同じ式場を借りれば安く済む」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 2541,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そ、そ、そん、そんなこと――」",
+      "en": "\"It'll be cheaper if we use the same venue.\"",
+      "text": "\"It'll be cheaper if we use the same venue.\""
+    },
+    {
+      "offset": 2580,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ん？」",
+      "en": "\"A-A-Are you crazy?\"",
+      "text": "\"A-A-Are you crazy?\""
+    },
+    {
+      "offset": 2623,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だって、それって……その……駄目だよ兄妹\n　でそんなこと」",
+      "en": "\"Why?\"",
+      "text": "\"Why?\""
+    },
+    {
+      "offset": 2689,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄妹だからいいんじゃないか？」",
+      "en": "\"Well, because...... we're brother and sister, and......\"",
+      "text": "\"Well, because...... we're brother and sister, and......\""
+    },
+    {
+      "offset": 2739,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ほらっ、世間的に色々とあるでしょ。そもそ\n　も兄さんと……それは……う〜」",
+      "en": "\"Yeah, that's why, don't you think?\"",
+      "text": "\"Yeah, that's why, don't you think?\""
+    },
+    {
+      "offset": 2821,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"Well, I don't know what people say, and we are......\nah......\"",
+      "text": "\"Well, I don't know what people say, and we are......\nah......\""
+    },
+    {
+      "offset": 2840,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだコイツ？",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2861,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ、ほら、恋人もいないのに結婚の話とかし\n　てたら、ずんずん心が……」",
+      "en": "What's she talking about?",
+      "text": "What's she talking about?"
+    },
+    {
+      "offset": 2939,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"See, I'm starting to feel sad talking about weddings when I\ndon't even have a girlfriend......\"",
+      "text": "\"See, I'm starting to feel sad talking about weddings when I\ndon't even have a girlfriend......\""
+    },
+    {
+      "offset": 2958,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんとなく胸をおさえる。",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2987,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "心が痛くない――どころか、なんか心地よい。",
+      "en": "I pressed my chest casually.",
+      "text": "I pressed my chest casually."
+    },
+    {
+      "offset": 3036,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はて？」",
+      "en": "I'm not even sad, but rather comfortable.",
+      "text": "I'm not even sad, but rather comfortable."
+    },
+    {
+      "offset": 3105,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゃ？　なにやってる？」",
+      "en": "\"Hey! What are you doing?\"",
+      "text": "\"Hey! What are you doing?\""
+    },
+    {
+      "offset": 3140,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ひょっこりと隣の家からさくらが顔を出す。",
+      "en": "Sakura looked through the window since she lives next door.",
+      "text": "Sakura looked through the window since she lives next door."
+    },
+    {
+      "offset": 3236,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ちわちわ｛ちわげんか／痴話喧嘩｝？　怒りやすい人はミルク\n　飲むと良いよ。背も伸びるし」",
+      "en": "\"Having a fight? You should drink more milk if you get upset\noften. And it'll help you grow as well.\"",
+      "text": "\"Having a fight? You should drink more milk if you get upset\noften. And it'll help you grow as well.\""
+    },
+    {
+      "offset": 3332,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらが牛乳受けから牛乳のビンを取り出す。",
+      "en": "Sakura took out a bottle of milk.",
+      "text": "Sakura took out a bottle of milk."
+    },
+    {
+      "offset": 3381,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……まったく説得力がないな」",
+      "en": "\"......It doesn't sound convincing when you say that.\"",
+      "text": "\"......It doesn't sound convincing when you say that.\""
+    },
+    {
+      "offset": 3446,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「い、いえ。ちょっと婿に行くか嫁に行くかで\n　口論に……」",
+      "en": "\"Oh, no. We were just arguing about who's going to get\nmarried first.\"",
+      "text": "\"Oh, no. We were just arguing about who's going to get\nmarried first.\""
+    },
+    {
+      "offset": 3540,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「にゃ〜、どっちが？」",
+      "en": "\"Okay, so who?\"",
+      "text": "\"Okay, so who?\""
+    },
+    {
+      "offset": 3569,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「音夢だ」",
+      "en": "\"It's Nemu.\"",
+      "text": "\"It's Nemu.\""
+    },
+    {
+      "offset": 3614,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だから兄さんと一緒だって――」",
+      "en": "\"No, like I said, we have to go together......\"",
+      "text": "\"No, like I said, we have to go together......\""
+    },
+    {
+      "offset": 3694,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そうだね。そうそう。お兄ちゃんはボクと結\n　婚するからね♪」",
+      "en": "\"I see. Oh, by the way, oniichan's going to marry me.\"",
+      "text": "\"I see. Oh, by the way, oniichan's going to marry me.\""
+    },
+    {
+      "offset": 3762,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「はぁ？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 3807,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「えっ！　ちょっと、それは駄目！」",
+      "en": "\"What! No, that's not right!\"",
+      "text": "\"What! No, that's not right!\""
+    },
+    {
+      "offset": 3881,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「にゃ？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 3898,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そうそう」",
+      "en": "\"That's right.\"",
+      "text": "\"That's right.\""
+    },
+    {
+      "offset": 3947,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゃあ！」",
+      "en": "\"Meow!\"",
+      "text": "\"Meow!\""
+    },
+    {
+      "offset": 3968,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ははは、どんどん猫化しているぞお前は」",
+      "en": "\"You're turning into a cat.\"",
+      "text": "\"You're turning into a cat.\""
+    },
+    {
+      "offset": 4015,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "耳でも生えてきてしまいそうなので、さくらの\n頭に手をのせる。",
+      "en": "I put my hand on her head since she might grow a cat ear\nsoon.",
+      "text": "I put my hand on her head since she might grow a cat ear\nsoon."
+    },
+    {
+      "offset": 4109,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あぁ、もう！！　いい加減こんなバカ話して\n　ないで！」",
+      "en": "\"Fine! Stop talking nonsense already!\"",
+      "text": "\"Fine! Stop talking nonsense already!\""
+    },
+    {
+      "offset": 4171,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢が珍しく地団太踏んでどなる。",
+      "en": "Nemu stamped her feet in frustration and yelled out, which\nwas unusual for her.",
+      "text": "Nemu stamped her feet in frustration and yelled out, which\nwas unusual for her."
+    },
+    {
+      "offset": 4221,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ほらっ、さっきから一歩も学園に向かってな\n　いしぃ！」",
+      "en": "\"See? You aren't even moving!\"",
+      "text": "\"See? You aren't even moving!\""
+    },
+    {
+      "offset": 4283,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「い〜っぽ」",
+      "en": "\"One step!\"",
+      "text": "\"One step!\""
+    },
+    {
+      "offset": 4302,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とん、と１歩だけ歩いて笑う。",
+      "en": "I stepped forward and smiled.",
+      "text": "I stepped forward and smiled."
+    },
+    {
+      "offset": 4337,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「歴史的な瞬間だ」",
+      "en": "\"This is the history of mankind.\"",
+      "text": "\"This is the history of mankind.\""
+    },
+    {
+      "offset": 4401,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……お望みなら月面まで吹き飛ばすわよ」",
+      "en": "\"I'll blow you to the moon if you want me to.\"",
+      "text": "\"I'll blow you to the moon if you want me to.\""
+    },
+    {
+      "offset": 4448,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「じゃあさくら。俺は星にされる前に学園に急\n　がなくてはいけなくてな」",
+      "en": "\"Okay, Sakura. I have to go to school before she makes me\ninto a star.\"",
+      "text": "\"Okay, Sakura. I have to go to school before she makes me\ninto a star.\""
+    },
+    {
+      "offset": 4524,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しゅた、っと真面目に手を上げる。",
+      "en": "I raised my hand in serious manner.",
+      "text": "I raised my hand in serious manner."
+    },
+    {
+      "offset": 4593,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……え、うん」",
+      "en": "\"......Huh? Okay.\"",
+      "text": "\"......Huh? Okay.\""
+    },
+    {
+      "offset": 4616,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なぜか、さくらは音夢に視線を送りながら、上\nの空に頷く。",
+      "en": "Sakura looked at Nemu for some reason and nodded.",
+      "text": "Sakura looked at Nemu for some reason and nodded."
+    },
+    {
+      "offset": 4709,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「？　どうしたのさくら？」",
+      "en": "\"? What's wrong, Sakura?\"",
+      "text": "\"? What's wrong, Sakura?\""
+    },
+    {
+      "offset": 4774,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「駄目だからね音夢ちゃん。兄妹なんだから駄\n　目だよ」",
+      "en": "\"You can't do that, Nemu-chan. You guys are brother and\nsister. You can't do that.\"",
+      "text": "\"You can't do that, Nemu-chan. You guys are brother and\nsister. You can't do that.\""
+    },
+    {
+      "offset": 4862,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「――ぁ！？」",
+      "en": "\"-----Oh!?\"",
+      "text": "\"-----Oh!?\""
+    },
+    {
+      "offset": 4883,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 4919,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふたりの反応に、思わず俺も表情を消してしま\nう。",
+      "en": "I couldn't do anything but look at her reaction.",
+      "text": "I couldn't do anything but look at her reaction."
+    },
+    {
+      "offset": 4976,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "張り詰める空気が、嫌なねじれ方をしていた。",
+      "en": "It was a tense moment twisted in a weird way.",
+      "text": "It was a tense moment twisted in a weird way."
+    },
+    {
+      "offset": 5053,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そ、その……私……そんなつもりは……」",
+      "en": "\"Well...... I...... I don't mean......\"",
+      "text": "\"Well...... I...... I don't mean......\""
+    },
+    {
+      "offset": 5130,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「音夢ちゃん。本当は……本当の兄妹じゃなくっ\n　たって駄目なんだよ」",
+      "en": "\"Nemu-chan. You can't do that, even if you two aren't really\nbrother and sister.\"",
+      "text": "\"Nemu-chan. You can't do that, even if you two aren't really\nbrother and sister.\""
+    },
+    {
+      "offset": 5232,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 5251,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の泣きそうな瞳が俺を見つめる。",
+      "en": "Nemu looked at me with tears in her eyes.",
+      "text": "Nemu looked at me with tears in her eyes."
+    },
+    {
+      "offset": 5292,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（気づいては……いたさ）",
+      "en": "(I kind of knew that......)",
+      "text": "(I kind of knew that......)"
+    },
+    {
+      "offset": 5323,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鈍さを演じていた心が現実に裏返る。",
+      "en": "My heart felt dull, but I had to realize the truth.",
+      "text": "My heart felt dull, but I had to realize the truth."
+    },
+    {
+      "offset": 5362,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の想いなんてすぐに分かった。",
+      "en": "I knew how Nemu felt.",
+      "text": "I knew how Nemu felt."
+    },
+    {
+      "offset": 5399,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつの頃からか。",
+      "en": "I'm not sure since when.",
+      "text": "I'm not sure since when."
+    },
+    {
+      "offset": 5420,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなことは、掛け算よりも割り算よりも先に\n理解した想いだった……。",
+      "en": "It was something I knew before I learned multiplication or\ndivision......",
+      "text": "It was something I knew before I learned multiplication or\ndivision......"
+    },
+    {
+      "offset": 5492,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "朝起きた時に覗きこんでいる瞳の中とか。",
+      "en": "It was in her eyes when she looked into my eyes as she woke\nme up.",
+      "text": "It was in her eyes when she looked into my eyes as she woke\nme up."
+    },
+    {
+      "offset": 5535,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "休み時間のたびに俺のことを振りかえる仕草と\nか。",
+      "en": "The way she turned to look at me between classes.",
+      "text": "The way she turned to look at me between classes."
+    },
+    {
+      "offset": 5587,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "たまに一緒に下校するときに、わざと触れる腕\nとか。",
+      "en": "Or she touched my arms on purpose when we go home together\nfrom school.",
+      "text": "Or she touched my arms on purpose when we go home together\nfrom school."
+    },
+    {
+      "offset": 5641,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "おやすみの後に、いつもなにか言いたげに揺れ\nる唇とか……。",
+      "en": "And the way her lips were about to say something after she\nsays good night to me.",
+      "text": "And the way her lips were about to say something after she\nsays good night to me."
+    },
+    {
+      "offset": 5703,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "気づいていたさ。",
+      "en": "I knew it all.",
+      "text": "I knew it all."
+    },
+    {
+      "offset": 5726,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あのな、さくら……」",
+      "en": "\"Um, Sakura......\"",
+      "text": "\"Um, Sakura......\""
+    },
+    {
+      "offset": 5755,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頭をかいて、なんと言おうか迷う。",
+      "en": "I scratched my head and thought about what I should say.",
+      "text": "I scratched my head and thought about what I should say."
+    },
+    {
+      "offset": 5792,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お節介だとか、無神経だとか……そんなことじゃ\nなくて。",
+      "en": "Not like you're nosy or insensitive. It wasn't about that.",
+      "text": "Not like you're nosy or insensitive. It wasn't about that."
+    },
+    {
+      "offset": 5882,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「駄目だよ音夢ちゃん」",
+      "en": "\"No, Nemu-chan.\"",
+      "text": "\"No, Nemu-chan.\""
+    },
+    {
+      "offset": 5941,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「お兄ちゃんをぶったらいけないんだよ。弟分\n　は兄貴に手を上げてはいけないのだ♪」",
+      "en": "\"You can't hit oniichan. The younger one shouldn't raise a\nhand to the older one.\"",
+      "text": "\"You can't hit oniichan. The younger one shouldn't raise a\nhand to the older one.\""
+    },
+    {
+      "offset": 6059,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「は？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 6074,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢が目を丸くする。",
+      "en": "Nemu looked surprised.",
+      "text": "Nemu looked surprised."
+    },
+    {
+      "offset": 6136,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゃ、どうしたの？」",
+      "en": "\"Huh? What's wrong?\"",
+      "text": "\"Huh? What's wrong?\""
+    },
+    {
+      "offset": 6167,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「え、いや、なんの話だ？」",
+      "en": "\"What are you talking about?\"",
+      "text": "\"What are you talking about?\""
+    },
+    {
+      "offset": 6200,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺も音夢と同じ表情で呟く。",
+      "en": "I mumbled with same facial expression as Nemu.",
+      "text": "I mumbled with same facial expression as Nemu."
+    },
+    {
+      "offset": 6263,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「義理と人情以外になにがあるの？」",
+      "en": "\"I'm talking about justice. Is there anything else?\"",
+      "text": "\"I'm talking about justice. Is there anything else?\""
+    },
+    {
+      "offset": 6321,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらまで同じ表情になってしまう。",
+      "en": "Sakura had a confused look on her face now.",
+      "text": "Sakura had a confused look on her face now."
+    },
+    {
+      "offset": 6375,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 6405,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 6424,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 6460,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ジロ、と兄妹の視線がさくらに向けられる。",
+      "en": "We stared at Sakura.",
+      "text": "We stared at Sakura."
+    },
+    {
+      "offset": 6537,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……てっしゅ〜う」",
+      "en": "\"......It's a wrap.\"",
+      "text": "\"......It's a wrap.\""
+    },
+    {
+      "offset": 6580,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "空気を察してか、さくらが逃げる様に――逃げ\nなのだろうが家に帰っていく。",
+      "en": "Sakura noticed something and she went back in the house.",
+      "text": "Sakura noticed something and she went back in the house."
+    },
+    {
+      "offset": 6658,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……はぁ」",
+      "en": "\"......Sigh.\"",
+      "text": "\"......Sigh.\""
+    },
+    {
+      "offset": 6677,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わず溜息をついてしまう。",
+      "en": "I sighed unconsciously.",
+      "text": "I sighed unconsciously."
+    },
+    {
+      "offset": 6717,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そうだ。さくらにこそ、そんな甲斐性があるわ\nけない。",
+      "en": "Come to think of it, Sakura wouldn't say such a thing.",
+      "text": "Come to think of it, Sakura wouldn't say such a thing."
+    },
+    {
+      "offset": 6808,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……兄さん」",
+      "en": "\"......Niisan.\"",
+      "text": "\"......Niisan.\""
+    },
+    {
+      "offset": 6829,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 6870,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「日課……最近ごぶさただよ」",
+      "en": "\"We haven't been doing the daily ritual.\"",
+      "text": "\"We haven't been doing the daily ritual.\""
+    },
+    {
+      "offset": 6922,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢が前髪を持ち上げて微笑む。",
+      "en": "Nemu smiled lifting her bangs.",
+      "text": "Nemu smiled lifting her bangs."
+    },
+    {
+      "offset": 6959,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あぁ」",
+      "en": "\"Oh.\"",
+      "text": "\"Oh.\""
+    },
+    {
+      "offset": 6974,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺も前髪を持ち上げて、そのまま額を近づける。",
+      "en": "I lifted my bangs as well and moved close to her forehead.",
+      "text": "I lifted my bangs as well and moved close to her forehead."
+    },
+    {
+      "offset": 7025,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……じっとしてろよ」",
+      "en": "\"......Be still.\"",
+      "text": "\"......Be still.\""
+    },
+    {
+      "offset": 7054,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こつん、と額を合わせて、なるべく音夢から視\n線をはずして呟く。",
+      "en": "I mumbled, looking away from her as I put my forehead to her\nforehead.",
+      "text": "I mumbled, looking away from her as I put my forehead to her\nforehead."
+    },
+    {
+      "offset": 7150,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さん。はじめて頭突きじゃなかったよ」",
+      "en": "\"It's the first time we've done it that you haven't\nhead-butted me.\"",
+      "text": "\"It's the first time we've done it that you haven't\nhead-butted me.\""
+    },
+    {
+      "offset": 7197,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そうか？」",
+      "en": "\"Oh yeah?\"",
+      "text": "\"Oh yeah?\""
+    },
+    {
+      "offset": 7227,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うん」",
+      "en": "\"Yeah.\"",
+      "text": "\"Yeah.\""
+    },
+    {
+      "offset": 7242,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あれは照れ隠しだった。",
+      "en": "I butted her head to cover my embarrassment.",
+      "text": "I butted her head to cover my embarrassment."
+    },
+    {
+      "offset": 7269,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そしてそれは、恥ずかしいといいつつ、ふたり\nがどこかで望んでいた照れ隠しの儀式。",
+      "en": "And it was a ceremony we both wanted to continue even though\nwe were both embarrassed.",
+      "text": "And it was a ceremony we both wanted to continue even though\nwe were both embarrassed."
+    },
+    {
+      "offset": 7383,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さん」",
+      "en": "\"Niisan.\"",
+      "text": "\"Niisan.\""
+    },
+    {
+      "offset": 7411,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「私、ひとりで行くよ」",
+      "en": "\"I should go by myself.\"",
+      "text": "\"I should go by myself.\""
+    },
+    {
+      "offset": 7451,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「それに、熱を測るのも今日で最後ね」",
+      "en": "\"And let's make it the last time you check my temperature.\"",
+      "text": "\"And let's make it the last time you check my temperature.\""
+    },
+    {
+      "offset": 7494,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 7509,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が驚いた隙に、音夢が１歩だけ後ろに下がっ\nて笑う。",
+      "en": "Nemu stepped backward as I looked surprised.",
+      "text": "Nemu stepped backward as I looked surprised."
+    },
+    {
+      "offset": 7595,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「めんどくさがりさんは、家で寝ててください」",
+      "en": "\"Lazy bums should be sleeping at home.\"",
+      "text": "\"Lazy bums should be sleeping at home.\""
+    },
+    {
+      "offset": 7677,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 7690,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その日から、音夢が口を利いてくれなくなった。",
+      "en": "And Nemu stopped talking to me after that.",
+      "text": "And Nemu stopped talking to me after that."
+    },
+    {
+      "offset": 7840,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆音夢の想い◆",
+      "en": "◆How Nemu feels◆",
+      "text": "◆How Nemu feels◆"
+    },
+    {
+      "offset": 7883,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "家の前で音夢と結婚の話をしていたら、さくら\nが現れて音夢に釘をさした。",
+      "en": "Sakura made it clear to Nemu as we were talking about\nmarriage in front of our house.",
+      "text": "Sakura made it clear to Nemu as we were talking about\nmarriage in front of our house."
+    },
+    {
+      "offset": 7957,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "結局、さくらは義理と人情について言ったらし\nいけど……。",
+      "en": "Sakura meant to say something about justice......",
+      "text": "Sakura meant to say something about justice......"
+    },
+    {
+      "offset": 8017,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どちらにしろ、その日から音夢が口を利いてく\nれなくなった。",
+      "en": "But Nemu stopped talking to me after that day.",
+      "text": "But Nemu stopped talking to me after that day."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "224": "Nemu",
+    "382": "Nemu",
+    "536": "Nemu",
+    "626": "Nemu",
+    "741": "Nemu",
+    "905": "Nemu",
+    "1012": "Nemu",
+    "1135": "Nemu",
+    "1316": "Nemu",
+    "1511": "Nemu",
+    "1588": "Nemu",
+    "1793": "Nemu",
+    "1988": "Nemu",
+    "2126": "Nemu",
+    "2273": "Nemu",
+    "2451": "Nemu",
+    "2533": "Nemu",
+    "2615": "Nemu",
+    "2731": "Nemu",
+    "3095": "Sakura",
+    "3226": "Sakura",
+    "3438": "Nemu",
+    "3530": "Sakura",
+    "3606": "Nemu",
+    "3684": "Sakura",
+    "3799": "Nemu",
+    "3871": "Sakura",
+    "3937": "Sakura",
+    "4101": "Nemu",
+    "4213": "Nemu",
+    "4393": "Nemu",
+    "4583": "Sakura",
+    "4701": "Nemu",
+    "4764": "Sakura",
+    "4854": "Nemu",
+    "5045": "Nemu",
+    "5120": "Sakura",
+    "5224": "Nemu",
+    "5872": "Sakura",
+    "5931": "Sakura",
+    "6051": "Nemu",
+    "6126": "Sakura",
+    "6253": "Sakura",
+    "6365": "Sakura",
+    "6397": "Nemu",
+    "6527": "Sakura",
+    "6800": "Nemu",
+    "6862": "Nemu",
+    "7142": "Nemu",
+    "7219": "Nemu",
+    "7375": "Nemu",
+    "7403": "Nemu",
+    "7443": "Nemu",
+    "7587": "Nemu"
+  }
+}

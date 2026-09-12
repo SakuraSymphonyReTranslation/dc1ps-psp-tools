@@ -1,0 +1,360 @@
+{
+  "scene": "script_0346.obj",
+  "dialogues": [
+    {
+      "offset": 145,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昼休みなわけだが、さて、何を食うかな……。",
+      "en": "It's lunchtime, what should I have for lunch....",
+      "text": "It's lunchtime, what should I have for lunch...."
+    },
+    {
+      "offset": 194,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（うーん…………）",
+      "en": "\"(Hmm......)\"",
+      "text": "\"(Hmm......)\""
+    },
+    {
+      "offset": 219,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "パン買うか、さもなければ食堂へ行くか――。",
+      "en": "I guess I'd head for the cafeteria and buy some bread--",
+      "text": "I guess I'd head for the cafeteria and buy some bread--"
+    },
+    {
+      "offset": 268,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……容赦なく二者択一だな」",
+      "en": "\"...There isn't any alterative anyway.\"",
+      "text": "\"...There isn't any alterative anyway.\""
+    },
+    {
+      "offset": 303,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんかこう……もっと選択肢が欲しい所だ。",
+      "en": "Man... I wish there was more places to go.",
+      "text": "Man... I wish there was more places to go."
+    },
+    {
+      "offset": 348,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちら、と一瞬カセットコンロと鍋のビジュアル\nが頭をよぎったが、首を振って打ち消した。",
+      "en": "A vision of a portable grill and giant pot then popped in my\nhead, but it quickly disappeared.",
+      "text": "A vision of a portable grill and giant pot then popped in my\nhead, but it quickly disappeared."
+    },
+    {
+      "offset": 438,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……あれを数のうちに入れちゃだめだろ」",
+      "en": "\"...Two's company, and three's a crowd.\"",
+      "text": "\"...Two's company, and three's a crowd.\""
+    },
+    {
+      "offset": 485,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんとなく人として。",
+      "en": "It's always been like that, somehow or other.",
+      "text": "It's always been like that, somehow or other."
+    },
+    {
+      "offset": 545,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「どうした、悩める少年よ？」",
+      "en": "\"You appear troubled, young thinker.\"",
+      "text": "\"You appear troubled, young thinker.\""
+    },
+    {
+      "offset": 580,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "泰然とした声。見ると杉並が工藤と連れ立って\nこちらへやって来るところだった。",
+      "en": "A calm voice. I looked up to see Suginami and Kudou heading\nin my direction.",
+      "text": "A calm voice. I looked up to see Suginami and Kudou heading\nin my direction."
+    },
+    {
+      "offset": 662,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや……昼飯になにを食おうか、それが問題\n　でな」",
+      "en": "\"Nothing... just wondering what I should eat for lunch\nbreak.\"",
+      "text": "\"Nothing... just wondering what I should eat for lunch\nbreak.\""
+    },
+    {
+      "offset": 748,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「なるほど、確かにそれは重要なテーマだ」",
+      "en": "\"I see, a most important topic indeed.\"",
+      "text": "\"I see, a most important topic indeed.\""
+    },
+    {
+      "offset": 795,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "腕を組み、深く頷く杉並。",
+      "en": "Suginami folded his arms and nodded knowingly.",
+      "text": "Suginami folded his arms and nodded knowingly."
+    },
+    {
+      "offset": 870,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「だから、お前らは大袈裟なんだって……」",
+      "en": "\"You're always so overblown...\"",
+      "text": "\"You're always so overblown...\""
+    },
+    {
+      "offset": 917,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "呆れたような口調で呟く工藤。",
+      "en": "Kudou sighed deeply, one of exasperation perhaps.",
+      "text": "Kudou sighed deeply, one of exasperation perhaps."
+    },
+    {
+      "offset": 952,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お前達はもう食ったのか？」",
+      "en": "\"Have you guys eaten already?\"",
+      "text": "\"Have you guys eaten already?\""
+    },
+    {
+      "offset": 1015,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「いいや、まだだけど」",
+      "en": "\"No, not yet.\"",
+      "text": "\"No, not yet.\""
+    },
+    {
+      "offset": 1072,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「そうだ、折角こうして飢えたる同士が結集し\n　たのだ。今日こそは外のファミレスで豪勢な\n　ランチとしゃれ込もうではないか！」",
+      "en": "\"Then, we have to celebrate the coming together of the\nstarving comrades. Let us partake in a luxurious lunch at a\nrestaurant!\"",
+      "text": "\"Then, we have to celebrate the coming together of the\nstarving comrades. Let us partake in a luxurious lunch at a\nrestaurant!\""
+    },
+    {
+      "offset": 1201,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そりゃ、出来るもんならそうしたいがな、",
+      "en": "That IS actually possible now...",
+      "text": "That IS actually possible now..."
+    },
+    {
+      "offset": 1246,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、杉並よ、その『豪勢な』ランチには幾ら\n　ほどかかるのだろうな」",
+      "en": "\"But, my friend, who will be paying for this \"luxurious\"\nlunch?\"",
+      "text": "\"But, my friend, who will be paying for this \"luxurious\"\nlunch?\""
+    },
+    {
+      "offset": 1348,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……………………………………………………」",
+      "en": "\".........\"",
+      "text": "\".........\""
+    },
+    {
+      "offset": 1427,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「……………………………………………………」",
+      "en": "\".........\"",
+      "text": "\".........\""
+    },
+    {
+      "offset": 1478,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "三人、顔を見合わせて意味ありげな沈黙。",
+      "en": "The three of us stared at each other in stock silence.",
+      "text": "The three of us stared at each other in stock silence."
+    },
+    {
+      "offset": 1551,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「まあ、そこは笑顔と気合でなんとかなるとし\n　てだな」",
+      "en": "\"Well, that would be cause for happiness and joy.\"",
+      "text": "\"Well, that would be cause for happiness and joy.\""
+    },
+    {
+      "offset": 1639,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「なるか！！」",
+      "en": "\"What do you mean!!\"",
+      "text": "\"What do you mean!!\""
+    },
+    {
+      "offset": 1660,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「なるかあっ！！！」",
+      "en": "\"What the hell do you mean!!\"",
+      "text": "\"What the hell do you mean!!\""
+    },
+    {
+      "offset": 1687,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺と工藤は息のあったツッコミをきめる。",
+      "en": "Kudou and I, in the same breath, both played the tsukkomi.",
+      "text": "Kudou and I, in the same breath, both played the tsukkomi."
+    },
+    {
+      "offset": 1760,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「さすればここは工藤のオゴリということで」",
+      "en": "\"Of course, I mean it's Kudou's treat.\"",
+      "text": "\"Of course, I mean it's Kudou's treat.\""
+    },
+    {
+      "offset": 1809,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなツッコミのコンボをまったく意にも介さ\nず、見事な笑みを見せる杉並。",
+      "en": "He gave a wry smile, returning our tsukkomi combination with\none of his own",
+      "text": "He gave a wry smile, returning our tsukkomi combination with\none of his own"
+    },
+    {
+      "offset": 1915,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「なんでそうなるんだ！？」",
+      "en": "\"Why on earth!?\"",
+      "text": "\"Why on earth!?\""
+    },
+    {
+      "offset": 1976,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「いや、お前なら出してくれるんじゃないかと」",
+      "en": "\"Well, you're the only one who can foot it, are you not?\"",
+      "text": "\"Well, you're the only one who can foot it, are you not?\""
+    },
+    {
+      "offset": 2055,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「余計な金は持ってきてないんだよ！」",
+      "en": "\"I'm not going to spend so friviously like that!\"",
+      "text": "\"I'm not going to spend so friviously like that!\""
+    },
+    {
+      "offset": 2098,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "工藤は躍起となって声をあげる。",
+      "en": "Kudou shouted out in desperation.",
+      "text": "Kudou shouted out in desperation."
+    },
+    {
+      "offset": 2135,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんだ、残念だな」",
+      "en": "\"Oh well, too bad.\"",
+      "text": "\"Oh well, too bad.\""
+    },
+    {
+      "offset": 2173,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「朝倉……聞こえてるぞ」",
+      "en": "\"Asakura... you agree?\"",
+      "text": "\"Asakura... you agree?\""
+    },
+    {
+      "offset": 2204,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わず本音の呟きをもらす俺を、工藤は横目で\nじろりと｛にら／睨｝んだ。",
+      "en": "Looking somewhat wary of my intentions, Kudou glanced\ncautiously to his side, at me.",
+      "text": "Looking somewhat wary of my intentions, Kudou glanced\ncautiously to his side, at me."
+    },
+    {
+      "offset": 2280,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「んじゃ、しょーがない。学食でも行くか？」",
+      "en": "\"Well, it can't be helped. The cafeteria for us, then?\"",
+      "text": "\"Well, it can't be helped. The cafeteria for us, then?\""
+    },
+    {
+      "offset": 2357,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「ま、俺達にはそのランクが似合いってとこか」",
+      "en": "\"That's more suitable for our rank, yup.\"",
+      "text": "\"That's more suitable for our rank, yup.\""
+    },
+    {
+      "offset": 2436,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「うむぅ……背に腹は代えられん、か」",
+      "en": "\"Hmph... sacrificing stature for your stomach, I see.\"",
+      "text": "\"Hmph... sacrificing stature for your stomach, I see.\""
+    },
+    {
+      "offset": 2479,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぶつぶつとぼやく杉並をひっぱって、俺達は食\n堂へ向かった。",
+      "en": "With Suginami shuffling his feet, we headed to the\ncafeteria.",
+      "text": "With Suginami shuffling his feet, we headed to the\ncafeteria."
+    },
+    {
+      "offset": 2670,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆トリオで昼食２◆",
+      "en": "◆Lunch Trio 2◆",
+      "text": "◆Lunch Trio 2◆"
+    },
+    {
+      "offset": 2717,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並、工藤と豪華な昼食に想いを巡らすも、財\n政の都合上、三人でおとなしく食堂に向かった\nのだった。",
+      "en": "Despite dreams of luxurious gourmet delicacies, due to\nfinancial constraints, Suginami, Kudou and I ended up at the\ncafeteria as usual.",
+      "text": "Despite dreams of luxurious gourmet delicacies, due to\nfinancial constraints, Suginami, Kudou and I ended up at the\ncafeteria as usual."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "537": "Suginami",
+    "740": "Suginami",
+    "862": "Kudou",
+    "1007": "Kudou",
+    "1064": "Suginami",
+    "1340": "Suginami",
+    "1419": "Kudou",
+    "1543": "Suginami",
+    "1631": "Kudou",
+    "1752": "Suginami",
+    "1907": "Kudou",
+    "1968": "Suginami",
+    "2047": "Kudou",
+    "2165": "Kudou",
+    "2349": "Kudou",
+    "2428": "Suginami"
+  }
+}

@@ -1,0 +1,958 @@
+{
+  "scene": "script_0556.obj",
+  "dialogues": [
+    {
+      "offset": 215,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日から、俺はあの家に独りぼっちだ。",
+      "en": "Today was the first day I would sleep in this house alone.",
+      "text": "Today was the first day I would sleep in this house alone."
+    },
+    {
+      "offset": 256,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "夢に向かって旅立つ音夢を見送った夕暮れは、\nどことなく、俺の郷愁を誘った。",
+      "en": "I sent off Nemu, chasing her own dreams, in the evening.\nNostalgia invited me soon after.",
+      "text": "I sent off Nemu, chasing her own dreams, in the evening.\nNostalgia invited me soon after."
+    },
+    {
+      "offset": 334,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢が初めてウチへ来てから今までのことが、\nフラッシュバックする。",
+      "en": "Remembering the day where Nemu first entered this house.",
+      "text": "Remembering the day where Nemu first entered this house."
+    },
+    {
+      "offset": 404,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "懐かしさと寂しさやいろんなことが、一緒くた\nになって、俺の胸の中をぐるぐると回る。",
+      "en": "Remembering how much we used to be together, now that we\nweren't, made my chest tighten up.",
+      "text": "Remembering how much we used to be together, now that we\nweren't, made my chest tighten up."
+    },
+    {
+      "offset": 490,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──と、あまり寂しがってても仕方がない。",
+      "en": "--But, I'd have to learn to deal with this loneliness.",
+      "text": "--But, I'd have to learn to deal with this loneliness."
+    },
+    {
+      "offset": 535,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢がいなくなった。",
+      "en": "Nemu won't be here anymore.",
+      "text": "Nemu won't be here anymore."
+    },
+    {
+      "offset": 565,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "つ・ま・り、あの家の帝王は俺だ！　文句を言\nうものは誰もなく、いつ寝て、いつ起きようが、\nいつ何を食べても、まったく問題ないのだ。",
+      "en": "In other words, I'm the ruler of this house now! No one can\nquestion or complain about when I sleep, when I wake up, or\nwhen I eat.",
+      "text": "In other words, I'm the ruler of this house now! No one can\nquestion or complain about when I sleep, when I wake up, or\nwhen I eat."
+    },
+    {
+      "offset": 698,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "気が付くと、辺りは暗くなっていた。夕方だか\nらというのもあるが、どうやら頭上には、薄暗\nい雲が低く広がっていた。",
+      "en": "Suddenly, the area around turned dark. Even though it was\nevening, there were several dark clouds obstructing the sun.",
+      "text": "Suddenly, the area around turned dark. Even though it was\nevening, there were several dark clouds obstructing the sun."
+    },
+    {
+      "offset": 815,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「早く帰らないと、マズイな……」",
+      "en": "\"If I don't hurry home, I'd be caught in this...\"",
+      "text": "\"If I don't hurry home, I'd be caught in this...\""
+    },
+    {
+      "offset": 854,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、帰り道のベッキーズで、ハンバーガーセッ\nトを買い、家路を急いだ。",
+      "en": "Stopping by a local fast-food outlet on the way to order a\nhamburger set, I hurriedly made my way home.",
+      "text": "Stopping by a local fast-food outlet on the way to order a\nhamburger set, I hurriedly made my way home."
+    },
+    {
+      "offset": 982,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "テレビを見てると、時々空が鳴るのが聞こえた。",
+      "en": "While watching TV, the sound of thunder constantly roared\nthrough the sky.",
+      "text": "While watching TV, the sound of thunder constantly roared\nthrough the sky."
+    },
+    {
+      "offset": 1031,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、ポテトをかじりながら、ニュース番組に\n切り替える。",
+      "en": "Munching on some potato chips, I switched the TV to the news\nchannel.",
+      "text": "Munching on some potato chips, I switched the TV to the news\nchannel."
+    },
+    {
+      "offset": 1091,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "狙い通り、ちょうど天気予報をやっていて、初\n音島辺りの地図が映し出されていた。",
+      "en": "Just in time, the programme was the weather forecast. An\nentire map of hatsunejima, all covered with grey clouds, was\nbeing shown.",
+      "text": "Just in time, the programme was the weather forecast. An\nentire map of hatsunejima, all covered with grey clouds, was\nbeing shown."
+    },
+    {
+      "offset": 1187,
+      "speaker": "Newcaster",
+      "speaker_jp": "キャスター",
+      "jp": "「──南部では、夜半過ぎに雨模様となり、と\n　ころによっては強い風を伴う天気となるでしょ\n　う」",
+      "en": "\"--The southern part of the island will see heavy rains past\nmidnight, coupled with strong winds.\"",
+      "text": "\"--The southern part of the island will see heavy rains past\nmidnight, coupled with strong winds.\""
+    },
+    {
+      "offset": 1288,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "テレビに映っているお姉さんは、明るい笑顔で\n暗くなる天気の話をしていた。",
+      "en": "The onee-san-like newscaster on the TV delivered the news of\ngloomy weather with a bright smile.",
+      "text": "The onee-san-like newscaster on the TV delivered the news of\ngloomy weather with a bright smile."
+    },
+    {
+      "offset": 1366,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「やっぱり、降るか……」",
+      "en": "\"It's going to rain, and hard...\"",
+      "text": "\"It's going to rain, and hard...\""
+    },
+    {
+      "offset": 1397,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "窓から見える雲は、すごい勢いで東の方へ向かっ\nて流れていた。",
+      "en": "Looking out the window, I could see several black clouds\npouring in from the east.",
+      "text": "Looking out the window, I could see several black clouds\npouring in from the east."
+    },
+    {
+      "offset": 1461,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "別に雨が嫌いというわけではないけれど、あま\nり気持ちのいいものではない。",
+      "en": "It's not that I particularly dislike rain, but I was getting\na bad feeling from this.",
+      "text": "It's not that I particularly dislike rain, but I was getting\na bad feeling from this."
+    },
+    {
+      "offset": 1537,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "特に、ひとりになってしまったこんな夜は。",
+      "en": "What a day to spend alone for the first time.",
+      "text": "What a day to spend alone for the first time."
+    },
+    {
+      "offset": 1582,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なにせ、テレビを消すと、家全体がシーンとし\nてしまうのだ。",
+      "en": "I switched off the TV, and went to check out how the house\nwas doing.",
+      "text": "I switched off the TV, and went to check out how the house\nwas doing."
+    },
+    {
+      "offset": 1644,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の通る道にしか明かりがない状況というのは、\n『俺帝国の誕生だ！』なんて言ってる場合では\nない。",
+      "en": "This is no time to be celebrating the birth of the new\nemperor of this castle.",
+      "text": "This is no time to be celebrating the birth of the new\nemperor of this castle."
+    },
+    {
+      "offset": 1745,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──ざざん",
+      "en": "--*whoooosh*",
+      "text": "--*whoooosh*"
+    },
+    {
+      "offset": 1760,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "突然、窓がガタガタと震え、庭の木がバサバサ\nと大きな音を立てて揺れる。",
+      "en": "A strong wind suddenly blew past, making the windows\nshudder, and the branches of the tree outside shake.",
+      "text": "A strong wind suddenly blew past, making the windows\nshudder, and the branches of the tree outside shake."
+    },
+    {
+      "offset": 1841,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「イヤな風が出てきたなぁ……」",
+      "en": "\"This wind doesn't feel good...\"",
+      "text": "\"This wind doesn't feel good...\""
+    },
+    {
+      "offset": 1878,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暗闇の中で、木の枝が揺れる様は、何かが出て\nきそうな気がする。",
+      "en": "In the darkness, the tree's branches were swaying back and\nforth. I couldn't shake the feeling that something big was\nhappening.",
+      "text": "In the darkness, the tree's branches were swaying back and\nforth. I couldn't shake the feeling that something big was\nhappening."
+    },
+    {
+      "offset": 1944,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、思わずブルルと肩を震わせた。",
+      "en": "My shoulders started to shiver by themselves.",
+      "text": "My shoulders started to shiver by themselves."
+    },
+    {
+      "offset": 1983,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "テレビのチャンネルをバラエティ系に戻し、不\n気味な風のことは忘れることにする。",
+      "en": "I tried to take my mind off the wind, by switching the TV\nback on, and watching a variety program.",
+      "text": "I tried to take my mind off the wind, by switching the TV\nback on, and watching a variety program."
+    },
+    {
+      "offset": 2065,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──ざざん、ざざん",
+      "en": "--*whoooosh*",
+      "text": "--*whoooosh*"
+    },
+    {
+      "offset": 2088,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "強い風に、庭に生えている花壇の草が抜けてし\nまいそうなほどに斜めになっている。",
+      "en": "The wind outside was so strong, it was uprooting some of the\nflowers in the garden.",
+      "text": "The wind outside was so strong, it was uprooting some of the\nflowers in the garden."
+    },
+    {
+      "offset": 2172,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……まさか、なぁ」",
+      "en": "\"...Just maybe, that...\"",
+      "text": "\"...Just maybe, that...\""
+    },
+    {
+      "offset": 2199,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の｛のうり／脳裡｝に、暴風にさらされている弱々しい草\nの姿がよぎった。",
+      "en": "My mind wandered to a certain weak-looking plant.",
+      "text": "My mind wandered to a certain weak-looking plant."
+    },
+    {
+      "offset": 2277,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「こんな、強い雨の降りそうな時に……」",
+      "en": "\"During this strong rain, it might...\"",
+      "text": "\"During this strong rain, it might...\""
+    },
+    {
+      "offset": 2322,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いや、こんな強い雨の降りそうな夜だからこそ、\nそのまさかがあり得るのだ。",
+      "en": "No, in this strong rain and wind at night, that \"maybe\" is a\ndefinite possibility.",
+      "text": "No, in this strong rain and wind at night, that \"maybe\" is a\ndefinite possibility."
+    },
+    {
+      "offset": 2400,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……いなかったら、帰ってくればいいだけか。\n　ったく、かったるい」",
+      "en": "\"...If it's gone, I'd just head back. Bah, how troublesome.\"",
+      "text": "\"...If it's gone, I'd just head back. Bah, how troublesome.\""
+    },
+    {
+      "offset": 2474,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、舌打ちをしながら、冷めてまずくなった\nポテトを口の中に押し込んだ。",
+      "en": "Smacking my lips, I threw the last of the potato chips down\nmy throat.",
+      "text": "Smacking my lips, I threw the last of the potato chips down\nmy throat."
+    },
+    {
+      "offset": 2550,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ったく、自分の方が風に飛ばされそうなクセに。",
+      "en": "Sheesh, if I'm going to let myself be thrown around by those\nwinds,",
+      "text": "Sheesh, if I'm going to let myself be thrown around by those\nwinds,"
+    },
+    {
+      "offset": 2622,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どのみち雨は降ってくるだろう。俺は、折りた\nたみ傘を手に持って、外に出る。",
+      "en": "I better bring an umbrella. I quickly grabbed one and headed\noutside.",
+      "text": "I better bring an umbrella. I quickly grabbed one and headed\noutside."
+    },
+    {
+      "offset": 2700,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ドアの向こうでは、風がビュウビュウとうなり\n声をあげていた。",
+      "en": "Past the door to outside, the wind started blowing even\nstronger, emitting a voice that was practically calling out\nto me.",
+      "text": "Past the door to outside, the wind started blowing even\nstronger, emitting a voice that was practically calling out\nto me."
+    },
+    {
+      "offset": 2764,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は『かったるい』と言いながら、玄関のノブ\nに手をかけた。",
+      "en": "With yet another \"troublesome\", I turned the knob to the\ndoor.",
+      "text": "With yet another \"troublesome\", I turned the knob to the\ndoor."
+    },
+    {
+      "offset": 2870,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ヤな天気だよ、まったく……」",
+      "en": "\"Man, what horrible weather...\"",
+      "text": "\"Man, what horrible weather...\""
+    },
+    {
+      "offset": 2935,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、いつもより速いペースで学校に向かう。",
+      "en": "With a far faster pace than uual, I headed towards the\nschool.",
+      "text": "With a far faster pace than uual, I headed towards the\nschool."
+    },
+    {
+      "offset": 2982,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "風は強く、まるで足が絡め取られるように重く\n感じた。",
+      "en": "The strong wind seemed to make each step heavier than usual.",
+      "text": "The strong wind seemed to make each step heavier than usual."
+    },
+    {
+      "offset": 3038,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それでも俺は、早く学校に着きたい一心で前に\n進んだ。",
+      "en": "But, with the thought of making it to school as fast as\npossible on my mind, I amde steady progress through the\nwind.",
+      "text": "But, with the thought of making it to school as fast as\npossible on my mind, I amde steady progress through the\nwind."
+    },
+    {
+      "offset": 3094,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "校門が見えた頃、ぽつ、ぽつと、頬に固い水の\n粒が当たった。",
+      "en": "As soon as I could see the school, drops of rain started\nhitting my cheeks.",
+      "text": "As soon as I could see the school, drops of rain started\nhitting my cheeks."
+    },
+    {
+      "offset": 3158,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（……とうとう降り出したか）",
+      "en": "\"(...It's starting to rain.)\"",
+      "text": "\"(...It's starting to rain.)\""
+    },
+    {
+      "offset": 3193,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はさらに足を速める。",
+      "en": "I quicked my pace further.",
+      "text": "I quicked my pace further."
+    },
+    {
+      "offset": 3250,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「──月城！」",
+      "en": "\"--Tsukishiro!\"",
+      "text": "\"--Tsukishiro!\""
+    },
+    {
+      "offset": 3306,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……先輩？」",
+      "en": "\"...Senpai?\"",
+      "text": "\"...Senpai?\""
+    },
+    {
+      "offset": 3327,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "予想通り、強い風に煽られながら、ロスキルラ\nベンダーに付き添う月城がいた。",
+      "en": "Just as I foresaw, Tsukishiro was trying to protect the\nRoskill Lavender from the violent winds.",
+      "text": "Just as I foresaw, Tsukishiro was trying to protect the\nRoskill Lavender from the violent winds."
+    },
+    {
+      "offset": 3407,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なにしてるんだよ！　こんなに風が吹いてる\n　のに！」",
+      "en": "\"What are you doing! The wind'll just blow you away at this\nrate!\"",
+      "text": "\"What are you doing! The wind'll just blow you away at this\nrate!\""
+    },
+    {
+      "offset": 3467,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "髪の毛がバサバサと風に煽られる。",
+      "en": "I swept the rain off my hair.",
+      "text": "I swept the rain off my hair."
+    },
+    {
+      "offset": 3536,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……先輩は」",
+      "en": "\"...Senpai, why...\"",
+      "text": "\"...Senpai, why...\""
+    },
+    {
+      "offset": 3557,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「俺は、月城のことが心配になって」",
+      "en": "\"I was worried about you!\"",
+      "text": "\"I was worried about you!\""
+    },
+    {
+      "offset": 3598,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "風は、だんだんと強くなり、大きな声を出さな\nいと聞こえないほどだった。",
+      "en": "The wind was gradually getting stronger, to the point where\nI couldn't be heard unless I shouted.",
+      "text": "The wind was gradually getting stronger, to the point where\nI couldn't be heard unless I shouted."
+    },
+    {
+      "offset": 3674,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「帰らないと、雨が強くなるぞ！」",
+      "en": "\"The rain is only going to get stronger! You have to go\nhome!\"",
+      "text": "\"The rain is only going to get stronger! You have to go\nhome!\""
+    },
+    {
+      "offset": 3713,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城がぶんぶんと首を振る。",
+      "en": "Tsukishiro firmly shook her head.",
+      "text": "Tsukishiro firmly shook her head."
+    },
+    {
+      "offset": 3776,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……花を、守らなきゃ」",
+      "en": "\"...I have to protect the flower.\"",
+      "text": "\"...I have to protect the flower.\""
+    },
+    {
+      "offset": 3807,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……花をって」",
+      "en": "\"...The flower...\"",
+      "text": "\"...The flower...\""
+    },
+    {
+      "offset": 3847,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぽつぽつ、だったものが、バラ、バラ、になっ\nていく。落ちてくる雨粒は、すぐに激しいもの\nへと変わっていった。",
+      "en": "Drip drip, soon became pitterpatter. The drizzle had turned\ninto a furious downpour before we knew it.\"",
+      "text": "Drip drip, soon became pitterpatter. The drizzle had turned\ninto a furious downpour before we knew it.\""
+    },
+    {
+      "offset": 4004,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……花を、守らなきゃ」",
+      "en": "\"...I have toprotect the flower...\"",
+      "text": "\"...I have toprotect the flower...\""
+    },
+    {
+      "offset": 4035,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "強風に煽られた横殴りの雨が容赦なく体を打ち\n付けてくる。",
+      "en": "The strong winds only served to make the rain more fierce,\nunwaveringly striking out bodies.",
+      "text": "The strong winds only served to make the rain more fierce,\nunwaveringly striking out bodies."
+    },
+    {
+      "offset": 4097,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「早く、帰ろう！」",
+      "en": "\"You need to hurry home, now!\"",
+      "text": "\"You need to hurry home, now!\""
+    },
+    {
+      "offset": 4135,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……ダメ」",
+      "en": "\"...I can't.\"",
+      "text": "\"...I can't.\""
+    },
+    {
+      "offset": 4154,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「でも、このままじゃ、月城が……」",
+      "en": "\"But at this rate, you'd...\"",
+      "text": "\"But at this rate, you'd...\""
+    },
+    {
+      "offset": 4200,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さらに雨が｛ひど／酷｝くなっていく。たくさんの雨粒が\n地面を一瞬にして、泥だらけにしていく。",
+      "en": "The continued to get fiercer. The constant rain was quickly\nturning the soil into mud.",
+      "text": "The continued to get fiercer. The constant rain was quickly\nturning the soil into mud."
+    },
+    {
+      "offset": 4298,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「月城……！」",
+      "en": "\"Tsukishiro...!\"",
+      "text": "\"Tsukishiro...!\""
+    },
+    {
+      "offset": 4353,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……ダメ、花を、守らなきゃ」",
+      "en": "\"...I can't, I must protect the flower...\"",
+      "text": "\"...I can't, I must protect the flower...\""
+    },
+    {
+      "offset": 4390,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は、ロスキルラベンダーに覆い被さるよう\nにして風雨から守ろうとする。",
+      "en": "Tsukishiro was using a bucket to cover the Roskill Lavender\nas best as she could.",
+      "text": "Tsukishiro was using a bucket to cover the Roskill Lavender\nas best as she could."
+    },
+    {
+      "offset": 4466,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "服は濡れ、泥に汚れ、髪も身体もぐしょぐしょ\nになっていた。",
+      "en": "Her clothes were drenched, and her entire body was dirtied\nby the fresh mud.",
+      "text": "Her clothes were drenched, and her entire body was dirtied\nby the fresh mud."
+    },
+    {
+      "offset": 4528,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "傘を開くが、ちゃんと持っていられないほど強\nい風に煽られ、どうしようもない。",
+      "en": "I quickly opened the umbrella, knowing that the wind wasn't\ngoing to wait for anyone.",
+      "text": "I quickly opened the umbrella, knowing that the wind wasn't\ngoing to wait for anyone."
+    },
+    {
+      "offset": 4610,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……どうして！　そこまでしなきゃいけない\n　モノじゃないだろ！」",
+      "en": "\"...Why are you risking your life for this plant? Why!?\"",
+      "text": "\"...Why are you risking your life for this plant? Why!?\""
+    },
+    {
+      "offset": 4695,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……大切なの！」",
+      "en": "\"...It's special!\"",
+      "text": "\"...It's special!\""
+    },
+    {
+      "offset": 4720,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「こんなところにいたら、肺炎になるぞ！」",
+      "en": "\"You'd catch pneumonia if you stay here!\"",
+      "text": "\"You'd catch pneumonia if you stay here!\""
+    },
+    {
+      "offset": 4767,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "冷たい雨は容赦なく俺達の身体を打ち付け、体\n温を奪っていった。",
+      "en": "The cold rain poured into us with no mercy, soaking us to\nthe skin.",
+      "text": "The cold rain poured into us with no mercy, soaking us to\nthe skin."
+    },
+    {
+      "offset": 4833,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、風上に立ち、風雨から月城を守る。",
+      "en": "I stood in the direction of the wind, protecting Tsukishiro\nfrom the wind and rain.",
+      "text": "I stood in the direction of the wind, protecting Tsukishiro\nfrom the wind and rain."
+    },
+    {
+      "offset": 4899,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……これで少しは大丈夫だろ。こうなったら、\n　俺も付き合うから」",
+      "en": "\"...This should work for a short while. If you're staying, I\nam too.\"",
+      "text": "\"...This should work for a short while. If you're staying, I\nam too.\""
+    },
+    {
+      "offset": 4984,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……先輩」",
+      "en": "\"...Senpai...\"",
+      "text": "\"...Senpai...\""
+    },
+    {
+      "offset": 5008,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──ビュウウ！",
+      "en": "──*Whoosh!*",
+      "text": "──*Whoosh!*"
+    },
+    {
+      "offset": 5027,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言った矢先に、強い風が吹いて傘が飛ばさ\nれる。",
+      "en": "Just when I said that, a sudden wind blew the umbrella right\noff my fingers.",
+      "text": "Just when I said that, a sudden wind blew the umbrella right\noff my fingers."
+    },
+    {
+      "offset": 5081,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "後ろにいた月城も、その風に飛ばされ、地面に\n突っ伏す。",
+      "en": "Tsukishiro, just behind me, was thrown to the floor.",
+      "text": "Tsukishiro, just behind me, was thrown to the floor."
+    },
+    {
+      "offset": 5141,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「月城！」",
+      "en": "\"Tskushiro!!\"",
+      "text": "\"Tskushiro!!\""
+    },
+    {
+      "offset": 5158,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、月城を抱き起こす。",
+      "en": "I quickly helped her up.",
+      "text": "I quickly helped her up."
+    },
+    {
+      "offset": 5187,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "服は、見るも無惨に泥まみれになり、こんな時\nでさえ持っている人形は、雨と泥にやられ、半\nば壊れかけていた。",
+      "en": "Her clothes were practically beyond repair. The doll she\nalways carried with her, was half destroyed from the mud and\nrain.",
+      "text": "Her clothes were practically beyond repair. The doll she\nalways carried with her, was half destroyed from the mud and\nrain."
+    },
+    {
+      "offset": 5311,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……花が！」",
+      "en": "\"...The flower!\"",
+      "text": "\"...The flower!\""
+    },
+    {
+      "offset": 5332,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それでも月城は、千切れそうなくらい風に煽ら\nれている、ロスキルラベンダーの心配をしてい\nた。",
+      "en": "Yet even then, the only thing Tsukishiro could think about,\nwas the Roskill Lavender.",
+      "text": "Yet even then, the only thing Tsukishiro could think about,\nwas the Roskill Lavender."
+    },
+    {
+      "offset": 5427,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "彼女の小さな身体はすっかり冷え切っていたが、\nどうしても、動こうとはしなかった。",
+      "en": "But her fragile body, chilled to it's very core, could\nbarely move.",
+      "text": "But her fragile body, chilled to it's very core, could\nbarely move."
+    },
+    {
+      "offset": 5511,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は、転がっていたバケツで、草を覆ってい\nたが、結局飛ばされてしまう。",
+      "en": "She tried to roll over and cover the Roskill Lavender with\nthe bucket again, but the wind blew it out of her hands\neasily.",
+      "text": "She tried to roll over and cover the Roskill Lavender with\nthe bucket again, but the wind blew it out of her hands\neasily."
+    },
+    {
+      "offset": 5592,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "雨は、一向に弱まる気配を見せず、ただただ、\n俺達を絶望の淵にたたき落とすためだけだと思\nわれるくらい強く降り続けた。",
+      "en": "The rain, showing no signs of letting up at all, continued\nto drench us in a torrent of despair.",
+      "text": "The rain, showing no signs of letting up at all, continued\nto drench us in a torrent of despair."
+    },
+    {
+      "offset": 5726,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……花を、守らなきゃ」",
+      "en": "\"..I have to protect... the flower...!\"",
+      "text": "\"..I have to protect... the flower...!\""
+    },
+    {
+      "offset": 5757,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、もともと強いわけではなかったロスキ\nルラベンダーは、風と雨により、葉を失い、茎\nも折れているようだった。",
+      "en": "But the Roskill Lavender could no longer struggle against\nthe overpowering wind and rain, and it's leaves were blown\naway, it's stalk broken.",
+      "text": "But the Roskill Lavender could no longer struggle against\nthe overpowering wind and rain, and it's leaves were blown\naway, it's stalk broken."
+    },
+    {
+      "offset": 5874,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そんな……」",
+      "en": "\"Oh no...\"",
+      "text": "\"Oh no...\""
+    },
+    {
+      "offset": 5908,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……花が」",
+      "en": "\"...The flower...\"",
+      "text": "\"...The flower...\""
+    },
+    {
+      "offset": 5927,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ロスキルラベンダーに、もう望みがないのは、\n誰の目にも明かだった。",
+      "en": "There was no hope left for it. There was no denying that\nnow.",
+      "text": "There was no hope left for it. There was no denying that\nnow."
+    },
+    {
+      "offset": 5997,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城は、雨とも涙ともつかない、水のスジで顔\n中を濡らし、悲痛な目で俺を見た。",
+      "en": "Tsukishiro, with a combination of rain and tears dripping\ndown her face, turned to me with incredibly sad eyes.",
+      "text": "Tsukishiro, with a combination of rain and tears dripping\ndown her face, turned to me with incredibly sad eyes."
+    },
+    {
+      "offset": 6092,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……ここまで、育てたのに」",
+      "en": "\"...I raised it for so long...\"",
+      "text": "\"...I raised it for so long...\""
+    },
+    {
+      "offset": 6127,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "風に煽られ、月城の身体がよろめく。",
+      "en": "Another strong wind blew, unbalanacing Tsukishiro.",
+      "text": "Another strong wind blew, unbalanacing Tsukishiro."
+    },
+    {
+      "offset": 6181,
+      "speaker": "Alice",
+      "speaker_jp": "アリス",
+      "jp": "「……花が咲くと、思ってたのに」",
+      "en": "\"...I really thought a flower would bloom.\"",
+      "text": "\"...I really thought a flower would bloom.\""
+    },
+    {
+      "offset": 6232,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "びしゃあ、と音を立てて、地面に倒れる月城。",
+      "en": "With those last words, she collapsed onto the floor.",
+      "text": "With those last words, she collapsed onto the floor."
+    },
+    {
+      "offset": 6279,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "彼女は、そのまま気を失ってしまった。",
+      "en": "She lost consciousness shortly after.",
+      "text": "She lost consciousness shortly after."
+    },
+    {
+      "offset": 6322,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「月城！　月城！」",
+      "en": "\"Tsukishiro! Tsukishiro!!\"",
+      "text": "\"Tsukishiro! Tsukishiro!!\""
+    },
+    {
+      "offset": 6347,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何度呼んでも、月城は、ただ雨に打たれ続ける\nだけで、返事をすることはなかった。",
+      "en": "No matter how many times I called out, the only reply came\nfrom the continous downpour.",
+      "text": "No matter how many times I called out, the only reply came\nfrom the continous downpour."
+    },
+    {
+      "offset": 6429,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、その傍らには、泥水で汚れ手足の千切\nれかけた人形──ピロスが見る影もなく風雨に\n晒されていた。",
+      "en": "And the punishing wind and rain had cut up that doll--Piros,\nand left him broken beyond repair.",
+      "text": "And the punishing wind and rain had cut up that doll--Piros,\nand left him broken beyond repair."
+    },
+    {
+      "offset": 6536,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「くそっ……！」",
+      "en": "\"Damnit...!\"",
+      "text": "\"Damnit...!\""
+    },
+    {
+      "offset": 6559,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんで……、なんで……」",
+      "en": "\"Why... why...\"",
+      "text": "\"Why... why...\""
+    },
+    {
+      "offset": 6592,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "花を咲かせるどころか、ロスキルラベンダーは\nその命すらも、失っていた。",
+      "en": "The flower that was supposed to bloom, the Roskill Lavender,\nwas lost.",
+      "text": "The flower that was supposed to bloom, the Roskill Lavender,\nwas lost."
+    },
+    {
+      "offset": 6666,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あそこまで育っていたのが奇跡だったその草は\n雨が止んだ後に、再び立ち直るとは、到底思え\nなかった。",
+      "en": "The miracle was killed by the rain. It couldn't possibly\nrecover from this.",
+      "text": "The miracle was killed by the rain. It couldn't possibly\nrecover from this."
+    },
+    {
+      "offset": 6767,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、小さな月城を抱きかかえながら、空に広\nがる雲を恨んだ。",
+      "en": "Holding the unconscious Tsukishiro close to me, protecting\nher from the elements, I looked up at the sky in despair.",
+      "text": "Holding the unconscious Tsukishiro close to me, protecting\nher from the elements, I looked up at the sky in despair."
+    },
+    {
+      "offset": 6831,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、",
+      "en": "And,",
+      "text": "And,"
+    },
+    {
+      "offset": 6846,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ちくしょう！　なんでなんだよおッ！」",
+      "en": "\"Goddamnit, Why! Why did this have to happen???!!!\"",
+      "text": "\"Goddamnit, Why! Why did this have to happen???!!!\""
+    },
+    {
+      "offset": 6891,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と叫んだが、吹き荒れる風に、すべてかき消さ\nれてしまった。",
+      "en": "My shouts, all that I had left to give, were drowned out by\nthe wind, leaving nothing behind.",
+      "text": "My shouts, all that I had left to give, were drowned out by\nthe wind, leaving nothing behind."
+    },
+    {
+      "offset": 7057,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆嵐の夜◆",
+      "en": "◆The Night of the Storm◆",
+      "text": "◆The Night of the Storm◆"
+    },
+    {
+      "offset": 7098,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "空模様が怪しい夜、俺はイヤな予感がして、学\n校へ向かった。",
+      "en": "With the sky looking gloomy, I got a bad feeling, and headed\nto school.",
+      "text": "With the sky looking gloomy, I got a bad feeling, and headed\nto school."
+    },
+    {
+      "offset": 7160,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "風は強くなり、嵐になるのは必至だった。",
+      "en": "The wind got stronger and stronger, growing into a storm.",
+      "text": "The wind got stronger and stronger, growing into a storm."
+    },
+    {
+      "offset": 7203,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "予感は的中し、体育館裏には、月城がロスキル\nラベンダーを一生懸命守ろうとしていた。",
+      "en": "Just as I had thought, behind the gym, Tsukishiro was\nprotecting the Roskill Lavender with her very life.",
+      "text": "Just as I had thought, behind the gym, Tsukishiro was\nprotecting the Roskill Lavender with her very life."
+    },
+    {
+      "offset": 7289,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "天候は嵐に変わり、俺は月城に帰ろうと言った\nが、彼女は、がんとしてその場を動こうとしな\nかった。",
+      "en": "With the weather getting even worse, I pleaded with her to\ngo home, but she would not budge.",
+      "text": "With the weather getting even worse, I pleaded with her to\ngo home, but she would not budge."
+    },
+    {
+      "offset": 7388,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "仕方なく、俺は、月城とロスキルラベンダーを\n守ろうとしたのだが、激しすぎる嵐に、俺達は\n飛ばされ、草も飛ばされてしまった。",
+      "en": "There was nothing else I could do, so I stayed with\nTsukishiro to protect the plant. But a sudden, violent wind\nblew both us and the Roskill Lavender away.",
+      "text": "There was nothing else I could do, so I stayed with\nTsukishiro to protect the plant. But a sudden, violent wind\nblew both us and the Roskill Lavender away."
+    },
+    {
+      "offset": 7513,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城が一生懸命育てていたロスキルラベンダー\nは、たった１度の嵐によって、希望もろとも根\nこそぎ奪っていったのだった……。",
+      "en": "The plant she had put all her hopes into, the Roskill\nLavender, lost in just 1 single frantic struggle during a\nstorm...",
+      "text": "The plant she had put all her hopes into, the Roskill\nLavender, lost in just 1 single frantic struggle during a\nstorm..."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "1173": "Newcaster",
+    "3296": "Alice",
+    "3526": "Alice",
+    "3766": "Alice",
+    "3994": "Alice",
+    "4125": "Alice",
+    "4343": "Alice",
+    "4685": "Alice",
+    "4974": "Alice",
+    "5301": "Alice",
+    "5716": "Alice",
+    "5898": "Alice",
+    "6082": "Alice",
+    "6171": "Alice"
+  }
+}

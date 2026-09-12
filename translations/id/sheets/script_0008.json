@@ -1,0 +1,114 @@
+{
+  "scene": "script_0008.obj",
+  "dialogues": [
+    {
+      "offset": 131,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「うーん、食った食った……」",
+      "en": "\"Woo, I feel so bloated...\"",
+      "text": "\"Woo, I feel so bloated...\""
+    },
+    {
+      "offset": 166,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩に鍋をご馳走になり、図書室で本を返し\nて教室に｛がいせん／凱旋｝する。",
+      "en": "After sampling Moe's fantastic steampot feast, I\ntriumphantly returned the management room key to\nKoyomi-sensei.",
+      "text": "After sampling Moe's fantastic steampot feast, I\ntriumphantly returned the management room key to\nKoyomi-sensei."
+    },
+    {
+      "offset": 246,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "半数以上の学生はすでに帰っていたが、教室に\nは音夢も杉並もまだ残っていた。",
+      "en": "I returned to the classroom, to find it half-empty. Nemu and\nSuginami are about to leave too.",
+      "text": "I returned to the classroom, to find it half-empty. Nemu and\nSuginami are about to leave too."
+    },
+    {
+      "offset": 326,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「うーん……」",
+      "en": "\"Uhhhhn....\"",
+      "text": "\"Uhhhhn....\""
+    },
+    {
+      "offset": 347,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "両手を上に上げて背筋を伸ばし、机の横にかかっ\nている鞄を手に取る。",
+      "en": "Putting my hands above my head and stretching, I grab my bag\nat the side of the desk.",
+      "text": "Putting my hands above my head and stretching, I grab my bag\nat the side of the desk."
+    },
+    {
+      "offset": 419,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さてと……」",
+      "en": "\"Now then...\"",
+      "text": "\"Now then...\""
+    },
+    {
+      "offset": 440,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日はどうしようかな。",
+      "en": "Who should I go home with today...",
+      "text": "Who should I go home with today..."
+    },
+    {
+      "offset": 724,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆誰と帰ろう◆",
+      "en": "◆Who to Go Back With◆",
+      "text": "◆Who to Go Back With◆"
+    },
+    {
+      "offset": 762,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鍋も食って、図書室に本も返した。",
+      "en": "After eating the pot feast, I returned the management room\nkey.",
+      "text": "After eating the pot feast, I returned the management room\nkey."
+    },
+    {
+      "offset": 799,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "教室には杉並も音夢もまだ残っているな。",
+      "en": "At the classroom, Suginami and Nemu are getting ready to\nleave.",
+      "text": "At the classroom, Suginami and Nemu are getting ready to\nleave."
+    },
+    {
+      "offset": 842,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さて、どうするかな。",
+      "en": "Now, who should I go home with...",
+      "text": "Now, who should I go home with..."
+    }
+  ],
+  "choices": [
+    {
+      "offset": 477,
+      "jp": "○音夢と帰る",
+      "en": "○With Nemu",
+      "text": "○With Nemu"
+    },
+    {
+      "offset": 498,
+      "jp": "○ひとりで帰る",
+      "en": "○By myself",
+      "text": "○By myself"
+    },
+    {
+      "offset": 521,
+      "jp": "○杉並と帰る",
+      "en": "○With Suginami",
+      "text": "○With Suginami"
+    }
+  ],
+  "names": {}
+}

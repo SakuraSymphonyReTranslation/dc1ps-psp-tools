@@ -1,0 +1,991 @@
+{
+  "scene": "script_0817.obj",
+  "dialogues": [
+    {
+      "offset": 163,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふぅ……心が洗われるようだ」",
+      "en": "\"Huh...... I feel like my heart's getting washed.\"",
+      "text": "\"Huh...... I feel like my heart's getting washed.\""
+    },
+    {
+      "offset": 200,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "桜の花が散ったってニュースでやってたけど、\n一見したところ、どれも満開だな。",
+      "en": "I was so filled with worry this afternoon, but now I felt\nlike that was a long time ago.",
+      "text": "I was so filled with worry this afternoon, but now I felt\nlike that was a long time ago."
+    },
+    {
+      "offset": 280,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩が家に来ないから、なんとなく見に来た\nけど……。",
+      "en": "It was reported on the news earlier that the cherry blossom\ndied, but it looks like they're in full bloom to me.",
+      "text": "It was reported on the news earlier that the cherry blossom\ndied, but it looks like they're in full bloom to me."
+    },
+    {
+      "offset": 340,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ま、暇だし。散歩がてら少し探してみるか」",
+      "en": "I decided to go see them because Moe-sempai isn't coming to\nmy home today......",
+      "text": "I decided to go see them because Moe-sempai isn't coming to\nmy home today......"
+    },
+    {
+      "offset": 389,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "桜の木を見上げながら、公園の奥へと進んでい\nく。",
+      "en": "\"I'm bored anyway. I'll walk around and look for the dead\ntrees.\"",
+      "text": "\"I'm bored anyway. I'll walk around and look for the dead\ntrees.\""
+    },
+    {
+      "offset": 471,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "I looked up at the trees as I walked deeper inside the park.",
+      "text": "I looked up at the trees as I walked deeper inside the park."
+    },
+    {
+      "offset": 520,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "視界が開け、目の前に大きな桜の木が姿を現す。",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 571,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "Suddenly I saw a huge cherry blossom tree in front of me.",
+      "text": "Suddenly I saw a huge cherry blossom tree in front of me."
+    },
+    {
+      "offset": 590,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……はぁ」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 609,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "驚いた。",
+      "en": "\"......Ahh.\"",
+      "text": "\"......Ahh.\""
+    },
+    {
+      "offset": 622,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まさか……こいつが“散った桜の木”だとは思\nわなかった……。",
+      "en": "I was surprised.",
+      "text": "I was surprised."
+    },
+    {
+      "offset": 686,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この島に数ある桜の木の中で、１番思い出のあ\nる木。",
+      "en": "I didn't think this tree would be the dead tree......",
+      "text": "I didn't think this tree would be the dead tree......"
+    },
+    {
+      "offset": 740,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "幼い頃“秘密基地”と呼んでいた場所。その場\n所のシンボルだった木……。",
+      "en": "Out of all the trees on this island, this one was the most\nspecial one to me.",
+      "text": "Out of all the trees on this island, this one was the most\nspecial one to me."
+    },
+    {
+      "offset": 814,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "かつて、音夢やさくらと約束を交わし、最近で\nは俺とことりの“秘密の場所”となっていた桜\nの木。",
+      "en": "I called it my hideout when I was a child. This tree was so\nsymbolic to me......",
+      "text": "I called it my hideout when I was a child. This tree was so\nsymbolic to me......"
+    },
+    {
+      "offset": 911,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "散っていたのは、その思い出の桜だった。",
+      "en": "This was the spot I made promises with Nemu and Sakura.\nRecently, this was where I secretly met Kotori.",
+      "text": "This was the spot I made promises with Nemu and Sakura.\nRecently, this was where I secretly met Kotori."
+    },
+    {
+      "offset": 954,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頬をフワリと風がなでていく……。",
+      "en": "This dead tree holds so many of my memories.",
+      "text": "This dead tree holds so many of my memories."
+    },
+    {
+      "offset": 1006,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「この匂いは、お兄ちゃん？」",
+      "en": "\"This smell...... is that you, oniichan?\"",
+      "text": "\"This smell...... is that you, oniichan?\""
+    },
+    {
+      "offset": 1041,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "機能面で人とは別の進化を遂げた生き物が、桜\nの木の陰からひょっこりと顔をだす。",
+      "en": "An unusual creature appeared from behind the tree.",
+      "text": "An unusual creature appeared from behind the tree."
+    },
+    {
+      "offset": 1125,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ、なんでお前がここにいるんだ？」",
+      "en": "\"Oh, why are you here?\"",
+      "text": "\"Oh, why are you here?\""
+    },
+    {
+      "offset": 1203,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「桜を見にきたんだよ……」",
+      "en": "\"I came to see the cherry blossom......\"",
+      "text": "\"I came to see the cherry blossom......\""
+    },
+    {
+      "offset": 1236,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "枯れてしまった桜に手をついて、さくらがどこ\nか寂しげに木を見上げる。",
+      "en": "Sakura touched the dead tree and looked up at it with a sad\nface.",
+      "text": "Sakura touched the dead tree and looked up at it with a sad\nface."
+    },
+    {
+      "offset": 1310,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「不思議なこともあるもんだな……いや、枯れ\n　ないほうが不思議なんだけどさ」",
+      "en": "\"Strange things happen, huh......? I guess the fact that it\ndidn't die for this long is even stranger.\"",
+      "text": "\"Strange things happen, huh......? I guess the fact that it\ndidn't die for this long is even stranger.\""
+    },
+    {
+      "offset": 1405,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「どんな夢も終わるんだよ……特に楽しい夢は」",
+      "en": "\"Every dream ends eventually...... Especially fun dreams.\"",
+      "text": "\"Every dream ends eventually...... Especially fun dreams.\""
+    },
+    {
+      "offset": 1456,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「夢？」",
+      "en": "\"Dream?\"",
+      "text": "\"Dream?\""
+    },
+    {
+      "offset": 1484,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「夢だよ」",
+      "en": "\"Yes, dream.\"",
+      "text": "\"Yes, dream.\""
+    },
+    {
+      "offset": 1501,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どこか、今日のさくらは雰囲気が違う。",
+      "en": "Sakura was acting different today.",
+      "text": "Sakura was acting different today."
+    },
+    {
+      "offset": 1542,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なにがどうとかじゃなくて、ずっと一緒にいた\n俺にだけ分かる雰囲気が。",
+      "en": "I couldn't tell what was different, but I could feel it\nbecause I've been with her for so long.",
+      "text": "I couldn't tell what was different, but I could feel it\nbecause I've been with her for so long."
+    },
+    {
+      "offset": 1629,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「お兄ちゃん」",
+      "en": "\"Oniichan?\"",
+      "text": "\"Oniichan?\""
+    },
+    {
+      "offset": 1650,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「なんだ？」",
+      "en": "\"What is it?\"",
+      "text": "\"What is it?\""
+    },
+    {
+      "offset": 1682,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「えへへへへ……呼んだだけ」",
+      "en": "\"Teehee...... I just wanted to call you that.\"",
+      "text": "\"Teehee...... I just wanted to call you that.\""
+    },
+    {
+      "offset": 1717,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「なんだそれ？」",
+      "en": "\"What's that all about?\"",
+      "text": "\"What's that all about?\""
+    },
+    {
+      "offset": 1740,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "枯れてしまった木に寄って、さくらと同じよう\nに手をついてみる。",
+      "en": "I walked toward the dead tree and touched it just like\nSakura was doing.",
+      "text": "I walked toward the dead tree and touched it just like\nSakura was doing."
+    },
+    {
+      "offset": 1806,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まだ生きてはいる。",
+      "en": "It's still living.",
+      "text": "It's still living."
+    },
+    {
+      "offset": 1829,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "人でいう血の流れというのか、中を通っている\n水の音が手に伝わってくるようだ。",
+      "en": "I could feel the movement of the tree sap, flowing inside\nthe tree.",
+      "text": "I could feel the movement of the tree sap, flowing inside\nthe tree."
+    },
+    {
+      "offset": 1909,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――ぽすっ。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 1950,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……お兄ちゃん」",
+      "en": "\"......Oniichan?\"",
+      "text": "\"......Oniichan?\""
+    },
+    {
+      "offset": 1975,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「さくら？」",
+      "en": "\"Sakura?\"",
+      "text": "\"Sakura?\""
+    },
+    {
+      "offset": 1994,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "背中にはりついているさくらが、なぜか震えて\nいる。",
+      "en": "I felt Sakura trembling on my back.",
+      "text": "I felt Sakura trembling on my back."
+    },
+    {
+      "offset": 2063,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「っ……お、兄ちゃん……」",
+      "en": "\"......Oniisan......\"",
+      "text": "\"......Oniisan......\""
+    },
+    {
+      "offset": 2096,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「おまえ、泣いてるのか！？」",
+      "en": "\"Are you crying?\"",
+      "text": "\"Are you crying?\""
+    },
+    {
+      "offset": 2131,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "振り返ろうとしたが、ぎゅっ、と抱きついた腕\nがそれを許さない。",
+      "en": "I tried to turn around, but she was holding on to me too\ntight.",
+      "text": "I tried to turn around, but she was holding on to me too\ntight."
+    },
+    {
+      "offset": 2217,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「枯れちゃったよ……桜が枯れちゃったんだ\n　……ボク達の桜が……」",
+      "en": "\"It's dead...... The cherry tree's dead...... our tree's\ndead......\"",
+      "text": "\"It's dead...... The cherry tree's dead...... our tree's\ndead......\""
+    },
+    {
+      "offset": 2289,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2308,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "確かに、この木は俺や音夢、さくらの大切にし\nていた木だ。",
+      "en": "Indeed, this tree was a special tree for Nemu, Sakura and I.",
+      "text": "Indeed, this tree was a special tree for Nemu, Sakura and I."
+    },
+    {
+      "offset": 2368,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思い出の場所。",
+      "en": "This was our special place.",
+      "text": "This was our special place."
+    },
+    {
+      "offset": 2387,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらとの別れ。",
+      "en": "This is where Sakura said goodbye.",
+      "text": "This is where Sakura said goodbye."
+    },
+    {
+      "offset": 2408,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "家出した音夢がいた場所。",
+      "en": "This is where I found Nemu after she ran away from home.",
+      "text": "This is where I found Nemu after she ran away from home."
+    },
+    {
+      "offset": 2437,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりとの出会い。",
+      "en": "This is where I met Kotori.",
+      "text": "This is where I met Kotori."
+    },
+    {
+      "offset": 2460,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな、色々な思い出を見つめていた木だ。",
+      "en": "This tree has been a witness to all of those special\nmoments.",
+      "text": "This tree has been a witness to all of those special\nmoments."
+    },
+    {
+      "offset": 2520,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ボク……海外に帰るんだ」",
+      "en": "\"I'm...... going back overseas.\"",
+      "text": "\"I'm...... going back overseas.\""
+    },
+    {
+      "offset": 2553,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「え、なに！？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 2576,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今度こそ、小さくてか弱い腕を振りほどいて、\n振り返る。",
+      "en": "This time, I shook off her thin arms and turned around.",
+      "text": "This time, I shook off her thin arms and turned around."
+    },
+    {
+      "offset": 2671,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「えへへへ……ごめんね、今になって」",
+      "en": "\"Hehehe...... I'm sorry I didn't tell you.\"",
+      "text": "\"Hehehe...... I'm sorry I didn't tell you.\""
+    },
+    {
+      "offset": 2714,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あ」",
+      "en": "\"Oh.\"",
+      "text": "\"Oh.\""
+    },
+    {
+      "offset": 2727,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらは笑っていた。",
+      "en": "Sakura was smiling.",
+      "text": "Sakura was smiling."
+    },
+    {
+      "offset": 2752,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "胸が痛い。",
+      "en": "My heart ached.",
+      "text": "My heart ached."
+    },
+    {
+      "offset": 2767,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "笑顔の下で泣いているのが分かる。",
+      "en": "I could tell she was crying underneath her smiling face.",
+      "text": "I could tell she was crying underneath her smiling face."
+    },
+    {
+      "offset": 2806,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どうして？」",
+      "en": "\"Why?\"",
+      "text": "\"Why?\""
+    },
+    {
+      "offset": 2840,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「決めてたんだ。桜が枯れたら帰るって……」",
+      "en": "\"I decided I'd go back if these cherry blossom fell.\"",
+      "text": "\"I decided I'd go back if these cherry blossom fell.\""
+    },
+    {
+      "offset": 2889,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そんな――」",
+      "en": "\"But......\"",
+      "text": "\"But......\""
+    },
+    {
+      "offset": 2940,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「嘘だよ。ホントは元から５月までの約束だっ\n　たんだ……ほんの少しの間だけだって」",
+      "en": "\"I'm kidding. I was only supposed to be here for 5\nmonths...... Just for a little while.\"",
+      "text": "\"I'm kidding. I was only supposed to be here for 5\nmonths...... Just for a little while.\""
+    },
+    {
+      "offset": 3041,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ボクが無理を言って来たの」",
+      "en": "\"I came here for a selfish reason.\"",
+      "text": "\"I came here for a selfish reason.\""
+    },
+    {
+      "offset": 3076,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3095,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "胸が痛い。",
+      "en": "My heart was still aching.",
+      "text": "My heart was still aching."
+    },
+    {
+      "offset": 3110,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらは、俺に会いに来たんだ。",
+      "en": "Sakura came here to see me.",
+      "text": "Sakura came here to see me."
+    },
+    {
+      "offset": 3145,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今になって気づいてしまった。",
+      "en": "I finally realized.",
+      "text": "I finally realized."
+    },
+    {
+      "offset": 3178,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "コイツはそういう奴だ。",
+      "en": "She's that kind of girl.",
+      "text": "She's that kind of girl."
+    },
+    {
+      "offset": 3205,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それなのに、俺はほとんどかまってやらなくて。",
+      "en": "But I didn't spend much time with her......",
+      "text": "But I didn't spend much time with her......"
+    },
+    {
+      "offset": 3286,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「お兄ちゃん」",
+      "en": "\"Oniichan?\"",
+      "text": "\"Oniichan?\""
+    },
+    {
+      "offset": 3307,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらの手が胸に触れる。",
+      "en": "Sakura touched my chest.",
+      "text": "Sakura touched my chest."
+    },
+    {
+      "offset": 3351,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ボクのこと好き？」",
+      "en": "\"Do you like me?\"",
+      "text": "\"Do you like me?\""
+    },
+    {
+      "offset": 3378,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "真剣な瞳が俺を見上げる。",
+      "en": "She looked up at me with a serious face.",
+      "text": "She looked up at me with a serious face."
+    },
+    {
+      "offset": 3409,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん、あぁ……」",
+      "en": "\"Yeah......\"",
+      "text": "\"Yeah......\""
+    },
+    {
+      "offset": 3462,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……良かったぁ」",
+      "en": "\"......I'm glad.\"",
+      "text": "\"......I'm glad.\""
+    },
+    {
+      "offset": 3487,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ほっ、とさくらが無い胸をなでおろす。",
+      "en": "She looked relieved.",
+      "text": "She looked relieved."
+    },
+    {
+      "offset": 3530,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そっか、またお別れか」",
+      "en": "\"So you're leaving again, huh?\"",
+      "text": "\"So you're leaving again, huh?\""
+    },
+    {
+      "offset": 3574,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「泣かない……もうボクは泣かない。大人になっ\n　たんだよ♪」",
+      "en": "\"I'm not crying...... I'm not crying anymore. I'm a grownup\nnow.\"",
+      "text": "\"I'm not crying...... I'm not crying anymore. I'm a grownup\nnow.\""
+    },
+    {
+      "offset": 3640,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あぁ」",
+      "en": "\"Yeah.\"",
+      "text": "\"Yeah.\""
+    },
+    {
+      "offset": 3655,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "これは悲しい別れだけど、二度と会えないって\nことじゃない。",
+      "en": "It's sad to say goodbye, but it doesn't mean that I won't\nsee her forever.",
+      "text": "It's sad to say goodbye, but it doesn't mean that I won't\nsee her forever."
+    },
+    {
+      "offset": 3717,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いちいち悲しむことじゃない。",
+      "en": "I don't need to be too sad.",
+      "text": "I don't need to be too sad."
+    },
+    {
+      "offset": 3750,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そうやって――。",
+      "en": "We told ourselves inside......",
+      "text": "We told ourselves inside......"
+    },
+    {
+      "offset": 3771,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふたりともが悲しみを我慢する。",
+      "en": "Then we both tried to hold our sadness.",
+      "text": "Then we both tried to hold our sadness."
+    },
+    {
+      "offset": 3808,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ごめんな……」",
+      "en": "\"I'm sorry......\"",
+      "text": "\"I'm sorry......\""
+    },
+    {
+      "offset": 3861,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「なに謝ってるのお兄ちゃん？」",
+      "en": "\"Why are you apologizing to me?\"",
+      "text": "\"Why are you apologizing to me?\""
+    },
+    {
+      "offset": 3898,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ありがとう」",
+      "en": "\"Thank you.\"",
+      "text": "\"Thank you.\""
+    },
+    {
+      "offset": 3932,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3981,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ボクもありがとう……えへへ、見送りには来\n　なくてもいいからね」",
+      "en": "\"Thank you too...... Hehehe, you don't have to come and see\nme off, alright?\"",
+      "text": "\"Thank you too...... Hehehe, you don't have to come and see\nme off, alright?\""
+    },
+    {
+      "offset": 4062,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "フワリ――と。",
+      "en": "Just like the flower petal,",
+      "text": "Just like the flower petal,"
+    },
+    {
+      "offset": 4081,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "赤いスカートを翻して、舞い散る桜の花びらの\nようにさくらが後ろに下がる。",
+      "en": "Sakura lightly stepped back as her red skirt danced.",
+      "text": "Sakura lightly stepped back as her red skirt danced."
+    },
+    {
+      "offset": 4157,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お別れだ。",
+      "en": "Goodbye.",
+      "text": "Goodbye."
+    },
+    {
+      "offset": 4187,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あ、そうだひとつだけ忘れてた」",
+      "en": "\"Oh, I forgot one thing.\"",
+      "text": "\"Oh, I forgot one thing.\""
+    },
+    {
+      "offset": 4226,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……お前なぁ」",
+      "en": "\"......Hey, you.\"",
+      "text": "\"......Hey, you.\""
+    },
+    {
+      "offset": 4249,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わず肩が落ちた。",
+      "en": "I spoke with frustration.",
+      "text": "I spoke with frustration."
+    },
+    {
+      "offset": 4309,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゃ？　なにかな？」",
+      "en": "\"What? What is it?\"",
+      "text": "\"What? What is it?\""
+    },
+    {
+      "offset": 4340,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とことこ、とさくらが戻ってくる。",
+      "en": "Sakura walked back toward me.",
+      "text": "Sakura walked back toward me."
+    },
+    {
+      "offset": 4379,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「うにゃとかじゃなくて、こういう時はとっと\n　と居なくなるのがいいんだろうが……」",
+      "en": "\"You're supposed to disappear in a scene like this......\"",
+      "text": "\"You're supposed to disappear in a scene like this......\""
+    },
+    {
+      "offset": 4480,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あははは……なに音夢ちゃんみたいなこと言っ\n　てるの？」",
+      "en": "\"Ahaha...... You're saying something that Nemu-chan might\nsay!\"",
+      "text": "\"Ahaha...... You're saying something that Nemu-chan might\nsay!\""
+    },
+    {
+      "offset": 4544,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ん？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 4559,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢みたいか？",
+      "en": "I sound like Nemu?",
+      "text": "I sound like Nemu?"
+    },
+    {
+      "offset": 4578,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あー。",
+      "en": "Umm......",
+      "text": "Umm......"
+    },
+    {
+      "offset": 4591,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「こほん……ま、とにかくだ。こういう別れは、\n　さっさと済ますもんだぞ。何せ――」",
+      "en": "\"Anyway, you need to finish up quickly. What a......\"",
+      "text": "\"Anyway, you need to finish up quickly. What a......\""
+    },
+    {
+      "offset": 4709,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「かったるいからねぇ」",
+      "en": "\"Pain, right?\"",
+      "text": "\"Pain, right?\""
+    },
+    {
+      "offset": 4738,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本気でだるそうにさくらが呟く。",
+      "en": "She completed my sentence with a tired look.",
+      "text": "She completed my sentence with a tired look."
+    },
+    {
+      "offset": 4775,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お前――」",
+      "en": "\"You......\"",
+      "text": "\"You......\""
+    },
+    {
+      "offset": 4824,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「夢はもう終わったんだよ……」",
+      "en": "\"My dream's over now......\"",
+      "text": "\"My dream's over now......\""
+    },
+    {
+      "offset": 4874,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「お兄ちゃんの大事な人にも伝えてあげて」",
+      "en": "\"You tell that to your special person. Tell her that happy\ndreams will eventually end......\"",
+      "text": "\"You tell that to your special person. Tell her that happy\ndreams will eventually end......\""
+    },
+    {
+      "offset": 4965,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「どんなに幸せな夢にも、必ず終わりはあるん\n　だって……」",
+      "en": "\"You can't keep dreaming too long. Someone's waiting for you\nto wake.\"",
+      "text": "\"You can't keep dreaming too long. Someone's waiting for you\nto wake.\""
+    },
+    {
+      "offset": 5042,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「夢ばかりを見ていないで。現実に待っている\n　人がいるんだから」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 5112,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「え？」",
+      "en": "\"Are you talking about Moe-sempai?\"",
+      "text": "\"Are you talking about Moe-sempai?\""
+    },
+    {
+      "offset": 5127,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「それは萌先輩のことか？」",
+      "en": "\"So...... I'll see you again in spring......\"",
+      "text": "\"So...... I'll see you again in spring......\""
+    },
+    {
+      "offset": 5190,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「それじゃあ……また春に……」",
+      "en": "\"Hey, Sakura!\"",
+      "text": "\"Hey, Sakura!\""
+    },
+    {
+      "offset": 5261,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "問いただす言葉も、伸ばしかけた手もすりぬけ、\nさくらが走り去る。",
+      "en": "Sakura ran off, ignoring my question and my extended arms.",
+      "text": "Sakura ran off, ignoring my question and my extended arms."
+    },
+    {
+      "offset": 5329,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "２度と振り返らず。",
+      "en": "She never turned back.",
+      "text": "She never turned back."
+    },
+    {
+      "offset": 5367,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「今度会うときは、すっごい美人さんになって\n　るからねぇ！」",
+      "en": "\"I'll be prettier when I see you next time!\"",
+      "text": "\"I'll be prettier when I see you next time!\""
+    },
+    {
+      "offset": 5433,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "遠くから声が聞こえた。",
+      "en": "I heard her voice from afar.",
+      "text": "I heard her voice from afar."
+    },
+    {
+      "offset": 5462,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 5481,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それが――２度目の別れだった。",
+      "en": "This was the second time we said goodbye.",
+      "text": "This was the second time we said goodbye."
+    },
+    {
+      "offset": 5624,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆さくらとの別れ◆",
+      "en": "◆Farewell with Sakura◆",
+      "text": "◆Farewell with Sakura◆"
+    },
+    {
+      "offset": 5679,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "桜が枯れたら帰る事にしていた──そんな事を\n言って、さくらが別れを告げた。",
+      "en": "Sakura told me goodbye. She said she was supposed to leave\nwhen the cherry blossom died.",
+      "text": "Sakura told me goodbye. She said she was supposed to leave\nwhen the cherry blossom died."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "996": "Sakura",
+    "1193": "Sakura",
+    "1395": "Sakura",
+    "1474": "Sakura",
+    "1619": "Sakura",
+    "1672": "Sakura",
+    "1940": "Sakura",
+    "2053": "Sakura",
+    "2207": "Sakura",
+    "2510": "Sakura",
+    "2661": "Sakura",
+    "2830": "Sakura",
+    "2930": "Sakura",
+    "3031": "Sakura",
+    "3276": "Sakura",
+    "3341": "Sakura",
+    "3452": "Sakura",
+    "3564": "Sakura",
+    "3851": "Sakura",
+    "3922": "Sakura",
+    "3971": "Sakura",
+    "4177": "Sakura",
+    "4299": "Sakura",
+    "4470": "Sakura",
+    "4699": "Sakura",
+    "4814": "Sakura",
+    "4864": "Sakura",
+    "4955": "Sakura",
+    "5032": "Sakura",
+    "5180": "Sakura",
+    "5357": "Sakura"
+  }
+}

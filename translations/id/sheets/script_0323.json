@@ -1,0 +1,854 @@
+{
+  "scene": "script_0323.obj",
+  "dialogues": [
+    {
+      "offset": 145,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目の前には環の作った弁当がある。",
+      "en": "The boxed lunch that Tamaki made, laid in front of me.",
+      "text": "The boxed lunch that Tamaki made, laid in front of me."
+    },
+    {
+      "offset": 182,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こんな美しい弁当を見たことがない。",
+      "en": "I've never seen such a beautiful lunchbox before.",
+      "text": "I've never seen such a beautiful lunchbox before."
+    },
+    {
+      "offset": 221,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "購買で適当に買ってすませようと思っていた俺\nに取っては、救世主のようなものだ。",
+      "en": "It wouldn't look out of place at the front of a gourmet\nrestaurant. It's the saviour of my afternoon.",
+      "text": "It wouldn't look out of place at the front of a gourmet\nrestaurant. It's the saviour of my afternoon."
+    },
+    {
+      "offset": 338,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昼休憩になった直後、教室を出ると、環に声を\nかけられた。",
+      "en": "This all started when I heard Tamaki's voice calling out to\nme while heading out the classroom...",
+      "text": "This all started when I heard Tamaki's voice calling out to\nme while heading out the classroom..."
+    },
+    {
+      "offset": 436,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「朝倉様」",
+      "en": "\"Asakura-sama?\"",
+      "text": "\"Asakura-sama?\""
+    },
+    {
+      "offset": 453,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「よお、環」",
+      "en": "\"Yo, Tamaki.\"",
+      "text": "\"Yo, Tamaki.\""
+    },
+    {
+      "offset": 481,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「これから、お昼ですか？」",
+      "en": "\"Are you going for lunch?\"",
+      "text": "\"Are you going for lunch?\""
+    },
+    {
+      "offset": 514,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「これから芝刈りに行くように見えるか？」",
+      "en": "\"Does it look like I'm going lawn-mowing?\"",
+      "text": "\"Does it look like I'm going lawn-mowing?\""
+    },
+    {
+      "offset": 587,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「……川にお洗濯じゃないですよね？」",
+      "en": "\"...Washing clothes by the river, maybe?\"",
+      "text": "\"...Washing clothes by the river, maybe?\""
+    },
+    {
+      "offset": 630,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「……もちろん、鬼退治でもないぞ」",
+      "en": "\"...Obviously, it's demon exorcision.\"",
+      "text": "\"...Obviously, it's demon exorcision.\""
+    },
+    {
+      "offset": 671,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "おっと、こんな会話をしている場合ではない。",
+      "en": "Whoops, this isn't the time for idle conversation like\nthis...",
+      "text": "Whoops, this isn't the time for idle conversation like\nthis..."
+    },
+    {
+      "offset": 718,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少しでも早く行って、身のある食物を得ないと。",
+      "en": "If I don't get a move on, there won't be anything edible\nleft.",
+      "text": "If I don't get a move on, there won't be anything edible\nleft."
+    },
+    {
+      "offset": 769,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「悪い、環。ちょっと急ぐから……」",
+      "en": "\"Sorry, Tamaki, but I have to hurry...\"",
+      "text": "\"Sorry, Tamaki, but I have to hurry...\""
+    },
+    {
+      "offset": 810,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は会話を終わらせて購買へ行こうとすると、",
+      "en": "I started heading off to make my purchases, but...",
+      "text": "I started heading off to make my purchases, but..."
+    },
+    {
+      "offset": 885,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「あ、あの……」",
+      "en": "\"U, um...\"",
+      "text": "\"U, um...\""
+    },
+    {
+      "offset": 908,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "赤面して俯いたまま、環が尋ねる。",
+      "en": "Her red face staring at the ground, she meekly addressed me.",
+      "text": "Her red face staring at the ground, she meekly addressed me."
+    },
+    {
+      "offset": 947,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「何？　何か用？」",
+      "en": "\"Hm? What's up?\"",
+      "text": "\"Hm? What's up?\""
+    },
+    {
+      "offset": 998,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ひょっとして、こ、これから購買へ行くので\n　すか？」",
+      "en": "\"A, are you perhaps, going to buy your lunch?\"",
+      "text": "\"A, are you perhaps, going to buy your lunch?\""
+    },
+    {
+      "offset": 1058,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ああ。そのつもりだけど……」",
+      "en": "\"Yeah, I am...\"",
+      "text": "\"Yeah, I am...\""
+    },
+    {
+      "offset": 1121,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そうですか……」",
+      "en": "\"I see...\"",
+      "text": "\"I see...\""
+    },
+    {
+      "offset": 1146,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「どうかしたの？」",
+      "en": "\"What about it?\"",
+      "text": "\"What about it?\""
+    },
+    {
+      "offset": 1171,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環が何か言いたそうにしているのは分かるが、\n何が言いたいのかは分からない。",
+      "en": "I could understand what she was saying, but not what she was\nhiding.",
+      "text": "I could understand what she was saying, but not what she was\nhiding."
+    },
+    {
+      "offset": 1277,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「あの、もし迷惑でなければ、お弁当を作りす\n　ぎてしまったので、一緒に食べませんか」",
+      "en": "\"Um, if it's no trouble to you... I made a little too much\nfor my own lunch... so I thought we could share it...\"",
+      "text": "\"Um, if it's no trouble to you... I made a little too much\nfor my own lunch... so I thought we could share it...\""
+    },
+    {
+      "offset": 1367,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「え？」",
+      "en": "\"Eh?\"",
+      "text": "\"Eh?\""
+    },
+    {
+      "offset": 1382,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "棚からボタ餅か？",
+      "en": "Is this a trap?",
+      "text": "Is this a trap?"
+    },
+    {
+      "offset": 1431,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「め、迷惑ならいいんですけど……」",
+      "en": "\"I, if it's a bother, it's fine...\"",
+      "text": "\"I, if it's a bother, it's fine...\""
+    },
+    {
+      "offset": 1472,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「作りすぎたって……環の手作り？　マジで？\n　いいの？」",
+      "en": "\"You made a little too much... you mean, you made it\nyourself? Is it really okay for me to eat it too?\"",
+      "text": "\"You made a little too much... you mean, you made it\nyourself? Is it really okay for me to eat it too?\""
+    },
+    {
+      "offset": 1560,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「……はい」",
+      "en": "\"...Yes.\"",
+      "text": "\"...Yes.\""
+    },
+    {
+      "offset": 1579,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は、真っ赤になって俯いたままである。",
+      "en": "Her face, still boring holes into the floor, grew even\nredder.",
+      "text": "Her face, still boring holes into the floor, grew even\nredder."
+    },
+    {
+      "offset": 1622,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "弁当を作りすぎたことがそんなにも恥ずかしい\nのだろうか？",
+      "en": "Is overcooking really that shameful?",
+      "text": "Is overcooking really that shameful?"
+    },
+    {
+      "offset": 1682,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一緒に食卓を囲むのが照れくさいのか？",
+      "en": "Or maybe she thinks eating from the same box would be\nembarassing?",
+      "text": "Or maybe she thinks eating from the same box would be\nembarassing?"
+    },
+    {
+      "offset": 1723,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、そうなら弁当を一緒に食べようとは誘\nわないだろう。",
+      "en": "Although, if that was true, she wouldn't have asked me in\nthe first place...",
+      "text": "Although, if that was true, she wouldn't have asked me in\nthe first place..."
+    },
+    {
+      "offset": 1785,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、細かいことは考えるのをやめよう。",
+      "en": "Well, whatever. No point sweating the small stuff.",
+      "text": "Well, whatever. No point sweating the small stuff."
+    },
+    {
+      "offset": 1828,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一食分、浮いた。ラッキー。しかも環の手作り\nですぜ、ダンナ。",
+      "en": "My meal for today is decided, lucky for me. And Tamaki made\nit, so it'd be fit for a king most likely.",
+      "text": "My meal for today is decided, lucky for me. And Tamaki made\nit, so it'd be fit for a king most likely."
+    },
+    {
+      "offset": 1894,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「よし、じゃあ、お言葉に甘えるとするか」",
+      "en": "\"Alright then, I gratefully accept.\"",
+      "text": "\"Alright then, I gratefully accept.\""
+    },
+    {
+      "offset": 1967,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ありがとうございます」",
+      "en": "\"Thank you!\"",
+      "text": "\"Thank you!\""
+    },
+    {
+      "offset": 1998,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「いや、礼を言うのは俺だろう？」",
+      "en": "\"Er, it should be me thanking you, no?\"",
+      "text": "\"Er, it should be me thanking you, no?\""
+    },
+    {
+      "offset": 2046,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「いいえ……本当、ありがとうございます」",
+      "en": "\"No... from the bottom of my heart, thank you.\"",
+      "text": "\"No... from the bottom of my heart, thank you.\""
+    },
+    {
+      "offset": 2093,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「…………とりあえず、行くか」",
+      "en": "\"......Anyway, let's go.\"",
+      "text": "\"......Anyway, let's go.\""
+    },
+    {
+      "offset": 2139,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「はい」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 2163,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺と環は、ひとけのないところということで、\n体育館裏へと移動した。",
+      "en": "Our goal was to find a deserted area. We eventually landed\nat the gym rear.",
+      "text": "Our goal was to find a deserted area. We eventually landed\nat the gym rear."
+    },
+    {
+      "offset": 2291,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2310,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言葉が無い。",
+      "en": "I was stunned.",
+      "text": "I was stunned."
+    },
+    {
+      "offset": 2327,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "人間、感動すると言葉を失うというが、正にそ\nの通りの情景が、今ここに、ある。",
+      "en": "The sight before me taught me the real feeling of being\nspeechless.",
+      "text": "The sight before me taught me the real feeling of being\nspeechless."
+    },
+    {
+      "offset": 2407,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日は、お正月ですか？",
+      "en": "Is today the first day of the new year?",
+      "text": "Is today the first day of the new year?"
+    },
+    {
+      "offset": 2434,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環が作りすぎたという弁当は、お重が五段になっ\nている。",
+      "en": "The lunchbox she made was a tray of, essentially, a\nfive-course meal.",
+      "text": "The lunchbox she made was a tray of, essentially, a\nfive-course meal."
+    },
+    {
+      "offset": 2492,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "中身は全て和食だが、色とりどりに並べられ、\n見た目で既に味わえるものである。",
+      "en": "It was made entirely of typical Japanese food, all arranged\nneatly and appetizingly.",
+      "text": "It was made entirely of typical Japanese food, all arranged\nneatly and appetizingly."
+    },
+    {
+      "offset": 2574,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「環、料理得意なんだな……」",
+      "en": "\"Tamaki, you must cook a lot...\"",
+      "text": "\"Tamaki, you must cook a lot...\""
+    },
+    {
+      "offset": 2635,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ええ。作るのは好きなんです」",
+      "en": "\"Yes. I like to cook.\"",
+      "text": "\"Yes. I like to cook.\""
+    },
+    {
+      "offset": 2672,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お重の中身を、皿に取り分けてくれている。",
+      "en": "The entire thing even came with plates.",
+      "text": "The entire thing even came with plates."
+    },
+    {
+      "offset": 2717,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何か、こういうのって、いいよな。",
+      "en": "This feels great, more like a picnic than a school lunch.",
+      "text": "This feels great, more like a picnic than a school lunch."
+    },
+    {
+      "offset": 2754,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "女の子の女の子らしい姿は、やはり見ていてか\nわいらしい。",
+      "en": "Seems like she's not girly only in looks.",
+      "text": "Seems like she's not girly only in looks."
+    },
+    {
+      "offset": 2842,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「お口に合うかどうかわかりませんが……」",
+      "en": "\"I do not know how good it tastes, but...\"",
+      "text": "\"I do not know how good it tastes, but...\""
+    },
+    {
+      "offset": 2889,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、綺麗に盛られた皿を受け取り、",
+      "en": "My answer was simply to take the top of the stack of plates.",
+      "text": "My answer was simply to take the top of the stack of plates."
+    },
+    {
+      "offset": 2930,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「では、いただきます」",
+      "en": "\"Shall we?\"",
+      "text": "\"Shall we?\""
+    },
+    {
+      "offset": 2959,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "パンと、手を合わせた。",
+      "en": "I clapped my hands together.",
+      "text": "I clapped my hands together."
+    },
+    {
+      "offset": 3003,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は、心配そうに俺を見つめている。",
+      "en": "Tamaki was staring at me, slightly worried.",
+      "text": "Tamaki was staring at me, slightly worried."
+    },
+    {
+      "offset": 3042,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、まずサトイモの煮物を口に運んだ。",
+      "en": "I started with piece of stewed potato, and brought it to my\nmouth...",
+      "text": "I started with piece of stewed potato, and brought it to my\nmouth..."
+    },
+    {
+      "offset": 3085,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "おっ。",
+      "en": "...Wow.",
+      "text": "...Wow."
+    },
+    {
+      "offset": 3096,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "このまろやかな味わい……。",
+      "en": "The mild taste...",
+      "text": "The mild taste..."
+    },
+    {
+      "offset": 3127,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "サトイモの甘さと醤油のハーモニー。",
+      "en": "The harmony between the soy sauce and the sweetness of the\npotato...",
+      "text": "The harmony between the soy sauce and the sweetness of the\npotato..."
+    },
+    {
+      "offset": 3168,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「うまい！」",
+      "en": "\"Delicious!\"",
+      "text": "\"Delicious!\""
+    },
+    {
+      "offset": 3187,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は思わず叫んでしまった。",
+      "en": "I exclaimed what I felt, without thinking about it.",
+      "text": "I exclaimed what I felt, without thinking about it."
+    },
+    {
+      "offset": 3218,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の料理とは違い、中身も本物だ。",
+      "en": "This is as far from Nemu's cooking as it gets. This is the\nreal thing.",
+      "text": "This is as far from Nemu's cooking as it gets. This is the\nreal thing."
+    },
+    {
+      "offset": 3274,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は、ほっと息を吐いて。",
+      "en": "Tamaki then breathed a sigh of relief.",
+      "text": "Tamaki then breathed a sigh of relief."
+    },
+    {
+      "offset": 3331,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「よかった。頑張ったかいがありました」",
+      "en": "\"I'm glad... I worked hard on it.\"",
+      "text": "\"I'm glad... I worked hard on it.\""
+    },
+    {
+      "offset": 3376,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「え？」",
+      "en": "\"Eh?\"",
+      "text": "\"Eh?\""
+    },
+    {
+      "offset": 3408,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "がんばったかいがありました？",
+      "en": "She worked hard on it?",
+      "text": "She worked hard on it?"
+    },
+    {
+      "offset": 3441,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それって、どういう意味だよ……。",
+      "en": "What does she mean by that...?",
+      "text": "What does she mean by that...?"
+    },
+    {
+      "offset": 3478,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、気にしながらも、五段全てを平らげてしまっ\nた。",
+      "en": "Before I came up with an answer, we'd finished the entire 5\ncourses.",
+      "text": "Before I came up with an answer, we'd finished the entire 5\ncourses."
+    },
+    {
+      "offset": 3534,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……余は満足じゃ」",
+      "en": "\"...Now that was satisfying.\"",
+      "text": "\"...Now that was satisfying.\""
+    },
+    {
+      "offset": 3561,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自販機で買ってきたお茶を飲みながら、食事の\n余韻に浸っている。",
+      "en": "I sipped from a can of tea, washing down that amazing meal.",
+      "text": "I sipped from a can of tea, washing down that amazing meal."
+    },
+    {
+      "offset": 3655,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「喜んでもらえて、本当によかったです」",
+      "en": "\"I'm happy you enjoyed it.\"",
+      "text": "\"I'm happy you enjoyed it.\""
+    },
+    {
+      "offset": 3700,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環はうれしそうに俺に言う。",
+      "en": "The happiness in her voice was clear.",
+      "text": "The happiness in her voice was clear."
+    },
+    {
+      "offset": 3731,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "これって。",
+      "en": "This, though.",
+      "text": "This, though."
+    },
+    {
+      "offset": 3746,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一人で食べるにしては、量が多すぎるよな……。",
+      "en": "This really was way too much for one person to finish...",
+      "text": "This really was way too much for one person to finish..."
+    },
+    {
+      "offset": 3795,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あれ？",
+      "en": "...Hm.",
+      "text": "...Hm."
+    },
+    {
+      "offset": 3806,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ひょっとして、環のヤツ。",
+      "en": "Just maybe, that girl...",
+      "text": "Just maybe, that girl..."
+    },
+    {
+      "offset": 3835,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "わざと、あんなにたくさん作ってきたのか？",
+      "en": "Maybe she made that much on purpose?",
+      "text": "Maybe she made that much on purpose?"
+    },
+    {
+      "offset": 3880,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は思わず環の表情をうかがう。",
+      "en": "My thoughts must've been clear on my face, as Tamaki then\nbegan talking.",
+      "text": "My thoughts must've been clear on my face, as Tamaki then\nbegan talking."
+    },
+    {
+      "offset": 3943,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「どうかしましたか？」",
+      "en": "\"Is there something amiss?\"",
+      "text": "\"Is there something amiss?\""
+    },
+    {
+      "offset": 3972,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「いや、なんでもない」",
+      "en": "\"Nah, it's nothing.\"",
+      "text": "\"Nah, it's nothing.\""
+    },
+    {
+      "offset": 4027,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 4046,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちょっと自意識過剰かな。",
+      "en": "I'm probably giving myself too much credit.",
+      "text": "I'm probably giving myself too much credit."
+    },
+    {
+      "offset": 4075,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まさか『俺のために作ってくれたの？』とは聞\nけないしなぁ。",
+      "en": "Asking whether she made it for me, would also be plain\nembarassing, especially if I'm wrong...",
+      "text": "Asking whether she made it for me, would also be plain\nembarassing, especially if I'm wrong..."
+    },
+    {
+      "offset": 4137,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ここは、素直に好意を受け取り、真意は敢えて\n触れずにおこう。",
+      "en": "I'll just accept the goodwill, and leave any hidden\nintentions untouched.",
+      "text": "I'll just accept the goodwill, and leave any hidden\nintentions untouched."
+    },
+    {
+      "offset": 4229,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「あの、朝倉様……」",
+      "en": "\"Um, Asakura-sama...\"",
+      "text": "\"Um, Asakura-sama...\""
+    },
+    {
+      "offset": 4256,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「何？」",
+      "en": "\"Yes?\"",
+      "text": "\"Yes?\""
+    },
+    {
+      "offset": 4297,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「また作りすぎたら、手伝ってもらっていいで\n　すか？」",
+      "en": "\"If I make too much again, would you help me with it?\"",
+      "text": "\"If I make too much again, would you help me with it?\""
+    },
+    {
+      "offset": 4357,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「そんなに、いつも作る量を間違えるのか？」",
+      "en": "\"Isn't that different from how much you usually make?\"",
+      "text": "\"Isn't that different from how much you usually make?\""
+    },
+    {
+      "offset": 4432,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「ダメですか？」",
+      "en": "\"...You won't?\"",
+      "text": "\"...You won't?\""
+    },
+    {
+      "offset": 4455,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「いや、もちろんかまわないけどさ」",
+      "en": "\"No, of course I will.\"",
+      "text": "\"No, of course I will.\""
+    },
+    {
+      "offset": 4522,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「よかった」",
+      "en": "\"Then that is fine.\"",
+      "text": "\"Then that is fine.\""
+    },
+    {
+      "offset": 4541,
+      "speaker": "Tamaki",
+      "speaker_jp": "環",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 4560,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "作りすぎる予定か……。",
+      "en": "She's planning to overdo it again, isn't she...",
+      "text": "She's planning to overdo it again, isn't she..."
+    },
+    {
+      "offset": 4587,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ま、いいか。",
+      "en": "Well, whatever.",
+      "text": "Well, whatever."
+    },
+    {
+      "offset": 4604,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "おいしい弁当が食えるんだ。",
+      "en": "I get to eat more tasty lunches after all.",
+      "text": "I get to eat more tasty lunches after all."
+    },
+    {
+      "offset": 4635,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それだけでよしとしよう。",
+      "en": "That can only be a good thing.",
+      "text": "That can only be a good thing."
+    },
+    {
+      "offset": 4793,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆弁当はお重◆",
+      "en": "◆The 5-Course Boxed Lunch?◆",
+      "text": "◆The 5-Course Boxed Lunch?◆"
+    },
+    {
+      "offset": 4836,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "購買へ行こうとすると、環と出会う。",
+      "en": "On the way to buy my lunch, I bumped into Tamaki.",
+      "text": "On the way to buy my lunch, I bumped into Tamaki."
+    },
+    {
+      "offset": 4875,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "環は弁当を作りすぎたといって、俺に弁当を食\nべて欲しいと言ってくる。",
+      "en": "Tamaki had made too much for her lunch, and wanted to share\nit with me.",
+      "text": "Tamaki had made too much for her lunch, and wanted to share\nit with me."
+    },
+    {
+      "offset": 4947,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お重で五段になっていて、確かに一人では食べ\nきれない量だった。",
+      "en": "After seeing and tasting the 5-course lunch for myself, I\ndefinitely agreed that she had made too much.",
+      "text": "After seeing and tasting the 5-course lunch for myself, I\ndefinitely agreed that she had made too much."
+    },
+    {
+      "offset": 5013,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ひょっとして、俺を誘うために作ってくれたの\nだろうか……。",
+      "en": "Though maybe, she made that much on purpose...",
+      "text": "Though maybe, she made that much on purpose..."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "430": "Tamaki",
+    "475": "Tamaki",
+    "581": "Tamaki",
+    "879": "Tamaki",
+    "992": "Tamaki",
+    "1115": "Tamaki",
+    "1271": "Tamaki",
+    "1425": "Tamaki",
+    "1554": "Tamaki",
+    "1961": "Tamaki",
+    "2040": "Tamaki",
+    "2133": "Tamaki",
+    "2629": "Tamaki",
+    "2836": "Tamaki",
+    "3325": "Tamaki",
+    "3649": "Tamaki",
+    "3937": "Tamaki",
+    "4021": "Tamaki",
+    "4223": "Tamaki",
+    "4291": "Tamaki",
+    "4426": "Tamaki",
+    "4516": "Tamaki"
+  }
+}

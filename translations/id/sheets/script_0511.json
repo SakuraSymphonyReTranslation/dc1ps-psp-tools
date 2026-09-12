@@ -1,0 +1,606 @@
+{
+  "scene": "script_0511.obj",
+  "dialogues": [
+    {
+      "offset": 169,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "互いが惜しみながら身体を離す。",
+      "en": "\"I guess that's how it should feel afterwards.\"",
+      "text": "\"I guess that's how it should feel afterwards.\""
+    },
+    {
+      "offset": 282,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「そういえば、先輩」",
+      "en": "\"Hahaha.\"",
+      "text": "\"Hahaha.\""
+    },
+    {
+      "offset": 309,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「なんだ？」",
+      "en": "\"Sempai...\"",
+      "text": "\"Sempai...\""
+    },
+    {
+      "offset": 339,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「卒業、おめでとうございます」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 376,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ありがとう」",
+      "en": "\"Congratulations on your graduation.\"",
+      "text": "\"Congratulations on your graduation.\""
+    },
+    {
+      "offset": 397,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「これで俺も来月から本校生だ。せいぜい校舎\n　が変わるくらいだけどな」",
+      "en": "\"Thanks.\"",
+      "text": "\"Thanks.\""
+    },
+    {
+      "offset": 484,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「頑張ってくださいね」",
+      "en": "\"Starting next month, I'll be studying on the main campus.\nBut it's just a different building.\"",
+      "text": "\"Starting next month, I'll be studying on the main campus.\nBut it's just a different building.\""
+    },
+    {
+      "offset": 513,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ああ、任せとけって」",
+      "en": "\"Good luck.\"",
+      "text": "\"Good luck.\""
+    },
+    {
+      "offset": 542,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言って、ドンと胸を叩いて見せる。",
+      "en": "\"I'll be all right!\"",
+      "text": "\"I'll be all right!\""
+    },
+    {
+      "offset": 579,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何の自信があるわけではないが、何となく今の\n俺はなんだってできそうな気分だ。",
+      "en": "I gently hit myself on the chest with my hand.",
+      "text": "I gently hit myself on the chest with my hand."
+    },
+    {
+      "offset": 659,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "付属生活の３年間や、卒業式なんかよりも、美\n春と愛を交わしたこの瞬間のほうが、俺を成長\nさせたような気がする。",
+      "en": "Despite not having much confidence in myself, somehow I feel\nlike I can do whatever I want.",
+      "text": "Despite not having much confidence in myself, somehow I feel\nlike I can do whatever I want."
+    },
+    {
+      "offset": 774,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「――美春？」",
+      "en": "\"Miharu?\"",
+      "text": "\"Miharu?\""
+    },
+    {
+      "offset": 795,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふと見た美春の様子がおかしかった。",
+      "en": "Miharu looks a bit strange.",
+      "text": "Miharu looks a bit strange."
+    },
+    {
+      "offset": 834,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目の焦点が定まらず、微妙にふらり、ふらりと\n揺れながら立っている。",
+      "en": "She looks like she's nearly fainting.",
+      "text": "She looks like she's nearly fainting."
+    },
+    {
+      "offset": 906,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お、おい」",
+      "en": "\"H-Hey...\"",
+      "text": "\"H-Hey...\""
+    },
+    {
+      "offset": 934,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "彼女の肩を叩くと、そのままどさりと俺の身体\nに倒れ込んできた。",
+      "en": "When I pat her shoulder, she collapses over me.",
+      "text": "When I pat her shoulder, she collapses over me."
+    },
+    {
+      "offset": 1002,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お、おい、美春！」",
+      "en": "\"H-Hey, Miharu!\"",
+      "text": "\"H-Hey, Miharu!\""
+    },
+    {
+      "offset": 1040,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ん……うん……」",
+      "en": "\"...Mmm...\"",
+      "text": "\"...Mmm...\""
+    },
+    {
+      "offset": 1098,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あ、せ、先輩！」",
+      "en": "\"S-Sempai!\"",
+      "text": "\"S-Sempai!\""
+    },
+    {
+      "offset": 1123,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "意識を取り戻した美春が、驚いて俺の手から飛\nび退く。",
+      "en": "She recovers consciousness, and suddenly jumps out of my\narms.",
+      "text": "She recovers consciousness, and suddenly jumps out of my\narms."
+    },
+    {
+      "offset": 1209,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「え、あの、美春は何を……」",
+      "en": "\"What? What happened to me?\"",
+      "text": "\"What? What happened to me?\""
+    },
+    {
+      "offset": 1244,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「いや、突然、ふらふらっと……」",
+      "en": "\"All of a sudden, you fainted...\"",
+      "text": "\"All of a sudden, you fainted...\""
+    },
+    {
+      "offset": 1283,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「もしかして、ぎゅってしすぎた？」",
+      "en": "\"Is it because I did it too hard to you?\"",
+      "text": "\"Is it because I did it too hard to you?\""
+    },
+    {
+      "offset": 1352,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「いえ、別にそういうわけじゃないと思うんで\n　すけど。へへへ」",
+      "en": "\"No... I don't think that's the reason. Teehee.\"",
+      "text": "\"No... I don't think that's the reason. Teehee.\""
+    },
+    {
+      "offset": 1448,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「たぶん、前のように一時的に機能が停止して\n　しまったんだと思います」",
+      "en": "\"I guess I just temporarily shut down, like before.\"",
+      "text": "\"I guess I just temporarily shut down, like before.\""
+    },
+    {
+      "offset": 1524,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「もしかして……記憶を取り戻した弊害か」",
+      "en": "\"Is it because you got some memories back?\"",
+      "text": "\"Is it because you got some memories back?\""
+    },
+    {
+      "offset": 1582,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「かもしれません」",
+      "en": "\"Maybe...\"",
+      "text": "\"Maybe...\""
+    },
+    {
+      "offset": 1607,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「やっぱり、美春は……止まっちゃうのか」",
+      "en": "\"So are you gonna stop completely?\"",
+      "text": "\"So are you gonna stop completely?\""
+    },
+    {
+      "offset": 1654,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "額を冷たい汗が走る。",
+      "en": "A cold sweat runs across my forehead.",
+      "text": "A cold sweat runs across my forehead."
+    },
+    {
+      "offset": 1679,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "微妙に汗ばんできた拳をぎゅっと握る。",
+      "en": "I grip my sweaty hands.",
+      "text": "I grip my sweaty hands."
+    },
+    {
+      "offset": 1733,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「わかっていたことですから。でも、それでも\n　美春は、記憶が欲しかった」",
+      "en": "\"I already knew what was gonna happen to me. But I still\nwanted my memories.\"",
+      "text": "\"I already knew what was gonna happen to me. But I still\nwanted my memories.\""
+    },
+    {
+      "offset": 1859,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「おかげで、美春はいろんな大切なことに気が\n　つきました。後悔はしてません」",
+      "en": "\"But through that, I learned a lot -- something important.\nSo I have no regrets.\"",
+      "text": "\"But through that, I learned a lot -- something important.\nSo I have no regrets.\""
+    },
+    {
+      "offset": 1941,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「そんな、美春……」",
+      "en": "\"Miharu...\"",
+      "text": "\"Miharu...\""
+    },
+    {
+      "offset": 1979,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「大丈夫です。まだ、止まったりはしません。\n　少なくとも、３学期が終わるまでは」",
+      "en": "\"Don't worry. I'm not going to stop completely, at least not\nuntil the end of this semester.\"",
+      "text": "\"Don't worry. I'm not going to stop completely, at least not\nuntil the end of this semester.\""
+    },
+    {
+      "offset": 2065,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春が微笑を浮かべる。",
+      "en": "Miharu smiles.",
+      "text": "Miharu smiles."
+    },
+    {
+      "offset": 2105,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「美春の友達を裏切ったりはできませんからね。\n　みんなのために、最後まで『美春さん』でい\n　ますよ」",
+      "en": "\"I can't let my friends down. I'll be 'Miharu-san' until the\nend.\"",
+      "text": "\"I can't let my friends down. I'll be 'Miharu-san' until the\nend.\""
+    },
+    {
+      "offset": 2210,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それでも、３学期が終わるまで、残りは一週間\nほどしかない。",
+      "en": "There's only a week before the semester ends.",
+      "text": "There's only a week before the semester ends."
+    },
+    {
+      "offset": 2274,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いくら、別れが来るのが早いって言っても、\n　こんなに早く来るなんて思ってなかった」",
+      "en": "\"I didn't expect to say goodbye this soon.\"",
+      "text": "\"I didn't expect to say goodbye this soon.\""
+    },
+    {
+      "offset": 2375,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「思い出探しと、記憶が戻ったことがやっぱり\n　負担になったみたいです。美春としても予想\n　以上でした」",
+      "en": "\"It probably was too much for my body to handle when I tried\nto get my memories back. I didn't expect it to be that\nhard.\"",
+      "text": "\"It probably was too much for my body to handle when I tried\nto get my memories back. I didn't expect it to be that\nhard.\""
+    },
+    {
+      "offset": 2482,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「俺は、もっと美春と一緒にいたいのに……。\n　なんでこんなことに」",
+      "en": "\"I want to be with you as long as possible, Miharu... Why is\nthis happening to us...?\"",
+      "text": "\"I want to be with you as long as possible, Miharu... Why is\nthis happening to us...?\""
+    },
+    {
+      "offset": 2554,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「美春だってそうだろ……。せっかく生まれて\n　きたっていうのに、これからだっていうのに、\n　なんでこんな目に遭わなきゃいけないんだ」",
+      "en": "\"You just came into this world. Your life is just starting.\nWhy do you have to go through all this?\"",
+      "text": "\"You just came into this world. Your life is just starting.\nWhy do you have to go through all this?\""
+    },
+    {
+      "offset": 2702,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「……でも、美春は生まれてきてよかったです。\n　たとえ短い時間だったにしろ、たくさんの人\n　に出会い、たくさんのことを体験しました」",
+      "en": "\"I'm glad I was born into this world. Though it was a short\ntime, I was able to meet a lot of people and experience a\nlot of things.\"",
+      "text": "\"I'm glad I was born into this world. Though it was a short\ntime, I was able to meet a lot of people and experience a\nlot of things.\""
+    },
+    {
+      "offset": 2850,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「先輩だって、好きになることができた……。\n　美春は世界一の幸せ者だと思ってます」",
+      "en": "\"I was able to meet you and fall in love with you. I'm a\nhappy person.\"",
+      "text": "\"I was able to meet you and fall in love with you. I'm a\nhappy person.\""
+    },
+    {
+      "offset": 2970,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「先輩、ありがとうございました。美春は先輩\n　のことを絶対に忘れません」",
+      "en": "\"Thank you, sempai. I'll never forget about you.\"",
+      "text": "\"Thank you, sempai. I'll never forget about you.\""
+    },
+    {
+      "offset": 3059,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「今日のことは、永遠に忘れませんから」",
+      "en": "\"I'll never forget about today.\"",
+      "text": "\"I'll never forget about today.\""
+    },
+    {
+      "offset": 3104,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「俺だって、忘れないよ」",
+      "en": "\"Me either.\"",
+      "text": "\"Me either.\""
+    },
+    {
+      "offset": 3146,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「素敵な思い出を……ありがとうございました。\n　今日が、美春にとって生涯最高の日です」",
+      "en": "\"Thank you for such a wonderful memory. This is the best day\never.\"",
+      "text": "\"Thank you for such a wonderful memory. This is the best day\never.\""
+    },
+    {
+      "offset": 3238,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春の瞳から、涙がキラリと、こぼれた。",
+      "en": "A sparkling tear drops from her eye.",
+      "text": "A sparkling tear drops from her eye."
+    },
+    {
+      "offset": 3313,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――ざざん。",
+      "en": "Whoosh.",
+      "text": "Whoosh."
+    },
+    {
+      "offset": 3330,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "強い風が吹き、桜の花びらが舞い散った。",
+      "en": "The cherry blossom petals are dancing around in the wind.",
+      "text": "The cherry blossom petals are dancing around in the wind."
+    },
+    {
+      "offset": 3408,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ごめんなさい、先輩。今日は歩いて帰れそう\n　もないです」",
+      "en": "\"Sorry, sempai. I don't think I can walk home today.\"",
+      "text": "\"Sorry, sempai. I don't think I can walk home today.\""
+    },
+    {
+      "offset": 3472,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春の身体がまたふらりと倒れる。",
+      "en": "Miharu nearly falls down again.",
+      "text": "Miharu nearly falls down again."
+    },
+    {
+      "offset": 3511,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「わ！　お、おい。大丈夫か」",
+      "en": "\"Hey! Are you okay?\"",
+      "text": "\"Hey! Are you okay?\""
+    },
+    {
+      "offset": 3557,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「はい……。今は身体がフラフラするだけです。\n　もしかしたら、これはさっきのキスが原因か\n　もしれないですね」",
+      "en": "\"Yes... I just feel groggy. Maybe, our lovemaking got to\nme.\"",
+      "text": "\"Yes... I just feel groggy. Maybe, our lovemaking got to\nme.\""
+    },
+    {
+      "offset": 3672,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、少し辛そうな表情をしながら美春は笑った。",
+      "en": "Miharu smiles despite her suffering.",
+      "text": "Miharu smiles despite her suffering."
+    },
+    {
+      "offset": 3765,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その日は、市営住宅の美春の家まで、彼女を背\n負って帰った。",
+      "en": "That day I carried her home on my back.",
+      "text": "That day I carried her home on my back."
+    },
+    {
+      "offset": 3827,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "確実に蝕まれていく美春の身体。いつか彼女が\n止まってしまうという現実を直視しなければな\nらないところまで来てしまった。",
+      "en": "Now that I know she's getting weaker every day, I must be\nprepared for the harsh reality -- the last day of her life.",
+      "text": "Now that I know she's getting weaker every day, I must be\nprepared for the harsh reality -- the last day of her life."
+    },
+    {
+      "offset": 3948,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "けれど、もうそれは変更できない事実だ。どう\n頑張っても、何をしようとも、美春の運命はす\nでに決まっているのだ。",
+      "en": "There is nothing I can do about it. That's how a life is\nmeant to be.",
+      "text": "There is nothing I can do about it. That's how a life is\nmeant to be."
+    },
+    {
+      "offset": 4061,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "傾きかけた太陽のオレンジがかった光を浴びな\nがら、美春と一緒に帰った。",
+      "en": "We go home together, bathing in the light of an orange\nsunset.",
+      "text": "We go home together, bathing in the light of an orange\nsunset."
+    },
+    {
+      "offset": 4135,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春に言わせれば『こうやって家に帰るのもオ\nイシイ思い出ですね』だそうだ。",
+      "en": "Miharu says, \"It's another wonderful memory for me to go\nhome like this.\"",
+      "text": "Miharu says, \"It's another wonderful memory for me to go\nhome like this.\""
+    },
+    {
+      "offset": 4213,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺も、この春先の夕方に、",
+      "en": "I'll never forget...",
+      "text": "I'll never forget..."
+    },
+    {
+      "offset": 4242,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "すべての想いをこめてキスした女の子を、",
+      "en": "About this girl I made love to...",
+      "text": "About this girl I made love to..."
+    },
+    {
+      "offset": 4285,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "背中のこの温もりを、",
+      "en": "And about carrying her on my back to her home in early\nspring.",
+      "text": "And about carrying her on my back to her home in early\nspring."
+    },
+    {
+      "offset": 4310,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "絶対に忘れない。",
+      "en": "I'll never forget...",
+      "text": "I'll never forget..."
+    },
+    {
+      "offset": 4331,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "大切な思い出になる。",
+      "en": "This is going to be my best memory.",
+      "text": "This is going to be my best memory."
+    },
+    {
+      "offset": 4358,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「明日は、誕生日会だな」",
+      "en": "\"Tomorrow's your birthday party.\"",
+      "text": "\"Tomorrow's your birthday party.\""
+    },
+    {
+      "offset": 4400,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「はい」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 4415,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それもきっと、大切な思い出になるだろう。",
+      "en": "That's gonna be our memory too.",
+      "text": "That's gonna be our memory too."
+    },
+    {
+      "offset": 4564,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆忘れない思い出◆",
+      "en": "◆I brush the dirt off my jacket with my hands.◆",
+      "text": "◆I brush the dirt off my jacket with my hands.◆"
+    },
+    {
+      "offset": 4619,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "キスの後、美春が突然、ふらふらと倒れかける。\n美春に残された時間はあと少ししかなかった。",
+      "en": "Miharu gets dressed too, and tries to comb her hair with her\nfingers.",
+      "text": "Miharu gets dressed too, and tries to comb her hair with her\nfingers."
+    },
+    {
+      "offset": 4711,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな美春が私は世界一の幸せ者ですと言う。\n生まれてきてよかったです、と。",
+      "en": "\"It feels like something is still inside of me.\"",
+      "text": "\"It feels like something is still inside of me.\""
+    },
+    {
+      "offset": 4789,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日の思い出は一生忘れない。大切な思い出に\nなる。歩けなくなった美春を背中に感じながら、\n俺はそう思うのだった。",
+      "en": "Miharu chuckles.",
+      "text": "Miharu chuckles."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "274": "Miharu",
+    "331": "Miharu",
+    "476": "Miharu",
+    "1032": "Miharu",
+    "1090": "Miharu",
+    "1201": "Miharu",
+    "1344": "Miharu",
+    "1440": "Miharu",
+    "1574": "Miharu",
+    "1725": "Miharu",
+    "1851": "Miharu",
+    "1971": "Miharu",
+    "2097": "Miharu",
+    "2367": "Miharu",
+    "2694": "Miharu",
+    "2842": "Miharu",
+    "2962": "Miharu",
+    "3051": "Miharu",
+    "3138": "Miharu",
+    "3400": "Miharu",
+    "3549": "Miharu",
+    "4392": "Miharu"
+  }
+}

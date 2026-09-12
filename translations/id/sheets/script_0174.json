@@ -1,0 +1,73 @@
+{
+  "scene": "script_0174.obj",
+  "dialogues": [
+    {
+      "offset": 170,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「さすがに今日は遅刻も欠席もないみたいだね」",
+      "en": "\"Not bad, everyone's on time today.\"",
+      "text": "\"Not bad, everyone's on time today.\""
+    },
+    {
+      "offset": 221,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暦先生が出欠を取る間も、ほとんどの学生が下\nを向いて教科書を見つめている。",
+      "en": "Koyomi quietly took the attendance as the rest of the class\nhad their heads buried in their textbooks.",
+      "text": "Koyomi quietly took the attendance as the rest of the class\nhad their heads buried in their textbooks."
+    },
+    {
+      "offset": 299,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぱっと見たかんじ顔をあげているのは、音夢ぐ\nらいか……。",
+      "en": "As I look around, I can only see Nemu with her head up high.",
+      "text": "As I look around, I can only see Nemu with her head up high."
+    },
+    {
+      "offset": 383,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 402,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並、お前もか……。",
+      "en": "Suginami, as well...",
+      "text": "Suginami, as well..."
+    },
+    {
+      "offset": 531,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆自信あります◆",
+      "en": "◆The confident ones◆",
+      "text": "◆The confident ones◆"
+    },
+    {
+      "offset": 576,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いよいよ来た試験当日。さすがに遅刻も欠席も\nいないようで、全員ぎりぎりまで教科書に向かっ\nている。",
+      "en": "The first day of the exams has finally come. Everyone came\nto school on time today, and using their last bits of time\nstudying for all they were worth.",
+      "text": "The first day of the exams has finally come. Everyone came\nto school on time today, and using their last bits of time\nstudying for all they were worth."
+    },
+    {
+      "offset": 677,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いや、音夢だけは顔を上げているようだ。余裕\nですか――杉並もだった。",
+      "en": "Then again, Nemu had had her head up and waiting. Suginami\nas well.",
+      "text": "Then again, Nemu had had her head up and waiting. Suginami\nas well."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "164": "Koyomi"
+  }
+}

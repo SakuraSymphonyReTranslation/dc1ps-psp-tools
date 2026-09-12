@@ -1,0 +1,774 @@
+{
+  "scene": "script_0619.obj",
+  "dialogues": [
+    {
+      "offset": 194,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「Ｚ……」",
+      "en": "\"Z...\"",
+      "text": "\"Z...\""
+    },
+    {
+      "offset": 211,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ＺＺ……」",
+      "en": "\"ZZ...\"",
+      "text": "\"ZZ...\""
+    },
+    {
+      "offset": 230,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「んっ……」",
+      "en": "\"Mm...\"",
+      "text": "\"Mm...\""
+    },
+    {
+      "offset": 274,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ピッ。",
+      "en": "*blink*",
+      "text": "*blink*"
+    },
+    {
+      "offset": 299,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふう……」",
+      "en": "\"Hoo...\"",
+      "text": "\"Hoo...\""
+    },
+    {
+      "offset": 318,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（そのうち、音夢が起こしに来るだろ……）",
+      "en": "\"(Nemu will wake me up when it's time to wake up...)\"",
+      "text": "\"(Nemu will wake me up when it's time to wake up...)\""
+    },
+    {
+      "offset": 365,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（…………）",
+      "en": "\"(......)\"",
+      "text": "\"(......)\""
+    },
+    {
+      "offset": 403,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ……そうか」",
+      "en": "\"Oh... right.\"",
+      "text": "\"Oh... right.\""
+    },
+    {
+      "offset": 426,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢は、もう居ないんだっけ。",
+      "en": "Nemu... isn't here anymore.",
+      "text": "Nemu... isn't here anymore."
+    },
+    {
+      "offset": 489,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「食生活に何の変化もないあたり、音夢の｛ごう／業｝\n　の深さを感じるな……」",
+      "en": "\"My eating habits may not have changed, but there's still a\nfeeling of emptiness...\"",
+      "text": "\"My eating habits may not have changed, but there's still a\nfeeling of emptiness...\""
+    },
+    {
+      "offset": 571,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日も今日とて、菓子パンにコーヒーという食\n事を済ませると、俺は席を立った。",
+      "en": "As has become my daily habit, I quickly chowed down on a\nsweet bun and a cup of coffee, then stood up from the desk.",
+      "text": "As has become my daily habit, I quickly chowed down on a\nsweet bun and a cup of coffee, then stood up from the desk."
+    },
+    {
+      "offset": 653,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 672,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「何か……一人だと、広く感じるよな……」",
+      "en": "Somehow... this place seems to big for one person...\"",
+      "text": "Somehow... this place seems to big for one person...\""
+    },
+    {
+      "offset": 764,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「今日から学園……か」",
+      "en": "\"And so school begins again...\"",
+      "text": "\"And so school begins again...\""
+    },
+    {
+      "offset": 793,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "歩き慣れた道を、見慣れた制服姿をぼんやりと\n見遣りながら歩いていく。",
+      "en": "As I walk down the familiar road to school, I absentmindedly\nlook at the familiar uniforms all around me.",
+      "text": "As I walk down the familiar road to school, I absentmindedly\nlook at the familiar uniforms all around me."
+    },
+    {
+      "offset": 867,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「何か、まばたきする内に過ぎ去っちまったよ\n　うな気がするなあ……」",
+      "en": "\"Meh, I'm still so conscious about what happened last\nmonth...\"",
+      "text": "\"Meh, I'm still so conscious about what happened last\nmonth...\""
+    },
+    {
+      "offset": 941,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それだけ充実していたって事だろうが、ただで\nさえ短い春休みが、ほんとに短く感じられた。",
+      "en": "Which in turn reminded me of the great spring break, and how\nshort it seemed.",
+      "text": "Which in turn reminded me of the great spring break, and how\nshort it seemed."
+    },
+    {
+      "offset": 1033,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 1052,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「夏休みが待ち遠しい」",
+      "en": "\"Bring on summer vacation.\"",
+      "text": "\"Bring on summer vacation.\""
+    },
+    {
+      "offset": 1161,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「おはよっす〜」",
+      "en": "\"Good morning~\"",
+      "text": "\"Good morning~\""
+    },
+    {
+      "offset": 1184,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ああ、おはよ」",
+      "en": "\"Ahh, morning.\"",
+      "text": "\"Ahh, morning.\""
+    },
+    {
+      "offset": 1224,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "視線が絡み合い、ただの挨拶のはずが、途端に\n愛の言葉でもささやきあったような雰囲気にな\nる。",
+      "en": "We exchanged what seemed like a normal greeting, but a quick\nglance of our eyes showed something deeper.",
+      "text": "We exchanged what seemed like a normal greeting, but a quick\nglance of our eyes showed something deeper."
+    },
+    {
+      "offset": 1321,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「新しい制服も、いいな」",
+      "en": "\"A new uniform, huh? Looks good.\"",
+      "text": "\"A new uniform, huh? Looks good.\""
+    },
+    {
+      "offset": 1365,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「う、うん……」",
+      "en": "\"Y, yeah...\"",
+      "text": "\"Y, yeah...\""
+    },
+    {
+      "offset": 1388,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「に、似合ってる」",
+      "en": "\"E, especially on you.\"",
+      "text": "\"E, especially on you.\""
+    },
+    {
+      "offset": 1426,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、ありがとう」",
+      "en": "\"T, thanks.\"",
+      "text": "\"T, thanks.\""
+    },
+    {
+      "offset": 1464,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 1483,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 1502,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "会話が止まってしまう。校門の真ん前で見つめ\n合っているわけにもいかず、俺はひとつ咳払い\nをした。",
+      "en": "The conversation came to an abrupt end. Noticing that we\nwere blocking the entrance to school, I gave a small cough.",
+      "text": "The conversation came to an abrupt end. Noticing that we\nwere blocking the entrance to school, I gave a small cough."
+    },
+    {
+      "offset": 1601,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "穏やかな笑みを浮かべ、ことりがこくんとうな\nずく。",
+      "en": "Noticing what I was referring to, she smiled embarassingly\nand we started walking through.",
+      "text": "Noticing what I was referring to, she smiled embarassingly\nand we started walking through."
+    },
+    {
+      "offset": 1687,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ね、ね、さっそく、クラス編成の掲示を見に\n　行こうよ」",
+      "en": "\"Let's go look at the class lists quick!\"",
+      "text": "\"Let's go look at the class lists quick!\""
+    },
+    {
+      "offset": 1749,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "手を引き、人だかりへと連れていこうとする。",
+      "en": "She took my hand and tried to lead me through the wall of\npeople.",
+      "text": "She took my hand and tried to lead me through the wall of\npeople."
+    },
+    {
+      "offset": 1798,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ、ことり、学内で、それはちょっとマズイ」",
+      "en": "\"Ah, Kotori, it's school, we probably shouldn't...\"",
+      "text": "\"Ah, Kotori, it's school, we probably shouldn't...\""
+    },
+    {
+      "offset": 1879,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、そうだね。ごめん、つい、いつもの癖で\n　……」",
+      "en": "\"Ah, yeah... sorry. I'm a bit used to it.\"",
+      "text": "\"Ah, yeah... sorry. I'm a bit used to it.\""
+    },
+    {
+      "offset": 1937,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりはぱっと手を離した。名残惜しいが、そ\nれも仕方がない。",
+      "en": "Kotori reluctantly let go of my hand. I didn't like it\neither, but we had to given the environment.",
+      "text": "Kotori reluctantly let go of my hand. I didn't like it\neither, but we had to given the environment."
+    },
+    {
+      "offset": 2095,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「一緒のクラスだといいよね」",
+      "en": "\"It'd be great if we were in the same class.\"",
+      "text": "\"It'd be great if we were in the same class.\""
+    },
+    {
+      "offset": 2130,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "手で口元を｛おお／覆｝い、耳元にそっと｛ささや／囁｝いてくる。",
+      "en": "She made her hand into a mouth-shape and whispered to my ear\nthrough that.",
+      "text": "She made her hand into a mouth-shape and whispered to my ear\nthrough that."
+    },
+    {
+      "offset": 2199,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ああ……けど、何で小声なの？」",
+      "en": "\"Yeah... what are you whispering for?\"",
+      "text": "\"Yeah... what are you whispering for?\""
+    },
+    {
+      "offset": 2238,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりに合わせ、後半は俺も小声にした。",
+      "en": "Feeling I had to return the favour, I whispered to her as\nwell.",
+      "text": "Feeling I had to return the favour, I whispered to her as\nwell."
+    },
+    {
+      "offset": 2296,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「だって、人前であんまり仲良さそうにするの、\n　良くないじゃない」",
+      "en": "\"We shouldn't give everyone the impression that we're too\nclose...\"",
+      "text": "\"We shouldn't give everyone the impression that we're too\nclose...\""
+    },
+    {
+      "offset": 2368,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2387,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "耳打ちしている時点で、ふたりがただならぬ関\n係だって想像が付きそうな気がするが。",
+      "en": "I would imagine whispering into people's ears would give\nthat impression more than casual talking.",
+      "text": "I would imagine whispering into people's ears would give\nthat impression more than casual talking."
+    },
+    {
+      "offset": 2503,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あっ、それもそうか」",
+      "en": "\"Ah, well, that's true.\"",
+      "text": "\"Ah, well, that's true.\""
+    },
+    {
+      "offset": 2532,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「え？」",
+      "en": "\"Eh?\"",
+      "text": "\"Eh?\""
+    },
+    {
+      "offset": 2577,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、ううん、こっちの話。それよりほら、早\n　くチェックしようよ」",
+      "en": "\"Ah, uh, nothing. Anyway, let's hurry up and check!\"",
+      "text": "\"Ah, uh, nothing. Anyway, let's hurry up and check!\""
+    },
+    {
+      "offset": 2661,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言うや否や、張り紙の前の人だかりの中に紛れ\n込んでいってしまった。",
+      "en": "As soon as she said that, she disappeared into the crowd of\npeople in front of the pieces of paper detailing the class\nrosters.",
+      "text": "As soon as she said that, she disappeared into the crowd of\npeople in front of the pieces of paper detailing the class\nrosters."
+    },
+    {
+      "offset": 2733,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………？」",
+      "en": "\"......?\"",
+      "text": "\"......?\""
+    },
+    {
+      "offset": 2754,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりが向かって右の方へ行ったので、俺は、\n左の方から見ていく事にした。",
+      "en": "Kotori had went off to the right, so I decided to start from\nthe left.",
+      "text": "Kotori had went off to the right, so I decided to start from\nthe left."
+    },
+    {
+      "offset": 2865,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（１年１組……）",
+      "en": "\"(Year 1 Class 1...)\"",
+      "text": "\"(Year 1 Class 1...)\""
+    },
+    {
+      "offset": 2888,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "………。",
+      "en": ".........",
+      "text": "........."
+    },
+    {
+      "offset": 2901,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 2912,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…。",
+      "en": "...",
+      "text": "..."
+    },
+    {
+      "offset": 2923,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（ねえな……）",
+      "en": "\"(Not here...)\"",
+      "text": "\"(Not here...)\""
+    },
+    {
+      "offset": 2977,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（１年２組……）",
+      "en": "\"(Year 1 Class 2...)",
+      "text": "\"(Year 1 Class 2...)"
+    },
+    {
+      "offset": 3000,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "………。",
+      "en": ".........",
+      "text": "........."
+    },
+    {
+      "offset": 3013,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 3024,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…。",
+      "en": "...",
+      "text": "..."
+    },
+    {
+      "offset": 3035,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（ねえな……）",
+      "en": "\"(Not here either...)\"",
+      "text": "\"(Not here either...)\""
+    },
+    {
+      "offset": 3089,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（１年３組は……と）",
+      "en": "\"(Now, Year 1 Class 3...)",
+      "text": "\"(Now, Year 1 Class 3...)"
+    },
+    {
+      "offset": 3116,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "名前を探し始めた時だった。俺のすぐ隣で、掲\n示を見上げていることりに気が付いた。",
+      "en": "Just before I started searching, I inadvertently looked\naround and saw Kotori standing nearby.",
+      "text": "Just before I started searching, I inadvertently looked\naround and saw Kotori standing nearby."
+    },
+    {
+      "offset": 3202,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あれ、ことり。あっちから探してきて、ここ\n　まで来たの？」",
+      "en": "\"Oh, Kotori. You've searched all the ones over there\nalready?\"",
+      "text": "\"Oh, Kotori. You've searched all the ones over there\nalready?\""
+    },
+    {
+      "offset": 3303,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、うん、そうだよ……もしかして、朝倉君\n　も？」",
+      "en": "\"Ah, yeah I have... you mean you have as well?\"",
+      "text": "\"Ah, yeah I have... you mean you have as well?\""
+    },
+    {
+      "offset": 3361,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ああ。俺は、ことりの反対側から見てきたん\n　だけど、ふたりとも名前はなかった」",
+      "en": "\"Ahh, I started from the opposite side. I haven't seen\neither of our names though.\"",
+      "text": "\"Ahh, I started from the opposite side. I haven't seen\neither of our names though.\""
+    },
+    {
+      "offset": 3477,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……ってことは？」",
+      "en": "\"...Is that so?\"",
+      "text": "\"...Is that so?\""
+    },
+    {
+      "offset": 3504,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "難しい顔をして、再び張り紙に向き合う。と、\nしばらくして、その目が大きく見開かれた。",
+      "en": "With a troubled-looking face, Kotori went back to searching\nthrough the list in front of us. Shortly after, her eyes\nopened wide.",
+      "text": "With a troubled-looking face, Kotori went back to searching\nthrough the list in front of us. Shortly after, her eyes\nopened wide."
+    },
+    {
+      "offset": 3624,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、あれ……朝倉君、見て、ほら……」",
+      "en": "\"A, ah... Asakura-kun, look there...\"",
+      "text": "\"A, ah... Asakura-kun, look there...\""
+    },
+    {
+      "offset": 3669,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "２カ所に指を指す。",
+      "en": "She pointed at two names side-by-side.",
+      "text": "She pointed at two names side-by-side."
+    },
+    {
+      "offset": 3692,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "朝倉[name]。",
+      "en": "Asakura [name].",
+      "text": "Asakura [name]."
+    },
+    {
+      "offset": 3709,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "白河ことり。",
+      "en": "Shirakawa Kotori.",
+      "text": "Shirakawa Kotori."
+    },
+    {
+      "offset": 3726,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふたつの名前に何度も視線を往復させてから、\n俺は言った。",
+      "en": "After looking at the names a few more times, I opened my\nmouth.",
+      "text": "After looking at the names a few more times, I opened my\nmouth."
+    },
+    {
+      "offset": 3788,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「同じクラス……だな」",
+      "en": "\"So we are... in the same class.\"",
+      "text": "\"So we are... in the same class.\""
+    },
+    {
+      "offset": 3847,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「やった！　やったよ！」",
+      "en": "\"Yes! Alright!\"",
+      "text": "\"Yes! Alright!\""
+    },
+    {
+      "offset": 3878,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の肩に手を乗せ、ぴょんぴょんと飛び跳ねる。\n尻尾のように、長い髪が揺れた。",
+      "en": "She held onto my shoudlers and jumped up and down for joy\nlike an animal. In place of a tail, her long hair shook like\none.",
+      "text": "She held onto my shoudlers and jumped up and down for joy\nlike an animal. In place of a tail, her long hair shook like\none."
+    },
+    {
+      "offset": 3960,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ことり……ことり。みんな、見てるって」",
+      "en": "\"Kotori... Kotori, people are watching.\"",
+      "text": "\"Kotori... Kotori, people are watching.\""
+    },
+    {
+      "offset": 4037,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ……」",
+      "en": "\"Ah...\"",
+      "text": "\"Ah...\""
+    },
+    {
+      "offset": 4084,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あはははは……」",
+      "en": "\"Ah.. hahahaha...\"",
+      "text": "\"Ah.. hahahaha...\""
+    },
+    {
+      "offset": 4139,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「う、うさぎ〜！　うさぎの真似！　ぴょん！\n　ぴょん！　ぴょん！」",
+      "en": "\"R, rabbit~! I'm doing an impersonation of a rabbit! Hop!\nHop! Hop!\"",
+      "text": "\"R, rabbit~! I'm doing an impersonation of a rabbit! Hop!\nHop! Hop!\""
+    },
+    {
+      "offset": 4223,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぴょんぴょん跳ね、途中でダッシュに切り替え\nて、ことりは去っていった。",
+      "en": "She hopped madly past the crowd of people.",
+      "text": "She hopped madly past the crowd of people."
+    },
+    {
+      "offset": 4297,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛あぜん／唖然｝とした空気をその場に残して。",
+      "en": "Dumbfoundness was abound in the remaining atmosphere.",
+      "text": "Dumbfoundness was abound in the remaining atmosphere."
+    },
+    {
+      "offset": 4348,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……勇者？　おお、砂煙が舞ってる」",
+      "en": "\"...The school's brave heroine, indeed. Ohh, the dust is\nclearing.\"",
+      "text": "\"...The school's brave heroine, indeed. Ohh, the dust is\nclearing.\""
+    },
+    {
+      "offset": 4408,
+      "speaker": "Tomo-chan",
+      "speaker_jp": "ともちゃん",
+      "jp": "「お久しぶりです、朝倉君」",
+      "en": "\"Long time no see, Asakura-kun.\"",
+      "text": "\"Long time no see, Asakura-kun.\""
+    },
+    {
+      "offset": 4441,
+      "speaker": "Tomo-chan",
+      "speaker_jp": "ともちゃん",
+      "jp": "「あ、ともちゃん、みっくん。お久しぶり」",
+      "en": "\"Ah, Tomo-chan, Mik-kun. Good to see you again.\"",
+      "text": "\"Ah, Tomo-chan, Mik-kun. Good to see you again.\""
+    },
+    {
+      "offset": 4503,
+      "speaker": "Mik-kun",
+      "speaker_jp": "みっくん",
+      "jp": "「……ことりったら、どうしたんですか？」",
+      "en": "\"...Is something wrong with Kotori?\"",
+      "text": "\"...Is something wrong with Kotori?\""
+    },
+    {
+      "offset": 4550,
+      "speaker": "Mik-kun",
+      "speaker_jp": "みっくん",
+      "jp": "「ま、春だからね」",
+      "en": "\"Well, it's spring.\"",
+      "text": "\"Well, it's spring.\""
+    },
+    {
+      "offset": 4590,
+      "speaker": "Mik-kun",
+      "speaker_jp": "みっくん",
+      "jp": "「何げにひどい事言ってますね……」",
+      "en": "\"That sounds worse than it should be...\"",
+      "text": "\"That sounds worse than it should be...\""
+    },
+    {
+      "offset": 4631,
+      "speaker": "Mik-kun",
+      "speaker_jp": "みっくん",
+      "jp": "「ふたりは、何組になったの？」",
+      "en": "\"What class were you two given?\"",
+      "text": "\"What class were you two given?\""
+    },
+    {
+      "offset": 4685,
+      "speaker": "Tomo-chan",
+      "speaker_jp": "ともちゃん",
+      "jp": "「残念。ことりとは、別のクラスになってしま\n　いました」",
+      "en": "\"Unfortunately, not the same one as Kotori's.\"",
+      "text": "\"Unfortunately, not the same one as Kotori's.\""
+    },
+    {
+      "offset": 4764,
+      "speaker": "Tomo-chan",
+      "speaker_jp": "ともちゃん",
+      "jp": "「けど……大丈夫ですよね。朝倉君と一緒なら」",
+      "en": "\"But... it'd be alright. You're with her, after all.\"",
+      "text": "\"But... it'd be alright. You're with her, after all.\""
+    },
+    {
+      "offset": 4815,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言って、ともちゃんは、にこっと微笑むの\nだった。",
+      "en": "Tomo-chan smiled gently.",
+      "text": "Tomo-chan smiled gently."
+    },
+    {
+      "offset": 4989,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆一緒のクラス◆",
+      "en": "◆Same Class◆",
+      "text": "◆Same Class◆"
+    },
+    {
+      "offset": 5046,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "妙に短い春休みが終わり、新学期である。",
+      "en": "The short spring break was over, and a new school year\nbegan.",
+      "text": "The short spring break was over, and a new school year\nbegan."
+    },
+    {
+      "offset": 5112,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりと一緒に、クラス編成をチェックした。",
+      "en": "I checked the class lists with Kotori.",
+      "text": "I checked the class lists with Kotori."
+    },
+    {
+      "offset": 5159,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何とも嬉しい事に、俺達は一緒のクラスだった。",
+      "en": "Happily, we ended up in the same class.",
+      "text": "Happily, we ended up in the same class."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "1151": "Kotori",
+    "1355": "Kotori",
+    "1416": "Kotori",
+    "1454": "Kotori",
+    "1677": "Kotori",
+    "1869": "Kotori",
+    "2085": "Kotori",
+    "2286": "Kotori",
+    "2493": "Kotori",
+    "2567": "Kotori",
+    "3293": "Kotori",
+    "3467": "Kotori",
+    "3614": "Kotori",
+    "3837": "Kotori",
+    "4027": "Kotori",
+    "4074": "Kotori",
+    "4129": "Kotori",
+    "4394": "Tomo-chan",
+    "4491": "Mik-kun",
+    "4578": "Mik-kun",
+    "4671": "Tomo-chan",
+    "4750": "Tomo-chan"
+  }
+}

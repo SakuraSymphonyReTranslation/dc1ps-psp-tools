@@ -1,0 +1,911 @@
+{
+  "scene": "script_0458.obj",
+  "dialogues": [
+    {
+      "offset": 179,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は中庭のベンチに腰を下ろすと、買ってきた\n惣菜パンの袋を取り出した。",
+      "en": "I sat down on a bench at the courtyard, taking out the bread\nI bought.",
+      "text": "I sat down on a bench at the courtyard, taking out the bread\nI bought."
+    },
+    {
+      "offset": 253,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こうして、うららかな風に吹かれつつとる昼食\nもまた、風情のあるもので……。",
+      "en": "This wind is perfect for whetting the appetite...",
+      "text": "This wind is perfect for whetting the appetite..."
+    },
+    {
+      "offset": 331,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 346,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（あれ？　開け口は……どこだ？）",
+      "en": "\"(Huh? How do you... open this?)\"",
+      "text": "\"(Huh? How do you... open this?)\""
+    },
+    {
+      "offset": 385,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "袋を開けようとした指先が思わず｛さまよ／彷徨｝う。",
+      "en": "I traced my fingertip over the top of the bag.",
+      "text": "I traced my fingertip over the top of the bag."
+    },
+    {
+      "offset": 440,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『ここから開きます』と書いてあるあたりを撫\nで回してみるが一向にそれらしい切れ目などは\n見つからない。",
+      "en": "There was a sign \"Please Open Here\", but it didn't look any\ndifferent from the rest of the bag.",
+      "text": "There was a sign \"Please Open Here\", but it didn't look any\ndifferent from the rest of the bag."
+    },
+    {
+      "offset": 545,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しからば、と横っ腹を引っ張って口を開けさせ\nようとするが、敵も｛さ／然｝るもの、なかなかこちら\nの思い通りにはいかなかった。",
+      "en": "But there's no way I'm going to let this defeat me!",
+      "text": "But there's no way I'm going to let this defeat me!"
+    },
+    {
+      "offset": 672,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "袋ごと揉みくちゃになったパンからハムカツの\n中身がべろりとはみ出す。",
+      "en": "I grabbed the bag and started jostling around with the\nsupposed opening, attempting to rip it apart.",
+      "text": "I grabbed the bag and started jostling around with the\nsupposed opening, attempting to rip it apart."
+    },
+    {
+      "offset": 744,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それがなんだかアカンベーをしているように見\nえてイライラはますます募っていく。",
+      "en": "Yet, no matter how my hands worked, my efforts were useless.",
+      "text": "Yet, no matter how my hands worked, my efforts were useless."
+    },
+    {
+      "offset": 828,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（く、くそっ！　パンの分際で生意気な！）",
+      "en": "\"(D, damnit! How annoying!)\"",
+      "text": "\"(D, damnit! How annoying!)\""
+    },
+    {
+      "offset": 875,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ワイルドに歯で噛み千切ってやろうか！！",
+      "en": "I started ripping at it wildly with my teeth!",
+      "text": "I started ripping at it wildly with my teeth!"
+    },
+    {
+      "offset": 918,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "悪戦苦闘する俺の上に、すっと影がおちた。",
+      "en": "As my fierce battle with the dastardly bag continued, a\nshadow hovered over me.",
+      "text": "As my fierce battle with the dastardly bag continued, a\nshadow hovered over me."
+    },
+    {
+      "offset": 963,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "誰かに覗き込まれているな、とは思ったが今の\n俺に顔をあげる余裕などない。",
+      "en": "Someone was peering at me, but all my concentration was\nfocused on the irritant.",
+      "text": "Someone was peering at me, but all my concentration was\nfocused on the irritant."
+    },
+    {
+      "offset": 1054,
+      "speaker": "???",
+      "speaker_jp": "？？？",
+      "jp": "「大変そうだな、朝倉」",
+      "en": "\"Having a little trouble, Asakura?\"",
+      "text": "\"Having a little trouble, Asakura?\""
+    },
+    {
+      "offset": 1083,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この声は……。",
+      "en": "This voice is...",
+      "text": "This voice is..."
+    },
+    {
+      "offset": 1104,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「工藤か、見てのとおり、俺はとりあえず取り\n　込み中だ」",
+      "en": "\"Kudou. As you can see, I'm in the middle of something now.\"",
+      "text": "\"Kudou. As you can see, I'm in the middle of something now.\""
+    },
+    {
+      "offset": 1166,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "額からぼたぼた汗を落としながら答える俺。",
+      "en": "Sweat dripped off the brow of my forehead as I answered him.",
+      "text": "Sweat dripped off the brow of my forehead as I answered him."
+    },
+    {
+      "offset": 1211,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "このビニールは新型の特殊フィルムでできてい\nるに違いない。",
+      "en": "This must be a new type of vinyl they're using for the\nopening...",
+      "text": "This must be a new type of vinyl they're using for the\nopening..."
+    },
+    {
+      "offset": 1273,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな俺に工藤は心なしか呆れたような調子で\n続ける。",
+      "en": "Kudou continued to stare amazed at my behaviour.",
+      "text": "Kudou continued to stare amazed at my behaviour."
+    },
+    {
+      "offset": 1342,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「……俺、ハサミなら持ってるけど？」",
+      "en": "\"...I do have a pair of scissors, you know.\"",
+      "text": "\"...I do have a pair of scissors, you know.\""
+    },
+    {
+      "offset": 1385,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「なんですと！？」",
+      "en": "\"Whaaaat!?\"",
+      "text": "\"Whaaaat!?\""
+    },
+    {
+      "offset": 1410,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そこで初めて俺は顔をあげた。",
+      "en": "I finally lifted my head up to look at him.",
+      "text": "I finally lifted my head up to look at him."
+    },
+    {
+      "offset": 1478,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「ほら、これでいいか？」",
+      "en": "\"This'd do, right?\"",
+      "text": "\"This'd do, right?\""
+    },
+    {
+      "offset": 1509,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "差し出された工藤の｛てのひら／掌｝には、ごくごく小さくま\nさに手のひらサイズのハサミが乗っかっていた。",
+      "en": "There in his presented palm, lay a small, easily-carriable\npair of scissors.",
+      "text": "There in his presented palm, lay a small, easily-carriable\npair of scissors."
+    },
+    {
+      "offset": 1617,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「工藤、すばらしすぎるぜ！　恩に着る」",
+      "en": "\"Kudou, well played! I'm in your debt!\"",
+      "text": "\"Kudou, well played! I'm in your debt!\""
+    },
+    {
+      "offset": 1662,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……ぱちん。ビニールの隅に小さく切れ目を入\nれると、いとも簡単に袋は口を開けた。",
+      "en": "...Snip. With one small motion, the vinyl was snapped and\nthe bread packet easily opened.",
+      "text": "...Snip. With one small motion, the vinyl was snapped and\nthe bread packet easily opened."
+    },
+    {
+      "offset": 1746,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ビバ、文明の利器。",
+      "en": "Viva to the convenience of culture.",
+      "text": "Viva to the convenience of culture."
+    },
+    {
+      "offset": 1769,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それにしても、さっきまでの苦労はなんだった\nというのだろう……。",
+      "en": "All my troubles just now, solved within seconds...",
+      "text": "All my troubles just now, solved within seconds..."
+    },
+    {
+      "offset": 1837,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はやっと安堵の息を吐いて、すっかり形の変\nわったハムカツサンドを袋から引っ張り出した。",
+      "en": "I sighed in relief, and took out the ham-bacon sandwich from\nthe bag.",
+      "text": "I sighed in relief, and took out the ham-bacon sandwich from\nthe bag."
+    },
+    {
+      "offset": 1929,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "諦めたと見えてすっかり大人しくなりおって\n……早速、ぱくりとかぶりつく。",
+      "en": "No more hope for you now, get in mah belly!",
+      "text": "No more hope for you now, get in mah belly!"
+    },
+    {
+      "offset": 2007,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「しかしお前、……よくハサミなんて持ってた\n　な」",
+      "en": "\"...Man, I didn't expect you to be carrying scissors with\nyou.\"",
+      "text": "\"...Man, I didn't expect you to be carrying scissors with\nyou.\""
+    },
+    {
+      "offset": 2063,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もごもごとハムカツサンドを｛そしゃく／咀嚼｝しながら、俺\nが言うと。",
+      "en": "I spoke before taking a bite out of the sandwich.",
+      "text": "I spoke before taking a bite out of the sandwich."
+    },
+    {
+      "offset": 2165,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「備えあれば憂いなしだ」",
+      "en": "\"Being prepared for anything is a good trait to have.\"",
+      "text": "\"Being prepared for anything is a good trait to have.\""
+    },
+    {
+      "offset": 2196,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんとも模範的な答えが返ってきた。",
+      "en": "Examplary behaviour, indeed.",
+      "text": "Examplary behaviour, indeed."
+    },
+    {
+      "offset": 2235,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "憂いがなかろうが嬉しかろうが、備えっていう\n言葉には縁がない俺とは大違いだ。",
+      "en": "Too bad our ideals hardly ever meet.",
+      "text": "Too bad our ideals hardly ever meet."
+    },
+    {
+      "offset": 2317,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「しかし、貸してもらっといて何だが、何とも\n　切りにくいハサミだな」",
+      "en": "\"It's so small though, I almost thought it wouldn't be able\nto open the packet.\"",
+      "text": "\"It's so small though, I almost thought it wouldn't be able\nto open the packet.\""
+    },
+    {
+      "offset": 2402,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「あはは……俺もそう思うよ」",
+      "en": "\"Ahaha, I thought so too.\"",
+      "text": "\"Ahaha, I thought so too.\""
+    },
+    {
+      "offset": 2437,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ハサミの形はしていたが、何しろ小さい。",
+      "en": "It's really quite tiny, that pair of scissors.",
+      "text": "It's really quite tiny, that pair of scissors."
+    },
+    {
+      "offset": 2480,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "持ち手には指が一本やっと入るか入らないかく\nらいの穴が開いているだけで、ろくに刃もつい\nてはいない。",
+      "en": "It was about as long as an extended finger, and it's blades\nlooked quite blunt.",
+      "text": "It was about as long as an extended finger, and it's blades\nlooked quite blunt."
+    },
+    {
+      "offset": 2585,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どこでそんなハサミ買ったんだ？　不良品だ\n　よ、そりゃ」",
+      "en": "\"Where did you buy it from? Methinks you got ripped off.\"",
+      "text": "\"Where did you buy it from? Methinks you got ripped off.\""
+    },
+    {
+      "offset": 2677,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「どーでもいいだろ」",
+      "en": "\"What~ever.\"",
+      "text": "\"What~ever.\""
+    },
+    {
+      "offset": 2704,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ま、そう言われれば、そうだが。",
+      "en": "Oh well, if that's how it is.",
+      "text": "Oh well, if that's how it is."
+    },
+    {
+      "offset": 2739,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……まてよ。",
+      "en": "...Waitaminute.",
+      "text": "...Waitaminute."
+    },
+    {
+      "offset": 2758,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（……女の子が持ってるお裁縫セットって、確\n　かああいうちっこくて切りにくいハサミが入っ\n　てたよな……）",
+      "en": "\"(...I'm pretty sure one of those portable sewing sets that\ngirls carry around would have scissors about that size...)\"",
+      "text": "\"(...I'm pretty sure one of those portable sewing sets that\ngirls carry around would have scissors about that size...)\""
+    },
+    {
+      "offset": 2869,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――などとつらつら考えを巡らせつつパンをか\nじっていると、工藤が妙に改まった口調で切り\n出した。",
+      "en": "--As my mind raced through the possibilities, Kudou\nnervously opened his mouth to talk.",
+      "text": "--As my mind raced through the possibilities, Kudou\nnervously opened his mouth to talk."
+    },
+    {
+      "offset": 2998,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「あのさ、朝倉。頼みがあるんだけど」",
+      "en": "\"Hey, Asakura... Can you do me a favour?\"",
+      "text": "\"Hey, Asakura... Can you do me a favour?\""
+    },
+    {
+      "offset": 3041,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「なんだよ」",
+      "en": "\"What's it about?\"",
+      "text": "\"What's it about?\""
+    },
+    {
+      "offset": 3071,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「もうすぐ卒業式だよな」",
+      "en": "\"The graduation ceremony is coming up soon.\"",
+      "text": "\"The graduation ceremony is coming up soon.\""
+    },
+    {
+      "offset": 3102,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「んぁ」",
+      "en": "\"Mmmah.\"",
+      "text": "\"Mmmah.\""
+    },
+    {
+      "offset": 3117,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もふもふとパンを口に含んだまま答える。",
+      "en": "I answered while chewing on my food.",
+      "text": "I answered while chewing on my food."
+    },
+    {
+      "offset": 3160,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まぁ、卒業したところで本校に繰り上がるだけ\nだけどな。",
+      "en": "Even after we graduate, we'd just be going a few steps away\nto the main school.",
+      "text": "Even after we graduate, we'd just be going a few steps away\nto the main school."
+    },
+    {
+      "offset": 3218,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな俺にとってはまったくと言っていいほど\n無味乾燥な儀式だ。",
+      "en": "If anything, it can be considered a pretty darned useless\nceremony.",
+      "text": "If anything, it can be considered a pretty darned useless\nceremony."
+    },
+    {
+      "offset": 3314,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「あのさ、朝倉さ」",
+      "en": "\"You know, Asakura...\"",
+      "text": "\"You know, Asakura...\""
+    },
+    {
+      "offset": 3339,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「ん」",
+      "en": "\"Mm?\"",
+      "text": "\"Mm?\""
+    },
+    {
+      "offset": 3363,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「お前のさ」",
+      "en": "\"About something you have.\"",
+      "text": "\"About something you have.\""
+    },
+    {
+      "offset": 3382,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「んん」",
+      "en": "\"Mmm?\"",
+      "text": "\"Mmm?\""
+    },
+    {
+      "offset": 3408,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「制服のさ」",
+      "en": "\"Your uniform.\"",
+      "text": "\"Your uniform.\""
+    },
+    {
+      "offset": 3427,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「んんん」",
+      "en": "\"Mmmm?\"",
+      "text": "\"Mmmm?\""
+    },
+    {
+      "offset": 3455,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「第２ボタンさ」",
+      "en": "\"The second button.\"",
+      "text": "\"The second button.\""
+    },
+    {
+      "offset": 3478,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……ああ、まだるっこしい奴だな。",
+      "en": "...Man, stop beating around the bush.",
+      "text": "...Man, stop beating around the bush."
+    },
+    {
+      "offset": 3517,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんだよ、言いたいことがあんならはっきり\n　言えよ」",
+      "en": "\"What is it? If you have something to say, out with it\nalready!\"",
+      "text": "\"What is it? If you have something to say, out with it\nalready!\""
+    },
+    {
+      "offset": 3605,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「悪い、ちょっと言いづらくて……」",
+      "en": "\"Sorry, it's kinda hard to say...\"",
+      "text": "\"Sorry, it's kinda hard to say...\""
+    },
+    {
+      "offset": 3646,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "工藤はちょっと真剣な顔になり、小さく呼吸を\n整えておもむろに切り出した。",
+      "en": "With as serious a face as I've seen, he took a short breath\nand spit it out.",
+      "text": "With as serious a face as I've seen, he took a short breath\nand spit it out."
+    },
+    {
+      "offset": 3752,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「お前の制服の第２ボタン、俺にくれよ」",
+      "en": "\"Would you please give me your uniform's second button?\"",
+      "text": "\"Would you please give me your uniform's second button?\""
+    },
+    {
+      "offset": 3803,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「ぶふぉっ！！！！！」",
+      "en": "\"Buuwaaaa!!!!!!\"",
+      "text": "\"Buuwaaaa!!!!!!\""
+    },
+    {
+      "offset": 3832,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思いもよらぬ申し出に、口中のものを噴出して\nしまう俺。",
+      "en": "The food in my mouth became fertilizer for the grass in the\ncourtyard.",
+      "text": "The food in my mouth became fertilizer for the grass in the\ncourtyard."
+    },
+    {
+      "offset": 3892,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おおお前！　そんな趣味があったのか！？\n　いや、ダメだ俺は、そんな……」",
+      "en": "\"Y, y, y, you! You swing that way!? No, I can't, that's...\"",
+      "text": "\"Y, y, y, you! You swing that way!? No, I can't, that's...\""
+    },
+    {
+      "offset": 4000,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「違う違う、俺が欲しいんじゃないったら」",
+      "en": "\"No, no! It's not me who wants it!\"",
+      "text": "\"No, no! It's not me who wants it!\""
+    },
+    {
+      "offset": 4047,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛とっさ／咄嗟｝に後ずさる俺に、工藤は慌ててぶんぶんと\n首を振った。",
+      "en": "Kudou hastily responded to my confused exclamation.",
+      "text": "Kudou hastily responded to my confused exclamation."
+    },
+    {
+      "offset": 4149,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「俺の知り合いの子に頼まれたんだよ」",
+      "en": "\"It's a request from a person I know.\"",
+      "text": "\"It's a request from a person I know.\""
+    },
+    {
+      "offset": 4192,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「あ――なんだ、そうか」",
+      "en": "\"Ah-- so that's how it is.\"",
+      "text": "\"Ah-- so that's how it is.\""
+    },
+    {
+      "offset": 4223,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はほっと胸を撫で下ろした。まったく、一時\nはどうなることかと思ったぜ。",
+      "en": "I stroked my chest to calm myself down. What was I thinking\nthere...",
+      "text": "I stroked my chest to calm myself down. What was I thinking\nthere..."
+    },
+    {
+      "offset": 4329,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「ずっとお前に憧れてたんだってよ。自分じゃ\n　頼みづらいからってさ」",
+      "en": "\"You've had an admirer for quite a while. Didn't have the\nguts to tell you directly, though.\"",
+      "text": "\"You've had an admirer for quite a while. Didn't have the\nguts to tell you directly, though.\""
+    },
+    {
+      "offset": 4403,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「ほー………………」",
+      "en": "\"Hmmm.........\"",
+      "text": "\"Hmmm.........\""
+    },
+    {
+      "offset": 4430,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "陰ながら俺を慕ってくれる婦女子がいたとは。",
+      "en": "So there's been a girl who's had a crush on me for this\nlong?",
+      "text": "So there's been a girl who's had a crush on me for this\nlong?"
+    },
+    {
+      "offset": 4479,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（どうだ音夢、少しは兄を見直したか？）",
+      "en": "\"(How's that Nemu, what do you think of me now!?)\"",
+      "text": "\"(How's that Nemu, what do you think of me now!?)\""
+    },
+    {
+      "offset": 4524,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "遠いお空の妹に、意味もなくテレパシーを送っ\nてみたりする。",
+      "en": "I tried to communicate through telepathy to my sister,\nwherever she was.",
+      "text": "I tried to communicate through telepathy to my sister,\nwherever she was."
+    },
+    {
+      "offset": 4586,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふと、かすかな疑惑が頭をよぎり、俺は念を押\nすように尋ねた。",
+      "en": "But with a slight nagging doubt still in my head, I decided\nto make certain.",
+      "text": "But with a slight nagging doubt still in my head, I decided\nto make certain."
+    },
+    {
+      "offset": 4652,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「待てよ、その知り合いって、女の子だよな？」",
+      "en": "\"Wait a minute. This person you know, it's a girl, right?\"",
+      "text": "\"Wait a minute. This person you know, it's a girl, right?\""
+    },
+    {
+      "offset": 4703,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "工藤本人ではなくとも、やっぱり男でした〜な\nんてオチをつけられちゃたまらない。",
+      "en": "I'm not going to make the same mistake twice.",
+      "text": "I'm not going to make the same mistake twice."
+    },
+    {
+      "offset": 4815,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「当たり前だろ」",
+      "en": "\"Obviously.\"",
+      "text": "\"Obviously.\""
+    },
+    {
+      "offset": 4838,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なにをバカな、とでも言いたげな目をむける工\n藤。",
+      "en": "\"Are you stupid?\" His eyes spoke volumes.",
+      "text": "\"Are you stupid?\" His eyes spoke volumes."
+    },
+    {
+      "offset": 4890,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "はあ、一安心。",
+      "en": "Haaah, relief.",
+      "text": "Haaah, relief."
+    },
+    {
+      "offset": 4909,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そうなってくると｛にわ／俄｝かに相手の子への好奇心が\n高まってくる。",
+      "en": "Now with the natural order ensured, my curiosity was piqued.",
+      "text": "Now with the natural order ensured, my curiosity was piqued."
+    },
+    {
+      "offset": 4983,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、どんな子なんだ？　可愛いのか？」",
+      "en": "\"Then, what does she look like? Is she cute?\"",
+      "text": "\"Then, what does she look like? Is she cute?\""
+    },
+    {
+      "offset": 5028,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はダイレクトにたずねた。",
+      "en": "I went straight to the point.",
+      "text": "I went straight to the point."
+    },
+    {
+      "offset": 5089,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「え？　そうだな………………ショートカット\n　で、和装の似合う女の子だよ」",
+      "en": "\"Eh? Well...... imagine a girl with short hair, dressed in a\nkimono.\"",
+      "text": "\"Eh? Well...... imagine a girl with short hair, dressed in a\nkimono.\""
+    },
+    {
+      "offset": 5169,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「へぇ〜。着物の似合う女の子っていいよな。\n　やまとなでしこっていうの？　俺、けっこー\n　タイプかも」",
+      "en": "\"Heh, a kimono-wearing girl sounds good. That's a yamato\nnadesico* right? I like that type of girl.\"",
+      "text": "\"Heh, a kimono-wearing girl sounds good. That's a yamato\nnadesico* right? I like that type of girl.\""
+    },
+    {
+      "offset": 5276,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "不必要に男に媚びぬ、慎ましく楚々とした立ち\n姿。日本男児であれば｛かよう／斯様｝な女子をこそ側に置\nきたいものであるッ！",
+      "en": "A girl who dotes on her man, modest, graceful and neat.\nThere's no Japanese man who'd turn down that kind of girl!",
+      "text": "A girl who dotes on her man, modest, graceful and neat.\nThere's no Japanese man who'd turn down that kind of girl!"
+    },
+    {
+      "offset": 5429,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「そ、そうか」",
+      "en": "\"I, I see.\"",
+      "text": "\"I, I see.\""
+    },
+    {
+      "offset": 5450,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "拳を握り締める俺を見て、工藤は何故かほのか\nに頬を染めた。",
+      "en": "Looking up from my clenched fist, Kudou's face was oddly\nred.",
+      "text": "Looking up from my clenched fist, Kudou's face was oddly\nred."
+    },
+    {
+      "offset": 5514,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……何故赤くなる？」",
+      "en": "\"...Why are you blushing?\"",
+      "text": "\"...Why are you blushing?\""
+    },
+    {
+      "offset": 5571,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「！　………………っな、なんでもない！」",
+      "en": "\"! ......N, nothing!\"",
+      "text": "\"! ......N, nothing!\""
+    },
+    {
+      "offset": 5618,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ベンチから立ち上がり、ぱんと腰をはたく工藤。",
+      "en": "Kudou immediately jumped up from the bench.",
+      "text": "Kudou immediately jumped up from the bench."
+    },
+    {
+      "offset": 5697,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「じゃ、約束だからな？　ま、お前のボタン欲\n　しがるような女子はそうそういないだろうし、\n　大丈夫か」",
+      "en": "\"T, then, it's a promise, right? The girl who wants it won't\nbe there, but it'd be alright, I bet.\"",
+      "text": "\"T, then, it's a promise, right? The girl who wants it won't\nbe there, but it'd be alright, I bet.\""
+    },
+    {
+      "offset": 5804,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "にっ、と笑う工藤に俺は握り締めた拳を小さく\n突き出した。",
+      "en": "Kudou smiled a little, and tapped my clenched fist with his\nfinger.",
+      "text": "Kudou smiled a little, and tapped my clenched fist with his\nfinger."
+    },
+    {
+      "offset": 5866,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「甘く見てもらっちゃ困るな工藤、俺は意外性\n　に溢れた男なんだ」",
+      "en": "\"Don't underestimate me, Kudou. I'm a man of many\nsurprises.\"",
+      "text": "\"Don't underestimate me, Kudou. I'm a man of many\nsurprises.\""
+    },
+    {
+      "offset": 5936,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「卒業式当日ともなれば俺の第二ボタンを巡っ\n　て、婦女子達が血で血を洗う抗争をだな……」",
+      "en": "\"That I would give my second button away on the day of\ngraduation, there may well be bloodshed amongst my many\nsuitresses.\"",
+      "text": "\"That I would give my second button away on the day of\ngraduation, there may well be bloodshed amongst my many\nsuitresses.\""
+    },
+    {
+      "offset": 6058,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「はいはい、そりゃ見物だな」",
+      "en": "\"Right, right, that'd be fun to watch.\"",
+      "text": "\"Right, right, that'd be fun to watch.\""
+    },
+    {
+      "offset": 6105,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "工藤はいつもの、呆れたような笑顔のまま、さっ\nさと校舎へ戻っていった。",
+      "en": "With his usual wry smile, Kudou returned to the school\nbuilding.",
+      "text": "With his usual wry smile, Kudou returned to the school\nbuilding."
+    },
+    {
+      "offset": 6179,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "最後に奴が言い放った、「お前最近、杉並に似\nてきたんじゃないか？」という不名誉な台詞は\nあえて聞かなかった事にする。",
+      "en": "His parting shot, \"You've been acting a lot like Suginami\nlately, haven't you?\", was disgraceful by anyone's\nstandards.",
+      "text": "His parting shot, \"You've been acting a lot like Suginami\nlately, haven't you?\", was disgraceful by anyone's\nstandards."
+    },
+    {
+      "offset": 6300,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……それにしても」",
+      "en": "\"...In any case.\"",
+      "text": "\"...In any case.\""
+    },
+    {
+      "offset": 6327,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "和装の似合う女の子、か……。",
+      "en": "A kimono-wearing girl, huh...",
+      "text": "A kimono-wearing girl, huh..."
+    },
+    {
+      "offset": 6360,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なぜか口元が自然とゆるむ。",
+      "en": "My jaw started to slacken subconciously.",
+      "text": "My jaw started to slacken subconciously."
+    },
+    {
+      "offset": 6391,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだか、卒業式が楽しみになっていた。",
+      "en": "Looks like this graduation will be a fun one.",
+      "text": "Looks like this graduation will be a fun one."
+    },
+    {
+      "offset": 6538,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆第二ボタン◆",
+      "en": "◆The Second Button◆",
+      "text": "◆The Second Button◆"
+    },
+    {
+      "offset": 6581,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "工藤が、卒業したら第二ボタンをくれないかと\n言いだした。",
+      "en": "Kudou asked me to give him my uniform's second button when\ngraduation day arrived.",
+      "text": "Kudou asked me to give him my uniform's second button when\ngraduation day arrived."
+    },
+    {
+      "offset": 6641,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その申し出に｛きょうがく／驚愕｝した俺だが、",
+      "en": "The way he phrased it scared me half to death,",
+      "text": "The way he phrased it scared me half to death,"
+    },
+    {
+      "offset": 6690,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "真相は、知り合いの女の子（着物が似合うショー\nトカットの女の子らしい）が俺の第二ボタンを\n欲しがっているという事だった。",
+      "en": "but the actual situation was that a girl that Kudou knew\n(with short hair and wearing a kimono) wanted the second\nbutton.",
+      "text": "but the actual situation was that a girl that Kudou knew\n(with short hair and wearing a kimono) wanted the second\nbutton."
+    },
+    {
+      "offset": 6813,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一安心した俺は、その後、まだ見ぬ和服の女の\n子に想いを馳せるのだった。",
+      "en": "Relieved, I quickly gave my assention to the act.",
+      "text": "Relieved, I quickly gave my assention to the act."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "1044": "???",
+    "1334": "Kudou",
+    "1470": "Kudou",
+    "2157": "Kudou",
+    "2394": "Kudou",
+    "2669": "Kudou",
+    "2990": "Kudou",
+    "3063": "Kudou",
+    "3306": "Kudou",
+    "3355": "Kudou",
+    "3400": "Kudou",
+    "3447": "Kudou",
+    "3597": "Kudou",
+    "3744": "Kudou",
+    "3992": "Kudou",
+    "4141": "Kudou",
+    "4321": "Kudou",
+    "4807": "Kudou",
+    "5081": "Kudou",
+    "5421": "Kudou",
+    "5563": "Kudou",
+    "5689": "Kudou",
+    "6050": "Kudou"
+  }
+}

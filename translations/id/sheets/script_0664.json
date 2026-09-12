@@ -1,0 +1,988 @@
+{
+  "scene": "script_0664.obj",
+  "dialogues": [
+    {
+      "offset": 169,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "呼び鈴の音に部屋を後にし、ゆっくりと階段を\n下りる。",
+      "en": "I heard the doorbell ring. I went down the stairs slowly.",
+      "text": "I heard the doorbell ring. I went down the stairs slowly."
+    },
+    {
+      "offset": 227,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あぁ、めんどくさ……」",
+      "en": "\"What a pain...... but I have to do it myself...\"",
+      "text": "\"What a pain...... but I have to do it myself...\""
+    },
+    {
+      "offset": 258,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "最近、その手の言葉を使うのを控えていたのだ\nが、つい使ってしまった。",
+      "en": "Everything seemed to be so much trouble lately.",
+      "text": "Everything seemed to be so much trouble lately."
+    },
+    {
+      "offset": 330,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の前で、面倒だとかかったるいだとか、冗\n談で口になんてできないから。",
+      "en": "I can't use my favorite words because Nemu will take it\nseriously.",
+      "text": "I can't use my favorite words because Nemu will take it\nseriously."
+    },
+    {
+      "offset": 408,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「習慣は恐ろしいってことだな」",
+      "en": "\"Yes, yes. Who is it?\"",
+      "text": "\"Yes, yes. Who is it?\""
+    },
+    {
+      "offset": 445,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はいはい、どちら様です？」",
+      "en": "I opened the door.",
+      "text": "I opened the door."
+    },
+    {
+      "offset": 551,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「私だ」",
+      "en": "\"It's me.\"",
+      "text": "\"It's me.\""
+    },
+    {
+      "offset": 613,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「どうもです先輩！」",
+      "en": "\"Hello, sempai!\"",
+      "text": "\"Hello, sempai!\""
+    },
+    {
+      "offset": 640,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あ、美春。白河先生」",
+      "en": "\"Miharu, Koyomi-sensei.\"",
+      "text": "\"Miharu, Koyomi-sensei.\""
+    },
+    {
+      "offset": 669,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "久しぶりに見る顔だった。",
+      "en": "I haven't seen them for a while.",
+      "text": "I haven't seen them for a while."
+    },
+    {
+      "offset": 726,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「元気にしてるのか？」",
+      "en": "\"How are you?\"",
+      "text": "\"How are you?\""
+    },
+    {
+      "offset": 755,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「えぇ……まぁ。それなりに」",
+      "en": "\"Yes, fine I guess.\"",
+      "text": "\"Yes, fine I guess.\""
+    },
+    {
+      "offset": 799,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「では学園に来い……なんて無粋な話はしない\n　がね。講師として顔を見に来たというわけさ」",
+      "en": "\"Then you need to come back to school...... Not. I don't\nwant to sound like I've no delicacy, but I came to check on\nyou guys as a teacher.\"",
+      "text": "\"Then you need to come back to school...... Not. I don't\nwant to sound like I've no delicacy, but I came to check on\nyou guys as a teacher.\""
+    },
+    {
+      "offset": 919,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ま、家庭訪問みたいなもんだ」",
+      "en": "\"It's like a home visit by a teacher.\"",
+      "text": "\"It's like a home visit by a teacher.\""
+    },
+    {
+      "offset": 956,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "指に挟んだタバコを振って、暦先生がニヤリと\n笑う。",
+      "en": "Koyomi-sensei smiled as she held her cigarette between her\nfingers.",
+      "text": "Koyomi-sensei smiled as she held her cigarette between her\nfingers."
+    },
+    {
+      "offset": 1040,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「美春は音夢先輩のお見舞いです」",
+      "en": "\"I came to visit Nemu-sempai.\"",
+      "text": "\"I came to visit Nemu-sempai.\""
+    },
+    {
+      "offset": 1102,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんとなく、どう対応していいものか迷ってし\nまう。",
+      "en": "\"Oh, I see......\"",
+      "text": "\"Oh, I see......\""
+    },
+    {
+      "offset": 1156,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢以外の誰かと話すことが久しぶりだったし。",
+      "en": "I didn't know how I should react to them.",
+      "text": "I didn't know how I should react to them."
+    },
+    {
+      "offset": 1205,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何より、音夢のことや、俺のことを話しても理\n解されないだろう。",
+      "en": "I suppose they won't understand even if I told them about\nNemu and me.",
+      "text": "I suppose they won't understand even if I told them about\nNemu and me."
+    },
+    {
+      "offset": 1271,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まぁ、元から原因不明の病気ということだった\nから、詳しく話す必要もないか……。",
+      "en": "But, they all knew Nemu had an unknown medical condition to\nstart out with, so I guess I could make up anything.",
+      "text": "But, they all knew Nemu had an unknown medical condition to\nstart out with, so I guess I could make up anything."
+    },
+    {
+      "offset": 1355,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「えと、じゃあ上がってください」",
+      "en": "\"Um, please come in.\"",
+      "text": "\"Um, please come in.\""
+    },
+    {
+      "offset": 1445,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「へぇ、意外と片付いてるんだな」",
+      "en": "\"Well, it's cleaner than I imagined.\"",
+      "text": "\"Well, it's cleaner than I imagined.\""
+    },
+    {
+      "offset": 1484,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「この家にふたりだけですからね。１階はあま\n　り、汚れたり散らかったりしません」",
+      "en": "\"There are only two of us. Downstairs doesn't get messy at\nall.\"",
+      "text": "\"There are only two of us. Downstairs doesn't get messy at\nall.\""
+    },
+    {
+      "offset": 1579,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "緑茶と、適当に作った和菓子を並べてソファー\nにつく。",
+      "en": "I sat on the sofa as I placed green tea and some Japanese\nsweets I've created on the table.",
+      "text": "I sat on the sofa as I placed green tea and some Japanese\nsweets I've created on the table."
+    },
+    {
+      "offset": 1684,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「朝倉先輩。音夢先輩の様子はどうなんです\n　か？」",
+      "en": "\"Asakura-sempai, how's Nemu-sempai?\"",
+      "text": "\"Asakura-sempai, how's Nemu-sempai?\""
+    },
+    {
+      "offset": 1740,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春が待っていたとばかりに身を乗り出してく\nる。",
+      "en": "Miharu sat up and asked me impatiently.",
+      "text": "Miharu sat up and asked me impatiently."
+    },
+    {
+      "offset": 1794,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どうかな……ここ最近は、倒れてばかりだか\n　ら」",
+      "en": "\"I don't know...... sometimes she collapses suddenly.\"",
+      "text": "\"I don't know...... sometimes she collapses suddenly.\""
+    },
+    {
+      "offset": 1859,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「どのくらいかかりそうなんだ朝倉？」",
+      "en": "\"How long do you think it'll take, Asakura?\"",
+      "text": "\"How long do you think it'll take, Asakura?\""
+    },
+    {
+      "offset": 1928,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「責めてるんじゃないんだが、このままお前も\n　看病で休み続けるのはまずいと思うんだ」",
+      "en": "\"I'm not accusing you, but I don't think it's good for you\nto keep skipping school to take care of her.\"",
+      "text": "\"I'm not accusing you, but I don't think it's good for you\nto keep skipping school to take care of her.\""
+    },
+    {
+      "offset": 2018,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「そうですけど……」",
+      "en": "\"I know that......\"",
+      "text": "\"I know that......\""
+    },
+    {
+      "offset": 2054,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「このまま一月でも経ってみろ、完全に授業か\n　ら置いていかれてしまうぞ」",
+      "en": "\"You won't be able to catch up with the class if you don't\ncome to school for a month.\"",
+      "text": "\"You won't be able to catch up with the class if you don't\ncome to school for a month.\""
+    },
+    {
+      "offset": 2160,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「朝倉先輩じゃ、がんばって追いつこうとはし\n　ないでしょうしねぇ」",
+      "en": "\"You probably won't even try to catch up anyway.\"",
+      "text": "\"You probably won't even try to catch up anyway.\""
+    },
+    {
+      "offset": 2232,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「お前、さり気なくひどいこと言うな」",
+      "en": "\"Isn't that too harsh?\"",
+      "text": "\"Isn't that too harsh?\""
+    },
+    {
+      "offset": 2301,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「かったりぃ〜、とかな」",
+      "en": "\"Or as you'd say, what a pain.\"",
+      "text": "\"Or as you'd say, what a pain.\""
+    },
+    {
+      "offset": 2360,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「音夢先輩と朝倉先輩が、このまま美春の同級\n　生になるのは嫌です」",
+      "en": "\"I don't want to be in the same graduating class as you and\nNemu-sempai.\"",
+      "text": "\"I don't want to be in the same graduating class as you and\nNemu-sempai.\""
+    },
+    {
+      "offset": 2432,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「美春」",
+      "en": "\"Miharu.\"",
+      "text": "\"Miharu.\""
+    },
+    {
+      "offset": 2475,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「だって、どっちと同じクラスになっても、絶\n　対に頭上がりませんもん」",
+      "en": "\"It's too much pressure on me to be in the same class with\nyou guys.\"",
+      "text": "\"It's too much pressure on me to be in the same class with\nyou guys.\""
+    },
+    {
+      "offset": 2551,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「お前はなんの心配をしてるんだ」",
+      "en": "\"What are you worrying about?\"",
+      "text": "\"What are you worrying about?\""
+    },
+    {
+      "offset": 2601,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「切実ですって」",
+      "en": "\"I'm serious.\"",
+      "text": "\"I'm serious.\""
+    },
+    {
+      "offset": 2650,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「……なぁ、灰皿ないか？」",
+      "en": "\"Hey, do you have an ashtray?\"",
+      "text": "\"Hey, do you have an ashtray?\""
+    },
+    {
+      "offset": 2683,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「先生、マイペース過ぎます」",
+      "en": "\"Sensei, you're so on your own...\"",
+      "text": "\"Sensei, you're so on your own...\""
+    },
+    {
+      "offset": 2718,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふむ、と暦先生がタバコをしまってため息をつ\nく。",
+      "en": "Koyomi-sensei sighed and put away her cigarette.",
+      "text": "Koyomi-sensei sighed and put away her cigarette."
+    },
+    {
+      "offset": 2781,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「じゃあ、まだどうするかとかは決めてないん\n　だな。ま、そんなところだろうから来たんだ\n　が」",
+      "en": "\"So, you haven't decided what you want to do about it? I\ncame to talk about that.\"",
+      "text": "\"So, you haven't decided what you want to do about it? I\ncame to talk about that.\""
+    },
+    {
+      "offset": 2880,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「う〜ん」",
+      "en": "\"Well.\"",
+      "text": "\"Well.\""
+    },
+    {
+      "offset": 2925,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ねぇねぇ、先輩。音夢先輩は寝てるんです\n　か？」",
+      "en": "\"Asakura-sempai, is Nemu-sempai sleeping?\"",
+      "text": "\"Asakura-sempai, is Nemu-sempai sleeping?\""
+    },
+    {
+      "offset": 2981,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「どうかな。さっき起きたと思ったけど、また\n　すぐ寝ちまったし……」",
+      "en": "\"I don't know, she was still up a moment ago.\"",
+      "text": "\"I don't know, she was still up a moment ago.\""
+    },
+    {
+      "offset": 3066,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「そう……ですか」",
+      "en": "\"Koyomi-sensei came to talk to you, but I came to talk to\nNemu-sempai.\"",
+      "text": "\"Koyomi-sensei came to talk to you, but I came to talk to\nNemu-sempai.\""
+    },
+    {
+      "offset": 3091,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やっぱりわんこだな。耳を項垂れて、尻尾がシュ\nンとなっている姿が見えるようだった。",
+      "en": "\"Ha ha...\"",
+      "text": "\"Ha ha...\""
+    },
+    {
+      "offset": 3230,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「え？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 3245,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「寝顔だけでも見れれば落ち着くだろう」",
+      "en": "\"She's in her room upstairs. It may calm you down just to\nsee her sleep.\"",
+      "text": "\"She's in her room upstairs. It may calm you down just to\nsee her sleep.\""
+    },
+    {
+      "offset": 3318,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ラジャーです」",
+      "en": "\"Roger that.\"",
+      "text": "\"Roger that.\""
+    },
+    {
+      "offset": 3350,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当に、飼い主にじゃれつこうとする子犬のよ\nうに美春が部屋を飛び出していく。",
+      "en": "Miharu ran out of the room like a puppy.",
+      "text": "Miharu ran out of the room like a puppy."
+    },
+    {
+      "offset": 3441,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あぁ、あれくらいの性格だと、人生がかった\n　るくなんて感じんだろうな」",
+      "en": "\"I guess she would never feel life sucks with that\ncharacter.\"",
+      "text": "\"I guess she would never feel life sucks with that\ncharacter.\""
+    },
+    {
+      "offset": 3550,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「なぁ、朝倉。正直なところどうなんだ？」",
+      "en": "\"So, Asakura. What's really going on?\"",
+      "text": "\"So, Asakura. What's really going on?\""
+    },
+    {
+      "offset": 3597,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「？　なにがです？」",
+      "en": "\"What are you talking about?\"",
+      "text": "\"What are you talking about?\""
+    },
+    {
+      "offset": 3633,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「いくら音夢の調子が悪いからって、よほどの\n　ことじゃない限り、お前だって顔くらい見せ\n　るだろう」",
+      "en": "\"I know Nemu isn't feeling well, but I'm sure you'd come to\nschool if it wasn't too bad.\"",
+      "text": "\"I know Nemu isn't feeling well, but I'm sure you'd come to\nschool if it wasn't too bad.\""
+    },
+    {
+      "offset": 3738,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3766,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「そんなに悪いのか？」",
+      "en": "\"Is she that bad?\"",
+      "text": "\"Is she that bad?\""
+    },
+    {
+      "offset": 3795,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「まぁまぁ、です」",
+      "en": "\"Well, so-so.\"",
+      "text": "\"Well, so-so.\""
+    },
+    {
+      "offset": 3846,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「素直じゃないな、お前は。頼れよな。これで\n　もお前達より２歳くらい年はとってるんだ」",
+      "en": "\"You're not being honest, man. You should trust me. I'm\nabout two years older than you guys.\"",
+      "text": "\"You're not being honest, man. You should trust me. I'm\nabout two years older than you guys.\""
+    },
+    {
+      "offset": 3938,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「先生……２歳ってのは無理があります」",
+      "en": "\"Koyomi-sensei...... you can't pass with just two years.\"",
+      "text": "\"Koyomi-sensei...... you can't pass with just two years.\""
+    },
+    {
+      "offset": 4009,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「いいんだよ。精神的には」",
+      "en": "\"It's fine. I'm talking about mentally.\"",
+      "text": "\"It's fine. I'm talking about mentally.\""
+    },
+    {
+      "offset": 4042,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「つまり、その頃からまったく成長して――\n　って！」",
+      "en": "\"So, you're saying that you haven't grown up mentally since\nthen...... Ouch!\"",
+      "text": "\"So, you're saying that you haven't grown up mentally since\nthen...... Ouch!\""
+    },
+    {
+      "offset": 4100,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "がす、と足を蹴られた。",
+      "en": "She kicked my leg.",
+      "text": "She kicked my leg."
+    },
+    {
+      "offset": 4155,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ところで灰皿は？」",
+      "en": "\"So, where's my ashtray?\"",
+      "text": "\"So, where's my ashtray?\""
+    },
+    {
+      "offset": 4182,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「……はいはい」",
+      "en": "\"......Fine.\"",
+      "text": "\"......Fine.\""
+    },
+    {
+      "offset": 4214,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "冗談めかして笑いながらソファーを立つ。",
+      "en": "I joked a little and stood up.",
+      "text": "I joked a little and stood up."
+    },
+    {
+      "offset": 4257,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "台所から、昔親父が使っていた灰皿を引っ張り\nだしてきた。",
+      "en": "I found an old ashtray my dad used to use in the kitchen.",
+      "text": "I found an old ashtray my dad used to use in the kitchen."
+    },
+    {
+      "offset": 4319,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どうぞ」",
+      "en": "\"Here you go.\"",
+      "text": "\"Here you go.\""
+    },
+    {
+      "offset": 4367,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ありがと……随分と腰が軽くなったもんだな」",
+      "en": "\"Thanks. I'm amazed by your agility. You weren't that fast\nbefore.\"",
+      "text": "\"Thanks. I'm amazed by your agility. You weren't that fast\nbefore.\""
+    },
+    {
+      "offset": 4418,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「そうですか？」",
+      "en": "\"Really?\"",
+      "text": "\"Really?\""
+    },
+    {
+      "offset": 4450,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「まぁ、正確には表情というか何というか」",
+      "en": "\"How about the agility at night?\"",
+      "text": "\"How about the agility at night?\""
+    },
+    {
+      "offset": 4812,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言って、先生が小さく笑った。",
+      "en": "\"Cough----!\"",
+      "text": "\"Cough----!\""
+    },
+    {
+      "offset": 4851,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「でも、どうして俺と音夢のことが……」",
+      "en": "I coughed in surprise.",
+      "text": "I coughed in surprise."
+    },
+    {
+      "offset": 4905,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ことりに聞いたんだよ」",
+      "en": "\"Hahaha...\"",
+      "text": "\"Hahaha...\""
+    },
+    {
+      "offset": 5035,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりと美春の前でキスしたことを思い出して、\n顔が熱くなる。",
+      "en": "\"That's sexual harassment......\"",
+      "text": "\"That's sexual harassment......\""
+    },
+    {
+      "offset": 5130,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ことり、お前と同じクラスだって喜んでたぞ」",
+      "en": "\"So your sister turned into your girlfriend?\"",
+      "text": "\"So your sister turned into your girlfriend?\""
+    },
+    {
+      "offset": 5181,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「そうなんですか……へぇ、今年はことりと同\n　じクラスだったのか」",
+      "en": "\"I heard it from Kotori too. She was happy to be in the same\nclass with you.\"",
+      "text": "\"I heard it from Kotori too. She was happy to be in the same\nclass with you.\""
+    },
+    {
+      "offset": 5253,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "入学式に出ていないので、クラスも知らなかっ\nたな、そういえば。",
+      "en": "\"Really...... I'm in the same class with Kotori this\nyear...\"",
+      "text": "\"Really...... I'm in the same class with Kotori this\nyear...\""
+    },
+    {
+      "offset": 5347,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「それで、本当にどうする気なんだ」",
+      "en": "I didn't go to the entrance ceremony at all, so I didn't\nknow which class I was in.",
+      "text": "I didn't go to the entrance ceremony at all, so I didn't\nknow which class I was in."
+    },
+    {
+      "offset": 5388,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「そうですね……」",
+      "en": "\"This is bad. So, what are you going to do?\"",
+      "text": "\"This is bad. So, what are you going to do?\""
+    },
+    {
+      "offset": 5413,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今なら、胸のモヤモヤを、少しは形にできるか\nも知れない。",
+      "en": "\"Well...... please don't be mad.\"",
+      "text": "\"Well...... please don't be mad.\""
+    },
+    {
+      "offset": 5475,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……あの、怒らないでくださいね」",
+      "en": "I put my fingers together and looked at the ceiling.",
+      "text": "I put my fingers together and looked at the ceiling."
+    },
+    {
+      "offset": 5516,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "指を合わせて、天井を見上げる。",
+      "en": "\"I think it's okay to do this year again.\"",
+      "text": "\"I think it's okay to do this year again.\""
+    },
+    {
+      "offset": 5632,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 5651,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「このまま１年経ってでも――音夢と一緒に入\n　学して、一緒に卒業していきたいんです」",
+      "en": "\"I don't mind wasting this year, I still want to start and\ngraduate with her.\"",
+      "text": "\"I don't mind wasting this year, I still want to start and\ngraduate with her.\""
+    },
+    {
+      "offset": 5741,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「逃げじゃなくて、俺はあいつを守るって決め\n　たから」",
+      "en": "\"I decided not to run away, but protect her.\"",
+      "text": "\"I decided not to run away, but protect her.\""
+    },
+    {
+      "offset": 5801,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ずっと一緒にいるって、側にいるって、そう\n　決めたから」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 5874,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「…………」",
+      "en": "\"It's making me embarrassed to listen to you.\"",
+      "text": "\"It's making me embarrassed to listen to you.\""
+    },
+    {
+      "offset": 5919,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「聞いてて恥ずかしいな」",
+      "en": "\"Be serious, man.\"",
+      "text": "\"Be serious, man.\""
+    },
+    {
+      "offset": 5950,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「……言ってる方も恥ずかしいですよ」",
+      "en": "\"I see. I won't say anything about you skipping school for a\nwhile. I'll help you with study when you decide to come\nback.\"",
+      "text": "\"I see. I won't say anything about you skipping school for a\nwhile. I'll help you with study when you decide to come\nback.\""
+    },
+    {
+      "offset": 6030,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「仕方ない。もう少しだけお前の休学には目を\n　つぶろう。復学できたら勉強も手伝うよ」",
+      "en": "\"Oh.\"",
+      "text": "\"Oh.\""
+    },
+    {
+      "offset": 6120,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「あ」",
+      "en": "\"I'm leaving Miharu here.\"",
+      "text": "\"I'm leaving Miharu here.\""
+    },
+    {
+      "offset": 6197,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "タバコを灰皿に押し付けて、暦先生が立ち上が\nる。",
+      "en": "Koyomi-sensei stood up as she put out her cigarette on the\nashtray.",
+      "text": "Koyomi-sensei stood up as she put out her cigarette on the\nashtray."
+    },
+    {
+      "offset": 6251,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……音夢に会っていかないんですか？」",
+      "en": "\"Aren't you going to see Nemu?\"",
+      "text": "\"Aren't you going to see Nemu?\""
+    },
+    {
+      "offset": 6305,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「特に言うこともないからな。それに天枷と違っ\n　て、あたしを見れば嫌でも学園のことを思い\n　出す」",
+      "en": "\"I don't have anything to say. And she'll remember about\nschool if she saw me, unlike Miharu.\"",
+      "text": "\"I don't have anything to say. And she'll remember about\nschool if she saw me, unlike Miharu.\""
+    },
+    {
+      "offset": 6408,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「……ありがとうございます」",
+      "en": "\"Thank you......\"",
+      "text": "\"Thank you......\""
+    },
+    {
+      "offset": 6469,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「似合わないから止めろ」",
+      "en": "\"Stop that, it's so unlike you.\"",
+      "text": "\"Stop that, it's so unlike you.\""
+    },
+    {
+      "offset": 6500,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「それ、杉並にも言われました」",
+      "en": "\"Suginami said that to me, too.\"",
+      "text": "\"Suginami said that to me, too.\""
+    },
+    {
+      "offset": 6563,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「あれと一緒にするな」",
+      "en": "\"Don't mention that.\"",
+      "text": "\"Don't mention that.\""
+    },
+    {
+      "offset": 6592,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「あ、そう言えば、眞子と杉並と、さくらはど\n　のクラスになりました？」",
+      "en": "\"Oh, how about Mako, Suginami and Sakura? What class are\nthey in?\"",
+      "text": "\"Oh, how about Mako, Suginami and Sakura? What class are\nthey in?\""
+    },
+    {
+      "offset": 6694,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「水越は別だ。杉並は腐れ縁だな。芳乃は……」",
+      "en": "\"Mizukoshi's in a different class, you can't get rid of\nSuginami even if you tried, and Yoshino......\"",
+      "text": "\"Mizukoshi's in a different class, you can't get rid of\nSuginami even if you tried, and Yoshino......\""
+    },
+    {
+      "offset": 6745,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「どうしました？」",
+      "en": "\"What happened?\"",
+      "text": "\"What happened?\""
+    },
+    {
+      "offset": 6779,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「退学届を出している」",
+      "en": "\"She quit school.\"",
+      "text": "\"She quit school.\""
+    },
+    {
+      "offset": 6823,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢のことを考えたり、感じたりした時とは違\nう感覚が、胸に走った。",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 6904,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「朝倉音夢の休学が決定した日に、芳乃も退学\n　届を出したんだよ」",
+      "en": "\"The day school decided to forbid Nemu from returning,\nYoshino came with a notice of withdrawal.\"",
+      "text": "\"The day school decided to forbid Nemu from returning,\nYoshino came with a notice of withdrawal.\""
+    },
+    {
+      "offset": 6974,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「………………」",
+      "en": "\"What's she doing?\"",
+      "text": "\"What's she doing?\""
+    },
+    {
+      "offset": 7006,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「じゃあ、あたしはこれで帰る。この時期は忙\n　しくてね」",
+      "en": "\"Anyway, I have to go now. I'm pretty busy this time of the\nyear.\"",
+      "text": "\"Anyway, I have to go now. I'm pretty busy this time of the\nyear.\""
+    },
+    {
+      "offset": 7068,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「え……あ、はい」",
+      "en": "\"Okay.\"",
+      "text": "\"Okay.\""
+    },
+    {
+      "offset": 7102,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暦先生を見送った後、俺はソファーに座りなが\nら、小さくため息をついた。",
+      "en": "After Koyomi-sensei left, I sat on the sofa and sighed a\nlittle.",
+      "text": "After Koyomi-sensei left, I sat on the sofa and sighed a\nlittle."
+    },
+    {
+      "offset": 7176,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "２階から、美春の元気な声だけが聞こえていた。",
+      "en": "I heard the happy voice of Miharu coming from upstairs.",
+      "text": "I heard the happy voice of Miharu coming from upstairs."
+    },
+    {
+      "offset": 7227,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 7246,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、いくら耳を澄ましても音夢の声は届か\nなかった。",
+      "en": "But I couldn't hear Nemu's voice even if I tried hard.",
+      "text": "But I couldn't hear Nemu's voice even if I tried hard."
+    },
+    {
+      "offset": 7419,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆暦のお見舞い◆",
+      "en": "◆Visit from Koyomi◆",
+      "text": "◆Visit from Koyomi◆"
+    },
+    {
+      "offset": 7466,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "夜になって、暦先生と美春が家を訪ねてきた。",
+      "en": "Koyomi-sensei and Miharu came to visit at night.",
+      "text": "Koyomi-sensei and Miharu came to visit at night."
+    },
+    {
+      "offset": 7513,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春は音夢のお見舞いだが、暦先生は、俺が学\n園に出てこないことも心配してくれているよう\nだ。",
+      "en": "Miharu came to see Nemu, but Koyomi-sensei was worried about\nme not going back to school.",
+      "text": "Miharu came to see Nemu, but Koyomi-sensei was worried about\nme not going back to school."
+    },
+    {
+      "offset": 7608,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな風に、心配をしてくれる人間がいること\nが嬉しいと思えた日だった。",
+      "en": "I felt happy to realize there are people out there who worry\nabout us.",
+      "text": "I felt happy to realize there are people out there who worry\nabout us."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "545": "Koyomi",
+    "605": "Miharu",
+    "720": "Koyomi",
+    "793": "Koyomi",
+    "913": "Koyomi",
+    "1032": "Miharu",
+    "1439": "Koyomi",
+    "1676": "Miharu",
+    "1853": "Koyomi",
+    "1922": "Koyomi",
+    "2048": "Koyomi",
+    "2152": "Miharu",
+    "2295": "Koyomi",
+    "2352": "Miharu",
+    "2467": "Miharu",
+    "2593": "Miharu",
+    "2644": "Koyomi",
+    "2775": "Koyomi",
+    "2917": "Miharu",
+    "3058": "Miharu",
+    "3222": "Miharu",
+    "3310": "Miharu",
+    "3544": "Koyomi",
+    "3627": "Koyomi",
+    "3760": "Koyomi",
+    "3840": "Koyomi",
+    "4003": "Koyomi",
+    "4149": "Koyomi",
+    "4361": "Koyomi",
+    "4444": "Koyomi",
+    "4899": "Koyomi",
+    "5124": "Koyomi",
+    "5341": "Koyomi",
+    "5626": "Koyomi",
+    "5868": "Koyomi",
+    "5913": "Koyomi",
+    "6024": "Koyomi",
+    "6299": "Koyomi",
+    "6463": "Koyomi",
+    "6557": "Koyomi",
+    "6688": "Koyomi",
+    "6773": "Koyomi",
+    "6898": "Koyomi",
+    "7000": "Koyomi"
+  }
+}

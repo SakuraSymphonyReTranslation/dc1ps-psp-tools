@@ -1,0 +1,691 @@
+{
+  "scene": "script_0054.obj",
+  "dialogues": [
+    {
+      "offset": 155,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あれ……？　ことりじゃないか？」",
+      "en": "\"Hey..? Isn't that Kotori?\"",
+      "text": "\"Hey..? Isn't that Kotori?\""
+    },
+    {
+      "offset": 196,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とある屋台に、ちょっとした行列が出来ている\nのだが、その中にあの帽子が見えた。",
+      "en": "I saw a familiar hat in a queue for a food cart.",
+      "text": "I saw a familiar hat in a queue for a food cart."
+    },
+    {
+      "offset": 280,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ちょっと、行ってみるか」",
+      "en": "\"I'll go check it out.\"",
+      "text": "\"I'll go check it out.\""
+    },
+    {
+      "offset": 358,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ことり？」",
+      "en": "\"Kotori?\"",
+      "text": "\"Kotori?\""
+    },
+    {
+      "offset": 417,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「え……？」",
+      "en": "\"Eh...?\"",
+      "text": "\"Eh...?\""
+    },
+    {
+      "offset": 466,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ああ、朝倉君」",
+      "en": "\"Ahh, Asakura-kun.\"",
+      "text": "\"Ahh, Asakura-kun.\""
+    },
+    {
+      "offset": 489,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の姿を認めると、ことりは相好を崩した。何\nとなく、人をホッとさせる笑みである。",
+      "en": "Her face lit up upon recognizing me. Somehow, her smile is\nso infectious.",
+      "text": "Her face lit up upon recognizing me. Somehow, her smile is\nso infectious."
+    },
+    {
+      "offset": 575,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「何してんの？　買い食い？」",
+      "en": "\"What's up? Buying something to eat?\"",
+      "text": "\"What's up? Buying something to eat?\""
+    },
+    {
+      "offset": 610,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "行列の先の方を見るが、何を買っているのかま\nでは分からない。",
+      "en": "The front of the line is too far from here to see exactly\nwhat's being sold.",
+      "text": "The front of the line is too far from here to see exactly\nwhat's being sold."
+    },
+    {
+      "offset": 706,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「はい。お腹が空いたから、道草です」",
+      "en": "\"Yes. My stomach was rumbling, and it was on the way, so...\"",
+      "text": "\"Yes. My stomach was rumbling, and it was on the way, so...\""
+    },
+    {
+      "offset": 749,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ふ〜ん……」",
+      "en": "\"I see...\"",
+      "text": "\"I see...\""
+    },
+    {
+      "offset": 770,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "風見学園では、ことりはちょっとした有名人だ。\nいわゆる、“学園のアイドル”という奴。",
+      "en": "Kotori's quite famous around Kazami Academy. A lot of people\ncall her the \"School Idol\".",
+      "text": "Kotori's quite famous around Kazami Academy. A lot of people\ncall her the \"School Idol\"."
+    },
+    {
+      "offset": 858,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "でも、買い食いをしている姿なんて、全然、普\n通の女の子だった。",
+      "en": "But just looking at her queueing up to buy food, she looks\nlike a perfectly normal girl.",
+      "text": "But just looking at her queueing up to buy food, she looks\nlike a perfectly normal girl."
+    },
+    {
+      "offset": 926,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、何？　ドネルケバブとか？」",
+      "en": "\"What are you buying? Donel Kebabs?\"",
+      "text": "\"What are you buying? Donel Kebabs?\""
+    },
+    {
+      "offset": 995,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「な、何ですか？　それは」",
+      "en": "\"W, what's that?\"",
+      "text": "\"W, what's that?\""
+    },
+    {
+      "offset": 1028,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「知らん？　でっかい肉をさ、杭で突き刺して、\n　ぐるぐる回しながら焼いて……」",
+      "en": "\"Never heard of it? It's like a big piece of meat with a\nstick pierced through it, then spun around constantly over a\nfire...\"",
+      "text": "\"Never heard of it? It's like a big piece of meat with a\nstick pierced through it, then spun around constantly over a\nfire...\""
+    },
+    {
+      "offset": 1112,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「んで、パンみたいな奴に、野菜と一緒に挟ん\n　で食べるんだけど」",
+      "en": "\"...And it's usually eaten on a piece of bread, with\nvegetables in between.\"",
+      "text": "\"...And it's usually eaten on a piece of bread, with\nvegetables in between.\""
+    },
+    {
+      "offset": 1212,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……そこまでボリュームのある物は、食べら\n　れませんよ」",
+      "en": "\"...I won't be able to eat something so filling now.\"",
+      "text": "\"...I won't be able to eat something so filling now.\""
+    },
+    {
+      "offset": 1306,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「クレープなんです」",
+      "en": "\"I'm ordering a crepe.\"",
+      "text": "\"I'm ordering a crepe.\""
+    },
+    {
+      "offset": 1346,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「最近、美味しいクレープ屋さんが出来たって、\n　学園じゃ有名なんですよ」",
+      "en": "\"Recently, a vendor selling delicious crepes has started\ncoming around this park. It's famous around the school.\"",
+      "text": "\"Recently, a vendor selling delicious crepes has started\ncoming around this park. It's famous around the school.\""
+    },
+    {
+      "offset": 1424,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「へえ……」",
+      "en": "\"Ahhh...\"",
+      "text": "\"Ahhh...\""
+    },
+    {
+      "offset": 1456,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「朝倉君は、クレープ、好きですか？」",
+      "en": "\"Asakura-kun, do you like crepes?\"",
+      "text": "\"Asakura-kun, do you like crepes?\""
+    },
+    {
+      "offset": 1499,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ま、嫌いじゃないけど」",
+      "en": "\"Well, I don't hate them.\"",
+      "text": "\"Well, I don't hate them.\""
+    },
+    {
+      "offset": 1542,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな事を喋っているうちに、ことりの番が回っ\nてきた。",
+      "en": "While talking about that, Kotori's turn at the vendor\nquickly came up.",
+      "text": "While talking about that, Kotori's turn at the vendor\nquickly came up."
+    },
+    {
+      "offset": 1615,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「アイスクレープを３つください」",
+      "en": "\"3 ice crepes, please.\"",
+      "text": "\"3 ice crepes, please.\""
+    },
+    {
+      "offset": 1730,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「はい、朝倉君、どうぞ。私のおごりです」",
+      "en": "\"Alright, Asakura-kun, please take one. The treat's on me.\"",
+      "text": "\"Alright, Asakura-kun, please take one. The treat's on me.\""
+    },
+    {
+      "offset": 1777,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、悪い。さんきゅ」",
+      "en": "\"Ah, thank you.\"",
+      "text": "\"Ah, thank you.\""
+    },
+    {
+      "offset": 1806,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぺこっと頭を下げ、クレープを受け取る。",
+      "en": "With a quick bow, I take one of the crepes.",
+      "text": "With a quick bow, I take one of the crepes."
+    },
+    {
+      "offset": 1851,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん？　誰かと来てたの？」",
+      "en": "\"Hm? Who else is coming here?\"",
+      "text": "\"Hm? Who else is coming here?\""
+    },
+    {
+      "offset": 1914,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「え？　誰かって？」",
+      "en": "\"Eh? Someone?\"",
+      "text": "\"Eh? Someone?\""
+    },
+    {
+      "offset": 1941,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「だって、クレープ」",
+      "en": "\"The extra crepe, I mean.\"",
+      "text": "\"The extra crepe, I mean.\""
+    },
+    {
+      "offset": 1968,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりは、両手にひとつずつのクレープを持っ\nているのだ。",
+      "en": "Kotori was carrying a crepe in each hand.",
+      "text": "Kotori was carrying a crepe in each hand."
+    },
+    {
+      "offset": 2060,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ああ、これは、私が食べるんですよ」",
+      "en": "\"Ahh, I'd be eating both of these.\"",
+      "text": "\"Ahh, I'd be eating both of these.\""
+    },
+    {
+      "offset": 2103,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2122,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ドネルケバブのボリュームと変わらないじゃな\nいか。",
+      "en": "That would be about as filling as a Donel Kebab.",
+      "text": "That would be about as filling as a Donel Kebab."
+    },
+    {
+      "offset": 2208,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……太っちゃうでしょうか？」",
+      "en": "\"...You think this would make me fat?\"",
+      "text": "\"...You think this would make me fat?\""
+    },
+    {
+      "offset": 2245,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「いや、今さら心配されても」",
+      "en": "\"No, just a little worried.\"",
+      "text": "\"No, just a little worried.\""
+    },
+    {
+      "offset": 2310,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「それもそうですね」",
+      "en": "\"Alright then!\"",
+      "text": "\"Alright then!\""
+    },
+    {
+      "offset": 2337,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ベンチにふたりで並んで、クレープにかじりつ\nく。",
+      "en": "We found a bench to sit on, and bit into our crepes.",
+      "text": "We found a bench to sit on, and bit into our crepes."
+    },
+    {
+      "offset": 2391,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おお、割と美味いな」",
+      "en": "\"Ohhh, delicious!\"",
+      "text": "\"Ohhh, delicious!\""
+    },
+    {
+      "offset": 2450,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そうですね〜」",
+      "en": "\"Isn't it~\"",
+      "text": "\"Isn't it~\""
+    },
+    {
+      "offset": 2473,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぱくっと口を付けたクレープの向こうで、こと\nりが目を細める。",
+      "en": "The sweetness of the crepe filled my tastebuds, and I closed\nmy eyes in bliss.",
+      "text": "The sweetness of the crepe filled my tastebuds, and I closed\nmy eyes in bliss."
+    },
+    {
+      "offset": 2537,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "２月に食べるにはちょっと寒いが、味は悪くな\nい。",
+      "en": "Although it's a bit weird eating such a cold thing in\nFeburary, it tastes just as good anytime.",
+      "text": "Although it's a bit weird eating such a cold thing in\nFeburary, it tastes just as good anytime."
+    },
+    {
+      "offset": 2589,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それに、空気は冷たいものの、日差しはそれな\nりに温かいのだった。",
+      "en": "Besides, even though the air is cold, the sun is still\nshining, it's rays showering gently onto the earth.",
+      "text": "Besides, even though the air is cold, the sun is still\nshining, it's rays showering gently onto the earth."
+    },
+    {
+      "offset": 2659,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「でも、こういうのも食べるんだ？　前に、和\n　菓子が好きだって言ってなかったっけ？」",
+      "en": "\"I didn't know you'd eat such a thing though. You've never\nsaid before that you like sweets, have you?\"",
+      "text": "\"I didn't know you'd eat such a thing though. You've never\nsaid before that you like sweets, have you?\""
+    },
+    {
+      "offset": 2762,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「甘い物なら、だいたい好きなんです」",
+      "en": "\"I like sweet stuff of all sorts.\"",
+      "text": "\"I like sweet stuff of all sorts.\""
+    },
+    {
+      "offset": 2835,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「だから、いつだってダイエットが気になるん\n　ですよね」",
+      "en": "\"That's why I'm always thinking of going on a diet, they're\nso fattening...\"",
+      "text": "\"That's why I'm always thinking of going on a diet, they're\nso fattening...\""
+    },
+    {
+      "offset": 2897,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2916,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりの全身に、さらっと視線を走らせた。",
+      "en": "I do a quick once-over of her with my eyes.",
+      "text": "I do a quick once-over of her with my eyes."
+    },
+    {
+      "offset": 2963,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「気にする必要なんて、ないと思うけど」",
+      "en": "\"I don't think you have anything to be worried about.\"",
+      "text": "\"I don't think you have anything to be worried about.\""
+    },
+    {
+      "offset": 3008,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "服の上から見る限り、なかなか立派なプロポー\nションだと思った。",
+      "en": "She pretty much has the perfect body, with perfect\nproportions.",
+      "text": "She pretty much has the perfect body, with perfect\nproportions."
+    },
+    {
+      "offset": 3106,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そうですかね……」",
+      "en": "\"If you say so...\"",
+      "text": "\"If you say so...\""
+    },
+    {
+      "offset": 3133,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "赤い顔をして目を逸らすと、ごにょごにょと呟\nいた。",
+      "en": "She muttered, as her face turned red and she looked away in\nembarassment.",
+      "text": "She muttered, as her face turned red and she looked away in\nembarassment."
+    },
+    {
+      "offset": 3189,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……さて、ゴチになりやした、と」",
+      "en": "\"...Whew, that was good.\"",
+      "text": "\"...Whew, that was good.\""
+    },
+    {
+      "offset": 3260,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「わっ。早いですね〜」",
+      "en": "\"Wow, you're a fast eater~\"",
+      "text": "\"Wow, you're a fast eater~\""
+    },
+    {
+      "offset": 3289,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "縁側の老人のように、ほのぼのと呟く。",
+      "en": "Said just like some old lady.",
+      "text": "Said just like some old lady."
+    },
+    {
+      "offset": 3332,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……いや、ことりが遅いのでは？　……って\n　か、垂れてるし。手」",
+      "en": "\"...Nah, more like you're a slow eater? ...Oh, the crepe's\nfillings are oozing out...\"",
+      "text": "\"...Nah, more like you're a slow eater? ...Oh, the crepe's\nfillings are oozing out...\""
+    },
+    {
+      "offset": 3434,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「わわっ！」",
+      "en": "\"Waah!\"",
+      "text": "\"Waah!\""
+    },
+    {
+      "offset": 3453,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……垂れてるのに気づかないとは、ことりって\nずいぶん鈍いんだな。",
+      "en": "...If she hadn't noticed the food dripping from her hand,\nshe'd have to be quite slow...",
+      "text": "...If she hadn't noticed the food dripping from her hand,\nshe'd have to be quite slow..."
+    },
+    {
+      "offset": 3536,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そ、そんなことないですよ」",
+      "en": "\"T, that's not true!\"",
+      "text": "\"T, that's not true!\""
+    },
+    {
+      "offset": 3571,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「え？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 3599,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、いえ、こっちの話です」",
+      "en": "\"Ah, I mean, what you said just now.\"",
+      "text": "\"Ah, I mean, what you said just now.\""
+    },
+    {
+      "offset": 3634,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そか」",
+      "en": "\"Oh, right.\"",
+      "text": "\"Oh, right.\""
+    },
+    {
+      "offset": 3649,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はことりがクレープを食べ終わるのを待つこ\nとにした。",
+      "en": "We were talking about Kotori being slow on finshing her\ncrepe, I nearly forgot.",
+      "text": "We were talking about Kotori being slow on finshing her\ncrepe, I nearly forgot."
+    },
+    {
+      "offset": 3709,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ゆっくり食べてていいからな」",
+      "en": "\"Just eat it slowly and enjoy it.\"",
+      "text": "\"Just eat it slowly and enjoy it.\""
+    },
+    {
+      "offset": 3759,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「朝倉君」",
+      "en": "\"Asakura-kun...\"",
+      "text": "\"Asakura-kun...\""
+    },
+    {
+      "offset": 3776,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「礼ならいいぞ」",
+      "en": "\"No need to thank me!\"",
+      "text": "\"No need to thank me!\""
+    },
+    {
+      "offset": 3799,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "アイスクレープ、おごってもらったし。",
+      "en": "I've already been treated to an ice crepe anyway.",
+      "text": "I've already been treated to an ice crepe anyway."
+    },
+    {
+      "offset": 3855,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「じゃなくて、あの……もう１個食べてくれま\n　すか？」",
+      "en": "\"No, I mean... do you think you can eat one more?\"",
+      "text": "\"No, I mean... do you think you can eat one more?\""
+    },
+    {
+      "offset": 3915,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……マジか？」",
+      "en": "\"...Seriously?\"",
+      "text": "\"...Seriously?\""
+    },
+    {
+      "offset": 3951,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「だって、このままじゃ……」",
+      "en": "\"Well, at this rate...\"",
+      "text": "\"Well, at this rate...\""
+    },
+    {
+      "offset": 3986,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "早春の日差しは侮り難く、アイスは地中に伸び\nていく根っこのように垂れていく。",
+      "en": "The sun's rays were quickly turning the ice crepe into\nliquid crepe.",
+      "text": "The sun's rays were quickly turning the ice crepe into\nliquid crepe."
+    },
+    {
+      "offset": 4068,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「しゃーないな……」",
+      "en": "\"Can't be helped...\"",
+      "text": "\"Can't be helped...\""
+    },
+    {
+      "offset": 4095,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お腹の辺りをさすりつつ、ことりが食べていた\n方を手に取った。",
+      "en": "I tried to prepare my stomach somehow, and took one of the\ncrepes from Kotori.",
+      "text": "I tried to prepare my stomach somehow, and took one of the\ncrepes from Kotori."
+    },
+    {
+      "offset": 4191,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、そっちは……」",
+      "en": "\"Ah, this one...\"",
+      "text": "\"Ah, this one...\""
+    },
+    {
+      "offset": 4218,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「いや、丸々２個はさすがにキツイから」",
+      "en": "\"...I won't be able to stomach more than two.\"",
+      "text": "\"...I won't be able to stomach more than two.\""
+    },
+    {
+      "offset": 4293,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そ、それもそうですね」",
+      "en": "\"I, I guess so...\"",
+      "text": "\"I, I guess so...\""
+    },
+    {
+      "offset": 4324,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな訳で、がつがつとアイスクレープを消費\nするふたりが居るのだった。",
+      "en": "With that, we continued eating the ice crepes together.",
+      "text": "With that, we continued eating the ice crepes together."
+    },
+    {
+      "offset": 4398,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "うう……寒いよお……。",
+      "en": "Ooh... so cold...",
+      "text": "Ooh... so cold..."
+    },
+    {
+      "offset": 4558,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆ことりとクレープ◆",
+      "en": "◆Kotori and crepes◆",
+      "text": "◆Kotori and crepes◆"
+    },
+    {
+      "offset": 4615,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "桜公園で、ことりに出会った。彼女に、アイス\nクレープをごちそうになってしまった。",
+      "en": "I met Kotori at the Sakura Park, and she treated me to some\nice crepes.",
+      "text": "I met Kotori at the Sakura Park, and she treated me to some\nice crepes."
+    },
+    {
+      "offset": 4699,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それは嬉しいのだが、冬にアイスは寒いよう\n……。",
+      "en": "They were great, but such cold stuff in the winter...",
+      "text": "They were great, but such cold stuff in the winter..."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "407": "Kotori",
+    "456": "Kotori",
+    "696": "Kotori",
+    "985": "Kotori",
+    "1202": "Kotori",
+    "1296": "Kotori",
+    "1336": "Kotori",
+    "1446": "Kotori",
+    "1605": "Kotori",
+    "1720": "Kotori",
+    "1904": "Kotori",
+    "2050": "Kotori",
+    "2198": "Kotori",
+    "2300": "Kotori",
+    "2440": "Kotori",
+    "2752": "Kotori",
+    "2825": "Kotori",
+    "3096": "Kotori",
+    "3250": "Kotori",
+    "3424": "Kotori",
+    "3526": "Kotori",
+    "3589": "Kotori",
+    "3749": "Kotori",
+    "3845": "Kotori",
+    "3941": "Kotori",
+    "4181": "Kotori",
+    "4283": "Kotori"
+  }
+}

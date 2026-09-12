@@ -1,0 +1,726 @@
+{
+  "scene": "script_0679.obj",
+  "dialogues": [
+    {
+      "offset": 233,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「朝ですよ……」",
+      "en": "\"You will be late for school......\"",
+      "text": "\"You will be late for school......\""
+    },
+    {
+      "offset": 267,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「その……起きて下さい……」",
+      "en": "\"Ah......\"",
+      "text": "\"Ah......\""
+    },
+    {
+      "offset": 302,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「ＺＺ……」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 429,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ゆさゆさ。ゆさゆさ。",
+      "en": "Shake, shake. Shake, shake.",
+      "text": "Shake, shake. Shake, shake."
+    },
+    {
+      "offset": 456,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん、う〜ん……」",
+      "en": "\"Umm... mmm......\"",
+      "text": "\"Umm... mmm......\""
+    },
+    {
+      "offset": 481,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あと５分……あと５分したら起きるから……」",
+      "en": "\"5 more minutes...... Give me 5 more minutes......\"",
+      "text": "\"5 more minutes...... Give me 5 more minutes......\""
+    },
+    {
+      "offset": 543,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「えと……５分したら……起きてくれるんです\n　ね？」",
+      "en": "\"You will wake up in...... 5 minutes?\"",
+      "text": "\"You will wake up in...... 5 minutes?\""
+    },
+    {
+      "offset": 601,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "（……ん？）",
+      "en": "(......Mm?\")",
+      "text": "(......Mm?\")"
+    },
+    {
+      "offset": 620,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眠気を追い出す揺れが止まった。簡単に引き下\nがるなんて、変だな。",
+      "en": "The shaking that was trying to shake off my sleepiness\nstops. It's strange that she gave up so easily.",
+      "text": "The shaking that was trying to shake off my sleepiness\nstops. It's strange that she gave up so easily."
+    },
+    {
+      "offset": 688,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつもの音夢なら、５秒と言っても却下してく\nるはずなのだが……。",
+      "en": "Usually Nemu will never let me have the 5 more minutes I\nwant.",
+      "text": "Usually Nemu will never let me have the 5 more minutes I\nwant."
+    },
+    {
+      "offset": 756,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、数分をめぐって、骨肉のバトルが展開\nされるはずなのだが……。",
+      "en": "And then, we usually have a few minutes of battle\nafterwards......",
+      "text": "And then, we usually have a few minutes of battle\nafterwards......"
+    },
+    {
+      "offset": 830,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……あ」",
+      "en": "\"......Ah.\"",
+      "text": "\"......Ah.\""
+    },
+    {
+      "offset": 906,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「え……？」",
+      "en": "\"What......?\"",
+      "text": "\"What......?\""
+    },
+    {
+      "offset": 953,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あの……まだ、５分経ってませんけれど……」",
+      "en": "\"Ah...... it's not 5 minutes yet......\"",
+      "text": "\"Ah...... it's not 5 minutes yet......\""
+    },
+    {
+      "offset": 1004,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「いやあ、やっぱ起きた方がいいかなと思って」",
+      "en": "\"Yeah, but I thought I should wake up anyway.\"",
+      "text": "\"Yeah, but I thought I should wake up anyway.\""
+    },
+    {
+      "offset": 1055,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「おはよ、頼子さん」",
+      "en": "\"Good morning, Yoriko-san.\"",
+      "text": "\"Good morning, Yoriko-san.\""
+    },
+    {
+      "offset": 1110,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ、はい、おはようございます……」",
+      "en": "\"Ah, yes. Good morning......\"",
+      "text": "\"Ah, yes. Good morning......\""
+    },
+    {
+      "offset": 1164,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「では……」",
+      "en": "\"Well......\"",
+      "text": "\"Well......\""
+    },
+    {
+      "offset": 1195,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "軽く会釈をして、頼子さんは部屋を出ていった。",
+      "en": "She bows and walks out of my room.",
+      "text": "She bows and walks out of my room."
+    },
+    {
+      "offset": 1246,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さて……と」",
+      "en": "\"Okay......\"",
+      "text": "\"Okay......\""
+    },
+    {
+      "offset": 1267,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくさくっと、学生服に着替えていく。",
+      "en": "I quickly change into my school uniform.",
+      "text": "I quickly change into my school uniform."
+    },
+    {
+      "offset": 1310,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「にしても、また音夢と間違えそうになったな。\n　危なかった……」",
+      "en": "\"I was about to call her Nemu by mistake, again. That was\nclose......\"",
+      "text": "\"I was about to call her Nemu by mistake, again. That was\nclose......\""
+    },
+    {
+      "offset": 1380,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頭がぼんやりしていると、ついつい１０年来の\n習性が顔を出す。気をつけないと。",
+      "en": "When I'm half asleep, the response I've been accustomed to\ngiving for 10 years comes out. I've to be careful...",
+      "text": "When I'm half asleep, the response I've been accustomed to\ngiving for 10 years comes out. I've to be careful..."
+    },
+    {
+      "offset": 1485,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おはよー」",
+      "en": "\"Good morning!\"",
+      "text": "\"Good morning!\""
+    },
+    {
+      "offset": 1537,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「おはようございます」",
+      "en": "\"Good morning.\"",
+      "text": "\"Good morning.\""
+    },
+    {
+      "offset": 1566,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "（う……）",
+      "en": "(Ug......)",
+      "text": "(Ug......)"
+    },
+    {
+      "offset": 1583,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "部屋に一歩入った途端、その光景に半歩退いた。\nテーブルの上には、あのでかい鍋が。",
+      "en": "As I take one step into the living room and look at the\ntable, I step back. The big pot's there on the table.",
+      "text": "As I take one step into the living room and look at the\ntable, I step back. The big pot's there on the table."
+    },
+    {
+      "offset": 1667,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の視線につられたのか、頼子さんも鍋に目を\n向けた。",
+      "en": "She looks at me looking at the pot and she looks at it, too.",
+      "text": "She looks at me looking at the pot and she looks at it, too."
+    },
+    {
+      "offset": 1753,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あの……まだ、たくさん残ってます……」",
+      "en": "\"Ah...... we still have a lot left......\"",
+      "text": "\"Ah...... we still have a lot left......\""
+    },
+    {
+      "offset": 1800,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何ともしょんぼりした顔でそう告げた。",
+      "en": "She says sadly.",
+      "text": "She says sadly."
+    },
+    {
+      "offset": 1843,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ああ、うん。だろうね」",
+      "en": "\"Oh, yes. We do.\"",
+      "text": "\"Oh, yes. We do.\""
+    },
+    {
+      "offset": 1874,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふたりの視線を引きつける力がある以上、その\n質量はなかなかのものだろう。",
+      "en": "The amount of curry in the pot is so much that it easily\ncatches two people's eyes and doesn't let them go.",
+      "text": "The amount of curry in the pot is so much that it easily\ncatches two people's eyes and doesn't let them go."
+    },
+    {
+      "offset": 1952,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まあ、嫌いじゃないし、俺は朝からでも問題\n　なくイケルけど」",
+      "en": "\"I like curry, so I can eat it in a morning.\"",
+      "text": "\"I like curry, so I can eat it in a morning.\""
+    },
+    {
+      "offset": 2048,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ、それじゃ温めますね……」",
+      "en": "\"Ah, then I will warm it up......\"",
+      "text": "\"Ah, then I will warm it up......\""
+    },
+    {
+      "offset": 2085,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「鍋は俺が運ぶよ」",
+      "en": "\"I'll carry the pot for you.\"",
+      "text": "\"I'll carry the pot for you.\""
+    },
+    {
+      "offset": 2110,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鍋の形に両腕を広げた頼子さんを、手で押しと\nどめる。",
+      "en": "She was about to lift the pot but I push her away from it.",
+      "text": "She was about to lift the pot but I push her away from it."
+    },
+    {
+      "offset": 2180,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「よっと……お？」",
+      "en": "\"Okay...... oh?\"",
+      "text": "\"Okay...... oh?\""
+    },
+    {
+      "offset": 2205,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（お、重い……）",
+      "en": "(It's heavy......)",
+      "text": "(It's heavy......)"
+    },
+    {
+      "offset": 2228,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふらふらと台所に向かいつつ思った。",
+      "en": "I totter toward the kitchen.",
+      "text": "I totter toward the kitchen."
+    },
+    {
+      "offset": 2267,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "二人で食べきるのに、いったい何日かかるんだ\nろうな……。",
+      "en": "How many days do we have to eat this for......?",
+      "text": "How many days do we have to eat this for......?"
+    },
+    {
+      "offset": 2377,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いただきま〜す」",
+      "en": "\"Let's eat!\"",
+      "text": "\"Let's eat!\""
+    },
+    {
+      "offset": 2435,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「いただきます……」",
+      "en": "\"Yes, let's......\"",
+      "text": "\"Yes, let's......\""
+    },
+    {
+      "offset": 2462,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「……お」",
+      "en": "\"......oh.\"",
+      "text": "\"......oh.\""
+    },
+    {
+      "offset": 2507,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あら……？」",
+      "en": "\"Oh......?\"",
+      "text": "\"Oh......?\""
+    },
+    {
+      "offset": 2528,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "カレーを口に含み、二人、顔を見合わせる。",
+      "en": "We both take our first mouthful of curry and look at each\nother.",
+      "text": "We both take our first mouthful of curry and look at each\nother."
+    },
+    {
+      "offset": 2575,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「何か……昨日より美味しくない？」",
+      "en": "\"Don't you think...... it tastes better than last night?\"",
+      "text": "\"Don't you think...... it tastes better than last night?\""
+    },
+    {
+      "offset": 2644,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ、は、はい……私もそう思いました……」",
+      "en": "\"Ah, y-yes...... I think so too......\"",
+      "text": "\"Ah, y-yes...... I think so too......\""
+    },
+    {
+      "offset": 2693,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「へえ、カレーって、日を置くと旨くなるって\n　ほんとだったんだな」",
+      "en": "\"Wow, it's true that the curry tastes better when you let it\nsleep a night.\"",
+      "text": "\"Wow, it's true that the curry tastes better when you let it\nsleep a night.\""
+    },
+    {
+      "offset": 2765,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "噂には聞いていたが、まさかここまでとは。\n思わず、妖精さんの存在を疑ってしまうぞ。",
+      "en": "I'd heard it as a rumor before, but I'm surprised that it's\nso true. That makes me think that I should probably believe\nelves exist too...",
+      "text": "I'd heard it as a rumor before, but I'm surprised that it's\nso true. That makes me think that I should probably believe\nelves exist too..."
+    },
+    {
+      "offset": 2881,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「カレーというのは、そういうものなのでしょ\n　うか？」",
+      "en": "\"Do any kind of curries get this tasty after a day......?\"",
+      "text": "\"Do any kind of curries get this tasty after a day......?\""
+    },
+    {
+      "offset": 2941,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「どうだろ？　俺も、まともなカレーを食べる\n　なんて、久しぶりだしな……」",
+      "en": "\"I'm not sure. I haven't had real curry for a long\ntime......\"",
+      "text": "\"I'm not sure. I haven't had real curry for a long\ntime......\""
+    },
+    {
+      "offset": 3021,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「レトルトカレーじゃ、作り置きを食べる、な\n　んて状況になるはずないからね」",
+      "en": "\"I always eat retort curry, so I don't meet situations to\nlet it sit a day, you know.\"",
+      "text": "\"I always eat retort curry, so I don't meet situations to\nlet it sit a day, you know.\""
+    },
+    {
+      "offset": 3114,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あの……そういうのばかり、食べていたんで\n　すか……？」",
+      "en": "\"Ah...... so you have been eating those retort and frozen\nfoods......?\"",
+      "text": "\"Ah...... so you have been eating those retort and frozen\nfoods......?\""
+    },
+    {
+      "offset": 3178,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「ああ、まあね。まともに料理する奴が、家の\n　中に居なかったし……」",
+      "en": "\"Yeah, I have. There was no one who could cook in this\nhouse......\"",
+      "text": "\"Yeah, I have. There was no one who could cook in this\nhouse......\""
+    },
+    {
+      "offset": 3263,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あの……ご両親は？」",
+      "en": "\"Ah, what about your parents?\"",
+      "text": "\"Ah, what about your parents?\""
+    },
+    {
+      "offset": 3292,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「ああ、ふたりとも海外。働いてるんだわ」",
+      "en": "\"They're working overseas now.\"",
+      "text": "\"They're working overseas now.\""
+    },
+    {
+      "offset": 3367,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「え……？」",
+      "en": "\"What...?\"",
+      "text": "\"What...?\""
+    },
+    {
+      "offset": 3386,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "余程驚きだったのか、スプーン片手に固まって\nしまった。ゴルゴンにでもなった気分。",
+      "en": "She looks very surprised, and stops moving with a spoon in\nher hand.",
+      "text": "She looks very surprised, and stops moving with a spoon in\nher hand."
+    },
+    {
+      "offset": 3472,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そんなに意外かな？」",
+      "en": "\"Is it so abnormal to have parents working overseas?\"",
+      "text": "\"Is it so abnormal to have parents working overseas?\""
+    },
+    {
+      "offset": 3529,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ、はい……」",
+      "en": "\"Ah, yes......\"",
+      "text": "\"Ah, yes......\""
+    },
+    {
+      "offset": 3552,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "スプーンを静かに置き、こくりと頷いた。",
+      "en": "She puts down her spoon quietly and nods.",
+      "text": "She puts down her spoon quietly and nods."
+    },
+    {
+      "offset": 3597,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そう？　ま、確かに、どこぞのドラマみたい\n　ではあるけれど」",
+      "en": "\"Really? I mean, it does sound like a family in one of those\ncrazy complicated-story dramas.\"",
+      "text": "\"Really? I mean, it does sound like a family in one of those\ncrazy complicated-story dramas.\""
+    },
+    {
+      "offset": 3665,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "血の繋がらない妹も居るしな。これで幼なじみ\nが朝起こしに来てくれたら完璧だ。",
+      "en": "Yeah, I have a step-sister and if a childhood friend of mine\ncomes to my room to wake me up in the morning, it does\nreally sound like a drama.",
+      "text": "Yeah, I have a step-sister and if a childhood friend of mine\ncomes to my room to wake me up in the morning, it does\nreally sound like a drama."
+    },
+    {
+      "offset": 3747,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まあ、最初は寂しいような気もしたけどね。\n　でも、すぐに慣れたし」",
+      "en": "\"I was a little bit sad at first but I'm used to it now.\"",
+      "text": "\"I was a little bit sad at first but I'm used to it now.\""
+    },
+    {
+      "offset": 3821,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それに俺の場合、連絡を着けたければいつだっ\nて着けられる。生きて、この世に居るのは確か\nなのだから。",
+      "en": "And if I want, I can call them any time. They're alive and\nliving in this world for sure.",
+      "text": "And if I want, I can call them any time. They're alive and\nliving in this world for sure."
+    },
+    {
+      "offset": 3954,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「そんな……」",
+      "en": "\"But......\"",
+      "text": "\"But......\""
+    },
+    {
+      "offset": 3986,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「そんなもの……でしょうか……？」",
+      "en": "\"But... is that as easy as you say......?\"",
+      "text": "\"But... is that as easy as you say......?\""
+    },
+    {
+      "offset": 4027,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「だと思うよ？」",
+      "en": "\"I think so.\"",
+      "text": "\"I think so.\""
+    },
+    {
+      "offset": 4078,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 4125,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「そう……ですか」",
+      "en": "\"If you say so......\"",
+      "text": "\"If you say so......\""
+    },
+    {
+      "offset": 4150,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "（どうしたんだろうな……？）",
+      "en": "(What's the matter with her......?)",
+      "text": "(What's the matter with her......?)"
+    },
+    {
+      "offset": 4185,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "（あ、もしかして……）",
+      "en": "(Oh, maybe......)",
+      "text": "(Oh, maybe......)"
+    },
+    {
+      "offset": 4214,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "猫をやっていた時の、飼い主でも思いだしてい\nるんだろうか？",
+      "en": "Maybe she misses her owner from when she used to be a cat.",
+      "text": "Maybe she misses her owner from when she used to be a cat."
+    },
+    {
+      "offset": 4288,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あの夢が、カレーの湯気の中に浮かび上がる。",
+      "en": "The dream comes back up to my mind like steam rising from\nthe curry.",
+      "text": "The dream comes back up to my mind like steam rising from\nthe curry."
+    },
+    {
+      "offset": 4335,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "猫に向かって、“頼子”と語りかけていた、お\n嬢様然とした少女。",
+      "en": "There was a rich girl who was talking to a cat, calling it\n'Yoriko'.",
+      "text": "There was a rich girl who was talking to a cat, calling it\n'Yoriko'."
+    },
+    {
+      "offset": 4401,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "かったるい事になりそうで、｛あ／敢｝えて意識から締\nめ出していたのだが……。",
+      "en": "I have been trying to shut the dream out from my mind\nbecause I thought it would only bring trouble, but......",
+      "text": "I have been trying to shut the dream out from my mind\nbecause I thought it would only bring trouble, but......"
+    },
+    {
+      "offset": 4481,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あの少女が見ていた人物は、もしかして俺なの\nだろうか？",
+      "en": "Was it me the girl was watching from the window?",
+      "text": "Was it me the girl was watching from the window?"
+    },
+    {
+      "offset": 4541,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（はあ……）",
+      "en": "(Sigh......)",
+      "text": "(Sigh......)"
+    },
+    {
+      "offset": 4560,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "与ひょうとつうなら、話は単純で、しかも美し\nかったのに。",
+      "en": "If it was a crane and I was the nice guy from The Grateful\nCrane, the story would have been more simple and beautiful.",
+      "text": "If it was a crane and I was the nice guy from The Grateful\nCrane, the story would have been more simple and beautiful."
+    },
+    {
+      "offset": 4620,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "招き猫だとか何だとかが絡んでくるとなると、\nこれは……。",
+      "en": "But when it's a beckoning cat and me as... whatever I am,\nwhat's gonna happen?",
+      "text": "But when it's a beckoning cat and me as... whatever I am,\nwhat's gonna happen?"
+    },
+    {
+      "offset": 4682,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（初音島に、黄色いリボンの女の子は、何人い\n　るんだろうな……？）",
+      "en": "(How many girls with a yellow ribbon are there in Hatsune\nIsland?)",
+      "text": "(How many girls with a yellow ribbon are there in Hatsune\nIsland?)"
+    },
+    {
+      "offset": 4754,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それが多い事を願いつつ、機械的にスプーンを\n口に運ぶ俺が居るのだった。",
+      "en": "Hoping there are a lot, I automatically keep lifting the\nspoon to my mouth.",
+      "text": "Hoping there are a lot, I automatically keep lifting the\nspoon to my mouth."
+    },
+    {
+      "offset": 4946,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆黄色いリボンの女の子◆",
+      "en": "◆Junichi◆",
+      "text": "◆Junichi◆"
+    },
+    {
+      "offset": 4999,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "朝、頼子さんに起こしてもらい、彼女と一緒に\n朝食を食べる。",
+      "en": "\"Zzz...... zzz......\"",
+      "text": "\"Zzz...... zzz......\""
+    },
+    {
+      "offset": 5061,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺と話している途中で、前の飼い主のことでも\n思い出したのか、切なそうな表情を見せる頼子\nさん。",
+      "en": "\"Good morning......\"",
+      "text": "\"Good morning......\""
+    },
+    {
+      "offset": 5158,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はふと思い至った。前に見せられたあの少女\nの夢、あの少女が夢見ていた人物はもしかして\n俺なのだろうか？",
+      "en": "\"Please...... wake up......\"",
+      "text": "\"Please...... wake up......\""
+    },
+    {
+      "offset": 5265,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "初音島に黄色いリボンの女の子が多いことを切\nに願った。",
+      "en": "\"Zzz, zzz......\"",
+      "text": "\"Zzz, zzz......\""
+    }
+  ],
+  "choices": [],
+  "names": {
+    "225": "Yoriko",
+    "259": "Yoriko",
+    "535": "Yoriko",
+    "898": "Yoriko",
+    "945": "Yoriko",
+    "1102": "Yoriko",
+    "1156": "Yoriko",
+    "1529": "Yoriko",
+    "1745": "Yoriko",
+    "2040": "Yoriko",
+    "2427": "Yoriko",
+    "2499": "Yoriko",
+    "2636": "Yoriko",
+    "2873": "Yoriko",
+    "3106": "Yoriko",
+    "3255": "Yoriko",
+    "3359": "Yoriko",
+    "3521": "Yoriko",
+    "3946": "Yoriko",
+    "3978": "Yoriko",
+    "4070": "Yoriko",
+    "4117": "Yoriko"
+  }
+}

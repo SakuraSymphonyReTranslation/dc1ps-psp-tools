@@ -1,0 +1,633 @@
+{
+  "scene": "script_0568.obj",
+  "dialogues": [
+    {
+      "offset": 185,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふぁ〜……よく寝すぎた」",
+      "en": "\"Oh, I slept well.\"",
+      "text": "\"Oh, I slept well.\""
+    },
+    {
+      "offset": 218,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "朝の心地よい光に背伸びしながら、新聞受けに\n手をさしこむ。",
+      "en": "I stretched my body in the morning sun, and reached my hand\ninto the mailbox.",
+      "text": "I stretched my body in the morning sun, and reached my hand\ninto the mailbox."
+    },
+    {
+      "offset": 282,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………ん？」",
+      "en": "\"............Huh?\"",
+      "text": "\"............Huh?\""
+    },
+    {
+      "offset": 338,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「もう私がとりました」",
+      "en": "\"I got it already.\"",
+      "text": "\"I got it already.\""
+    },
+    {
+      "offset": 367,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "きゅっ、とリボンを整えて音夢が笑う。",
+      "en": "Nemu smiled as she fixed her ribbon on her uniform.",
+      "text": "Nemu smiled as she fixed her ribbon on her uniform."
+    },
+    {
+      "offset": 410,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……俺の仕事をとるなよ」",
+      "en": "\"Don't take my job away......\"",
+      "text": "\"Don't take my job away......\""
+    },
+    {
+      "offset": 454,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そういうなら、春休みも早起きしてください\n　よ。私だってテレビ欄見たいんだから」",
+      "en": "\"Then you have to wake up early during the break too. I\nwanted to read the paper.\"",
+      "text": "\"Then you have to wake up early during the break too. I\nwanted to read the paper.\""
+    },
+    {
+      "offset": 542,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「お前、テレビ欄と４コマ漫画しか読んでない\n　タイプだな！？」",
+      "en": "\"You only read the television section and the comics.\"",
+      "text": "\"You only read the television section and the comics.\""
+    },
+    {
+      "offset": 610,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "びし、と音夢の額を指差す。",
+      "en": "I pointed her forehead.",
+      "text": "I pointed her forehead."
+    },
+    {
+      "offset": 671,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ちゃんと芸能も見てますぅ。それと、おでこ\n　にばっかり指さしたり頭突きしたりしないで\n　よ」",
+      "en": "\"Don't you point at me like that, I read the gossip section\ntoo.\"",
+      "text": "\"Don't you point at me like that, I read the gossip section\ntoo.\""
+    },
+    {
+      "offset": 770,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……いや、それは、全然まったくちゃんとじゃ\n　ないだろう」",
+      "en": "\"......That's all you read?\"",
+      "text": "\"......That's all you read?\""
+    },
+    {
+      "offset": 836,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかも素で返されてかなり寂しいぞ俺は。",
+      "en": "That's pretty bad that she's proud of it.",
+      "text": "That's pretty bad that she's proud of it."
+    },
+    {
+      "offset": 909,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「う〜ん。でも、兄さんが朝に起きてるなんて\n　珍しいね。せっかく起こさないように静かに\n　してたのに」",
+      "en": "\"It's so weird that you're up so early today. I was trying\nto be quiet so I didn't wake you up.\"",
+      "text": "\"It's so weird that you're up so early today. I was trying\nto be quiet so I didn't wake you up.\""
+    },
+    {
+      "offset": 1016,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いや、昨日は寝たのが早くてな。はっきり言っ\n　て年寄りレベルの起床だった」",
+      "en": "\"Yeah, I went to sleep early last night. I woke up so early\nI thought I was an old man.\"",
+      "text": "\"Yeah, I went to sleep early last night. I woke up so early\nI thought I was an old man.\""
+    },
+    {
+      "offset": 1126,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「まぁ、よく眠れたんなら良かったじゃない」",
+      "en": "\"Well, it's a good thing you slept well.\"",
+      "text": "\"Well, it's a good thing you slept well.\""
+    },
+    {
+      "offset": 1203,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「それよりパジャマのまま外に出てこないでく\n　ださい。近所の人に見られたら恥ずかしいじゃ\n　ないですか」",
+      "en": "\"Anyways, don't come out in your pajamas like that. It's\nembarrassing.\"",
+      "text": "\"Anyways, don't come out in your pajamas like that. It's\nembarrassing.\""
+    },
+    {
+      "offset": 1312,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "悪戯なのだろうが、久しぶりに音夢が裏モード\nの声をあげる。",
+      "en": "I think she's just kidding around.",
+      "text": "I think she's just kidding around."
+    },
+    {
+      "offset": 1376,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「パジャマってなぁ」",
+      "en": "\"Pajamas......\"",
+      "text": "\"Pajamas......\""
+    },
+    {
+      "offset": 1403,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ざっと全身を確認してため息をつく。",
+      "en": "I signed looking at my outfit.",
+      "text": "I signed looking at my outfit."
+    },
+    {
+      "offset": 1444,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そりゃ、お前があのシャツ姿で外に出てたら\n　犯罪だろうけどね」",
+      "en": "\"Well, it would be a crime if you went outside in your shirt\npajamas.\"",
+      "text": "\"Well, it would be a crime if you went outside in your shirt\npajamas.\""
+    },
+    {
+      "offset": 1542,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「わわわ！　出ない出ない、あんな恥ずかしい\n　姿で外になんて絶対出ない！」",
+      "en": "\"Wow! No, no. I won't go outside in that.\"",
+      "text": "\"Wow! No, no. I won't go outside in that.\""
+    },
+    {
+      "offset": 1622,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「恥ずかしいという自覚はあったのか……」",
+      "en": "\"So, you think it's embarrassing......\"",
+      "text": "\"So, you think it's embarrassing......\""
+    },
+    {
+      "offset": 1697,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「当たり前じゃないの！　ぷんぷん！」",
+      "en": "\"Of course!\"",
+      "text": "\"Of course!\""
+    },
+    {
+      "offset": 1740,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "腰に手をあてて音夢が頬をふくらませる。",
+      "en": "Nemu placed her hands on her hip and puffed out her cheeks.",
+      "text": "Nemu placed her hands on her hip and puffed out her cheeks."
+    },
+    {
+      "offset": 1785,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「自分でぷんぷん言ってたら切りないぞ」",
+      "en": "\"Okay, fine. I got it.\"",
+      "text": "\"Okay, fine. I got it.\""
+    },
+    {
+      "offset": 1830,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そもそもこいつ、その恥ずかしい姿で俺の前に\nいることに気づいてないらしいな。",
+      "en": "Maybe she doesn't realize that she's hanging out in front of\nme with that embarrassing pajama of hers.",
+      "text": "Maybe she doesn't realize that she's hanging out in front of\nme with that embarrassing pajama of hers."
+    },
+    {
+      "offset": 1912,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「でも、調子は回復してるらしいな」",
+      "en": "\"You seem to be fine.\"",
+      "text": "\"You seem to be fine.\""
+    },
+    {
+      "offset": 1981,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ん？　うん。兄さんのおかげかな？」",
+      "en": "\"Yeah? Thanks to you.\"",
+      "text": "\"Yeah? Thanks to you.\""
+    },
+    {
+      "offset": 2024,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「俺？」",
+      "en": "\"Me?\"",
+      "text": "\"Me?\""
+    },
+    {
+      "offset": 2067,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そ。兄さんが一生懸命、私のことを心配して\n　くれたから治ったんだよ。きっと」",
+      "en": "\"Yes. I think I got better because you worried about me. I'm\nsure.\"",
+      "text": "\"Yes. I think I got better because you worried about me. I'm\nsure.\""
+    },
+    {
+      "offset": 2189,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さわっ、とスカートを翻して音夢が微笑む。",
+      "en": "Nemu smiled flaring her skirt.",
+      "text": "Nemu smiled flaring her skirt."
+    },
+    {
+      "offset": 2236,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2255,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「は？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 2298,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そ、そこで真面目に反応しないでよ！」",
+      "en": "\"Don't be so serious!\"",
+      "text": "\"Don't be so serious!\""
+    },
+    {
+      "offset": 2343,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いいから行けよ。会議に遅刻するぞ」",
+      "en": "\"Go! You'll be late for the meeting.\"",
+      "text": "\"Go! You'll be late for the meeting.\""
+    },
+    {
+      "offset": 2414,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、うん、そうだね」",
+      "en": "\"Right.\"",
+      "text": "\"Right.\""
+    },
+    {
+      "offset": 2443,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ちゃんと真っ直ぐ帰ってこいよ」",
+      "en": "\"Come straight home when you're done.\"",
+      "text": "\"Come straight home when you're done.\""
+    },
+    {
+      "offset": 2491,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、家に戻ろうとして、なにかが服にひっかかっ\nた。",
+      "en": "And I entered the house, but something got caught in my\nclothes.",
+      "text": "And I entered the house, but something got caught in my\nclothes."
+    },
+    {
+      "offset": 2558,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ……ごめん」",
+      "en": "\"Ah...... Sorry.\"",
+      "text": "\"Ah...... Sorry.\""
+    },
+    {
+      "offset": 2581,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「お前はな……」",
+      "en": "\"What is it?\"",
+      "text": "\"What is it?\""
+    },
+    {
+      "offset": 2604,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつものように、振り返ると音夢が服のすそを\nつまんでいる。",
+      "en": "I turned around and found Nemu hanging onto my clothes.",
+      "text": "I turned around and found Nemu hanging onto my clothes."
+    },
+    {
+      "offset": 2701,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「わざとじゃないよ！　悪気があるわけでもな\n　いからね！」",
+      "en": "\"I didn't do it on purpose.\"",
+      "text": "\"I didn't do it on purpose.\""
+    },
+    {
+      "offset": 2765,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「この場合は、反射のほうが嫌だと思うんだが。\n　なんか忘れ物か？」",
+      "en": "\"What? It seems like a reflex, but did you forget\nsomething?\"",
+      "text": "\"What? It seems like a reflex, but did you forget\nsomething?\""
+    },
+    {
+      "offset": 2865,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え……いや、その……なんでもないんだけど」",
+      "en": "\"Ah...... Well......\"",
+      "text": "\"Ah...... Well......\""
+    },
+    {
+      "offset": 2916,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢が服から離した手を振る。",
+      "en": "Nemu waved her hand as she let go of me.",
+      "text": "Nemu waved her hand as she let go of me."
+    },
+    {
+      "offset": 2951,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「じゃあ行けよ。俺は優雅な朝飯を……」",
+      "en": "\"Well then, go. I'm going to have a wonderful\nbreakfast......\"",
+      "text": "\"Well then, go. I'm going to have a wonderful\nbreakfast......\""
+    },
+    {
+      "offset": 2996,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "グィ――。",
+      "en": "Cling.",
+      "text": "Cling."
+    },
+    {
+      "offset": 3013,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3043,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ……あの、ごめん」",
+      "en": "\"S... Sorry.\"",
+      "text": "\"S... Sorry.\""
+    },
+    {
+      "offset": 3072,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「これは、俺にパジャマのまま学園まで付き合\n　えという無言の訴えか？」",
+      "en": "\"Does this mean you want me to walk you to school in my\npajamas?\"",
+      "text": "\"Does this mean you want me to walk you to school in my\npajamas?\""
+    },
+    {
+      "offset": 3159,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そうじゃなくて……その……日課」",
+      "en": "\"No.........the daily ritual...\"",
+      "text": "\"No.........the daily ritual...\""
+    },
+    {
+      "offset": 3200,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「日課？」",
+      "en": "\"The daily ritual?\"",
+      "text": "\"The daily ritual?\""
+    },
+    {
+      "offset": 3228,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……うんうん」",
+      "en": "\"Uh-huh.\"",
+      "text": "\"Uh-huh.\""
+    },
+    {
+      "offset": 3251,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「日課って、あれだよな」",
+      "en": "\"You mean... that?\"",
+      "text": "\"You mean... that?\""
+    },
+    {
+      "offset": 3310,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そうだよ、あれだよ」",
+      "en": "\"Yes. That.\"",
+      "text": "\"Yes. That.\""
+    },
+    {
+      "offset": 3339,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "前髪を持ち上げて音夢が照れている。",
+      "en": "She lifted her bangs and looked shy.",
+      "text": "She lifted her bangs and looked shy."
+    },
+    {
+      "offset": 3380,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「止めたんじゃないのか？　それに、見るから\n　に調子がいいんだが……」",
+      "en": "\"I thought we stopped that. And you look fine to me......\"",
+      "text": "\"I thought we stopped that. And you look fine to me......\""
+    },
+    {
+      "offset": 3467,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いいからいいから」",
+      "en": "\"Come on.\"",
+      "text": "\"Come on.\""
+    },
+    {
+      "offset": 3494,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ツン、と俺の胸に手をあて、背伸びをしてじっ\nと目を見つめる。",
+      "en": "She touched my chest and stood up on her toes looking at me.",
+      "text": "She touched my chest and stood up on her toes looking at me."
+    },
+    {
+      "offset": 3560,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……日課、ね」",
+      "en": "\"......Okay.\"",
+      "text": "\"......Okay.\""
+    },
+    {
+      "offset": 3594,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……日課にしようよ」",
+      "en": "\"Let's start doing it every day again.\"",
+      "text": "\"Let's start doing it every day again.\""
+    },
+    {
+      "offset": 3640,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "小さな｛ささや／囁｝きを耳にしながら、そっと音夢の肩を\n抱いて身体をひきよせる。",
+      "en": "I held her shoulders and pulled her toward me as she\nwhispered in my ear.",
+      "text": "I held her shoulders and pulled her toward me as she\nwhispered in my ear."
+    },
+    {
+      "offset": 3737,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……ん」",
+      "en": "\"......Mm.\"",
+      "text": "\"......Mm.\""
+    },
+    {
+      "offset": 3801,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3831,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……えへへへ。充電完了」",
+      "en": "\"Okay, I'm recharged.\"",
+      "text": "\"Okay, I'm recharged.\""
+    },
+    {
+      "offset": 3892,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「それじゃ、行ってきます」",
+      "en": "\"I'll see you later.\"",
+      "text": "\"I'll see you later.\""
+    },
+    {
+      "offset": 3925,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "胸を押さえて口元をゆるゆるにしながら、音夢\nが小首をかしげた。",
+      "en": "Nemu tilted her head as she pressed her chest and smiled.",
+      "text": "Nemu tilted her head as she pressed her chest and smiled."
+    },
+    {
+      "offset": 3993,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん」",
+      "en": "\"Mm.\"",
+      "text": "\"Mm.\""
+    },
+    {
+      "offset": 4017,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「今日も１日、元気だよ」",
+      "en": "\"I feel great.\"",
+      "text": "\"I feel great.\""
+    },
+    {
+      "offset": 4048,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当に、久しぶりに元気な姿を見ながら、俺は\nしばらくぼーっと立ち尽くしてしまった。",
+      "en": "I haven't seen her that healthy for a while, and I stood\nthere spaced out.",
+      "text": "I haven't seen her that healthy for a while, and I stood\nthere spaced out."
+    },
+    {
+      "offset": 4134,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "春だな。おい。",
+      "en": "Spring has come.",
+      "text": "Spring has come."
+    },
+    {
+      "offset": 4268,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆新しい日課◆",
+      "en": "◆The new daily ritual◆",
+      "text": "◆The new daily ritual◆"
+    },
+    {
+      "offset": 4311,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "郵便受けを覗くと、既に新聞は音夢によって回\n収されていた。",
+      "en": "Nemu had already picked up the newspaper as I went to get\nit.",
+      "text": "Nemu had already picked up the newspaper as I went to get\nit."
+    },
+    {
+      "offset": 4373,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "学園に向かう音夢に頼まれ、中断していた朝の\n日課を再開する。",
+      "en": "Nemu asked me to start doing the daily ritual again as she\nwas going off to school.",
+      "text": "Nemu asked me to start doing the daily ritual again as she\nwas going off to school."
+    },
+    {
+      "offset": 4437,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当に、久しぶりに元気な音夢の姿を見ながら、\n俺はしばらくぼーっと立ち尽くしてしまった。",
+      "en": "I stood there spaced out looking at Nemu so healthy, I\nhaven't seen her like that for a while.",
+      "text": "I stood there spaced out looking at Nemu so healthy, I\nhaven't seen her like that for a while."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "330": "Nemu",
+    "446": "Nemu",
+    "663": "Nemu",
+    "901": "Nemu",
+    "1118": "Nemu",
+    "1195": "Nemu",
+    "1534": "Nemu",
+    "1689": "Nemu",
+    "1973": "Nemu",
+    "2059": "Nemu",
+    "2290": "Nemu",
+    "2406": "Nemu",
+    "2550": "Nemu",
+    "2693": "Nemu",
+    "2857": "Nemu",
+    "3035": "Nemu",
+    "3151": "Nemu",
+    "3220": "Nemu",
+    "3302": "Nemu",
+    "3459": "Nemu",
+    "3586": "Nemu",
+    "3729": "Nemu",
+    "3823": "Nemu",
+    "3884": "Nemu",
+    "4009": "Nemu"
+  }
+}

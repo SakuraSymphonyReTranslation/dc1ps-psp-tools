@@ -1,0 +1,686 @@
+{
+  "scene": "script_0615.obj",
+  "dialogues": [
+    {
+      "offset": 209,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はぁ……かったるかったな……」",
+      "en": "\"Ahh...... what a pain......\"",
+      "text": "\"Ahh...... what a pain......\""
+    },
+    {
+      "offset": 248,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "グッと伸びをして、こった身体をほぐす。",
+      "en": "I stretched to relax my body.",
+      "text": "I stretched to relax my body."
+    },
+    {
+      "offset": 291,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "学長のお決まりの挨拶を延々と聞かされ、入学\n式は無事終了した。",
+      "en": "After the never ending speech by the principal, the entrance\nceremony had finally ended.",
+      "text": "After the never ending speech by the principal, the entrance\nceremony had finally ended."
+    },
+    {
+      "offset": 392,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「まったくだ。壇上で喋るときはもっと手を振\n　りかざし、声を張り上げて、行うべきだ」",
+      "en": "\"You're right. He should've screamed out and waved his hands\nabout.\"",
+      "text": "\"You're right. He should've screamed out and waved his hands\nabout.\""
+    },
+    {
+      "offset": 482,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「それも、違う気がするが……しかし、また\n　おまえと同じクラスとはな」",
+      "en": "\"No, that's not what I meant to say...... Anyway, why are we\nin the same class again......?\"",
+      "text": "\"No, that's not what I meant to say...... Anyway, why are we\nin the same class again......?\""
+    },
+    {
+      "offset": 586,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「うむ。確かに何者かの陰謀の可能性があるな」",
+      "en": "\"Hmm...... This might be some kind of conspiracy.\"",
+      "text": "\"Hmm...... This might be some kind of conspiracy.\""
+    },
+    {
+      "offset": 637,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 656,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "誰がなんの目的でこんなことに陰謀をはりめぐ\nらすのか、ぜひ説明してもらいたいものだ。",
+      "en": "I'd like to know who would try to plot against us and for\nwhat reason......",
+      "text": "I'd like to know who would try to plot against us and for\nwhat reason......"
+    },
+    {
+      "offset": 774,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「お？」",
+      "en": "\"Oh?\"",
+      "text": "\"Oh?\""
+    },
+    {
+      "offset": 789,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「どうした？」",
+      "en": "\"What is it?\"",
+      "text": "\"What is it?\""
+    },
+    {
+      "offset": 810,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並が、俺の背後に視線を向ける。背後霊でも\n見えたか？",
+      "en": "He was looking over my shoulders. Did he see a ghost or\nsomething?",
+      "text": "He was looking over my shoulders. Did he see a ghost or\nsomething?"
+    },
+    {
+      "offset": 879,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あの……」",
+      "en": "\"Umm......\"",
+      "text": "\"Umm......\""
+    },
+    {
+      "offset": 898,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「えっ？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 956,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "後ろを振り向くと萌先輩と眞子がいた。",
+      "en": "When I turned back, Moe-sempai and Mako were there.",
+      "text": "When I turned back, Moe-sempai and Mako were there."
+    },
+    {
+      "offset": 999,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ、萌先輩」",
+      "en": "\"Oh, Moe-sempai.\"",
+      "text": "\"Oh, Moe-sempai.\""
+    },
+    {
+      "offset": 1056,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「なんだ、知り合いなのか？」",
+      "en": "\"Hey, you guys know each other?\"",
+      "text": "\"Hey, you guys know each other?\""
+    },
+    {
+      "offset": 1091,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩のことをさして、杉並が言う。",
+      "en": "Suginami asked while he pointed at Moe-sempai.",
+      "text": "Suginami asked while he pointed at Moe-sempai."
+    },
+    {
+      "offset": 1132,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まあな」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 1194,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「朝倉くん、ご入学おめでとうございます」",
+      "en": "\"Congratulations on your enrollment, Asakura-kun.\"",
+      "text": "\"Congratulations on your enrollment, Asakura-kun.\""
+    },
+    {
+      "offset": 1241,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「どうも。萌先輩も、新入生歓迎の演奏お疲れ\n　さま」",
+      "en": "\"Thanks. Good job with your performance during the ceremony,\nMoe-sempai.\"",
+      "text": "\"Thanks. Good job with your performance during the ceremony,\nMoe-sempai.\""
+    },
+    {
+      "offset": 1336,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「いっぱい失敗してしまいました」",
+      "en": "\"I made a lot of mistakes.\"",
+      "text": "\"I made a lot of mistakes.\""
+    },
+    {
+      "offset": 1375,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "たしかに、素人の俺でも音が外れてるのが分かっ\nたからなぁ……。",
+      "en": "She's right. Even I could tell that her notes were off......",
+      "text": "She's right. Even I could tell that her notes were off......"
+    },
+    {
+      "offset": 1471,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あんま練習した意味なかったかも……」",
+      "en": "\"I guess all that practice didn't mean much......\"",
+      "text": "\"I guess all that practice didn't mean much......\""
+    },
+    {
+      "offset": 1516,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "隣で眞子が諦めた顔をしている。",
+      "en": "Mako stood beside her with a disappointed face.",
+      "text": "Mako stood beside her with a disappointed face."
+    },
+    {
+      "offset": 1590,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「朝倉くんは何組になったんですか？」",
+      "en": "\"Which class are you in, Asakura-kun?\"",
+      "text": "\"Which class are you in, Asakura-kun?\""
+    },
+    {
+      "offset": 1633,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「３組です」",
+      "en": "\"I'm in class 3.\"",
+      "text": "\"I'm in class 3.\""
+    },
+    {
+      "offset": 1678,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「そうなんですか。眞子ちゃんと違うクラスに\n　なったんですね」",
+      "en": "\"Is that so? You're in a different class from Mako this\ntime, huh?\"",
+      "text": "\"Is that so? You're in a different class from Mako this\ntime, huh?\""
+    },
+    {
+      "offset": 1746,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「そういや眞子はどこになったんだ？」",
+      "en": "\"Which class are you in, Mako?\"",
+      "text": "\"Which class are you in, Mako?\""
+    },
+    {
+      "offset": 1825,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「１組だ」",
+      "en": "\"She's in class 1.\"",
+      "text": "\"She's in class 1.\""
+    },
+    {
+      "offset": 1842,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1908,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1927,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんでお前が答えるんだ？　っていうか、どう\nして知ってる。",
+      "en": "Why's he answering? Moreover, why does he know that?",
+      "text": "Why's he answering? Moreover, why does he know that?"
+    },
+    {
+      "offset": 2019,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ん？　どうした？」",
+      "en": "\"Huh? What is it?\"",
+      "text": "\"Huh? What is it?\""
+    },
+    {
+      "offset": 2074,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「なんであんたが、あたしのクラスを知ってん\n　のよ」",
+      "en": "\"How do you know what class I'm in?\"",
+      "text": "\"How do you know what class I'm in?\""
+    },
+    {
+      "offset": 2160,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「フッ……戦略の基本は、まずは情報収集から。\n　世界の常識だぞ」",
+      "en": "\"Hmm...... Collecting information is the most basic tactic.\nThat's common knowledge!\"",
+      "text": "\"Hmm...... Collecting information is the most basic tactic.\nThat's common knowledge!\""
+    },
+    {
+      "offset": 2258,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……頭イタ」",
+      "en": "\"......My head hurts.\"",
+      "text": "\"......My head hurts.\""
+    },
+    {
+      "offset": 2279,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "げんなりと呟く。",
+      "en": "She muttered with disgust.",
+      "text": "She muttered with disgust."
+    },
+    {
+      "offset": 2347,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あの……朝倉くん」",
+      "en": "\"Umm...... Asakura-kun?\"",
+      "text": "\"Umm...... Asakura-kun?\""
+    },
+    {
+      "offset": 2374,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい？」",
+      "en": "\"Yes?\"",
+      "text": "\"Yes?\""
+    },
+    {
+      "offset": 2400,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「足は大丈夫でしたか？」",
+      "en": "\"How does your leg feel?\"",
+      "text": "\"How does your leg feel?\""
+    },
+    {
+      "offset": 2431,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "実に心配そうな表情を見せる。",
+      "en": "She asked me with a concerned look on her face.",
+      "text": "She asked me with a concerned look on her face."
+    },
+    {
+      "offset": 2466,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ええ。別に今日は入学式だけでしたし」",
+      "en": "\"It's fine. Plus, the ceremony was the only thing I had\nscheduled today.\"",
+      "text": "\"It's fine. Plus, the ceremony was the only thing I had\nscheduled today.\""
+    },
+    {
+      "offset": 2537,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「そうですか。よかったです」",
+      "en": "\"I'm glad to hear that.\"",
+      "text": "\"I'm glad to hear that.\""
+    },
+    {
+      "offset": 2598,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「でも、学園に通うの大変じゃないですか？」",
+      "en": "\"But isn't it causing you trouble to get to the school?\"",
+      "text": "\"But isn't it causing you trouble to get to the school?\""
+    },
+    {
+      "offset": 2647,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「いやそれほどでも……」",
+      "en": "\"It's not that bad......\"",
+      "text": "\"It's not that bad......\""
+    },
+    {
+      "offset": 2678,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちと歩くスピードが遅くなるぐらいだし。",
+      "en": "My walking speed has decreasing a little, but but it's not a\nbig deal.",
+      "text": "My walking speed has decreasing a little, but but it's not a\nbig deal."
+    },
+    {
+      "offset": 2759,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「まぁ、鞄は持てんだろう」",
+      "en": "\"But I bet you can't hold your bag.\"",
+      "text": "\"But I bet you can't hold your bag.\""
+    },
+    {
+      "offset": 2792,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「確かに」",
+      "en": "\"That's true.\"",
+      "text": "\"That's true.\""
+    },
+    {
+      "offset": 2809,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "両手が｛ふさ／塞｝がるから持ちようがない。あとは肩に\n引っ掛けるしかないか。",
+      "en": "Both of my hands will be holding the crutches, so I just\nhave to hang it over my shoulder.",
+      "text": "Both of my hands will be holding the crutches, so I just\nhave to hang it over my shoulder."
+    },
+    {
+      "offset": 2936,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「それじゃ、私がお迎えにいきますね」",
+      "en": "\"Then, I'll come pick you up.\"",
+      "text": "\"Then, I'll come pick you up.\""
+    },
+    {
+      "offset": 2979,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はいっ？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 3024,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「荷物持ちです」",
+      "en": "\"I'll hold your bag.\"",
+      "text": "\"I'll hold your bag.\""
+    },
+    {
+      "offset": 3047,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何のためらいも見せずにニッコリ微笑む。",
+      "en": "She smiled softly without hesitation.",
+      "text": "She smiled softly without hesitation."
+    },
+    {
+      "offset": 3118,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「明日から、お迎えに行きます」",
+      "en": "\"I'll come get you from tomorrow on.\"",
+      "text": "\"I'll come get you from tomorrow on.\""
+    },
+    {
+      "offset": 3155,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「……はぁ」",
+      "en": "\"......Okay.\"",
+      "text": "\"......Okay.\""
+    },
+    {
+      "offset": 3174,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ニッコリ言い切る萌先輩に、押し流されるよう\nにして頷く。",
+      "en": "I nodded as I was pushed by Moe-sempai's big smile.",
+      "text": "I nodded as I was pushed by Moe-sempai's big smile."
+    },
+    {
+      "offset": 3234,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それにしても、女の子に迎えに来てもらうとい\nうのは、結構ハズイかも……。",
+      "en": "It's kind of embarrassing to have a girl come pick you\nup......",
+      "text": "It's kind of embarrassing to have a girl come pick you\nup......"
+    },
+    {
+      "offset": 3340,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「別に荷物なんてないと思うけど？　教科書は\n　机の中だし」",
+      "en": "\"He's not going to have much to carry though...... All his\ntext books are going to be kept inside his desk......\"",
+      "text": "\"He's not going to have much to carry though...... All his\ntext books are going to be kept inside his desk......\""
+    },
+    {
+      "offset": 3404,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「いくらなんでも、まだ何も入ってないって」",
+      "en": "\"But I don't have them in there yet.\"",
+      "text": "\"But I don't have them in there yet.\""
+    },
+    {
+      "offset": 3453,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あるのは今日もらったプリントぐらいだ。",
+      "en": "All I have in there is the handout papers that I got today.",
+      "text": "All I have in there is the handout papers that I got today."
+    },
+    {
+      "offset": 3496,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 3511,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「しまった。プリントを机の中に置き忘れた」",
+      "en": "\"Shoot!! I left the handouts in the desk!\"",
+      "text": "\"Shoot!! I left the handouts in the desk!\""
+    },
+    {
+      "offset": 3588,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「今日、配られたやつ？」",
+      "en": "\"You mean the ones you got today?\"",
+      "text": "\"You mean the ones you got today?\""
+    },
+    {
+      "offset": 3619,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ああ」",
+      "en": "\"Yeah.\"",
+      "text": "\"Yeah.\""
+    },
+    {
+      "offset": 3634,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "うーむ、どうしよう。たしか明日、提出しなきゃ\nいけないのがあったハズだ。",
+      "en": "Hmm...... what should I do? I'm sure there was something I\nhad to turn in by tomorrow.",
+      "text": "Hmm...... what should I do? I'm sure there was something I\nhad to turn in by tomorrow."
+    },
+    {
+      "offset": 3712,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「萌先輩、ちょっと取ってきてもらえます？」",
+      "en": "\"Moe-sempai, would you please go get them for me?\"",
+      "text": "\"Moe-sempai, would you please go get them for me?\""
+    },
+    {
+      "offset": 3787,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい」",
+      "en": "\"Sure.\"",
+      "text": "\"Sure.\""
+    },
+    {
+      "offset": 3816,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "にこやかに返事を返して、萌先輩が小走りに走\nり去っていく。",
+      "en": "She answered with a smile and ran off to get them.",
+      "text": "She answered with a smile and ran off to get them."
+    },
+    {
+      "offset": 3908,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「なに、今の。なんでお姉ちゃんが、あんたの\n　忘れ物を取りに行かされるのよ」",
+      "en": "\"What was that? Why does my sister have to go get your\nstuff?\"",
+      "text": "\"What was that? Why does my sister have to go get your\nstuff?\""
+    },
+    {
+      "offset": 3990,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「え？　いや、看病されているときの癖でつい」",
+      "en": "\"What? I guess I'm used to being taken care of by her......\"",
+      "text": "\"What? I guess I'm used to being taken care of by her......\""
+    },
+    {
+      "offset": 4041,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんか萌先輩にお願いするのが自然になってた\nから、普通に人前でも指示だしちゃったな。",
+      "en": "It became natural for me to ask her to do things for me, so\nI accidentally asked her again in front of people.",
+      "text": "It became natural for me to ask her to do things for me, so\nI accidentally asked her again in front of people."
+    },
+    {
+      "offset": 4178,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ご主人様とメイドさんの関係か？」",
+      "en": "\"Are you guys the master and the maid?\"",
+      "text": "\"Are you guys the master and the maid?\""
+    },
+    {
+      "offset": 4247,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 4266,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 4285,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、見方によってはそう見えなくもないが。",
+      "en": "I guess some people will take it like that......",
+      "text": "I guess some people will take it like that......"
+    },
+    {
+      "offset": 4344,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 4357,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いいかも、その関係……。",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 4386,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "春の陽気をあびながら、俺はメイドを待つご主\n人様の気分に、浸ってみるのだった……。",
+      "en": "I think I like that......",
+      "text": "I think I like that......"
+    },
+    {
+      "offset": 4580,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆入学◆",
+      "en": "◆Enrollment◆",
+      "text": "◆Enrollment◆"
+    },
+    {
+      "offset": 4625,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "入学式が終わり、萌先輩達と合流した。",
+      "en": "The entrance ceremony was over, and I met Moe-sempai and\nMako.",
+      "text": "The entrance ceremony was over, and I met Moe-sempai and\nMako."
+    },
+    {
+      "offset": 4666,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "松葉杖を着いている俺を心配したらしく、萌先\n輩が、荷物持ちのために、朝、迎えに来てくれ\nる事に決まった。",
+      "en": "Moe-sempai was concerned about me using the crutches, so she\ndecided to come and pick me up in the morning to hold my\nbag.",
+      "text": "Moe-sempai was concerned about me using the crutches, so she\ndecided to come and pick me up in the morning to hold my\nbag."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "384": "Suginami",
+    "578": "Suginami",
+    "766": "Suginami",
+    "873": "Moe",
+    "1048": "Suginami",
+    "1188": "Moe",
+    "1330": "Moe",
+    "1463": "Mako",
+    "1584": "Moe",
+    "1672": "Moe",
+    "1817": "Suginami",
+    "1900": "Mako",
+    "2011": "Suginami",
+    "2066": "Mako",
+    "2152": "Suginami",
+    "2250": "Mako",
+    "2341": "Moe",
+    "2394": "Moe",
+    "2531": "Moe",
+    "2592": "Moe",
+    "2751": "Suginami",
+    "2930": "Moe",
+    "3018": "Moe",
+    "3112": "Moe",
+    "3332": "Mako",
+    "3580": "Mako",
+    "3781": "Moe",
+    "3900": "Mako",
+    "4170": "Suginami",
+    "4239": "Mako"
+  }
+}

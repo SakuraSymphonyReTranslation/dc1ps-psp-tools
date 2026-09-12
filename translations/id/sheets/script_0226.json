@@ -1,0 +1,382 @@
+{
+  "scene": "script_0226.obj",
+  "dialogues": [
+    {
+      "offset": 198,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「おに〜ちゃん♪」",
+      "en": "\"Bro~♪\"",
+      "text": "\"Bro~♪\""
+    },
+    {
+      "offset": 223,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぴょこたん、と柱の影からさくらが顔を出す。",
+      "en": "From behind a pillar, Sakura's face peeped out at me.",
+      "text": "From behind a pillar, Sakura's face peeped out at me."
+    },
+    {
+      "offset": 272,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「よ、待ち伏せか？」",
+      "en": "\"Whoa, an ambush?\"",
+      "text": "\"Whoa, an ambush?\""
+    },
+    {
+      "offset": 329,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「半分そうだよ。でも、ボクはここでみんなが\n　帰る姿を見てるのだ！」",
+      "en": "\"Kinda. I'm also watching people go home!\"",
+      "text": "\"Kinda. I'm also watching people go home!\""
+    },
+    {
+      "offset": 403,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「帰る姿？」",
+      "en": "\"People going home?\"",
+      "text": "\"People going home?\""
+    },
+    {
+      "offset": 452,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「この校門を出るとね、みんなの表情が変わっ\n　て面白いの」",
+      "en": "\"People's expressions as they pass through this gate are\nreally cool.\"",
+      "text": "\"People's expressions as they pass through this gate are\nreally cool.\""
+    },
+    {
+      "offset": 516,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「表情？」",
+      "en": "\"Expressions?\"",
+      "text": "\"Expressions?\""
+    },
+    {
+      "offset": 563,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「帰りのホームルームが終わったときもそうだ\n　けど、やっぱり区切りとしてはココなんだよ\n　ね」",
+      "en": "\"When going home after the end of homeroom, this is the\nplace that marks the end of the school day.\"",
+      "text": "\"When going home after the end of homeroom, this is the\nplace that marks the end of the school day.\""
+    },
+    {
+      "offset": 692,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「嬉しそうっていうか、顔がやさしくなるのが\n　好き♪　特に今日はテストが終わったから良\n　かったよ」",
+      "en": "\"I like the happy look on people's faces as they pass by♪\nEven better, since tests ended today.\"",
+      "text": "\"I like the happy look on people's faces as they pass by♪\nEven better, since tests ended today.\""
+    },
+    {
+      "offset": 838,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「良かったよ、良かったよ〜！」",
+      "en": "\"It's over, it's over~!\"",
+      "text": "\"It's over, it's over~!\""
+    },
+    {
+      "offset": 875,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "わたわた、と手を振ってさくらが笑う。",
+      "en": "She excitedly waved her hand around, laughing the entire\ntime.",
+      "text": "She excitedly waved her hand around, laughing the entire\ntime."
+    },
+    {
+      "offset": 918,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そんな興奮することもないだろうが……」",
+      "en": "\"That's nothing to be THAT excited over...\"",
+      "text": "\"That's nothing to be THAT excited over...\""
+    },
+    {
+      "offset": 965,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺も立ち止まって校門を振り返る。",
+      "en": "I stopped at the school gates and looked around.",
+      "text": "I stopped at the school gates and looked around."
+    },
+    {
+      "offset": 1002,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "特に意識したことはなかったが、まぁ、ここか\nら外に出ると肩の力が抜けるのは確かか。",
+      "en": "I don't normally notice it, but I suppose when I walk out\nthese gates, it does fee like a weight is lifted off my\nshoulders...",
+      "text": "I don't normally notice it, but I suppose when I walk out\nthese gates, it does fee like a weight is lifted off my\nshoulders..."
+    },
+    {
+      "offset": 1088,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、見ていて楽しいか？",
+      "en": "But, being happy from watching that?",
+      "text": "But, being happy from watching that?"
+    },
+    {
+      "offset": 1119,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あらためて変なヤツだ。",
+      "en": "Weird as always, this girl.",
+      "text": "Weird as always, this girl."
+    },
+    {
+      "offset": 1148,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……一緒に帰るか？」",
+      "en": "\"...Want to go home together?\"",
+      "text": "\"...Want to go home together?\""
+    },
+    {
+      "offset": 1210,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「あー、Ｓｏｒｒｙ。クラスのみんなとテスト\n　が終わったらカラオケに行こうって約束して\n　て。もうすぐ集合時間なんだ」",
+      "en": "\"Ah~, sorry. My class organized a karaoke outing when the\ntests were over, and it's almost time to meet up.\"",
+      "text": "\"Ah~, sorry. My class organized a karaoke outing when the\ntests were over, and it's almost time to meet up.\""
+    },
+    {
+      "offset": 1333,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「お前は遊び組か」",
+      "en": "\"So, you're from the celebration group.\"",
+      "text": "\"So, you're from the celebration group.\""
+    },
+    {
+      "offset": 1358,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "テストが終了したところで、だいたいの学生が\n遊びに行くか、睡眠を求めるかの２組に分かれ\nる。",
+      "en": "At the end of exams, there're two groups of people. The ones\nwho celebrate, and the ones who go to sleep.",
+      "text": "At the end of exams, there're two groups of people. The ones\nwho celebrate, and the ones who go to sleep."
+    },
+    {
+      "offset": 1485,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「お兄ちゃんは寝る派だよね」",
+      "en": "\"And you're part of the sleepyheads.\"",
+      "text": "\"And you're part of the sleepyheads.\""
+    },
+    {
+      "offset": 1520,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「笑顔で断定するなよ……そうだけどさ」",
+      "en": "\"Don't just smile and decide that... although you're right.\"",
+      "text": "\"Don't just smile and decide that... although you're right.\""
+    },
+    {
+      "offset": 1576,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「おーい、芳乃さ〜ん」",
+      "en": "\"Hey, Yoshino-san!\"",
+      "text": "\"Hey, Yoshino-san!\""
+    },
+    {
+      "offset": 1635,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゃ？　王子さまが呼んでる？」",
+      "en": "\"Unya? Is my prince calling me?\"",
+      "text": "\"Unya? Is my prince calling me?\""
+    },
+    {
+      "offset": 1676,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "現れたのは王子さま……とも呼べなくもない工\n藤だった。",
+      "en": "And thusly, the prince appeared... or rather, Kudou did.",
+      "text": "And thusly, the prince appeared... or rather, Kudou did."
+    },
+    {
+      "offset": 1766,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「やほー、くっぴー♪」",
+      "en": "\"Hey there-, Kuu-pi~\"",
+      "text": "\"Hey there-, Kuu-pi~\""
+    },
+    {
+      "offset": 1842,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「あ、いたいた。みんな集まったから、そろそ\n　ろ行こうって」",
+      "en": "\"Hah, here you were. Everyone's gathered and getting ready\nto leave.\"",
+      "text": "\"Hah, here you were. Everyone's gathered and getting ready\nto leave.\""
+    },
+    {
+      "offset": 1908,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「よお、モテモテだな、工藤」",
+      "en": "\"Yo, popular aren't you, Kudou?\"",
+      "text": "\"Yo, popular aren't you, Kudou?\""
+    },
+    {
+      "offset": 1971,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「おいおい、朝倉。そんなコドモみたいなこと\n　言わないでくれよ」",
+      "en": "\"Oy oy, Asakura. Don't say childish things like that.\"",
+      "text": "\"Oy oy, Asakura. Don't say childish things like that.\""
+    },
+    {
+      "offset": 2041,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「コドモはこいつだけでじゅーぶん」",
+      "en": "\"I'm not the childish one here.\"",
+      "text": "\"I'm not the childish one here.\""
+    },
+    {
+      "offset": 2082,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちょうど手頃な場所にいたさくらの頭をぽんぽ\nんと叩く。",
+      "en": "I patted Sakura on the head with my hand.",
+      "text": "I patted Sakura on the head with my hand."
+    },
+    {
+      "offset": 2172,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うにゅにゅ……絶対ボクにケンカ売ってるで\n　しょ、お兄ちゃん」",
+      "en": "\"Unyunyu... I'm not going to argue with you today, bro.\"",
+      "text": "\"Unyunyu... I'm not going to argue with you today, bro.\""
+    },
+    {
+      "offset": 2242,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「でもお前がカラオケのお誘いに乗るってのも、\n　なにか意外な感じがするな」",
+      "en": "\"I didn't think you'd be invited to a class outing though,\nKudou.\"",
+      "text": "\"I didn't think you'd be invited to a class outing though,\nKudou.\""
+    },
+    {
+      "offset": 2350,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「ははは……せっかく芳乃さんのクラスの子た\n　ちから誘われたんだ。むげに断れないさ」",
+      "en": "\"Hahaha... Yoshino-san's class took all the trouble to\ninvite me, so I couldn't say no.\"",
+      "text": "\"Hahaha... Yoshino-san's class took all the trouble to\ninvite me, so I couldn't say no.\""
+    },
+    {
+      "offset": 2440,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "人気者はツライね、どーも。",
+      "en": "I'm sooorrry, being popular must be sooooo hard.",
+      "text": "I'm sooorrry, being popular must be sooooo hard."
+    },
+    {
+      "offset": 2501,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「とはいえ、どうもあのカラオケの騒がしい雰\n　囲気は、あまり積極的に好きにはなれないん\n　だけれどね」",
+      "en": "\"I don't usually like karaoke since it's so noisy, but I'd\nhave to grin and bear it.\"",
+      "text": "\"I don't usually like karaoke since it's so noisy, but I'd\nhave to grin and bear it.\""
+    },
+    {
+      "offset": 2638,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「にゃにゃ？　みんなでカラオケ、たのしーよ！\n　歌って騒いで浮世の憂さを晴らす、日本人の\n　お祭り好きのＤＮＡが呼んでいるよ〜♪」",
+      "en": "\"Nyanya? Singing karaoke with everyone is fun! It's in every\nJapanese person's DNA to noisily sing all your troubles\naway~♪\"",
+      "text": "\"Nyanya? Singing karaoke with everyone is fun! It's in every\nJapanese person's DNA to noisily sing all your troubles\naway~♪\""
+    },
+    {
+      "offset": 2773,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そうだな……。",
+      "en": "I wonder...",
+      "text": "I wonder..."
+    },
+    {
+      "offset": 2995,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆待ち伏せさくら◆",
+      "en": "◆How's Karaoke?◆",
+      "text": "◆How's Karaoke?◆"
+    },
+    {
+      "offset": 3050,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "テストも終わり、意気揚揚と校門を出たところ\nでさくらに出会った。",
+      "en": "After the end of the exams, I triumphantly left through the\nschool gates and met Sakura.",
+      "text": "After the end of the exams, I triumphantly left through the\nschool gates and met Sakura."
+    },
+    {
+      "offset": 3118,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "晴れ晴れとした皆の顔を見るのが楽しい――な\nんて、可愛いことを言う。",
+      "en": "She felt happy watching the cheerful faces pile out of\nschool-- how cute.",
+      "text": "She felt happy watching the cheerful faces pile out of\nschool-- how cute."
+    },
+    {
+      "offset": 3190,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そこへ工藤が現れた。なんでもさくらのクラス\nの子達とカラオケに行くらしい。",
+      "en": "Then Kudou popped up. He was joining Sakura's class in a\nkaraoke outing.",
+      "text": "Then Kudou popped up. He was joining Sakura's class in a\nkaraoke outing."
+    },
+    {
+      "offset": 3268,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "工藤はカラオケの騒がしさが好きになれないと\nいい、さくらはみんなで騒ぐから楽しいという。\n俺としては──。",
+      "en": "Kudou found karaoke too noisy for his liking, while Sakura\nenjoyed singing away with everyone.",
+      "text": "Kudou found karaoke too noisy for his liking, while Sakura\nenjoyed singing away with everyone."
+    }
+  ],
+  "choices": [
+    {
+      "offset": 2802,
+      "jp": "○工藤のいうとおりだ",
+      "en": "○Agree with Kudou",
+      "text": "○Agree with Kudou"
+    },
+    {
+      "offset": 2831,
+      "jp": "○さくらのいうとおりだ",
+      "en": "○Agree with Sakura",
+      "text": "○Agree with Sakura"
+    }
+  ],
+  "names": {
+    "188": "Sakura",
+    "319": "Sakura",
+    "442": "Sakura",
+    "553": "Sakura",
+    "682": "Sakura",
+    "828": "Sakura",
+    "1200": "Sakura",
+    "1475": "Sakura",
+    "1568": "Kudou",
+    "1625": "Sakura",
+    "1756": "Sakura",
+    "1834": "Kudou",
+    "1963": "Kudou",
+    "2162": "Sakura",
+    "2342": "Kudou",
+    "2493": "Kudou",
+    "2628": "Sakura"
+  }
+}

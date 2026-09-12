@@ -1,0 +1,73 @@
+{
+  "scene": "script_0303.obj",
+  "dialogues": [
+    {
+      "offset": 166,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「授業があるのもあと一日だけど、ちゃんと遅\n　刻しないで来るんだぞ……じゃあ週番、号令」",
+      "en": "\"There's just one more day of classes left, so make sure\nyou're not late for school tomorrow. ...Weekly duty, rise.\"",
+      "text": "\"There's just one more day of classes left, so make sure\nyou're not late for school tomorrow. ...Weekly duty, rise.\""
+    },
+    {
+      "offset": 260,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 297,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "挨拶がすむと、教室から暦先生の姿が消える。",
+      "en": "After her usual farewell, Koyomi-sensei's figure disappeared\nfrom the classroom.",
+      "text": "After her usual farewell, Koyomi-sensei's figure disappeared\nfrom the classroom."
+    },
+    {
+      "offset": 344,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "クラスの中では、卒業式の後の卒業パーティー\nや休み中の計画についての会話がなされている。",
+      "en": "All around the class, everyone was talking about the\ngraduation party and how they're preparing for it.",
+      "text": "All around the class, everyone was talking about the\ngraduation party and how they're preparing for it."
+    },
+    {
+      "offset": 436,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さて、俺はどうしようかな……。",
+      "en": "Now, what should I do.",
+      "text": "Now, what should I do."
+    },
+    {
+      "offset": 575,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆明日で授業終了◆",
+      "en": "◆Classes End Tomorrow◆",
+      "text": "◆Classes End Tomorrow◆"
+    },
+    {
+      "offset": 622,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "明日に最後の授業を控えて、暦先生は今日のＨ\nＲを終らせた。",
+      "en": "With a reminder that tomorrow was the last day of classes,\nKoyomi-sensei ended HR.",
+      "text": "With a reminder that tomorrow was the last day of classes,\nKoyomi-sensei ended HR."
+    },
+    {
+      "offset": 684,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "クラスでは卒パの話題で持ちきりだが、俺はど\nうしようかな。",
+      "en": "The class was talking about the graduation party, but what\nshould I do.",
+      "text": "The class was talking about the graduation party, but what\nshould I do."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "160": "Koyomi"
+  }
+}

@@ -1,0 +1,1060 @@
+{
+  "scene": "script_0387.obj",
+  "dialogues": [
+    {
+      "offset": 255,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ん？",
+      "en": "\"Talk?\"",
+      "text": "\"Talk?\""
+    },
+    {
+      "offset": 264,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "帰宅しようと教室の扉に手をかけた俺は、眞子\nの声に振り返る。",
+      "en": "No way. Is she planning to make me do something now when I'm\nready to go home?",
+      "text": "No way. Is she planning to make me do something now when I'm\nready to go home?"
+    },
+    {
+      "offset": 387,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ちょっと話があるんだけど」",
+      "en": "\"Can you come with me?\"",
+      "text": "\"Can you come with me?\""
+    },
+    {
+      "offset": 437,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まさか、これから帰る俺に何かさせようと言う\nんじゃないだろうな。",
+      "en": "\"Where?\"",
+      "text": "\"Where?\""
+    },
+    {
+      "offset": 535,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「少し付き合ってくれない？」",
+      "en": "\"To the roof of the building.\"",
+      "text": "\"To the roof of the building.\""
+    },
+    {
+      "offset": 570,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「どこに？」",
+      "en": "With that, Mako slips through the door where I put my hand\nand out into the hallway.",
+      "text": "With that, Mako slips through the door where I put my hand\nand out into the hallway."
+    },
+    {
+      "offset": 617,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「屋上」",
+      "en": "\"Come on, hurry up.\"",
+      "text": "\"Come on, hurry up.\""
+    },
+    {
+      "offset": 632,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言って、俺が手をかけた扉をすり抜けて廊\n下に出ていく。",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 776,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだか、物言いが問答無用っぽいな……。",
+      "en": "She sounds like she won't take any questions from me...",
+      "text": "She sounds like she won't take any questions from me..."
+    },
+    {
+      "offset": 823,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「かったりぃ」",
+      "en": "\"What a pain in the neck.\"",
+      "text": "\"What a pain in the neck.\""
+    },
+    {
+      "offset": 885,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子と一緒に少し強めの風がふく屋上にでる。\nもちろん、こんな日の屋上に人気はない。",
+      "en": "I go out onto the roof with Mako, where a rather strong wind\nis blowing. But no one, of course, wants to come to the roof\non a day like this.",
+      "text": "I go out onto the roof with Mako, where a rather strong wind\nis blowing. But no one, of course, wants to come to the roof\non a day like this."
+    },
+    {
+      "offset": 971,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とりあえず、こんなところまで出張って来たと\nいうことは、厄介事だろうな……。",
+      "en": "Bringing me all the way to this kind of place means that\nthere may be trouble in store...",
+      "text": "Bringing me all the way to this kind of place means that\nthere may be trouble in store..."
+    },
+    {
+      "offset": 1053,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「面倒だな……で、何の話だ？」",
+      "en": "\"Shoot! ...So, what do you wanna tell me?\"",
+      "text": "\"Shoot! ...So, what do you wanna tell me?\""
+    },
+    {
+      "offset": 1123,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ちょっと……頼みがあるんだけど」",
+      "en": "\"Uh... Could you do me a favor?\"",
+      "text": "\"Uh... Could you do me a favor?\""
+    },
+    {
+      "offset": 1164,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "（はいはい……）",
+      "en": "(Okay, okay......)",
+      "text": "(Okay, okay......)"
+    },
+    {
+      "offset": 1187,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "適当にあしらって帰ろ――。",
+      "en": "I can brush this off and leave ----",
+      "text": "I can brush this off and leave ----"
+    },
+    {
+      "offset": 1253,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あたしの……恋人になってくれない？」",
+      "en": "\"Can you be my... boyfriend?\"",
+      "text": "\"Can you be my... boyfriend?\""
+    },
+    {
+      "offset": 1298,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………？」",
+      "en": "\"............?\"",
+      "text": "\"............?\""
+    },
+    {
+      "offset": 1319,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……は？」",
+      "en": "\"......Huh?\"",
+      "text": "\"......Huh?\""
+    },
+    {
+      "offset": 1338,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いきなりな告白に、頭が真っ白になる。",
+      "en": "At her sudden confession, my mind becomes a complete blank.",
+      "text": "At her sudden confession, my mind becomes a complete blank."
+    },
+    {
+      "offset": 1381,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1400,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "おお朝倉、お前は勇者で魔王を倒しに行かなけ\nればならないのだ――。",
+      "en": "Oh, Asakura, you are the bravest of men, you must go to\ndefeat the Archenemy ----",
+      "text": "Oh, Asakura, you are the bravest of men, you must go to\ndefeat the Archenemy ----"
+    },
+    {
+      "offset": 1470,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "違う。そんなことではない。",
+      "en": "No. Nothing like that.",
+      "text": "No. Nothing like that."
+    },
+    {
+      "offset": 1501,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "かつて経験したことがないほどの緊張感が身体\n中に満ちていく。",
+      "en": "Tension such as I've never experienced before is rising in\nmy body.",
+      "text": "Tension such as I've never experienced before is rising in\nmy body."
+    },
+    {
+      "offset": 1565,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "状況は、音夢の作った料理を前にしたときより\nも切羽詰っていた。",
+      "en": "I felt more pressure than the time when I was served a dish\nthat Nemu cooked.",
+      "text": "I felt more pressure than the time when I was served a dish\nthat Nemu cooked."
+    },
+    {
+      "offset": 1631,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まさか眞子に、そう言った感情を持たれている\nとは思わなかった。",
+      "en": "It never crossed my mind that Mako had such a special\nfeeling for me.",
+      "text": "It never crossed my mind that Mako had such a special\nfeeling for me."
+    },
+    {
+      "offset": 1699,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（な、なんて答えたらいいんだ……！？）",
+      "en": "(What am I supposed to say......!?)",
+      "text": "(What am I supposed to say......!?)"
+    },
+    {
+      "offset": 1744,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鈍くなったんだか、素早くなったんだか分から\nない頭で、ぐるぐると考える。",
+      "en": "I dwell on this matter, with my brain that's gone slow... or\nquick, I'm not sure which.",
+      "text": "I dwell on this matter, with my brain that's gone slow... or\nquick, I'm not sure which."
+    },
+    {
+      "offset": 1850,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「か、勘違いしないでよね。恋人って言っても、\n　“フリ”だから」",
+      "en": "\"Don't get the wrong idea. I'm just asking you to 'pretend'\nto be my boyfriend.\"",
+      "text": "\"Don't get the wrong idea. I'm just asking you to 'pretend'\nto be my boyfriend.\""
+    },
+    {
+      "offset": 1924,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 1939,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "フリ？",
+      "en": "Pretend?",
+      "text": "Pretend?"
+    },
+    {
+      "offset": 1950,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さっきまでのふらつくような緊張感が引く代わ\nりに、余計話がわからなくなる。",
+      "en": "I've lost the whirling tense feeling but I'm more confused\nthan ever.",
+      "text": "I've lost the whirling tense feeling but I'm more confused\nthan ever."
+    },
+    {
+      "offset": 2030,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「フリって……つまり、恋人のフリってこと？」",
+      "en": "\"Pretend... So you're saying that I should act like I'm your\nboyfriend, right?\"",
+      "text": "\"Pretend... So you're saying that I should act like I'm your\nboyfriend, right?\""
+    },
+    {
+      "offset": 2092,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「そうよ」",
+      "en": "\"Right.\"",
+      "text": "\"Right.\""
+    },
+    {
+      "offset": 2109,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "照れくさそうに｛にら／睨｝みながら、頷く。",
+      "en": "Mako nods, staring at me bashfully.",
+      "text": "Mako nods, staring at me bashfully."
+    },
+    {
+      "offset": 2156,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 2169,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "は？",
+      "en": "Huh?",
+      "text": "Huh?"
+    },
+    {
+      "offset": 2178,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだそりゃ！？",
+      "en": "What the hell is that?",
+      "text": "What the hell is that?"
+    },
+    {
+      "offset": 2206,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんで俺が、おまえの恋人のフリをしなきゃ\n　なんないんだよ」",
+      "en": "\"Why do I have to pretend to be your boyfriend?\"",
+      "text": "\"Why do I have to pretend to be your boyfriend?\""
+    },
+    {
+      "offset": 2274,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ようやく頭が理解してきた。",
+      "en": "I have finally come to see what's going on.",
+      "text": "I have finally come to see what's going on."
+    },
+    {
+      "offset": 2335,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「それは……」",
+      "en": "\"It's because......\"",
+      "text": "\"It's because......\""
+    },
+    {
+      "offset": 2356,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちょっと言葉を詰まらせ、考える。",
+      "en": "She gets lost for words for a minute and thinks.",
+      "text": "She gets lost for words for a minute and thinks."
+    },
+    {
+      "offset": 2423,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「卒業式にいっぱい告白されそうだから……」",
+      "en": "\"It's because I feel that on graduation day, lots of people\nwill ask me out...\"",
+      "text": "\"It's because I feel that on graduation day, lots of people\nwill ask me out...\""
+    },
+    {
+      "offset": 2487,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなに男子に人気だったっけ？",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 2602,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "視線をそらせ、軽く咳払いをする。",
+      "en": "Is she that popular among boys?",
+      "text": "Is she that popular among boys?"
+    },
+    {
+      "offset": 2741,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「つき合ってると思われれば、向こうで諦める\n　でしょう」",
+      "en": "\"......Why are you staring at me like that?\"",
+      "text": "\"......Why are you staring at me like that?\""
+    },
+    {
+      "offset": 2803,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": "\"Nothing......\"",
+      "text": "\"Nothing......\""
+    },
+    {
+      "offset": 2820,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ちょっと待て！　そこでどうして俺が駆り出\n　されなきゃならないんだ！？」",
+      "en": "Turning my eyes away from her, I clear my throat lightly.",
+      "text": "Turning my eyes away from her, I clear my throat lightly."
+    },
+    {
+      "offset": 2900,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そんなん、自分で断ればいいだろう！？」",
+      "en": "\"But why do I have to pretend to be your boyfriend?\"",
+      "text": "\"But why do I have to pretend to be your boyfriend?\""
+    },
+    {
+      "offset": 2975,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「だって……」",
+      "en": "\"If someone finds out that we're dating, they'll give up on\nme, right?\"",
+      "text": "\"If someone finds out that we're dating, they'll give up on\nme, right?\""
+    },
+    {
+      "offset": 3101,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛めまい／眩暈｝がした。",
+      "en": "............",
+      "text": "............"
+    },
+    {
+      "offset": 3130,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そういやこいつ、女子に人気があったなぁ……。",
+      "en": "\"Wait! Why do I have to be pulled into this!?\"",
+      "text": "\"Wait! Why do I have to be pulled into this!?\""
+    },
+    {
+      "offset": 3181,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あのなぁ……だからって、なんで恋人のフリ\n　までしなきゃなんないんだよ」",
+      "en": "\"You can just say 'No' to the person, right?\"",
+      "text": "\"You can just say 'No' to the person, right?\""
+    },
+    {
+      "offset": 3289,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「今年は多そうだし、それに……ひとり手強そ\n　うな子がいて……」",
+      "en": "\"But......\"",
+      "text": "\"But......\""
+    },
+    {
+      "offset": 3359,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「手強い？」",
+      "en": "\"But what?\"",
+      "text": "\"But what?\""
+    },
+    {
+      "offset": 3406,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ラブレターを送ってきたんだけど……」",
+      "en": "\"The person is a girl.\"",
+      "text": "\"The person is a girl.\""
+    },
+    {
+      "offset": 3451,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "困惑げに視線をおとす。",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3480,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ラブレター？」",
+      "en": "It makes my head spin.",
+      "text": "It makes my head spin."
+    },
+    {
+      "offset": 3503,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "女の子が女の子にラブレターを出すとは……。",
+      "en": "Come to think of it, she is popular with girls......",
+      "text": "Come to think of it, she is popular with girls......"
+    },
+    {
+      "offset": 3552,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（うちの学園にもいたんだな、｛そっち／百合｝方面）",
+      "en": "\"Look... That doesn't mean that you can make me pretend that\nI'm your boyfriend.\"",
+      "text": "\"Look... That doesn't mean that you can make me pretend that\nI'm your boyfriend.\""
+    },
+    {
+      "offset": 3714,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「びびるっていうか……かなり本気っぽい内容\n　かな……」",
+      "en": "\"I have a feeling there will be many girls this year, and\nthere is also... a difficult girl...\"",
+      "text": "\"I have a feeling there will be many girls this year, and\nthere is also... a difficult girl...\""
+    },
+    {
+      "offset": 3797,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子を不安がらせるとは、微妙に興味がわく。",
+      "en": "\"Difficult?\"",
+      "text": "\"Difficult?\""
+    },
+    {
+      "offset": 3907,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「なに｛き／訊｝いてんのよ。そんなの言えるわけない\n　でしょう！」",
+      "en": "\"She sent me a love letter......\"",
+      "text": "\"She sent me a love letter......\""
+    },
+    {
+      "offset": 4006,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いくらそっちの方面の困った相手でも、他人の\nラブレターをネタにしようとするのは、よくな\nかった。",
+      "en": "She drops her eyes hesitantly.",
+      "text": "She drops her eyes hesitantly."
+    },
+    {
+      "offset": 4107,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、そいつに諦めさせるために、つき合って\n　るフリをしろってか？」",
+      "en": "\"Love letter?\"",
+      "text": "\"Love letter?\""
+    },
+    {
+      "offset": 4224,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "軽く、眞子が頷く。",
+      "en": "A girl sending a love letter to a girl...",
+      "text": "A girl sending a love letter to a girl..."
+    },
+    {
+      "offset": 4249,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「うーん。その子に直接会って、びしっと断っ\n　たらどうだ？」",
+      "en": "(Huh, a lesbian exists in our school, too.)",
+      "text": "(Huh, a lesbian exists in our school, too.)"
+    },
+    {
+      "offset": 4472,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "かったりいなぁ。",
+      "en": "I somehow find it impressive from a different perspective.",
+      "text": "I somehow find it impressive from a different perspective."
+    },
+    {
+      "offset": 4493,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いくら眞子の頼みでも、恋人のフリをして相手\nをダマすというのはちょっと……。",
+      "en": "\"Did she write something that freaked you out?\"",
+      "text": "\"Did she write something that freaked you out?\""
+    },
+    {
+      "offset": 4669,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「えっ？」",
+      "en": "\"It didn't really freak me out... But she sounded so\nserious...\"",
+      "text": "\"It didn't really freak me out... But she sounded so\nserious...\""
+    },
+    {
+      "offset": 4686,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺と眞子が同時に、声のした方向に振り向く。",
+      "en": "\"Hmm......\"",
+      "text": "\"Hmm......\""
+    },
+    {
+      "offset": 4733,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつの間にか俺たちの背後に立っていたのは\n――杉並だった。",
+      "en": "If it had this effect on Mako, now I'm curious about it.",
+      "text": "If it had this effect on Mako, now I'm curious about it."
+    },
+    {
+      "offset": 4923,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "万年お祭陰謀男が、腹黒そうな笑みを満面にた\nたえて近づいてくる。",
+      "en": "\"What did she write?\"",
+      "text": "\"What did she write?\""
+    },
+    {
+      "offset": 4991,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうやら、俺と眞子には気づかれないよう、物\n陰に潜んで聞き耳を立てていたらしい。",
+      "en": "\"Don't ask me. How could I tell you!?\"",
+      "text": "\"Don't ask me. How could I tell you!?\""
+    },
+    {
+      "offset": 5075,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "相変わらず油断のできないヤツだ。",
+      "en": "\"Right... I'm sorry.\"",
+      "text": "\"Right... I'm sorry.\""
+    },
+    {
+      "offset": 5114,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「勝手に話、進めるなよ。だったら、おまえが\n　恋人役をやればいいだろ」",
+      "en": "Asking about the contents of someone's love letter wasn't a\nnice thing to do, even if the person was giving a problem to\nMako.",
+      "text": "Asking about the contents of someone's love letter wasn't a\nnice thing to do, even if the person was giving a problem to\nMako."
+    },
+    {
+      "offset": 5323,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並がニヤニヤ笑いながら、もったいぶった説\n明を続ける。",
+      "en": "\"So you're saying that I should pretend that I'm dating you\nso that the girl will give up on you, right?\"",
+      "text": "\"So you're saying that I should pretend that I'm dating you\nso that the girl will give up on you, right?\""
+    },
+    {
+      "offset": 5396,
+      "speaker": "Mako",
+      "speaker_jp": "杉並",
+      "jp": "「仮に俺と水越が、カップルのフリをしてみろ。\n　演技だということが、バレバレになるではな\n　いか」",
+      "en": "\"Right.\"",
+      "text": "\"Right.\""
+    },
+    {
+      "offset": 5576,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言いながら杉並がビシッと親指で自分を指す。",
+      "en": "Mako nods lightly.",
+      "text": "Mako nods lightly."
+    },
+    {
+      "offset": 5834,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "グャッ！",
+      "en": "What a pain in the neck.",
+      "text": "What a pain in the neck."
+    },
+    {
+      "offset": 5858,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "バキッ！",
+      "en": "\"Why don't you just say 'No' to the person like you mean\nit?\"",
+      "text": "\"Why don't you just say 'No' to the person like you mean\nit?\""
+    },
+    {
+      "offset": 5882,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ドカッ！",
+      "en": "That way we don't have to go through this much trouble.",
+      "text": "That way we don't have to go through this much trouble."
+    },
+    {
+      "offset": 5895,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子の３連コンボが命知らずのチャレンジャー\nに炸裂した。",
+      "en": "\"Oh boy, you're hopeless......\"",
+      "text": "\"Oh boy, you're hopeless......\""
+    },
+    {
+      "offset": 5955,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ご愁傷様……。",
+      "en": "Junichi thinks, scratching his head.",
+      "text": "Junichi thinks, scratching his head."
+    },
+    {
+      "offset": 5974,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は杉並に向かって、｛がっしょう／合掌｝した。",
+      "en": "Well, it can't be denied that I owe Mako......",
+      "text": "Well, it can't be denied that I owe Mako......"
+    },
+    {
+      "offset": 6162,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そこで、がくっと息絶えるのかと思いきや、杉\n並はゾンビのごとく立ち直った。",
+      "en": "\"So I just need to act like I'm dating you, correct?\"",
+      "text": "\"So I just need to act like I'm dating you, correct?\""
+    },
+    {
+      "offset": 6275,
+      "speaker": "Mako",
+      "speaker_jp": "杉並",
+      "jp": "「で、まあ、そこでだ……」",
+      "en": "\"Correct.\"",
+      "text": "\"Correct.\""
+    },
+    {
+      "offset": 6308,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "おおっ！　なんてタフなヤツだ。ちょっと賞賛\nの眼差しを送る。",
+      "en": "\"Haah......\"",
+      "text": "\"Haah......\""
+    },
+    {
+      "offset": 6372,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子もさすがに呆気にとられているようだった。",
+      "en": "Mako is relieved, but I release a sigh because it's a pain.",
+      "text": "Mako is relieved, but I release a sigh because it's a pain."
+    },
+    {
+      "offset": 6421,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並はダメージなどなかったかのように、今度\nはビシッと眞子を指さす。",
+      "en": "\"So you told me to act like I'm your boyfriend, but what am\nI supposed to do?\"",
+      "text": "\"So you told me to act like I'm your boyfriend, but what am\nI supposed to do?\""
+    },
+    {
+      "offset": 6617,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ど、どうしてあんたが、そんなこと知ってん\n　のよ！」",
+      "en": "\"Nothing. You just need to be around me.\"",
+      "text": "\"Nothing. You just need to be around me.\""
+    },
+    {
+      "offset": 6677,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子の慌てぶりからすると、杉並の言ってるこ\nとは、どうやら図星らしい。",
+      "en": "\"Is that it?\"",
+      "text": "\"Is that it?\""
+    },
+    {
+      "offset": 6781,
+      "speaker": "Mako",
+      "speaker_jp": "杉並",
+      "jp": "「ふっ、我が非公式新聞部の情報力を侮っても\n　らっては困るな」",
+      "en": "\"What else do you have to do?\"",
+      "text": "\"What else do you have to do?\""
+    },
+    {
+      "offset": 6963,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……ヤンさんって、誰？",
+      "en": "\"Well......\"",
+      "text": "\"Well......\""
+    },
+    {
+      "offset": 6992,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、おまえは何が言いたいわけだ？」",
+      "en": "Dating, kissing, and even more......",
+      "text": "Dating, kissing, and even more......"
+    },
+    {
+      "offset": 7035,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並が、俺と眞子を交互に眺めながら、作戦司\n令官のように説明を展開する。",
+      "en": "............",
+      "text": "............"
+    },
+    {
+      "offset": 7292,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「それはそうだけど……」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 7472,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "つまりは、俺と眞子が恋人の演技をしつつ、杉\n並が非公式新聞部を使って、噂を広めるという\nことだった。",
+      "en": "\"No, nothing......\"",
+      "text": "\"No, nothing......\""
+    },
+    {
+      "offset": 7575,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "話を聞く分には、なるほど効果的だと思えるの\nだが……。",
+      "en": "Shit. Was I grinning?",
+      "text": "Shit. Was I grinning?"
+    },
+    {
+      "offset": 7635,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（大丈夫かよ、それ）",
+      "en": "\"But our break will start tomorrow.\"",
+      "text": "\"But our break will start tomorrow.\""
+    },
+    {
+      "offset": 7662,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何か、あることないこと背びれ尾びれがついた\n上に拡大解釈までされて、あとで取り返しのつ\nかないことになるんじゃないのか。",
+      "en": "Are we gonna be able to show this girl who likes Mako that\nMako is dating me? There's no point in doing this if the\ngirl can't find out the relationship between us, I guess.",
+      "text": "Are we gonna be able to show this girl who likes Mako that\nMako is dating me? There's no point in doing this if the\ngirl can't find out the relationship between us, I guess."
+    },
+    {
+      "offset": 8013,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「うん。悪い話じゃないみたいだし」",
+      "en": "\"We'll have to arrange the graduation party.\"",
+      "text": "\"We'll have to arrange the graduation party.\""
+    },
+    {
+      "offset": 8174,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頭をかいて考える。",
+      "en": "\"That's not required.\"",
+      "text": "\"That's not required.\""
+    },
+    {
+      "offset": 8197,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子には借りがないわけじゃないし……。",
+      "en": "............",
+      "text": "............"
+    },
+    {
+      "offset": 8242,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、俺はただ、眞子とつき合ってることにす\n　ればいいんだな？」",
+      "en": "I have a bad hunch.",
+      "text": "I have a bad hunch."
+    },
+    {
+      "offset": 8345,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ありがと、朝倉」",
+      "en": "\"Help me prepare for the party.\"",
+      "text": "\"Help me prepare for the party.\""
+    },
+    {
+      "offset": 8389,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は先々の面倒を思いやり、ため息をついた。",
+      "en": "My hunch was right.",
+      "text": "My hunch was right."
+    },
+    {
+      "offset": 8563,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "めちゃくちゃ生き生きとした表情で、杉並が屋\n上から出ていった。",
+      "en": "\"Why do I have to help you!? What will happen to my plan,\nwhich is to lie around the house all day long!?\"",
+      "text": "\"Why do I have to help you!? What will happen to my plan,\nwhich is to lie around the house all day long!?\""
+    },
+    {
+      "offset": 8891,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「別に。一緒にいてくれればいいわよ」",
+      "en": "\"Aren't you my boyfriend?\"",
+      "text": "\"Aren't you my boyfriend?\""
+    },
+    {
+      "offset": 9043,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "デートとか、キスとか……。",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 9119,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「なによ」",
+      "en": "\"The members of the school orchestra are planning to play\nmusic, but we don't have enough boys who can work behind the\nscenes. We've been practicing in the music room, so will you\ncome there starting from tomorrow?\"",
+      "text": "\"The members of the school orchestra are planning to play\nmusic, but we don't have enough boys who can work behind the\nscenes. We've been practicing in the music room, so will you\ncome there starting from tomorrow?\""
+    },
+    {
+      "offset": 9155,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いかん。顔がにやけてたか？",
+      "en": "\"Are you serious?\"",
+      "text": "\"Are you serious?\""
+    },
+    {
+      "offset": 9216,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「と言うわけで、明日から、あたしの準備を手\n　伝ってよ」",
+      "en": "\"We need to show everyone that we're dating.\"",
+      "text": "\"We need to show everyone that we're dating.\""
+    },
+    {
+      "offset": 9391,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しまった……。音楽部は卒業パーティーに参加\nするのか。",
+      "en": "\"......Huh......\"",
+      "text": "\"......Huh......\""
+    },
+    {
+      "offset": 9451,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんで俺が手伝わなきゃなんないんだよ！？\n　俺の１日中家でごろごろ計画は！？」",
+      "en": "I shouldn't have accepted her request... It's a pain in the\nass.",
+      "text": "I shouldn't have accepted her request... It's a pain in the\nass."
+    },
+    {
+      "offset": 9896,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "引き受けたのは早計だったかも……むっちゃ、\nかったるい。",
+      "en": "\"All right... Bye, I'm off now.\"",
+      "text": "\"All right... Bye, I'm off now.\""
+    },
+    {
+      "offset": 9958,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「わかったよ……じゃあな、俺はもう行くぞ」",
+      "en": "Turning my back on Mako, I open the iron door.",
+      "text": "Turning my back on Mako, I open the iron door."
+    },
+    {
+      "offset": 10069,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「朝倉ッ」",
+      "en": "\"Asakura.\"",
+      "text": "\"Asakura.\""
+    },
+    {
+      "offset": 10086,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ん？」",
+      "en": "\"Hmm?\"",
+      "text": "\"Hmm?\""
+    },
+    {
+      "offset": 10134,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ありがとね」",
+      "en": "\"Thanks.\"",
+      "text": "\"Thanks.\""
+    },
+    {
+      "offset": 10155,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 10174,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子に軽く手で答え、扉を閉める。",
+      "en": "Responding to Mako with a faint wave, I close the door.",
+      "text": "Responding to Mako with a faint wave, I close the door."
+    },
+    {
+      "offset": 10231,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あぁ……かったるい……。",
+      "en": "Oh... What a pain in the neck...",
+      "text": "Oh... What a pain in the neck..."
+    },
+    {
+      "offset": 10364,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆眞子の頼み◆",
+      "en": "◆Mako◆",
+      "text": "◆Mako◆"
+    },
+    {
+      "offset": 10407,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "放課後、話があるという眞子に無理矢理連れら\nれ、屋上へ。",
+      "en": "Hmm?",
+      "text": "Hmm?"
+    },
+    {
+      "offset": 10467,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そこで恋人のフリをして欲しいと言われる。",
+      "en": "With my hand on the classroom door to go home, I look over\nmy shoulder at Mako's voice.",
+      "text": "With my hand on the classroom door to go home, I look over\nmy shoulder at Mako's voice."
+    },
+    {
+      "offset": 10512,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんでも卒業式に「女の子」から告白されそう\nで、それの予防策という事らしい。",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 10592,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並も一枚噛む事となり、一応引き受けた俺だ\nが……まったくかったるい。",
+      "en": "\"I need to talk to you.\"",
+      "text": "\"I need to talk to you.\""
+    }
+  ],
+  "choices": [],
+  "names": {
+    "379": "Mako",
+    "527": "Mako",
+    "609": "Mako",
+    "1115": "Mako",
+    "1245": "Mako",
+    "1842": "Mako",
+    "2084": "Mako",
+    "2327": "Mako",
+    "2415": "Mako",
+    "2733": "Mako",
+    "2967": "Mako",
+    "3281": "Mako",
+    "3398": "Mako",
+    "3706": "Mako",
+    "3899": "Mako",
+    "4661": "Mako",
+    "5388": "Mako",
+    "6267": "Mako",
+    "6609": "Mako",
+    "6773": "Mako",
+    "7284": "Mako",
+    "8005": "Mako",
+    "8337": "Mako",
+    "8883": "Mako",
+    "9111": "Mako",
+    "9208": "Mako",
+    "10061": "Mako",
+    "10126": "Mako"
+  }
+}

@@ -1,0 +1,515 @@
+{
+  "scene": "script_0796.obj",
+  "dialogues": [
+    {
+      "offset": 175,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「――ちゃん」",
+      "en": "\"Hm, are you awake?\"",
+      "text": "\"Hm, are you awake?\""
+    },
+    {
+      "offset": 196,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": "\"............!?\"",
+      "text": "\"............!?\""
+    },
+    {
+      "offset": 247,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "小さい、もみじのような形のぬくもりが、胸の\n上にのっている。",
+      "en": "When I open my eyes, I feel dizzy as if my head were\nshaking.",
+      "text": "When I open my eyes, I feel dizzy as if my head were\nshaking."
+    },
+    {
+      "offset": 313,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……くら」",
+      "en": "\"Huhh...\"",
+      "text": "\"Huhh...\""
+    },
+    {
+      "offset": 332,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当にバカだ。",
+      "en": "I breathe out.",
+      "text": "I breathe out."
+    },
+    {
+      "offset": 428,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「にゃ、起きた？」",
+      "en": "\"Don't move yet. After you come back from the dream, you may\nnot be able to move for a while. It's like Nemu-chan.\"",
+      "text": "\"Don't move yet. After you come back from the dream, you may\nnot be able to move for a while. It's like Nemu-chan.\""
+    },
+    {
+      "offset": 476,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目を開こうとした瞬間、｛ずがいこつ／頭蓋骨｝を直接シェイク\nされたような、ぐにゃり、とした｛めまい／眩暈｝を覚えた。",
+      "en": "She pats my chest through the cover, like a mother would.",
+      "text": "She pats my chest through the cover, like a mother would."
+    },
+    {
+      "offset": 598,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「は……」",
+      "en": "\"Sa...ku...\"",
+      "text": "\"Sa...ku...\""
+    },
+    {
+      "offset": 615,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "大きく息を吐く。",
+      "en": "I'm not sure the sound's coming out right.",
+      "text": "I'm not sure the sound's coming out right."
+    },
+    {
+      "offset": 651,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「無理に動かないほうがいいよ。あんなに深く\n　夢を見たら、しばらく｛こっち／現｝で動けないよ。音夢\n　ちゃんと同じだね」",
+      "en": "\"Nyahahaha... I'm here to say goodbye.\"",
+      "text": "\"Nyahahaha... I'm here to say goodbye.\""
+    },
+    {
+      "offset": 776,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とんとん、とオカアサンのように布団の上から\n胸を叩かれる。",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 840,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さ……く……」",
+      "en": "It was sudden, but I'm not really surprised.",
+      "text": "It was sudden, but I'm not really surprised."
+    },
+    {
+      "offset": 863,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "声が本当に出たのかどうか。",
+      "en": "I wonder why? Probably, I already expected that... or I've\nexperienced that before.",
+      "text": "I wonder why? Probably, I already expected that... or I've\nexperienced that before."
+    },
+    {
+      "offset": 916,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「にゃははは……お別れを言いに来たんだよ」",
+      "en": "\"The dream may be pleasant, but I have to bring it to an\nend, or else Nemu will be gone soon.\"",
+      "text": "\"The dream may be pleasant, but I have to bring it to an\nend, or else Nemu will be gone soon.\""
+    },
+    {
+      "offset": 984,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "突然なのに、あまり驚きはない。",
+      "en": "Sakura murmurs slowly.",
+      "text": "Sakura murmurs slowly."
+    },
+    {
+      "offset": 1108,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「このままじゃ音夢ちゃんが消えちゃうからね。\n　楽しくても、夢は終わらせないと……」",
+      "en": "\"If Nemu-chan disappeared, you would feel sad, because she\nis your sister.\"",
+      "text": "\"If Nemu-chan disappeared, you would feel sad, because she\nis your sister.\""
+    },
+    {
+      "offset": 1256,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「音夢ちゃんが消えたら、お兄ちゃん悲しいも\n　んね。音夢ちゃんはお兄ちゃんの妹だもんね」",
+      "en": "\"I caused you a lot of trouble, then left for six years, but\nNemu-chan's been by your side all this time.\"",
+      "text": "\"I caused you a lot of trouble, then left for six years, but\nNemu-chan's been by your side all this time.\""
+    },
+    {
+      "offset": 1488,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺に語りかけているというよりも、自分に言い\n聞かせるように。",
+      "en": "She's speaking to herself more than to me.",
+      "text": "She's speaking to herself more than to me."
+    },
+    {
+      "offset": 1552,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それはまるで――。",
+      "en": "It's like...",
+      "text": "It's like..."
+    },
+    {
+      "offset": 1590,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うん…………嫉妬……だよね……」",
+      "en": "\"Yes, I guess I'm jealous of her.\"",
+      "text": "\"Yes, I guess I'm jealous of her.\""
+    },
+    {
+      "offset": 1631,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛ざんげ／懺悔｝のようだった。",
+      "en": "It sounded like a confession.",
+      "text": "It sounded like a confession."
+    },
+    {
+      "offset": 1681,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「にゃはは。多分、音夢ちゃんが病気になって\n　いるのは、ボクが心のどこかで音夢ちゃんを\n　邪魔だと思っているからなんだよ……」",
+      "en": "\"Nyahaha. I know why Nemu-chan's been sick... because I\nalways feel like she's getting in my way, that's why.\"",
+      "text": "\"Nyahaha. I know why Nemu-chan's been sick... because I\nalways feel like she's getting in my way, that's why.\""
+    },
+    {
+      "offset": 1825,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「そうじゃなかったら……ボクはなんでも出来\n　るはずだもん。音夢ちゃんの病気なんて、す\n　ぐに治せなきゃいけないのに……」",
+      "en": "\"Otherwise, I would've done many things I wanted. And I\ncould've fixed Nemu-chan's health instantly.\"",
+      "text": "\"Otherwise, I would've done many things I wanted. And I\ncould've fixed Nemu-chan's health instantly.\""
+    },
+    {
+      "offset": 1965,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「なんて……嫌な子……」",
+      "en": "\"How awful I am.\"",
+      "text": "\"How awful I am.\""
+    },
+    {
+      "offset": 2009,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「だから消えるの……」",
+      "en": "\"That's why I want to disappear.\"",
+      "text": "\"That's why I want to disappear.\""
+    },
+    {
+      "offset": 2038,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 2051,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "首を振る気配。",
+      "en": "I feel her shaking her head.",
+      "text": "I feel her shaking her head."
+    },
+    {
+      "offset": 2070,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "小さな小さな気配。",
+      "en": "It feels like she's barely there.",
+      "text": "It feels like she's barely there."
+    },
+    {
+      "offset": 2093,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この世の中、こんなにも愛しくて、抱きしめた\nくて、守らなきゃいけないモノが他にはないっ\nて存在。",
+      "en": "With Sakura, all you can do is love her, want to hold her,\nand protect her.",
+      "text": "With Sakura, all you can do is love her, want to hold her,\nand protect her."
+    },
+    {
+      "offset": 2192,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なのに、この身体は指１本どころか、｛まぶた／瞼｝すら開\nいてくれない。",
+      "en": "Nonetheless, this body can't move even one finger, or even\nopen my eyes.",
+      "text": "Nonetheless, this body can't move even one finger, or even\nopen my eyes."
+    },
+    {
+      "offset": 2281,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「本当は、みんなに忘れてもらってひっそりと\n　消えたかったんだけど……お兄ちゃんだけは\n　忘れてくれなかったから」",
+      "en": "\"Actually, I wanted to go away quietly as it was... but I\ncame here since you didn't want to forget about me.\"",
+      "text": "\"Actually, I wanted to go away quietly as it was... but I\ncame here since you didn't want to forget about me.\""
+    },
+    {
+      "offset": 2413,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「うんん……」",
+      "en": "\"Hmm...\"",
+      "text": "\"Hmm...\""
+    },
+    {
+      "offset": 2447,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「にゃはは。それは多分……間違いなく、ボク\n　が忘れてほしくなかったんだろうね」",
+      "en": "\"Nyahaha. It's because I didn't want you to forget about\nme.\"",
+      "text": "\"Nyahaha. It's because I didn't want you to forget about\nme.\""
+    },
+    {
+      "offset": 2533,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": "............",
+      "text": "............"
+    },
+    {
+      "offset": 2548,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しばらくの沈黙。",
+      "en": "A long silence.",
+      "text": "A long silence."
+    },
+    {
+      "offset": 2569,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お互いの息遣いだけが耳につく。",
+      "en": "I only hear our breathing.",
+      "text": "I only hear our breathing."
+    },
+    {
+      "offset": 2604,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その時間が数秒だったのか、数時間だったのか。",
+      "en": "I don't know how long it lasts, a few seconds or a few\nhours...",
+      "text": "I don't know how long it lasts, a few seconds or a few\nhours..."
+    },
+    {
+      "offset": 2653,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふと、唇が重なる。",
+      "en": "I put my lips over hers slowly.",
+      "text": "I put my lips over hers slowly."
+    },
+    {
+      "offset": 2691,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「……ん」",
+      "en": "\"Mm...\"",
+      "text": "\"Mm...\""
+    },
+    {
+      "offset": 2708,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "甘い口付けの最中、頬に水がこぼれてきた。",
+      "en": "As I kiss her, I feel wetness on my cheek.",
+      "text": "As I kiss her, I feel wetness on my cheek."
+    },
+    {
+      "offset": 2753,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "泣いているんだ。ずっと、笑った声だけ俺に聞\nかせて。だから瞼が開かない。",
+      "en": "She must be crying. She'd been speaking with a smile in her\nvoice. That's why I can't open my eyes.",
+      "text": "She must be crying. She'd been speaking with a smile in her\nvoice. That's why I can't open my eyes."
+    },
+    {
+      "offset": 2844,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ごめんね……ボクが消えれば全て元に戻るか\n　ら。なにもかも」",
+      "en": "\"I'm sorry... but when I leave, everything will be all\nright.\"",
+      "text": "\"I'm sorry... but when I leave, everything will be all\nright.\""
+    },
+    {
+      "offset": 2925,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「もぅ耐えられないんだよ……誰も傷つけない\n　ように笑っているのは」",
+      "en": "\"I can't go on like this, always smiling so as not to hurt\nanyone.\"",
+      "text": "\"I can't go on like this, always smiling so as not to hurt\nanyone.\""
+    },
+    {
+      "offset": 3012,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「さよなら」",
+      "en": "\"Goodbye.\"",
+      "text": "\"Goodbye.\""
+    },
+    {
+      "offset": 3031,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そこで――。",
+      "en": "Then......",
+      "text": "Then......"
+    },
+    {
+      "offset": 3063,
+      "speaker": "Sakura",
+      "speaker_jp": "さくら",
+      "jp": "「ボク、たった３ヶ月だったけど、お兄ちゃん\n　達との生活は楽しかったよ♪」",
+      "en": "\"We only had 3 months to spend time together, but I had a\ngreat time with you.\"",
+      "text": "\"We only had 3 months to spend time together, but I had a\ngreat time with you.\""
+    },
+    {
+      "offset": 3143,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "最後までそんな言葉を残しやがって、気配が消\nえた。",
+      "en": "And she's gone, her last words ringing in the empty air.",
+      "text": "And she's gone, her last words ringing in the empty air."
+    },
+    {
+      "offset": 3197,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 3210,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 3250,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3269,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ゆっくりと上半身を起こす。頭痛もなく、むし\nろ充分過ぎる睡眠で調子がいい。",
+      "en": "I sit up slowly. I have no headache, and I feel better after\na good sleep.",
+      "text": "I sit up slowly. I have no headache, and I feel better after\na good sleep."
+    },
+    {
+      "offset": 3349,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「かったりぃな……あのバカが」",
+      "en": "\"She's such a pain in the neck.\"",
+      "text": "\"She's such a pain in the neck.\""
+    },
+    {
+      "offset": 3386,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "呟いて、ふと、頬から赤いものがこぼれた。",
+      "en": "As I say that, something red drops down on my cheeks.",
+      "text": "As I say that, something red drops down on my cheeks."
+    },
+    {
+      "offset": 3431,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それは涙ではなく、桜の花びらだった。",
+      "en": "It's not a tear, but a cherry petal.",
+      "text": "It's not a tear, but a cherry petal."
+    },
+    {
+      "offset": 3590,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆お別れの言葉◆",
+      "en": "◆Sakura◆",
+      "text": "◆Sakura◆"
+    },
+    {
+      "offset": 3628,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "意識が戻ったが、体も頭も痛くて、まともに目\nを開くことも、喋ることもできない……。",
+      "en": "..................",
+      "text": ".................."
+    },
+    {
+      "offset": 3714,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらが傍らで、ポツポツと言葉を紡いでいる。\nまるで｛ざんげ／懺悔｝のように、音夢について語っている。",
+      "en": "\"Oniichan.\"",
+      "text": "\"Oniichan.\""
+    },
+    {
+      "offset": 3820,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらの望むように、なって欲しいようになる\nこの島で、音夢の体調が良くならないのは、さ\nくらが心の奥でそれを願っているから……。",
+      "en": "I feel the warmth in the shape of a maple leaf on my chest.",
+      "text": "I feel the warmth in the shape of a maple leaf on my chest."
+    },
+    {
+      "offset": 3951,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらは、深い自責の念に捉われ、もうそういっ\nた状況に耐えられないのだという。だから、消\nえるのだという。",
+      "en": "\"......kura.\"",
+      "text": "\"......kura.\""
+    },
+    {
+      "offset": 4060,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――さよなら",
+      "en": "I'm such an idiot.",
+      "text": "I'm such an idiot."
+    },
+    {
+      "offset": 4098,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言い残して、さくらの気配が消えた。",
+      "en": "I can't believe how happy I am to see Sakura.",
+      "text": "I can't believe how happy I am to see Sakura."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "165": "Sakura",
+    "418": "Sakura",
+    "641": "Sakura",
+    "906": "Sakura",
+    "1098": "Sakura",
+    "1246": "Sakura",
+    "1580": "Sakura",
+    "1671": "Sakura",
+    "1815": "Sakura",
+    "1955": "Sakura",
+    "1999": "Sakura",
+    "2271": "Sakura",
+    "2403": "Sakura",
+    "2437": "Sakura",
+    "2681": "Sakura",
+    "2834": "Sakura",
+    "2915": "Sakura",
+    "3002": "Sakura",
+    "3053": "Sakura"
+  }
+}

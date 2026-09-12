@@ -1,0 +1,757 @@
+{
+  "scene": "script_0827.obj",
+  "dialogues": [
+    {
+      "offset": 188,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さん、今日の夕飯、なに食べたい？」",
+      "en": "\"What do you want to eat for dinner tonight, niisan?\"",
+      "text": "\"What do you want to eat for dinner tonight, niisan?\""
+    },
+    {
+      "offset": 233,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 248,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢がいるのに自室に引きこもるのも何なので、\n居間でテレビを見ていたら、声をかけられた。",
+      "en": "Nemu asked me as I watched TV in the living room.",
+      "text": "Nemu asked me as I watched TV in the living room."
+    },
+    {
+      "offset": 342,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「別にコンビニ弁当でいいんじゃないか？」",
+      "en": "\"We can get something from the convenience store.\"",
+      "text": "\"We can get something from the convenience store.\""
+    },
+    {
+      "offset": 417,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ダ・メ・で・す。そんなんじゃ栄養のバラン\n　スが取れないじゃない。任せて。休みの間は\n　私が作ってあげる」",
+      "en": "\"No. It's not nutritious enough. I'll cook for you while I'm\nat home.\"",
+      "text": "\"No. It's not nutritious enough. I'll cook for you while I'm\nat home.\""
+    },
+    {
+      "offset": 530,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 549,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……は？」",
+      "en": "\"......What?\"",
+      "text": "\"......What?\""
+    },
+    {
+      "offset": 568,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ちょっと待て。何でお前が飯を作るんだ！？」",
+      "en": "\"Wait a minute. Why are you going to cook?\"",
+      "text": "\"Wait a minute. Why are you going to cook?\""
+    },
+    {
+      "offset": 647,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だって、できる時に作っておかないと、もう\n　そんなに機会もなさそうだし」",
+      "en": "\"I have to cook for you when I can. I don't have the\nopportunity to do it that much.\"",
+      "text": "\"I have to cook for you when I can. I don't have the\nopportunity to do it that much.\""
+    },
+    {
+      "offset": 727,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しおらしく言うが、そんなことでは騙されない。",
+      "en": "She spoke innocently, but I'm not being fooled.",
+      "text": "She spoke innocently, but I'm not being fooled."
+    },
+    {
+      "offset": 778,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや、そんな気は遣わんでいいって。それに\n　まだ俺、昼飯も食べてないし」",
+      "en": "\"You don't have to worry about it. Besides, I haven't even\nhad my lunch yet.\"",
+      "text": "\"You don't have to worry about it. Besides, I haven't even\nhad my lunch yet.\""
+    },
+    {
+      "offset": 886,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「今日は朝昼兼食です」",
+      "en": "\"Your breakfast was your lunch today.\"",
+      "text": "\"Your breakfast was your lunch today.\""
+    },
+    {
+      "offset": 915,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 934,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そうだ。帰省祝いに、今日は外食にしようか。\n　どこがいい？」",
+      "en": "\"I know! We'll go out for dinner as a part of your welcome\nhome celebration. Where do you want to go?\"",
+      "text": "\"I know! We'll go out for dinner as a part of your welcome\nhome celebration. Where do you want to go?\""
+    },
+    {
+      "offset": 1002,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ポンと手を打って、華麗で優雅で｛さわ／爽｝やかな笑み\nを作りあげる。",
+      "en": "I clapped my hands and gave a fresh smile.",
+      "text": "I clapped my hands and gave a fresh smile."
+    },
+    {
+      "offset": 1104,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「お家」",
+      "en": "\"I want to stay home.\"",
+      "text": "\"I want to stay home.\""
+    },
+    {
+      "offset": 1119,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こちらも俺とタメを張る可愛らしい笑顔。",
+      "en": "She also smiled with a cute face.",
+      "text": "She also smiled with a cute face."
+    },
+    {
+      "offset": 1164,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1194,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1213,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「はぁ……せめて１番得意なもので頼む……」",
+      "en": "\"......Hah...... will you make something you know you won't\nmess up......?\"",
+      "text": "\"......Hah...... will you make something you know you won't\nmess up......?\""
+    },
+    {
+      "offset": 1308,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――ピンポーン",
+      "en": "Ding dong.",
+      "text": "Ding dong."
+    },
+    {
+      "offset": 1327,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢が料理の本を見ながら、今日作る毒物を調\nべている――それを怖々と見ているとインター\nホンが鳴った。",
+      "en": "Nemu was looking at the recipe book, studying whatever kind\nof poisonous food she's cooking tonight. As I was staring at\nher with fear, I heard the door bell ring.",
+      "text": "Nemu was looking at the recipe book, studying whatever kind\nof poisonous food she's cooking tonight. As I was staring at\nher with fear, I heard the door bell ring."
+    },
+    {
+      "offset": 1434,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はい？」",
+      "en": "\"Yes?\"",
+      "text": "\"Yes?\""
+    },
+    {
+      "offset": 1462,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "『あたしだけど』",
+      "en": "\"It's me.\"",
+      "text": "\"It's me.\""
+    },
+    {
+      "offset": 1508,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "意外な珍客に思わず聞き返す。",
+      "en": "\"......Mako?\"",
+      "text": "\"......Mako?\""
+    },
+    {
+      "offset": 1554,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "『うん。ちょっと開けてくれる？』",
+      "en": "I asked with surprise. This is unexpected.",
+      "text": "I asked with surprise. This is unexpected."
+    },
+    {
+      "offset": 1593,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ああ」",
+      "en": "\"Yes. Will you open the door?\"",
+      "text": "\"Yes. Will you open the door?\""
+    },
+    {
+      "offset": 1608,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "玄関に向かいながら、少し鬱な気分になる。",
+      "en": "\"Yeah.\"",
+      "text": "\"Yeah.\""
+    },
+    {
+      "offset": 1653,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子からはどうしても萌先輩のことが連想され\nてしまう。",
+      "en": "I headed toward the front door and felt a little depressed.\nI thought about Moe-sempai when I heard Mako's voice.",
+      "text": "I headed toward the front door and felt a little depressed.\nI thought about Moe-sempai when I heard Mako's voice."
+    },
+    {
+      "offset": 1736,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どうした？」",
+      "en": "\"What's up?\"",
+      "text": "\"What's up?\""
+    },
+    {
+      "offset": 1757,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "家のドアを開けて、眞子を玄関に招き入れる。",
+      "en": "I opened the door and invited Mako into the house.",
+      "text": "I opened the door and invited Mako into the house."
+    },
+    {
+      "offset": 1844,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「うん……ちょっと朝倉に｛き／訊｝きたいことがあっ\n　てさ」",
+      "en": "\"Yeah...... I wanted to ask you about something.\"",
+      "text": "\"Yeah...... I wanted to ask you about something.\""
+    },
+    {
+      "offset": 1910,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「訊きたいこと？」",
+      "en": "\"You want to ask me something?\"",
+      "text": "\"You want to ask me something?\""
+    },
+    {
+      "offset": 1935,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "わざわざ連休中に家まで来るとは、いったい何\nを訊きたいのだろう？",
+      "en": "I wonder what she wants. She came all the way to my house on\na holiday.",
+      "text": "I wonder what she wants. She came all the way to my house on\na holiday."
+    },
+    {
+      "offset": 2016,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「うん、お姉ちゃんのことなんだけど」",
+      "en": "\"Yes, it's about my sister.\"",
+      "text": "\"Yes, it's about my sister.\""
+    },
+    {
+      "offset": 2059,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「萌……先輩……」",
+      "en": "\"Moe...... sempai?\"",
+      "text": "\"Moe...... sempai?\""
+    },
+    {
+      "offset": 2084,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "“さよなら”と言われたときの顔が、目の前に\nちらつく。",
+      "en": "I can't stop thinking about the look on her face when she\ntold me goodbye.",
+      "text": "I can't stop thinking about the look on her face when she\ntold me goodbye."
+    },
+    {
+      "offset": 2155,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「なに？」",
+      "en": "\"What is it?\"",
+      "text": "\"What is it?\""
+    },
+    {
+      "offset": 2172,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「いや……で、萌先輩がどうしたんだ？」",
+      "en": "\"Nothing...... So what's wrong with Moe-sempai?\"",
+      "text": "\"Nothing...... So what's wrong with Moe-sempai?\""
+    },
+    {
+      "offset": 2217,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "表情を隠して、話をふる。",
+      "en": "I asked her as I hid my emotion.",
+      "text": "I asked her as I hid my emotion."
+    },
+    {
+      "offset": 2276,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……ちょっと最近、様子が変なんだよね」",
+      "en": "\"Well...... She's been acting strange lately.\"",
+      "text": "\"Well...... She's been acting strange lately.\""
+    },
+    {
+      "offset": 2323,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2342,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "確かに、変だったな。まさか、それがフラれる\nことに繋がろうとは思ってもなかったけど……。",
+      "en": "Indeed she was. I never thought she would reject me because\nof it......",
+      "text": "Indeed she was. I never thought she would reject me because\nof it......"
+    },
+    {
+      "offset": 2464,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「それで、なんか心当たりがないかと思って」",
+      "en": "\"I was wondering if you knew what was wrong with her.\"",
+      "text": "\"I was wondering if you knew what was wrong with her.\""
+    },
+    {
+      "offset": 2513,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……いや、ないけど」",
+      "en": "\"......I don't know.\"",
+      "text": "\"......I don't know.\""
+    },
+    {
+      "offset": 2542,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さすがに先輩の妹といえど言えることではない。\nフラれたなんて、言えるわけがない……。",
+      "en": "Although she's Moe-sempai's sister, I can't reveal that I\nwas rejected by her.",
+      "text": "Although she's Moe-sempai's sister, I can't reveal that I\nwas rejected by her."
+    },
+    {
+      "offset": 2643,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「何でもいいんだけど。普段と変わったことと\n　かなかった？」",
+      "en": "\"Tell me anything. Has she been doing anything strange, or\ndifferent to normal?\"",
+      "text": "\"Tell me anything. Has she been doing anything strange, or\ndifferent to normal?\""
+    },
+    {
+      "offset": 2709,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「変わったことね……あぁ」",
+      "en": "\"Anything different, huh......?\"",
+      "text": "\"Anything different, huh......?\""
+    },
+    {
+      "offset": 2742,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「そう言えばお昼に、前に飲んでた錠剤をまた\n　飲み始めてたかな……」",
+      "en": "\"She was taking the pills she used to take during lunch\ntime......\"",
+      "text": "\"She was taking the pills she used to take during lunch\ntime......\""
+    },
+    {
+      "offset": 2816,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "フラれたことを隠したくて、当り障りのないこ\nとを適当に答える。",
+      "en": "I wanted to hide the fact that I was rejected, and told her\nan irrelevant thing.",
+      "text": "I wanted to hide the fact that I was rejected, and told her\nan irrelevant thing."
+    },
+    {
+      "offset": 2912,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「えっ！？　錠剤って、前に飲んでたヤツ？」",
+      "en": "\"What? You mean the pills she was taking before?\"",
+      "text": "\"What? You mean the pills she was taking before?\""
+    },
+    {
+      "offset": 2961,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ん？　ああ」",
+      "en": "\"Huh? Yeah.\"",
+      "text": "\"Huh? Yeah.\""
+    },
+    {
+      "offset": 2982,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子の迫力に思わず身をひいてしまう。こんな、\nどうでも良さそうなことに反応するとは、思わ\nなかった。",
+      "en": "Mako's reaction made me surprised. I didn't think she would\nreact this way to irrelevant information I offered.",
+      "text": "Mako's reaction made me surprised. I didn't think she would\nreact this way to irrelevant information I offered."
+    },
+    {
+      "offset": 3115,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3134,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「どうしたんだ？」",
+      "en": "\"What's wrong?\"",
+      "text": "\"What's wrong?\""
+    },
+    {
+      "offset": 3187,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「うん……それが……」",
+      "en": "\"Yes...... well......\"",
+      "text": "\"Yes...... well......\""
+    },
+    {
+      "offset": 3249,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さん、どうしたの？」",
+      "en": "\"What is it, niisan?\"",
+      "text": "\"What is it, niisan?\""
+    },
+    {
+      "offset": 3280,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "料理の本を片手に、音夢が居間から出てくる。",
+      "en": "Nemu came out from the living room with the recipe book in\nher hand.",
+      "text": "Nemu came out from the living room with the recipe book in\nher hand."
+    },
+    {
+      "offset": 3373,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「音夢！？　どうしてここにいるの？」",
+      "en": "\"Nemu? Why are you here?\"",
+      "text": "\"Nemu? Why are you here?\""
+    },
+    {
+      "offset": 3416,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何か大事なことを言おうとしていた眞子だが、\n音夢の姿を見て、驚きの声をあげる。",
+      "en": "Mako was trying to say something important, but seeing Nemu\nclearly surprised her.",
+      "text": "Mako was trying to say something important, but seeing Nemu\nclearly surprised her."
+    },
+    {
+      "offset": 3528,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、うん」",
+      "en": "\"Oh, Mako.\"",
+      "text": "\"Oh, Mako.\""
+    },
+    {
+      "offset": 3575,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ちょっとゴールデンウィーク中だけ、帰省す\n　ることにしたんです」",
+      "en": "\"I came back home for the Golden Week vacation.\"",
+      "text": "\"I came back home for the Golden Week vacation.\""
+    },
+    {
+      "offset": 3647,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうやら裏モードは今も健在なようだ。",
+      "en": "She answered elegantly with a smile.",
+      "text": "She answered elegantly with a smile."
+    },
+    {
+      "offset": 3690,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（……さすがだ）",
+      "en": "(......That's Nemu.)",
+      "text": "(......That's Nemu.)"
+    },
+    {
+      "offset": 3741,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「？　その手に持ってるのってなに？」",
+      "en": "\"What do you have in your hand?\"",
+      "text": "\"What do you have in your hand?\""
+    },
+    {
+      "offset": 3795,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「これですか？　お料理の本です。こっちにい\n　る間は、兄さんに料理を作ってあげようと思\n　いまして」",
+      "en": "\"Oh this? It's a recipe book. I'm going to cook for niisan\nwhile I'm here.\"",
+      "text": "\"Oh this? It's a recipe book. I'm going to cook for niisan\nwhile I'm here.\""
+    },
+    {
+      "offset": 3928,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「へぇ、そうなんだ」",
+      "en": "\"Oh, I see.\"",
+      "text": "\"Oh, I see.\""
+    },
+    {
+      "offset": 3955,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3974,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ここにいる間？",
+      "en": "She's going to cook while she's here?",
+      "text": "She's going to cook while she's here?"
+    },
+    {
+      "offset": 3995,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（――俺は長生きできないらしい）",
+      "en": "(......I'm dead.)",
+      "text": "(......I'm dead.)"
+    },
+    {
+      "offset": 4062,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「じゃあ朝倉、あたしは帰るよ」",
+      "en": "\"Well Asakura, I'm going home.\"",
+      "text": "\"Well Asakura, I'm going home.\""
+    },
+    {
+      "offset": 4099,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「おい、さっき何か言おうとしてなかったか？」",
+      "en": "\"Hey, weren't you just trying to say something?\"",
+      "text": "\"Hey, weren't you just trying to say something?\""
+    },
+    {
+      "offset": 4161,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「うん？　まあ、また今度ね。せっかくの家族\n　団らんをじゃましちゃ悪いし」",
+      "en": "\"Well, I'll tell you next time. I don't want to interrupt\nyour quality time with your sister.\"",
+      "text": "\"Well, I'll tell you next time. I don't want to interrupt\nyour quality time with your sister.\""
+    },
+    {
+      "offset": 4269,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ごめんね、眞子」",
+      "en": "\"I'm sorry Mako.\"",
+      "text": "\"I'm sorry Mako.\""
+    },
+    {
+      "offset": 4305,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ううん。じゃあね」",
+      "en": "\"Don't worry. See you later.\"",
+      "text": "\"Don't worry. See you later.\""
+    },
+    {
+      "offset": 4343,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢に微笑みかけて眞子が出て行く。",
+      "en": "Mako smiled at Nemu and left.",
+      "text": "Mako smiled at Nemu and left."
+    },
+    {
+      "offset": 4384,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「結局あいつ……何をしに来たんだ？」",
+      "en": "\"What did she come here for......?\"",
+      "text": "\"What did she come here for......?\""
+    },
+    {
+      "offset": 4436,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "呟きながら、やはりなにかあったらしい萌先輩\nのことだけに気になった。",
+      "en": "As I murmured, my mind was consumed with Moe-sempai.",
+      "text": "As I murmured, my mind was consumed with Moe-sempai."
+    },
+    {
+      "offset": 4510,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（フラれたのにな……）",
+      "en": "(I'm the one who got rejected......)",
+      "text": "(I'm the one who got rejected......)"
+    },
+    {
+      "offset": 4588,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ねえねえ兄さん、これなんかどうかな♪」",
+      "en": "\"Hey niisan, what do you think of this one?\"",
+      "text": "\"Hey niisan, what do you think of this one?\""
+    },
+    {
+      "offset": 4635,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢が、はしゃいで料理本を見せてくる。",
+      "en": "Nemu showed me the recipe book with excitement.",
+      "text": "Nemu showed me the recipe book with excitement."
+    },
+    {
+      "offset": 4678,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だから、１番得意なのを作ってくれって言った\nのに、どうして本を見せてくるんだッ！",
+      "en": "I told her to cook something she won't mess up. Why's she\nshowing me the recipe book?",
+      "text": "I told her to cook something she won't mess up. Why's she\nshowing me the recipe book?"
+    },
+    {
+      "offset": 4762,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 4775,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "はぁ――。",
+      "en": "Sigh......",
+      "text": "Sigh......"
+    },
+    {
+      "offset": 4792,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……いいんじゃないか」",
+      "en": "\"......It looks fine.\"",
+      "text": "\"......It looks fine.\""
+    },
+    {
+      "offset": 4823,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだか毒でも食べてないと、やってられそう\nになかった。",
+      "en": "I might as well just eat her poison.",
+      "text": "I might as well just eat her poison."
+    },
+    {
+      "offset": 5005,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆眞子が来た◆",
+      "en": "◆Mako came over◆",
+      "text": "◆Mako came over◆"
+    },
+    {
+      "offset": 5048,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子がやって来た。萌先輩の様子が変な理由を、\n俺に尋ねてきたのだ。",
+      "en": "Mako came to my house and asked me why Moe-sempai was acting\nstrange lately.",
+      "text": "Mako came to my house and asked me why Moe-sempai was acting\nstrange lately."
+    },
+    {
+      "offset": 5118,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さすがに開けっぴろげに言う訳にはいかず、適\n当な言葉でお茶を濁そうとした。",
+      "en": "I couldn't tell her everything, so I gave her irrelevant\ninformation.",
+      "text": "I couldn't tell her everything, so I gave her irrelevant\ninformation."
+    },
+    {
+      "offset": 5196,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "が──たまたま口にした錠剤の事に、眞子は、\n一瞬だけ真剣な表情を浮かべたのだった。",
+      "en": "However...... Mako had a serious expression when I told her\nabout the pills Moe-sempai was taking.",
+      "text": "However...... Mako had a serious expression when I told her\nabout the pills Moe-sempai was taking."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "180": "Nemu",
+    "409": "Nemu",
+    "639": "Nemu",
+    "878": "Nemu",
+    "1096": "Nemu",
+    "1186": "Nemu",
+    "1454": "Mako",
+    "1546": "Mako",
+    "1836": "Mako",
+    "2008": "Mako",
+    "2147": "Mako",
+    "2268": "Mako",
+    "2456": "Mako",
+    "2635": "Mako",
+    "2904": "Mako",
+    "3107": "Mako",
+    "3179": "Mako",
+    "3241": "Nemu",
+    "3365": "Mako",
+    "3520": "Nemu",
+    "3567": "Nemu",
+    "3733": "Mako",
+    "3787": "Nemu",
+    "3920": "Mako",
+    "4054": "Mako",
+    "4153": "Mako",
+    "4261": "Nemu",
+    "4297": "Mako",
+    "4580": "Nemu"
+  }
+}

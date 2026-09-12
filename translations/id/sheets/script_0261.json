@@ -1,0 +1,653 @@
+{
+  "scene": "script_0261.obj",
+  "dialogues": [
+    {
+      "offset": 143,
+      "speaker": "A voice",
+      "speaker_jp": "声",
+      "jp": "「あの……」",
+      "en": "\"Excuse me......\"",
+      "text": "\"Excuse me......\""
+    },
+    {
+      "offset": 162,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どこかから、もやではない声が聞こえる。",
+      "en": "I could hear a voice.",
+      "text": "I could hear a voice."
+    },
+    {
+      "offset": 205,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "おっとりとした……遠慮がちな……でも、はっ\nきりとした声。",
+      "en": "The voice sounded mellow...... and shy...... but clear.",
+      "text": "The voice sounded mellow...... and shy...... but clear."
+    },
+    {
+      "offset": 267,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "　　　　　　　　　　　・\n　　　　　　　　　　　・\n　　　　　　　　　　　・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 346,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それきり、聞こえなくなってしまう。",
+      "en": "Then it stopped.",
+      "text": "Then it stopped."
+    },
+    {
+      "offset": 385,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "　　　　　　　　　　　・\n　　　　　　　　　　　・\n　　　　　　　　　　　・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 464,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "気のせいだったのだろうか？",
+      "en": "Was I imagining it?",
+      "text": "Was I imagining it?"
+    },
+    {
+      "offset": 495,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それとも、夢の始まりだろうか？",
+      "en": "Or is this the beginning of a dream?",
+      "text": "Or is this the beginning of a dream?"
+    },
+    {
+      "offset": 536,
+      "speaker": "A voice",
+      "speaker_jp": "声",
+      "jp": "「あの……」",
+      "en": "\"Excuse me......\"",
+      "text": "\"Excuse me......\""
+    },
+    {
+      "offset": 555,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "再び、さっきの声が聞こえる……今度は、もっ\nとはっきりと。",
+      "en": "I could hear the voice again...... it was clearer this time.",
+      "text": "I could hear the voice again...... it was clearer this time."
+    },
+    {
+      "offset": 617,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだか、どこかで聞いた声がする。",
+      "en": "It sounded familiar.",
+      "text": "It sounded familiar."
+    },
+    {
+      "offset": 667,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あの……朝倉くん」",
+      "en": "\"Excuse me...... Asakura-kun.\"",
+      "text": "\"Excuse me...... Asakura-kun.\""
+    },
+    {
+      "offset": 696,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "これは……萌先輩？",
+      "en": "Is it...... Moe-sempai?",
+      "text": "Is it...... Moe-sempai?"
+    },
+    {
+      "offset": 735,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「朝倉くん、あの……起きてください」",
+      "en": "\"Asakura-kun, um...... please wake up.\"",
+      "text": "\"Asakura-kun, um...... please wake up.\""
+    },
+    {
+      "offset": 778,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんで、萌先輩が俺を起こしてるんだ？",
+      "en": "Why's Moe-sempai waking me up?",
+      "text": "Why's Moe-sempai waking me up?"
+    },
+    {
+      "offset": 819,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつもなら、音夢が起こしに来てるはずだが……。",
+      "en": "It's usually Nemu who comes to wake me up......",
+      "text": "It's usually Nemu who comes to wake me up......"
+    },
+    {
+      "offset": 881,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「もう、お昼休みですよ」",
+      "en": "\"It's lunch break already.\"",
+      "text": "\"It's lunch break already.\""
+    },
+    {
+      "offset": 912,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昼……休み？　確か今は…少なくともちょっと\n前までは、１時限目の授業だったはずだが……。",
+      "en": "Lunch......break? I thought...... it was in the middle of\nthe first class......",
+      "text": "Lunch......break? I thought...... it was in the middle of\nthe first class......"
+    },
+    {
+      "offset": 1015,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「早く起きないと、時間がなくなってしまいま\n　す」",
+      "en": "\"You'll run out of time.\"",
+      "text": "\"You'll run out of time.\""
+    },
+    {
+      "offset": 1071,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ゆらゆらと、身体をゆすられる。",
+      "en": "She shook me.",
+      "text": "She shook me."
+    },
+    {
+      "offset": 1106,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだか、ゆりかごに揺られているみたいで……\n気持ちいい。",
+      "en": "It feels like I'm in a cradle...... It feels good.",
+      "text": "It feels like I'm in a cradle...... It feels good."
+    },
+    {
+      "offset": 1168,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "開こうとした｛まぶた／瞼｝に、鍵がかかる。",
+      "en": "My eyes didn't open.",
+      "text": "My eyes didn't open."
+    },
+    {
+      "offset": 1226,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「困りました……」",
+      "en": "\"Oh no......\"",
+      "text": "\"Oh no......\""
+    },
+    {
+      "offset": 1251,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "揺れが収まる。",
+      "en": "The shaking had stopped.",
+      "text": "The shaking had stopped."
+    },
+    {
+      "offset": 1281,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あの……起きてください」",
+      "en": "\"Excuse me...... please wake up.\"",
+      "text": "\"Excuse me...... please wake up.\""
+    },
+    {
+      "offset": 1314,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛りん／凛｝とした声が、聞こえてくる。",
+      "en": "She sounded a little stronger this time.",
+      "text": "She sounded a little stronger this time."
+    },
+    {
+      "offset": 1368,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「起きてくださらないと……叩きますよ」",
+      "en": "\"If you don't wake up...... I'll smack you.\"",
+      "text": "\"If you don't wake up...... I'll smack you.\""
+    },
+    {
+      "offset": 1413,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――叩く？",
+      "en": "...Slap me?",
+      "text": "...Slap me?"
+    },
+    {
+      "offset": 1428,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩らしからぬ言葉に、少しだけ意識が動く。",
+      "en": "I almost woke up from her unusual words.",
+      "text": "I almost woke up from her unusual words."
+    },
+    {
+      "offset": 1477,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 1490,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いや、萌先輩に限って、そんなことはありえな\nい。",
+      "en": "Moe-sempai would never do such a thing.",
+      "text": "Moe-sempai would never do such a thing."
+    },
+    {
+      "offset": 1542,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、生物共通の欲望に――ひざまずいた。",
+      "en": "I fell back to sleep---.",
+      "text": "I fell back to sleep---."
+    },
+    {
+      "offset": 1600,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――ガツンっ！！！！",
+      "en": "---Smack!!!!",
+      "text": "---Smack!!!!"
+    },
+    {
+      "offset": 1627,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「――――っ！！？」",
+      "en": "\"------!!!?\"",
+      "text": "\"------!!!?\""
+    },
+    {
+      "offset": 1654,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "後頭部に、凄まじい衝撃を食らい、声にならな\nい｛うめ／呻｝きが漏れる。",
+      "en": "I groaned feeling the pain on the back of my head.",
+      "text": "I groaned feeling the pain on the back of my head."
+    },
+    {
+      "offset": 1728,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "バカな……萌先輩が他人を叩くとは……。",
+      "en": "This can't be happening...... Moe-sempai smacked me......",
+      "text": "This can't be happening...... Moe-sempai smacked me......"
+    },
+    {
+      "offset": 1771,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いや――それは叩くというよりも、むしろ……\nかち割るといった類のものだった……。",
+      "en": "No -- it wasn't like smacking...... but smashing......",
+      "text": "No -- it wasn't like smacking...... but smashing......"
+    },
+    {
+      "offset": 1855,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 1868,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 1886,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぐほっ――",
+      "en": "Arrgg-----",
+      "text": "Arrgg-----"
+    },
+    {
+      "offset": 1901,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだ〜〜ッ！？　今のは？",
+      "en": "What was that!? What was that?",
+      "text": "What was that!? What was that?"
+    },
+    {
+      "offset": 1932,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頭が真っ二つになるような感覚と、｛ずがいこつ／頭蓋骨｝をや\nすやすと貫くような衝撃――１００万の脳細胞\nを瞬殺したような、そんな破壊力だった。",
+      "en": "It felt like my head was cracked open -- it felt like it\nkilled a million brain cells.",
+      "text": "It felt like my head was cracked open -- it felt like it\nkilled a million brain cells."
+    },
+    {
+      "offset": 2077,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩が、これほどの戦闘力を秘めていようと\nは……。",
+      "en": "I didn't know Moe-sempai had this much strength......",
+      "text": "I didn't know Moe-sempai had this much strength......"
+    },
+    {
+      "offset": 2145,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 2158,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目を開けたはずなのに、景色が見えてこない。\nただ、白い世界が広がっているだけだ。",
+      "en": "I couldn't see a thing when I opened my eyes. It was just\nall white.",
+      "text": "I couldn't see a thing when I opened my eyes. It was just\nall white."
+    },
+    {
+      "offset": 2255,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「やっと起きた」",
+      "en": "\"Finally.\"",
+      "text": "\"Finally.\""
+    },
+    {
+      "offset": 2278,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なぜか、別人の声が聞こえる。",
+      "en": "I heard Mako's voice.",
+      "text": "I heard Mako's voice."
+    },
+    {
+      "offset": 2311,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 2407,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さん、起きましたか？」",
+      "en": "\"Niisan, are you awake?\"",
+      "text": "\"Niisan, are you awake?\""
+    },
+    {
+      "offset": 2440,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子の隣には音夢が立っていた。",
+      "en": "Nemu was standing next to Mako.",
+      "text": "Nemu was standing next to Mako."
+    },
+    {
+      "offset": 2505,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「もう、素直に起きなさいよね。あんまり、妹\n　に苦労かけるんじゃないの」",
+      "en": "\"You should've woken up earlier. Don't give Nemu too much\nhassle.\"",
+      "text": "\"You should've woken up earlier. Don't give Nemu too much\nhassle.\""
+    },
+    {
+      "offset": 2583,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何かの雑誌を手に持ちながら、眞子が呆れた声\nで言う。",
+      "en": "Mako was standing there with a magazine in her hand.",
+      "text": "Mako was standing there with a magazine in her hand."
+    },
+    {
+      "offset": 2641,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……なに、ソレ」",
+      "en": "\"......What's that?\"",
+      "text": "\"......What's that?\""
+    },
+    {
+      "offset": 2694,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「対寝ボ助用最終兵器」",
+      "en": "\"It's the final weapon against oversleeping.\"",
+      "text": "\"It's the final weapon against oversleeping.\""
+    },
+    {
+      "offset": 2723,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……は？",
+      "en": "...What?",
+      "text": "...What?"
+    },
+    {
+      "offset": 2766,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「辞書なんかより、こういう薄い方が空気抵抗\n　とかが少なくって、利くんだよね。ピンポイ\n　ントだし」",
+      "en": "\"It works better than a thick dictionary as it doesn't have\nmuch air resistance. It can also be targeted better too.\"",
+      "text": "\"It works better than a thick dictionary as it doesn't have\nmuch air resistance. It can also be targeted better too.\""
+    },
+    {
+      "offset": 2882,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「それに、大事なのは全体の強度じゃなくて、\n　角の硬さだから」",
+      "en": "\"It's also important to have the hard corner instead of the\nhard cover.\"",
+      "text": "\"It's also important to have the hard corner instead of the\nhard cover.\""
+    },
+    {
+      "offset": 2950,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言って、手にしている雑誌をぐにゃぐにゃ\nさせる。",
+      "en": "She bent the magazine to prove her point.",
+      "text": "She bent the magazine to prove her point."
+    },
+    {
+      "offset": 3008,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3027,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺を殺す気ですか？",
+      "en": "Is she going to kill me?",
+      "text": "Is she going to kill me?"
+    },
+    {
+      "offset": 3050,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "後頭部っすよ？　後・頭・部！",
+      "en": "It was on the back of my head! The back!",
+      "text": "It was on the back of my head! The back!"
+    },
+    {
+      "offset": 3113,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「音夢の性格じゃ、こいつ起こすの大変だろう\n　から、てこずってたらまた手伝ってあげるね」",
+      "en": "\"It must be a hassle for Nemu to wake him up, so I'll help\nyou if you have trouble again.\"",
+      "text": "\"It must be a hassle for Nemu to wake him up, so I'll help\nyou if you have trouble again.\""
+    },
+    {
+      "offset": 3235,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そうですね。そのときは、申し訳ありません\n　が、宜しくお願いします」",
+      "en": "\"Yes, please. I'd appreciate your help.\"",
+      "text": "\"Yes, please. I'd appreciate your help.\""
+    },
+    {
+      "offset": 3311,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "裏モードの音夢が、上品な笑みで答える。",
+      "en": "Nemu replied to Mako with a fake smile.",
+      "text": "Nemu replied to Mako with a fake smile."
+    },
+    {
+      "offset": 3384,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「じゃあ、あたしお姉ちゃんの所に行くから」",
+      "en": "\"I better get going to meet my sister.\"",
+      "text": "\"I better get going to meet my sister.\""
+    },
+    {
+      "offset": 3461,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「はい、どうもありがとうございました」",
+      "en": "\"Yes, thank you again for you help.\"",
+      "text": "\"Yes, thank you again for you help.\""
+    },
+    {
+      "offset": 3515,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子は音夢に軽く手を振って、廊下に出て行く。",
+      "en": "Mako waved at Nemu and left the room.",
+      "text": "Mako waved at Nemu and left the room."
+    },
+    {
+      "offset": 3590,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 3637,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なぜ、お前が起こさなかったんだ？」",
+      "en": "\"Why didn't you wake me up?\"",
+      "text": "\"Why didn't you wake me up?\""
+    },
+    {
+      "offset": 3708,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「起こしました。兄さんが起きて下さらなかっ\n　ただけです」",
+      "en": "\"I tried, but you didn't wake up.\"",
+      "text": "\"I tried, but you didn't wake up.\""
+    },
+    {
+      "offset": 3772,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……裏モードのお前で、起きるわけないだろう！",
+      "en": "...How am I going to wake up with her pretending to be such\na sweetie pie?",
+      "text": "...How am I going to wake up with her pretending to be such\na sweetie pie?"
+    },
+    {
+      "offset": 3851,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「これからはちゃんと起きて下さいね。私では、\n　兄さんを起こすのは大変なんですから」",
+      "en": "\"Please wake up next time. It's such a hassle for me to wake\nyou up.\"",
+      "text": "\"Please wake up next time. It's such a hassle for me to wake\nyou up.\""
+    },
+    {
+      "offset": 3941,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "万人を｛あざむ／欺｝く、妹の笑顔に、俺は口をつぐむしか\nなかった……。",
+      "en": "I couldn't say anything at her fake smile.",
+      "text": "I couldn't say anything at her fake smile."
+    },
+    {
+      "offset": 4015,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とりあえず、飯を食いに行こう。せっかく、命\n懸けの起床を果たしたのだ。無駄にはできん。",
+      "en": "I better go eat now. I woke up with my life on the line. I\nshould not waste it.",
+      "text": "I better go eat now. I woke up with my life on the line. I\nshould not waste it."
+    },
+    {
+      "offset": 4105,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は席を立つと、生き残った兵で、どこに行く\nかを考える。",
+      "en": "I stood up, and thought about where to go with the rest of\nmy brain cells.",
+      "text": "I stood up, and thought about where to go with the rest of\nmy brain cells."
+    },
+    {
+      "offset": 4276,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆萌先輩の夢◆",
+      "en": "◆Dream about Moe-sempai◆",
+      "text": "◆Dream about Moe-sempai◆"
+    },
+    {
+      "offset": 4312,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩の夢を見た。",
+      "en": "I had a dream about Moe-sempai.",
+      "text": "I had a dream about Moe-sempai."
+    },
+    {
+      "offset": 4335,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "先輩が、俺を優しく起こしてくれる夢だ……。",
+      "en": "It was a dream that she was waking me up nicely......",
+      "text": "It was a dream that she was waking me up nicely......"
+    }
+  ],
+  "choices": [],
+  "names": {
+    "137": "A voice",
+    "530": "A voice",
+    "661": "Moe",
+    "729": "Moe",
+    "875": "Moe",
+    "1009": "Moe",
+    "1220": "Moe",
+    "1275": "Moe",
+    "1362": "Moe",
+    "2247": "Mako",
+    "2399": "Nemu",
+    "2497": "Mako",
+    "2686": "Mako",
+    "2758": "Mako",
+    "2874": "Mako",
+    "3105": "Mako",
+    "3227": "Nemu",
+    "3376": "Mako",
+    "3453": "Nemu",
+    "3700": "Nemu",
+    "3843": "Nemu"
+  }
+}

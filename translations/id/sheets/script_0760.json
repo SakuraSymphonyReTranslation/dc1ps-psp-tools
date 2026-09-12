@@ -1,0 +1,1256 @@
+{
+  "scene": "script_0760.obj",
+  "dialogues": [
+    {
+      "offset": 145,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……と、さくらが講師になるのを反対してい\n　た人間が事故にあったという話があるわけだ」",
+      "en": "\"I heard that the people who were trying to kick Sakura out\nof her teaching position got into accidents.\"",
+      "text": "\"I heard that the people who were trying to kick Sakura out\nof her teaching position got into accidents.\""
+    },
+    {
+      "offset": 272,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「っ……ん……」",
+      "en": "\"Hmm...\"",
+      "text": "\"Hmm...\""
+    },
+    {
+      "offset": 295,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "がく、がく、と音夢が船をこいでいる……食事\n中にご飯に箸をつっこんだままというのは珍し\nい。",
+      "en": "Nemu's dozing off in the middle of eating. I've never seen\nanybody sleeping while leaving their chopsticks in the rice\nbefore.",
+      "text": "Nemu's dozing off in the middle of eating. I've never seen\nanybody sleeping while leaving their chopsticks in the rice\nbefore."
+    },
+    {
+      "offset": 392,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おぃ、音夢」",
+      "en": "\"Hey, Nemu.\"",
+      "text": "\"Hey, Nemu.\""
+    },
+    {
+      "offset": 424,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ん？　ふわっ、んん……ん？」",
+      "en": "\"Hm? Huh...mmm?\"",
+      "text": "\"Hm? Huh...mmm?\""
+    },
+    {
+      "offset": 461,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「起きろよ」",
+      "en": "\"Wake up.\"",
+      "text": "\"Wake up.\""
+    },
+    {
+      "offset": 508,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あれ……また寝てた？」",
+      "en": "\"Oh, was I sleeping again?\"",
+      "text": "\"Oh, was I sleeping again?\""
+    },
+    {
+      "offset": 539,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "箸から手を離して、目をこする。",
+      "en": "She wiped her eyes after putting down the chopsticks.",
+      "text": "She wiped her eyes after putting down the chopsticks."
+    },
+    {
+      "offset": 576,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「またって？」",
+      "en": "\"What do you mean by again?\"",
+      "text": "\"What do you mean by again?\""
+    },
+    {
+      "offset": 608,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ん……昨日から今日の夜まで寝っぱなしだっ\n　たのに」",
+      "en": "\"Mm... I slept from yesterday through this morning.\"",
+      "text": "\"Mm... I slept from yesterday through this morning.\""
+    },
+    {
+      "offset": 668,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え？　丸１日か？」",
+      "en": "\"What? For 24 hours?\"",
+      "text": "\"What? For 24 hours?\""
+    },
+    {
+      "offset": 695,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "朝はさくらに起こされたので、まさか音夢が寝\nたままだとは思わなかった。",
+      "en": "Sakura woke me up this morning, so I didn't know Nemu was\nstill sleeping then.",
+      "text": "Sakura woke me up this morning, so I didn't know Nemu was\nstill sleeping then."
+    },
+    {
+      "offset": 799,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「う〜〜〜〜〜〜〜ん……くぅ」",
+      "en": "\"Mmm......... mm... zzz...\"",
+      "text": "\"Mmm......... mm... zzz...\""
+    },
+    {
+      "offset": 836,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「おい！？」",
+      "en": "\"Hey!\"",
+      "text": "\"Hey!\""
+    },
+    {
+      "offset": 867,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "がく、と音夢の顔が弁当に突っ込む。",
+      "en": "Suddenly, Nemu's face crashed into the food.",
+      "text": "Suddenly, Nemu's face crashed into the food."
+    },
+    {
+      "offset": 941,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うわぁ！？」",
+      "en": "\"Wha!?\"",
+      "text": "\"Wha!?\""
+    },
+    {
+      "offset": 962,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なにやってるんだお前！？」",
+      "en": "\"What are you doing?\"",
+      "text": "\"What are you doing?\""
+    },
+    {
+      "offset": 1025,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ふぇ〜ん」",
+      "en": "\"Aaahh!\"",
+      "text": "\"Aaahh!\""
+    },
+    {
+      "offset": 1044,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "慌ててタオルを持ってきて、半泣きの音夢の顔\nを拭いてやる。",
+      "en": "I take a towel and clean her half-crying face.",
+      "text": "I take a towel and clean her half-crying face."
+    },
+    {
+      "offset": 1108,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はぁ……子供かまったく」",
+      "en": "\"Huh... You're such a baby.\"",
+      "text": "\"Huh... You're such a baby.\""
+    },
+    {
+      "offset": 1169,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「お兄ちゃんが、さくらの話ばっかりするから\n　だよぉ」",
+      "en": "\"It's because you talked about Sakura too much, oniichan.\"",
+      "text": "\"It's because you talked about Sakura too much, oniichan.\""
+    },
+    {
+      "offset": 1229,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お兄ちゃん、って寝ぼけているな……。",
+      "en": "'Oniichan'... She must be half asleep.",
+      "text": "'Oniichan'... She must be half asleep."
+    },
+    {
+      "offset": 1272,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「関係ないだろうが」",
+      "en": "\"She's nothing to do with this.\"",
+      "text": "\"She's nothing to do with this.\""
+    },
+    {
+      "offset": 1299,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ピンと軽くデコピンする。",
+      "en": "I flick her forehead with my finger.",
+      "text": "I flick her forehead with my finger."
+    },
+    {
+      "offset": 1358,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うあ！　あるよ〜、さくらの話をされると、\n　本当に眠くなるんだもん」",
+      "en": "\"Ow! Yes, it is. When you talk about Sakura, I get so\nsleepy.\"",
+      "text": "\"Ow! Yes, it is. When you talk about Sakura, I get so\nsleepy.\""
+    },
+    {
+      "offset": 1434,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なんだそりゃ？」",
+      "en": "\"What does that mean?\"",
+      "text": "\"What does that mean?\""
+    },
+    {
+      "offset": 1470,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「本当だよ……こんなに眠るようになったのだっ\n　て、お兄ちゃんがさくらの話を毎日しだして\n　からだもん」",
+      "en": "\"It's true. I sleep a lot these days since you've been\ntalking about her every day.\"",
+      "text": "\"It's true. I sleep a lot these days since you've been\ntalking about her every day.\""
+    },
+    {
+      "offset": 1579,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「毎日？」",
+      "en": "\"Every day?\"",
+      "text": "\"Every day?\""
+    },
+    {
+      "offset": 1624,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うん」",
+      "en": "\"Yeah.\"",
+      "text": "\"Yeah.\""
+    },
+    {
+      "offset": 1639,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "えーと、意識はしていないが、確かに最近の俺\nが関わっているのはさくらの件だけか。",
+      "en": "Well, I'm not doing it consciously, but it may be true,\nbecause I've been involved in only Sakura's case recently.",
+      "text": "Well, I'm not doing it consciously, but it may be true,\nbecause I've been involved in only Sakura's case recently."
+    },
+    {
+      "offset": 1736,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「さくらだけは……許せないと思ってたんだけ\n　どなぁ」",
+      "en": "\"I thought I couldn't forgive her no matter what.\"",
+      "text": "\"I thought I couldn't forgive her no matter what.\""
+    },
+    {
+      "offset": 1808,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢が俺の隣に移って、こつん、と頭を肩にの\nせる。",
+      "en": "Nemu sits next to me, and puts her head on my shoulder.",
+      "text": "Nemu sits next to me, and puts her head on my shoulder."
+    },
+    {
+      "offset": 1864,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そういえば、なんでそんなに、さくらを目の\n　敵にしてるんだ？」",
+      "en": "\"I want to know why you always treat her like an enemy.\"",
+      "text": "\"I want to know why you always treat her like an enemy.\""
+    },
+    {
+      "offset": 1967,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そ、それは……」",
+      "en": "\"Well, because...\"",
+      "text": "\"Well, because...\""
+    },
+    {
+      "offset": 1992,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「この際はっきりさせておこう。いつまでも、\n　そんな仲が悪い状態だと俺が面倒だ」",
+      "en": "\"I want you to make it clear once and for all. If you keep\nup with this, I'll be in trouble.\"",
+      "text": "\"I want you to make it clear once and for all. If you keep\nup with this, I'll be in trouble.\""
+    },
+    {
+      "offset": 2106,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あくまで自分のためなんですね」",
+      "en": "\"You're doing this just for your own sake, aren't you?\"",
+      "text": "\"You're doing this just for your own sake, aren't you?\""
+    },
+    {
+      "offset": 2145,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぼそぼそ、と呟きながら音夢がため息をつく。",
+      "en": "Nemu mumbles with a sigh.",
+      "text": "Nemu mumbles with a sigh."
+    },
+    {
+      "offset": 2222,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あの、その……昔、さくらが引っ越した日の\n　ことを覚えてる？」",
+      "en": "\"Well, um... Do you remember when Sakura moved out?\"",
+      "text": "\"Well, um... Do you remember when Sakura moved out?\""
+    },
+    {
+      "offset": 2292,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「お前が家出した日な」",
+      "en": "\"The day you ran away from home, right?\"",
+      "text": "\"The day you ran away from home, right?\""
+    },
+    {
+      "offset": 2360,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「さくらが引っ越した日です！」",
+      "en": "\"No, the day Sakura moved out!\"",
+      "text": "\"No, the day Sakura moved out!\""
+    },
+    {
+      "offset": 2397,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「どっちでもいいけどな……」",
+      "en": "\"Whatever it is...\"",
+      "text": "\"Whatever it is...\""
+    },
+    {
+      "offset": 2432,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の妹になって迷惑をかけていると勘違いした\n音夢が家出をして、それを探しているときに、\nさくらから別れを告げられた日だ。",
+      "en": "That was the day when Nemu ran away from home thinking she\nwas causing trouble by being my sister. While I was looking\nfor her, I met Sakura, and she told me she was leaving.",
+      "text": "That was the day when Nemu ran away from home thinking she\nwas causing trouble by being my sister. While I was looking\nfor her, I met Sakura, and she told me she was leaving."
+    },
+    {
+      "offset": 2555,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらと最後に出会った桜の木の裏に、音夢が\nいたという、冗談みたいなオチがついている思\nい出。",
+      "en": "Then, Nemu was hiding behind the cherry tree where I saw\nSakura for the last time. What a twisted ending!",
+      "text": "Then, Nemu was hiding behind the cherry tree where I saw\nSakura for the last time. What a twisted ending!"
+    },
+    {
+      "offset": 2654,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あれがどうしたんだ？」",
+      "en": "\"What's that got to do with it?\"",
+      "text": "\"What's that got to do with it?\""
+    },
+    {
+      "offset": 2716,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……あの時、さくらは私がいることに気づい\n　ていたんですよ」",
+      "en": "\"Sakura knew I was there.\"",
+      "text": "\"Sakura knew I was there.\""
+    },
+    {
+      "offset": 2784,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 2827,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いえ、子供時代のことで自分でも大人げない\n　んですけど、私がいることを知っててあんな\n　約束をしたんです」",
+      "en": "\"Well, as you know I was still a child and immature, but I'm\nsure she deliberately made a promise with you while knowing\nI was behind the tree.\"",
+      "text": "\"Well, as you know I was still a child and immature, but I'm\nsure she deliberately made a promise with you while knowing\nI was behind the tree.\""
+    },
+    {
+      "offset": 2940,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「約束って、また会おうねってやつだよな？」",
+      "en": "\"When you say promise, you mean the one to meet again,\nright?\"",
+      "text": "\"When you say promise, you mean the one to meet again,\nright?\""
+    },
+    {
+      "offset": 3000,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「えぇ」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 3015,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頭痛でもするのか、こめかみを押さえて音夢が\n頷く。",
+      "en": "Nemu nods, rubbing her temples as if she had a headache.",
+      "text": "Nemu nods, rubbing her temples as if she had a headache."
+    },
+    {
+      "offset": 3099,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あと、それと合わせて、再会したら恋人にな\n　ろうねって」",
+      "en": "\"And plus, she said she wanted to be your lover when she saw\nyou again.\"",
+      "text": "\"And plus, she said she wanted to be your lover when she saw\nyou again.\""
+    },
+    {
+      "offset": 3163,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………？」",
+      "en": "\"............?\"",
+      "text": "\"............?\""
+    },
+    {
+      "offset": 3195,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ずっと忘れてたのに、さくらが昔のままの姿\n　で現れたのを見て思い出してしまって……」",
+      "en": "\"I remember now when I saw Sakura, when she showed up\nlooking just like she did in the old days.\"",
+      "text": "\"I remember now when I saw Sakura, when she showed up\nlooking just like she did in the old days.\""
+    },
+    {
+      "offset": 3289,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ストップストップ。なに？　恋人になろう\n　ね？」",
+      "en": "\"Hold on a second. What? Be my lover next time?\"",
+      "text": "\"Hold on a second. What? Be my lover next time?\""
+    },
+    {
+      "offset": 3345,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まったく身に覚えのない約束に眉をひそめる。",
+      "en": "I knit my brows at the promise I don't remember.",
+      "text": "I knit my brows at the promise I don't remember."
+    },
+    {
+      "offset": 3394,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どこぞの温泉旅館を舞台にした、ベタな恋愛\n　漫画の話か？」",
+      "en": "\"Are you talking about some shitty love story in a Japanese\ninn with a hot spring?\"",
+      "text": "\"Are you talking about some shitty love story in a Japanese\ninn with a hot spring?\""
+    },
+    {
+      "offset": 3488,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「は？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 3503,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「まさか……さくらとお前で約束したのか？」",
+      "en": "\"Did you make that kind of promise with Sakura?\"",
+      "text": "\"Did you make that kind of promise with Sakura?\""
+    },
+    {
+      "offset": 3580,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「バカばっか言ってないでよ……お兄ちゃんと\n　に決まってるでしょうが」",
+      "en": "\"Don't be silly. Of course, it was with you.\"",
+      "text": "\"Don't be silly. Of course, it was with you.\""
+    },
+    {
+      "offset": 3656,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "肩を落としてため息。",
+      "en": "I breathe a sigh while sagging my shoulders.",
+      "text": "I breathe a sigh while sagging my shoulders."
+    },
+    {
+      "offset": 3699,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あの桜の木の下で交わした約束は、成就する\n　という｛いわ／曰｝くまであったんですよ」",
+      "en": "\"The promise she made under the cherry tree had a certain\nreason to fall through.\"",
+      "text": "\"The promise she made under the cherry tree had a certain\nreason to fall through.\""
+    },
+    {
+      "offset": 3802,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「それに、滝くんとショウくんを階段から突き\n　落としたのだって、さくらの仕業だって――」",
+      "en": "\"And they say Sakura pushed Taki-kun and Shu-kun down the\nstairs.\"",
+      "text": "\"And they say Sakura pushed Taki-kun and Shu-kun down the\nstairs.\""
+    },
+    {
+      "offset": 3896,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ちょっと待て！？」",
+      "en": "\"Wait a second!\"",
+      "text": "\"Wait a second!\""
+    },
+    {
+      "offset": 3951,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「？」",
+      "en": "\"?\"",
+      "text": "\"?\""
+    },
+    {
+      "offset": 3964,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頭が混乱していた。",
+      "en": "I'm confused.",
+      "text": "I'm confused."
+    },
+    {
+      "offset": 3989,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さくらが突き落としたぁ！？　その前に、滝\n　とショウって誰だ？」",
+      "en": "\"Did Sakura push them? Who are Taki and Shu, anyway?\"",
+      "text": "\"Did Sakura push them? Who are Taki and Shu, anyway?\""
+    },
+    {
+      "offset": 4061,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "話に置いてきぼり過ぎて、思わずおかしな声を\n上げてしまう。",
+      "en": "I speak in a strange voice, realizing I'm not following her\nstory at all.",
+      "text": "I speak in a strange voice, realizing I'm not following her\nstory at all."
+    },
+    {
+      "offset": 4136,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「昔のクラスメイトでしょうが。さくらをイジ\n　メてたってお兄ちゃんが言ってたよ」",
+      "en": "\"They were your old classmates, weren't they? You told me\nbefore that they used to pick on Sakura.\"",
+      "text": "\"They were your old classmates, weren't they? You told me\nbefore that they used to pick on Sakura.\""
+    },
+    {
+      "offset": 4222,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "当たり前のように音夢が呟く。",
+      "en": "Nemu murmurs in front of me.",
+      "text": "Nemu murmurs in front of me."
+    },
+    {
+      "offset": 4257,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 4283,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「五月先生も可哀想だったよね」",
+      "en": "\"Oh, poor Satsuki-sensei.\"",
+      "text": "\"Oh, poor Satsuki-sensei.\""
+    },
+    {
+      "offset": 4320,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……音夢、前世の記憶でも甦っちまったか？」",
+      "en": "\"Have you regressed to a previous life?\"",
+      "text": "\"Have you regressed to a previous life?\""
+    },
+    {
+      "offset": 4399,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……忘れちゃったの？」",
+      "en": "\"Have you forgotten?\"",
+      "text": "\"Have you forgotten?\""
+    },
+    {
+      "offset": 4430,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 4473,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ちょっと待ってて」",
+      "en": "\"Hold on.\"",
+      "text": "\"Hold on.\""
+    },
+    {
+      "offset": 4512,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こんこん、と咳をしながら音夢が居間を出て行っ\nて、どこからか昔の卒業アルバムを持ってくる。",
+      "en": "Nemu leaves the living room, then comes back with an old\nstudent yearbook from somewhere.",
+      "text": "Nemu leaves the living room, then comes back with an old\nstudent yearbook from somewhere."
+    },
+    {
+      "offset": 4641,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「えーと……ほら、これがお兄ちゃんね」",
+      "en": "\"Let's see... This is you, oniichan.\"",
+      "text": "\"Let's see... This is you, oniichan.\""
+    },
+    {
+      "offset": 4686,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "遠足のものらしいどこかの遊園地での集合写真。\nその中の生意気そうなガキを音夢が指差す。",
+      "en": "It looks like a field trip, and a group picture at an\namusement park somewhere. Nemu points at a sassy-looking\nkid.",
+      "text": "It looks like a field trip, and a group picture at an\namusement park somewhere. Nemu points at a sassy-looking\nkid."
+    },
+    {
+      "offset": 4776,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ざっと目で追って、すぐに目立つ髪をしている、\nさくらも見つけた……というか俺の隣。",
+      "en": "Looking through the picture, I find Sakura easily, because\nher hair stands out among them, and she was right next to\nme.",
+      "text": "Looking through the picture, I find Sakura easily, because\nher hair stands out among them, and she was right next to\nme."
+    },
+    {
+      "offset": 4864,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「滝とシュウって……」",
+      "en": "\"Where are Taki and Shu?\"",
+      "text": "\"Where are Taki and Shu?\""
+    },
+    {
+      "offset": 4904,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ほら、これ、分かりやすい」",
+      "en": "\"See, here they are.\"",
+      "text": "\"See, here they are.\""
+    },
+    {
+      "offset": 4939,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢が指差したふたりは、皆の列から少し離れ\nたところにいた。",
+      "en": "Nemu pointed them out. They were a little away from\neverybody else.",
+      "text": "Nemu pointed them out. They were a little away from\neverybody else."
+    },
+    {
+      "offset": 5005,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 5024,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふたりとも、足にギブスをはめている。",
+      "en": "Both of them had a plaster cast on their legs.",
+      "text": "Both of them had a plaster cast on their legs."
+    },
+    {
+      "offset": 5065,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "怖々とひとりがさくらのほうに目線を送ってい\nた。",
+      "en": "One of them was looking at Sakura fearfully.",
+      "text": "One of them was looking at Sakura fearfully."
+    },
+    {
+      "offset": 5117,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "覚えていない？",
+      "en": "Don't you remember them?",
+      "text": "Don't you remember them?"
+    },
+    {
+      "offset": 5136,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昔のクラスメイトを全員覚えているなんて、さ\nすがに俺だって思っていない。",
+      "en": "I wouldn't expect to remember every classmate I had in the\npast.",
+      "text": "I wouldn't expect to remember every classmate I had in the\npast."
+    },
+    {
+      "offset": 5212,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただ、これは、そういうことじゃなくて……普\n通は肌とか感覚が覚えてはいるのだ。",
+      "en": "But this time, it was not about that. Usually, your body or\nthe feelings inside you are supposed to keep those memories.",
+      "text": "But this time, it was not about that. Usually, your body or\nthe feelings inside you are supposed to keep those memories."
+    },
+    {
+      "offset": 5294,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なのに、そんな単純な感覚ではないのだ。",
+      "en": "But it's not that simple of a feeling for me.",
+      "text": "But it's not that simple of a feeling for me."
+    },
+    {
+      "offset": 5337,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "他のみんなは覚えているのに、まるで場違いな\n心霊写真のようにそのふたりだけが浮いている。",
+      "en": "I remember everyone, but they are vague figures, almost like\nyou see in ghost photography.",
+      "text": "I remember everyone, but they are vague figures, almost like\nyou see in ghost photography."
+    },
+    {
+      "offset": 5429,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだ、これ？",
+      "en": "What's going on?",
+      "text": "What's going on?"
+    },
+    {
+      "offset": 5450,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……詳しく話してくれ」",
+      "en": "\"Can you explain the details?\"",
+      "text": "\"Can you explain the details?\""
+    },
+    {
+      "offset": 5509,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なにを？」",
+      "en": "\"What about?\"",
+      "text": "\"What about?\""
+    },
+    {
+      "offset": 5528,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「その階段から突き落とされた事件って」",
+      "en": "\"Tell me more about the incident when they were pushed down\nthe stairs.\"",
+      "text": "\"Tell me more about the incident when they were pushed down\nthe stairs.\""
+    },
+    {
+      "offset": 5573,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は真剣に頭を下げる。",
+      "en": "I drop my head down.",
+      "text": "I drop my head down."
+    },
+    {
+      "offset": 5600,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢は不思議そうに首をかしげるが、分かった、\nとアルバムを閉じてソファーに座りなおす。",
+      "en": "Nemu tilts her head quizzically, then sits down on the couch\nwhile closing the album.",
+      "text": "Nemu tilts her head quizzically, then sits down on the couch\nwhile closing the album."
+    },
+    {
+      "offset": 5703,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「う〜ん、単純だよ。遠足に行くときにさくら\n　とそのふたりが同じ班になって、男の子達が\n　ひどいこと言ってさくらを嫌がったの」",
+      "en": "\"Hm... it's simple. When they were about to go on a field\ntrip, Sakura was in the same group as them, but the boys\nsaid an awful thing to her.\"",
+      "text": "\"Hm... it's simple. When they were about to go on a field\ntrip, Sakura was in the same group as them, but the boys\nsaid an awful thing to her.\""
+    },
+    {
+      "offset": 5845,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「それでかばったお兄ちゃんにも悪口を言って。\n　遠足が近づいてきたある日、階段から落ちて\n　足の骨を折ったの」",
+      "en": "\"Then, they said bad things about you when you covered up\nfor Sakura. And just before the field trip, they broke their\nlegs by falling down the stairs.\"",
+      "text": "\"Then, they said bad things about you when you covered up\nfor Sakura. And just before the field trip, they broke their\nlegs by falling down the stairs.\""
+    },
+    {
+      "offset": 5971,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「その時、階段の上にさくらがいたって……ん？\n　どっかで聞いたことが」",
+      "en": "\"When that happened, they saw Sakura at the top on the\nstairs... Well, that sounds familiar.\"",
+      "text": "\"When that happened, they saw Sakura at the top on the\nstairs... Well, that sounds familiar.\""
+    },
+    {
+      "offset": 6047,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢は、桜の枝で頭を打った少女の話をしてい\nるのだろう。",
+      "en": "I know Nemu's talking about the girl who got a cherry branch\non her head.",
+      "text": "I know Nemu's talking about the girl who got a cherry branch\non her head."
+    },
+    {
+      "offset": 6109,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………？」",
+      "en": "\"...............?\"",
+      "text": "\"...............?\""
+    },
+    {
+      "offset": 6130,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらをイジメて足を折ったふたりの少年。",
+      "en": "Two boys broke their legs after they picked on Sakura.",
+      "text": "Two boys broke their legs after they picked on Sakura."
+    },
+    {
+      "offset": 6175,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらの悪口を言い、その後に不慮の事故にあっ\nた少女。",
+      "en": "The girl who talked bad about Sakura got in an accident\nafterward.",
+      "text": "The girl who talked bad about Sakura got in an accident\nafterward."
+    },
+    {
+      "offset": 6233,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらの講師としての権限を取り上げようとし\nて、交通事故にあった学園の経営陣。",
+      "en": "The administration that tried to eliminate her from a\nteaching position got into accidents.",
+      "text": "The administration that tried to eliminate her from a\nteaching position got into accidents."
+    },
+    {
+      "offset": 6317,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 6336,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はアルバムを引き寄せる。",
+      "en": "I bring the album closer.",
+      "text": "I bring the album closer."
+    },
+    {
+      "offset": 6369,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「先生は？」",
+      "en": "\"What happened with the teacher?\"",
+      "text": "\"What happened with the teacher?\""
+    },
+    {
+      "offset": 6399,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 6414,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なんとか先生も可哀想だね……って」",
+      "en": "\"Poor so-and-so.\"",
+      "text": "\"Poor so-and-so.\""
+    },
+    {
+      "offset": 6468,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「五月先生のこと？」",
+      "en": "\"Are you talking about Satsuki-sensei?\"",
+      "text": "\"Are you talking about Satsuki-sensei?\""
+    },
+    {
+      "offset": 6495,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さも俺が知っていると言うように、音夢が首を\nかしげる。",
+      "en": "Nemu tilts her head, wondering how I knew about her.",
+      "text": "Nemu tilts her head, wondering how I knew about her."
+    },
+    {
+      "offset": 6583,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あの……さくらのイジメを謝罪に行った帰り\n　に交通事故で……」",
+      "en": "\"Well, after she apologized about Sakura's bullying, she got\nin an accident on the way back, and...\"",
+      "text": "\"Well, after she apologized about Sakura's bullying, she got\nin an accident on the way back, and...\""
+    },
+    {
+      "offset": 6653,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……死んだ？」",
+      "en": "\"Did she die?\"",
+      "text": "\"Did she die?\""
+    },
+    {
+      "offset": 6687,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「さくらが引越したのも、そのせいだって話も\n　出たくらいだからね」",
+      "en": "\"They say that's why Sakura moved away.\"",
+      "text": "\"They say that's why Sakura moved away.\""
+    },
+    {
+      "offset": 6759,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 6812,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "吐き気がした。",
+      "en": "I feel sick.",
+      "text": "I feel sick."
+    },
+    {
+      "offset": 6831,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の記憶が、まるで俺のものでないように語ら\nれている。",
+      "en": "It sounds like it has nothing to do with my memory.",
+      "text": "It sounds like it has nothing to do with my memory."
+    },
+    {
+      "offset": 6889,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自分の知らないことが、しかし、写真や音夢の\n中で確実に経過した時間として認識されている。",
+      "en": "Even though I don't remember those things, they definitely\nhappened, because they're in Nemu's mind and the pictures.",
+      "text": "Even though I don't remember those things, they definitely\nhappened, because they're in Nemu's mind and the pictures."
+    },
+    {
+      "offset": 6994,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「大丈夫、お兄ちゃん」",
+      "en": "\"Are you okay, oniichan?\"",
+      "text": "\"Are you okay, oniichan?\""
+    },
+    {
+      "offset": 7023,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あぁ……とりあえず、そのお兄ちゃんって止\n　めてくれ。背中がかゆい」",
+      "en": "\"Yeah... Can you stop calling me 'oniichan'?\"",
+      "text": "\"Yeah... Can you stop calling me 'oniichan'?\""
+    },
+    {
+      "offset": 7110,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え？　お兄ちゃんって呼ばなかったら、なん\n　て呼ぶのよ」",
+      "en": "\"What? What else can I call you then?\"",
+      "text": "\"What? What else can I call you then?\""
+    },
+    {
+      "offset": 7174,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 7193,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "怖々と音夢の目を覗き込む。",
+      "en": "I look into her eyes with fear.",
+      "text": "I look into her eyes with fear."
+    },
+    {
+      "offset": 7276,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ねぇ、どうしたのお兄ちゃん？　なんかおか\n　しいよ、熱でもあるの？」",
+      "en": "\"What's going on, oniichan? You don't look good. Do you have\na fever?\"",
+      "text": "\"What's going on, oniichan? You don't look good. Do you have\na fever?\""
+    },
+    {
+      "offset": 7352,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "怖々と俺の目を覗き返された。",
+      "en": "She looked back at me in concern.",
+      "text": "She looked back at me in concern."
+    },
+    {
+      "offset": 7387,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「これは夢か？」",
+      "en": "\"Am I dreaming?\"",
+      "text": "\"Am I dreaming?\""
+    },
+    {
+      "offset": 7438,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なに言って……けほけほ……っ！」",
+      "en": "\"What are you... cough, cough...!\"",
+      "text": "\"What are you... cough, cough...!\""
+    },
+    {
+      "offset": 7479,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の頬に手を伸ばして微笑もうとした音夢が、\nげほっ、と鈍い音をたててひどく咳き込む。",
+      "en": "When Nemu tried to reach to put her hand on my cheek, she\nhad a coughing spell.",
+      "text": "When Nemu tried to reach to put her hand on my cheek, she\nhad a coughing spell."
+    },
+    {
+      "offset": 7569,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おぃ、お前が大丈夫かよ？」",
+      "en": "\"Are you okay?\"",
+      "text": "\"Are you okay?\""
+    },
+    {
+      "offset": 7615,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「げほっ……けほけほっ！！」",
+      "en": "\"Cough... akhh, akh!\"",
+      "text": "\"Cough... akhh, akh!\""
+    },
+    {
+      "offset": 7650,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「音夢！」",
+      "en": "\"Nemu!\"",
+      "text": "\"Nemu!\""
+    },
+    {
+      "offset": 7679,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつもと違う咳き込みかたに慌てて身体を抱き\n寄せる。",
+      "en": "I hold her body quickly as she coughs. She's never suffered\nthat bad before.",
+      "text": "I hold her body quickly as she coughs. She's never suffered\nthat bad before."
+    },
+    {
+      "offset": 7737,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………？」",
+      "en": "\"...............?\"",
+      "text": "\"...............?\""
+    },
+    {
+      "offset": 7769,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………？」",
+      "en": "\"...............?\"",
+      "text": "\"...............?\""
+    },
+    {
+      "offset": 7790,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "不思議な香りが鼻をついた。",
+      "en": "I smell something strange.",
+      "text": "I smell something strange."
+    },
+    {
+      "offset": 7821,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢が口元に当てていた手をはなすと、手のひ\nらが真っ赤に染まっていた。",
+      "en": "When Nemu takes her hands away from her mouth, I see her\npalms painted bright red.",
+      "text": "When Nemu takes her hands away from her mouth, I see her\npalms painted bright red."
+    },
+    {
+      "offset": 7897,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――桜の花びらがのっていた。",
+      "en": "---- There are cherry petals on them.",
+      "text": "---- There are cherry petals on them."
+    },
+    {
+      "offset": 7930,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "はらはら、と真っ赤な桜が、音夢の唇やシャツ\nの袖口から舞い落ちる。",
+      "en": "The bright red cherry petals are falling down from her lips\nand sleeves of her shirt.",
+      "text": "The bright red cherry petals are falling down from her lips\nand sleeves of her shirt."
+    },
+    {
+      "offset": 8000,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それはまるで、血のような赤。",
+      "en": "They're bright red like blood.",
+      "text": "They're bright red like blood."
+    },
+    {
+      "offset": 8046,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「っく……おにい……ちゃん？」",
+      "en": "\"Kuhh... Onii... chan...?\"",
+      "text": "\"Kuhh... Onii... chan...?\""
+    },
+    {
+      "offset": 8083,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この桜の枯れない島にあってなお――。",
+      "en": "Even though we're on the island that keeps its cherry\nblossom forever.",
+      "text": "Even though we're on the island that keeps its cherry\nblossom forever."
+    },
+    {
+      "offset": 8124,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "常識外れた他人の夢を知っていてなお――。",
+      "en": "Even though I know other people's senseless dreams.",
+      "text": "Even though I know other people's senseless dreams."
+    },
+    {
+      "offset": 8169,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その光景は異様な美しさだった。",
+      "en": "The view is incredibly beautiful.",
+      "text": "The view is incredibly beautiful."
+    },
+    {
+      "offset": 8217,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 8236,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "花に包まれたまま、音夢が意識を失った。",
+      "en": "Nemu falls unconscious, surrounded by the cherry petals.",
+      "text": "Nemu falls unconscious, surrounded by the cherry petals."
+    },
+    {
+      "offset": 8383,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆音夢の発症◆",
+      "en": "◆The start of symptoms in Nemu◆",
+      "text": "◆The start of symptoms in Nemu◆"
+    },
+    {
+      "offset": 8428,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらの講師を辞めさせる話がなくなった、と\n音夢に今日の報告をする。",
+      "en": "I told Nemu that they're not going to eliminate Sakura from\na teaching position any more.",
+      "text": "I told Nemu that they're not going to eliminate Sakura from\na teaching position any more."
+    },
+    {
+      "offset": 8500,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな変な話が過去にもあったねと音夢に言わ\nれるが、そこで語られた話は、俺が知っている\nべきなのに、なぜか記憶から抜け落ちていた。",
+      "en": "Nemu told me there was a similar story before, but I don't\nhave any memory of the event that even I should've\nremembered.",
+      "text": "Nemu told me there was a similar story before, but I don't\nhave any memory of the event that even I should've\nremembered."
+    },
+    {
+      "offset": 8633,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、その関係者の中にさくらに関わって命\nを落としてしまった｛・・／先生｝がいたことを知る。",
+      "en": "And I found out that one of teachers who got involved with\nSakura passed away.",
+      "text": "And I found out that one of teachers who got involved with\nSakura passed away."
+    },
+    {
+      "offset": 8731,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "償い、という言葉を思い出していたら、突然、\n目の前で花をこぼしながら、音夢が倒れてしまっ\nた。",
+      "en": "When I was thinking about the word 'redemption', Nemu\nfainted before my eyes, spilling cherry petals everywhere.",
+      "text": "When I was thinking about the word 'redemption', Nemu\nfainted before my eyes, spilling cherry petals everywhere."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "264": "Nemu",
+    "416": "Nemu",
+    "500": "Nemu",
+    "600": "Nemu",
+    "791": "Nemu",
+    "933": "Nemu",
+    "1017": "Nemu",
+    "1161": "Nemu",
+    "1350": "Nemu",
+    "1462": "Nemu",
+    "1616": "Nemu",
+    "1728": "Nemu",
+    "1959": "Nemu",
+    "2098": "Nemu",
+    "2214": "Nemu",
+    "2352": "Nemu",
+    "2708": "Nemu",
+    "2819": "Nemu",
+    "2992": "Nemu",
+    "3091": "Nemu",
+    "3187": "Nemu",
+    "3480": "Nemu",
+    "3572": "Nemu",
+    "3691": "Nemu",
+    "3794": "Nemu",
+    "3943": "Nemu",
+    "4128": "Nemu",
+    "4275": "Nemu",
+    "4391": "Nemu",
+    "4465": "Nemu",
+    "4633": "Nemu",
+    "4896": "Nemu",
+    "5501": "Nemu",
+    "5695": "Nemu",
+    "5837": "Nemu",
+    "5963": "Nemu",
+    "6391": "Nemu",
+    "6460": "Nemu",
+    "6575": "Nemu",
+    "6679": "Nemu",
+    "6986": "Nemu",
+    "7102": "Nemu",
+    "7268": "Nemu",
+    "7430": "Nemu",
+    "7607": "Nemu",
+    "7761": "Nemu",
+    "8038": "Nemu",
+    "8209": "Nemu"
+  }
+}

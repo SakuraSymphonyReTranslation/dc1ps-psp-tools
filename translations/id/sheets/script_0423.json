@@ -1,0 +1,483 @@
+{
+  "scene": "script_0423.obj",
+  "dialogues": [
+    {
+      "offset": 183,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 228,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………ぐぅ」",
+      "en": "\"Zzz...\"",
+      "text": "\"Zzz...\""
+    },
+    {
+      "offset": 279,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ほらほら兄さん、しゃきっとしなさい」",
+      "en": "\"Come on, niisan. Shape up!\"",
+      "text": "\"Come on, niisan. Shape up!\""
+    },
+    {
+      "offset": 357,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うぉ」",
+      "en": "\"Ahhh!\"",
+      "text": "\"Ahhh!\""
+    },
+    {
+      "offset": 372,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "腰に手を当てられて、無理やり背筋を伸ばされ\nる。",
+      "en": "She straightens me up forcefully, putting her hands on my\nwaist.",
+      "text": "She straightens me up forcefully, putting her hands on my\nwaist."
+    },
+    {
+      "offset": 426,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「う〜、どうしてさくらの家に泊まるのに、朝\n　起こされなきゃならんのだ？」",
+      "en": "\"Ow... Why do I have to get up early in the morning when I'm\ngoing to sleep over at Sakura's house?\"",
+      "text": "\"Ow... Why do I have to get up early in the morning when I'm\ngoing to sleep over at Sakura's house?\""
+    },
+    {
+      "offset": 506,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "首をぐるぐると回しつつ呟くというか、うめく。",
+      "en": "I mutter, or rather I groan, dragging my head around.",
+      "text": "I mutter, or rather I groan, dragging my head around."
+    },
+    {
+      "offset": 590,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「どうせ家を空けるんですから、一緒に出ちゃっ\n　たほうがいいじゃないですか」",
+      "en": "\"We'll be going sooner or later, so let's leave the house at\nthe same time.\"",
+      "text": "\"We'll be going sooner or later, so let's leave the house at\nthe same time.\""
+    },
+    {
+      "offset": 672,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "委員会の用事がつまっている音夢が、玄関に鍵\nをかけて指を振る。",
+      "en": "As Nemu shakes her finger and locks the front door, I\nremember she's busy with committee work.",
+      "text": "As Nemu shakes her finger and locks the front door, I\nremember she's busy with committee work."
+    },
+    {
+      "offset": 738,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつもなら苦笑いを浮かべていそうだが、今日\nに限っては表情が固い。",
+      "en": "She usually gives a wry smile, but somehow her face is stern\ntoday.",
+      "text": "She usually gives a wry smile, but somehow her face is stern\ntoday."
+    },
+    {
+      "offset": 838,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「で、何日ほどお泊まりの予定ですか？」",
+      "en": "\"So, how long do you think you're going to stay over there?\"",
+      "text": "\"So, how long do you think you're going to stay over there?\""
+    },
+    {
+      "offset": 883,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「は！？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 911,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「１週間くらいですか？」",
+      "en": "\"About a week?\"",
+      "text": "\"About a week?\""
+    },
+    {
+      "offset": 942,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ちょっと待て……どうしてさくらの家に７日\n　も泊まらなきゃいけないんだ俺は？」",
+      "en": "\"Hold on... Why do I have to stay at Sakura's house for\nseven days?\"",
+      "text": "\"Hold on... Why do I have to stay at Sakura's house for\nseven days?\""
+    },
+    {
+      "offset": 1039,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あら、二人とも仲が良いご様子でしたので、\n　積もる話もあるでしょ」",
+      "en": "\"Oh, you guys looked very close, so I thought you must have\na lot of catching up to do.\"",
+      "text": "\"Oh, you guys looked very close, so I thought you must have\na lot of catching up to do.\""
+    },
+    {
+      "offset": 1141,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「６年間の話を、１日１年ずつ語られてきてく\n　ださればいいですから♪」",
+      "en": "\"You can talk about one year's worth stuff per day, so 6\nyears will take 6 days.\"",
+      "text": "\"You can talk about one year's worth stuff per day, so 6\nyears will take 6 days.\""
+    },
+    {
+      "offset": 1217,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あの、音夢様……」",
+      "en": "\"Excuse me, Nemu-sama...\"",
+      "text": "\"Excuse me, Nemu-sama...\""
+    },
+    {
+      "offset": 1272,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「どうしました兄さん？」",
+      "en": "\"What is it, niisan?\"",
+      "text": "\"What is it, niisan?\""
+    },
+    {
+      "offset": 1303,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "底意地が悪いとしか思えない笑み。",
+      "en": "She gives a malicious grin.",
+      "text": "She gives a malicious grin."
+    },
+    {
+      "offset": 1342,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「正直に機嫌直してくれ」",
+      "en": "\"Please don't do that to me!\"",
+      "text": "\"Please don't do that to me!\""
+    },
+    {
+      "offset": 1384,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1431,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……む〜」",
+      "en": "\"Mmm...\"",
+      "text": "\"Mmm...\""
+    },
+    {
+      "offset": 1450,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あのなぁ、俺とさくらは別になんでもないん\n　だぞ」",
+      "en": "\"Hey, you know, there is nothing going on between Sakura and\nme.\"",
+      "text": "\"Hey, you know, there is nothing going on between Sakura and\nme.\""
+    },
+    {
+      "offset": 1536,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なにもない人がキスなんてしますか？」",
+      "en": "\"If nothing's going on between you guys, how can you kiss\nher?\"",
+      "text": "\"If nothing's going on between you guys, how can you kiss\nher?\""
+    },
+    {
+      "offset": 1581,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いや……あれは、そういうことじゃなくて」",
+      "en": "\"No, that wasn't what you think.\"",
+      "text": "\"No, that wasn't what you think.\""
+    },
+    {
+      "offset": 1630,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "パントマイムでおひねりをもらえそうなほど、\n手が複雑な動きをする。",
+      "en": "I wave my hands dramatically like in a pantomime.",
+      "text": "I wave my hands dramatically like in a pantomime."
+    },
+    {
+      "offset": 1702,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん……なんで俺は、浮気が奥さんにばれたみ\n　たいな反応せにゃならんのだ」",
+      "en": "\"Ah... Why do I have to feel as if I got caught in a love\naffair?\"",
+      "text": "\"Ah... Why do I have to feel as if I got caught in a love\naffair?\""
+    },
+    {
+      "offset": 1810,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 1825,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そうだ、俺とさくらがキスをしていたのを、\n　どうしてお前に怒られなきゃいけないんだ？」",
+      "en": "\"Why did you get angry at our kiss?\"",
+      "text": "\"Why did you get angry at our kiss?\""
+    },
+    {
+      "offset": 1919,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "素で反応していた俺も俺だが。",
+      "en": "Well, I have to admit that I did act without thinking,\nbut...",
+      "text": "Well, I have to admit that I did act without thinking,\nbut..."
+    },
+    {
+      "offset": 1982,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だ、だって、あんな｛はれんち／破廉恥｝なこと……」",
+      "en": "\"Because it was an indecent act.\"",
+      "text": "\"Because it was an indecent act.\""
+    },
+    {
+      "offset": 2041,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「キスが破廉恥？　恋人がいるならともかく、\n　別に破廉恥ってことはないだろう」",
+      "en": "\"Is kissing indecent to you? If I had a girlfriend, then you\ncould say kissing someone else was an indecent act.\"",
+      "text": "\"Is kissing indecent to you? If I had a girlfriend, then you\ncould say kissing someone else was an indecent act.\""
+    },
+    {
+      "offset": 2153,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「う……うん、そうなんだけど……あれ？」",
+      "en": "\"Um... yeah, that's right. Hm?\"",
+      "text": "\"Um... yeah, that's right. Hm?\""
+    },
+    {
+      "offset": 2200,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ん？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 2215,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふたりして腕組みしてしまう。",
+      "en": "Both of us are standing with our arms folded.",
+      "text": "Both of us are standing with our arms folded."
+    },
+    {
+      "offset": 2250,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……なにか前提条件が間違ってないか？」",
+      "en": "\"Don't you think your assumption is wrong?\"",
+      "text": "\"Don't you think your assumption is wrong?\""
+    },
+    {
+      "offset": 2325,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……うん」",
+      "en": "\"Yeah...\"",
+      "text": "\"Yeah...\""
+    },
+    {
+      "offset": 2344,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう。ふたりとも兄妹ではなく恋人ならば、今\nまでの会話が成り立つのだ。",
+      "en": "Right. If we were a couple, not sister and brother, then\nwhat we were saying makes sense.",
+      "text": "Right. If we were a couple, not sister and brother, then\nwhat we were saying makes sense."
+    },
+    {
+      "offset": 2418,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "困ったようなはにかんだ笑みを浮かべて、音夢\nが頷く。",
+      "en": "Nemu nods, giving an embarrassed smile.",
+      "text": "Nemu nods, giving an embarrassed smile."
+    },
+    {
+      "offset": 2504,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あはははは、ちょっと大人気なかったね」",
+      "en": "\"Hahaha... I guess I acted very immature this time.\"",
+      "text": "\"Hahaha... I guess I acted very immature this time.\""
+    },
+    {
+      "offset": 2551,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "元からガキだけどな――とは口にしない。",
+      "en": "You're immature from the beginning, but I would never say\nit.",
+      "text": "You're immature from the beginning, but I would never say\nit."
+    },
+    {
+      "offset": 2596,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まぁ、お泊りなんて今日１日だけだ。それよ\n　り、早くしないと遅刻するぞ」",
+      "en": "\"Well, I'll sleep over for only one day, that's it. Hey,\nyou'll be late if you don't go now.\"",
+      "text": "\"Well, I'll sleep over for only one day, that's it. Hey,\nyou'll be late if you don't go now.\""
+    },
+    {
+      "offset": 2704,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「はぁい」",
+      "en": "\"Yes, I know.\"",
+      "text": "\"Yes, I know.\""
+    },
+    {
+      "offset": 2740,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とことこ、と歩いて、急に音夢が振り返る。",
+      "en": "While walking away, Nemu suddenly turns back toward me.",
+      "text": "While walking away, Nemu suddenly turns back toward me."
+    },
+    {
+      "offset": 2820,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さん、校門まで一緒に行かない？」",
+      "en": "\"Do you want to walk with me up to the school gate?\"",
+      "text": "\"Do you want to walk with me up to the school gate?\""
+    },
+    {
+      "offset": 2863,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あはははは」",
+      "en": "\"Ahahahaha.\"",
+      "text": "\"Ahahahaha.\""
+    },
+    {
+      "offset": 2912,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ちょっと、なんで笑うんですかぁ！？」",
+      "en": "\"What's so funny?\"",
+      "text": "\"What's so funny?\""
+    },
+    {
+      "offset": 2957,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いやいや」",
+      "en": "\"Nothing.\"",
+      "text": "\"Nothing.\""
+    },
+    {
+      "offset": 2976,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ひとしきり笑いながら、俺は妹の隣に並ぶ。",
+      "en": "I walk beside my sister laughing for some time.",
+      "text": "I walk beside my sister laughing for some time."
+    },
+    {
+      "offset": 3021,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なるほど、この甘えん坊な性格なら、音夢がキ\nスを快く思わないのも分かる。",
+      "en": "I understand why Nemu wasn't happy about our kiss, knowing\nher overly reliant character.",
+      "text": "I understand why Nemu wasn't happy about our kiss, knowing\nher overly reliant character."
+    },
+    {
+      "offset": 3099,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ま、暇つぶしには丁度いい」",
+      "en": "\"It's perfect for killing time.\"",
+      "text": "\"It's perfect for killing time.\""
+    },
+    {
+      "offset": 3145,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なにそれ……もぅ」",
+      "en": "\"What do you mean?\"",
+      "text": "\"What do you mean?\""
+    },
+    {
+      "offset": 3172,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「お姫様の送り迎えくらいさせてもらうさ」",
+      "en": "\"I can take care of Your Highness to and from school.\"",
+      "text": "\"I can take care of Your Highness to and from school.\""
+    },
+    {
+      "offset": 3219,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "すねる妹の頭に手を置いて、俺は小さく笑った。",
+      "en": "As my sister starts to sulk, I laugh a little and pat her on\nthe head.",
+      "text": "As my sister starts to sulk, I laugh a little and pat her on\nthe head."
+    },
+    {
+      "offset": 3386,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆前提条件◆",
+      "en": "◆Prerequisite◆",
+      "text": "◆Prerequisite◆"
+    },
+    {
+      "offset": 3427,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "翌日、学園で委員会の仕事のある音夢と同じ時\n間に起こされてしまう。",
+      "en": "Next day, Nemu had some work to do for the committee, and\nwoke me up at the same time she got up.",
+      "text": "Next day, Nemu had some work to do for the committee, and\nwoke me up at the same time she got up."
+    },
+    {
+      "offset": 3497,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらと俺のキスを目撃して不機嫌な音夢だっ\nたが、なんとか誤解をとき、笑顔で校門まで送\nることになった。",
+      "en": "Nemu was not in a good mood after she saw me and Sakura\nkiss. However, we finally cleared up the misunderstanding,\nand I escorted her to the school gate with a smile.",
+      "text": "Nemu was not in a good mood after she saw me and Sakura\nkiss. However, we finally cleared up the misunderstanding,\nand I escorted her to the school gate with a smile."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "271": "Nemu",
+    "582": "Nemu",
+    "830": "Nemu",
+    "903": "Nemu",
+    "1031": "Nemu",
+    "1133": "Nemu",
+    "1264": "Nemu",
+    "1376": "Nemu",
+    "1423": "Nemu",
+    "1528": "Nemu",
+    "1802": "Nemu",
+    "1974": "Nemu",
+    "2145": "Nemu",
+    "2317": "Nemu",
+    "2496": "Nemu",
+    "2696": "Nemu",
+    "2812": "Nemu",
+    "2904": "Nemu",
+    "3137": "Nemu"
+  }
+}

@@ -1,0 +1,444 @@
+{
+  "scene": "script_0597.obj",
+  "dialogues": [
+    {
+      "offset": 143,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「音夢？」",
+      "en": "\"Nemu?\"",
+      "text": "\"Nemu?\""
+    },
+    {
+      "offset": 160,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そっ、とドアを開けた。",
+      "en": "I opened the door quietly.",
+      "text": "I opened the door quietly."
+    },
+    {
+      "offset": 189,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「寝てるよな……って、なんだ？」",
+      "en": "\"I know she's sleeping. But what's this?\"",
+      "text": "\"I know she's sleeping. But what's this?\""
+    },
+    {
+      "offset": 228,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鼻をくすぐるというか、むっ、とくるような桜\nの匂い。",
+      "en": "There is a strong odor of cherry blossoms.",
+      "text": "There is a strong odor of cherry blossoms."
+    },
+    {
+      "offset": 297,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「けほ……ん……っ」",
+      "en": "\"Cough...\"",
+      "text": "\"Cough...\""
+    },
+    {
+      "offset": 324,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「音夢？」",
+      "en": "\"Nemu?\"",
+      "text": "\"Nemu?\""
+    },
+    {
+      "offset": 352,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……兄さん」",
+      "en": "\"Niisan...\"",
+      "text": "\"Niisan...\""
+    },
+    {
+      "offset": 373,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ゆらり、とベッドから音夢が立ち上がる。",
+      "en": "Nemu gets up from the bed unsteadily.",
+      "text": "Nemu gets up from the bed unsteadily."
+    },
+    {
+      "offset": 418,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「大丈夫か？　あと、なんだこの匂いは？」",
+      "en": "\"Are you okay? What is this smell, anyway?\"",
+      "text": "\"Are you okay? What is this smell, anyway?\""
+    },
+    {
+      "offset": 476,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「来ないで……」",
+      "en": "\"Don't come in.\"",
+      "text": "\"Don't come in.\""
+    },
+    {
+      "offset": 499,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぴた、と音夢の声が瞬間接着剤のように働き、\n足が床に張り付く。",
+      "en": "As soon as I heard Nemu, I couldn't move as if my feet were\nglued to the floor instantly.",
+      "text": "As soon as I heard Nemu, I couldn't move as if my feet were\nglued to the floor instantly."
+    },
+    {
+      "offset": 578,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「さくらの夢を見てたでしょ？」",
+      "en": "\"You saw Sakura's dream, didn't you?\"",
+      "text": "\"You saw Sakura's dream, didn't you?\""
+    },
+    {
+      "offset": 615,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "すらり、と白い足がベッドから下りてくる。",
+      "en": "Her white, slender legs come down from the bed.",
+      "text": "Her white, slender legs come down from the bed."
+    },
+    {
+      "offset": 662,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「え、あぁ」",
+      "en": "\"Uhh... yeah.\"",
+      "text": "\"Uhh... yeah.\""
+    },
+    {
+      "offset": 692,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そうなんだ……やっぱり、兄さんのその和菓\n　子の力ってさくらのためのモノだったんだ」",
+      "en": "\"I see. You use the magic to make snacks only for Sakura,\ndon't you?\"",
+      "text": "\"I see. You use the magic to make snacks only for Sakura,\ndon't you?\""
+    },
+    {
+      "offset": 784,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「お前……和菓子って、どこまで俺のことを知っ\n　てるんだ？」",
+      "en": "\"You're talking about snacks, but how much do you think you\nknow about me?\"",
+      "text": "\"You're talking about snacks, but how much do you think you\nknow about me?\""
+    },
+    {
+      "offset": 861,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「どこまでって……何年、兄妹やってると思っ\n　てるのよ？」",
+      "en": "\"How long do you think we've been brother and sister?\"",
+      "text": "\"How long do you think we've been brother and sister?\""
+    },
+    {
+      "offset": 925,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 955,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「それにね……最近……兄さんのことが分かる\n　の」",
+      "en": "\"Also... lately... I've been able to feel what you feel. \"",
+      "text": "\"Also... lately... I've been able to feel what you feel. \""
+    },
+    {
+      "offset": 1022,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「繋がってるっていうのかな？　身体よりも深\n　くて温かいところで」",
+      "en": "\"I mean, I feel we're connected at a deeper level, not just\nphysically.\"",
+      "text": "\"I mean, I feel we're connected at a deeper level, not just\nphysically.\""
+    },
+    {
+      "offset": 1094,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "シャツ１枚という姿で、音夢がそっと寄って来\nる。",
+      "en": "Nemu gets closer. She's wearing nothing but a shirt.",
+      "text": "Nemu gets closer. She's wearing nothing but a shirt."
+    },
+    {
+      "offset": 1181,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「気持ちとか、何を食べたいとか、どんな天気\n　が好きかとか、なにに興味を持っているとか」",
+      "en": "\"I can tell how you feel, what you want to eat, what kind of\nweather you like or what you're interested in.\"",
+      "text": "\"I can tell how you feel, what you want to eat, what kind of\nweather you like or what you're interested in.\""
+    },
+    {
+      "offset": 1303,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「どんな夢を見ているか、とか」",
+      "en": "\"And I can also tell what kind of dream you had.\"",
+      "text": "\"And I can also tell what kind of dream you had.\""
+    },
+    {
+      "offset": 1340,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "首元の鈴のように、ころころ、と音夢が微笑む。",
+      "en": "Nemu giggles musically, like a bell.",
+      "text": "Nemu giggles musically, like a bell."
+    },
+    {
+      "offset": 1419,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「でも、兄さんは気づかないでしょ？　私の一\n　方的な感覚なんだよね」",
+      "en": "\"I don't think you've noticed, have you? I think these\nfeelings are only on my side.\"",
+      "text": "\"I don't think you've noticed, have you? I think these\nfeelings are only on my side.\""
+    },
+    {
+      "offset": 1521,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さんの気持ちが私に向かってないから」",
+      "en": "\"Because you aren't paying attention to me.\"",
+      "text": "\"Because you aren't paying attention to me.\""
+    },
+    {
+      "offset": 1568,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「お前」",
+      "en": "\"Hey...\"",
+      "text": "\"Hey...\""
+    },
+    {
+      "offset": 1583,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "卒業式の夜のように、音夢の目が虚ろに揺れて\nいる。",
+      "en": "Nemu's eyes look empty, like they did on the night of the\ngraduation ceremony.",
+      "text": "Nemu's eyes look empty, like they did on the night of the\ngraduation ceremony."
+    },
+    {
+      "offset": 1667,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なんで、あんな魔女に……」",
+      "en": "\"Why do you let the witch...\"",
+      "text": "\"Why do you let the witch...\""
+    },
+    {
+      "offset": 1702,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「音夢？」",
+      "en": "\"Nemu?\"",
+      "text": "\"Nemu?\""
+    },
+    {
+      "offset": 1747,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「これは、さくらが見ている夢だって気づかな\n　いの兄さん？」",
+      "en": "\"Don't you know this is the dream that Sakura is having,\nniisan?\"",
+      "text": "\"Don't you know this is the dream that Sakura is having,\nniisan?\""
+    },
+    {
+      "offset": 1841,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「うんん……気づけないのか」",
+      "en": "\"I mean... Why can't you notice it?\"",
+      "text": "\"I mean... Why can't you notice it?\""
+    },
+    {
+      "offset": 1876,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「おい、本当に変だぞ！？」",
+      "en": "\"Hey, you sound different!\"",
+      "text": "\"Hey, you sound different!\""
+    },
+    {
+      "offset": 1937,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だって…………けほっ」",
+      "en": "\"Because... cough!\"",
+      "text": "\"Because... cough!\""
+    },
+    {
+      "offset": 1968,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "口元を押さえて音夢が背を丸める。",
+      "en": "Nemu arches her back while covering her mouth.",
+      "text": "Nemu arches her back while covering her mouth."
+    },
+    {
+      "offset": 2005,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、ぽろぽろ、と手のひらからなにかが零れ落\nちるのが見えた。",
+      "en": "I saw something dripping down from her hand.",
+      "text": "I saw something dripping down from her hand."
+    },
+    {
+      "offset": 2099,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「？　あれ？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 2120,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「音夢？」",
+      "en": "\"Nemu?\"",
+      "text": "\"Nemu?\""
+    },
+    {
+      "offset": 2165,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さん……私なにを？」",
+      "en": "\"What is it, niisan?\"",
+      "text": "\"What is it, niisan?\""
+    },
+    {
+      "offset": 2196,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そこまで呟いて、ごほごほ、と本格的に嫌な音\nを立てて音夢が咳き込む。",
+      "en": "After she mutters, she starts coughing badly. It sounds bad.",
+      "text": "After she mutters, she starts coughing badly. It sounds bad."
+    },
+    {
+      "offset": 2268,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢の手からこぼれたものが、ひらひらと空気\nに流されて、俺の足元に滑り込んでくる。",
+      "en": "The stuff escaping from Nemu's hands comes fluttering down\nto my feet.",
+      "text": "The stuff escaping from Nemu's hands comes fluttering down\nto my feet."
+    },
+    {
+      "offset": 2358,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お前、これ……」",
+      "en": "\"This is...\"",
+      "text": "\"This is...\""
+    },
+    {
+      "offset": 2383,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "つまみあげたものは、桜の花びらだった？",
+      "en": "The thing I picked up was a cherry blossom petal.",
+      "text": "The thing I picked up was a cherry blossom petal."
+    },
+    {
+      "offset": 2456,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「？」",
+      "en": "\"?\"",
+      "text": "\"?\""
+    },
+    {
+      "offset": 2469,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢が目を丸くして口元から手を離すと、ぼろ\nぼろ、と桜の花がこぼれ落ちる。",
+      "en": "Nemu takes her hands away from her mouth, and cherry blossom\npetals keeps spilling out of her mouth.",
+      "text": "Nemu takes her hands away from her mouth, and cherry blossom\npetals keeps spilling out of her mouth."
+    },
+    {
+      "offset": 2577,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2608,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、まるで血を見て貧血を起こしたように。",
+      "en": "As if she were having an attack of anemia,",
+      "text": "As if she were having an attack of anemia,"
+    },
+    {
+      "offset": 2662,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ばさっ、と床に倒れた。",
+      "en": "She faints and collapses to the floor.",
+      "text": "She faints and collapses to the floor."
+    },
+    {
+      "offset": 2793,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆泣き虫音夢◆",
+      "en": "◆Crybaby Nemu◆",
+      "text": "◆Crybaby Nemu◆"
+    },
+    {
+      "offset": 2846,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "慌てて音夢の部屋に入ると、厳しい制止の声に\n足をとめられる。",
+      "en": "When I went to Nemu's room in a rush, I was stunned by her\nwords.",
+      "text": "When I went to Nemu's room in a rush, I was stunned by her\nwords."
+    },
+    {
+      "offset": 2910,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらとの仲に嫉妬する音夢が、俺と心が繋がっ\nていて、同じ夢を見るのだと呟く――俺の力の\nことも知っていると。",
+      "en": "Nemu was jealous of the relationship Sakura and I have. She\nsaid we're connected at a deeper level and she saw my\ndreams... and she said she knows about my magic power, too.",
+      "text": "Nemu was jealous of the relationship Sakura and I have. She\nsaid we're connected at a deeper level and she saw my\ndreams... and she said she knows about my magic power, too."
+    },
+    {
+      "offset": 3023,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、苦しそうに咳き込むと、身体から桜の\n花びらをこぼしながら、音夢は昏倒した。",
+      "en": "Then, after she started coughing badly, she spilled cherry\nblossom petals out of her body and collapsed.",
+      "text": "Then, after she started coughing badly, she spilled cherry\nblossom petals out of her body and collapsed."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "289": "Nemu",
+    "344": "Nemu",
+    "468": "Nemu",
+    "570": "Nemu",
+    "684": "Nemu",
+    "853": "Nemu",
+    "947": "Nemu",
+    "1014": "Nemu",
+    "1173": "Nemu",
+    "1295": "Nemu",
+    "1411": "Nemu",
+    "1513": "Nemu",
+    "1659": "Nemu",
+    "1739": "Nemu",
+    "1833": "Nemu",
+    "1929": "Nemu",
+    "2091": "Nemu",
+    "2157": "Nemu",
+    "2448": "Nemu",
+    "2569": "Nemu"
+  }
+}

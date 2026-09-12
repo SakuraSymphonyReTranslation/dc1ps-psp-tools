@@ -1,0 +1,367 @@
+{
+  "scene": "script_0004.obj",
+  "dialogues": [
+    {
+      "offset": 188,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「おっ、今日は少し早いな」",
+      "en": "\"Wow, you're actually early today!\"",
+      "text": "\"Wow, you're actually early today!\""
+    },
+    {
+      "offset": 221,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「ほっとけ」",
+      "en": "\"Stuff it.\"",
+      "text": "\"Stuff it.\""
+    },
+    {
+      "offset": 249,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見知ったクラスメイトと挨拶を交わし、まずは\n自分の席に着く。",
+      "en": "Exchanging \"greetings\" with a fellow classmate, I sat at my\ndesk.",
+      "text": "Exchanging \"greetings\" with a fellow classmate, I sat at my\ndesk."
+    },
+    {
+      "offset": 313,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢は教卓前の自分の席で、クラスの女友達と\n話をしている。",
+      "en": "Nemu, sitting in the front row, was chatting with her female\nfriends.",
+      "text": "Nemu, sitting in the front row, was chatting with her female\nfriends."
+    },
+    {
+      "offset": 377,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ〜、かったりい」",
+      "en": "\"Haaaa, booooring...\"",
+      "text": "\"Haaaa, booooring...\""
+    },
+    {
+      "offset": 416,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そのまま机に突っ伏す。",
+      "en": "I fell prostrate onto my desk.",
+      "text": "I fell prostrate onto my desk."
+    },
+    {
+      "offset": 456,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「おっ、朝倉。朝から絶好調だな」",
+      "en": "\"Ohh, Asakura. This time you're actually prepared for the\nmorning.\"",
+      "text": "\"Ohh, Asakura. This time you're actually prepared for the\nmorning.\""
+    },
+    {
+      "offset": 495,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並がいつものように、にかにかしながら俺の\n元にやって来る。",
+      "en": "The grinning Suginami, as always, approached my desk before\nthe class starts.",
+      "text": "The grinning Suginami, as always, approached my desk before\nthe class starts."
+    },
+    {
+      "offset": 561,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お前は、これのどこが絶好調なように見える\n　んだ？」",
+      "en": "\"Where do you see any preparation here?\"",
+      "text": "\"Where do you see any preparation here?\""
+    },
+    {
+      "offset": 621,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "近づいてはならない奴の、見本とも言うべき悪\n友の顔を見上げる。",
+      "en": "As he got closer, I looked up to the face of one of the best\nexamples of a worst friend.",
+      "text": "As he got closer, I looked up to the face of one of the best\nexamples of a worst friend."
+    },
+    {
+      "offset": 737,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「なに、いつも通りということさ」",
+      "en": "\"The usual Asakura, I see!\"",
+      "text": "\"The usual Asakura, I see!\""
+    },
+    {
+      "offset": 776,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぽんぽん、と俺の肩を叩く杉並。",
+      "en": "Suginami slapped my shoulder.",
+      "text": "Suginami slapped my shoulder."
+    },
+    {
+      "offset": 811,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この軽薄さとノリで、実は学年トップの成績な\nんだから、世の中、間違ってるよな。",
+      "en": "Even though he acts so casual all the time, he's actually\nhas the top marks of the class, a blip in society.",
+      "text": "Even though he acts so casual all the time, he's actually\nhas the top marks of the class, a blip in society."
+    },
+    {
+      "offset": 893,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかも運動も球技全般ＯＫときてる。",
+      "en": "Even worse, he's good at pretty much all sports.",
+      "text": "Even worse, he's good at pretty much all sports."
+    },
+    {
+      "offset": 962,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ところで朝倉。素晴らしい企画があるのだが、\n　お前も参加せんか？」",
+      "en": "\"By the way Asakura, I've come up with a magnificent\nproject. You'd participate in it, of course?\"",
+      "text": "\"By the way Asakura, I've come up with a magnificent\nproject. You'd participate in it, of course?\""
+    },
+    {
+      "offset": 1036,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「くだらない企画の間違いじゃないのか？」",
+      "en": "\"Wouldn't it be more like a stupid project?\"",
+      "text": "\"Wouldn't it be more like a stupid project?\""
+    },
+    {
+      "offset": 1083,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いや、こいつの場合は断定できるだろう。",
+      "en": "Whenever it's from this guy, it always seems like that's the\ncase.",
+      "text": "Whenever it's from this guy, it always seems like that's the\ncase."
+    },
+    {
+      "offset": 1156,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「そんなことは無いぞ。『白河ことりが卒業ま\n　でに何人に告白されるか？』という、素晴ら\n　しいクイズ大会だ」",
+      "en": "\"Of course not. It's a wonderful quiz competition centered\naround the question \"How many people will confess to\nShirakawa Kotori before her graduation?\"\"",
+      "text": "\"Of course not. It's a wonderful quiz competition centered\naround the question \"How many people will confess to\nShirakawa Kotori before her graduation?\"\""
+    },
+    {
+      "offset": 1269,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "\".........\"",
+      "text": "\".........\""
+    },
+    {
+      "offset": 1288,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……賭けの間違いじゃないのか？」",
+      "en": "\"...What I said, in other words?\"",
+      "text": "\"...What I said, in other words?\""
+    },
+    {
+      "offset": 1340,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「何を言う。これはれっきとしたクイズ大会だ。\n　むろん、正解者には豪華景品が進呈される」",
+      "en": "\"What are you talking about! Just look at the list of people\nwho've already signed up. Naturally, the person with the\ncorrect answer will be awarded a spectacular prize.\"",
+      "text": "\"What are you talking about! Just look at the list of people\nwho've already signed up. Naturally, the person with the\ncorrect answer will be awarded a spectacular prize.\""
+    },
+    {
+      "offset": 1434,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "（豪華景品ねえ……）",
+      "en": "\"(...Spectacular prize, eh...)\"",
+      "text": "\"(...Spectacular prize, eh...)\""
+    },
+    {
+      "offset": 1472,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「今のところ、一番人気は５０〜６０人といっ\n　たところだな」",
+      "en": "\"Right now, the most popular range is around the 50-60\nmark.\"",
+      "text": "\"Right now, the most popular range is around the 50-60\nmark.\""
+    },
+    {
+      "offset": 1538,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「そりゃ、凄いな」",
+      "en": "\"That's amazing.\"",
+      "text": "\"That's amazing.\""
+    },
+    {
+      "offset": 1591,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「なんといっても、白河ことりだからな。俺は\n　大穴で、１００人は越すのではないかと思っ\n　ている」",
+      "en": "\"Nah, it's Shirakawa Kotori after all. I'm going for a dark\nhorse bet, I think 100 people will confess to her by then.\"",
+      "text": "\"Nah, it's Shirakawa Kotori after all. I'm going for a dark\nhorse bet, I think 100 people will confess to her by then.\""
+    },
+    {
+      "offset": 1694,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「１００人か……」",
+      "en": "\"100 people...\"",
+      "text": "\"100 people...\""
+    },
+    {
+      "offset": 1719,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "突拍子もない人数だが、彼女の人気を考えれば、\n不可能な気がしない。",
+      "en": "Even for that crazy amount of people, knowing her\npopularity, I wouldn't say it's impossible...",
+      "text": "Even for that crazy amount of people, knowing her\npopularity, I wouldn't say it's impossible..."
+    },
+    {
+      "offset": 1802,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「まったく、あんた達ってほんと、しょうがな\n　いわね……」",
+      "en": "\"Really, you two are hopeless...\"",
+      "text": "\"Really, you two are hopeless...\""
+    },
+    {
+      "offset": 1888,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "反対側を見上げると、クラスメイトの｛みずこし／水越｝｛まこ／眞子｝\nがさげすむような目で、こちらを見ていた。",
+      "en": "Looking up behind me, it's my classmate, Mizukoshi Mako,\nglaring at us with scornful eyes.",
+      "text": "Looking up behind me, it's my classmate, Mizukoshi Mako,\nglaring at us with scornful eyes."
+    },
+    {
+      "offset": 2002,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺をこいつと一緒にするな眞子。俺はまとも\n　だ」",
+      "en": "\"I'm not with him, Mako. I'm an honest man.\"",
+      "text": "\"I'm not with him, Mako. I'm an honest man.\""
+    },
+    {
+      "offset": 2102,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「何を言う、Ｍｙ同志・朝倉。共に戦った仲で\n　はないか」",
+      "en": "\"What are you saying, comrade Asakura. Are we not\ncomrades-in-arms, fighting the same battle?\"",
+      "text": "\"What are you saying, comrade Asakura. Are we not\ncomrades-in-arms, fighting the same battle?\""
+    },
+    {
+      "offset": 2164,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「いつ、どこで、何を、どうやって、誰が、な\n　ぜ」",
+      "en": "\"When, where, what, how, who, why?\"",
+      "text": "\"When, where, what, how, who, why?\""
+    },
+    {
+      "offset": 2248,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「先週、ゲーセンで、ゾンビ退治を、ガンを使っ\n　て、俺とお前が、教授の野望を阻止するため\n　に」",
+      "en": "\"Last week, the arcade center, zombie extermination, using\nguns, you and I, to prevent the evil ambitions of the\nteachers.\"",
+      "text": "\"Last week, the arcade center, zombie extermination, using\nguns, you and I, to prevent the evil ambitions of the\nteachers.\""
+    },
+    {
+      "offset": 2349,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "\".........\"",
+      "text": "\".........\""
+    },
+    {
+      "offset": 2379,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "\".........\"",
+      "text": "\".........\""
+    },
+    {
+      "offset": 2432,
+      "speaker": "Asakura & Suginami",
+      "speaker_jp": "朝倉＆杉並",
+      "jp": "「同志よ」",
+      "en": "\"Comrades.\"",
+      "text": "\"Comrades.\""
+    },
+    {
+      "offset": 2449,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "がっちりと腕を組み合う。",
+      "en": "Our palms firmly met each other's.",
+      "text": "Our palms firmly met each other's."
+    },
+    {
+      "offset": 2508,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……どっちもバカ」",
+      "en": "\"...in stupidity.\"",
+      "text": "\"...in stupidity.\""
+    },
+    {
+      "offset": 2565,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ほら、席に着いて」",
+      "en": "\"Alright, return to your seats.\"",
+      "text": "\"Alright, return to your seats.\""
+    },
+    {
+      "offset": 2629,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本鈴と同時に、担任の｛しらかわこよみ／白河暦｝先生が教室に入っ\nて来た。",
+      "en": "As the bell went off, the form teacher Shirakawa Koyomi\narrived at the classroom.",
+      "text": "As the bell went off, the form teacher Shirakawa Koyomi\narrived at the classroom."
+    },
+    {
+      "offset": 2809,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆登校◆",
+      "en": "◆Schooltime◆",
+      "text": "◆Schooltime◆"
+    },
+    {
+      "offset": 2846,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "教室にやって来て、毎度のごとく、杉並辺りと\nバカな話をする。",
+      "en": "Upon entering the classroom, as usual, Suginami was nearby\nspouting crap.",
+      "text": "Upon entering the classroom, as usual, Suginami was nearby\nspouting crap."
+    },
+    {
+      "offset": 2934,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そうこうするうち、チャイムが鳴って、担任の\n白河暦先生が教室に入って来た。",
+      "en": "Before he could go too far, the chime rang, and Shirakawa\nKoyomi-sensei entered the classroom.",
+      "text": "Before he could go too far, the chime rang, and Shirakawa\nKoyomi-sensei entered the classroom."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "180": "Kudou",
+    "448": "Suginami",
+    "729": "Suginami",
+    "954": "Suginami",
+    "1148": "Suginami",
+    "1332": "Suginami",
+    "1464": "Suginami",
+    "1583": "Suginami",
+    "1794": "Mako",
+    "2094": "Suginami",
+    "2240": "Suginami",
+    "2371": "Suginami",
+    "2418": "Asakura & Suginami",
+    "2500": "Mako",
+    "2559": "Koyomi"
+  }
+}

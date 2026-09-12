@@ -1,0 +1,582 @@
+{
+  "scene": "script_0638.obj",
+  "dialogues": [
+    {
+      "offset": 155,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ただいま……と」",
+      "en": "She bows her head, takes off her shoes, and arranges them\nand my shoes nicely.",
+      "text": "She bows her head, takes off her shoes, and arranges them\nand my shoes nicely."
+    },
+    {
+      "offset": 180,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "無人の家に向かって声を投げかける。もっとも、\n今は隣に人が居る訳だが。",
+      "en": "\"Oh, you don't have to be so stiff and formal.\"",
+      "text": "\"Oh, you don't have to be so stiff and formal.\""
+    },
+    {
+      "offset": 369,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ、お邪魔します……」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 400,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぺこんと頭を下げると、靴を脱ぎ、靴を揃え、\nついで俺の靴も揃えた。",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 551,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「え？」",
+      "en": "\"Ah... ummm......\"",
+      "text": "\"Ah... ummm......\""
+    },
+    {
+      "offset": 566,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「ん？」",
+      "en": "\"Thank you...... Then... I won't.\"",
+      "text": "\"Thank you...... Then... I won't.\""
+    },
+    {
+      "offset": 609,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ、そ、その……」",
+      "en": "\"What? About the shoes?\"",
+      "text": "\"What? About the shoes?\""
+    },
+    {
+      "offset": 664,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「そう……ですか？」",
+      "en": "Our shoes are arranged nicely at the door, and they look\nlike as if we have guests.",
+      "text": "Our shoes are arranged nicely at the door, and they look\nlike as if we have guests."
+    },
+    {
+      "offset": 691,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「何が？　靴？」",
+      "en": "\"Yes......\"",
+      "text": "\"Yes......\""
+    },
+    {
+      "offset": 714,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちょこなんと揃えられた靴は、まるで来客でも\nあったかのようだ。",
+      "en": "\"Oh, yeah, you don't have to do that. I mean, who does that,\nyou know?\"",
+      "text": "\"Oh, yeah, you don't have to do that. I mean, who does that,\nyou know?\""
+    },
+    {
+      "offset": 810,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「はい……」",
+      "en": "\"Ah, yes...... You're right.\"",
+      "text": "\"Ah, yes...... You're right.\""
+    },
+    {
+      "offset": 972,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛あいまい／曖昧｝に笑いつつ、しゃがんでぐしゃぐしゃと靴\nをかき混ぜる。",
+      "en": "She smiles ambiguously and scatters the shoes all over the\nplace.",
+      "text": "She smiles ambiguously and scatters the shoes all over the\nplace."
+    },
+    {
+      "offset": 1050,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや、わざわざカオスにせんでも……」",
+      "en": "\"You didn't have to do that either......\"",
+      "text": "\"You didn't have to do that either......\""
+    },
+    {
+      "offset": 1134,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「え？　あ、す、すみません……」",
+      "en": "\"What? Oh, I-I am sorry......\"",
+      "text": "\"What? Oh, I-I am sorry......\""
+    },
+    {
+      "offset": 1173,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "汗マークが飛び散っていそうなほど焦ると、頼\n子さんは再び靴を揃えたのだった。",
+      "en": "I can see her getting slightly panicked, with sweat marks\neverywhere around her like in a cartoon. She bends down and\narranges the shoes nicely again.",
+      "text": "I can see her getting slightly panicked, with sweat marks\neverywhere around her like in a cartoon. She bends down and\narranges the shoes nicely again."
+    },
+    {
+      "offset": 1286,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「でまあ、さっきも言ったけど、今はこの家は\n　俺一人なんだな」",
+      "en": "\"I told you earlier, but I'm the only one who lives in this\nhouse.\"",
+      "text": "\"I told you earlier, but I'm the only one who lives in this\nhouse.\""
+    },
+    {
+      "offset": 1354,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「二人っきりって事だけど、それでも、いい？」",
+      "en": "\"So, that means, only me and you in this house. Would that\nbe okay with you?\"",
+      "text": "\"So, that means, only me and you in this house. Would that\nbe okay with you?\""
+    },
+    {
+      "offset": 1438,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「え……？」",
+      "en": "\"What......?\"",
+      "text": "\"What......?\""
+    },
+    {
+      "offset": 1457,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「いや、だから、見知らぬ男女が一つ屋根の下\n　にって事なんだぜ？」",
+      "en": "\"You know, it means a man and a woman are going to live\ntogether under the same roof.\"",
+      "text": "\"You know, it means a man and a woman are going to live\ntogether under the same roof.\""
+    },
+    {
+      "offset": 1540,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「…………？」",
+      "en": "\"............?\"",
+      "text": "\"............?\""
+    },
+    {
+      "offset": 1561,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何をゐってゐるのでせうかこの異人さんは、と\nいった感じの視線を送られてしまった。",
+      "en": "She looks puzzled, as if she was saying \"What is this\nstrange man talking about?\".",
+      "text": "She looks puzzled, as if she was saying \"What is this\nstrange man talking about?\"."
+    },
+    {
+      "offset": 1645,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とりあえず頼子さんは、そっち方面の心配はし\nていないらしい。",
+      "en": "She seems not to care about those things...",
+      "text": "She seems not to care about those things..."
+    },
+    {
+      "offset": 1711,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん〜、まあいいか。何にしろ、追い出す訳に\n　もいかんし……」",
+      "en": "\"Umm... oh well. I can't kick you out anyway.\"",
+      "text": "\"Umm... oh well. I can't kick you out anyway.\""
+    },
+    {
+      "offset": 1807,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「…………！」",
+      "en": "\"............!\"",
+      "text": "\"............!\""
+    },
+    {
+      "offset": 1828,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "身体をぴくんと震わせた。",
+      "en": "She shakes her body.",
+      "text": "She shakes her body."
+    },
+    {
+      "offset": 1887,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「……あ、あの……」",
+      "en": "\"......Ah, umm......\"",
+      "text": "\"......Ah, umm......\""
+    },
+    {
+      "offset": 1914,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "上目遣い。とても頼りない。微妙に苦手な視線\nで、俺は半歩下がった。",
+      "en": "She gives me puppy dog eyes, looking desperate. It\ndisconcerts me, so I step back a little.",
+      "text": "She gives me puppy dog eyes, looking desperate. It\ndisconcerts me, so I step back a little."
+    },
+    {
+      "offset": 2014,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ、私……私……！」",
+      "en": "\"Ah, I...... I......!\"",
+      "text": "\"Ah, I...... I......!\""
+    },
+    {
+      "offset": 2043,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「ま、まあ、落ち着いて」",
+      "en": "\"C-Calm down.\"",
+      "text": "\"C-Calm down.\""
+    },
+    {
+      "offset": 2102,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ、はい。その……すいません」",
+      "en": "\"Uh, yes. I...... I am sorry.\"",
+      "text": "\"Uh, yes. I...... I am sorry.\""
+    },
+    {
+      "offset": 2141,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「いや、まあ、いいんだけど」",
+      "en": "\"It's okay.\"",
+      "text": "\"It's okay.\""
+    },
+    {
+      "offset": 2204,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2223,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "（にしても、長い｛まつげ／睫毛｝だな……）",
+      "en": "(She does have very long eyelashes......)",
+      "text": "(She does have very long eyelashes......)"
+    },
+    {
+      "offset": 2272,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "無防備に目をつむり、必死に息を整えている。\n窓から差し込む日で顔の造作が明らかだ。",
+      "en": "She's trying to catch her breath, closing her eyes\ndefenselessly. Light from a window lets me get a good look\nat her face.",
+      "text": "She's trying to catch her breath, closing her eyes\ndefenselessly. Light from a window lets me get a good look\nat her face."
+    },
+    {
+      "offset": 2358,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美人だな。",
+      "en": "She's a beautiful girl.",
+      "text": "She's a beautiful girl."
+    },
+    {
+      "offset": 2403,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ……」",
+      "en": "\"Ah......\"",
+      "text": "\"Ah......\""
+    },
+    {
+      "offset": 2420,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「う」",
+      "en": "\"Ah.\"",
+      "text": "\"Ah.\""
+    },
+    {
+      "offset": 2433,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぱちりと目が開き、視線がトンネルのように通\nじ合う。",
+      "en": "She opens her eyes, and our eyes lock as if we were looking\nthrough a tunnel.",
+      "text": "She opens her eyes, and our eyes lock as if we were looking\nthrough a tunnel."
+    },
+    {
+      "offset": 2519,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ、と、ですね……ですから、私……」",
+      "en": "\"Ah, I... was going... to say......\"",
+      "text": "\"Ah, I... was going... to say......\""
+    },
+    {
+      "offset": 2564,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふと見ると、頼子さんの両手は白っぽく見える\nくらい固く握られていた。",
+      "en": "Her hands are clasped tightly together, and they're getting\nwhite.",
+      "text": "Her hands are clasped tightly together, and they're getting\nwhite."
+    },
+    {
+      "offset": 2668,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「私……私を……メイドとしてここに置いて下\n　さい……！」",
+      "en": "\"Please...... Please let me stay here as your maid......!\"",
+      "text": "\"Please...... Please let me stay here as your maid......!\""
+    },
+    {
+      "offset": 2732,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2751,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、メイド服着てるしな。",
+      "en": "Well, she certainly is wearing a maid costume.",
+      "text": "Well, she certainly is wearing a maid costume."
+    },
+    {
+      "offset": 2789,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「というか、別にメイドさんなんてしてくれな\n　くてもいいぜ？」",
+      "en": "\"You don't have to be my maid to stay here.\"",
+      "text": "\"You don't have to be my maid to stay here.\""
+    },
+    {
+      "offset": 2885,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「え……？」",
+      "en": "\"What......?\"",
+      "text": "\"What......?\""
+    },
+    {
+      "offset": 2904,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「いや、そんなチワワみたいに、不安そうな顔\n　せんでも」",
+      "en": "\"Don't look so anxious like a chihuahua.\"",
+      "text": "\"Don't look so anxious like a chihuahua.\""
+    },
+    {
+      "offset": 2994,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「で、でも、私……」",
+      "en": "\"B-But, I......\"",
+      "text": "\"B-But, I......\""
+    },
+    {
+      "offset": 3049,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「メイドじゃ……なかったら……私……」",
+      "en": "\"If I'm not your maid...... then I......\"",
+      "text": "\"If I'm not your maid...... then I......\""
+    },
+    {
+      "offset": 3094,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「いや、だから別にそういう仕事なんかしなく\n　ても、家に置くって」",
+      "en": "\"What I'm trying to say is that I'll let you stay here even\nif you're not my maid.\"",
+      "text": "\"What I'm trying to say is that I'll let you stay here even\nif you're not my maid.\""
+    },
+    {
+      "offset": 3194,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「で、でも……」",
+      "en": "\"B-But......\"",
+      "text": "\"B-But......\""
+    },
+    {
+      "offset": 3217,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふるふると首を振る。この人には、精一杯の否\n定なんだろうなと思えた。",
+      "en": "She shakes her head to the sides. I think this is how she\nexpresses her strongest denial.",
+      "text": "She shakes her head to the sides. I think this is how she\nexpresses her strongest denial."
+    },
+    {
+      "offset": 3291,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ええと、むしろ、メイドとして働きたい？」",
+      "en": "\"......Okay, so you'd rather work here as a maid?\"",
+      "text": "\"......Okay, so you'd rather work here as a maid?\""
+    },
+    {
+      "offset": 3340,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まさかなと思いつつ、｛たず／訊｝ねる。しかし、おお、\n見よ！　頼子さんは、うんうんと頷いているで\nはないか。",
+      "en": "I'm not sure, but I ask her anyway. But look at her! She's\nnodding in agreement!",
+      "text": "I'm not sure, but I ask her anyway. But look at her! She's\nnodding in agreement!"
+    },
+    {
+      "offset": 3451,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……マジで？",
+      "en": "...Is she serious?",
+      "text": "...Is she serious?"
+    },
+    {
+      "offset": 3470,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「けど、参ったな。俺んち、メイドさん雇うよ\n　うな余裕ないぜ？」",
+      "en": "\"But I can't afford to hire a maid.\"",
+      "text": "\"But I can't afford to hire a maid.\""
+    },
+    {
+      "offset": 3568,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ、そ、それはいいんです。お、置いてもら\n　えるだけで……」",
+      "en": "\"Ah, you don't have to. You can just let me stay here.\"",
+      "text": "\"Ah, you don't have to. You can just let me stay here.\""
+    },
+    {
+      "offset": 3636,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「給料はいらないと？」",
+      "en": "\"You don't want any money?\"",
+      "text": "\"You don't want any money?\""
+    },
+    {
+      "offset": 3682,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛しんし／真摯｝な｛まなざ／眼差｝しでこくんと頷く。",
+      "en": "She nods with a sincere look on her face.",
+      "text": "She nods with a sincere look on her face."
+    },
+    {
+      "offset": 3741,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「じゃあ、ま、いいかな……」",
+      "en": "\"Well, then that's fine with me......\"",
+      "text": "\"Well, then that's fine with me......\""
+    },
+    {
+      "offset": 3776,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "家事の全般を担当していてくれた音夢が居なく\nなった事だし。丁度いいと言えばいい。",
+      "en": "Since Nemu, who used to do all the housework, is gone now,\nit'll work just fine for me.",
+      "text": "Since Nemu, who used to do all the housework, is gone now,\nit'll work just fine for me."
+    },
+    {
+      "offset": 3860,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "尤も、そういう打算なしでも俺は断れなかった\nだろう。頼子さんには、そういう雰囲気がある\nのだ。",
+      "en": "Even if it didn't work fine for me, I still couldn't say no\nto her. Yoriko-san has such a mysterious atmosphere that\nmakes it difficult for me to say no.",
+      "text": "Even if it didn't work fine for me, I still couldn't say no\nto her. Yoriko-san has such a mysterious atmosphere that\nmakes it difficult for me to say no."
+    },
+    {
+      "offset": 3987,
+      "speaker": "Yoriko",
+      "speaker_jp": "頼子",
+      "jp": "「あ、ありがとうございます」",
+      "en": "\"Th-Thank you so much.\"",
+      "text": "\"Th-Thank you so much.\""
+    },
+    {
+      "offset": 4022,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それまでの不安顔とのコントラストも鮮やかに、\n頼子さんが微笑む。",
+      "en": "The anxious face is gone now, and she has a smile on her\nface.",
+      "text": "The anxious face is gone now, and she has a smile on her\nface."
+    },
+    {
+      "offset": 4109,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ、と、じゃあひとつ、俺からお願いが」",
+      "en": "\"Oh, then I have one favor to ask you.\"",
+      "text": "\"Oh, then I have one favor to ask you.\""
+    },
+    {
+      "offset": 4156,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「メイドさんって言っても、“ご主人様”とか\n　“旦那様”は勘弁してな。普通に名前で呼ん\n　でくれればいいから」",
+      "en": "\"Please don't call me Master or Mr. You can call me Junichi,\nokay?\"",
+      "text": "\"Please don't call me Master or Mr. You can call me Junichi,\nokay?\""
+    },
+    {
+      "offset": 4393,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆メイドさんが家へ◆",
+      "en": "◆Junichi◆",
+      "text": "◆Junichi◆"
+    },
+    {
+      "offset": 4446,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頼子さんを連れて家に帰ってきた。",
+      "en": "I say to an empty house as usual. Well... but today there's\nsomeone beside me.",
+      "text": "I say to an empty house as usual. Well... but today there's\nsomeone beside me."
+    },
+    {
+      "offset": 4483,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "頼子さんは、給料はいらないので、置いてもら\nう代わりにメイドとして俺の家で働きたいとい\nい出す。",
+      "en": "\"This is my house. I live here alone right now.\"",
+      "text": "\"This is my house. I live here alone right now.\""
+    },
+    {
+      "offset": 4582,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして俺はその申し出を受け入れることにした\nのだった。",
+      "en": "\"Thank you......\"",
+      "text": "\"Thank you......\""
+    }
+  ],
+  "choices": [],
+  "names": {
+    "361": "Yoriko",
+    "543": "Yoriko",
+    "601": "Yoriko",
+    "656": "Yoriko",
+    "802": "Yoriko",
+    "1126": "Yoriko",
+    "1430": "Yoriko",
+    "1532": "Yoriko",
+    "1799": "Yoriko",
+    "1879": "Yoriko",
+    "2006": "Yoriko",
+    "2094": "Yoriko",
+    "2196": "Yoriko",
+    "2395": "Yoriko",
+    "2511": "Yoriko",
+    "2660": "Yoriko",
+    "2877": "Yoriko",
+    "2986": "Yoriko",
+    "3041": "Yoriko",
+    "3186": "Yoriko",
+    "3560": "Yoriko",
+    "3979": "Yoriko"
+  }
+}

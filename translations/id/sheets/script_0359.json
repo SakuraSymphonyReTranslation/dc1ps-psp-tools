@@ -1,0 +1,380 @@
+{
+  "scene": "script_0359.obj",
+  "dialogues": [
+    {
+      "offset": 149,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本屋にでも寄ってみるか、とぷらぷら商店街へ\n足を向ける。",
+      "en": "I aimlessly skimmed the magazines at one of the bookstores\nof the shopping district.",
+      "text": "I aimlessly skimmed the magazines at one of the bookstores\nof the shopping district."
+    },
+    {
+      "offset": 209,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "特に目当ての本があるわけではないのだが。",
+      "en": "I didn't have any particular book in mind.",
+      "text": "I didn't have any particular book in mind."
+    },
+    {
+      "offset": 256,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（今日は水曜か……なんか雑誌出てたっけ）",
+      "en": "\"(Today's Wednesday... the magazines should be out today.)\"",
+      "text": "\"(Today's Wednesday... the magazines should be out today.)\""
+    },
+    {
+      "offset": 303,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見慣れた「すばる書店」の看板を眺めつつ、\nぼーっと考えていると、向こうからやって来\nる奴らが……。",
+      "en": "I looked at the now-familiar \"Subaru Bookstore\" sign, and\nthought about whether to go in, when I sensed something\ncoming...",
+      "text": "I looked at the now-familiar \"Subaru Bookstore\" sign, and\nthought about whether to go in, when I sensed something\ncoming..."
+    },
+    {
+      "offset": 422,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「むむっ」",
+      "en": "\"Damnit...\"",
+      "text": "\"Damnit...\""
+    },
+    {
+      "offset": 439,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は思わず電柱のかげに身を隠す。",
+      "en": "I instinctively hid behind a nearby streetlamp.",
+      "text": "I instinctively hid behind a nearby streetlamp."
+    },
+    {
+      "offset": 478,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（………………………………………………）",
+      "en": "\"(.........)\"",
+      "text": "\"(.........)\""
+    },
+    {
+      "offset": 525,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そっと息を潜める俺。近づいてきた足音がすぐ\nそばで止まった。",
+      "en": "I held my breath. The footsteps, growing louder and louder,\nsuddenly came to a stop.",
+      "text": "I held my breath. The footsteps, growing louder and louder,\nsuddenly came to a stop."
+    },
+    {
+      "offset": 589,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "大丈夫、見られてはいなかったはずだ。",
+      "en": "It should be okay, he can't see me.",
+      "text": "It should be okay, he can't see me."
+    },
+    {
+      "offset": 630,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そうは思うが、自然と鼓動が早くなる。",
+      "en": "But as I thought that, my heartbeat quickened.",
+      "text": "But as I thought that, my heartbeat quickened."
+    },
+    {
+      "offset": 686,
+      "speaker": "???",
+      "speaker_jp": "？？？",
+      "jp": "「フッ……隠れても無駄だ、大人しく手をあげ\n　て出て来い」",
+      "en": "\"Heh... there's no use in hiding. Come out like a man.\"",
+      "text": "\"Heh... there's no use in hiding. Come out like a man.\""
+    },
+    {
+      "offset": 750,
+      "speaker": "???",
+      "speaker_jp": "？？？",
+      "jp": "「！？」",
+      "en": "\"!?\"",
+      "text": "\"!?\""
+    },
+    {
+      "offset": 765,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、頭に銃口を突きつけられた。",
+      "en": "I felt a gun muzzle grazing my head.",
+      "text": "I felt a gun muzzle grazing my head."
+    },
+    {
+      "offset": 802,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ＯＫ、わかった。金はやる、そのかわり命だ\n　けは助けてくれ」",
+      "en": "\"OK, I got it. I'd give you all my money as long as you\nspare my life.\"",
+      "text": "\"OK, I got it. I'd give you all my money as long as you\nspare my life.\""
+    },
+    {
+      "offset": 870,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は思わず苦笑をもらし、ホールドアップしな\nがらそう言った。",
+      "en": "I smiled wryly, putting my hands up in the air.",
+      "text": "I smiled wryly, putting my hands up in the air."
+    },
+    {
+      "offset": 934,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……まさか気づかれていたとはな。",
+      "en": "...What if this really was that situation.",
+      "text": "...What if this really was that situation."
+    },
+    {
+      "offset": 984,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「………………なーにやってんだよ」",
+      "en": "\"........What ARE you two doing...\"",
+      "text": "\"........What ARE you two doing...\""
+    },
+    {
+      "offset": 1025,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そこで、｛ぼうかんしゃ／傍観者｝、工藤少年の｛さ／醒｝めたツッコミが\n入る。",
+      "en": "The bystander, Tsukkomi Kudou, entered the scene.",
+      "text": "The bystander, Tsukkomi Kudou, entered the scene."
+    },
+    {
+      "offset": 1171,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そこには、銃口に見立てた人差し指を頭につき\nつけられている俺がいた。",
+      "en": "He poked his finger into the head of the person holding me\nat gunpoint.",
+      "text": "He poked his finger into the head of the person holding me\nat gunpoint."
+    },
+    {
+      "offset": 1243,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "突きつけているのはもちろん杉並だ。",
+      "en": "Of course, that person was Suginami.",
+      "text": "Of course, that person was Suginami."
+    },
+    {
+      "offset": 1312,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ノリの悪い奴め……この場合お前の役所は\n　犯人人質問わずにパーンとやっちまうダー\n　ティーな保安官だろう」",
+      "en": "\"Damn it all... who would've expected you dirty fuzz to be\nfoiling my hostage-taking?\"",
+      "text": "\"Damn it all... who would've expected you dirty fuzz to be\nfoiling my hostage-taking?\""
+    },
+    {
+      "offset": 1453,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「だから、どういう設定なんだっての」",
+      "en": "\"As I will keep on saying, what ARE you two doing.\"",
+      "text": "\"As I will keep on saying, what ARE you two doing.\""
+    },
+    {
+      "offset": 1496,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "口調と声は呆れているが、俺ら二人のバカは今\nに始まったことじゃないのと分かっているのか\n工藤の顔は笑っていた。",
+      "en": "Kudou's voice sounded shocked, but he was laughing as well.\nThis certainly wasn't the first time he had seen us like\nthis.",
+      "text": "Kudou's voice sounded shocked, but he was laughing as well.\nThis certainly wasn't the first time he had seen us like\nthis."
+    },
+    {
+      "offset": 1639,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……だいたい何故俺達の姿を見てコソコソす\n　る？」",
+      "en": "\"...Anyway, why were you all stealth-like when you saw us?\"",
+      "text": "\"...Anyway, why were you all stealth-like when you saw us?\""
+    },
+    {
+      "offset": 1697,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「いや、あんまりお前らと会ってて、何かのフ\n　ラグが立っても困りものだなと……」",
+      "en": "\"Well, I was afraid if we met, it would trigger a route flag\nthat I didn't want to happen...\"",
+      "text": "\"Well, I was afraid if we met, it would trigger a route flag\nthat I didn't want to happen...\""
+    },
+    {
+      "offset": 1783,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並・工藤・俺、三つ巴ラヴラヴトライアング\nルＥＮＤとかな……。",
+      "en": "The love triangle ending with Suginami, Kudou and I, that\nis...",
+      "text": "The love triangle ending with Suginami, Kudou and I, that\nis..."
+    },
+    {
+      "offset": 1851,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自分で言っておいてなんだが、激しくご遠慮願\nいたい。",
+      "en": "Following my words, I ferverently prayed that what I said\nwould not happen.",
+      "text": "Following my words, I ferverently prayed that what I said\nwould not happen."
+    },
+    {
+      "offset": 1937,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「それもまた一興」",
+      "en": "\"That would be...interesting.\"",
+      "text": "\"That would be...interesting.\""
+    },
+    {
+      "offset": 1962,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目を細めてにやりとする杉並に背筋あたりが寒\nくなる。",
+      "en": "Suginami's back hunched slightly, shivers running through\nhis soldiers.",
+      "text": "Suginami's back hunched slightly, shivers running through\nhis soldiers."
+    },
+    {
+      "offset": 2018,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こちらとしては、心の底から願い下げだ。",
+      "en": "I continued praying from the bottom of my heart.",
+      "text": "I continued praying from the bottom of my heart."
+    },
+    {
+      "offset": 2091,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ま、折角だからこのまま三人でゲーセンへで\n　もなだれ込もうではないか」",
+      "en": "\"Anyway, since we're gathered now, let's go to the game\ncenter.\"",
+      "text": "\"Anyway, since we're gathered now, let's go to the game\ncenter.\""
+    },
+    {
+      "offset": 2180,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「お前のことだ、別に本屋に用があったわけで\n　もあるまい」",
+      "en": "\"That is, if you don't have anything to do at the\nbookstore.\"",
+      "text": "\"That is, if you don't have anything to do at the\nbookstore.\""
+    },
+    {
+      "offset": 2244,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……まぁな」",
+      "en": "\"...Nah, nothing.\"",
+      "text": "\"...Nah, nothing.\""
+    },
+    {
+      "offset": 2265,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "この男に行動パターンを読まれているのがなん\nだか悔しい気もするが、確かに用事があるわけ\nではないので頷き返す。",
+      "en": "This person hardly ever changes his patterns, but since I\nhad nothing to do anyway, I accepted.",
+      "text": "This person hardly ever changes his patterns, but since I\nhad nothing to do anyway, I accepted."
+    },
+    {
+      "offset": 2408,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「フフフ…………今日こそはお前をコートに沈\n　めてやろう」",
+      "en": "\"Fufufu... I'd wipe you out on the court today.\"",
+      "text": "\"Fufufu... I'd wipe you out on the court today.\""
+    },
+    {
+      "offset": 2472,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並の手が、エアホッケーのスマッシャーをつ\nまむ仕草になる。",
+      "en": "Suginami mimicked smashing an air hockey puck with his hand.",
+      "text": "Suginami mimicked smashing an air hockey puck with his hand."
+    },
+    {
+      "offset": 2538,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「その言葉――今に後悔させてやるぜ」",
+      "en": "\"You'd regret saying those words.\"",
+      "text": "\"You'd regret saying those words.\""
+    },
+    {
+      "offset": 2609,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「はぁ……懲りない奴らだな」",
+      "en": "\"Sigh... you two never learn.\"",
+      "text": "\"Sigh... you two never learn.\""
+    },
+    {
+      "offset": 2644,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "また始まった、と言いたげに頭を抱える工藤。",
+      "en": "It's starting again, Kudou implied, as he held his head with\nhis hands.",
+      "text": "It's starting again, Kudou implied, as he held his head with\nhis hands."
+    },
+    {
+      "offset": 2704,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「逃げるなよ、審判！」",
+      "en": "\"Don't run away, ref!\"",
+      "text": "\"Don't run away, ref!\""
+    },
+    {
+      "offset": 2761,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「あぁ、はいはい」",
+      "en": "\"Ahh, got it, got it.\"",
+      "text": "\"Ahh, got it, got it.\""
+    },
+    {
+      "offset": 2786,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして俺達は――というか、俺と杉並は意気揚々\nと、工藤は仕方なく、ゲーセンへと繰り出すの\nだった。",
+      "en": "So, in high spirits, we--well, Suginami and I, and a\nresigned Kudou, headed forth to the game centre.",
+      "text": "So, in high spirits, we--well, Suginami and I, and a\nresigned Kudou, headed forth to the game centre."
+    },
+    {
+      "offset": 3016,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆いつもどおりの遭遇◆",
+      "en": "◆Everday Encounters◆",
+      "text": "◆Everday Encounters◆"
+    },
+    {
+      "offset": 3067,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本屋の前で杉並と工藤に遭遇した。",
+      "en": "I had an encounter with Suginami and Kudou in front of the\nbookshop.",
+      "text": "I had an encounter with Suginami and Kudou in front of the\nbookshop."
+    },
+    {
+      "offset": 3104,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その後、三人でいつものように、ゲーセンへと\n繰り出すのだった。",
+      "en": "After that, as usual, we headed forth to the game centre.",
+      "text": "After that, as usual, we headed forth to the game centre."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "676": "???",
+    "976": "Kudou",
+    "1304": "Suginami",
+    "1445": "Kudou",
+    "1631": "Suginami",
+    "1929": "Suginami",
+    "2083": "Suginami",
+    "2172": "Suginami",
+    "2400": "Suginami",
+    "2601": "Kudou",
+    "2696": "Suginami",
+    "2753": "Kudou"
+  }
+}

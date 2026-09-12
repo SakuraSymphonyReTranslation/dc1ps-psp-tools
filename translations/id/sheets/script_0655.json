@@ -1,0 +1,461 @@
+{
+  "scene": "script_0655.obj",
+  "dialogues": [
+    {
+      "offset": 203,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "４月になり、本格的な春が訪れた。",
+      "en": "I'm glad the boring ceremony is over.",
+      "text": "I'm glad the boring ceremony is over."
+    },
+    {
+      "offset": 240,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "桜も咲き乱れ（これは年中か）、すっかり温か\nくなった。",
+      "en": "During the first week, all the classes end before noon.",
+      "text": "During the first week, all the classes end before noon."
+    },
+    {
+      "offset": 298,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺も本校に進学した。",
+      "en": "Today, too, all we have left are homeroom activities.",
+      "text": "Today, too, all we have left are homeroom activities."
+    },
+    {
+      "offset": 364,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "入学式は７日に行われた。",
+      "en": "\"I like it when we have no classes.\"",
+      "text": "\"I like it when we have no classes.\""
+    },
+    {
+      "offset": 393,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今さら、本校の入学式なんて、緊張するわけも\nなく、そつなく終わった。",
+      "en": "\"I agree, but homeroom is so boring.\"",
+      "text": "\"I agree, but homeroom is so boring.\""
+    },
+    {
+      "offset": 465,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "最初の一週間くらいは半ドンらしい。",
+      "en": "\"Can I make it interesting then?\"",
+      "text": "\"Can I make it interesting then?\""
+    },
+    {
+      "offset": 504,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今日も、連絡事項などのＨＲがあっただけで、\n後は帰りのＨＲを残すだけになった。",
+      "en": "\"Knock it off.\"",
+      "text": "\"Knock it off.\""
+    },
+    {
+      "offset": 829,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "建物の構造も大して変わらなければ、クラス編\n成もほとんど付属の時と変わらない。",
+      "en": "Nothing seems different. The campus buildings, classroom\nassignments -- almost everything seems the same.",
+      "text": "Nothing seems different. The campus buildings, classroom\nassignments -- almost everything seems the same."
+    },
+    {
+      "offset": 911,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "男子は制服すらほとんど一緒なんだから、女子\nに比べて、よけいそんな感じだ。",
+      "en": "Boys wear exactly the same uniform as before.",
+      "text": "Boys wear exactly the same uniform as before."
+    },
+    {
+      "offset": 1022,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ほら、みんな席についてー！　帰りのＨＲ始\n　めるよー」",
+      "en": "\"All right, guys, take your seats. Let's get started.\"",
+      "text": "\"All right, guys, take your seats. Let's get started.\""
+    },
+    {
+      "offset": 1108,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ガタガタと騒がしかった教室が、一気に静まる。",
+      "en": "All of a sudden, the class becomes quiet.",
+      "text": "All of a sudden, the class becomes quiet."
+    },
+    {
+      "offset": 1157,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "新入生だからか、去年より静かになるのが早い\n気がする。",
+      "en": "It seems the freshmen are quite submissive.",
+      "text": "It seems the freshmen are quite submissive."
+    },
+    {
+      "offset": 1215,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ＨＲも明日の連絡をして、さっさと終わる。",
+      "en": "The homeroom was done quickly with announcements.",
+      "text": "The homeroom was done quickly with announcements."
+    },
+    {
+      "offset": 1260,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鞄に詰めるモノもほとんどないのだから、楽な\nもんだ。",
+      "en": "I've got almost nothing to carry in my bag.",
+      "text": "I've got almost nothing to carry in my bag."
+    },
+    {
+      "offset": 1349,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "教室でだべる者、さっさと帰る者、これもすっ\nかり見慣れた日常の景色だ。",
+      "en": "Some students keep chatting, while others leave the room.\nNothing seems different.",
+      "text": "Some students keep chatting, while others leave the room.\nNothing seems different."
+    },
+    {
+      "offset": 1434,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「おーい、朝倉。ちょっと来てくれ」",
+      "en": "\"Hey, Asakura, can you come over here for a minute?\"",
+      "text": "\"Hey, Asakura, can you come over here for a minute?\""
+    },
+    {
+      "offset": 1475,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "教卓のそばにいた暦先生が、手招きで俺を呼ぶ。",
+      "en": "Koyomi-sensei asks me to come to her desk.",
+      "text": "Koyomi-sensei asks me to come to her desk."
+    },
+    {
+      "offset": 1526,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんですか？　先生」",
+      "en": "\"Yes?\"",
+      "text": "\"Yes?\""
+    },
+    {
+      "offset": 1591,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「あのさ、天枷、今日学校に来てるってさ」",
+      "en": "\"Miharu Amakase came to school today.\"",
+      "text": "\"Miharu Amakase came to school today.\""
+    },
+    {
+      "offset": 1638,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ホ、ホントですか？」",
+      "en": "\"Re-Really?\"",
+      "text": "\"Re-Really?\""
+    },
+    {
+      "offset": 1676,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「あたしがウソ言ってどうするの。本当だよ。\n　春休み中に目が覚めてね、ようやくリハビリ\n　も終わったらしい」",
+      "en": "\"Yeah. She regained consciousness during the spring break,\nand already finished her rehab.\"",
+      "text": "\"Yeah. She regained consciousness during the spring break,\nand already finished her rehab.\""
+    },
+    {
+      "offset": 1789,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「元気でしたか？」",
+      "en": "\"Is she okay?\"",
+      "text": "\"Is she okay?\""
+    },
+    {
+      "offset": 1823,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「あたしはまだ会ってないけどね。人づての話\n　だと元気だってさ」",
+      "en": "\"I haven't seen her yet. But I heard she's fine.\"",
+      "text": "\"I haven't seen her yet. But I heard she's fine.\""
+    },
+    {
+      "offset": 1893,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そうか、元気になったのか……。",
+      "en": "Wow... she's back...",
+      "text": "Wow... she's back..."
+    },
+    {
+      "offset": 1956,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「もしかして、複雑な気分にさせちゃった？」",
+      "en": "\"I hope I'm not confusing your feelings...\"",
+      "text": "\"I hope I'm not confusing your feelings...\""
+    },
+    {
+      "offset": 2005,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「あ、別にそんなことないですって。大丈夫で\n　すよ、その辺は」",
+      "en": "\"Uh... Not at all. I'm fine.\"",
+      "text": "\"Uh... Not at all. I'm fine.\""
+    },
+    {
+      "offset": 2099,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「なら、いいんだけど」",
+      "en": "\"Okay. Good to know.\"",
+      "text": "\"Okay. Good to know.\""
+    },
+    {
+      "offset": 2128,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あれから、それほど時間が経ってるわけじゃな\nいけど、ずっと前の話のような気がする。",
+      "en": "It hasn't been that long, but I feel like it was ages ago.",
+      "text": "It hasn't been that long, but I feel like it was ages ago."
+    },
+    {
+      "offset": 2214,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "けど、俺の中に思い出がある限り、俺はあいつ\nとずっと一緒だ。",
+      "en": "As long as I have her in my memory, I am with her.",
+      "text": "As long as I have her in my memory, I am with her."
+    },
+    {
+      "offset": 2278,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "たとえ、俺がどんなに変わってしまったとして\nも、それだけはずっと変わらない。",
+      "en": "No matter how much I change, these feelings will never\nchange.",
+      "text": "No matter how much I change, these feelings will never\nchange."
+    },
+    {
+      "offset": 2358,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は美春の知っているままの俺なのだ。",
+      "en": "I am who I am -- the me who Miharu knows.",
+      "text": "I am who I am -- the me who Miharu knows."
+    },
+    {
+      "offset": 2399,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春もまた、俺の知っているままの美春なのだ。",
+      "en": "And Miharu is who Miharu is -- the Miharu who I know.",
+      "text": "And Miharu is who Miharu is -- the Miharu who I know."
+    },
+    {
+      "offset": 2459,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「じゃ、気をつけて帰りな」",
+      "en": "\"Take care.\"",
+      "text": "\"Take care.\""
+    },
+    {
+      "offset": 2492,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「はい、ありがとうございます」",
+      "en": "\"Thank you, ma'am.\"",
+      "text": "\"Thank you, ma'am.\""
+    },
+    {
+      "offset": 2579,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "毎日通るこの道を今日も歩いて帰る。",
+      "en": "I walk home on the same way as always.",
+      "text": "I walk home on the same way as always."
+    },
+    {
+      "offset": 2618,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつもと変わらない景色。",
+      "en": "The same views I get as always.",
+      "text": "The same views I get as always."
+    },
+    {
+      "offset": 2647,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "相変わらず、舞い散り続ける桜。",
+      "en": "The cherry blossom petals are dancing around in the wind as\nalways.",
+      "text": "The cherry blossom petals are dancing around in the wind as\nalways."
+    },
+    {
+      "offset": 2682,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見慣れた下校風景。",
+      "en": "The same scene I see on the way home every day.",
+      "text": "The same scene I see on the way home every day."
+    },
+    {
+      "offset": 2705,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつもと同じように見えても、実は違う。",
+      "en": "In reality, however, nothing remains the same.",
+      "text": "In reality, however, nothing remains the same."
+    },
+    {
+      "offset": 2748,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "変わっていると思うかどうかは自分次第だ。",
+      "en": "It's up to me how I see these things.",
+      "text": "It's up to me how I see these things."
+    },
+    {
+      "offset": 2793,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "同じ繰り返しも、まったく同じと感じるかどう\nかは自分次第。",
+      "en": "It's up to me whether things are just the same pattern\nrecurring over and over again.",
+      "text": "It's up to me whether things are just the same pattern\nrecurring over and over again."
+    },
+    {
+      "offset": 2868,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「せんぱ〜い」",
+      "en": "\"Sempaiiiiii!\"",
+      "text": "\"Sempaiiiiii!\""
+    },
+    {
+      "offset": 2900,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「朝倉せんぱ〜い」",
+      "en": "\"Asakura-sempai!\"",
+      "text": "\"Asakura-sempai!\""
+    },
+    {
+      "offset": 2979,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「せんぱ〜い、おひさしぶりですぅ〜」",
+      "en": "\"Sempai, long time no see!\"",
+      "text": "\"Sempai, long time no see!\""
+    },
+    {
+      "offset": 3022,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「美春！　美春じゃないか！　なんだ、元気そ\n　うだなあ！」",
+      "en": "\"Miharu! Wow, you look great!\"",
+      "text": "\"Miharu! Wow, you look great!\""
+    },
+    {
+      "offset": 3097,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「はい、おかげさまで〜！　先輩、一緒に帰り\n　ましょう、チョコバナナでも食べながら」",
+      "en": "\"Thanks. How about we go home together and eat chocolate\nbananas?\"",
+      "text": "\"Thanks. How about we go home together and eat chocolate\nbananas?\""
+    },
+    {
+      "offset": 3187,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「よっしゃ、今日は復帰祝いに、俺が｛おご／奢｝ってや\n　る」",
+      "en": "\"Sure! It's on me then -- a present for your discharge!\"",
+      "text": "\"Sure! It's on me then -- a present for your discharge!\""
+    },
+    {
+      "offset": 3264,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「わ！　わ！　マジですかぁ？　やったァ！」",
+      "en": "\"Wow! Really? Hooray!!\"",
+      "text": "\"Wow! Really? Hooray!!\""
+    },
+    {
+      "offset": 3313,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "また、いつもと変わらない、新しい毎日が始ま\nろうとしていた。",
+      "en": "A new day has begun -- as always.",
+      "text": "A new day has begun -- as always."
+    },
+    {
+      "offset": 3377,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――ざざん",
+      "en": "Whoosh...",
+      "text": "Whoosh..."
+    },
+    {
+      "offset": 3392,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "年がら年中、花を咲かせている桜の樹が、風に\n揺れた。",
+      "en": "The cherry tree, which is in full bloom throughout the year,\nshakes in the wind.",
+      "text": "The cherry tree, which is in full bloom throughout the year,\nshakes in the wind."
+    },
+    {
+      "offset": 3559,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆ＥＤ・新しい毎日◆",
+      "en": "◆It's April, and spring is here.◆",
+      "text": "◆It's April, and spring is here.◆"
+    },
+    {
+      "offset": 3610,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『美春』が学校に復帰した。美春はもういない\nけれど、俺の中に思い出がある限り、俺は美春\nとずっと一緒だ。",
+      "en": "With the cherry blossoms in full boom, it's getting warm.",
+      "text": "With the cherry blossoms in full boom, it's getting warm."
+    },
+    {
+      "offset": 3717,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして『美春』と一緒にチョコバナナを食べな\nがら帰る。",
+      "en": "I now study on the main campus.",
+      "text": "I now study on the main campus."
+    },
+    {
+      "offset": 3775,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "また、いつもと変わらない、新しい毎日が始ま\nろうとしていた。",
+      "en": "Yesterday was our entrance ceremony.",
+      "text": "Yesterday was our entrance ceremony."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "1016": "Koyomi",
+    "1428": "Koyomi",
+    "1585": "Koyomi",
+    "1670": "Koyomi",
+    "1817": "Koyomi",
+    "1950": "Koyomi",
+    "2093": "Koyomi",
+    "2453": "Koyomi",
+    "2860": "Miharu",
+    "2892": "Miharu",
+    "2971": "Miharu",
+    "3089": "Miharu",
+    "3256": "Miharu"
+  }
+}

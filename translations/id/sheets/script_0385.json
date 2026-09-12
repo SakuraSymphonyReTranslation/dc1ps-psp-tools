@@ -1,0 +1,832 @@
+{
+  "scene": "script_0385.obj",
+  "dialogues": [
+    {
+      "offset": 124,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お？」",
+      "en": "\"Whoa?\"",
+      "text": "\"Whoa?\""
+    },
+    {
+      "offset": 139,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音楽室の扉を開けた途端、目と耳にうわっと押\nし寄せてきたものがあった。",
+      "en": "Before I even reached the doorway to the music room, I could\nsee and hear the hustle and bustle of a major commotion.",
+      "text": "Before I even reached the doorway to the music room, I could\nsee and hear the hustle and bustle of a major commotion."
+    },
+    {
+      "offset": 213,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目には、学生服の群れ──野郎ばっかり。",
+      "en": "What I could see, was a massive group of uniformed students.",
+      "text": "What I could see, was a massive group of uniformed students."
+    },
+    {
+      "offset": 256,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "耳には、聴いたことのない曲──たぶん、こと\nり達が練習している曲だ。",
+      "en": "My ears heard the sound of a wobbling and wavering song--\nprobably the song Kotori's group is practicing.",
+      "text": "My ears heard the sound of a wobbling and wavering song--\nprobably the song Kotori's group is practicing."
+    },
+    {
+      "offset": 330,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（人がたくさんいやがる……）",
+      "en": "\"(It's probably because of this huge crowd...)\"",
+      "text": "\"(It's probably because of this huge crowd...)\""
+    },
+    {
+      "offset": 365,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "すし詰めってのは、こんな状態の事を言うのだ\nろう。",
+      "en": "My reading of the situation quickly found it's way into my\nthoughts.",
+      "text": "My reading of the situation quickly found it's way into my\nthoughts."
+    },
+    {
+      "offset": 421,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（こんな環境の中、練習しなきゃならないこと\n　り達も気の毒だよな……）",
+      "en": "\"(To have to practice in this kind of environment, it must\nbe horrible for Kotori and her friends...)\"",
+      "text": "\"(To have to practice in this kind of environment, it must\nbe horrible for Kotori and her friends...)\""
+    },
+    {
+      "offset": 497,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "って、俺もその一員か。",
+      "en": "...Then again, I am part of that environment.",
+      "text": "...Then again, I am part of that environment."
+    },
+    {
+      "offset": 526,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 545,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、今朝、ことりが自分で、練習を見に来\nてくれと言ったはず。",
+      "en": "But this morning, Kotori asked me herself to watch her\npractice.",
+      "text": "But this morning, Kotori asked me herself to watch her\npractice."
+    },
+    {
+      "offset": 613,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、こいつら全員にそんな言葉を掛けたは\nずはないのだから……、",
+      "en": "And I highly doubt all these people were afforded the same\nhonour...",
+      "text": "And I highly doubt all these people were afforded the same\nhonour..."
+    },
+    {
+      "offset": 685,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（こいつらが良くて、俺が駄目って事はないよ\n　な。うん）",
+      "en": "\"(So I'm not like the rest of these idiots. Right.)\"",
+      "text": "\"(So I'm not like the rest of these idiots. Right.)\""
+    },
+    {
+      "offset": 747,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自分に言い聞かせ、早速人間ドリルと化す。",
+      "en": "Re-assuring myself, I drill right through the mass of\nstudents.",
+      "text": "Re-assuring myself, I drill right through the mass of\nstudents."
+    },
+    {
+      "offset": 794,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おりゃ〜」",
+      "en": "\"Coming through~\"",
+      "text": "\"Coming through~\""
+    },
+    {
+      "offset": 823,
+      "speaker": "Male Student",
+      "speaker_jp": "男子学生",
+      "jp": "「うわっ」",
+      "en": "\"Wahh!\"",
+      "text": "\"Wahh!\""
+    },
+    {
+      "offset": 840,
+      "speaker": "Male Student",
+      "speaker_jp": "男子学生",
+      "jp": "「とりゃ〜」",
+      "en": "\"Mrrph!\"",
+      "text": "\"Mrrph!\""
+    },
+    {
+      "offset": 869,
+      "speaker": "Male Student",
+      "speaker_jp": "男子学生",
+      "jp": "「あっ？」",
+      "en": "\"Ah?\"",
+      "text": "\"Ah?\""
+    },
+    {
+      "offset": 886,
+      "speaker": "Male Student",
+      "speaker_jp": "男子学生",
+      "jp": "「えいりゃ〜」",
+      "en": "\"One more!\"",
+      "text": "\"One more!\""
+    },
+    {
+      "offset": 917,
+      "speaker": "Male Student",
+      "speaker_jp": "男子学生",
+      "jp": "「うおっと」",
+      "en": "\"Whoa!\"",
+      "text": "\"Whoa!\""
+    },
+    {
+      "offset": 936,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "………。",
+      "en": ".........",
+      "text": "........."
+    },
+    {
+      "offset": 949,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 960,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…。",
+      "en": "...",
+      "text": "..."
+    },
+    {
+      "offset": 1007,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（あ……）",
+      "en": "\"Ah...\"",
+      "text": "\"Ah...\""
+    },
+    {
+      "offset": 1024,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自分の肉をこそげ落とすようなドリル行を経る\n事数分。",
+      "en": "I drilled through the crowd, as if looking for treasure.",
+      "text": "I drilled through the crowd, as if looking for treasure."
+    },
+    {
+      "offset": 1080,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ついに俺は、エルドラドへと到着した！",
+      "en": "I've finally arrived at El Dorado!",
+      "text": "I've finally arrived at El Dorado!"
+    },
+    {
+      "offset": 1123,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 1142,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 1161,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（……うおっ！　速攻で見入っていたぞ……）",
+      "en": "\"(...Uwoh! Target sighted!...)\"",
+      "text": "\"(...Uwoh! Target sighted!...)\""
+    },
+    {
+      "offset": 1210,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ごしごしと目を擦る。そして、改めて、ことり\nの姿を視界に収めた。",
+      "en": "I rub my eyes a few times before opening them again, and the\nfigure of Kotori graced them.",
+      "text": "I rub my eyes a few times before opening them again, and the\nfigure of Kotori graced them."
+    },
+    {
+      "offset": 1278,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "リラックスした中にも芯の通った姿勢、透明感\nのある表情、そして、もちろん声。",
+      "en": "Standing there looking as relaxed as can be, with a clear\nexpression on her face, and of course, her voice.",
+      "text": "Standing there looking as relaxed as can be, with a clear\nexpression on her face, and of course, her voice."
+    },
+    {
+      "offset": 1358,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "確かな力量の持ち主が、期せずして外へとにじ\nみ出してしまう圧倒的な迫力。",
+      "en": "It entranced me to the point where I was able to ignore\neveryone else in the room.",
+      "text": "It entranced me to the point where I was able to ignore\neveryone else in the room."
+    },
+    {
+      "offset": 1434,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何やら神々しいくらいで、普段の気さくなこと\nりからは、ちょっと想像を超えていた。",
+      "en": "Her entire countenance seemed like one of a goddess, passing\nthrough the earth and blessing everyone with her song.",
+      "text": "Her entire countenance seemed like one of a goddess, passing\nthrough the earth and blessing everyone with her song."
+    },
+    {
+      "offset": 1520,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（やっぱ、堂に｛い／入｝ってるよな……）",
+      "en": "\"(She's really good at singing...)\"",
+      "text": "\"(She's really good at singing...)\""
+    },
+    {
+      "offset": 1567,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それに、脇を固めるピアノとベースも上手い。",
+      "en": "Her partners on her flanks, the bass and piano player, were\nvery skilled as well.",
+      "text": "Her partners on her flanks, the bass and piano player, were\nvery skilled as well."
+    },
+    {
+      "offset": 1614,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こりゃ、卒業パーティーの目玉になるな……。",
+      "en": "This'll surely be the main attraction of the graduation\nparty...",
+      "text": "This'll surely be the main attraction of the graduation\nparty..."
+    },
+    {
+      "offset": 1687,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "じっくり聞き入ろうと、目をつむった時だった。",
+      "en": "My eyes and ears were fixated on the performance.",
+      "text": "My eyes and ears were fixated on the performance."
+    },
+    {
+      "offset": 1753,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ごほっ、げほっ、えほっ……！」",
+      "en": "\"*Cough cough...cough!*\"",
+      "text": "\"*Cough cough...cough!*\""
+    },
+    {
+      "offset": 1792,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "咳の音と共に、演奏が止まる。",
+      "en": "\"(Huh...?)\"",
+      "text": "\"(Huh...?)\""
+    },
+    {
+      "offset": 1827,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（ん……？）",
+      "en": "Kotori started to bend over, coughing violently.",
+      "text": "Kotori started to bend over, coughing violently."
+    },
+    {
+      "offset": 1869,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "見ると、ことりが腰を折って、激しく咳き込ん\nでいた。",
+      "en": "Her friends looked at Kotori with worried faces. The\nsurrounding students broke out into a series of murmurs.",
+      "text": "Her friends looked at Kotori with worried faces. The\nsurrounding students broke out into a series of murmurs."
+    },
+    {
+      "offset": 1925,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "楽器担当の女子学生ふたりが、心配そうに顔を\n覗き込む。周りの学生達が、途端にざわつきだ\nした。",
+      "en": "\"(The cold again...)\"",
+      "text": "\"(The cold again...)\""
+    },
+    {
+      "offset": 2024,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（やっぱり風邪を……）",
+      "en": "Now that she could no longer hide behind the mask, it was\nobvious her physical condition was still pretty bad.",
+      "text": "Now that she could no longer hide behind the mask, it was\nobvious her physical condition was still pretty bad."
+    },
+    {
+      "offset": 2053,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "マスクをしていたくらいだから、決して体調は\n良くないのだろう。",
+      "en": "\"(Don't push yourself so hard...)\"",
+      "text": "\"(Don't push yourself so hard...)\""
+    },
+    {
+      "offset": 2121,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（無理しなきゃいいのに……）",
+      "en": "I'm sure that mentality is shared by all the people around\nme as well.",
+      "text": "I'm sure that mentality is shared by all the people around\nme as well."
+    },
+    {
+      "offset": 2156,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とは言え、その心情は、俺みたいな人間にもも\nちろん分かる。",
+      "en": "It's much better to resk one week fully than to rest one day\nand let it deteriorate the next...",
+      "text": "It's much better to resk one week fully than to rest one day\nand let it deteriorate the next..."
+    },
+    {
+      "offset": 2218,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "当日まであと一週間しかない。なるべく、練習\nを積んでおきたいんだろう。",
+      "en": "That way you can sing to your full potential, all the time.",
+      "text": "That way you can sing to your full potential, all the time."
+    },
+    {
+      "offset": 2292,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あれだけ上手いのに──いや、上手いから？",
+      "en": "I'm sure everyone else feels that way.",
+      "text": "I'm sure everyone else feels that way."
+    },
+    {
+      "offset": 2337,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺がそんなことを思っていると。",
+      "en": "--Huh, she seemed to be coughing a lot.",
+      "text": "--Huh, she seemed to be coughing a lot."
+    },
+    {
+      "offset": 2372,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──なあなあ、さっきから咳ばっかりしてるよ\nな。",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2426,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（…………）",
+      "en": "Then I heard it.",
+      "text": "Then I heard it."
+    },
+    {
+      "offset": 2450,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "聞こえた。",
+      "en": "The people around me were whispering to each other in\nrestrained murmurs, yet every word seemed clear as day to\nme.",
+      "text": "The people around me were whispering to each other in\nrestrained murmurs, yet every word seemed clear as day to\nme."
+    },
+    {
+      "offset": 2465,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "抑えた、ぼそぼそとした呟きだったけれど、確\nかに耳の中に飛び込んできた。",
+      "en": "Definitely I heard it... critcisms of... her.",
+      "text": "Definitely I heard it... critcisms of... her."
+    },
+    {
+      "offset": 2541,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう、確かに、はっきりと。そこに非難の調子\nが込められていた事が分かってしまうくらいに。",
+      "en": "My curiosity piqued, I inclined my neck towards the source\nof the murmurs.",
+      "text": "My curiosity piqued, I inclined my neck towards the source\nof the murmurs."
+    },
+    {
+      "offset": 2633,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音源の辺りを｛にら／睨｝み付けようと、首を巡らした時。",
+      "en": "--How disappointing.",
+      "text": "--How disappointing."
+    },
+    {
+      "offset": 2692,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──なんか、がっかりじゃねえ？",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2729,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（…………）",
+      "en": "...Completely opposite from my thoughts.",
+      "text": "...Completely opposite from my thoughts."
+    },
+    {
+      "offset": 2748,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それは、別の方向から。",
+      "en": "\"(These people...)\"",
+      "text": "\"(These people...)\""
+    },
+    {
+      "offset": 2777,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（こいつら……）",
+      "en": "I turn around completely and see a whole bunch of students\nwhispering to themselves by the wall.",
+      "text": "I turn around completely and see a whole bunch of students\nwhispering to themselves by the wall."
+    },
+    {
+      "offset": 2800,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "身体ごと振り返り、まるきり壁のように連なる\n学生の群を見る。",
+      "en": "Dissatisfied looks on their faces.",
+      "text": "Dissatisfied looks on their faces."
+    },
+    {
+      "offset": 2864,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その、不満をくすぶらせた顔。",
+      "en": "Cold, criticizing eyes.",
+      "text": "Cold, criticizing eyes."
+    },
+    {
+      "offset": 2897,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "冷たい非難を込めた目。",
+      "en": "They knew nothing, yet spit out their vile poison in such an\nignorant fashion.",
+      "text": "They knew nothing, yet spit out their vile poison in such an\nignorant fashion."
+    },
+    {
+      "offset": 2924,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "事情も知らないくせに、毒ばかりを吐き出す口。",
+      "en": "Kotori's violent coughing took it's toll, making her\ncollapse onto her knees, hands on the ground.",
+      "text": "Kotori's violent coughing took it's toll, making her\ncollapse onto her knees, hands on the ground."
+    },
+    {
+      "offset": 2975,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "Her friends immediately ran up to her, dropping to her head\nlevel and whispering something into her ear.",
+      "text": "Her friends immediately ran up to her, dropping to her head\nlevel and whispering something into her ear."
+    },
+    {
+      "offset": 2994,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──白河さん、もっと上手いかと思ったのに。",
+      "en": "--I thought Shirakawa-san was better than that.",
+      "text": "--I thought Shirakawa-san was better than that."
+    },
+    {
+      "offset": 3041,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──意外と普通だったんだ。",
+      "en": "--Guess she's no different after all.",
+      "text": "--Guess she's no different after all."
+    },
+    {
+      "offset": 3072,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──高い声が出ないんだろ、きっと。",
+      "en": "--I bet she can't even hit the high notes.",
+      "text": "--I bet she can't even hit the high notes."
+    },
+    {
+      "offset": 3111,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "期待の映画が思いのほかつまらなかった、観客\nのような。けれど、これは……、",
+      "en": "I guess it's normal to criticize something if you're\ndissatisfied with it, like a movie's audience. But this...",
+      "text": "I guess it's normal to criticize something if you're\ndissatisfied with it, like a movie's audience. But this..."
+    },
+    {
+      "offset": 3191,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（見せ物じゃない）",
+      "en": "\"(This isn't an official show. It's just a practice\nsession!)\"",
+      "text": "\"(This isn't an official show. It's just a practice\nsession!)\""
+    },
+    {
+      "offset": 3216,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりの友達ってのは、気が弱い人らしく、お\nろおろと、こちらとことりを見比べるばかりだ。",
+      "en": "Kotori's friends were still looking over her, visibly\nworried and flustered.",
+      "text": "Kotori's friends were still looking over her, visibly\nworried and flustered."
+    },
+    {
+      "offset": 3308,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一方のことりはと言うと、連中のざわめきが届\nいてしまっているのか、真っ青な顔をしていた。",
+      "en": "Aided by the poison from her \"colleagues\" and with one final\nlook at Kotori's pale face, I hardened my resolve.",
+      "text": "Aided by the poison from her \"colleagues\" and with one final\nlook at Kotori's pale face, I hardened my resolve."
+    },
+    {
+      "offset": 3402,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はぁ〜い！　みなさん！！」",
+      "en": "\"Alright, everybody, pay attention!\"",
+      "text": "\"Alright, everybody, pay attention!\""
+    },
+    {
+      "offset": 3437,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "大声と共に、手を打ち鳴らす。ざわめきがぴた\nりと止まり、視線が集まってきた。",
+      "en": "I shouted out as loud as I could, while clapping my hands\nabove my hand. Everyone's attention turned to me.",
+      "text": "I shouted out as loud as I could, while clapping my hands\nabove my hand. Everyone's attention turned to me."
+    },
+    {
+      "offset": 3517,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "かつかつとことりの傍らまで行き、改めて振り\n返った。",
+      "en": "I scuttled over near Kotori, and gave her a quick look over\nmy shoulder.",
+      "text": "I scuttled over near Kotori, and gave her a quick look over\nmy shoulder."
+    },
+    {
+      "offset": 3575,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「練習の邪魔になりますからぁ！　みなさん！\n　この部屋から出ていって下さい！」",
+      "en": "\"This practice session is now declared private! Everyone,\nplease leave the room!\"",
+      "text": "\"This practice session is now declared private! Everyone,\nplease leave the room!\""
+    },
+    {
+      "offset": 3659,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "再び、ざわめきだす室内。隣同士で、顔を見合\nわせたりしている。と、誰かが言った。",
+      "en": "The commotion returned almost immediately. All the people\nlooked at each other in confusion.",
+      "text": "The commotion returned almost immediately. All the people\nlooked at each other in confusion."
+    },
+    {
+      "offset": 3755,
+      "speaker": "Male Student",
+      "speaker_jp": "男子学生",
+      "jp": "「何でお前が、そんな事言う権利があるんだ？」",
+      "en": "\"Who're you to tell us what to do?!\"",
+      "text": "\"Who're you to tell us what to do?!\""
+    },
+    {
+      "offset": 3806,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その声を皮切りに、ブーイングが飛び交った。\n俺は、痛いくらいに強く、手を打ち鳴らす。",
+      "en": "As he said that, the student pointed a finger at me\naccusingly, and the audience started booing.",
+      "text": "As he said that, the student pointed a finger at me\naccusingly, and the audience started booing."
+    },
+    {
+      "offset": 3896,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「こらこら！　この部屋はなあ、許可を取って\n　使用してるんだぞ！」",
+      "en": "\"Come on, everyone! This room is being used with permission\nright now!\"",
+      "text": "\"Come on, everyone! This room is being used with permission\nright now!\""
+    },
+    {
+      "offset": 3968,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お前らみんな、許可取ったのか！？　どうな\n　んだよ！？」",
+      "en": "\"Were all of you permitted in this room? When did that\nhappen!?\"",
+      "text": "\"Were all of you permitted in this room? When did that\nhappen!?\""
+    },
+    {
+      "offset": 4032,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぐるっと顔を睨み付ける。ブーイングが一時止\nんだ。先回りして、俺は言った。",
+      "en": "I could feel the glares from all the people in the room\n(minus three). The booing stopped temporarily, and I\ncontinued.",
+      "text": "I could feel the glares from all the people in the room\n(minus three). The booing stopped temporarily, and I\ncontinued."
+    },
+    {
+      "offset": 4112,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺か？　俺はなあ、ことり達のマネージャー\n　だ！」",
+      "en": "\"And me? You haven't heard? I'm Kotori's group's manager!\"",
+      "text": "\"And me? You haven't heard? I'm Kotori's group's manager!\""
+    },
+    {
+      "offset": 4170,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言葉を止める。室内は、完全に静まり返ってい\nる。意味が充分に染み渡ってから、俺は言った。",
+      "en": "The commotion came to a halt, as the room turned deathly\nsilent. I had came up with the perfect excuse.",
+      "text": "The commotion came to a halt, as the room turned deathly\nsilent. I had came up with the perfect excuse."
+    },
+    {
+      "offset": 4264,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……なあ？　ことり」",
+      "en": "\"...Right, Kotori?\"",
+      "text": "\"...Right, Kotori?\""
+    },
+    {
+      "offset": 4293,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "親しげな笑みを向ける。ことりは、かくかくと\n何度もうなずいた。",
+      "en": "I gave Kotori an affectionate smile. One that she's given me\nso many times before.",
+      "text": "I gave Kotori an affectionate smile. One that she's given me\nso many times before."
+    },
+    {
+      "offset": 4374,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そ、そうですっ！　あ、朝倉君は、私達のマ\n　ネージャーさんですっ」",
+      "en": "\"Y, yes! A, Asakura-kun is our manager!\"",
+      "text": "\"Y, yes! A, Asakura-kun is our manager!\""
+    },
+    {
+      "offset": 4448,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「はぁ〜い、みなさん！！」",
+      "en": "\"So, everyone!!\"",
+      "text": "\"So, everyone!!\""
+    },
+    {
+      "offset": 4481,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "パチ、パチ、パチ。",
+      "en": "*clap clap clap*",
+      "text": "*clap clap clap*"
+    },
+    {
+      "offset": 4506,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「分かったらぁ、さっさと帰る！」",
+      "en": "\"Now that you understand, please leave the room!\"",
+      "text": "\"Now that you understand, please leave the room!\""
+    },
+    {
+      "offset": 4545,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "静寂。余裕のある怒り顔という、普段はあまり\n作らない表情を連中に向ける。",
+      "en": "Silence. I could still feel the anger emnating from the\nfaces of the students.",
+      "text": "Silence. I could still feel the anger emnating from the\nfaces of the students."
+    },
+    {
+      "offset": 4621,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と──ドアが開く音がした。",
+      "en": "Then-- I heard the sound of a door opening.",
+      "text": "Then-- I heard the sound of a door opening."
+    },
+    {
+      "offset": 4652,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一人、二人、廊下へと消えていく。",
+      "en": "One student disappeared into the hallway. Then two.",
+      "text": "One student disappeared into the hallway. Then two."
+    },
+    {
+      "offset": 4689,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それをしおに、学生達がぽこぽこと流れ出てい\nく。",
+      "en": "One-by-one, the students started filing out of the room and\ninto the corridor.",
+      "text": "One-by-one, the students started filing out of the room and\ninto the corridor."
+    },
+    {
+      "offset": 4741,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やがて、最後の一人が消え──、",
+      "en": "And when the final student disappeared through the door--",
+      "text": "And when the final student disappeared through the door--"
+    },
+    {
+      "offset": 4789,
+      "speaker": "Friend 1",
+      "speaker_jp": "友達",
+      "jp": "「こ、ことり！」",
+      "en": "\"Ko, Kotori!\"",
+      "text": "\"Ko, Kotori!\""
+    },
+    {
+      "offset": 4823,
+      "speaker": "Friend 2",
+      "speaker_jp": "友達",
+      "jp": "「こ、ことり！」",
+      "en": "\"Ko, Kotori!\"",
+      "text": "\"Ko, Kotori!\""
+    },
+    {
+      "offset": 4846,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりが床に、へたばっていた。",
+      "en": "Kotori collapsed onto the floor again, exhausted.",
+      "text": "Kotori collapsed onto the floor again, exhausted."
+    },
+    {
+      "offset": 4999,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆学園のアイドル◆",
+      "en": "◆School Idol◆",
+      "text": "◆School Idol◆"
+    },
+    {
+      "offset": 5039,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音楽室には、やたらと人が居た。大半が、男子\n学生だ。",
+      "en": "The music room was filled to the brim with people. The\nmajority, of course, were male students.",
+      "text": "The music room was filled to the brim with people. The\nmajority, of course, were male students."
+    },
+    {
+      "offset": 5116,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりは風邪が｛ひど／酷｝いのか、どうにも思うように\n歌えていないらしかった。",
+      "en": "Kotori was singing as best as she could, but eventually her\ncold took over her will.",
+      "text": "Kotori was singing as best as she could, but eventually her\ncold took over her will."
+    },
+    {
+      "offset": 5203,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、そんなことりに対して、男子学生達の遠慮\nのない悪口が。",
+      "en": "And when that happened, the male students started\nbadmouthing her.",
+      "text": "And when that happened, the male students started\nbadmouthing her."
+    },
+    {
+      "offset": 5265,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はそれが許せず、適当な嘘をついて、連中を\n追っ払った。",
+      "en": "I couldn't take much more of that, and came up with a lie\nthat chased the crowd out of the room.",
+      "text": "I couldn't take much more of that, and came up with a lie\nthat chased the crowd out of the room."
+    },
+    {
+      "offset": 5346,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、連中がみんな去った後。ことりが、床\nにへばりこんでしまった。",
+      "en": "As soon as the crowd left, Kotori collapsed onto the floor.",
+      "text": "As soon as the crowd left, Kotori collapsed onto the floor."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "811": "Male Student",
+    "857": "Male Student",
+    "905": "Male Student",
+    "1743": "Kotori",
+    "3743": "Male Student",
+    "4364": "Kotori",
+    "4781": "Friend 1",
+    "4815": "Friend 2"
+  }
+}

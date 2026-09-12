@@ -1,0 +1,616 @@
+{
+  "scene": "script_0468.obj",
+  "dialogues": [
+    {
+      "offset": 155,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「んじゃ、そろそろ帰ろう」",
+      "en": "\"The graduation party's soon.\"",
+      "text": "\"The graduation party's soon.\""
+    },
+    {
+      "offset": 221,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あ、うん」",
+      "en": "\"Yeah.\"",
+      "text": "\"Yeah.\""
+    },
+    {
+      "offset": 240,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "他の部員に挨拶を交わす眞子と、並んで音楽室\nをでる。",
+      "en": "From what I hear listening to the rehearsals, I guess you\nguys will do fine.",
+      "text": "From what I hear listening to the rehearsals, I guess you\nguys will do fine."
+    },
+    {
+      "offset": 326,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「じゃあ行こうか」",
+      "en": "\"But you may have some problems during the love confession\ntime after the graduation ceremony.\"",
+      "text": "\"But you may have some problems during the love confession\ntime after the graduation ceremony.\""
+    },
+    {
+      "offset": 406,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あと少しで卒パだな」",
+      "en": "I guess there is really very little chance that boys will\ntell her that they like her. Because the word about her\nrelationship with me has already spread...",
+      "text": "I guess there is really very little chance that boys will\ntell her that they like her. Because the word about her\nrelationship with me has already spread..."
+    },
+    {
+      "offset": 468,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「そうね」",
+      "en": "\"Hmm... I wonder if that girl's already noticed my\nrelationship with you.\"",
+      "text": "\"Hmm... I wonder if that girl's already noticed my\nrelationship with you.\""
+    },
+    {
+      "offset": 485,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "練習を聴く限りじゃ、問題はないだろう。",
+      "en": "\"She'll find out about it soon.\"",
+      "text": "\"She'll find out about it soon.\""
+    },
+    {
+      "offset": 530,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「問題があるとしたら、卒業式後の告白タイム\n　か」",
+      "en": "It's only a matter of time. But whether the girl is gonna\ngive up on Mako is another matter.",
+      "text": "It's only a matter of time. But whether the girl is gonna\ngive up on Mako is another matter."
+    },
+    {
+      "offset": 586,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さすがに、男からの告白はほとんどないだろう。\n俺とのことが、結構うわさになってるし……。",
+      "en": "\"Mm?\"",
+      "text": "\"Mm?\""
+    },
+    {
+      "offset": 708,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「うーん……まだあの女の子、あきらめてくれ\n　ないのかな」",
+      "en": "\"Nothing, never mind.\"",
+      "text": "\"Nothing, never mind.\""
+    },
+    {
+      "offset": 772,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「問題の早苗ちゃんか。まぁ、杉並の話だと結\n　構、執着するタイプらしいからな」",
+      "en": "\"Ah......\"",
+      "text": "\"Ah......\""
+    },
+    {
+      "offset": 856,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それが高じて、ストーカーにならなければいい\nけど。",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 974,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あっ……」",
+      "en": "\"This......\"",
+      "text": "\"This......\""
+    },
+    {
+      "offset": 993,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「どうした？」",
+      "en": "Mako's holding a white envelope in her hand.",
+      "text": "Mako's holding a white envelope in her hand."
+    },
+    {
+      "offset": 1014,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "下駄箱の前で靴を取り出していた眞子が、短く\n声をあげる。",
+      "en": "\"Is that a love letter from the girl?\"",
+      "text": "\"Is that a love letter from the girl?\""
+    },
+    {
+      "offset": 1104,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「これ……」",
+      "en": "\"Yeah......\"",
+      "text": "\"Yeah......\""
+    },
+    {
+      "offset": 1123,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子の手に、白い便箋が握られていた。",
+      "en": "\"Do you want me to read it for you?\"",
+      "text": "\"Do you want me to read it for you?\""
+    },
+    {
+      "offset": 1166,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「例の｛ラブレター／手紙｝か？」",
+      "en": "Looking at her anxious face, I naturally uttered such words.",
+      "text": "Looking at her anxious face, I naturally uttered such words."
+    },
+    {
+      "offset": 1216,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「うん……」",
+      "en": "\"No. Because I think it's not a good idea to show this kind\nof thing to someone.\"",
+      "text": "\"No. Because I think it's not a good idea to show this kind\nof thing to someone.\""
+    },
+    {
+      "offset": 1271,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「なんだ、どうした？」",
+      "en": "Saying a dutiful thing like she said before, she opens the\nenvelope and starts to read the letter.",
+      "text": "Saying a dutiful thing like she said before, she opens the\nenvelope and starts to read the letter."
+    },
+    {
+      "offset": 1300,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並が後ろから、ひょっこりと顔を出す。",
+      "en": "Mako's face is turning to a delighted expression in front of\nme, as I watch her with breathless interest.",
+      "text": "Mako's face is turning to a delighted expression in front of\nme, as I watch her with breathless interest."
+    },
+    {
+      "offset": 1343,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺と眞子は声にならない悲鳴を上げて、一瞬、\nびくんとすくんでしまった。",
+      "en": "\"What does she say?\"",
+      "text": "\"What does she say?\""
+    },
+    {
+      "offset": 1419,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いきなり出てくんなよ。心臓に悪いだろうが」",
+      "en": "From Mako's expression, I can guess that it's not something\nbad.",
+      "text": "From Mako's expression, I can guess that it's not something\nbad."
+    },
+    {
+      "offset": 1498,
+      "speaker": "Mako",
+      "speaker_jp": "杉並",
+      "jp": "「ふー、小市民的小心者が」",
+      "en": "\"Listen, Asakura. She says that she's gonna give up on me!\"",
+      "text": "\"Listen, Asakura. She says that she's gonna give up on me!\""
+    },
+    {
+      "offset": 1531,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "わけのわからないことを呟きつつ、やれやれと\n杉並が首を振る。",
+      "en": "Coming close to my side as if she's going to hug me, she\nshows me the letter.",
+      "text": "Coming close to my side as if she's going to hug me, she\nshows me the letter."
+    },
+    {
+      "offset": 1625,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「で、何があったんだ？」",
+      "en": "\"Wow, you did it!\"",
+      "text": "\"Wow, you did it!\""
+    },
+    {
+      "offset": 1656,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「例のやつだよ」",
+      "en": "Hey, you told me that you are not supposed to show someone's\nlove letter to other people, didn't you?",
+      "text": "Hey, you told me that you are not supposed to show someone's\nlove letter to other people, didn't you?"
+    },
+    {
+      "offset": 1690,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ああ……」",
+      "en": "I was going to avert my eyes from the letter, but I spotted\none sentence.",
+      "text": "I was going to avert my eyes from the letter, but I spotted\none sentence."
+    },
+    {
+      "offset": 1709,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子の顔が心なしか青い。普段の勝気な姿とは\nかけ離れていて、少し心配になる。",
+      "en": "\"'I hope you'll be very happy together'......\"",
+      "text": "\"'I hope you'll be very happy together'......\""
+    },
+    {
+      "offset": 1791,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なあ、大丈夫か？」",
+      "en": "What can I do even if she says so......?",
+      "text": "What can I do even if she says so......?"
+    },
+    {
+      "offset": 1854,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「うん……」",
+      "en": "\"Yes. She is saying 'Your happiness is my happiness.' She\nseems like a good girl.\"",
+      "text": "\"Yes. She is saying 'Your happiness is my happiness.' She\nseems like a good girl.\""
+    },
+    {
+      "offset": 1873,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「とりあえず、内容の確認をしないとな」",
+      "en": "\"What!?\"",
+      "text": "\"What!?\""
+    },
+    {
+      "offset": 1929,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"Um...... aah......\"",
+      "text": "\"Um...... aah......\""
+    },
+    {
+      "offset": 1948,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、眞子は固まったように動かない。",
+      "en": "She falters, her face clouding over.",
+      "text": "She falters, her face clouding over."
+    },
+    {
+      "offset": 1993,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんなら、俺が代わろうか？」",
+      "en": "\"Finally, from tomorrow I can rest.\"",
+      "text": "\"Finally, from tomorrow I can rest.\""
+    },
+    {
+      "offset": 2041,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 2060,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子が何も言わずに俺の手を握ってくる。",
+      "en": "\"What's that?\"",
+      "text": "\"What's that?\""
+    },
+    {
+      "offset": 2103,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やはり不安があるのだろう。俺は少しでも元気\nづけてやりたくて、握り返してやる。",
+      "en": "\"You think so?\"",
+      "text": "\"You think so?\""
+    },
+    {
+      "offset": 2185,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、これじゃ手紙を読むことができんな。",
+      "en": "\"There are only two days left, so I think it'll be okay to\ntell them that I have something else to do...\"",
+      "text": "\"There are only two days left, so I think it'll be okay to\ntell them that I have something else to do...\""
+    },
+    {
+      "offset": 2234,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「杉並に代わってもらっていいか？」",
+      "en": "Even if someone says that I'm skipping out on the work, I\ncan get away with it.",
+      "text": "Even if someone says that I'm skipping out on the work, I\ncan get away with it."
+    },
+    {
+      "offset": 2286,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「うん。お願い」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2309,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「杉並、頼む」",
+      "en": "I don't know why, but she doesn't turn her eyes away from\nme.",
+      "text": "I don't know why, but she doesn't turn her eyes away from\nme."
+    },
+    {
+      "offset": 2366,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「おう、望むところだ」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2395,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まるで果たし状でも受け取ったみたいに、杉並\nが手紙を開封して目を通す。",
+      "en": "\"But it's a pain in the neck... And I'm bad at getting up.\"",
+      "text": "\"But it's a pain in the neck... And I'm bad at getting up.\""
+    },
+    {
+      "offset": 2482,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ふむふむ、そうきたか……」",
+      "en": "I shrug with a sigh.",
+      "text": "I shrug with a sigh."
+    },
+    {
+      "offset": 2517,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「何て書いてあるんだ？」",
+      "en": "\"I can still come if you let me show up late.\"",
+      "text": "\"I can still come if you let me show up late.\""
+    },
+    {
+      "offset": 2576,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「どうやら付き合っていることをまだ疑ってい\n　るようだ。もっと証拠を見せないと信用でき\n　ない、とさ」",
+      "en": "\"As long as you come... I'm fine with that.\"",
+      "text": "\"As long as you come... I'm fine with that.\""
+    },
+    {
+      "offset": 2683,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ふーん、俺にも見せてくれ」",
+      "en": "\"What......?\"",
+      "text": "\"What......?\""
+    },
+    {
+      "offset": 2746,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「待て、あそこの下駄箱の陰からこちらを監視\n　している人影がある」",
+      "en": "I was just joking to make her mad...",
+      "text": "I was just joking to make her mad..."
+    },
+    {
+      "offset": 2818,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「なに！？」",
+      "en": "\"Are you okay? You're acting strange.\"",
+      "text": "\"Are you okay? You're acting strange.\""
+    },
+    {
+      "offset": 2848,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「え！？」",
+      "en": "\"It's nothing... Let's go.\"",
+      "text": "\"It's nothing... Let's go.\""
+    },
+    {
+      "offset": 2877,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺と眞子が同時に振り返るが、そんな人影は見\nえない。",
+      "en": "She shoves the letter into her pocket and changes her shoes.",
+      "text": "She shoves the letter into her pocket and changes her shoes."
+    },
+    {
+      "offset": 2935,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そんなの、どこにもいないぞ」",
+      "en": "\"Ah, hold on.\"",
+      "text": "\"Ah, hold on.\""
+    },
+    {
+      "offset": 3120,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "言いながら、杉並が手紙を渡す。",
+      "en": "I also get out my outdoor shoes from the shoe locker and\nchange my shoes, and run after her.",
+      "text": "I also get out my outdoor shoes from the shoe locker and\nchange my shoes, and run after her."
+    },
+    {
+      "offset": 3157,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どれどれ……」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3180,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子も横から覗き込む。",
+      "en": "We're walking side by side without talking to each other.",
+      "text": "We're walking side by side without talking to each other."
+    },
+    {
+      "offset": 3207,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "文面は杉並が言ったとおりの内容だった。",
+      "en": "Mako's not saying anything, and I missed a cue to talk to\nher because I was also caught up in the mood.",
+      "text": "Mako's not saying anything, and I missed a cue to talk to\nher because I was also caught up in the mood."
+    },
+    {
+      "offset": 3252,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……疑り深いな」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3305,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「今まで以上に頑張れよ」",
+      "en": "And we come to the fork in the road, where we have to take\nseparate paths to go to our homes.",
+      "text": "And we come to the fork in the road, where we have to take\nseparate paths to go to our homes."
+    },
+    {
+      "offset": 3336,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「やれやれ、これから大変だな、眞子」",
+      "en": "\"Okay, I'm going straight home.\"",
+      "text": "\"Okay, I'm going straight home.\""
+    },
+    {
+      "offset": 3415,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「え？　あ、うん、そうだね」",
+      "en": "\"Ah, yes......\"",
+      "text": "\"Ah, yes......\""
+    },
+    {
+      "offset": 3450,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子が慌てたように応える。",
+      "en": "Once again, I say goodbye to Mako, who nods cheerlessly, and\nI start walking home.",
+      "text": "Once again, I say goodbye to Mako, who nods cheerlessly, and\nI start walking home."
+    },
+    {
+      "offset": 3483,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（どうしたんだ？　眞子のやつ、慌てて…）",
+      "en": "I feel uneasy, so I turn around. Mako's still standing in\nthe middle of the road, the same as she was when I parted\ncompany with her.",
+      "text": "I feel uneasy, so I turn around. Mako's still standing in\nthe middle of the road, the same as she was when I parted\ncompany with her."
+    },
+    {
+      "offset": 3566,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「じゃあ、俺は先に帰るぞ。朝倉たちはどこで\n　見られてるか分からんから、しっかりな」",
+      "en": "............",
+      "text": "............"
+    },
+    {
+      "offset": 3656,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「………」",
+      "en": "When our eyes meet, Mako averts her gaze, and she turns on\nher heel and walks off.",
+      "text": "When our eyes meet, Mako averts her gaze, and she turns on\nher heel and walks off."
+    },
+    {
+      "offset": 3709,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 3726,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子と顔を見合わせる。",
+      "en": "Hmm...",
+      "text": "Hmm..."
+    },
+    {
+      "offset": 3755,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺たちも帰るか」",
+      "en": "What was that?",
+      "text": "What was that?"
+    },
+    {
+      "offset": 3856,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、元気が出たなら良かった。顔を曇らせる\nなんて、眞子には似合わないからな。",
+      "en": "Puzzling over her reaction, I also turn around and walk off\nhome.",
+      "text": "Puzzling over her reaction, I also turn around and walk off\nhome."
+    },
+    {
+      "offset": 4042,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆ラブレター再び◆",
+      "en": "◆Junichi◆",
+      "text": "◆Junichi◆"
+    },
+    {
+      "offset": 4089,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "卒パまであと少し、眞子の音楽部の練習も順調\nだ。",
+      "en": "\"Um, yes.\"",
+      "text": "\"Um, yes.\""
+    },
+    {
+      "offset": 4141,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつものように一緒に下校する俺たちだが、眞\n子の下駄箱の中にまたしてもラブレターが……。",
+      "en": "I come out of the music room with Mako after she finishes\nexchanging goodbyes with the other members.",
+      "text": "I come out of the music room with Mako after she finishes\nexchanging goodbyes with the other members."
+    },
+    {
+      "offset": 4233,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まだまだ予断を許さない状況のようだ。",
+      "en": "\"Okay, let's go.\"",
+      "text": "\"Okay, let's go.\""
+    }
+  ],
+  "choices": [],
+  "names": {
+    "213": "Mako",
+    "318": "Mako",
+    "460": "Mako",
+    "700": "Mako",
+    "966": "Mako",
+    "1096": "Mako",
+    "1208": "Mako",
+    "1263": "Suginami",
+    "1490": "Mako",
+    "1617": "Suginami",
+    "1682": "Suginami",
+    "1846": "Mako",
+    "1921": "Mako",
+    "2033": "Mako",
+    "2278": "Mako",
+    "2358": "Suginami",
+    "2474": "Suginami",
+    "2568": "Suginami",
+    "2738": "Suginami",
+    "2840": "Mako",
+    "3297": "Suginami",
+    "3407": "Mako",
+    "3558": "Suginami",
+    "3701": "Mako"
+  }
+}

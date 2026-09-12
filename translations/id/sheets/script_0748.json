@@ -1,0 +1,634 @@
+{
+  "scene": "script_0748.obj",
+  "dialogues": [
+    {
+      "offset": 233,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「それじゃあ」",
+      "en": "\"Well then.\"",
+      "text": "\"Well then.\""
+    },
+    {
+      "offset": 287,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「はい、行ってらっしゃい♪」",
+      "en": "\"Okay, I'll see you later.\"",
+      "text": "\"Okay, I'll see you later.\""
+    },
+    {
+      "offset": 322,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "わざわざ表に出てくるためだけに、私服に着替\nえた音夢が頷く。",
+      "en": "Nemu nodded as she changed her clothes just to see me off to\nschool at the door.",
+      "text": "Nemu nodded as she changed her clothes just to see me off to\nschool at the door."
+    },
+    {
+      "offset": 386,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "久しぶりに着た制服は、なんだか｛きゅうくつ／窮屈｝な感じし\nかしない。",
+      "en": "I haven't worn my uniform for a while, and it felt tight.",
+      "text": "I haven't worn my uniform for a while, and it felt tight."
+    },
+    {
+      "offset": 473,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「本当にお弁当いらなかったの、お兄ちゃん？」",
+      "en": "\"Are you sure you don't want to take a lunch box, oniichan?\"",
+      "text": "\"Are you sure you don't want to take a lunch box, oniichan?\""
+    },
+    {
+      "offset": 524,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……いるか、あんな調味料の集合体のような\n　物」",
+      "en": "\"No. It's a pile of artificial seasonings anyways.\"",
+      "text": "\"No. It's a pile of artificial seasonings anyways.\""
+    },
+    {
+      "offset": 580,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こんな事態だろうとも、あれを食物として認め\nることは許されなかった。",
+      "en": "I can't let myself accept it as food in any situation.",
+      "text": "I can't let myself accept it as food in any situation."
+    },
+    {
+      "offset": 682,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「失礼な……」",
+      "en": "\"How rude......\"",
+      "text": "\"How rude......\""
+    },
+    {
+      "offset": 703,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぼそり、と聞こえはしたが無視する。",
+      "en": "I heard her mumble, but I ignored it.",
+      "text": "I heard her mumble, but I ignored it."
+    },
+    {
+      "offset": 744,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「じゃあ、なんかあったら電話しろよ」",
+      "en": "\"Just call me if anything happens.\"",
+      "text": "\"Just call me if anything happens.\""
+    },
+    {
+      "offset": 815,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「は……くしゅん……ん……はいはい。まった\n　くお兄ちゃんは心配性なんだから」",
+      "en": "\"Ah- achoo! ......Fine. You worry too much.\"",
+      "text": "\"Ah- achoo! ......Fine. You worry too much.\""
+    },
+    {
+      "offset": 927,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「段々と良くなってるから大丈夫だよ。それに、\n　もし今日病院に行ってＯＫが出たら、めでた\n　く復学だからね」",
+      "en": "\"I'm getting better, so don't worry. I have an appointment\nat the hospital today. I can go back to school if the doctor\nsays it's okay.\"",
+      "text": "\"I'm getting better, so don't worry. I have an appointment\nat the hospital today. I can go back to school if the doctor\nsays it's okay.\""
+    },
+    {
+      "offset": 1040,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「付き添おうか？」",
+      "en": "\"Do you want me to go with you?\"",
+      "text": "\"Do you want me to go with you?\""
+    },
+    {
+      "offset": 1076,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「はいはい。そういうのは、お兄ちゃんが歯医\n　者に行くときに私がするから」",
+      "en": "\"Yeah, yeah. I do that for you when you go to the dentist.\"",
+      "text": "\"Yeah, yeah. I do that for you when you go to the dentist.\""
+    },
+    {
+      "offset": 1156,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぐい、と背中を押される。",
+      "en": "She pushed my back.",
+      "text": "She pushed my back."
+    },
+    {
+      "offset": 1215,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「行ってらっしゃい♪」",
+      "en": "\"I'll see you later.\"",
+      "text": "\"I'll see you later.\""
+    },
+    {
+      "offset": 1290,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんとも後ろめたい出発だが、家にこもる必要\nもない。",
+      "en": "\"Okay...... see you then.\"",
+      "text": "\"Okay...... see you then.\""
+    },
+    {
+      "offset": 1346,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もう、ずっと側にいる必要はないのだ。",
+      "en": "I felt guilty, but I have no reason to stay home.",
+      "text": "I felt guilty, but I have no reason to stay home."
+    },
+    {
+      "offset": 1387,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だが、それでも……。",
+      "en": "I turned around a few times.",
+      "text": "I turned around a few times."
+    },
+    {
+      "offset": 1412,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何度か振り返る俺。",
+      "en": "Nemu went back in the house after the third time.",
+      "text": "Nemu went back in the house after the third time."
+    },
+    {
+      "offset": 1435,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "３度目で音夢は家の中に消えていた。",
+      "en": "\"I wonder how she'll be......\"",
+      "text": "\"I wonder how she'll be......\""
+    },
+    {
+      "offset": 1512,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「大丈夫かなあいつ……」",
+      "en": "\"It's awkward to go to school.\"",
+      "text": "\"It's awkward to go to school.\""
+    },
+    {
+      "offset": 1543,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「それに、なんとも登校しづらいなこれは」",
+      "en": "I felt alone as I walked to school surrounded by other\nstudents.",
+      "text": "I felt alone as I walked to school surrounded by other\nstudents."
+    },
+    {
+      "offset": 1590,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "当たり前の学生の波に交じりながら、なんとな\nくぷかぷかと浮いた気分になる。",
+      "en": "Is this similar to how you feel when you go back home after\nyou've ran away?",
+      "text": "Is this similar to how you feel when you go back home after\nyou've ran away?"
+    },
+    {
+      "offset": 1668,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自ら捨てた故郷に帰るときの心境なのだろうか。",
+      "en": "\"What a pain......\"",
+      "text": "\"What a pain......\""
+    },
+    {
+      "offset": 1730,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「うわぁ！　先輩だ！」",
+      "en": "\"Oh my god! Asakura-sempai!\"",
+      "text": "\"Oh my god! Asakura-sempai!\""
+    },
+    {
+      "offset": 1759,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "背中からの声に振り返ると、久しぶりに見る美\n春が大きく手を振っていた。",
+      "en": "I turned around as someone called my name, and I saw Miharu\nwaving at me.",
+      "text": "I turned around as someone called my name, and I saw Miharu\nwaving at me."
+    },
+    {
+      "offset": 1868,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「朝倉先輩、どうしちゃったんです！？」",
+      "en": "\"Asakura-sempai, what happened?\"",
+      "text": "\"Asakura-sempai, what happened?\""
+    },
+    {
+      "offset": 1913,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢のことが気になるのだろうが、それでも嬉\nしそうな表情を浮かべようというのか、奇妙な\n表情で美春が言う。",
+      "en": "Miharu had a strange expression on her face, as if she\nwanted to ask me about Nemu, but she was happy to see me at\nthe same time.",
+      "text": "Miharu had a strange expression on her face, as if she\nwanted to ask me about Nemu, but she was happy to see me at\nthe same time."
+    },
+    {
+      "offset": 2024,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「音夢に叩き出されてな」",
+      "en": "\"Nemu kicked me out.\"",
+      "text": "\"Nemu kicked me out.\""
+    },
+    {
+      "offset": 2083,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「音夢先輩、元気になったんですか！？」",
+      "en": "\"So Nemu-sempai's feeling okay now?\"",
+      "text": "\"So Nemu-sempai's feeling okay now?\""
+    },
+    {
+      "offset": 2163,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「おはよう朝倉君」",
+      "en": "\"Good morning, Asakura-kun.\"",
+      "text": "\"Good morning, Asakura-kun.\""
+    },
+    {
+      "offset": 2188,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春に答える前に後続陣が到着する。",
+      "en": "Kotori came before I could answer Miharu.",
+      "text": "Kotori came before I could answer Miharu."
+    },
+    {
+      "offset": 2229,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おはよう、ことり。似合うなその制服」",
+      "en": "\"Good morning, Kotori. You look great in that uniform.\"",
+      "text": "\"Good morning, Kotori. You look great in that uniform.\""
+    },
+    {
+      "offset": 2274,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして。",
+      "en": "And then.",
+      "text": "And then."
+    },
+    {
+      "offset": 2322,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「よ、相変わらず、中途半端なナンパ師みたい\n　な愛想の良さだな」",
+      "en": "\"Hey, what a stupid pick-up line.\"",
+      "text": "\"Hey, what a stupid pick-up line.\""
+    },
+    {
+      "offset": 2392,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……それにどう反応しろと言うんだお前」",
+      "en": "\"How am I supposed to react to that?\"",
+      "text": "\"How am I supposed to react to that?\""
+    },
+    {
+      "offset": 2439,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やはり拳で語らなければいけないのだろうか。",
+      "en": "Do we need to talk with fists?",
+      "text": "Do we need to talk with fists?"
+    },
+    {
+      "offset": 2535,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「先輩っ、音夢先輩はどうなんです！」",
+      "en": "\"So, how's Nemu-sempai?\"",
+      "text": "\"So, how's Nemu-sempai?\""
+    },
+    {
+      "offset": 2578,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「教室に行って話すよ」",
+      "en": "\"I'll talk in the classroom.\"",
+      "text": "\"I'll talk in the classroom.\""
+    },
+    {
+      "offset": 2635,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「うにゃ！　美春は別の学年ですってば！」",
+      "en": "\"What! I'm in a different classroom!\"",
+      "text": "\"What! I'm in a different classroom!\""
+    },
+    {
+      "offset": 2720,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「朝倉君、いじわるしないで教えて欲しいな」",
+      "en": "\"Come on, Asakura-sempai. Don't be mean. We want to know.\"",
+      "text": "\"Come on, Asakura-sempai. Don't be mean. We want to know.\""
+    },
+    {
+      "offset": 2769,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、いや、いじわるしてるわけじゃないん\n　だ！」",
+      "en": "\"Well, I'm not trying to be mean.\"",
+      "text": "\"Well, I'm not trying to be mean.\""
+    },
+    {
+      "offset": 2825,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "予想外の援軍に思わず首を振ってしまう。",
+      "en": "I shook my head...... I didn't expect Kotori to jump in like\nthat.",
+      "text": "I shook my head...... I didn't expect Kotori to jump in like\nthat."
+    },
+    {
+      "offset": 2903,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「あー、結婚したら、間違いなく尻に敷かれる\n　タイプだな」",
+      "en": "\"He'll definitely be whipped by his future wife.\"",
+      "text": "\"He'll definitely be whipped by his future wife.\""
+    },
+    {
+      "offset": 2967,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「勝手に人の将来を決めるな」",
+      "en": "\"Don't decide my future.\"",
+      "text": "\"Don't decide my future.\""
+    },
+    {
+      "offset": 3030,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ふっ、嫉妬は見苦しいぞ朝倉。お前に俺の結\n　婚相手のタイプなど分かるまい」",
+      "en": "\"Don't be jealous, Asakura. I bet you wouldn't be able to\nguess what kind of girl I'm going to marry.\"",
+      "text": "\"Don't be jealous, Asakura. I bet you wouldn't be able to\nguess what kind of girl I'm going to marry.\""
+    },
+    {
+      "offset": 3112,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「知りたくねぇよ」",
+      "en": "\"I don't even want to know.\"",
+      "text": "\"I don't even want to know.\""
+    },
+    {
+      "offset": 3165,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「バカな！？」",
+      "en": "\"No way!\"",
+      "text": "\"No way!\""
+    },
+    {
+      "offset": 3233,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「美春も聞きたくないかもですよ」",
+      "en": "\"Even I'm not interested.\"",
+      "text": "\"Even I'm not interested.\""
+    },
+    {
+      "offset": 3300,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「うっ！？」",
+      "en": "\"Mm!\"",
+      "text": "\"Mm!\""
+    },
+    {
+      "offset": 3357,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あはははは♪」",
+      "en": "\"Hahaha!\"",
+      "text": "\"Hahaha!\""
+    },
+    {
+      "offset": 3402,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そこで皆で笑って。",
+      "en": "We all laughed together.",
+      "text": "We all laughed together."
+    },
+    {
+      "offset": 3427,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ふと、胸が痛くなった。",
+      "en": "And I felt the pain in my chest.",
+      "text": "And I felt the pain in my chest."
+    },
+    {
+      "offset": 3477,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ」",
+      "en": "\"Oh...\"",
+      "text": "\"Oh...\""
+    },
+    {
+      "offset": 3490,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんで俺だけ、笑っているんだろう。",
+      "en": "Why am I laughing?",
+      "text": "Why am I laughing?"
+    },
+    {
+      "offset": 3529,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺だけが日常に帰ってきてしまっている。",
+      "en": "I came back to my everyday life by myself.",
+      "text": "I came back to my everyday life by myself."
+    },
+    {
+      "offset": 3572,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "隣で笑っているはずの少女がいない。",
+      "en": "I don't have the little girl who should be laughing next to\nme.",
+      "text": "I don't have the little girl who should be laughing next to\nme."
+    },
+    {
+      "offset": 3675,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「朝倉くん」",
+      "en": "\"Asakura-sempai.\"",
+      "text": "\"Asakura-sempai.\""
+    },
+    {
+      "offset": 3694,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぽん、と肩が叩かれる。",
+      "en": "I felt someone pat my shoulder.",
+      "text": "I felt someone pat my shoulder."
+    },
+    {
+      "offset": 3723,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 3755,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「気にしなくていいと思うよ」",
+      "en": "\"You don't need to worry about that.\"",
+      "text": "\"You don't need to worry about that.\""
+    },
+    {
+      "offset": 3790,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ」",
+      "en": "\"Ah......\"",
+      "text": "\"Ah......\""
+    },
+    {
+      "offset": 3816,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ね？」",
+      "en": "\"Okay?\"",
+      "text": "\"Okay?\""
+    },
+    {
+      "offset": 3831,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……あぁ」",
+      "en": "\"Sure......\"",
+      "text": "\"Sure......\""
+    },
+    {
+      "offset": 3850,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんとも言葉が見つからず、ただ頷いただけだっ\nた。",
+      "en": "I couldn't find a word, and just nodded.",
+      "text": "I couldn't find a word, and just nodded."
+    },
+    {
+      "offset": 3904,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と、ポンともう片方の肩も叩かれる。",
+      "en": "Then, someone patted my other shoulder.",
+      "text": "Then, someone patted my other shoulder."
+    },
+    {
+      "offset": 3978,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「青春だな」",
+      "en": "\"Young days...\"",
+      "text": "\"Young days...\""
+    },
+    {
+      "offset": 3997,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 4029,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 4053,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "き〜んこ〜んか〜んこ〜ん。",
+      "en": "Ding dong dang dong.",
+      "text": "Ding dong dang dong."
+    },
+    {
+      "offset": 4084,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "予鈴が鳴り響いた。",
+      "en": "We heard the warning bell that rang before class.",
+      "text": "We heard the warning bell that rang before class."
+    },
+    {
+      "offset": 4226,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆久々の登校◆",
+      "en": "◆Going back to school◆",
+      "text": "◆Going back to school◆"
+    },
+    {
+      "offset": 4273,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢が記憶を失ったことで、俺もある程度の距\n離を置くべく学園に通うことになった。",
+      "en": "I decided to go back to school to keep some distance from\nNemu since she lost her memory.",
+      "text": "I decided to go back to school to keep some distance from\nNemu since she lost her memory."
+    },
+    {
+      "offset": 4380,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりや美春、杉並と話をして、まだココが自\n分を受け入れてくれていることが嬉しかった。",
+      "en": "I talked with Kotori, Miharu and Suginami and felt happy to\nfind out they still accepted me.",
+      "text": "I talked with Kotori, Miharu and Suginami and felt happy to\nfind out they still accepted me."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "279": "Nemu",
+    "465": "Nemu",
+    "674": "Nemu",
+    "807": "Nemu",
+    "919": "Nemu",
+    "1068": "Nemu",
+    "1207": "Nemu",
+    "1722": "Miharu",
+    "1860": "Miharu",
+    "2075": "Miharu",
+    "2153": "Kotori",
+    "2314": "Suginami",
+    "2527": "Miharu",
+    "2627": "Miharu",
+    "2710": "Kotori",
+    "2895": "Suginami",
+    "3022": "Suginami",
+    "3157": "Suginami",
+    "3225": "Miharu",
+    "3292": "Suginami",
+    "3347": "Kotori",
+    "3665": "Kotori",
+    "3745": "Kotori",
+    "3806": "Kotori",
+    "3970": "Suginami",
+    "4019": "Kotori"
+  }
+}

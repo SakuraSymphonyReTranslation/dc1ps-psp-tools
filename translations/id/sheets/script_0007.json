@@ -1,0 +1,1266 @@
+{
+  "scene": "script_0007.obj",
+  "dialogues": [
+    {
+      "offset": 163,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はぁ……かったりい」",
+      "en": "\"Hah... this sucks.\"",
+      "text": "\"Hah... this sucks.\""
+    },
+    {
+      "offset": 192,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "教員棟の階段を上りながら、何度目かの溜め息\nを漏らす。",
+      "en": "Walking up the stairs next to the staff room, I let out a\nheavy sigh.",
+      "text": "Walking up the stairs next to the staff room, I let out a\nheavy sigh."
+    },
+    {
+      "offset": 250,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "食堂での騒動が落ち着いて、にゅるにゅるになっ\nたうどんをやっと食べようかという時に、暦先\n生に｛つか／捉｝まってしまった。",
+      "en": "With the commotion in the cafeteria over, I was just about\nto start on my noodles again, when Koyomi-sensei caught me.",
+      "text": "With the commotion in the cafeteria over, I was just about\nto start on my noodles again, when Koyomi-sensei caught me."
+    },
+    {
+      "offset": 375,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢に、にゅるにゅるうどん――略してにゅる\nどん――の処理を任せて、俺は泣く泣く仰せつ\nかった任務に従事することにしたのだ。",
+      "en": "I forlornly began to carry out the duty Koyomi-sensei\nassigned to me, as Nemu handled the \"cleaning up\" of my\nlunch.",
+      "text": "I forlornly began to carry out the duty Koyomi-sensei\nassigned to me, as Nemu handled the \"cleaning up\" of my\nlunch."
+    },
+    {
+      "offset": 502,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暦先生のご用命を――断れるはずが無い。",
+      "en": "Koyomi's request are special--there's no possibility of\nrefusing more than once, as you won't live to do so.",
+      "text": "Koyomi's request are special--there's no possibility of\nrefusing more than once, as you won't live to do so."
+    },
+    {
+      "offset": 547,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……ったく、それにしたって鍵ぐらい自分で\n　返せっての」",
+      "en": "\"...Blegh, I have to return the key myself as well.\"",
+      "text": "\"...Blegh, I have to return the key myself as well.\""
+    },
+    {
+      "offset": 611,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "用事があるという暦先生は、俺に備品室のキー\nを預け、さっさと帰ってしまったのだ。",
+      "en": "Task done, I prepare to head back and return the key to the\nequipment room to Koyomi.",
+      "text": "Task done, I prepare to head back and return the key to the\nequipment room to Koyomi."
+    },
+    {
+      "offset": 697,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「しかもなんで最上階にあるんだよ、管理室！」",
+      "en": "\"And of course the management room has to be on the top\nfloor!!\"",
+      "text": "\"And of course the management room has to be on the top\nfloor!!\""
+    },
+    {
+      "offset": 748,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 763,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……はぁ」",
+      "en": "\"...Hah.\"",
+      "text": "\"...Hah.\""
+    },
+    {
+      "offset": 782,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "かったる。",
+      "en": "Sucks.",
+      "text": "Sucks."
+    },
+    {
+      "offset": 797,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は惰性で階段を上り、『開閉禁止』と書かれ\nた鉄の扉を開ける――て、扉？",
+      "en": "With the momentum from climbing all those stairs, I open the\niron door with the \"No Entry\" sign on it...wait, door?",
+      "text": "With the momentum from climbing all those stairs, I open the\niron door with the \"No Entry\" sign on it...wait, door?"
+    },
+    {
+      "offset": 873,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 886,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はどこまで来てるんだ！？",
+      "en": "Where the hell have I gone!?",
+      "text": "Where the hell have I gone!?"
+    },
+    {
+      "offset": 967,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「お姉ちゃん、ポン酢ちょうだい」",
+      "en": "\"Sis, the ponzu please.\"",
+      "text": "\"Sis, the ponzu please.\""
+    },
+    {
+      "offset": 1015,
+      "speaker": "???",
+      "speaker_jp": "萌",
+      "jp": "「はい」",
+      "en": "\"Okay.\"",
+      "text": "\"Okay.\""
+    },
+    {
+      "offset": 1041,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ありがと」",
+      "en": "\"Thank you.\"",
+      "text": "\"Thank you.\""
+    },
+    {
+      "offset": 1069,
+      "speaker": "???",
+      "speaker_jp": "萌",
+      "jp": "「大根もいる？」",
+      "en": "\"How about some daikon?\"",
+      "text": "\"How about some daikon?\""
+    },
+    {
+      "offset": 1103,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ううん、いい」",
+      "en": "\"Mm, okay.\"",
+      "text": "\"Mm, okay.\""
+    },
+    {
+      "offset": 1135,
+      "speaker": "???",
+      "speaker_jp": "萌",
+      "jp": "「そう。じゃあ、白菜入れるね」",
+      "en": "\"Alright, then I'd throw in the hakusai as well.\"",
+      "text": "\"Alright, then I'd throw in the hakusai as well.\""
+    },
+    {
+      "offset": 1183,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「うん」",
+      "en": "\"Okay.\"",
+      "text": "\"Okay.\""
+    },
+    {
+      "offset": 1198,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「………………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 1221,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 1234,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんですか……これは？",
+      "en": "What...is this?",
+      "text": "What...is this?"
+    },
+    {
+      "offset": 1261,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "偶然、訪れた場所で行われている団らん。",
+      "en": "There's a weird group in the place I'm at.",
+      "text": "There's a weird group in the place I'm at."
+    },
+    {
+      "offset": 1306,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 1325,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "１、実はこれは夢",
+      "en": "1. This is actually a dream.",
+      "text": "1. This is actually a dream."
+    },
+    {
+      "offset": 1346,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "２、屋上の扉は、実は『どこかへドア』だった",
+      "en": "2. The rooftop door is actually a door to anywhere.",
+      "text": "2. The rooftop door is actually a door to anywhere."
+    },
+    {
+      "offset": 1393,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "３、女の子が屋上で鍋を食べている現実の風景",
+      "en": "3. What I see before my eyes is true; two girls are on the\nrooftop eating from a steampot.",
+      "text": "3. What I see before my eyes is true; two girls are on the\nrooftop eating from a steampot."
+    },
+    {
+      "offset": 1440,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 1453,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――２？",
+      "en": "--2?",
+      "text": "--2?"
+    },
+    {
+      "offset": 1468,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「大穴やなぁ……」",
+      "en": "\"Low odds, I suppose...\"",
+      "text": "\"Low odds, I suppose...\""
+    },
+    {
+      "offset": 1493,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "独りボケつっこみに、世間と屋上の風は冷たい。",
+      "en": "As I stood there dumbfounded, a cold wind blew past.",
+      "text": "As I stood there dumbfounded, a cold wind blew past."
+    },
+    {
+      "offset": 1542,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目の前では、クラスメイトの眞子と、あまり見\n覚えの無い女の子――制服からして本校の学生\nだと思われる――が、食事をしていた。",
+      "en": "In front of me, was my classmate Mako and a girl I didn't\nknow -- wearing the uniform of the main school -- enjoying\nlunch.",
+      "text": "In front of me, was my classmate Mako and a girl I didn't\nknow -- wearing the uniform of the main school -- enjoying\nlunch."
+    },
+    {
+      "offset": 1669,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "キャンプで使うようなテーブルにコンロ、鍋の\n中には、お肉や野菜がグツグツ、グツグツ……。",
+      "en": "There was a table with a cooking stove, the kind used for\ncamping. On it was a pot with meat and vegetables,\nsimmering.",
+      "text": "There was a table with a cooking stove, the kind used for\ncamping. On it was a pot with meat and vegetables,\nsimmering."
+    },
+    {
+      "offset": 1761,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "屋上で弁当……これはよくある。だが……。",
+      "en": "Boxed lunches eaten at the rooftop, I've heard of. But...",
+      "text": "Boxed lunches eaten at the rooftop, I've heard of. But..."
+    },
+    {
+      "offset": 1808,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（屋上で……鍋……？）",
+      "en": "\"(Steampots... at the rooftop?)\"",
+      "text": "\"(Steampots... at the rooftop?)\""
+    },
+    {
+      "offset": 1837,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なぜ、鍋？",
+      "en": "Why a steampot?",
+      "text": "Why a steampot?"
+    },
+    {
+      "offset": 1852,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――ガンッ",
+      "en": "--*Bang*",
+      "text": "--*Bang*"
+    },
+    {
+      "offset": 1903,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あっ」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 1927,
+      "speaker": "???",
+      "speaker_jp": "萌",
+      "jp": "「あ……」",
+      "en": "\"Ah...\"",
+      "text": "\"Ah...\""
+    },
+    {
+      "offset": 1944,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ドアから手が離れ、背後で重い扉が音を立てて\n閉まる。",
+      "en": "I let go of the doorknob, and the door made a loud bang\nbehind me as it shut itself.",
+      "text": "I let go of the doorknob, and the door made a loud bang\nbehind me as it shut itself."
+    },
+    {
+      "offset": 2000,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ようやく俺に気づいたふたりとの間に、一瞬の\n沈黙が流れる。",
+      "en": "Once they noticed it was me though, the moment of\nuncomfortable silence disappeared.",
+      "text": "Once they noticed it was me though, the moment of\nuncomfortable silence disappeared."
+    },
+    {
+      "offset": 2102,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「もう、驚かせないでよ……」",
+      "en": "\"Geez, don't frighten me like that...\"",
+      "text": "\"Geez, don't frighten me like that...\""
+    },
+    {
+      "offset": 2137,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子が驚きさめやらぬ表情で声を漏らす。",
+      "en": "Mako's face was a mixture of surprise and agitation, as she\nmuttered those words.",
+      "text": "Mako's face was a mixture of surprise and agitation, as she\nmuttered those words."
+    },
+    {
+      "offset": 2182,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……なに、してるんだ？」",
+      "en": "\"...What, are you doing?\"",
+      "text": "\"...What, are you doing?\""
+    },
+    {
+      "offset": 2215,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とりあえず、俺はありきたりな質問を眞子に投\nげかけてみる。",
+      "en": "I throw the first, most obvious question at Mako.",
+      "text": "I throw the first, most obvious question at Mako."
+    },
+    {
+      "offset": 2307,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「お昼食べてるの」",
+      "en": "\"Eating lunch, duh.\"",
+      "text": "\"Eating lunch, duh.\""
+    },
+    {
+      "offset": 2332,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昼？　冬に？　こんな所で？",
+      "en": "Lunch? In the winter? Here?",
+      "text": "Lunch? In the winter? Here?"
+    },
+    {
+      "offset": 2365,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2395,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「なによ」",
+      "en": "\"What's with that weird look?\"",
+      "text": "\"What's with that weird look?\""
+    },
+    {
+      "offset": 2412,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まじまじと見つめる俺に、眞子が｛いぶか／訝｝しげな表情\nをする。",
+      "en": "Mako stared at me with a suspicious expression.",
+      "text": "Mako stared at me with a suspicious expression."
+    },
+    {
+      "offset": 2482,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや、このくそ寒い中、アホかな――と」",
+      "en": "\"Well, in this stupidly cold weather, only idiots wou-\"",
+      "text": "\"Well, in this stupidly cold weather, only idiots wou-\""
+    },
+    {
+      "offset": 2557,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「なんですってっ！」",
+      "en": "\"What was that?!\"",
+      "text": "\"What was that?!\""
+    },
+    {
+      "offset": 2612,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「言っとくけど、あたしがしてる訳じゃないか\n　らね。あたしはお姉ちゃんに付き合ってるだ\n　けだから」",
+      "en": "\"Think before you open your mouth. I'm here to meet my\nsister.\"",
+      "text": "\"Think before you open your mouth. I'm here to meet my\nsister.\""
+    },
+    {
+      "offset": 2717,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「お姉ちゃん？」",
+      "en": "\"Sister?\"",
+      "text": "\"Sister?\""
+    },
+    {
+      "offset": 2740,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "部活の先輩かと思ってたら、家族だったのか。",
+      "en": "I thought she looked like a senior from her club activities,\nbut apparently they're related.",
+      "text": "I thought she looked like a senior from her club activities,\nbut apparently they're related."
+    },
+    {
+      "offset": 2817,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「そ。お姉ちゃん」",
+      "en": "\"Yeah, sister.\"",
+      "text": "\"Yeah, sister.\""
+    },
+    {
+      "offset": 2842,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言って、隣に座っている女の子を指差す。",
+      "en": "She pointed to the girl sitting next to her.",
+      "text": "She pointed to the girl sitting next to her."
+    },
+    {
+      "offset": 2938,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あの、｛みずこし／水越｝｛もえ／萌｝と言います。宜しくお願いしま\n　すね」",
+      "en": "\"Um, I'm Mizukoshi Moe. Nice to meet you.\"",
+      "text": "\"Um, I'm Mizukoshi Moe. Nice to meet you.\""
+    },
+    {
+      "offset": 3020,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子の隣で、俺たちのやり取りを眺めていた女\nの子が、ご丁寧にぺこりと頭を下げる。",
+      "en": "The girl sitting next to Mako, and in the middle of our\nconversation, politely bowed towards me.",
+      "text": "The girl sitting next to Mako, and in the middle of our\nconversation, politely bowed towards me."
+    },
+    {
+      "offset": 3106,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ、どうも。朝倉[name]です」",
+      "en": "\"Ah, same here. I'm Asakura [name].\"",
+      "text": "\"Ah, same here. I'm Asakura [name].\""
+    },
+    {
+      "offset": 3143,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺も軽く頭を下げる。",
+      "en": "I lower my head slightly, in a short bow.",
+      "text": "I lower my head slightly, in a short bow."
+    },
+    {
+      "offset": 3170,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「何度か見かけたことがありますよ」",
+      "en": "\"I've seen you around quite a few times before, I think.\"",
+      "text": "\"I've seen you around quite a few times before, I think.\""
+    },
+    {
+      "offset": 3211,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "というか、いつかどこかで、話したこともあっ\nたような気もするようなしないような……。",
+      "en": "Although saying that, we haven't exactly spoken to each\nother...",
+      "text": "Although saying that, we haven't exactly spoken to each\nother..."
+    },
+    {
+      "offset": 3310,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「え？　そうでしたか？」",
+      "en": "\"Ehh? Really?\"",
+      "text": "\"Ehh? Really?\""
+    },
+    {
+      "offset": 3367,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「……ごめんなさい……ポケポケしてて覚えて\n　ないです」",
+      "en": "\"...I'm sorry... I don't remember. I'm a bit slow.\"",
+      "text": "\"...I'm sorry... I don't remember. I'm a bit slow.\""
+    },
+    {
+      "offset": 3455,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あの……ごめんなさい」",
+      "en": "\"Ahh... I'm really sorry.\"",
+      "text": "\"Ahh... I'm really sorry.\""
+    },
+    {
+      "offset": 3486,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "申し訳なさそうにペコリと頭を下げる。",
+      "en": "She sorrowfully bowed her head in apology.",
+      "text": "She sorrowfully bowed her head in apology."
+    },
+    {
+      "offset": 3529,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや、覚えてないならいいです」",
+      "en": "\"Oh, no, it's okay if you don't remember.\"",
+      "text": "\"Oh, no, it's okay if you don't remember.\""
+    },
+    {
+      "offset": 3568,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな頭を下げられたら、こっちまで恐縮して\nしまう。",
+      "en": "To be so apologetic for something as insignificant as that,\nmade me feel ashamed for even bringing it up.",
+      "text": "To be so apologetic for something as insignificant as that,\nmade me feel ashamed for even bringing it up."
+    },
+    {
+      "offset": 3665,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「なにナンパしてんのよ」",
+      "en": "\"Wow, just met and already flirting?\"",
+      "text": "\"Wow, just met and already flirting?\""
+    },
+    {
+      "offset": 3696,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「お前は、今の会話のどこをどう聞いてナンパ\n　にワープするんだ？」",
+      "en": "\"Where and how exactly was that flirting?\"",
+      "text": "\"Where and how exactly was that flirting?\""
+    },
+    {
+      "offset": 3768,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それにしても、眞子に姉がいたとは……意外だ。\nてっきり、一人っ子だとばかり思っていた。",
+      "en": "In any case, Mako has a sister... that's surprising. She's\nalways seemed like an only child to me.",
+      "text": "In any case, Mako has a sister... that's surprising. She's\nalways seemed like an only child to me."
+    },
+    {
+      "offset": 3888,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「で、あんた何しに来たの」",
+      "en": "\"Anyway, why did you come here?\"",
+      "text": "\"Anyway, why did you come here?\""
+    },
+    {
+      "offset": 3921,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「いや、俺は偶然通りかかっただけなんだが」",
+      "en": "\"Nothing, I just accidentally came here.\"",
+      "text": "\"Nothing, I just accidentally came here.\""
+    },
+    {
+      "offset": 3998,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「どうやって偶然、屋上に通りかかれるのよ」",
+      "en": "\"How exactly do you \"accidentally\" come to the rooftop?\"",
+      "text": "\"How exactly do you \"accidentally\" come to the rooftop?\""
+    },
+    {
+      "offset": 4047,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「…………」",
+      "en": "\".....\"",
+      "text": "\".....\""
+    },
+    {
+      "offset": 4066,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「人生色々だ。よしとしようじゃないか」",
+      "en": "\"Human nature. No reason or cause for it.\"",
+      "text": "\"Human nature. No reason or cause for it.\""
+    },
+    {
+      "offset": 4139,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「はぁ……あんたと話すとホント、疲れるわ」",
+      "en": "\"Haah... just talking with you makes me tired.\"",
+      "text": "\"Haah... just talking with you makes me tired.\""
+    },
+    {
+      "offset": 4188,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子がぐったりと肩を落とす。どうも俺と話す\n奴は、途中で元気がなくなる。",
+      "en": "Mako's shoulders dropped limply, as if somehow talking to me\nmade her lose her energy.",
+      "text": "Mako's shoulders dropped limply, as if somehow talking to me\nmade her lose her energy."
+    },
+    {
+      "offset": 4264,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一部、例外はいるが……。",
+      "en": "I guess that could be part of it.......",
+      "text": "I guess that could be part of it......."
+    },
+    {
+      "offset": 4321,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「眞子ちゃんのお友達だったんですね」",
+      "en": "\"So you're Mako's friend.\"",
+      "text": "\"So you're Mako's friend.\""
+    },
+    {
+      "offset": 4364,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「え、まあ……」",
+      "en": "\"Ah, yes...\"",
+      "text": "\"Ah, yes...\""
+    },
+    {
+      "offset": 4413,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「ドアが閉じたときは、もう私ビックリしてし\n　まいました」",
+      "en": "\"You really frightened me when you closed that door.\"",
+      "text": "\"You really frightened me when you closed that door.\""
+    },
+    {
+      "offset": 4477,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ビックリしたというわりには、ニコニコと微笑\nんで、なんだかおっとりとした口調で言う。",
+      "en": "She says she's frightened with a kind smile, complete\nopposites.",
+      "text": "She says she's frightened with a kind smile, complete\nopposites."
+    },
+    {
+      "offset": 4565,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……不思議な人だ。",
+      "en": "...A very curious person.",
+      "text": "...A very curious person."
+    },
+    {
+      "offset": 4590,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「それにしても、なんでこんな所で鍋を？」",
+      "en": "\"So, why bring the steampot here?\"",
+      "text": "\"So, why bring the steampot here?\""
+    },
+    {
+      "offset": 4646,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「眞子ちゃんが教室じゃダメだと言うので」",
+      "en": "\"Mako said that we shouldn't do this in a classroom.\"",
+      "text": "\"Mako said that we shouldn't do this in a classroom.\""
+    },
+    {
+      "offset": 4721,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「あたりまえでしょう。教室でなんか食べれる\n　わけないじゃない」",
+      "en": "\"Of course! The classroom isn't a place for eating.",
+      "text": "\"Of course! The classroom isn't a place for eating."
+    },
+    {
+      "offset": 4791,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "呆れたように言う眞子。",
+      "en": "Mako's words tinged with indignance.",
+      "text": "Mako's words tinged with indignance."
+    },
+    {
+      "offset": 4820,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（なんだか凄い姉妹だな）",
+      "en": "\"(What an amazing pair of sisters.)\"",
+      "text": "\"(What an amazing pair of sisters.)\""
+    },
+    {
+      "offset": 4851,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とんでもないことをしでかしそうな姉と、それ\nをフォローしまくりの妹……。",
+      "en": "The older sibling who says something outrageous, and the\nyounger sister who quickly rebutts it...",
+      "text": "The older sibling who says something outrageous, and the\nyounger sister who quickly rebutts it..."
+    },
+    {
+      "offset": 4927,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "・ ・ ・",
+      "text": "・ ・ ・"
+    },
+    {
+      "offset": 4942,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（なんか、どこかで見たような関係だな）",
+      "en": "\"(Hmm, I feel like I've seen this before...)\"",
+      "text": "\"(Hmm, I feel like I've seen this before...)\""
+    },
+    {
+      "offset": 4987,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「しかし、わざわざこんな寒いところじゃなく\n　ても……部室とかは使えないのか？」",
+      "en": "\"But, such a cold place for doing this sort of thing...\ncouldn't you use one of the club rooms?\"",
+      "text": "\"But, such a cold place for doing this sort of thing...\ncouldn't you use one of the club rooms?\""
+    },
+    {
+      "offset": 5073,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やはり、何か隠れてするとしたら部室に限る。",
+      "en": "And why not any other place for that matter...",
+      "text": "And why not any other place for that matter..."
+    },
+    {
+      "offset": 5150,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「音楽部の部室＝音楽室だもん。無理に決まっ\n　てるじゃん」",
+      "en": "The music club's room isn't exactly a place to mess around\nin.\"",
+      "text": "The music club's room isn't exactly a place to mess around\nin.\""
+    },
+    {
+      "offset": 5214,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「萌先輩は？」",
+      "en": "\"And Moe's?\"",
+      "text": "\"And Moe's?\""
+    },
+    {
+      "offset": 5261,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「私も音楽部ですから」",
+      "en": "\"I'm also in the music club.\"",
+      "text": "\"I'm also in the music club.\""
+    },
+    {
+      "offset": 5290,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あ、先輩も音楽部なんだ」",
+      "en": "\"Ahh, in the music club as well.\"",
+      "text": "\"Ahh, in the music club as well.\""
+    },
+    {
+      "offset": 5349,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 5364,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「眞子はフルートだよな」",
+      "en": "\"Mako's a flutist, right?\"",
+      "text": "\"Mako's a flutist, right?\""
+    },
+    {
+      "offset": 5423,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「まぁね」",
+      "en": "\"Yep.\"",
+      "text": "\"Yep.\""
+    },
+    {
+      "offset": 5440,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "前に聴いたことがあるけど、カスタネットとか\nトライアングル専門の俺が聞く限りでも、かな\nり上手かった。",
+      "en": "Besides the flute, I've heard from others that she's pretty\ngood with the triangle and castanets as well.",
+      "text": "Besides the flute, I've heard from others that she's pretty\ngood with the triangle and castanets as well."
+    },
+    {
+      "offset": 5545,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "吹いている姿が｛りり／凛々｝しいって、女子に人気があ\nるぐらいだからな。",
+      "en": "Girls always seem to prefer the elegance of a wind\ninstrument, though.",
+      "text": "Girls always seem to prefer the elegance of a wind\ninstrument, though."
+    },
+    {
+      "offset": 5623,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「先輩は何です？」",
+      "en": "\"Moe, what about you?\"",
+      "text": "\"Moe, what about you?\""
+    },
+    {
+      "offset": 5674,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「私は木琴です」",
+      "en": "\"Oh, I play the xylophone.\"",
+      "text": "\"Oh, I play the xylophone.\""
+    },
+    {
+      "offset": 5697,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「へぇ、木琴ですか」",
+      "en": "\"Heeeh, the xylophones eh...\"",
+      "text": "\"Heeeh, the xylophones eh...\""
+    },
+    {
+      "offset": 5724,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "｛さすが／流石｝に同じ楽器はやってないか。",
+      "en": "As expected, not the same instrument.",
+      "text": "As expected, not the same instrument."
+    },
+    {
+      "offset": 5771,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "腕前のほどは分からないけど、やっぱ眞子のお\n姉さんだけあって、上手いんだろうか？",
+      "en": "I'm not sure of her skill, but if she's Mako's sister,\nsurely she must be quite good?",
+      "text": "I'm not sure of her skill, but if she's Mako's sister,\nsurely she must be quite good?"
+    },
+    {
+      "offset": 5855,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――グ〜",
+      "en": "--*hiss*",
+      "text": "--*hiss*"
+    },
+    {
+      "offset": 5870,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 5889,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "グツグツグツ――",
+      "en": "--*sputsputsput*",
+      "text": "--*sputsputsput*"
+    },
+    {
+      "offset": 5910,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "テーブルの上では、かなりいい感じでお鍋が煮\nえている。",
+      "en": "On the tabletop, the steampot's contents look like it's been\nboiled to perfection.",
+      "text": "On the tabletop, the steampot's contents look like it's been\nboiled to perfection."
+    },
+    {
+      "offset": 5968,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "にゅるどんを食べ損ねた俺の腹も、負けずにい\nい感じで減っている。",
+      "en": "My stomach, still lamenting the loss of it's nyuru-don,\neasily lost to the smell and rumbled.",
+      "text": "My stomach, still lamenting the loss of it's nyuru-don,\neasily lost to the smell and rumbled."
+    },
+    {
+      "offset": 6066,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「……ダサ」",
+      "en": "\"...That's rude.\"",
+      "text": "\"...That's rude.\""
+    },
+    {
+      "offset": 6085,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「仕方ないだろうが、｛・・／色々｝あって昼飯を食べてい\n　ないんだから」",
+      "en": "\"It can't be helped. I didn't manage to eat lunch today.\"",
+      "text": "\"It can't be helped. I didn't manage to eat lunch today.\""
+    },
+    {
+      "offset": 6189,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あの、よかったら一緒に食べませんか？」",
+      "en": "\"Um, then could you eat with us?\"",
+      "text": "\"Um, then could you eat with us?\""
+    },
+    {
+      "offset": 6236,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「え、いいんですか？」",
+      "en": "\"Eh, is that alright?\"",
+      "text": "\"Eh, is that alright?\""
+    },
+    {
+      "offset": 6302,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい。お鍋は大勢で囲った方がおいしいです\n　から」",
+      "en": "\"Yes. The more people eating from a steampot, the more\ndelicious it is.\"",
+      "text": "\"Yes. The more people eating from a steampot, the more\ndelicious it is.\""
+    },
+    {
+      "offset": 6360,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "優しく微笑みを浮かべる萌先輩。表情負けしな\nい、優しい心をもった人だ。",
+      "en": "Moe gave a gentle smile with her words, and I lost to it\ninstantly. Definitely a kind-hearted girl.",
+      "text": "Moe gave a gentle smile with her words, and I lost to it\ninstantly. Definitely a kind-hearted girl."
+    },
+    {
+      "offset": 6436,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いや、それじゃあお言葉に甘えて」",
+      "en": "\"In that case, I gratefully accept.\"",
+      "text": "\"In that case, I gratefully accept.\""
+    },
+    {
+      "offset": 6503,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「どうぞ」",
+      "en": "\"Please do.\"",
+      "text": "\"Please do.\""
+    },
+    {
+      "offset": 6520,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の前に箸と皿が差し出される。",
+      "en": "She handed out a pair of chopsticks and a plate to me.",
+      "text": "She handed out a pair of chopsticks and a plate to me."
+    },
+    {
+      "offset": 6557,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（予備？）",
+      "en": "\"(A spare?)\"",
+      "text": "\"(A spare?)\""
+    },
+    {
+      "offset": 6574,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いったい、何人分の食器があるんだ？",
+      "en": "Just how many sets of tableware does she have?",
+      "text": "Just how many sets of tableware does she have?"
+    },
+    {
+      "offset": 6613,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "他にもテーブルの上には、グツグツ煮える鍋、\nポン酢と大根おろしと、錠剤のビンが置かれて\nいた。",
+      "en": "On the table, along with the simmering pot, ponzu and grated\ndaikon, was a bottle of pills.",
+      "text": "On the table, along with the simmering pot, ponzu and grated\ndaikon, was a bottle of pills."
+    },
+    {
+      "offset": 6712,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「錠剤？　風邪でも引いているんですか？」",
+      "en": "\"Pills? Do you have a cold?\"",
+      "text": "\"Pills? Do you have a cold?\""
+    },
+    {
+      "offset": 6768,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「えっ？」",
+      "en": "\"Ehh?\"",
+      "text": "\"Ehh?\""
+    },
+    {
+      "offset": 6794,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「いえ、これは栄養剤なんです……」",
+      "en": "\"Ah, these are nutrient pills...\"",
+      "text": "\"Ah, these are nutrient pills...\""
+    },
+    {
+      "offset": 6852,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「栄養剤？」",
+      "en": "\"Nutrient pills?\"",
+      "text": "\"Nutrient pills?\""
+    },
+    {
+      "offset": 6871,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こんな立派な昼食を食べてるのに、とてもそん\nなのが必要には思えないんだけど……。",
+      "en": "For such an elaborate lunch, they don't really seem to be\nrequired...",
+      "text": "For such an elaborate lunch, they don't really seem to be\nrequired..."
+    },
+    {
+      "offset": 6957,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（もしかして、答えにくい薬なのかな）",
+      "en": "(\"Maybe they're a different type of medicine...)\"",
+      "text": "(\"Maybe they're a different type of medicine...)\""
+    },
+    {
+      "offset": 7000,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……よく分からないが、女の子だと色々とある\nみたいだからな。",
+      "en": "...I don't really understand, but that's typical of women I\nsuppose...",
+      "text": "...I don't really understand, but that's typical of women I\nsuppose..."
+    },
+    {
+      "offset": 7064,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 7098,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「じゃあ鍋、ありがたく頂きますね」",
+      "en": "\"Well then, thank you for the meal.\"",
+      "text": "\"Well then, thank you for the meal.\""
+    },
+    {
+      "offset": 7139,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "深くはツッこまないことにして、そそくさと鍋\nに箸をのばす。",
+      "en": "I plunged my chopsticks into the pot.",
+      "text": "I plunged my chopsticks into the pot."
+    },
+    {
+      "offset": 7240,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい」",
+      "en": "\"It's okay.\"",
+      "text": "\"It's okay.\""
+    },
+    {
+      "offset": 7281,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「いつもここで食べてますから、よかったらま\n　たいらして下さい」",
+      "en": "\"Feel free to come here to eat lunch whenever you want.\"",
+      "text": "\"Feel free to come here to eat lunch whenever you want.\""
+    },
+    {
+      "offset": 7351,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「えっ、いいんですか？」",
+      "en": "\"Wow, is that really okay?\"",
+      "text": "\"Wow, is that really okay?\""
+    },
+    {
+      "offset": 7408,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい」",
+      "en": "\"Of course.\"",
+      "text": "\"Of course.\""
+    },
+    {
+      "offset": 7440,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「是非！」",
+      "en": "\"By all means!\"",
+      "text": "\"By all means!\""
+    },
+    {
+      "offset": 7457,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は素晴らしい提案を、もちろん快諾する。",
+      "en": "I immediately consented to the wonderful invitation.",
+      "text": "I immediately consented to the wonderful invitation."
+    },
+    {
+      "offset": 7502,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さようなら、これまでの機械生産な食べ物たち。\nこんにちは、これからの愛情溢れる手料理たち。",
+      "en": "Farewell, my old days of vending machine lunches. Welcome,\nmy new days of love-filled home-cooking!",
+      "text": "Farewell, my old days of vending machine lunches. Welcome,\nmy new days of love-filled home-cooking!"
+    },
+    {
+      "offset": 7596,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はこれからの両手に花（？）な昼休みを妄想\nし、空の皿を持ったまま表情をほぐす。",
+      "en": "With the thought of two flowers (?) beside me every day for\nlunch, I lifted my plate into the air with joy.",
+      "text": "With the thought of two flowers (?) beside me every day for\nlunch, I lifted my plate into the air with joy."
+    },
+    {
+      "offset": 7693,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「はぁ……」",
+      "en": "\"Haah...\"",
+      "text": "\"Haah...\""
+    },
+    {
+      "offset": 7712,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子の溜め息が、人知れず鍋の煮える音にかき\n消された。",
+      "en": "Mako's sigh was quickly drowned out by the sound of the\nsimmering steampot.",
+      "text": "Mako's sigh was quickly drowned out by the sound of the\nsimmering steampot."
+    },
+    {
+      "offset": 7874,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆屋上への招待状◆",
+      "en": "◆Invitation to the Rooftop◆",
+      "text": "◆Invitation to the Rooftop◆"
+    },
+    {
+      "offset": 7923,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "偶然、屋上に通りかかったところ、クラスメイ\nトの水越眞子と謎の先輩に出会う。",
+      "en": "Surprisingly, when I visited the rooftop, I met my classmate\nMizukoshi Mako, with a mysterious senior.",
+      "text": "Surprisingly, when I visited the rooftop, I met my classmate\nMizukoshi Mako, with a mysterious senior."
+    },
+    {
+      "offset": 8003,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんでも眞子のお姉さんで萌という名前だそう\nだが……それにしてもなんで屋上で鍋を？",
+      "en": "Apparently it was Mako's older sister, Moe... and what about\nthe pot at the rooftop?",
+      "text": "Apparently it was Mako's older sister, Moe... and what about\nthe pot at the rooftop?"
+    },
+    {
+      "offset": 8089,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、可愛い先輩と知り合いになれたことだし、\nその上これからも鍋をご馳走してくれるってこ\nとだし、気にしなくてもいいか。",
+      "en": "Well, after meeting a cute senior and enjoying a pot feast,\nthat's more or less insignificant.",
+      "text": "Well, after meeting a cute senior and enjoying a pot feast,\nthat's more or less insignificant."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "959": "Mako",
+    "1009": "???",
+    "1033": "Mako",
+    "1063": "???",
+    "1095": "Mako",
+    "1129": "???",
+    "1175": "Mako",
+    "1895": "Mako",
+    "1921": "???",
+    "2094": "Mako",
+    "2299": "Mako",
+    "2387": "Mako",
+    "2549": "Mako",
+    "2604": "Mako",
+    "2809": "Mako",
+    "2932": "Moe",
+    "3304": "Moe",
+    "3361": "Moe",
+    "3449": "Moe",
+    "3657": "Mako",
+    "3880": "Mako",
+    "3990": "Mako",
+    "4131": "Mako",
+    "4315": "Moe",
+    "4407": "Moe",
+    "4640": "Moe",
+    "4713": "Mako",
+    "5142": "Mako",
+    "5255": "Moe",
+    "5343": "Moe",
+    "5415": "Mako",
+    "5668": "Moe",
+    "6058": "Mako",
+    "6183": "Moe",
+    "6296": "Moe",
+    "6497": "Moe",
+    "6762": "Moe",
+    "6788": "Moe",
+    "7234": "Moe",
+    "7275": "Moe",
+    "7402": "Moe",
+    "7685": "Mako"
+  }
+}

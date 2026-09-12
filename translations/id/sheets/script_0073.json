@@ -1,0 +1,295 @@
+{
+  "scene": "script_0073.obj",
+  "dialogues": [
+    {
+      "offset": 139,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「中庭で｛ひなた／日向｝ぼっこでもするか」",
+      "en": "\"Shall I sunbathe in the center court?\"",
+      "text": "\"Shall I sunbathe in the center court?\""
+    },
+    {
+      "offset": 188,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "せっかくのいい天気だし、たまには外でのんび\nりするのもいいだろう。",
+      "en": "It's a beautiful day, and sometimes it's nice to relax\noutside.",
+      "text": "It's a beautiful day, and sometimes it's nice to relax\noutside."
+    },
+    {
+      "offset": 297,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふぅ……」",
+      "en": "\"Ahhh......\"",
+      "text": "\"Ahhh......\""
+    },
+    {
+      "offset": 316,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぽかぽかとした太陽の光を全身に感じながら、\nゆっくりと歩く。",
+      "en": "I walked slowly, enjoying the warm sun on my body.",
+      "text": "I walked slowly, enjoying the warm sun on my body."
+    },
+    {
+      "offset": 382,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まるで散歩みたいだな」",
+      "en": "\"It's like a proper walk.\"",
+      "text": "\"It's like a proper walk.\""
+    },
+    {
+      "offset": 413,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "って言うか、散歩そのままか……。",
+      "en": "I guess it is a proper walk......",
+      "text": "I guess it is a proper walk......"
+    },
+    {
+      "offset": 474,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「？」",
+      "en": "\"?\"",
+      "text": "\"?\""
+    },
+    {
+      "offset": 487,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何かを探すように、きょろきょろと辺りに視線\nを向けながら、暦先生が歩いて来る。",
+      "en": "Koyomi-sensei was looking around as if she was trying to\nfind something.",
+      "text": "Koyomi-sensei was looking around as if she was trying to\nfind something."
+    },
+    {
+      "offset": 571,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「先生、なにか探しものですか？」",
+      "en": "\"Are you looking for something?\"",
+      "text": "\"Are you looking for something?\""
+    },
+    {
+      "offset": 619,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ん？　朝倉か……まあな」",
+      "en": "\"Um? Oh, Asakura...... Yeah, kind of.\"",
+      "text": "\"Um? Oh, Asakura...... Yeah, kind of.\""
+    },
+    {
+      "offset": 652,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言いながらも、暦先生は周囲に視線を送り\nつづける。",
+      "en": "She kept looking around while talking.",
+      "text": "She kept looking around while talking."
+    },
+    {
+      "offset": 710,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "よっぽど大切なものを探しているみたいだ。",
+      "en": "She must have lost something very important.",
+      "text": "She must have lost something very important."
+    },
+    {
+      "offset": 766,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「なぁ朝倉、猫を見なかったか？」",
+      "en": "\"Asakura, did you see a cat?\"",
+      "text": "\"Asakura, did you see a cat?\""
+    },
+    {
+      "offset": 805,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「猫？」",
+      "en": "\"A cat?\"",
+      "text": "\"A cat?\""
+    },
+    {
+      "offset": 820,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "飼ってる猫でも逃げ出したんだろうか？",
+      "en": "Did she lose her cat?",
+      "text": "Did she lose her cat?"
+    },
+    {
+      "offset": 872,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ああ。いつも芳乃と一緒にいる猫だ」",
+      "en": "\"Yeah. You know, the one which is always with Sakura.\"",
+      "text": "\"Yeah. You know, the one which is always with Sakura.\""
+    },
+    {
+      "offset": 915,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ああ、あの猫ですか」",
+      "en": "\"Oh, that cat.\"",
+      "text": "\"Oh, that cat.\""
+    },
+    {
+      "offset": 944,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「いえ、見ませんでしたけど」",
+      "en": "\"No, I haven't seen it.\"",
+      "text": "\"No, I haven't seen it.\""
+    },
+    {
+      "offset": 979,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「にしても、何で暦先生がさくらの猫を探して\n　いるんです？」",
+      "en": "\"But why are you looking for Sakura's cat?\"",
+      "text": "\"But why are you looking for Sakura's cat?\""
+    },
+    {
+      "offset": 1054,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「いや、あの猫がどうやって自立歩行をしてい\n　るのか興味があってな。ちょっと解剖してみ\n　ようかと思っただけなんだが」",
+      "en": "\"Well, I was interested to know how that cat walks on two\nlegs. I thought of opening it up to check how it is\npossible.\"",
+      "text": "\"Well, I was interested to know how that cat walks on two\nlegs. I thought of opening it up to check how it is\npossible.\""
+    },
+    {
+      "offset": 1177,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1196,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ちょっと思っただけって……。",
+      "en": "She thought of opening it up......?",
+      "text": "She thought of opening it up......?"
+    },
+    {
+      "offset": 1231,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「先生の専門って、機械工学じゃなかったでし\n　たっけ？」",
+      "en": "\"Isn't your specialty in General Engineering?\"",
+      "text": "\"Isn't your specialty in General Engineering?\""
+    },
+    {
+      "offset": 1302,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「いや。機械工学と生物工学だ」",
+      "en": "\"Not only that, but also Artificial Intelligence.\"",
+      "text": "\"Not only that, but also Artificial Intelligence.\""
+    },
+    {
+      "offset": 1339,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1367,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「他の講師も、口では興味のないようなことを\n　言っていたが、本心ではどうだか分からない\n　し早めに確保せねば」",
+      "en": "\"The other teachers are pretending that they're not\ninterested, but I never know if they mean it or not.\"",
+      "text": "\"The other teachers are pretending that they're not\ninterested, but I never know if they mean it or not.\""
+    },
+    {
+      "offset": 1482,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1501,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あの猫は無事にここから生きて出られるのか？",
+      "en": "Will the cat be able to leave the school alive?",
+      "text": "Will the cat be able to leave the school alive?"
+    },
+    {
+      "offset": 1559,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「朝倉も、あの猫を見つけたらあたしに知らせ\n　るんだよ」",
+      "en": "\"Report to me if you find the cat, ok?\"",
+      "text": "\"Report to me if you find the cat, ok?\""
+    },
+    {
+      "offset": 1630,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の返答を聞かず、暦先生は校舎の中に入って\nいく。別の場所を探しに行くつもりなのだろう。",
+      "en": "She didn't wait for my answer, but went towards the entrance\nof the school building. She must be going to look for it\nthere next.",
+      "text": "She didn't wait for my answer, but went towards the entrance\nof the school building. She must be going to look for it\nthere next."
+    },
+    {
+      "offset": 1722,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 1735,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ま、さくらがついていれば大丈夫だろう。",
+      "en": "I have nothing to worry about as long as the cat is with\nSakura.",
+      "text": "I have nothing to worry about as long as the cat is with\nSakura."
+    },
+    {
+      "offset": 1882,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆暦先生とうたまる◆",
+      "en": "◆Koyomi-sensei and Utamaru◆",
+      "text": "◆Koyomi-sensei and Utamaru◆"
+    },
+    {
+      "offset": 1931,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暦先生が、猫を探していた。",
+      "en": "Koyomi-sensei was looking for a cat.",
+      "text": "Koyomi-sensei was looking for a cat."
+    },
+    {
+      "offset": 1962,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その猫とは、うたまるの事らしい。興味がある\nと称して、解剖したがっていたが、止めて欲し\nいぞ、そういう事は……。",
+      "en": "I found out that the cat she was looking for was Utamaru.\nShe said she is interested in opening up the cat for her\ncuriosity, but I don't like that idea......",
+      "text": "I found out that the cat she was looking for was Utamaru.\nShe said she is interested in opening up the cat for her\ncuriosity, but I don't like that idea......"
+    }
+  ],
+  "choices": [],
+  "names": {
+    "613": "Koyomi",
+    "760": "Koyomi",
+    "866": "Koyomi",
+    "1048": "Koyomi",
+    "1296": "Koyomi",
+    "1361": "Koyomi",
+    "1553": "Koyomi"
+  }
+}

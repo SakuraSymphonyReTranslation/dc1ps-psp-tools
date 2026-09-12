@@ -1,0 +1,797 @@
+{
+  "scene": "script_0586.obj",
+  "dialogues": [
+    {
+      "offset": 159,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 172,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 185,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "白い。",
+      "en": "It's white.",
+      "text": "It's white."
+    },
+    {
+      "offset": 196,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "白い夢を見た。",
+      "en": "I had a white dream.",
+      "text": "I had a white dream."
+    },
+    {
+      "offset": 215,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして――",
+      "en": "And......",
+      "text": "And......"
+    },
+    {
+      "offset": 230,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺を呼ぶ声を聞いた。",
+      "en": "I heard a voice calling my name.",
+      "text": "I heard a voice calling my name."
+    },
+    {
+      "offset": 289,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢がいた。",
+      "en": "I saw Nemu.",
+      "text": "I saw Nemu."
+    },
+    {
+      "offset": 306,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どこにも行く当てのないことを象徴するような、\nなにもない空間で、音夢が泣いていた。",
+      "en": "Nemu was crying in the empty space with nothing around her.",
+      "text": "Nemu was crying in the empty space with nothing around her."
+    },
+    {
+      "offset": 392,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そこは見知らぬ場所。",
+      "en": "I've never seen this place before.",
+      "text": "I've never seen this place before."
+    },
+    {
+      "offset": 417,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "知っている人もいない。",
+      "en": "There was nobody that we knew.",
+      "text": "There was nobody that we knew."
+    },
+    {
+      "offset": 444,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "心配になって声をかけてくれる人もいたけれど、\nあいつはそんなときだけ笑顔になって。",
+      "en": "Some people came worrying about her, but she smiled at them.",
+      "text": "Some people came worrying about her, but she smiled at them."
+    },
+    {
+      "offset": 543,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ……大丈夫です」",
+      "en": "\"I'm all right......\"",
+      "text": "\"I'm all right......\""
+    },
+    {
+      "offset": 570,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな、バカの見本みたいに笑うのだ。",
+      "en": "She smiled at them like an idiot.",
+      "text": "She smiled at them like an idiot."
+    },
+    {
+      "offset": 624,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……お兄ちゃん……おうち帰りたいよ……」",
+      "en": "\"Oniichan...... I want to go home......\"",
+      "text": "\"Oniichan...... I want to go home......\""
+    },
+    {
+      "offset": 684,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「はぅ……っく……うううう……」",
+      "en": "\"Mm...... Ouch......\"",
+      "text": "\"Mm...... Ouch......\""
+    },
+    {
+      "offset": 734,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ぁ……痛い……足……ぅうう」",
+      "en": "\"My feet...... They hurt......\"",
+      "text": "\"My feet...... They hurt......\""
+    },
+    {
+      "offset": 771,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "靴擦れでも起こしたのか、歩き方がぎこちなく\nなる。",
+      "en": "She walks awkwardly, maybe she's got blisters on her feet.",
+      "text": "She walks awkwardly, maybe she's got blisters on her feet."
+    },
+    {
+      "offset": 838,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……お兄ちゃん……お兄ちゃん！」",
+      "en": "\"Oniichan...... Oniichan......\"",
+      "text": "\"Oniichan...... Oniichan......\""
+    },
+    {
+      "offset": 879,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「バカ」",
+      "en": "\"Idiot.\"",
+      "text": "\"Idiot.\""
+    },
+    {
+      "offset": 920,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そっと、男の子が音夢の手をとった。",
+      "en": "The boy took her hand.",
+      "text": "The boy took her hand."
+    },
+    {
+      "offset": 972,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 991,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「どうしたバカ」",
+      "en": "\"What happened? Idiot.\"",
+      "text": "\"What happened? Idiot.\""
+    },
+    {
+      "offset": 1025,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……お兄ちゃん？」",
+      "en": "\"......Oniichan?\"",
+      "text": "\"......Oniichan?\""
+    },
+    {
+      "offset": 1052,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「それ以外あるかバカ」",
+      "en": "\"Who else could it be? Idiot.\"",
+      "text": "\"Who else could it be? Idiot.\""
+    },
+    {
+      "offset": 1092,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1122,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……バカって言うほうがバカなんだよ」",
+      "en": "\"Stupid is as stupid does.\"",
+      "text": "\"Stupid is as stupid does.\""
+    },
+    {
+      "offset": 1167,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ほーこーおんち」",
+      "en": "\"You have no sense of direction.\"",
+      "text": "\"You have no sense of direction.\""
+    },
+    {
+      "offset": 1203,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……っぅぅぅ」",
+      "en": "\"Boohoo......\"",
+      "text": "\"Boohoo......\""
+    },
+    {
+      "offset": 1226,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あぁ！　分かった！　泣くな……かったるい」",
+      "en": "\"Ah! Fine. Stop crying...... what a pain......\"",
+      "text": "\"Ah! Fine. Stop crying...... what a pain......\""
+    },
+    {
+      "offset": 1277,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "男の子がポケットに手を入れる振りをして、た\nめ息まじりにお菓子を作り出す。",
+      "en": "The boy acts like he reaches into his pocket and pulls out a\nsnack with a sigh.",
+      "text": "The boy acts like he reaches into his pocket and pulls out a\nsnack with a sigh."
+    },
+    {
+      "offset": 1357,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「これやるから泣き止め」",
+      "en": "\"I'll give you this, so stop crying.\"",
+      "text": "\"I'll give you this, so stop crying.\""
+    },
+    {
+      "offset": 1399,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あ、またお菓子……いっぱい」",
+      "en": "\"Snack...... again...... so much.\"",
+      "text": "\"Snack...... again...... so much.\""
+    },
+    {
+      "offset": 1436,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「足りなかったらもう少しなら出せるからな」",
+      "en": "\"II have more if you want.\"",
+      "text": "\"II have more if you want.\""
+    },
+    {
+      "offset": 1496,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「おばあちゃんみたいだね」",
+      "en": "\"Just like grandma.\"",
+      "text": "\"Just like grandma.\""
+    },
+    {
+      "offset": 1529,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ようやく音夢が笑った。",
+      "en": "Nemu smiled finally.",
+      "text": "Nemu smiled finally."
+    },
+    {
+      "offset": 1558,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 1584,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「さくらちゃんの、おばあちゃんもね、そうやっ\n　ていっぱいお菓子くれるんだよ」",
+      "en": "\"Sakura's grandma does the same thing and she gives us a lot\nof candies.\"",
+      "text": "\"Sakura's grandma does the same thing and she gives us a lot\nof candies.\""
+    },
+    {
+      "offset": 1668,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「あぁ」",
+      "en": "\"Oh.\"",
+      "text": "\"Oh.\""
+    },
+    {
+      "offset": 1683,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それは、そうだろう……。",
+      "en": "I'm sure.",
+      "text": "I'm sure."
+    },
+    {
+      "offset": 1712,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あの人は魔法使いだ。",
+      "en": "She's a witch.",
+      "text": "She's a witch."
+    },
+    {
+      "offset": 1739,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、今日はなんで道に迷ったんだ？」",
+      "en": "\"So why did you get lost today?\"",
+      "text": "\"So why did you get lost today?\""
+    },
+    {
+      "offset": 1793,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ぁ」",
+      "en": "\"Mm...\"",
+      "text": "\"Mm...\""
+    },
+    {
+      "offset": 1806,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なんだよ」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 1836,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「言ったらお兄ちゃん、絶対わたしをバカにす\n　るもん」",
+      "en": "\"You'd tease me if I told you.\"",
+      "text": "\"You'd tease me if I told you.\""
+    },
+    {
+      "offset": 1896,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ほーこーおんち」",
+      "en": "\"No sense of direction......\"",
+      "text": "\"No sense of direction......\""
+    },
+    {
+      "offset": 1932,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ぅぅぅぅ……」",
+      "en": "\"Boohoo...\"",
+      "text": "\"Boohoo...\""
+    },
+    {
+      "offset": 1966,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「猫さん追っかけてたら……」",
+      "en": "\"I was chasing a cat......\"",
+      "text": "\"I was chasing a cat......\""
+    },
+    {
+      "offset": 2001,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「猫？」",
+      "en": "\"A cat?\"",
+      "text": "\"A cat?\""
+    },
+    {
+      "offset": 2027,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「猫さんを追っかけてたら、道に迷った……」",
+      "en": "\"I got lost chasing a cat around......\"",
+      "text": "\"I got lost chasing a cat around......\""
+    },
+    {
+      "offset": 2076,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「猫バカ」",
+      "en": "\"Stupid cat.\"",
+      "text": "\"Stupid cat.\""
+    },
+    {
+      "offset": 2104,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「猫さんはバカじゃないもん！」",
+      "en": "\"That cat isn't stupid!\"",
+      "text": "\"That cat isn't stupid!\""
+    },
+    {
+      "offset": 2141,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「猫……ねぇ」",
+      "en": "\"A cat......\"",
+      "text": "\"A cat......\""
+    },
+    {
+      "offset": 2162,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "男の子はため息をついて、猫、猫と呟く。",
+      "en": "The boy sighed and mumbled.",
+      "text": "The boy sighed and mumbled."
+    },
+    {
+      "offset": 2207,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ、なるほど」",
+      "en": "\"Oh, I got it.\"",
+      "text": "\"Oh, I got it.\""
+    },
+    {
+      "offset": 2241,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ん、どうしたの、お兄ちゃん？」",
+      "en": "\"Huh? What is it, oniichan?\"",
+      "text": "\"Huh? What is it, oniichan?\""
+    },
+    {
+      "offset": 2280,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いや……なんでもない」",
+      "en": "\"No...... Nothing.\"",
+      "text": "\"No...... Nothing.\""
+    },
+    {
+      "offset": 2311,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それは名案だった。",
+      "en": "It was a great idea.",
+      "text": "It was a great idea."
+    },
+    {
+      "offset": 2334,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢に猫みたいに鈴をつけといたら、すぐに見\nつかるかも知れない。",
+      "en": "I could find Nemu right away, if I made her wear a bell like\na cat.",
+      "text": "I could find Nemu right away, if I made her wear a bell like\na cat."
+    },
+    {
+      "offset": 2415,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「なに笑ってるの？」",
+      "en": "\"Why are you laughing?\"",
+      "text": "\"Why are you laughing?\""
+    },
+    {
+      "offset": 2442,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「バカ」",
+      "en": "\"Idiot.\"",
+      "text": "\"Idiot.\""
+    },
+    {
+      "offset": 2468,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ぅぅぅぅぅ……」",
+      "en": "\"Waaahhh...\"",
+      "text": "\"Waaahhh...\""
+    },
+    {
+      "offset": 2504,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いいもん……大きくなったら、絶対お兄ちゃ\n　んのことバカバカ言うもん」",
+      "en": "\"I swear I'll call you an idiot over and over when I grow\nup.\"",
+      "text": "\"I swear I'll call you an idiot over and over when I grow\nup.\""
+    },
+    {
+      "offset": 2582,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「はは、出来るもんならやってみ」",
+      "en": "\"I'll be looking forward to that.\"",
+      "text": "\"I'll be looking forward to that.\""
+    },
+    {
+      "offset": 2632,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「やるもん」",
+      "en": "\"I'm serious.\"",
+      "text": "\"I'm serious.\""
+    },
+    {
+      "offset": 2651,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……そっか」",
+      "en": "\"...Okay.\"",
+      "text": "\"...Okay.\""
+    },
+    {
+      "offset": 2672,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢は気が付いていないが、男の子はうつむく\n女の子をやさしく見つめている。",
+      "en": "Nemu doesn't realize the boy's looking at her with gentle\neyes as she looks down.",
+      "text": "Nemu doesn't realize the boy's looking at her with gentle\neyes as she looks down."
+    },
+    {
+      "offset": 2750,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そうして、ふたりは白い闇の中に消えた。",
+      "en": "And the two of them disappeared in white hazy cloud.",
+      "text": "And the two of them disappeared in white hazy cloud."
+    },
+    {
+      "offset": 2809,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 2824,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2843,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……あれ？」",
+      "en": "\"......Huh?\"",
+      "text": "\"......Huh?\""
+    },
+    {
+      "offset": 2864,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なにかおかしかった。",
+      "en": "Something's wrong.",
+      "text": "Something's wrong."
+    },
+    {
+      "offset": 2891,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……変だ、なんか変だよな」",
+      "en": "\"......It's weird. Something's different.\"",
+      "text": "\"......It's weird. Something's different.\""
+    },
+    {
+      "offset": 2926,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あれ？」",
+      "en": "\"What is it?\"",
+      "text": "\"What is it?\""
+    },
+    {
+      "offset": 2956,
+      "speaker": "???",
+      "speaker_jp": "？？？",
+      "jp": "「あ、鈴と呼び方」",
+      "en": "\"The bell and her name.\"",
+      "text": "\"The bell and her name.\""
+    },
+    {
+      "offset": 2981,
+      "speaker": "???",
+      "speaker_jp": "？？？",
+      "jp": "「え……あ、そっか、鈴と呼び方が合ってない」",
+      "en": "\"What? Oh, that's right. The bell and the name she calls me\ndon't make sense.\"",
+      "text": "\"What? Oh, that's right. The bell and the name she calls me\ndon't make sense.\""
+    },
+    {
+      "offset": 3032,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢に鈴をあげたのは、あいつが正式に俺の妹\nになる前のことだ。",
+      "en": "I gave her the bell before she officially became my sister.",
+      "text": "I gave her the bell before she officially became my sister."
+    },
+    {
+      "offset": 3098,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そうなると、この夢の音夢の呼び方は間違って\nいる。",
+      "en": "That means the name she called me by was wrong.",
+      "text": "That means the name she called me by was wrong."
+    },
+    {
+      "offset": 3152,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まぁ、夢なので、時系列にきっちりと沿ってい\nなくても仕方ないのだが……。",
+      "en": "It's just a dream, so I guess the time frames got mixed\nup......",
+      "text": "It's just a dream, so I guess the time frames got mixed\nup......"
+    },
+    {
+      "offset": 3243,
+      "speaker": "???",
+      "speaker_jp": "？？？",
+      "jp": "「甘え……なんだろうな」",
+      "en": "\"Maybe I'm being emotionally dependent......\"",
+      "text": "\"Maybe I'm being emotionally dependent......\""
+    },
+    {
+      "offset": 3274,
+      "speaker": "???",
+      "speaker_jp": "？？？",
+      "jp": "「だな……ん？」",
+      "en": "\"I guess...... Huh?\"",
+      "text": "\"I guess...... Huh?\""
+    },
+    {
+      "offset": 3297,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…………。",
+      "en": "............",
+      "text": "............"
+    },
+    {
+      "offset": 3327,
+      "speaker": "???",
+      "speaker_jp": "？？？",
+      "jp": "「……ん？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 3346,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "な――！？",
+      "en": "What!?",
+      "text": "What!?"
+    },
+    {
+      "offset": 3361,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "慌てて辺りを見渡すが、もちろん、身体のない\n俺を含めて白い空間にはなにもない。",
+      "en": "I looked around me, but there was nobody in this white\nspace, including myself.",
+      "text": "I looked around me, but there was nobody in this white\nspace, including myself."
+    },
+    {
+      "offset": 3443,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なのに――。",
+      "en": "But still......",
+      "text": "But still......"
+    },
+    {
+      "offset": 3473,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「夢……か……」",
+      "en": "\"Is this a dream?\"",
+      "text": "\"Is this a dream?\""
+    },
+    {
+      "offset": 3496,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やはり音夢の声がした。",
+      "en": "It was Nemu's voice.",
+      "text": "It was Nemu's voice."
+    },
+    {
+      "offset": 3523,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "電話の混線のように、まったくかみ合っていな\nい思念が伝わる。",
+      "en": "I could hear what she was saying, but I couldn't communicate\nwith her... as if it was a crossed telephone line.",
+      "text": "I could hear what she was saying, but I couldn't communicate\nwith her... as if it was a crossed telephone line."
+    },
+    {
+      "offset": 3600,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「懐かしい……」",
+      "en": "\"It's such a long time ago......\"",
+      "text": "\"It's such a long time ago......\""
+    },
+    {
+      "offset": 3623,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 3636,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 3750,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆迷子の夢◆",
+      "en": "◆A dream of the lost child◆",
+      "text": "◆A dream of the lost child◆"
+    },
+    {
+      "offset": 3800,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "子供の頃の夢を見た。",
+      "en": "I had a dream about when I was a kid.",
+      "text": "I had a dream about when I was a kid."
+    },
+    {
+      "offset": 3825,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "迷子の音夢の夢。そこで俺は、音夢の首に鈴を\nつけることを思いついたのだ……。",
+      "en": "It was about the time Nemu got lost. That's when I thought\nabout putting a bell on her neck.",
+      "text": "It was about the time Nemu got lost. That's when I thought\nabout putting a bell on her neck."
+    },
+    {
+      "offset": 3905,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな懐かしさに浸っている中、なぜか夢の中\nで今の音夢の声を聞いた。",
+      "en": "As I was thinking about how it happened, I heard Nemu's\nvoice in my dream.",
+      "text": "As I was thinking about how it happened, I heard Nemu's\nvoice in my dream."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "535": "Nemu",
+    "616": "Nemu",
+    "676": "Nemu",
+    "726": "Nemu",
+    "830": "Nemu",
+    "964": "Nemu",
+    "1017": "Nemu",
+    "1084": "Nemu",
+    "1114": "Nemu",
+    "1195": "Nemu",
+    "1391": "Nemu",
+    "1488": "Nemu",
+    "1576": "Nemu",
+    "1785": "Nemu",
+    "1828": "Nemu",
+    "1924": "Nemu",
+    "1958": "Nemu",
+    "2019": "Nemu",
+    "2096": "Nemu",
+    "2233": "Nemu",
+    "2407": "Nemu",
+    "2460": "Nemu",
+    "2496": "Nemu",
+    "2624": "Nemu",
+    "2946": "???",
+    "3233": "???",
+    "3317": "???",
+    "3465": "Nemu",
+    "3592": "Nemu"
+  }
+}

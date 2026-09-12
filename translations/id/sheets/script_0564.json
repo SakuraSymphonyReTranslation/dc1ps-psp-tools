@@ -1,0 +1,979 @@
+{
+  "scene": "script_0564.obj",
+  "dialogues": [
+    {
+      "offset": 199,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "携帯電話の液晶で日付を確認して、俺は小さく\nため息をついた。",
+      "en": "After checking today's date on my cell phone, I give a sigh.",
+      "text": "After checking today's date on my cell phone, I give a sigh."
+    },
+    {
+      "offset": 265,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あれから５日か……」",
+      "en": "\"It's been five days since then...\"",
+      "text": "\"It's been five days since then...\""
+    },
+    {
+      "offset": 294,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "午前の公園を歩きながら、青い空を見上げる。",
+      "en": "I look up the blue sky, as I walk around the park in the\nmorning.",
+      "text": "I look up the blue sky, as I walk around the park in the\nmorning."
+    },
+    {
+      "offset": 341,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "最近、毎日のように呟いている言葉だ。",
+      "en": "I use this word all the time these days.",
+      "text": "I use this word all the time these days."
+    },
+    {
+      "offset": 382,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あの日の出来事がまるごと夢ならばとも思うの\nだが、ここまで来ると認めるしかないらしい。",
+      "en": "I wish that event was a dream, but I guess I have no choice\nbut to accept it at this point.",
+      "text": "I wish that event was a dream, but I guess I have no choice\nbut to accept it at this point."
+    },
+    {
+      "offset": 474,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 493,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "唇に指を当てる。",
+      "en": "I put a finger to my lips.",
+      "text": "I put a finger to my lips."
+    },
+    {
+      "offset": 514,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そこには、桜の花びらのような、音夢のぬくも\nりが残っているようだった。",
+      "en": "I can feel Nemu's warmth... the warmth of a cherry blossom\npetal.",
+      "text": "I can feel Nemu's warmth... the warmth of a cherry blossom\npetal."
+    },
+    {
+      "offset": 590,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺を気にしてるな……音夢」",
+      "en": "\"I know she is self-conscious about me.\"",
+      "text": "\"I know she is self-conscious about me.\""
+    },
+    {
+      "offset": 625,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自宅の方角を見やる。",
+      "en": "I look in the direction of my house.",
+      "text": "I look in the direction of my house."
+    },
+    {
+      "offset": 650,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "離れた場所で、音夢が俺のことを気にしている\nのが分かる。",
+      "en": "I can feel Nemu is very anxious about us even from a long\nway away.",
+      "text": "I can feel Nemu is very anxious about us even from a long\nway away."
+    },
+    {
+      "offset": 710,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "バカげた話だが、あいつと俺の心が繋がってい\nる感じだ。",
+      "en": "It sounds ridiculous, but I feel like our minds are\nconnected.",
+      "text": "It sounds ridiculous, but I feel like our minds are\nconnected."
+    },
+    {
+      "offset": 770,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……痛いな」",
+      "en": "\"It hurts.\"",
+      "text": "\"It hurts.\""
+    },
+    {
+      "offset": 791,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "胸がズキズキと鈍くうずく。",
+      "en": "I feel a clenching in my heart.",
+      "text": "I feel a clenching in my heart."
+    },
+    {
+      "offset": 822,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あいつも同じ痛みを感じているとしたらバカだ。",
+      "en": "It's crazy to think she could feel the same way.",
+      "text": "It's crazy to think she could feel the same way."
+    },
+    {
+      "offset": 911,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あ、朝倉先輩っ、おはよーです！」",
+      "en": "\"Good morning to you, Asakura-sempai!\"",
+      "text": "\"Good morning to you, Asakura-sempai!\""
+    },
+    {
+      "offset": 952,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ん、よぉ。どうしたんだこんなところで」",
+      "en": "\"Yeah, hey. What's up?\"",
+      "text": "\"Yeah, hey. What's up?\""
+    },
+    {
+      "offset": 1010,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「先輩こそどうしたんです？」",
+      "en": "\"What's going on?\"",
+      "text": "\"What's going on?\""
+    },
+    {
+      "offset": 1045,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ははは、と元気良く美春が駆け寄ってくる。",
+      "en": "Miharu's running toward me energetically.",
+      "text": "Miharu's running toward me energetically."
+    },
+    {
+      "offset": 1103,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「杉並先輩の家にでも遊びに行くんですか？」",
+      "en": "\"Are you going to Suginami-sempai's house?\"",
+      "text": "\"Are you going to Suginami-sempai's house?\""
+    },
+    {
+      "offset": 1152,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「お前、そんな怖いこと言うなよ……」",
+      "en": "\"That's a scary thing to say.\"",
+      "text": "\"That's a scary thing to say.\""
+    },
+    {
+      "offset": 1195,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そういえば、杉並の家なんてこの島に存在して\nいるのだろうか。",
+      "en": "I wonder if Suginami has a house on this island.",
+      "text": "I wonder if Suginami has a house on this island."
+    },
+    {
+      "offset": 1259,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "地下か？",
+      "en": "Underground?",
+      "text": "Underground?"
+    },
+    {
+      "offset": 1274,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「で、美春はなにやってんだ？」",
+      "en": "\"So, what are you doing here, Miharu?\"",
+      "text": "\"So, what are you doing here, Miharu?\""
+    },
+    {
+      "offset": 1322,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「えへへへ……春休みになると、この公園でわ\n　んちゃんを散歩してる人が増えるんですよ！」",
+      "en": "\"Teehee, when the spring comes, more people walk their dogs\nin this park.\"",
+      "text": "\"Teehee, when the spring comes, more people walk their dogs\nin this park.\""
+    },
+    {
+      "offset": 1416,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「わんこ？」",
+      "en": "\"A doggy?\"",
+      "text": "\"A doggy?\""
+    },
+    {
+      "offset": 1474,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「わんこです！　ぎゅって抱きしめると暖かい\n　のです！」",
+      "en": "\"Yes, a doggy! You feel so warm when you hold them.\"",
+      "text": "\"Yes, a doggy! You feel so warm when you hold them.\""
+    },
+    {
+      "offset": 1536,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「いや、そんないばるなよ」",
+      "en": "\"Well, you don't need to brag about that.\"",
+      "text": "\"Well, you don't need to brag about that.\""
+    },
+    {
+      "offset": 1569,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "わけが分からなかったが、なんとなく見ていて\n元気の出るやつだ。",
+      "en": "I don't know why she enthuses about dogs, but she can cheer\npeople up by just looking at her.",
+      "text": "I don't know why she enthuses about dogs, but she can cheer\npeople up by just looking at her."
+    },
+    {
+      "offset": 1637,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「いいやつだな美春は。なにも問題がない」",
+      "en": "\"Miharu is such a nice person. She doesn't have any\nproblems.\"",
+      "text": "\"Miharu is such a nice person. She doesn't have any\nproblems.\""
+    },
+    {
+      "offset": 1715,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「はい？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 1732,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「いや、こっちの話だ」",
+      "en": "\"Oh, nothing.\"",
+      "text": "\"Oh, nothing.\""
+    },
+    {
+      "offset": 1761,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぽん、と美春の頭を叩く。",
+      "en": "I tap her on the head lightly.",
+      "text": "I tap her on the head lightly."
+    },
+    {
+      "offset": 1803,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あ、どうせだから、このまま朝倉先輩の家に\n　遊びに行こうかな」",
+      "en": "\"Well, here I am. I may come and visit the Asakura\nresidence.\"",
+      "text": "\"Well, here I am. I may come and visit the Asakura\nresidence.\""
+    },
+    {
+      "offset": 1873,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「うち？」",
+      "en": "\"My house?\"",
+      "text": "\"My house?\""
+    },
+    {
+      "offset": 1918,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「春休みになって、音夢先輩ともそんなに顔を\n　合わせてないですからね」",
+      "en": "\"Since the spring break began, I haven't seen Nemu-sempai.\"",
+      "text": "\"Since the spring break began, I haven't seen Nemu-sempai.\""
+    },
+    {
+      "offset": 1994,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「お目当ては音夢か」",
+      "en": "\"Is Nemu your main reason?\"",
+      "text": "\"Is Nemu your main reason?\""
+    },
+    {
+      "offset": 2049,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「美春と音夢先輩の愛は朝倉先輩でも止められ\n　ません。残念でしたね〜♪」",
+      "en": "\"Sorry, but you can't stop our love!\"",
+      "text": "\"Sorry, but you can't stop our love!\""
+    },
+    {
+      "offset": 2127,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「残念じゃねぇよ」",
+      "en": "\"Nothing to feel sorry about.\"",
+      "text": "\"Nothing to feel sorry about.\""
+    },
+    {
+      "offset": 2152,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぐい、と美春の頭を鷲づかみにする。",
+      "en": "I grab Miharu's head with my palms.",
+      "text": "I grab Miharu's head with my palms."
+    },
+    {
+      "offset": 2221,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「いたたたた！」",
+      "en": "\"Ouch!\"",
+      "text": "\"Ouch!\""
+    },
+    {
+      "offset": 2244,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ぬ、さくらより掴み辛いな」",
+      "en": "\"Oh gosh, your head is hard to grab, it's worse than\nSakura's.\"",
+      "text": "\"Oh gosh, your head is hard to grab, it's worse than\nSakura's.\""
+    },
+    {
+      "offset": 2279,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ずるり、と美春の頭が手から抜けてしまう。",
+      "en": "Miharu's head easily pulled out from my hands.",
+      "text": "Miharu's head easily pulled out from my hands."
+    },
+    {
+      "offset": 2354,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あ、さくらって、芳乃先輩ですか？」",
+      "en": "\"Sakura means Yoshino-sempai, right?\"",
+      "text": "\"Sakura means Yoshino-sempai, right?\""
+    },
+    {
+      "offset": 2397,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「まぁ……」",
+      "en": "\"Yeah...\"",
+      "text": "\"Yeah...\""
+    },
+    {
+      "offset": 2416,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくらに先輩という呼称をつけると、なんか耳\nがムズムズするな……。",
+      "en": "When you associate the word 'sempai' with Sakura's name, it\nsounds very weird.",
+      "text": "When you associate the word 'sempai' with Sakura's name, it\nsounds very weird."
+    },
+    {
+      "offset": 2488,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「しかし、美春からさくらの名前が出るなんて\n　な。知り合いなのか？」",
+      "en": "\"I never expected to hear Sakura's name from you. Do you\nknow each other?\"",
+      "text": "\"I never expected to hear Sakura's name from you. Do you\nknow each other?\""
+    },
+    {
+      "offset": 2590,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「いえ、ちょっと小耳に挟んだくらいですけど」",
+      "en": "\"No, I just heard in passing, that's all.\"",
+      "text": "\"No, I just heard in passing, that's all.\""
+    },
+    {
+      "offset": 2641,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ごにょごにょ、と美春が声をつぶす。",
+      "en": "Miharu murmurs.",
+      "text": "Miharu murmurs."
+    },
+    {
+      "offset": 2682,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どこで小耳に挟んだんだ？」",
+      "en": "\"Where did you hear it?\"",
+      "text": "\"Where did you hear it?\""
+    },
+    {
+      "offset": 2717,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "キャラというのか、誰にでもよく懐くので美春\nの交友関係は広い。",
+      "en": "Miharu has many friends because of her friendly character.",
+      "text": "Miharu has many friends because of her friendly character."
+    },
+    {
+      "offset": 2813,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「どこで……えーとどこだっけなぁ。あははは。\n　忘れてしまいましたよ。もぅ、美春ったらド\n　ジなんだから」",
+      "en": "\"Um... where was it? Um... hahaha, I forgot. I'm such a\nklutz!\"",
+      "text": "\"Um... where was it? Um... hahaha, I forgot. I'm such a\nklutz!\""
+    },
+    {
+      "offset": 2924,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こつん、と自分で自分の頭を叩く。",
+      "en": "She taps her head by herself.",
+      "text": "She taps her head by herself."
+    },
+    {
+      "offset": 2963,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……どうやら、そのオレンジ色の頭を赤く染\n　めてもらいたいらしいな」",
+      "en": "\"Looks like you want to dye red into your orange hair, don't\nyou?\"",
+      "text": "\"Looks like you want to dye red into your orange hair, don't\nyou?\""
+    },
+    {
+      "offset": 3067,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「言います！　言いますから、ミシミシやらな\n　いでください……しくしく」",
+      "en": "\"I'll tell you! I'll tell you, so please stop that...\"",
+      "text": "\"I'll tell you! I'll tell you, so please stop that...\""
+    },
+    {
+      "offset": 3145,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「なんだ、そんなに悪い噂なのか？」",
+      "en": "\"Is it a bad rumor?\"",
+      "text": "\"Is it a bad rumor?\""
+    },
+    {
+      "offset": 3214,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あのですねぇ……本当に噂ですからね」",
+      "en": "\"Um... This is only a rumor, okay?\"",
+      "text": "\"Um... This is only a rumor, okay?\""
+    },
+    {
+      "offset": 3287,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ほら、バイト帰りに桜の枝が頭にぶつかった、\n　風紀委員の子がいたじゃないですか」",
+      "en": "\"Do you remember the girl in the discipline committee who\ngot hurt with a cherry branch on her head on the way home\nfrom her part time job?\"",
+      "text": "\"Do you remember the girl in the discipline committee who\ngot hurt with a cherry branch on her head on the way home\nfrom her part time job?\""
+    },
+    {
+      "offset": 3375,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あぁ、いたなそんなのも。卒業式の前あたり\n　に電話があった」",
+      "en": "\"Oh yeah, I remember there was a phone call about her just\nbefore the graduation ceremony.\"",
+      "text": "\"Oh yeah, I remember there was a phone call about her just\nbefore the graduation ceremony.\""
+    },
+    {
+      "offset": 3443,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とりあえず自分の家に帰るルートを歩きながら\n頷く。",
+      "en": "I nod at her while I walk home.",
+      "text": "I nod at her while I walk home."
+    },
+    {
+      "offset": 3532,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「はい、美春の友達なんですけど。その子が芳\n　乃先輩を見たって言うんですよ」",
+      "en": "\"She is my friend, and she said she saw Yoshino-sempai.\"",
+      "text": "\"She is my friend, and she said she saw Yoshino-sempai.\""
+    },
+    {
+      "offset": 3614,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「は？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 3640,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「だから、自分が頭を打ったときに、桜の木の\n　影から芳乃先輩がじっと｛にら／睨｝んでたって」",
+      "en": "\"And she said when the girl hit her head, Yoshino-sempai was\nwatching her from behind the cherry tree.\"",
+      "text": "\"And she said when the girl hit her head, Yoshino-sempai was\nwatching her from behind the cherry tree.\""
+    },
+    {
+      "offset": 3738,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「なんだ、さくらがやったっていうのか？」",
+      "en": "\"Are you saying Sakura did it?\"",
+      "text": "\"Are you saying Sakura did it?\""
+    },
+    {
+      "offset": 3785,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あんまりにも、あんまりな内容に呆れてしまう。",
+      "en": "I am dumbfounded at this outrageous rumor.",
+      "text": "I am dumbfounded at this outrageous rumor."
+    },
+    {
+      "offset": 3847,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「いえ、あれは自然に折れたものだって、警察\n　の人も言っていましたからねぇ」",
+      "en": "\"No, not at all. Even the police said it was a natural cause\nwhen the branch broke.\"",
+      "text": "\"No, not at all. Even the police said it was a natural cause\nwhen the branch broke.\""
+    },
+    {
+      "offset": 3929,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「って言うか、あいつは、面と向かって蹴飛ば\n　してくることはあるけど、そういう姑息な手\n　段はないぞ」",
+      "en": "\"I know she might attack her from the front, but she would\nnever do underhanded things like that.\"",
+      "text": "\"I know she might attack her from the front, but she would\nnever do underhanded things like that.\""
+    },
+    {
+      "offset": 4064,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「面と向かって蹴られても困りますけどね」",
+      "en": "\"It's not good either if she attacks from the front.\"",
+      "text": "\"It's not good either if she attacks from the front.\""
+    },
+    {
+      "offset": 4111,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「まぁ、俺以外にはやらないだろうけど……\n　でも、その子とさくらに面識なんてないだ\n　ろう？」",
+      "en": "\"Well, she wouldn't do it to anyone else but me... but does\nSakura know her?\"",
+      "text": "\"Well, she wouldn't do it to anyone else but me... but does\nSakura know her?\""
+    },
+    {
+      "offset": 4238,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「いや、それが、バイト中に怒らせちゃったら\n　しいんですよ。子供扱いして」",
+      "en": "\"Well I heard she made Yoshino-sempai angry by treating her\nlike a child at her part-time job.\"",
+      "text": "\"Well I heard she made Yoshino-sempai angry by treating her\nlike a child at her part-time job.\""
+    },
+    {
+      "offset": 4318,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ピン、と指を立てる。",
+      "en": "I nod.",
+      "text": "I nod."
+    },
+    {
+      "offset": 4345,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あぁチビだから……ん？　どこかで聞いた話\n　だな？」",
+      "en": "\"I see... because she is a shorty. I heard the story\nsomewhere.\"",
+      "text": "\"I see... because she is a shorty. I heard the story\nsomewhere.\""
+    },
+    {
+      "offset": 4405,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "バイト中に子ども扱いして怒らせた？",
+      "en": "Somebody made Sakura upset at the workplace?",
+      "text": "Somebody made Sakura upset at the workplace?"
+    },
+    {
+      "offset": 4446,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ、おい、その子って商店街の茶屋でバイト\n　してるやつか？」",
+      "en": "\"Hey, does she work at the cafe in the shopping center?\"",
+      "text": "\"Hey, does she work at the cafe in the shopping center?\""
+    },
+    {
+      "offset": 4542,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あ、知ってるんですか？」",
+      "en": "\"Do you know her?\"",
+      "text": "\"Do you know her?\""
+    },
+    {
+      "offset": 4575,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あぁ、へぇ、そっか」",
+      "en": "\"Aahh, hmm... I see.\"",
+      "text": "\"Aahh, hmm... I see.\""
+    },
+    {
+      "offset": 4604,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "あの時の子だったか。",
+      "en": "That was her that time.",
+      "text": "That was her that time."
+    },
+    {
+      "offset": 4631,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「まぁ、まんざら繋がりがないわけじゃないん\n　だ」",
+      "en": "\"I can't say I have no connection with her.\"",
+      "text": "\"I can't say I have no connection with her.\""
+    },
+    {
+      "offset": 4720,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「まぁ、芳乃先輩って目が青かったり小柄だっ\n　たりで神秘的ですから、そういう噂が立つん\n　ですよ」",
+      "en": "\"I think people spread the rumor because of Yoshino-sempai's\nblue eyes, and her small frame... I mean, she has a very\nmysterious figure for sure.\"",
+      "text": "\"I think people spread the rumor because of Yoshino-sempai's\nblue eyes, and her small frame... I mean, she has a very\nmysterious figure for sure.\""
+    },
+    {
+      "offset": 4823,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「神秘的というより密輸入された珍獣だけどな」",
+      "en": "\"I'd say perhaps an exotic animal imported from somewhere,\nrather than a mysterious figure.\"",
+      "text": "\"I'd say perhaps an exotic animal imported from somewhere,\nrather than a mysterious figure.\""
+    },
+    {
+      "offset": 4902,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「青い瞳って憧れますよね〜。美春は地味です\n　から、先輩方みたいに美人だったり特徴的だ\n　と良いんですけどね〜」",
+      "en": "\"I wish I had blue eyes. I have a simple image, but it's\nnice to have a certain beauty like her.\"",
+      "text": "\"I wish I had blue eyes. I have a simple image, but it's\nnice to have a certain beauty like her.\""
+    },
+    {
+      "offset": 5019,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「地味？」",
+      "en": "\"Simple?\"",
+      "text": "\"Simple?\""
+    },
+    {
+      "offset": 5064,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「地味地味ですよ〜」",
+      "en": "\"Yes, I have a super simple look.\"",
+      "text": "\"Yes, I have a super simple look.\""
+    },
+    {
+      "offset": 5091,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「お前が地味地味？」",
+      "en": "\"Are you super simple?\"",
+      "text": "\"Are you super simple?\""
+    },
+    {
+      "offset": 5146,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「地味も地味、キング・オブ・地味ですね」",
+      "en": "\"Oh yeah, I'm the king of simplicity.\"",
+      "text": "\"Oh yeah, I'm the king of simplicity.\""
+    },
+    {
+      "offset": 5193,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そうか、俺の地味の認識が甘かったらしい。",
+      "en": "I see. I guess I have the wrong idea about simplicity.",
+      "text": "I see. I guess I have the wrong idea about simplicity."
+    },
+    {
+      "offset": 5240,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「しかし女の子ってのは、不思議とか特別なも\n　んによく憧れたりするなぁ」",
+      "en": "\"I don't understand why girls admire something strange,\ndifferent from the rest.\"",
+      "text": "\"I don't understand why girls admire something strange,\ndifferent from the rest.\""
+    },
+    {
+      "offset": 5346,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「男の子だってそうじゃないですか。マンガみ\n　たいな冒険とかしたくありません？」",
+      "en": "\"I think boys do the same thing like trying to go on\nadventures like you see in the comic books.\"",
+      "text": "\"I think boys do the same thing like trying to go on\nadventures like you see in the comic books.\""
+    },
+    {
+      "offset": 5432,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「いや、むしろギャルゲ……いや、なんでもな\n　い」",
+      "en": "\"Well, we are more into erotic ga- Ah, nothing.\"",
+      "text": "\"Well, we are more into erotic ga- Ah, nothing.\""
+    },
+    {
+      "offset": 5516,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ああ、やっぱり先輩はそういう方面なんです\n　ねぇ〜♪」",
+      "en": "\"Erotic games?\"",
+      "text": "\"Erotic games?\""
+    },
+    {
+      "offset": 5578,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「……さらりと流せよ」",
+      "en": "\"Let it go.\"",
+      "text": "\"Let it go.\""
+    },
+    {
+      "offset": 5607,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "つーか、なんでその手の話題を知ってんだよ。",
+      "en": "How did you find out about that stuff?",
+      "text": "How did you find out about that stuff?"
+    },
+    {
+      "offset": 5684,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あははは。朝倉先輩の立場なんて、そのまん\n　まじゃないですかぁ」",
+      "en": "\"Hahaha... It's not difficult to see through you,\nAsakura-sempai.\"",
+      "text": "\"Hahaha... It's not difficult to see through you,\nAsakura-sempai.\""
+    },
+    {
+      "offset": 5756,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「あ？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 5799,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「可愛い妹とか、再会した幼なじみとか」",
+      "en": "\"Your loving sister, and a childhood friend that you've been\nreunited with.\"",
+      "text": "\"Your loving sister, and a childhood friend that you've been\nreunited with.\""
+    },
+    {
+      "offset": 5844,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ベタやなぁ……」",
+      "en": "\"Jesus Christ...\"",
+      "text": "\"Jesus Christ...\""
+    },
+    {
+      "offset": 5869,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自覚はしているが、改めて面倒だな……。",
+      "en": "I know what they mean, but it's a pain in the neck to think\nabout.",
+      "text": "I know what they mean, but it's a pain in the neck to think\nabout."
+    },
+    {
+      "offset": 5942,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「お約束の三角関係ですね。あとは、猫耳とか\n　メイドさんも欲しいですか？」",
+      "en": "\"It's a forbidden love triangle, isn't it? Do you like cat's\nears or a personal maid?\"",
+      "text": "\"It's a forbidden love triangle, isn't it? Do you like cat's\nears or a personal maid?\""
+    },
+    {
+      "offset": 6022,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「……詳しすぎるぞお前。やってんのか？」",
+      "en": "\"How do you know that so much? Are you into it?\"",
+      "text": "\"How do you know that so much? Are you into it?\""
+    },
+    {
+      "offset": 6069,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "微妙に美春と距離をとってしまう。",
+      "en": "I subtly step back from Miharu.",
+      "text": "I subtly step back from Miharu."
+    },
+    {
+      "offset": 6136,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「美春はやりませんよ〜。お父さんがそういう\n　話をたまにするんです」",
+      "en": "\"I don't do that, but my dad likes to talk about that\nstuff.\"",
+      "text": "\"I don't do that, but my dad likes to talk about that\nstuff.\""
+    },
+    {
+      "offset": 6221,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ドリル萌え〜とか、触角萌え〜、って」",
+      "en": "\"Drill sprouting, or touch sensation...\"",
+      "text": "\"Drill sprouting, or touch sensation...\""
+    },
+    {
+      "offset": 6266,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「……そうか」",
+      "en": "\"I see...\"",
+      "text": "\"I see...\""
+    },
+    {
+      "offset": 6287,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いい親父なのか、嫌な親父なのか微妙なところ\nだ。",
+      "en": "I'm not sure if he's a good father or a nasty one.",
+      "text": "I'm not sure if he's a good father or a nasty one."
+    },
+    {
+      "offset": 6369,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「将来はメイドロボを作りたいそうです。でも、\n　そのロボは炊事が出来てはいけないらしいん\n　ですよ」",
+      "en": "\"He wants to create a maid robot someday, but it can't cook\nat all.\"",
+      "text": "\"He wants to create a maid robot someday, but it can't cook\nat all.\""
+    },
+    {
+      "offset": 6474,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 6493,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「……お父さんは大切にしないといけないな」",
+      "en": "\"You take care of your dad.\"",
+      "text": "\"You take care of your dad.\""
+    },
+    {
+      "offset": 6570,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ですね〜」",
+      "en": "\"Right.\"",
+      "text": "\"Right.\""
+    },
+    {
+      "offset": 6589,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "分かってるのか分かってないのか。",
+      "en": "I'm not sure she knows what it means.",
+      "text": "I'm not sure she knows what it means."
+    },
+    {
+      "offset": 6626,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もしかしたら、美春のこの性格って、父親に意\n図的に方向をずらされたのでは……。",
+      "en": "I wonder if her father changed her character to a different\ndirection deliberately.",
+      "text": "I wonder if her father changed her character to a different\ndirection deliberately."
+    },
+    {
+      "offset": 6708,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は青い空に向かって拳を握り締めた。",
+      "en": "I made a tight fist toward the blue sky.",
+      "text": "I made a tight fist toward the blue sky."
+    },
+    {
+      "offset": 6749,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お父さん、最高です。",
+      "en": "You did an awesome job, old man.",
+      "text": "You did an awesome job, old man."
+    },
+    {
+      "offset": 6896,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆さくらの噂◆",
+      "en": "◆The rumor about Sakura◆",
+      "text": "◆The rumor about Sakura◆"
+    },
+    {
+      "offset": 6947,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢にキスを奪われてから、家に居辛くて外出\nすることが多くなった。仕方なく公園を散歩を\nしている最中、美春に出会う。",
+      "en": "Since Nemu stole a kiss from me, I started to go out often\nbecause I can't relax at home any more. When I was strolling\naround in the park, I met Miharu.",
+      "text": "Since Nemu stole a kiss from me, I started to go out often\nbecause I can't relax at home any more. When I was strolling\naround in the park, I met Miharu."
+    },
+    {
+      "offset": 7066,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そのまま家に音夢目当てで遊びに来ることになっ\nた美春から、少し前に聞いた事故にあった女子\n学生が知り合いだという話を聞く。",
+      "en": "Miharu told me that the girl who had an accident was a\nperson we met before.",
+      "text": "Miharu told me that the girl who had an accident was a\nperson we met before."
+    },
+    {
+      "offset": 7191,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんでも、事故にあったときにさくらに会った\nと言うのだが……アイツはそんなことはしない\nと自信をもって否定した。",
+      "en": "According to Miharu, the girl said she saw Sakura when the\naccident occurred. But I said she was not the kind of person\nto do that.",
+      "text": "According to Miharu, the girl said she saw Sakura when the\naccident occurred. But I said she was not the kind of person\nto do that."
+    },
+    {
+      "offset": 7306,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなことよりも、美春のお父さんがメイドロ\nボを作ろうとしていることに、男の浪漫を感じ\nずにはいられなかった。",
+      "en": "More importantly, when I heard Miharu's father is going to\ncreate a maid robot, I was overwhelmed with a sense of man's\nromanticism.",
+      "text": "More importantly, when I heard Miharu's father is going to\ncreate a maid robot, I was overwhelmed with a sense of man's\nromanticism."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "903": "Miharu",
+    "1002": "Miharu",
+    "1095": "Miharu",
+    "1314": "Miharu",
+    "1466": "Miharu",
+    "1707": "Miharu",
+    "1795": "Miharu",
+    "1910": "Miharu",
+    "2041": "Miharu",
+    "2213": "Miharu",
+    "2346": "Miharu",
+    "2582": "Miharu",
+    "2805": "Miharu",
+    "3059": "Miharu",
+    "3206": "Miharu",
+    "3279": "Miharu",
+    "3524": "Miharu",
+    "3632": "Miharu",
+    "3839": "Miharu",
+    "4056": "Miharu",
+    "4230": "Miharu",
+    "4534": "Miharu",
+    "4712": "Miharu",
+    "4894": "Miharu",
+    "5056": "Miharu",
+    "5138": "Miharu",
+    "5338": "Miharu",
+    "5508": "Miharu",
+    "5676": "Miharu",
+    "5791": "Miharu",
+    "5934": "Miharu",
+    "6128": "Miharu",
+    "6213": "Miharu",
+    "6361": "Miharu",
+    "6562": "Miharu"
+  }
+}

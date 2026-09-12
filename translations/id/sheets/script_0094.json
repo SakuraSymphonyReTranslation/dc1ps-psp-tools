@@ -1,0 +1,2663 @@
+{
+  "scene": "script_0094.obj",
+  "dialogues": [
+    {
+      "offset": 195,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どうやら、遅刻せずに済んだようだ……」",
+      "en": "\"Looks like this stops my latecoming streak...\"",
+      "text": "\"Looks like this stops my latecoming streak...\""
+    },
+    {
+      "offset": 242,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "周りを見渡すと、まだ来ていないヤツもいる。\nほんの少しだけ早く来ただけだというのに、な\nんとなく優越感を感じてしまうから不思議だ。",
+      "en": "Looking around the classroom, I saw plenty of people still\nnot here. Being earlier made me feel a little superior\nsomehow.",
+      "text": "Looking around the classroom, I saw plenty of people still\nnot here. Being earlier made me feel a little superior\nsomehow."
+    },
+    {
+      "offset": 375,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並は……当然のようにいる。",
+      "en": "Suginami... is of course present.",
+      "text": "Suginami... is of course present."
+    },
+    {
+      "offset": 408,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の視線の意図に気付いてか、余裕の笑みを浮\nかべて見せるあたりがまた小憎らしい。",
+      "en": "As I take a glance at him, he was wearing the same\never-so-slightly annoying grin as always.",
+      "text": "As I take a glance at him, he was wearing the same\never-so-slightly annoying grin as always."
+    },
+    {
+      "offset": 492,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "工藤もいる。田端と一緒か。田端は相変わらず\n頷いているだけだな。",
+      "en": "Kudou's around, talking with Tahata. Reticient as ever,\nanswering all of Kudou's chatter with nods.",
+      "text": "Kudou's around, talking with Tahata. Reticient as ever,\nanswering all of Kudou's chatter with nods."
+    },
+    {
+      "offset": 560,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢は……風紀委員だけあってもちろんいる。\n楽しそうに友達とおしゃべりをしている。",
+      "en": "Nemu... being a disciplinary club member, of course she's\nhere. She's just happily gossiping with her friends.",
+      "text": "Nemu... being a disciplinary club member, of course she's\nhere. She's just happily gossiping with her friends."
+    },
+    {
+      "offset": 646,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子も、いつも通りちゃんと来てるな。あいつ\nには一度遅刻の屈辱を味わわせてみたいものだ。",
+      "en": "Mako's here, as usual. I bet she'd consider being late even\nonce as an eternal disgrace.",
+      "text": "Mako's here, as usual. I bet she'd consider being late even\nonce as an eternal disgrace."
+    },
+    {
+      "offset": 738,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "林もいる。角田は……まだ来てないか。かわい\nそうに、また遅刻確定か。",
+      "en": "Shigeru's here. Kakuta... isn't here yet. Poor guy, he'd be\nlate for sure.",
+      "text": "Shigeru's here. Kakuta... isn't here yet. Poor guy, he'd be\nlate for sure."
+    },
+    {
+      "offset": 810,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "クマはちゃんと来ているようだな。よしよし。",
+      "en": "And a bear just came in, right on time.",
+      "text": "And a bear just came in, right on time."
+    },
+    {
+      "offset": 861,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ちょっと待て、俺ッ！」",
+      "en": "\"...Wait a minute!!\"",
+      "text": "\"...Wait a minute!!\""
+    },
+    {
+      "offset": 892,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "がたんと、椅子を倒してしまいそうな勢いで立\nち上がる。",
+      "en": "My chair fell back with a loud crash, as I hotly stand up\nfrom my seating position.",
+      "text": "My chair fell back with a loud crash, as I hotly stand up\nfrom my seating position."
+    },
+    {
+      "offset": 952,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「クッ、クッ、クマッ！？」",
+      "en": "\"B, b, bear?!\"",
+      "text": "\"B, b, bear?!\""
+    },
+    {
+      "offset": 985,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、斜め前の席に座っていたピンク色の奇妙\nなヤツを指さす。",
+      "en": "I pointed to the strange pink-coloured bear sitting at the\ndesk diagonal to me.",
+      "text": "I pointed to the strange pink-coloured bear sitting at the\ndesk diagonal to me."
+    },
+    {
+      "offset": 1051,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「な、な、なんで、教室にクマが……」",
+      "en": "\"W, w, why is a bear in class...\"",
+      "text": "\"W, w, why is a bear in class...\""
+    },
+    {
+      "offset": 1094,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "わなわなと震える声で呟く。",
+      "en": "My voice was stuttering, barely audible.",
+      "text": "My voice was stuttering, barely audible."
+    },
+    {
+      "offset": 1125,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の視線の先には、ピンク色をしたクマの着ぐ\nるみ──遊園地などでよく見るアレが、席に座っ\nてなにやら本を読んでいた。",
+      "en": "Right in front of my eyes, the pink bear-- something you'd\nfind more in an amusement park, was sitting calmly at it's\ndesk.",
+      "text": "Right in front of my eyes, the pink bear-- something you'd\nfind more in an amusement park, was sitting calmly at it's\ndesk."
+    },
+    {
+      "offset": 1244,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "自らの目を疑い、目をごしごしとこする。",
+      "en": "Not even believing my own eyes, I rub them rapidly.",
+      "text": "Not even believing my own eyes, I rub them rapidly."
+    },
+    {
+      "offset": 1327,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「どうした朝倉よ。朝から、なにかコワイもの\n　でも見たのか？」",
+      "en": "\"What's wrong, Asakura. Found something scary so early in\nthe morning?\"",
+      "text": "\"What's wrong, Asakura. Found something scary so early in\nthe morning?\""
+    },
+    {
+      "offset": 1395,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "背後から、杉並の声がした。聞き慣れた声に、\n非日常から日常へと、引き戻された気がした。",
+      "en": "Suginami's voice from behind me snapped me out of my trance,\nand finally brought some sense back into me.",
+      "text": "Suginami's voice from behind me snapped me out of my trance,\nand finally brought some sense back into me."
+    },
+    {
+      "offset": 1487,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん？　ああ。いや、なんでもない」",
+      "en": "\"Hm? Ahh, nothing, nothing's wrong.\"",
+      "text": "\"Hm? Ahh, nothing, nothing's wrong.\""
+    },
+    {
+      "offset": 1528,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、杉並の方を向き、にこやかに答えた。さっ\nきのは何かの見間違いに違いない。",
+      "en": "I turn to face Suginami and answer him with a smile. What I\nsaw just now must've been a mistake, surely.",
+      "text": "I turn to face Suginami and answer him with a smile. What I\nsaw just now must've been a mistake, surely."
+    },
+    {
+      "offset": 1640,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「そうか？　ならいいのだが、顔色悪いぞ？」",
+      "en": "\"Really? Your face doesn't look good.\"",
+      "text": "\"Really? Your face doesn't look good.\""
+    },
+    {
+      "offset": 1689,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ああ、なんでもない。なんでもないさ。そう\n　だ、ちょっとトイレに行って来る」",
+      "en": "\"Ahh, nothing's wrong, nothing at all. Right, I'd go to the\nbathroom for a bit.\"",
+      "text": "\"Ahh, nothing's wrong, nothing at all. Right, I'd go to the\nbathroom for a bit.\""
+    },
+    {
+      "offset": 1773,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、杉並の方を向いたまま席を立つ。そして、\nさきほどの幻覚を見た位置には目を向けないよ\nうにして、入り口に向かう。",
+      "en": "I headed for the exit of the classroom, making sure not to\nlook in the direction of the hallucination.",
+      "text": "I headed for the exit of the classroom, making sure not to\nlook in the direction of the hallucination."
+    },
+    {
+      "offset": 1922,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「トイレか。俺も付き合おう」",
+      "en": "\"The toilet, huh. I'd go too.\"",
+      "text": "\"The toilet, huh. I'd go too.\""
+    },
+    {
+      "offset": 1957,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並が、俺の肩をがっしと組み、朝っぱらから\n暑苦しい光景を見せつける。",
+      "en": "Suginami went beside me and rubbed his shoulder with mine,\nmaking a rather unsightly scene for this early.",
+      "text": "Suginami went beside me and rubbed his shoulder with mine,\nmaking a rather unsightly scene for this early."
+    },
+    {
+      "offset": 2080,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「たまにはこうして、仲を深め合うのもいいも\n　のだな」",
+      "en": "\"Occasionally, it is a fine idea to deepen our\nrelationship.\"",
+      "text": "\"Occasionally, it is a fine idea to deepen our\nrelationship.\""
+    },
+    {
+      "offset": 2140,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「気色の悪いことを言うなッ」",
+      "en": "\"Don't say stupid things.\"",
+      "text": "\"Don't say stupid things.\""
+    },
+    {
+      "offset": 2184,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やはりさっきのは、見間違いというか、幻覚と\nいうか、きっと自分の気づかないところで、ひ\nどく疲れていたに違いない。",
+      "en": "That's right, what I saw just now must definitely have been\na mistake, a hallucination. I must be way too tired...",
+      "text": "That's right, what I saw just now must definitely have been\na mistake, a hallucination. I must be way too tired..."
+    },
+    {
+      "offset": 2334,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "すっきりした後は、なぜか、心まですっきりし\nたような気がする。",
+      "en": "Steeling my mind on that idea-- no, truth, my heart felt a\nlot lighter.",
+      "text": "Steeling my mind on that idea-- no, truth, my heart felt a\nlot lighter."
+    },
+    {
+      "offset": 2400,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "これで、心おきなく今日一日を過ごすことがで\nきるに違いない。",
+      "en": "Surely my heart will be able to keep beating for the rest of\nthe day.",
+      "text": "Surely my heart will be able to keep beating for the rest of\nthe day."
+    },
+    {
+      "offset": 2492,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、教室に帰ると。",
+      "en": "Except, when I went back to the classroom...",
+      "text": "Except, when I went back to the classroom..."
+    },
+    {
+      "offset": 2521,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………なんでかなぁ」",
+      "en": "\"......How can this...\"",
+      "text": "\"......How can this...\""
+    },
+    {
+      "offset": 2552,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は人差し指と親指で、眉間をぐっとつまむ。",
+      "en": "I pinch my forehead, willing this to be a dream.",
+      "text": "I pinch my forehead, willing this to be a dream."
+    },
+    {
+      "offset": 2634,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「どうした？　教室にライオンでもいたのか？」",
+      "en": "\"What happened? Is there a lion in the classroom?\"",
+      "text": "\"What happened? Is there a lion in the classroom?\""
+    },
+    {
+      "offset": 2702,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「いや、そういう訳ではないが……」",
+      "en": "\"No, not exactly...\"",
+      "text": "\"No, not exactly...\""
+    },
+    {
+      "offset": 2743,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の目には、まだあのクマが見えている。",
+      "en": "My eyes once again fell upon THAT bear.",
+      "text": "My eyes once again fell upon THAT bear."
+    },
+    {
+      "offset": 2788,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「杉並、一つだけ聞いていいか？」",
+      "en": "\"Suginami, do you mind if I ask you something?\"",
+      "text": "\"Suginami, do you mind if I ask you something?\""
+    },
+    {
+      "offset": 2827,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "不思議そうにこくりと頷く杉並。",
+      "en": "Suginami, looking curious, nodded.",
+      "text": "Suginami, looking curious, nodded."
+    },
+    {
+      "offset": 2864,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺、やっぱり、疲れているように見える？」",
+      "en": "\"Do I look tired to you?\"",
+      "text": "\"Do I look tired to you?\""
+    },
+    {
+      "offset": 2941,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「特には見えないが……、疲れているのか？\n　そうか、そうか。朝倉妹も大変だな」",
+      "en": "\"Not particularly... you're tired? I see, I see. Nemu must\nbe a monster, huh?\"",
+      "text": "\"Not particularly... you're tired? I see, I see. Nemu must\nbe a monster, huh?\""
+    },
+    {
+      "offset": 3025,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「な　ん　の　は　な　し　だ」",
+      "en": "\"...What...was...that.\"",
+      "text": "\"...What...was...that.\""
+    },
+    {
+      "offset": 3090,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「冗談だ。お前達はまだ若い。そんなに簡単に\n　は疲れる訳はないよな」",
+      "en": "\"Just kidding. You're still young, you won't tire from that\nso easily.\"",
+      "text": "\"Just kidding. You're still young, you won't tire from that\nso easily.\""
+    },
+    {
+      "offset": 3164,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「まだ言うか！」",
+      "en": "\"Still talking that crap?!\"",
+      "text": "\"Still talking that crap?!\""
+    },
+    {
+      "offset": 3215,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「冗談だと言っているだろう。だが、疲れてい\n　るように見えないのは本当だ。何かあったの\n　か？」",
+      "en": "\"I told you I was joking! Although truthfully, you don't\nlook tired at all to me. Did something happen?\"",
+      "text": "\"I told you I was joking! Although truthfully, you don't\nlook tired at all to me. Did something happen?\""
+    },
+    {
+      "offset": 3316,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……言うべきか、言わざるべきか」",
+      "en": "\"...To tell, or not to tell.\"",
+      "text": "\"...To tell, or not to tell.\""
+    },
+    {
+      "offset": 3385,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「どうした、朝倉」",
+      "en": "\"What's wrong, Asakura?\"",
+      "text": "\"What's wrong, Asakura?\""
+    },
+    {
+      "offset": 3410,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「いや、俺は今ある出来事に直面している。し\n　かし、それがとても現実的ではないため、信\n　じてもらえるかどうか……」",
+      "en": "\"Nevermind... what I'm seeing now is too crazy for anyone to\nbelieve...\"",
+      "text": "\"Nevermind... what I'm seeing now is too crazy for anyone to\nbelieve...\""
+    },
+    {
+      "offset": 3559,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「何を言っている？　俺を誰だと思っているん\n　だ？　それがどんなできごとであれ、頭ごな\n　しに否定することなどしない」",
+      "en": "\"What are you talking about? Do you remember who you're\ntalking to? No matter how unbelievable the matter is, I'd\nbelieve it!\"",
+      "text": "\"What are you talking about? Do you remember who you're\ntalking to? No matter how unbelievable the matter is, I'd\nbelieve it!\""
+    },
+    {
+      "offset": 3682,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「本当か？　信じていいのか？」",
+      "en": "\"Really? You'd believe me?\"",
+      "text": "\"Really? You'd believe me?\""
+    },
+    {
+      "offset": 3730,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ああ。たとえ、幻聴を聞くだの、幻覚を見る\n　だの言われても、俺はきちんと話を聞くぞ」",
+      "en": "\"Of course! Even if you've heard something or seen something\namazing, no matter what it is, I'd listen to you.\"",
+      "text": "\"Of course! Even if you've heard something or seen something\namazing, no matter what it is, I'd listen to you.\""
+    },
+    {
+      "offset": 3833,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「教室の中を宇宙人が侵略していると言われて\n　も、動揺はしない」",
+      "en": "\"Even if you told me that aliens were overrunning this\nclassroom, I will not be fazed!\"",
+      "text": "\"Even if you told me that aliens were overrunning this\nclassroom, I will not be fazed!\""
+    },
+    {
+      "offset": 3903,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さすがミス研だ。こういう時は、杉並が頼もし\nく見える。きっと、俺の悩みもきちんと聞いて\nくれるに違いない。",
+      "en": "Thank goodness... at least in these times, Suginami's a\nreliable person. He'd surely listen and understand my\nhallucinations.",
+      "text": "Thank goodness... at least in these times, Suginami's a\nreliable person. He'd surely listen and understand my\nhallucinations."
+    },
+    {
+      "offset": 4014,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「実はな……教室の中に、クマの着ぐるみを着\n　たヤツがいるんだよ……！」",
+      "en": "\"The truth is... there's a bear in the classroom right\nnow...!\"",
+      "text": "\"The truth is... there's a bear in the classroom right\nnow...!\""
+    },
+    {
+      "offset": 4120,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………貴様は何を言うとるんだ」",
+      "en": "\"...What the hell are you talking about.\"",
+      "text": "\"...What the hell are you talking about.\""
+    },
+    {
+      "offset": 4161,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並が軽蔑した目で俺を見る。",
+      "en": "Suginami glared at me with scorn in his eyes.",
+      "text": "Suginami glared at me with scorn in his eyes."
+    },
+    {
+      "offset": 4196,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お前、さっききちんと話を聞くって言っただ\n　ろ！！」",
+      "en": "\"You just said you'd surely understand and believe my\nwords!!\"",
+      "text": "\"You just said you'd surely understand and believe my\nwords!!\""
+    },
+    {
+      "offset": 4256,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぽんと、俺の肩に手が置かれる。",
+      "en": "He patted my shoulder pitifully.",
+      "text": "He patted my shoulder pitifully."
+    },
+    {
+      "offset": 4321,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「朝倉妹を悲しませることだけは、するんじゃ\n　ないぞ」",
+      "en": "\"Younger sister Asakura will certainly be sad to hear\nthis...\"",
+      "text": "\"Younger sister Asakura will certainly be sad to hear\nthis...\""
+    },
+    {
+      "offset": 4381,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並は、深いため息をつくと、俺の目の前を横\n切り、教室の中へ入っていった。",
+      "en": "Suginami looked at me one last time, sighed deeply, then\nreturned to his desk.",
+      "text": "Suginami looked at me one last time, sighed deeply, then\nreturned to his desk."
+    },
+    {
+      "offset": 4468,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目を閉じ、またゴシゴシとやる。目を開けた時、\n俺の知っているいつもの風景が待っていること\nを願って。",
+      "en": "I close my eyes and rub them again. As I open them, I pray\nthat the usual scene I know will return to my view.",
+      "text": "I close my eyes and rub them again. As I open them, I pray\nthat the usual scene I know will return to my view."
+    },
+    {
+      "offset": 4571,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だが、｛・・／現実｝はそう甘くはなかった。",
+      "en": "But, reality is never that sweet.",
+      "text": "But, reality is never that sweet."
+    },
+    {
+      "offset": 4620,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「やっぱり、いるよな」",
+      "en": "\"It really is there...\"",
+      "text": "\"It really is there...\""
+    },
+    {
+      "offset": 4649,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ピンク色のクマがウチの制服を着て、ＨＲ前の\n時間をごく当たり前のように過ごしていた。",
+      "en": "As I continue staring at the pink bear and it's school\nuniform, I realize that it's almost time for HR.",
+      "text": "As I continue staring at the pink bear and it's school\nuniform, I realize that it's almost time for HR."
+    },
+    {
+      "offset": 4737,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "仕方なく、俺は自分の席に座る。",
+      "en": "With no other choice, I return to my desk.",
+      "text": "With no other choice, I return to my desk."
+    },
+    {
+      "offset": 4772,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今、俺は、自分のことを胸を張って正常だ！\nとは言いにくくなっている。",
+      "en": "Right now, I have to believe in what I feel in my heart!\n...I try to tell myself, anyway.",
+      "text": "Right now, I have to believe in what I feel in my heart!\n...I try to tell myself, anyway."
+    },
+    {
+      "offset": 4844,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だが、しかし、正常であると思いたい。いや、\n正常だ。",
+      "en": "But, really, this does seem to be reality... no, it is\nreality.",
+      "text": "But, really, this does seem to be reality... no, it is\nreality."
+    },
+    {
+      "offset": 4900,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なら、この状況は……。",
+      "en": "Then, how to explain this situation...",
+      "text": "Then, how to explain this situation..."
+    },
+    {
+      "offset": 4927,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もしかして、今日からコスプレデー？",
+      "en": "Maybe today is cosplay day?",
+      "text": "Maybe today is cosplay day?"
+    },
+    {
+      "offset": 4966,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "誰だかわからないけれど、アイツはクマの格好\nで、他の連中も実は、何かのコスプレをする予\n定ってのはどうだ？",
+      "en": "No one else seems to be bothered by it, and it's definitely\nin the shape of a bear... maybe there was some cosplay\narrangement?",
+      "text": "No one else seems to be bothered by it, and it's definitely\nin the shape of a bear... maybe there was some cosplay\narrangement?"
+    },
+    {
+      "offset": 5075,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "じゃあ、ここは俺が率先して、コスプレをしな\nければなるまい。",
+      "en": "Then I might as well take the iniatiative and participate\ntoo.",
+      "text": "Then I might as well take the iniatiative and participate\ntoo."
+    },
+    {
+      "offset": 5139,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そうすれば、恥ずかしがっているみんなも、徐々\nに参加してくれるに違いない。",
+      "en": "I bet everyone else is too shy to unless someone else does\nfirst, so I'd start the chain reaction.",
+      "text": "I bet everyone else is too shy to unless someone else does\nfirst, so I'd start the chain reaction."
+    },
+    {
+      "offset": 5219,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「確か、鞄の中に手袋があったな」",
+      "en": "\"I think I have a glove in my bag...\"",
+      "text": "\"I think I have a glove in my bag...\""
+    },
+    {
+      "offset": 5258,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、手袋を裏返し、頭の上にふたつ立てる。",
+      "en": "I turn the glove inside out, and place it on my head.",
+      "text": "I turn the glove inside out, and place it on my head."
+    },
+    {
+      "offset": 5340,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「朝倉、お前何やってんだ？」",
+      "en": "\"Asakura, what on earth are you doing?\"",
+      "text": "\"Asakura, what on earth are you doing?\""
+    },
+    {
+      "offset": 5375,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「え、俺は……ウサチャンってところ？　さし\n　ずめ、お前は、サルってところか？」",
+      "en": "\"Eh, I'm being a rabbit? What about you, being a monkey I\nsuppose?\"",
+      "text": "\"Eh, I'm being a rabbit? What about you, being a monkey I\nsuppose?\""
+    },
+    {
+      "offset": 5489,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「誰がサルだ……」",
+      "en": "\"I wonder who's the real monkey here...\"",
+      "text": "\"I wonder who's the real monkey here...\""
+    },
+    {
+      "offset": 5514,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「クマがいて、ウサギがいて、サル、イヌ、ネ\n　コ……」",
+      "en": "\"We have a bear and a rabbit, now we need a monkey, dog, and\ncat...\"",
+      "text": "\"We have a bear and a rabbit, now we need a monkey, dog, and\ncat...\""
+    },
+    {
+      "offset": 5602,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「いまいち、朝倉の意図がわからないんだが\n　……」",
+      "en": "\"I don't know, and I don't think I want to ask.\"",
+      "text": "\"I don't know, and I don't think I want to ask.\""
+    },
+    {
+      "offset": 5658,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「ほら、あそこにクマの着ぐるみを着たヤツが\n　いるだろ？　だから、俺はウサギの格好をし、\n　工藤はサルでさ……」",
+      "en": "\"Don't you see the bear sitting over there? So I'd be the\nrabbit, you'd be the bear...\"",
+      "text": "\"Don't you see the bear sitting over there? So I'd be the\nrabbit, you'd be the bear...\""
+    },
+    {
+      "offset": 5775,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はクマのいる方を指さしてみる。",
+      "en": "I point to where the bear was sitting.",
+      "text": "I point to where the bear was sitting."
+    },
+    {
+      "offset": 5842,
+      "speaker": "Kudou",
+      "speaker_jp": "工藤",
+      "jp": "「病院行くなら、先生に言っておいてやるぞ」",
+      "en": "\"...You should tell the teacher that you need to go to the\nnurse's office.\"",
+      "text": "\"...You should tell the teacher that you need to go to the\nnurse's office.\""
+    },
+    {
+      "offset": 5891,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "工藤は、｛ぶべつ／侮蔑｝の目で俺に｛いちべつ／一瞥｝くれると、逃げる\nように離れていった。",
+      "en": "Kudou gave me a withering look, then went back to his seat\naway from me.",
+      "text": "Kudou gave me a withering look, then went back to his seat\naway from me."
+    },
+    {
+      "offset": 5994,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やっぱり、俺がヘンなのか？　俺が異常なのか？",
+      "en": "Maybe... I'm the weird one? I'm the one who's acting\nstrange?",
+      "text": "Maybe... I'm the weird one? I'm the one who's acting\nstrange?"
+    },
+    {
+      "offset": 6043,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぎゅむーっと頬をつねってみる。",
+      "en": "I gave myself a tight slap on the cheek.",
+      "text": "I gave myself a tight slap on the cheek."
+    },
+    {
+      "offset": 6080,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あいてててて！」",
+      "en": "\"Owwww!\"",
+      "text": "\"Owwww!\""
+    },
+    {
+      "offset": 6105,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、正常だ。それを確かめなくては。どうし\nたら、それを確かめることができる。",
+      "en": "I have to be fine... yet everyone else doesn't see it. How\ncan I prove what I'm seeing isn't fake?",
+      "text": "I have to be fine... yet everyone else doesn't see it. How\ncan I prove what I'm seeing isn't fake?"
+    },
+    {
+      "offset": 6187,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "つまり、あのクマを調べれば、全てがわかるは\nずだ……。",
+      "en": "Maybe if I investigate that bear, everything will be\nrevealed...",
+      "text": "Maybe if I investigate that bear, everything will be\nrevealed..."
+    },
+    {
+      "offset": 6245,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は意を決して、腰を上げる。",
+      "en": "Making up my mind, I rise from my seat.",
+      "text": "Making up my mind, I rise from my seat."
+    },
+    {
+      "offset": 6280,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おい、クマ！　そこの……クマ！」",
+      "en": "\"Hey, bear! The bear over...there!\"",
+      "text": "\"Hey, bear! The bear over...there!\""
+    },
+    {
+      "offset": 6321,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "違和感のある言葉に、若干｛ちゅうちょ／躊躇｝しながらも、口\nにする。",
+      "en": "My words were filled with both uncertainty and malice.",
+      "text": "My words were filled with both uncertainty and malice."
+    },
+    {
+      "offset": 6415,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ピンク色のクマは、一瞬ぎょっとして、キョロ\nキョロと辺りを見渡す。そして、不思議そうに\n首を傾げると、また、本を読み始めた。",
+      "en": "The pink bear was startled for a second, then started\nlooking around. Finding nothing, it eventually returned to\nreading.",
+      "text": "The pink bear was startled for a second, then started\nlooking around. Finding nothing, it eventually returned to\nreading."
+    },
+    {
+      "offset": 6553,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「お前、お前だっつーの！」",
+      "en": "\"I'm talking about you! YOU!\"",
+      "text": "\"I'm talking about you! YOU!\""
+    },
+    {
+      "offset": 6586,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、クマのもとにかけより、でかい頭をぐい\nと指でついた。指は、ピンク色のファーにずぶ\nりとめり込んだ。",
+      "en": "I rushed up to the back of the bear, and jabbed my finger\ninto it's head. The pink coloured fur enveloped my thrusted\nfinger.",
+      "text": "I rushed up to the back of the bear, and jabbed my finger\ninto it's head. The pink coloured fur enveloped my thrusted\nfinger."
+    },
+    {
+      "offset": 6693,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "振り返ったクマは、ふるふると｛おび／怯｝えた目で俺の\n方を見る。",
+      "en": "The bear frantically turned it's head to face me, with fear\nin it's eyes.",
+      "text": "The bear frantically turned it's head to face me, with fear\nin it's eyes."
+    },
+    {
+      "offset": 6784,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なんなんだ、お前は！　なんでクマの格好を\n　しているんだよ。ほら、背中にチャックがあ\n　るんだろ？　中に人が入ってるんだろ？」",
+      "en": "\"Why're you wearing a bear costume in school?! It is a\ncostume, right?! There's a zipper at the back, and there's a\nhuman inside, right?\"!!\"",
+      "text": "\"Why're you wearing a bear costume in school?! It is a\ncostume, right?! There's a zipper at the back, and there's a\nhuman inside, right?\"!!\""
+    },
+    {
+      "offset": 6917,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、クマの肩にガッシと手を置く。",
+      "en": "I grabbed the bear by it's shoulders.",
+      "text": "I grabbed the bear by it's shoulders."
+    },
+    {
+      "offset": 6956,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "クマが思わず身体をよじる。",
+      "en": "The bear reactively started twisting it's body around,\nattempting to escape.",
+      "text": "The bear reactively started twisting it's body around,\nattempting to escape."
+    },
+    {
+      "offset": 7000,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ちょっと、朝倉！　あんた紫さんになにして\n　んのよ！」",
+      "en": "\"Stop it, Asakura! What are you trying to do with\nMurasaki-san?!\"",
+      "text": "\"Stop it, Asakura! What are you trying to do with\nMurasaki-san?!\""
+    },
+    {
+      "offset": 7062,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "瞬間、どんっと眞子が俺を突き放す。",
+      "en": "In an instant, Mako had pushed me away from the bear.",
+      "text": "In an instant, Mako had pushed me away from the bear."
+    },
+    {
+      "offset": 7103,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「む、むらさき？　いや、クマが……」",
+      "en": "\"Mu, Murasaki? No, that's a bear...\"",
+      "text": "\"Mu, Murasaki? No, that's a bear...\""
+    },
+    {
+      "offset": 7157,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「クマが、じゃないでしょう！　なんで朝から\n　同級生を襲ってるのよ！」",
+      "en": "\"What bear? More importantly, why the hell are you attacking\nyour classmate?\"",
+      "text": "\"What bear? More importantly, why the hell are you attacking\nyour classmate?\""
+    },
+    {
+      "offset": 7233,
+      "speaker": "Mako",
+      "speaker_jp": "眞子",
+      "jp": "「ど、どうきゅうせい？」",
+      "en": "\"C, classmate?\"",
+      "text": "\"C, classmate?\""
+    },
+    {
+      "offset": 7264,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子が、きつい目で俺を｛にら／睨｝みながらこくりと頷\nく。",
+      "en": "Mako scowled at me, as the rest of the class nodded in\nagreement.",
+      "text": "Mako scowled at me, as the rest of the class nodded in\nagreement."
+    },
+    {
+      "offset": 7326,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "後ろにいた杉並を見ると、やつはまるで汚物で\nも見るような目で俺を見ていた。",
+      "en": "Glancing around, my eyes fell on Suginami, who was glaring\nat me in disgust.",
+      "text": "Glancing around, my eyes fell on Suginami, who was glaring\nat me in disgust."
+    },
+    {
+      "offset": 7454,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さん……、朝からいったい何を酔狂な真似\n　をしているんですか。兄さんのやろうとした\n　ことは、犯罪ですよ？」",
+      "en": "\"Brother...... what kind of vulgar activities are you trying\nto do this morning? Are you trying to be a criminal?\"",
+      "text": "\"Brother...... what kind of vulgar activities are you trying\nto do this morning? Are you trying to be a criminal?\""
+    },
+    {
+      "offset": 7571,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いや、そうじゃなくて、クマが……」",
+      "en": "\"No, I'm not, the bear was...\"",
+      "text": "\"No, I'm not, the bear was...\""
+    },
+    {
+      "offset": 7642,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「クマって何？　……ごめんなさい、紫さん。\n　兄が朝からヘンなことしてしまって……。い\n　え、謝って済む問題かどうか……」",
+      "en": "\"What do you mean, bear? .......I'm sorry, Murasaki-san. My\nbrother's really weird this morning for some reason...\"",
+      "text": "\"What do you mean, bear? .......I'm sorry, Murasaki-san. My\nbrother's really weird this morning for some reason...\""
+    },
+    {
+      "offset": 7815,
+      "speaker": "Bear?",
+      "speaker_jp": "和泉子",
+      "jp": "「あや……、だいじょぶです。私はなんともな\n　いです」",
+      "en": "\"Aya... it's okay, I'm fine...\"",
+      "text": "\"Aya... it's okay, I'm fine...\""
+    },
+    {
+      "offset": 7903,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ほら、兄さんも謝りなさい」",
+      "en": "\"Come on brother, apologize as well.\"",
+      "text": "\"Come on brother, apologize as well.\""
+    },
+    {
+      "offset": 7938,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「謝れって……、このクマに？」",
+      "en": "\"Apologize... to this bear?\"",
+      "text": "\"Apologize... to this bear?\""
+    },
+    {
+      "offset": 7975,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眼前には、無垢な顔をした着ぐるみのクマがい\nる。プラスチックでできていそうな目で、俺の\n方をじーっと見ている。",
+      "en": "In front of me was the pure face of a bear, it's plastic\neyes burning into my soul.",
+      "text": "In front of me was the pure face of a bear, it's plastic\neyes burning into my soul."
+    },
+    {
+      "offset": 8123,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「まだ言ってるんですか！　どこをどう見たら、\n　紫さんがクマに見えるって言うんです！」",
+      "en": "\"You're still going on about that?! Whatever you're seeing,\nstop calling Murasaki-san a bear!\"",
+      "text": "\"You're still going on about that?! Whatever you're seeing,\nstop calling Murasaki-san a bear!\""
+    },
+    {
+      "offset": 8215,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「だって、どう見てもクマが……」",
+      "en": "\"But, I really do see her as a bear...\"",
+      "text": "\"But, I really do see her as a bear...\""
+    },
+    {
+      "offset": 8265,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さんは、紫さんがクマに見えるから、襲お\n　うとしたって言うんですか？」",
+      "en": "\"So you're saying that you attacked her because you saw her\nas a bear?\"",
+      "text": "\"So you're saying that you attacked her because you saw her\nas a bear?\""
+    },
+    {
+      "offset": 8345,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「襲ったんじゃない！　服を脱がして、中を見\n　てやろうと思っただけだ！」",
+      "en": "\"It wasn't an attack! I just wanted to remove her outfit to\nsee what was inside!\"",
+      "text": "\"It wasn't an attack! I just wanted to remove her outfit to\nsee what was inside!\""
+    },
+    {
+      "offset": 8440,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢のショックな顔が見える。",
+      "en": "Nemu recoiled in shock.",
+      "text": "Nemu recoiled in shock."
+    },
+    {
+      "offset": 8490,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の行動はともかく、発言自体はヒジョーにマ\nズイものだったと口にした後、気がついた。",
+      "en": "Once again, I said something incredibly stupid before I\nthought about it.",
+      "text": "Once again, I said something incredibly stupid before I\nthought about it."
+    },
+    {
+      "offset": 8608,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さん……。せめて、人間としての尊厳だけ\n　は、捨てないでください……」",
+      "en": "\"Brother... at the very least, don't throw away what\nremaining shreds of dignity you have left...\"",
+      "text": "\"Brother... at the very least, don't throw away what\nremaining shreds of dignity you have left...\""
+    },
+    {
+      "offset": 8688,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いや、俺は……」",
+      "en": "\"No, I...\"",
+      "text": "\"No, I...\""
+    },
+    {
+      "offset": 8713,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と言いかけて、続けるのをやめた。やはり、ク\nマが見えているのは、俺だけのようだ。",
+      "en": "I tried to explain myself, but cut myself short. I'm really\nthe only one who sees that bear...",
+      "text": "I tried to explain myself, but cut myself short. I'm really\nthe only one who sees that bear..."
+    },
+    {
+      "offset": 8806,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "クラスの連中は、ほとんどの連中が、俺を哀れ\nむか侮蔑するような目で見ている。",
+      "en": "Everyone around me was staring at me with pitiful contempt\nin their eyes.",
+      "text": "Everyone around me was staring at me with pitiful contempt\nin their eyes."
+    },
+    {
+      "offset": 8886,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "当のクマも、俺を切なげな目で見つめている。",
+      "en": "Even the bear itself was staring at me accusingly.",
+      "text": "Even the bear itself was staring at me accusingly."
+    },
+    {
+      "offset": 8935,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「俺……だけ？」",
+      "en": "\"Just...me?\"",
+      "text": "\"Just...me?\""
+    },
+    {
+      "offset": 8958,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一同、ウンと頷く。",
+      "en": "Everyone nodded.",
+      "text": "Everyone nodded."
+    },
+    {
+      "offset": 8983,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「クマじゃ……ない？」",
+      "en": "\"It's not... a bear?\"",
+      "text": "\"It's not... a bear?\""
+    },
+    {
+      "offset": 9012,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一同、クマも含めて、ウンと頷く。まさか、ク\nラス全員で、俺の事を騙しているんじゃないだ\nろうな……。",
+      "en": "Everyone, including the bear, nodded again. The entire class\ncan't be trying to pull wool over my eyes...",
+      "text": "Everyone, including the bear, nodded again. The entire class\ncan't be trying to pull wool over my eyes..."
+    },
+    {
+      "offset": 9115,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今になって思えば、それが一番わかり易い答え\nじゃないか。すべて説明がつく。",
+      "en": "There probably isn't a simple answer for all of this... I\ntry to reason it out in my mind.",
+      "text": "There probably isn't a simple answer for all of this... I\ntry to reason it out in my mind."
+    },
+    {
+      "offset": 9193,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "クマはいる。ここにいるヤツが着ぐるみを着て\nいる。みんなが知らない振りをする。俺が尋ね\nても、知らない振りをする。",
+      "en": "There is a bear. It is wearing clothes. No one else has\nnoticed the bear around. No one else has said that there is\na bear around.",
+      "text": "There is a bear. It is wearing clothes. No one else has\nnoticed the bear around. No one else has said that there is\na bear around."
+    },
+    {
+      "offset": 9310,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いったい、誰がどっきりのプレートを持ってる\nんだ。",
+      "en": "Someone has some poisonous plate somewhere...",
+      "text": "Someone has some poisonous plate somewhere..."
+    },
+    {
+      "offset": 9366,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「みんなで、俺のことからかってんだろッ！\n　俺は騙されないぞッ！」",
+      "en": "\"Everyone, listen to me! I'm not trying to fool you!\"",
+      "text": "\"Everyone, listen to me! I'm not trying to fool you!\""
+    },
+    {
+      "offset": 9438,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、もう一度、クマに掴みかかろうと手を伸\nばす。",
+      "en": "Once more, I reach out for the bear.",
+      "text": "Once more, I reach out for the bear."
+    },
+    {
+      "offset": 9497,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──がらりッ",
+      "en": "--*Bam*",
+      "text": "--*Bam*"
+    },
+    {
+      "offset": 9547,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ほらぁッ！　チャイムなってるよ！　みんな\n　席についたついた！」",
+      "en": "\"All of you! The bell has gone already! Go back to your\nseats at once!\"",
+      "text": "\"All of you! The bell has gone already! Go back to your\nseats at once!\""
+    },
+    {
+      "offset": 9619,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "暦先生が、出席簿をバンバンと叩きながら、教\n室に入ってくる。",
+      "en": "Koyomi-sensei had entered the classroom, banging the\nattendance record on her desk.",
+      "text": "Koyomi-sensei had entered the classroom, banging the\nattendance record on her desk."
+    },
+    {
+      "offset": 9683,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "クラスメイトは蜘蛛の子を散らすように自分の\n席に戻っていく。が、俺はそこから離れる気に\nなれなかった。",
+      "en": "Like a bunch of spiders scattering back to their webs, my\nclassmates returned to their desks. But I just stood there,\ndumbfounded.",
+      "text": "Like a bunch of spiders scattering back to their webs, my\nclassmates returned to their desks. But I just stood there,\ndumbfounded."
+    },
+    {
+      "offset": 9799,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「なにやってる、そこ。朝倉、早く座りなさい」",
+      "en": "\"What are you doing, Asakura? Sit down already.\"",
+      "text": "\"What are you doing, Asakura? Sit down already.\""
+    },
+    {
+      "offset": 9850,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「先生。先生は、このクマの着ぐるみが見えま\n　すよね」",
+      "en": "\"Teacher. You can see this clothes-wearing bear sitting\nright here, right?\"",
+      "text": "\"Teacher. You can see this clothes-wearing bear sitting\nright here, right?\""
+    },
+    {
+      "offset": 9910,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "みんなが騙しているなら。先生なら、この状況\nを打破してくれるはずだ。",
+      "en": "Everyone else must be deceiving me. Surely the teacher can\nfix this mess.",
+      "text": "Everyone else must be deceiving me. Surely the teacher can\nfix this mess."
+    },
+    {
+      "offset": 9982,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まさか、先生も含めて俺を騙しているとは思え\nない。",
+      "en": "She certainly wouldn't try to do that to me... would she?",
+      "text": "She certainly wouldn't try to do that to me... would she?"
+    },
+    {
+      "offset": 10064,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「クマの着ぐるみ？　どこに？　くだらないこ\n　と言ってないで、早く席に着きなさい」",
+      "en": "\"A bear wearing clothes? Where? ...Enough with the mindless\ntalk, go back to your desk.\"",
+      "text": "\"A bear wearing clothes? Where? ...Enough with the mindless\ntalk, go back to your desk.\""
+    },
+    {
+      "offset": 10152,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "先生は、ポケットの中の輪ゴムを指にかけ、俺\nに向かって飛ばす。",
+      "en": "The teacher flung a rubber band at me using her finger, as a\nwarning shot.",
+      "text": "The teacher flung a rubber band at me using her finger, as a\nwarning shot."
+    },
+    {
+      "offset": 10249,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いったい、なにが起こってるんだ？　俺の視界\nには、確かにピンクのクマがいる。",
+      "en": "What on earth is going on here? There's definitely a pink\nbear right there in front of me...",
+      "text": "What on earth is going on here? There's definitely a pink\nbear right there in front of me..."
+    },
+    {
+      "offset": 10329,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なのに、クラスの連中は、まるで何事もなく席\nに着き、先生は何事もなく出席を取っている。",
+      "en": "Yet the class was completely unaware, as was the teacher,\ntaking attendance as usual.",
+      "text": "Yet the class was completely unaware, as was the teacher,\ntaking attendance as usual."
+    },
+    {
+      "offset": 10452,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「──水越眞子、村岡由美、紫和泉子」",
+      "en": "\"--Mizukoshi Mako, Muraoka Yumi, Murasaki Izumiko.\"",
+      "text": "\"--Mizukoshi Mako, Muraoka Yumi, Murasaki Izumiko.\""
+    },
+    {
+      "offset": 10508,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「あい」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 10523,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "クマが返事をする。紫和泉子？　あのクマは紫っ\nて名前か……。",
+      "en": "The bear answered. Murasaki Izumiko? So that bear's name is\nMurasaki...",
+      "text": "The bear answered. Murasaki Izumiko? So that bear's name is\nMurasaki..."
+    },
+    {
+      "offset": 10587,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "つか、どんなヤツだっけ。名前には聞き覚えが\nある。毎日繰り返されている風景が今さっき通\nり過ぎた。",
+      "en": "Now I really wonder what kind of... thing it is. I recall\nthat name before, since it gets called out every day.",
+      "text": "Now I really wonder what kind of... thing it is. I recall\nthat name before, since it gets called out every day."
+    },
+    {
+      "offset": 10688,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "眞子に、村岡、紫、森川、そういう順番だ。",
+      "en": "After Mako is Muraoka, Murasaki and Morikawa.",
+      "text": "After Mako is Muraoka, Murasaki and Morikawa."
+    },
+    {
+      "offset": 10733,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "紫は、いつもあのクマのいる席に座り、暦先生\nの出席取りの声に返事をしていた。",
+      "en": "That Murasaki has always been sitting where the bear is now,\nalways answering Koyomi-sensei's calling of attendance.",
+      "text": "That Murasaki has always been sitting where the bear is now,\nalways answering Koyomi-sensei's calling of attendance."
+    },
+    {
+      "offset": 10813,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "聞き覚えのある声。",
+      "en": "It's a memorable voice, you could say.",
+      "text": "It's a memorable voice, you could say."
+    },
+    {
+      "offset": 10836,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "けれど、姿だけがおぼろげだ。髪は長い？　短\nい？　顔はどんなだ？　きつめ？　おとなしめ？\n背は？",
+      "en": "But the rest of her features are vague to me. Was her hair\nlong? Short? What was her face like? Was she obnoxious?\nQuiet?",
+      "text": "But the rest of her features are vague to me. Was her hair\nlong? Short? What was her face like? Was she obnoxious?\nQuiet?"
+    },
+    {
+      "offset": 10935,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "すべてがピンク色のクマに置き換わっていた。",
+      "en": "Everything I remembered about her has been replaced by a\ngiant pink bear.",
+      "text": "Everything I remembered about her has been replaced by a\ngiant pink bear."
+    },
+    {
+      "offset": 10984,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「やっぱり、おかしいよ！！」",
+      "en": "\"This is SO weird!\"",
+      "text": "\"This is SO weird!\""
+    },
+    {
+      "offset": 11019,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "思わず、立ち上がる。目の前にクマは存在する。\n騙されていようがいまいが、絶対に……いる。",
+      "en": "I thought aloud, and stood up from my desk. The bear was\nright before my eyes. I'm definitely not hallucinating... it\nis there.",
+      "text": "I thought aloud, and stood up from my desk. The bear was\nright before my eyes. I'm definitely not hallucinating... it\nis there."
+    },
+    {
+      "offset": 11139,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「──吉田、米澤、って何がおかしいんだ、朝\n　倉！　おかしいのは、お前だ。保健室行って\n　くるか？」",
+      "en": "\"Yoshita, Yonesawa... there's nothing weird, Asakura! If\nanything's weird, it's you. Do you need to go to the\ndoctor's office?\"",
+      "text": "\"Yoshita, Yonesawa... there's nothing weird, Asakura! If\nanything's weird, it's you. Do you need to go to the\ndoctor's office?\""
+    },
+    {
+      "offset": 11244,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "青筋を立てる暦先生が、ぎろりと俺を睨み付け\nる。",
+      "en": "With veins visible in her forehead, Koyomi-sensei glared at\nme, as if ready to do battle.",
+      "text": "With veins visible in her forehead, Koyomi-sensei glared at\nme, as if ready to do battle."
+    },
+    {
+      "offset": 11298,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ、いや、その……」",
+      "en": "\"Uh, no, I mean...\"",
+      "text": "\"Uh, no, I mean...\""
+    },
+    {
+      "offset": 11327,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうやら、これ以上は何も言わない方がよさそ\nうな気がする。何を言っても、俺の味方はいそ\nうもない。",
+      "en": "I finally realize that I shouldn't say anything about this.\nNo matter what I say, no one will believe me...",
+      "text": "I finally realize that I shouldn't say anything about this.\nNo matter what I say, no one will believe me..."
+    },
+    {
+      "offset": 11463,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「白河先生、私が兄の頭を冷やさせてきます\n　……」",
+      "en": "\"Shirakawa-sensei, I'd go and cool my brother's head...\"",
+      "text": "\"Shirakawa-sensei, I'd go and cool my brother's head...\""
+    },
+    {
+      "offset": 11519,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢が挙手をしながら立ち上がる。",
+      "en": "Nemu raised her hand and stood up at the same time.",
+      "text": "Nemu raised her hand and stood up at the same time."
+    },
+    {
+      "offset": 11586,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ほら、兄さん。保健室にでも行きましょう」",
+      "en": "\"Come on, brother. Let's go to the nurse's office.\"",
+      "text": "\"Come on, brother. Let's go to the nurse's office.\""
+    },
+    {
+      "offset": 11644,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢はそう言って、俺の腕を掴んだ。有無を言\nわさず立ち上がらされ、教室の外へと連れ出さ\nれていく。すっかり狂人扱いだ。",
+      "en": "Nemu grabbed my hand, and without waiting for an answer,\ndragged me out of the classroom. As if I was some lunatic.",
+      "text": "Nemu grabbed my hand, and without waiting for an answer,\ndragged me out of the classroom. As if I was some lunatic."
+    },
+    {
+      "offset": 11795,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「なあ、音夢。紫ってどんなヤツだっけ？」",
+      "en": "\"...Hey Nemu. What kind of person is Murasaki like?\"",
+      "text": "\"...Hey Nemu. What kind of person is Murasaki like?\""
+    },
+    {
+      "offset": 11875,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「紫さん？」",
+      "en": "\"Murasaki-san?\"",
+      "text": "\"Murasaki-san?\""
+    },
+    {
+      "offset": 11894,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音夢が、買ってきた缶コーヒーを俺に手渡す。",
+      "en": "Nemu handed me the canned coffee she bought.",
+      "text": "Nemu handed me the canned coffee she bought."
+    },
+    {
+      "offset": 11941,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "甘ったるいコーヒーを飲んで、俺はようやく落\nち着けた気がする。",
+      "en": "The taste of the coffee quickly calmed me down.",
+      "text": "The taste of the coffee quickly calmed me down."
+    },
+    {
+      "offset": 12037,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そうね。おとなしくてほとんど目立たないけ\n　ど、とてもいい子だと思うけど？」",
+      "en": "\"Well, she's kinda quiet and doesn't really stand out, but I\nthink she's a good girl?\"",
+      "text": "\"Well, she's kinda quiet and doesn't really stand out, but I\nthink she's a good girl?\""
+    },
+    {
+      "offset": 12121,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「髪型は？　体型は？」",
+      "en": "\"What about her hair? And her looks?\"",
+      "text": "\"What about her hair? And her looks?\""
+    },
+    {
+      "offset": 12178,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「ヘンな兄さん。紫さんは長い髪で、ほっそり\n　とした綺麗な顔立ちよ」",
+      "en": "\"You're weird today, brother. She has long hair and very\ncute features.\"",
+      "text": "\"You're weird today, brother. She has long hair and very\ncute features.\""
+    },
+    {
+      "offset": 12252,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そっか」",
+      "en": "\"I see.\"",
+      "text": "\"I see.\""
+    },
+    {
+      "offset": 12278,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "長い髪で、ほっそりとした綺麗な顔立ちね。俺\nはクラスの女子の顔を一人一人思い浮かべよう\nとした。",
+      "en": "Long hair, and cute. I run through the faces of all the\ngirls in my class with said attributes one-by-one in my\nhead.",
+      "text": "Long hair, and cute. I run through the faces of all the\ngirls in my class with said attributes one-by-one in my\nhead."
+    },
+    {
+      "offset": 12377,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さほど仲のよいヤツ、まったく興味のないヤツ\nなど、何人かいたが、それでもぼんやりと顔形\nが思い出せた。",
+      "en": "No matter how fleeting my initial impression, no matter how\nlittle interest I may have, I always remember people's\nfaces.",
+      "text": "No matter how fleeting my initial impression, no matter how\nlittle interest I may have, I always remember people's\nfaces."
+    },
+    {
+      "offset": 12482,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "けれど、紫だけは、まるで写真の上からマジッ\nクで顔を塗りつぶされたような、",
+      "en": "But somehow, for Murasaki, my photographic memory finally\nfailed me.",
+      "text": "But somehow, for Murasaki, my photographic memory finally\nfailed me."
+    },
+    {
+      "offset": 12560,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "もしくはハサミで切り取られたかのように、思\nい浮かぶことはなかった。",
+      "en": "No matter how hard I tried, I just could not put a face to\nthat name.",
+      "text": "No matter how hard I tried, I just could not put a face to\nthat name."
+    },
+    {
+      "offset": 12634,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「前からいたっけ？」",
+      "en": "\"Have I met her before?\"",
+      "text": "\"Have I met her before?\""
+    },
+    {
+      "offset": 12694,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「いたでしょう、もう。あ、でも、うちの学校\n　に来たのは三年生になってからかな」",
+      "en": "\"Of course you have, geez. Oh yeah, but she only came here\nat the start of the third year, though.\"",
+      "text": "\"Of course you have, geez. Oh yeah, but she only came here\nat the start of the third year, though.\""
+    },
+    {
+      "offset": 12780,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「そっか」",
+      "en": "\"Ahh...\"",
+      "text": "\"Ahh...\""
+    },
+    {
+      "offset": 12825,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「どうしたの、兄さん。朝からヘンなことばっ\n　かり」",
+      "en": "\"What's wrong, brother? You're acting really weird today.\"",
+      "text": "\"What's wrong, brother? You're acting really weird today.\""
+    },
+    {
+      "offset": 12883,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「……いや。もう大丈夫だ。なんだか疲れたん\n　だろう。ほら、お前は早く教室へ帰れ」",
+      "en": "\"...Nothing, I'm all right now. I was just a little tired.\nAnyway, you should hurry back to class.\"",
+      "text": "\"...Nothing, I'm all right now. I was just a little tired.\nAnyway, you should hurry back to class.\""
+    },
+    {
+      "offset": 12999,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「兄さんはどうするんですか」",
+      "en": "\"What will you be doing?\"",
+      "text": "\"What will you be doing?\""
+    },
+    {
+      "offset": 13034,
+      "speaker": "Nemu",
+      "speaker_jp": "音夢",
+      "jp": "「俺か？　俺は、都合がいいから１時限目は、\n　このままここで寝ていくことに決めた」",
+      "en": "\"Me? I'd probably just rest here for another period or\nso...\"",
+      "text": "\"Me? I'd probably just rest here for another period or\nso...\""
+    },
+    {
+      "offset": 13139,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言って、ばっと毛布を頭まで被る。",
+      "en": "I pull the blanket over my head.",
+      "text": "I pull the blanket over my head."
+    },
+    {
+      "offset": 13211,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "クマは……俺の幻覚かも知れない。",
+      "en": "That bear... I don't know whether I'm hallucinating about it\nanymore.",
+      "text": "That bear... I don't know whether I'm hallucinating about it\nanymore."
+    },
+    {
+      "offset": 13248,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "クラスメイトの紫ってヤツのことを思い出すこ\nとはできなかったけれど、俺のクラスにいたこ\nとだけは思い出せる。",
+      "en": "Despite knowing nearly everything about my class, I still\ncan't picture the human Murasaki in my mind.",
+      "text": "Despite knowing nearly everything about my class, I still\ncan't picture the human Murasaki in my mind."
+    },
+    {
+      "offset": 13359,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうして、あんな突拍子もないマボロシを見て\nしまったのかわからないけれど、きっと気の迷\nいに違いない。",
+      "en": "Why can't I even remember this supposedly normal-looking\nphantom? It must be some fault of my mood right now...",
+      "text": "Why can't I even remember this supposedly normal-looking\nphantom? It must be some fault of my mood right now..."
+    },
+    {
+      "offset": 13464,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こうして保健室でゆっくり休んでいると、さっ\nきまで｛かたく／頑｝なにクマがいるのだと主張していた俺\nは、",
+      "en": "Maybe after I take a good rest here, I can clear my head and\nmaybe stop stubornly claiming that I can see a bear...",
+      "text": "Maybe after I take a good rest here, I can clear my head and\nmaybe stop stubornly claiming that I can see a bear..."
+    },
+    {
+      "offset": 13571,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただただ、疲れていただけに違いないと思える\nようになってきた。",
+      "en": "Daaah! I can't sleep just yet!",
+      "text": "Daaah! I can't sleep just yet!"
+    },
+    {
+      "offset": 13637,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "このまま寝ていれば、さっきの出来事なんて、\n気にならなくなっているはずだ。",
+      "en": "If I do, I'd completely forget what happened just now.",
+      "text": "If I do, I'd completely forget what happened just now."
+    },
+    {
+      "offset": 13715,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "紫には、悪いことをしたな。まさか、学校で服\nを脱がされそうになるなんてな。",
+      "en": "I did something pretty bad to Murasaki... I did try to take\noff her clothes, after all.",
+      "text": "I did something pretty bad to Murasaki... I did try to take\noff her clothes, after all."
+    },
+    {
+      "offset": 13793,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "後で、きちんと謝っておこう。",
+      "en": "I have to apologize to her soon.",
+      "text": "I have to apologize to her soon."
+    },
+    {
+      "offset": 13826,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただ、それにしては、あのふかふかの手触りは\n生々しかったなぁ……。",
+      "en": "Yet I still can't forget the soft and fluffy feel of fur on\nmy hand...",
+      "text": "Yet I still can't forget the soft and fluffy feel of fur on\nmy hand..."
+    },
+    {
+      "offset": 13896,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、布団の中で、心地よさそうに、『んああ\n……』と声を漏らした。",
+      "en": "Still lying on the futon in the nurse's office, I let on a\nlarge yawn.",
+      "text": "Still lying on the futon in the nurse's office, I let on a\nlarge yawn."
+    },
+    {
+      "offset": 13966,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "毛布の外で、音夢のため息が聞こえた。",
+      "en": "From outside my blanket, I heard Nemu sigh.",
+      "text": "From outside my blanket, I heard Nemu sigh."
+    },
+    {
+      "offset": 14007,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──そして、しばらくして。",
+      "en": "--A little while later,",
+      "text": "--A little while later,"
+    },
+    {
+      "offset": 14053,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「……あの、朝倉さん？」",
+      "en": "\"Um, Asakura-san?\"",
+      "text": "\"Um, Asakura-san?\""
+    },
+    {
+      "offset": 14086,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "毛布の外から、か細い声が聞こえた。",
+      "en": "I heard a timid voice through the blanket.",
+      "text": "I heard a timid voice through the blanket."
+    },
+    {
+      "offset": 14127,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「誰？」",
+      "en": "\"Who is it?\"",
+      "text": "\"Who is it?\""
+    },
+    {
+      "offset": 14155,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「私です、紫です」",
+      "en": "\"It's me, Murasaki.\"",
+      "text": "\"It's me, Murasaki.\""
+    },
+    {
+      "offset": 14180,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「ああ、紫か。さっきは悪かったな。俺がどう\n　かしていたらしい……。決して、傷つけるつ\n　もりはなかったんだ。本当にすまん」",
+      "en": "\"Ah, Murasaki... Sorry about earlier. I don't know what I\nwas thinking... but I honestly wasn't trying to hurt you.",
+      "text": "\"Ah, Murasaki... Sorry about earlier. I don't know what I\nwas thinking... but I honestly wasn't trying to hurt you."
+    },
+    {
+      "offset": 14309,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、バツが悪くて、すぐには顔を合わせる気\nにはならなかった。",
+      "en": "I made a heartfelt apology, but didn't have the guts to face\nher.",
+      "text": "I made a heartfelt apology, but didn't have the guts to face\nher."
+    },
+    {
+      "offset": 14390,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「あや、そんなことはいいんです……。気にし\n　てないですから」",
+      "en": "\"Aya, I'm fine with it... please don't worry about that.\"",
+      "text": "\"Aya, I'm fine with it... please don't worry about that.\""
+    },
+    {
+      "offset": 14458,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「優しいな、紫は……」",
+      "en": "\"You're kind, Murasaki...\"",
+      "text": "\"You're kind, Murasaki...\""
+    },
+    {
+      "offset": 14487,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ようやく、俺は毛布から顔を出す。",
+      "en": "I finally uncover my face from the blanket.",
+      "text": "I finally uncover my face from the blanket."
+    },
+    {
+      "offset": 14543,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "顔を出すと、その目の前には──。",
+      "en": "Ance once I did, in front of my eyes was--",
+      "text": "Ance once I did, in front of my eyes was--"
+    },
+    {
+      "offset": 14609,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「のっ、のわあああ！　クッ、クマッ！」",
+      "en": "\"W, WAHHHHHH! B, BEAR!\"",
+      "text": "\"W, WAHHHHHH! B, BEAR!\""
+    },
+    {
+      "offset": 14654,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "視界を覆い隠すようにピンク色の顔がそこにあっ\nた。",
+      "en": "Yet again, I saw the pink bear.",
+      "text": "Yet again, I saw the pink bear."
+    },
+    {
+      "offset": 14740,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「あっ、あややッ！」",
+      "en": "\"A, ayaya!\"",
+      "text": "\"A, ayaya!\""
+    },
+    {
+      "offset": 14767,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "出会い頭に、お互いに身体をのけぞらせる。",
+      "en": "We simultaneously recoil in a combination of surprise and\nhorror.",
+      "text": "We simultaneously recoil in a combination of surprise and\nhorror."
+    },
+    {
+      "offset": 14812,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "気を落ち着けて、体勢を整えて、目を懲らして\n見たが、やはりそこにはクマがいた。",
+      "en": "I calm myself, straight my posture, blink my eyes a few\ntimes... and that freaking bear is still there.",
+      "text": "I calm myself, straight my posture, blink my eyes a few\ntimes... and that freaking bear is still there."
+    },
+    {
+      "offset": 14896,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「む、紫なのか……」",
+      "en": "\"Mu, Murasaki?...\"",
+      "text": "\"Mu, Murasaki?...\""
+    },
+    {
+      "offset": 14953,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「あい……」",
+      "en": "\"Ya...\"",
+      "text": "\"Ya...\""
+    },
+    {
+      "offset": 14972,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "クマはこくんと頷いた。",
+      "en": "The bear gave a quick nod.",
+      "text": "The bear gave a quick nod."
+    },
+    {
+      "offset": 15031,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「あの……朝倉さんは、私がクマに見えるので\n　すか？」",
+      "en": "\"Uhm... Asakura-san, do you see me as a bear?\"",
+      "text": "\"Uhm... Asakura-san, do you see me as a bear?\""
+    },
+    {
+      "offset": 15091,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「クマに見えるな……」",
+      "en": "\"See you as a bear... Yes...\"",
+      "text": "\"See you as a bear... Yes...\""
+    },
+    {
+      "offset": 15150,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「あの、その、他の人には黙っててくださいま\n　し」",
+      "en": "\"Um, about that, please don't tell anyone else about it...\"",
+      "text": "\"Um, about that, please don't tell anyone else about it...\""
+    },
+    {
+      "offset": 15206,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "クマがぺこりとお辞儀をする。",
+      "en": "The bear bowed in polite request.",
+      "text": "The bear bowed in polite request."
+    },
+    {
+      "offset": 15241,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……てことは、紫は、本当にクマの姿をして\n　いるって訳か」",
+      "en": "\"...You mean, that your real figure is really that of a\nbear?...\"",
+      "text": "\"...You mean, that your real figure is really that of a\nbear?...\""
+    },
+    {
+      "offset": 15337,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「あい。実は、これには事情がありまして……、\n　着ぐるみを着ているだけで、決して私がクマっ\n　て訳じゃないのです」",
+      "en": "\"Ya... the truth is, there's a good reason for this... why\nI'm wearing clothes, and why you see me as a bear...\"",
+      "text": "\"Ya... the truth is, there's a good reason for this... why\nI'm wearing clothes, and why you see me as a bear...\""
+    },
+    {
+      "offset": 15456,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「なんだそりゃ」",
+      "en": "\"Which is?\"",
+      "text": "\"Which is?\""
+    },
+    {
+      "offset": 15509,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「訳は……訳はどうか、聞かないで、ください\n　まし……」",
+      "en": "\"The reason? ...Please don't make me tell the reason...\"",
+      "text": "\"The reason? ...Please don't make me tell the reason...\""
+    },
+    {
+      "offset": 15571,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "クマは俯いたまま、もじもじと身体をくねらせ\nる。",
+      "en": "The bear hung it's head in shame, fidgeting nervously.",
+      "text": "The bear hung it's head in shame, fidgeting nervously."
+    },
+    {
+      "offset": 15625,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どうかって……、聞かない訳にはいかないだ\n　ろ。いくらなんでも気になるぜ？」",
+      "en": "\"Well... It's not like I'd tell anyone else. What's wrong\nwith explaining this whole thing to me?\"",
+      "text": "\"Well... It's not like I'd tell anyone else. What's wrong\nwith explaining this whole thing to me?\""
+    },
+    {
+      "offset": 15722,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「でも、きっと言っても理解して頂けないと思\n　うのです」",
+      "en": "\"But if I do, you probably won't understand or believe\nme...\"",
+      "text": "\"But if I do, you probably won't understand or believe\nme...\""
+    },
+    {
+      "offset": 15784,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「目の前のクマも充分理解できないんだが」",
+      "en": "\"Isn't the fact that I've accepted this bear standing in\nfront of me enough proof that I would?\"",
+      "text": "\"Isn't the fact that I've accepted this bear standing in\nfront of me enough proof that I would?\""
+    },
+    {
+      "offset": 15861,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「あや、そ、そうですよね……」",
+      "en": "\"Aya, I, I suppose...\"",
+      "text": "\"Aya, I, I suppose...\""
+    },
+    {
+      "offset": 15898,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「いいから、聞かせてみ？　こちとら、不思議\n　な出来事には慣れてるんだ」",
+      "en": "\"So would it be okay to tell me? This is pretty weird after\nall.\"",
+      "text": "\"So would it be okay to tell me? This is pretty weird after\nall.\""
+    },
+    {
+      "offset": 15976,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "と言いつつ、この島自体が不思議なのだと思う\nと、慣れもへったくれもないかと、少しおかし\nくなった。",
+      "en": "Although this island is pretty notorious for weird\noccurrences, this one must beat them all easily.",
+      "text": "Although this island is pretty notorious for weird\noccurrences, this one must beat them all easily."
+    },
+    {
+      "offset": 16092,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「あの……、どうか、笑ったり、怒ったり、し\n　ないでくださいましね」",
+      "en": "\"Well... please don't laugh or get mad...\"",
+      "text": "\"Well... please don't laugh or get mad...\""
+    },
+    {
+      "offset": 16166,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「怒らないよ。別に地球を侵略しに来た宇宙人\n　でもあるまいし……」",
+      "en": "\"I won't get mad. Unless you say you're some alien doing\nscouting for an invsaion or something.\"",
+      "text": "\"I won't get mad. Unless you say you're some alien doing\nscouting for an invsaion or something.\""
+    },
+    {
+      "offset": 16268,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「あやや……、やっぱり、言うことができない\n　です」",
+      "en": "\"Ayaya... looks like there's no need for me to say\nanything.\"",
+      "text": "\"Ayaya... looks like there's no need for me to say\nanything.\""
+    },
+    {
+      "offset": 16343,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「どうして？　怒らないって言ってるだろ？\n　それとも、紫は、マジで地球を侵略したり、\n　ウシや住人を誘拐しに来たってのか？」",
+      "en": "\"Why not? I said I won't get mad... unless you mean you're\nreally some alien planning on kidnapping our cattle and\nhumans.\"",
+      "text": "\"Why not? I said I won't get mad... unless you mean you're\nreally some alien planning on kidnapping our cattle and\nhumans.\""
+    },
+    {
+      "offset": 16472,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、自分で言いながら、いかにもくだらなさ\nすぎて、ゲラゲラと笑った。",
+      "en": "I start guffawing at my own joke, if only so someone would.",
+      "text": "I start guffawing at my own joke, if only so someone would."
+    },
+    {
+      "offset": 16546,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さすがにこの歳になると、テレビの言っていた\nことは全部ウソっぱちだとわかっている。",
+      "en": "I didn't expect her to fall for it so well.",
+      "text": "I didn't expect her to fall for it so well."
+    },
+    {
+      "offset": 16664,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「べ、別に侵略や誘拐なんてしません……。そ\n　もそも、銀河連邦で未開惑星の植民行為は固\n　く、禁じられていますし……」",
+      "en": "\"It, it's not about that... it's the Galaxy Federation's\nplan to prevent uncivilized planets from being forcefully\ncolonized...\"",
+      "text": "\"It, it's not about that... it's the Galaxy Federation's\nplan to prevent uncivilized planets from being forcefully\ncolonized...\""
+    },
+    {
+      "offset": 16787,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「は？」",
+      "en": "\"Hah?\"",
+      "text": "\"Hah?\""
+    },
+    {
+      "offset": 16815,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「誘拐だって、生物実験用サンプルなら、人工\n　合成した方が、はるかに手間はかかりません\n　し……」",
+      "en": "\"We don't have the time or motivation to do any kidnapping\nor live experiments or anything like that...\"",
+      "text": "\"We don't have the time or motivation to do any kidnapping\nor live experiments or anything like that...\""
+    },
+    {
+      "offset": 16918,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「……さっきから、何を言っているんだ」",
+      "en": "\"...What were you talking about earlier?\"",
+      "text": "\"...What were you talking about earlier?\""
+    },
+    {
+      "offset": 16963,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "冗談で言った、｛・・／侵略｝やら｛・・／誘拐｝という言葉にそこ\nまでマジメに反応してもらっても困る。",
+      "en": "It worried me quite a bit that she's taking my joke about\ninvasion and kidnapping far more seriously than I expected.",
+      "text": "It worried me quite a bit that she's taking my joke about\ninvasion and kidnapping far more seriously than I expected."
+    },
+    {
+      "offset": 17067,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "というより、ネタだとしても、そこまでそれっ\nぽい返答しないでくれよ……。",
+      "en": "I wasn't exactly expecting any sort of reply for a horrible\njoke like that.",
+      "text": "I wasn't exactly expecting any sort of reply for a horrible\njoke like that."
+    },
+    {
+      "offset": 17158,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「私は、ただ……訳あって、地球に滞在してい\n　るだけです。危害をくわえるつもりもありま\n　せん……」",
+      "en": "\"That is... the reason I'm currently staying on this planet.\nI mean no harm whatsoever...\"",
+      "text": "\"That is... the reason I'm currently staying on this planet.\nI mean no harm whatsoever...\""
+    },
+    {
+      "offset": 17263,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「あの……？　紫さん、一つだけ聞いていいで\n　すか？」",
+      "en": "\"Um...? Murasaki-san, can you tell me one thing?\"",
+      "text": "\"Um...? Murasaki-san, can you tell me one thing?\""
+    },
+    {
+      "offset": 17353,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「あい？」",
+      "en": "\"Ya?\"",
+      "text": "\"Ya?\""
+    },
+    {
+      "offset": 17370,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「あの紫さんは……、なに星人？」",
+      "en": "\"What... planet are you from?\"",
+      "text": "\"What... planet are you from?\""
+    },
+    {
+      "offset": 17422,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「あい……、地球から約８２０光年離れた場所\n　にあるキリト星系第４惑星シーム星人です」",
+      "en": "\"Ah... about 820 light years away from Earth, the 4th planet\nof the Kilito Star System, Sheem.\"",
+      "text": "\"Ah... about 820 light years away from Earth, the 4th planet\nof the Kilito Star System, Sheem.\""
+    },
+    {
+      "offset": 17514,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「は？」",
+      "en": "\"Hah?\"",
+      "text": "\"Hah?\""
+    },
+    {
+      "offset": 17546,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ネタで聞いたつもりだったのに、マジメに答え\nられてもなぁ……。って、ちょっと待って！",
+      "en": "Another serious reply to a lighthearted question... wait,\ndon't tell me...",
+      "text": "Another serious reply to a lighthearted question... wait,\ndon't tell me..."
+    },
+    {
+      "offset": 17636,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あの……、もしかして、マジで宇宙人？」",
+      "en": "\"Um... are you, possibly, an alien?\"",
+      "text": "\"Um... are you, possibly, an alien?\""
+    },
+    {
+      "offset": 17696,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「朝倉さん達から見れば……、そうですね」",
+      "en": "\"As you can see... yes I am.\"",
+      "text": "\"As you can see... yes I am.\""
+    },
+    {
+      "offset": 17743,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「やっぱり、地球侵略に……」",
+      "en": "\"So there really is an earth invasion...\"",
+      "text": "\"So there really is an earth invasion...\""
+    },
+    {
+      "offset": 17791,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「あや、ですから先ほど言ったように、地球\n　自体に侵略価値はあまりないというか、そ\n　の……」",
+      "en": "\"Aya, I told you earlier, there's no real worth in invading\nEarth anyway, so...\"",
+      "text": "\"Aya, I told you earlier, there's no real worth in invading\nEarth anyway, so...\""
+    },
+    {
+      "offset": 17890,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "不思議な島で、不思議な祖母、不思議な力、不\n思議な……。",
+      "en": "A weird island, a weird grandmother, weird powers, so many\nstrange things...",
+      "text": "A weird island, a weird grandmother, weird powers, so many\nstrange things..."
+    },
+    {
+      "offset": 17950,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "数え上げれば、キリがない俺の人生の中で、宇\n宙人に出会ったというのは初めてのことだ。",
+      "en": "Yet no matter how many of those strange things I've\nexperienced, I can't say I've ever met an alien before.",
+      "text": "Yet no matter how many of those strange things I've\nexperienced, I can't say I've ever met an alien before."
+    },
+    {
+      "offset": 18038,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並と宇宙人話で盛り上がることもなかった訳\nではない。",
+      "en": "Suginami's a alien fanatic, so he's talked a lot about these\nthings, although I've rarely listened to him.",
+      "text": "Suginami's a alien fanatic, so he's talked a lot about these\nthings, although I've rarely listened to him."
+    },
+    {
+      "offset": 18096,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただ、それでもファーストコンタクトの話にな\nると、もっとこう……大宇宙のロマン溢れる展\n開を語り合った気がする。",
+      "en": "But I would've figured the first contact would be some form\nof galaxy-wide peace announcement or something...",
+      "text": "But I would've figured the first contact would be some form\nof galaxy-wide peace announcement or something..."
+    },
+    {
+      "offset": 18211,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そのファーストコンタクトの相手が……クマの\n姿をした宇宙人だとは。",
+      "en": "Instead, the first contact... is with a single alien which\napparently looks like a bear.",
+      "text": "Instead, the first contact... is with a single alien which\napparently looks like a bear."
+    },
+    {
+      "offset": 18283,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ええと、本当に宇宙人だっていう証拠はある\n　のか？」",
+      "en": "\"Err, can you provide any proof to show that you're really\nan alien?\"",
+      "text": "\"Err, can you provide any proof to show that you're really\nan alien?\""
+    },
+    {
+      "offset": 18373,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「あや……、その、ええと、証拠っていっても\n　……」",
+      "en": "\"Aya... um... proof, you say...\"",
+      "text": "\"Aya... um... proof, you say...\""
+    },
+    {
+      "offset": 18431,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「いや、悪ぃ。愚問だった」",
+      "en": "\"...Nevermind, sorry. It was a stupid question.\"",
+      "text": "\"...Nevermind, sorry. It was a stupid question.\""
+    },
+    {
+      "offset": 18464,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──クマじゃん。",
+      "en": "--It's a bear after all.",
+      "text": "--It's a bear after all."
+    },
+    {
+      "offset": 18485,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こんなクマの姿をしているのが、地球上にいる\n訳がない。",
+      "en": "The very fact that this bear stands before me cannot be\nexplained by earthly means.",
+      "text": "The very fact that this bear stands before me cannot be\nexplained by earthly means."
+    },
+    {
+      "offset": 18543,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どんな事情があっても、｛・・・・・／宇宙人です｝という説明\n以上に説得力のある理由はないだろう。",
+      "en": "Despite the completely insane-sounding situation under any\nother circumstances, at this point, it's not sounding as\nfar-fetched anymore...",
+      "text": "Despite the completely insane-sounding situation under any\nother circumstances, at this point, it's not sounding as\nfar-fetched anymore..."
+    },
+    {
+      "offset": 18645,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「それにしても、いったいどうしてこんなこと\n　に？」",
+      "en": "\"So anyway, why am I seeing you as a bear?\"",
+      "text": "\"So anyway, why am I seeing you as a bear?\""
+    },
+    {
+      "offset": 18733,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「あい。本来、余計な混乱をさせないために、\n　地球では仮の姿を取っていました。それが紫\n　和泉子です」",
+      "en": "\"Well, originally, to prevent confusion and chaos, I\ntemporarly took the place of a human. That human was\nMurasaki Izumiko.\"",
+      "text": "\"Well, originally, to prevent confusion and chaos, I\ntemporarly took the place of a human. That human was\nMurasaki Izumiko.\""
+    },
+    {
+      "offset": 18853,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「周りの人には、架空の地球人に見えるはずで\n　す」",
+      "en": "\"The people around me treated me just the same as if I was\nreally her.\"",
+      "text": "\"The people around me treated me just the same as if I was\nreally her.\""
+    },
+    {
+      "offset": 18909,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「ま、俺もなんで突然紫のことが見えるように\n　なったのかは正直、わかんないけどな」",
+      "en": "\"Well, I honestly have no idea why, but I've completely\nforgotten what Murasaki looks like anymore, or anything like\nthat...\"",
+      "text": "\"Well, I honestly have no idea why, but I've completely\nforgotten what Murasaki looks like anymore, or anything like\nthat...\""
+    },
+    {
+      "offset": 19027,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「私も謎です。機械が故障している訳ではなさ\n　そうですけど……」",
+      "en": "\"I'm clueless as well. Possibly the machine had a breakdown\nor something...\"",
+      "text": "\"I'm clueless as well. Possibly the machine had a breakdown\nor something...\""
+    },
+    {
+      "offset": 19097,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「しかし、まぁ……初めて出会った地球外生命\n　体が、まさか、クマ型宇宙人だとはなぁ……。\n　しかもぬいぐるみみたいだし……」",
+      "en": "\"But really... I'm meeting a non-earthling intelligent life\nform for the first time, and it's some toy-like bear-type\nalien...\"",
+      "text": "\"But really... I'm meeting a non-earthling intelligent life\nform for the first time, and it's some toy-like bear-type\nalien...\""
+    },
+    {
+      "offset": 19226,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺の頭にあったのは、よくあるグレイ型や、特\n撮に出てくるような侵略宇宙人だった。もしく\nは、アニメのキャラのようなカワイイヤツ。",
+      "en": "In my mind, I was imagining some Grey-type alien, the kind\nthat would want to invade and take over the earth. Instead,\nI get this.",
+      "text": "In my mind, I was imagining some Grey-type alien, the kind\nthat would want to invade and take over the earth. Instead,\nI get this."
+    },
+    {
+      "offset": 19389,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「あの……別に私はクマ型宇宙人って訳ではな\n　いのですが……」",
+      "en": "\"Uhm, I'm not exactly a \"bear-type alien\" or anything like\nthat...\"",
+      "text": "\"Uhm, I'm not exactly a \"bear-type alien\" or anything like\nthat...\""
+    },
+    {
+      "offset": 19457,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「そうなの？」",
+      "en": "\"Is that so?\"",
+      "text": "\"Is that so?\""
+    },
+    {
+      "offset": 19508,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「現状では、生身で暮すことが困難なので、着\n　ているだけです。宇宙服のようなモノで……」",
+      "en": "\"In my present state, my condition would deteriorate quickly\nif I was exposed to this atmosphere... so I wear a space\nsuit...\"",
+      "text": "\"In my present state, my condition would deteriorate quickly\nif I was exposed to this atmosphere... so I wear a space\nsuit...\""
+    },
+    {
+      "offset": 19602,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「……これが、ねぇ」",
+      "en": "\"...Which is this, in other words.\"",
+      "text": "\"...Which is this, in other words.\""
+    },
+    {
+      "offset": 19629,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、紫の姿を上から下へとまるで舐めるよう\nに眺めた。",
+      "en": "I look up and down Murasaki's figure, licking my lips\nunconsciously.",
+      "text": "I look up and down Murasaki's figure, licking my lips\nunconsciously."
+    },
+    {
+      "offset": 19719,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「あや……、そんなにじっくりと見ないでくだ\n　さいまし」",
+      "en": "\"Aya... don't stare at me so carefully like that...\"",
+      "text": "\"Aya... don't stare at me so carefully like that...\""
+    },
+    {
+      "offset": 19781,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "紫が思わず自分の身体を隠すように身をよじる。",
+      "en": "Murasaki, having a bout of self-consciousness, tried somehow\nto hide herself.",
+      "text": "Murasaki, having a bout of self-consciousness, tried somehow\nto hide herself."
+    },
+    {
+      "offset": 19832,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「クマのくせに、照れんなーッ！」",
+      "en": "\"A bear like you, getting embarassed?!\"",
+      "text": "\"A bear like you, getting embarassed?!\""
+    },
+    {
+      "offset": 19901,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「あやや……、クマじゃないです、私はクマじゃ\n　ないですぅ〜！」",
+      "en": "\"Ayaya... I'm not a bear, I'm not a bear~!\"",
+      "text": "\"Ayaya... I'm not a bear, I'm not a bear~!\""
+    },
+    {
+      "offset": 19971,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ピンクの色をした、クマの着ぐるみが太い腕を\nじたばたと振り回す。",
+      "en": "The bear waved her large, bright pink hand around\nfrantically.",
+      "text": "The bear waved her large, bright pink hand around\nfrantically."
+    },
+    {
+      "offset": 20071,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「……でも、その、朝倉さんは、今までの私の\n　話、すべて信じてくれているのですか？」",
+      "en": "\"...in any case, Asakura-san, do you now believe everything\nI've said?\"",
+      "text": "\"...in any case, Asakura-san, do you now believe everything\nI've said?\""
+    },
+    {
+      "offset": 20161,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「さっきも言ったろ？　不思議なことには慣れ\n　てるんだ。わかってしまえば、さほど気には\n　ならないんだよ」",
+      "en": "\"What you said just now? I'm more or less used to weird\nphenomena anwyay. Now that I know this, I feel more relaxed\nthan anything.\"",
+      "text": "\"What you said just now? I'm more or less used to weird\nphenomena anwyay. Now that I know this, I feel more relaxed\nthan anything.\""
+    },
+    {
+      "offset": 20289,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "実は、紫が宇宙人だろうが、地底人だろうが、\n本当はなんでもよかった。",
+      "en": "The truth is, whether she's an alien or some subeterranean,\nI'm really glad anyway.",
+      "text": "The truth is, whether she's an alien or some subeterranean,\nI'm really glad anyway."
+    },
+    {
+      "offset": 20361,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本人が宇宙人だってんなら、宇宙人なんだろう。",
+      "en": "Whether she's really an alien or not,",
+      "text": "Whether she's really an alien or not,"
+    },
+    {
+      "offset": 20410,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺としては、俺の見ていたものが幻覚などでは\nなく、本当に存在することがわかったなら、そ\nれでいい。",
+      "en": "the very fact that I'm not hallucinating about giant pink\nbears existing randomly is enough for me.",
+      "text": "the very fact that I'm not hallucinating about giant pink\nbears existing randomly is enough for me."
+    },
+    {
+      "offset": 20511,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、幻覚ではないという証拠もないと言えば\nないのだが、不思議なことにはなれている。",
+      "en": "Well, there's no proof that I'm not hallucinating and she's\nnot lying to me, but her explanation sounds reasonable\nenough.",
+      "text": "Well, there's no proof that I'm not hallucinating and she's\nnot lying to me, but her explanation sounds reasonable\nenough."
+    },
+    {
+      "offset": 20599,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺が納得できる答えがあれば、それでいいかと、\n思うのだった。",
+      "en": "It's something I can agree with anyway, so that's good\nenough.",
+      "text": "It's something I can agree with anyway, so that's good\nenough."
+    },
+    {
+      "offset": 20663,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だから、紫は、俺の中では、謎の宇宙人という\nことで。",
+      "en": "Yet inside me, I know that this Murasaki is quite an\nenigma...",
+      "text": "Yet inside me, I know that this Murasaki is quite an\nenigma..."
+    },
+    {
+      "offset": 20721,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「しかし……、それにしても……、くく、その\n　格好、なんとかならんものなのか」",
+      "en": "\"But... why does it... heh heh... have to look like that?\"",
+      "text": "\"But... why does it... heh heh... have to look like that?\""
+    },
+    {
+      "offset": 20805,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ピンク色のクマってのは、どれだけシリアスで\nも、思わず笑ってしまいそうになる威力がある。",
+      "en": "It's a bit hard to be serious about talking to a giant pink\nbear.",
+      "text": "It's a bit hard to be serious about talking to a giant pink\nbear."
+    },
+    {
+      "offset": 20897,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "着ぐるみ相手に会話をしている自分がおかしく\nてたまらない。",
+      "en": "Not to mention wearing those clothes on top of that...",
+      "text": "Not to mention wearing those clothes on top of that..."
+    },
+    {
+      "offset": 20991,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「あや……、仕方なかったんです。地球用の服\n　は、現地の動物を模したこれしかなかったの\n　です……」",
+      "en": "\"Aya... it couldn't be helped. I needed to find some\nclothes, so I copied that which I saw on an animal...\"",
+      "text": "\"Aya... it couldn't be helped. I needed to find some\nclothes, so I copied that which I saw on an animal...\""
+    },
+    {
+      "offset": 21096,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「それにしても、こんなぬいぐるみみたいな\n　……」",
+      "en": "\"You mean, a stuffed toy.\"",
+      "text": "\"You mean, a stuffed toy.\""
+    },
+    {
+      "offset": 21182,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「どうしても、未開惑星の情報は少なく、対応\n　している服も少ないので……」",
+      "en": "\"Well, we don't really have much information on this\nuncivilized planet, so clothing information is scarce as\nwell...\"",
+      "text": "\"Well, we don't really have much information on this\nuncivilized planet, so clothing information is scarce as\nwell...\""
+    },
+    {
+      "offset": 21262,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "紫が、申し訳なさそうにそう言った。",
+      "en": "Murasaki gave a light apology with her words.",
+      "text": "Murasaki gave a light apology with her words."
+    },
+    {
+      "offset": 21301,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんだか、地球規模でバカにされているような\n気がする。",
+      "en": "I guess she doesn't think much of the earth in the large\nscale of things.",
+      "text": "I guess she doesn't think much of the earth in the large\nscale of things."
+    },
+    {
+      "offset": 21391,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「あっ、でも、見てください。この服はとても\n　便利で、手のツメの中にいろんなものが入れ\n　られるんですよ」",
+      "en": "\"Ah, now that I remember, look at this! This outfit is\npretty useful, there's a function within the fingernail of\nthe hands...\"",
+      "text": "\"Ah, now that I remember, look at this! This outfit is\npretty useful, there's a function within the fingernail of\nthe hands...\""
+    },
+    {
+      "offset": 21502,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "紫は、そう言って、器用に指先のツメの一つを\n開ける。",
+      "en": "While saying that, Murasaki skillfully opened the fingernail\nof one of her fingers.",
+      "text": "While saying that, Murasaki skillfully opened the fingernail\nof one of her fingers."
+    },
+    {
+      "offset": 21590,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「あい、はちみつキャンディー、食べますか？」",
+      "en": "\"Do you want some honey-flavoured candy?\"",
+      "text": "\"Do you want some honey-flavoured candy?\""
+    },
+    {
+      "offset": 21641,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ツメの先から、コロ、コロン、と飴が転がり出\nた……。",
+      "en": "At the very tip of her fingernail, a bunch of candies were\nrolling around...",
+      "text": "At the very tip of her fingernail, a bunch of candies were\nrolling around..."
+    },
+    {
+      "offset": 21712,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「ふりかけとか入れておいたら、ご飯の時、便\n　利ですよね」",
+      "en": "\"This is really handy for when I get hungry!\"",
+      "text": "\"This is really handy for when I get hungry!\""
+    },
+    {
+      "offset": 21776,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「そう……だな」",
+      "en": "\"I... see.\"",
+      "text": "\"I... see.\""
+    },
+    {
+      "offset": 21799,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "今、ここで、宇宙戦争を起こしてやろうか。そ\nんなことを思いながら、ハチミツキャンディー\nをもらう。",
+      "en": "Right here, right now, is the start of an inter-galactic\nwar. At least, that's what I thought, as I took one of the\ncandies.",
+      "text": "Right here, right now, is the start of an inter-galactic\nwar. At least, that's what I thought, as I took one of the\ncandies."
+    },
+    {
+      "offset": 21932,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「それでは、朝倉さん。私は教室に戻ります」",
+      "en": "\"In any case, Asakura-san, I'm heading back to the\nclassroom.\"",
+      "text": "\"In any case, Asakura-san, I'm heading back to the\nclassroom.\""
+    },
+    {
+      "offset": 21981,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「ああ。まあ、今日のことは気にすんな。とり\n　あえず、事情はわかったからさ」",
+      "en": "\"Okay. Don't worry about what you've said today. I won't\ntell anyone anything, now that I've understood.\"",
+      "text": "\"Okay. Don't worry about what you've said today. I won't\ntell anyone anything, now that I've understood.\""
+    },
+    {
+      "offset": 22076,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「あい、ありがとうございます」",
+      "en": "\"Kay, thank you very much.\"",
+      "text": "\"Kay, thank you very much.\""
+    },
+    {
+      "offset": 22113,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "クマの姿をした俺のクラスメイトがふふふと笑っ\nた。",
+      "en": "If I tell anyone that I have a bear for a classmate, they'd\njust laugh at me anyway.",
+      "text": "If I tell anyone that I have a bear for a classmate, they'd\njust laugh at me anyway."
+    },
+    {
+      "offset": 22199,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「でも、地球へ来て、初めて心地よく本来の自\n　分でお話ができた気がします。なんだかほっ\n　としました」",
+      "en": "\"But, since I've come to earth, this is the first time I've\ntold anyone about this entire thing. It makes me feel\nrelieved...\"",
+      "text": "\"But, since I've come to earth, this is the first time I've\ntold anyone about this entire thing. It makes me feel\nrelieved...\""
+    },
+    {
+      "offset": 22306,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「そっか。まあ、俺も地球人として、他の星の\n　人間と仲良くできるのは、嬉しいからな」",
+      "en": "\"That's understandable. And besides, myself as an earthling,\nI'm happy to be able to meet people from other planets.\"",
+      "text": "\"That's understandable. And besides, myself as an earthling,\nI'm happy to be able to meet people from other planets.\""
+    },
+    {
+      "offset": 22409,
+      "speaker": "Izumiko",
+      "speaker_jp": "和泉子",
+      "jp": "「それじゃ」",
+      "en": "\"Okay, I'd see you around!\"",
+      "text": "\"Okay, I'd see you around!\""
+    },
+    {
+      "offset": 22439,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "紫は、そう言うと、てててっと入り口に向かっ\nて走り出し、保健室から出て行った。",
+      "en": "After saying that, Murasaki silently left the infirmary.",
+      "text": "After saying that, Murasaki silently left the infirmary."
+    },
+    {
+      "offset": 22526,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、まさか宇宙人と出会うとはなぁ。まっ\nたく不思議なものだ。",
+      "en": "Really though, meeting an alien... that has to be pretty\ndamn strange, even by my standards.",
+      "text": "Really though, meeting an alien... that has to be pretty\ndamn strange, even by my standards."
+    },
+    {
+      "offset": 22594,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いやいや、だから、不思議には慣れている。そ\nんな珍しいことじゃあないか。",
+      "en": "No no, I'm already used to strange things, this isn't a rare\nthing for me.",
+      "text": "No no, I'm already used to strange things, this isn't a rare\nthing for me."
+    },
+    {
+      "offset": 22670,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は手のひらの中にカリントウを作り、口の中\nに放りこんだ。",
+      "en": "I make a Karintou in my hand, and throw it in my mouth.",
+      "text": "I make a Karintou in my hand, and throw it in my mouth."
+    },
+    {
+      "offset": 22732,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "相変わらず、くだらない力だ。",
+      "en": "As always, a completely useless power.",
+      "text": "As always, a completely useless power."
+    },
+    {
+      "offset": 22765,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さて、せっかくだから、２時限目もここで寝て\nいるとしようかな……。",
+      "en": "I guess now I'd have to sleep for two periods...",
+      "text": "I guess now I'd have to sleep for two periods..."
+    },
+    {
+      "offset": 22939,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆着ぐるみとの遭遇◆",
+      "en": "◆Encounters of the Clothes-Wearing Animal Kind◆",
+      "text": "◆Encounters of the Clothes-Wearing Animal Kind◆"
+    },
+    {
+      "offset": 22990,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "朝、教室に入ると、なぜか俺の視界にピンクの\nクマの着ぐるみがいた。",
+      "en": "In the morning, as I entered my classroom, somehow, I saw a\npink bear.",
+      "text": "In the morning, as I entered my classroom, somehow, I saw a\npink bear."
+    },
+    {
+      "offset": 23060,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "遊園地のアトラクションで見る、アレだ。",
+      "en": "One of those things that look like they belong in an\namusement park.",
+      "text": "One of those things that look like they belong in an\namusement park."
+    },
+    {
+      "offset": 23103,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しかし、俺以外の誰一人としてピンクのクマで\nはなくクラスメイトの紫和泉子が見えているの\nだという。",
+      "en": "But I was the only one who saw it. Everyone else saw the\nusual classmate, Murasaki Izumiko.",
+      "text": "But I was the only one who saw it. Everyone else saw the\nusual classmate, Murasaki Izumiko."
+    },
+    {
+      "offset": 23204,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、熱でもあるんだろうと罵られ、保健室に\n連れて行かれた。",
+      "en": "I got a bit too heated up about the subject, and was sent to\nthe infirmary.",
+      "text": "I got a bit too heated up about the subject, and was sent to\nthe infirmary."
+    },
+    {
+      "offset": 23268,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "しばらくして、そこにクマがやってきて、自分\nは宇宙人なのだと告白するのだった……。",
+      "en": "After a while, the bear came and confessed that she was\nactually an alien...",
+      "text": "After a while, the bear came and confessed that she was\nactually an alien..."
+    },
+    {
+      "offset": 23354,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、自分のことは内密にしておいてほしい\nと言うのだった。",
+      "en": "She then explained to me the rest of her secrets.",
+      "text": "She then explained to me the rest of her secrets."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "1319": "Suginami",
+    "1632": "Suginami",
+    "1914": "Suginami",
+    "2072": "Suginami",
+    "2626": "Suginami",
+    "2933": "Suginami",
+    "3082": "Suginami",
+    "3207": "Suginami",
+    "3377": "Suginami",
+    "3551": "Suginami",
+    "3722": "Suginami",
+    "3825": "Suginami",
+    "4112": "Suginami",
+    "4313": "Suginami",
+    "5332": "Kudou",
+    "5481": "Kudou",
+    "5594": "Kudou",
+    "5834": "Kudou",
+    "6992": "Mako",
+    "7149": "Mako",
+    "7446": "Nemu",
+    "7634": "Nemu",
+    "7805": "Bear?",
+    "7895": "Nemu",
+    "8115": "Nemu",
+    "8257": "Nemu",
+    "8600": "Nemu",
+    "9541": "Koyomi",
+    "9793": "Koyomi",
+    "10058": "Koyomi",
+    "10446": "Koyomi",
+    "10498": "Izumiko",
+    "11133": "Koyomi",
+    "11455": "Nemu",
+    "11578": "Nemu",
+    "11867": "Nemu",
+    "12029": "Nemu",
+    "12170": "Nemu",
+    "12686": "Nemu",
+    "12817": "Nemu",
+    "12991": "Nemu",
+    "14043": "Izumiko",
+    "14145": "Izumiko",
+    "14380": "Izumiko",
+    "14730": "Izumiko",
+    "14943": "Izumiko",
+    "15021": "Izumiko",
+    "15140": "Izumiko",
+    "15327": "Izumiko",
+    "15499": "Izumiko",
+    "15712": "Izumiko",
+    "15851": "Izumiko",
+    "16082": "Izumiko",
+    "16258": "Izumiko",
+    "16654": "Izumiko",
+    "16805": "Izumiko",
+    "17148": "Izumiko",
+    "17343": "Izumiko",
+    "17412": "Izumiko",
+    "17686": "Izumiko",
+    "17781": "Izumiko",
+    "18363": "Izumiko",
+    "18723": "Izumiko",
+    "18843": "Izumiko",
+    "19017": "Izumiko",
+    "19379": "Izumiko",
+    "19498": "Izumiko",
+    "19709": "Izumiko",
+    "19891": "Izumiko",
+    "20061": "Izumiko",
+    "20981": "Izumiko",
+    "21172": "Izumiko",
+    "21381": "Izumiko",
+    "21580": "Izumiko",
+    "21702": "Izumiko",
+    "21922": "Izumiko",
+    "22066": "Izumiko",
+    "22189": "Izumiko",
+    "22399": "Izumiko"
+  }
+}

@@ -1,0 +1,525 @@
+{
+  "scene": "script_0308.obj",
+  "dialogues": [
+    {
+      "offset": 151,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「やばいな」",
+      "en": "\"Oh, no.\"",
+      "text": "\"Oh, no.\""
+    },
+    {
+      "offset": 170,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "スタートが遅れたか……。",
+      "en": "I'm late......",
+      "text": "I'm late......"
+    },
+    {
+      "offset": 199,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ほんの１・２分の違いなのだが、朝のこの時間\nにおいては、致命的な差となって結果に現れる。",
+      "en": "It's only a matter of one or two minutes, but it makes a\nhuge difference in the morning.",
+      "text": "It's only a matter of one or two minutes, but it makes a\nhuge difference in the morning."
+    },
+    {
+      "offset": 291,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――遅刻。",
+      "en": "'Tardiness'.",
+      "text": "'Tardiness'."
+    },
+    {
+      "offset": 306,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その２文字が頭をよぎる。",
+      "en": "That word crossed my mind.",
+      "text": "That word crossed my mind."
+    },
+    {
+      "offset": 337,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「くっ……」",
+      "en": "\"Arrgg......\"",
+      "text": "\"Arrgg......\""
+    },
+    {
+      "offset": 356,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まだ諦めるのは早い。",
+      "en": "It's too early to give up yet.",
+      "text": "It's too early to give up yet."
+    },
+    {
+      "offset": 407,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 425,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 471,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ぐはっ……」",
+      "en": "\"Arrgg......\"",
+      "text": "\"Arrgg......\""
+    },
+    {
+      "offset": 492,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "走るのをやめ、力尽きるように地に膝を着く。",
+      "en": "I stopped running and fell onto my knees.",
+      "text": "I stopped running and fell onto my knees."
+    },
+    {
+      "offset": 539,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "これで遅刻は決定か。今週は音夢が風紀委員と\nして校門に立っている。",
+      "en": "Now I'm officially late. Nemu will be at the gate to watch\nfor students like me.",
+      "text": "Now I'm officially late. Nemu will be at the gate to watch\nfor students like me."
+    },
+    {
+      "offset": 609,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "このまま校門にいけば……。",
+      "en": "If I appear there......",
+      "text": "If I appear there......"
+    },
+    {
+      "offset": 642,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「しばかれるのは確実だな」",
+      "en": "\"I'm sure she'll give me a hard time.\"",
+      "text": "\"I'm sure she'll give me a hard time.\""
+    },
+    {
+      "offset": 675,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "裏からまわるか……。",
+      "en": "Maybe I can get in from the back......",
+      "text": "Maybe I can get in from the back......"
+    },
+    {
+      "offset": 705,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "♪♪〜♪〜♪〜♪♪",
+      "en": "Bing bong bing bong.",
+      "text": "Bing bong bing bong."
+    },
+    {
+      "offset": 728,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "？",
+      "en": "?",
+      "text": "?"
+    },
+    {
+      "offset": 775,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あ、朝倉くん」",
+      "en": "\"Ah, Asakura-kun.\"",
+      "text": "\"Ah, Asakura-kun.\""
+    },
+    {
+      "offset": 798,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 817,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本鈴などお構いなしに、萌先輩が木琴を叩きな\nがら歩いてくる。",
+      "en": "Moe-sempai was walking while playing her xylophone.",
+      "text": "Moe-sempai was walking while playing her xylophone."
+    },
+    {
+      "offset": 909,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「どうしたんですか？」",
+      "en": "\"What's the matter?\"",
+      "text": "\"What's the matter?\""
+    },
+    {
+      "offset": 938,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "地べたに｛ひざまず／跪｝く俺を見下ろして、萌先輩が演奏を\nやめる。",
+      "en": "She stopped playing and looked down at me on the ground.",
+      "text": "She stopped playing and looked down at me on the ground."
+    },
+    {
+      "offset": 1010,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ちょっと疲れたんで休憩を」",
+      "en": "\"I was just taking a little break.\"",
+      "text": "\"I was just taking a little break.\""
+    },
+    {
+      "offset": 1045,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "立ち上がり、膝の土を払い落とす。",
+      "en": "I stood up and dusted my knees.",
+      "text": "I stood up and dusted my knees."
+    },
+    {
+      "offset": 1110,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「そうなんですか。具合が悪いんじゃなくて、\n　よかったです」",
+      "en": "\"Is that so? It's good that you aren't feeling sick or\nanything.\"",
+      "text": "\"Is that so? It's good that you aren't feeling sick or\nanything.\""
+    },
+    {
+      "offset": 1176,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "優しく微笑み萌先輩に、ちょっぴり｛みと／見惚｝れてし\nまう。",
+      "en": "I stared at her gentle smile.",
+      "text": "I stared at her gentle smile."
+    },
+    {
+      "offset": 1268,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あの、遅刻してますので早く行きましょう」",
+      "en": "\"Um, let's get going before we're late.\"",
+      "text": "\"Um, let's get going before we're late.\""
+    },
+    {
+      "offset": 1317,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺を促すように萌先輩が一歩を踏み出す。",
+      "en": "Moe-sempai stepped forward.",
+      "text": "Moe-sempai stepped forward."
+    },
+    {
+      "offset": 1362,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あっ、萌先輩」",
+      "en": "\"Oh, Moe-sempai.\"",
+      "text": "\"Oh, Moe-sempai.\""
+    },
+    {
+      "offset": 1411,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい？」",
+      "en": "\"Yes?\"",
+      "text": "\"Yes?\""
+    },
+    {
+      "offset": 1428,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "足を止め、澄んだ瞳で俺を見つめる。",
+      "en": "She stopped again and stared at me.",
+      "text": "She stopped again and stared at me."
+    },
+    {
+      "offset": 1469,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「他の入り口から行きましょう」",
+      "en": "\"Let's go in from the back.\"",
+      "text": "\"Let's go in from the back.\""
+    },
+    {
+      "offset": 1506,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さすがに、萌先輩をこのまま、音夢が待ち構え\nる校門まで行かせるわけにはいかない。",
+      "en": "I couldn't let her go to the gate where Nemu was waiting.",
+      "text": "I couldn't let her go to the gate where Nemu was waiting."
+    },
+    {
+      "offset": 1601,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「え？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 1616,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「俺について来てください」",
+      "en": "\"Come with me.\"",
+      "text": "\"Come with me.\""
+    },
+    {
+      "offset": 1649,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "不思議がる萌先輩を強引に促し、学園の裏へと\n誘導する。",
+      "en": "I dragged her towards the back of the school.",
+      "text": "I dragged her towards the back of the school."
+    },
+    {
+      "offset": 1731,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 1746,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「くっ……」",
+      "en": "\"Ouch......\"",
+      "text": "\"Ouch......\""
+    },
+    {
+      "offset": 1765,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんなに高くない塀だが、それでも地面に着地\nしたときに、軽く足に｛しび／痺｝れが走る。",
+      "en": "The wall wasn't so high, but it still shook my legs when I\nlanded.",
+      "text": "The wall wasn't so high, but it still shook my legs when I\nlanded."
+    },
+    {
+      "offset": 1857,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「さあ、次は萌先輩の番ですよ」",
+      "en": "\"Come on, it's your turn now.\"",
+      "text": "\"Come on, it's your turn now.\""
+    },
+    {
+      "offset": 1894,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "先輩を受け止めるため、後ろを振り返る。",
+      "en": "I turned around to catch her.",
+      "text": "I turned around to catch her."
+    },
+    {
+      "offset": 1969,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「朝倉くん、あの……このあとどうすれば……」",
+      "en": "\"Oh.\"",
+      "text": "\"Oh.\""
+    },
+    {
+      "offset": 2020,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "困ったような萌先輩の声に、我に返る。",
+      "en": "My body froze when I saw her sitting on top of the wall.",
+      "text": "My body froze when I saw her sitting on top of the wall."
+    },
+    {
+      "offset": 2063,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ〜……えーと、俺が受け止めますから、そっ\n　と飛び降りてください」",
+      "en": "Her private area and the fabric covering it was exposed when\nI looked up.",
+      "text": "Her private area and the fabric covering it was exposed when\nI looked up."
+    },
+    {
+      "offset": 2148,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい」",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 2163,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩が頷いて、塀についていない方の手を差\nし出してくる。",
+      "en": "So bright ----",
+      "text": "So bright ----"
+    },
+    {
+      "offset": 2236,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あの……こっちの手も……」",
+      "en": "\"Asakura-kun, umm...... what do I do now......?\"",
+      "text": "\"Asakura-kun, umm...... what do I do now......?\""
+    },
+    {
+      "offset": 2271,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「……はい」",
+      "en": "Her voice brought me back to the reality.",
+      "text": "Her voice brought me back to the reality."
+    },
+    {
+      "offset": 2299,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「あの……飛び降りても大丈夫でしょうか？」",
+      "en": "\"Okay.\"",
+      "text": "\"Okay.\""
+    },
+    {
+      "offset": 2348,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「えぇ」",
+      "en": "\"Can you...... hold the other hand too......?\"",
+      "text": "\"Can you...... hold the other hand too......?\""
+    },
+    {
+      "offset": 2372,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「それじゃあ、お願いしますね」",
+      "en": "\"Umm...... can I jump off now?\"",
+      "text": "\"Umm...... can I jump off now?\""
+    },
+    {
+      "offset": 2418,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「よいしょ……っと」",
+      "en": "\"Okay, please catch me.\"",
+      "text": "\"Okay, please catch me.\""
+    },
+    {
+      "offset": 2445,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「え？」",
+      "en": "\"Here I go......\"",
+      "text": "\"Here I go......\""
+    },
+    {
+      "offset": 2460,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんでそこでわざわざ勢いを付けるんですか、\n萌せんぱー、",
+      "en": "\"......Yes.\"",
+      "text": "\"......Yes.\""
+    },
+    {
+      "offset": 2522,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「うごっ！？」",
+      "en": "\"What?\"",
+      "text": "\"What?\""
+    },
+    {
+      "offset": 2559,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "べちゃ――。",
+      "en": "The bright spot went out of my view and something soft came\non top of me.",
+      "text": "The bright spot went out of my view and something soft came\non top of me."
+    },
+    {
+      "offset": 2587,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「だ、大丈夫ですか朝倉くん」",
+      "en": "\"Are you okay?\"",
+      "text": "\"Are you okay?\""
+    },
+    {
+      "offset": 2622,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "お腹の上に、萌先輩の重みを感じつつ、俺はし\nばらく暗闇をさまよい続けた……。",
+      "en": "I blacked out for a while, but could still feel her weight\nand softness on my stomach .......",
+      "text": "I blacked out for a while, but could still feel her weight\nand softness on my stomach ......."
+    },
+    {
+      "offset": 2831,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆萌先輩の塀越え◆",
+      "en": "◆Climbing over the wall with Moe-sempai◆",
+      "text": "◆Climbing over the wall with Moe-sempai◆"
+    },
+    {
+      "offset": 2886,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "急いだのだが、遅刻が決定してしまった。正攻\n法で行ったら、しばかれるな……。",
+      "en": "I rushed, but I couldn't make it to school in time. I knew\nI'd get in trouble if I tried to go in through the main\ngate.......",
+      "text": "I rushed, but I couldn't make it to school in time. I knew\nI'd get in trouble if I tried to go in through the main\ngate......."
+    },
+    {
+      "offset": 2982,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "途中で会った萌先輩と共に、他の入り口を目指\nした。",
+      "en": "I ran into Moe-sempai, and we both went to the back of the\nschool to get in.",
+      "text": "I ran into Moe-sempai, and we both went to the back of the\nschool to get in."
+    },
+    {
+      "offset": 3057,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それが、こんな事になるなんて……。",
+      "en": "That led to this......",
+      "text": "That led to this......"
+    },
+    {
+      "offset": 3096,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "嬉しいじゃねえか、おい。",
+      "en": "Isn't that nice?",
+      "text": "Isn't that nice?"
+    }
+  ],
+  "choices": [],
+  "names": {
+    "769": "Moe",
+    "903": "Moe",
+    "1104": "Moe",
+    "1262": "Moe",
+    "1405": "Moe",
+    "1595": "Moe",
+    "1963": "Moe",
+    "2142": "Moe",
+    "2230": "Moe",
+    "2293": "Moe",
+    "2366": "Moe",
+    "2412": "Moe",
+    "2581": "Moe"
+  }
+}

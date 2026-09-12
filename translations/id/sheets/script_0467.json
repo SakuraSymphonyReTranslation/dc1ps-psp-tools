@@ -1,0 +1,1356 @@
+{
+  "scene": "script_0467.obj",
+  "dialogues": [
+    {
+      "offset": 204,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――ピンポーン",
+      "en": "--*ding dong*",
+      "text": "--*ding dong*"
+    },
+    {
+      "offset": 238,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "『はい』",
+      "en": "\"Yes?\"",
+      "text": "\"Yes?\""
+    },
+    {
+      "offset": 253,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、朝倉だけど」",
+      "en": "\"I, it's Asakura.\"",
+      "text": "\"I, it's Asakura.\""
+    },
+    {
+      "offset": 291,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "『あ、はい、ちょっと待って下さいね』",
+      "en": "\"Ah, okay, please wait a second.\"",
+      "text": "\"Ah, okay, please wait a second.\""
+    },
+    {
+      "offset": 334,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ガチャリと受話器が下ろされる音。続いて、ド\nアが開いた。",
+      "en": "I heard the receiver put down, and shortly after, the door\nopened.",
+      "text": "I heard the receiver put down, and shortly after, the door\nopened."
+    },
+    {
+      "offset": 409,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「いらっしゃい」",
+      "en": "\"Welcome!\"",
+      "text": "\"Welcome!\""
+    },
+    {
+      "offset": 432,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ドアの隙間から覗いた顔が、にっこりと笑った。",
+      "en": "Kotori peeped through a crack in the door, her ever-sweet\nsmile showing.",
+      "text": "Kotori peeped through a crack in the door, her ever-sweet\nsmile showing."
+    },
+    {
+      "offset": 496,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「入って入って」",
+      "en": "\"Come in, come in!\"",
+      "text": "\"Come in, come in!\""
+    },
+    {
+      "offset": 531,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「お邪魔します」",
+      "en": "\"Excuse me.\"",
+      "text": "\"Excuse me.\""
+    },
+    {
+      "offset": 554,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ドアをくぐる。ぱたぱたと、何故か小走りに、\nことりの背中が遠ざかる。",
+      "en": "As I started to enter, I could hear Kotori running, and I\nwent in in time to see Kotori's back disappear into a room.",
+      "text": "As I started to enter, I could hear Kotori running, and I\nwent in in time to see Kotori's back disappear into a room."
+    },
+    {
+      "offset": 628,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……ん？　いいのかな、入って……」",
+      "en": "\"...Mm? Is it really all right if I come in...\"",
+      "text": "\"...Mm? Is it really all right if I come in...\""
+    },
+    {
+      "offset": 671,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "靴を脱ぎ掛けたまま迷っていると、ことりは居\n間に通じるドアから顔だけをにょきりと出して。",
+      "en": "As I left my shoes at the door,",
+      "text": "As I left my shoes at the door,"
+    },
+    {
+      "offset": 778,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ほら、早く早く」",
+      "en": "\"Come on, hurry up!\"",
+      "text": "\"Come on, hurry up!\""
+    },
+    {
+      "offset": 803,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「あ、ああ」",
+      "en": "\"A, ahh.\"",
+      "text": "\"A, ahh.\""
+    },
+    {
+      "offset": 858,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ほら、こっちです」",
+      "en": "\"Over here.\"",
+      "text": "\"Over here.\""
+    },
+    {
+      "offset": 885,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 904,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "鬼さんこちら、ですか？",
+      "en": "Are we playing hide and seek or something?",
+      "text": "Are we playing hide and seek or something?"
+    },
+    {
+      "offset": 933,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（何で、隠れるようにするんだろう？）",
+      "en": "\"(Why's she hiding herself all the way?)\"",
+      "text": "\"(Why's she hiding herself all the way?)\""
+    },
+    {
+      "offset": 976,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まるで、妖精かあやかしの類に、どこかへ連れ\nて行かれようとしているような……。",
+      "en": "It's a bit like chasing a little fairy all over the\nplace....",
+      "text": "It's a bit like chasing a little fairy all over the\nplace...."
+    },
+    {
+      "offset": 1058,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "彼女がそこに居たと思った次の瞬間には、別の\n場所に瞬間移動してしまっているような……。",
+      "en": "Whenever I reach where she last was, she'd appear in a new\nlocation...",
+      "text": "Whenever I reach where she last was, she'd appear in a new\nlocation..."
+    },
+    {
+      "offset": 1148,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな、奇妙な｛めいてい／酩酊｝感を起こさせるようなシチュ\nエーション。",
+      "en": "I eventually snapped myself out of thinking of that silly\nsituation.",
+      "text": "I eventually snapped myself out of thinking of that silly\nsituation."
+    },
+    {
+      "offset": 1251,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「こっちですよ」",
+      "en": "\"Here, here!\"",
+      "text": "\"Here, here!\""
+    },
+    {
+      "offset": 1274,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、俺は、ドアの前に｛たど／辿｝り着いた。“こと\nり”という表札が掛かっている。",
+      "en": "I finally ended up in front of a door. On it's front, the\nnameplate \"Kotori\" was hung.",
+      "text": "I finally ended up in front of a door. On it's front, the\nnameplate \"Kotori\" was hung."
+    },
+    {
+      "offset": 1367,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こんこん。",
+      "en": "--*knock knock*",
+      "text": "--*knock knock*"
+    },
+    {
+      "offset": 1397,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「どうぞー」",
+      "en": "\"Come in~\"",
+      "text": "\"Come in~\""
+    },
+    {
+      "offset": 1442,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「うっ……もう、ベッドにスタンバってますか」",
+      "en": "\"Uu... I need to stand by the bed now...\"",
+      "text": "\"Uu... I need to stand by the bed now...\""
+    },
+    {
+      "offset": 1527,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「何をスタンバるんですか……」",
+      "en": "\"What do you mean, stand by...\"",
+      "text": "\"What do you mean, stand by...\""
+    },
+    {
+      "offset": 1598,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「病人さんなんだから、寝るのは当たり前じゃ\n　ないですか」",
+      "en": "\"Patients would of course be resting in bed, no?\"",
+      "text": "\"Patients would of course be resting in bed, no?\""
+    },
+    {
+      "offset": 1662,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……ほんとに病人か？　エライ元気そうじゃ\n　ねえか……」",
+      "en": "\"...Are you really a patient? You seem awfully cheerful for\none.\"",
+      "text": "\"...Are you really a patient? You seem awfully cheerful for\none.\""
+    },
+    {
+      "offset": 1760,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そ、そんな事ないですよ〜」",
+      "en": "\"T, that's not true~\"",
+      "text": "\"T, that's not true~\""
+    },
+    {
+      "offset": 1808,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ごほっ、えほっ……うう、持病のしゃっくり\n　が……」",
+      "en": "\"Cough, cough! Uuu, my chronic disease is causing me to\ncough...\"",
+      "text": "\"Cough, cough! Uuu, my chronic disease is causing me to\ncough...\""
+    },
+    {
+      "offset": 1868,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……それを言うなら、持病の｛しゃく／癪｝じゃないの\n　か？」",
+      "en": "\"...Aren't people with chronic diseases supposed to go into\nspasms once in a while?\"",
+      "text": "\"...Aren't people with chronic diseases supposed to go into\nspasms once in a while?\""
+    },
+    {
+      "offset": 1949,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「え？　そ、そうでしたっけ？」",
+      "en": "\"Eh? I, is that so?\"",
+      "text": "\"Eh? I, is that so?\""
+    },
+    {
+      "offset": 1986,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2005,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……まあ、良くなったんなら何よりだけど」",
+      "en": "\"...Well, it's better if you don't know.\"",
+      "text": "\"...Well, it's better if you don't know.\""
+    },
+    {
+      "offset": 2054,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "拍子抜けしたような感じで、デスクの前にある\n椅子に勝手に掛けさせてもらう。",
+      "en": "With a disappointed look, I took a seat on a chair near her\ndesk.",
+      "text": "With a disappointed look, I took a seat on a chair near her\ndesk."
+    },
+    {
+      "offset": 2147,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「てへへ……ごめんなさい」",
+      "en": "\"Eheheh... I'm sorry.\"",
+      "text": "\"Eheheh... I'm sorry.\""
+    },
+    {
+      "offset": 2180,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "少しだけ悪びれた感じで、ことりは目を伏せた。",
+      "en": "With a bit more calmness, Kotori looked down.",
+      "text": "With a bit more calmness, Kotori looked down."
+    },
+    {
+      "offset": 2265,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……ほんとは、もう看病なんて必要ないくら\n　い快復したんです」",
+      "en": "\"...Actually, I don't really need someone to look after me\nto recovery now.\"",
+      "text": "\"...Actually, I don't really need someone to look after me\nto recovery now.\""
+    },
+    {
+      "offset": 2348,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「昨日、あれから、お姉ちゃんがお義兄さんを\n　呼んでくれたから」",
+      "en": "\"Yesterday, my sister called brother to take a look at me.\"",
+      "text": "\"Yesterday, my sister called brother to take a look at me.\""
+    },
+    {
+      "offset": 2418,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……？　兄さんが来たから、何だって？　と\n　いうか、３人兄妹だったんだ？」",
+      "en": "\"...? Your brother? You mean you have two other siblings?\"",
+      "text": "\"...? Your brother? You mean you have two other siblings?\""
+    },
+    {
+      "offset": 2513,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ああ、えと、お姉ちゃんのフィアンセさんで\n　す。お医者さんなんですよ」",
+      "en": "\"Ahh, umm, I meant my sister's fiancee. He's a doctor.\"",
+      "text": "\"Ahh, umm, I meant my sister's fiancee. He's a doctor.\""
+    },
+    {
+      "offset": 2591,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ああ、なるほどな」",
+      "en": "\"Ahh, I see.\"",
+      "text": "\"Ahh, I see.\""
+    },
+    {
+      "offset": 2652,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「私、目が覚めたの夜中だったんです。けど、\n　お姉ちゃんたら、無理矢理呼んで……」",
+      "en": "\"I didn't wake up till nighttime, so my sister called him\nwhile I was unconcious...\"",
+      "text": "\"I didn't wake up till nighttime, so my sister called him\nwhile I was unconcious...\""
+    },
+    {
+      "offset": 2740,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そりゃ災難だったな。お義兄さんにしたら」",
+      "en": "\"Poor him.\"",
+      "text": "\"Poor him.\""
+    },
+    {
+      "offset": 2823,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「でも、嫌な顔ひとつしないで来てくれました。\n　ほんと、いい人を見つけたと思います」",
+      "en": "\"But he came with nary a word of unhappiness. I really think\nhe's a good person.\"",
+      "text": "\"But he came with nary a word of unhappiness. I really think\nhe's a good person.\""
+    },
+    {
+      "offset": 2913,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「へえ……」",
+      "en": "\"He-eh...\"",
+      "text": "\"He-eh...\""
+    },
+    {
+      "offset": 2932,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何だか意外かも。暦先生って、恋愛沙汰とかに\nは｛うと／疎｝そうな印象があるからな……。",
+      "en": "That's pretty surprising. I would've expected Koyomi-sensei\nto keep her romance affairs out of everyone else's\naffairs...",
+      "text": "That's pretty surprising. I would've expected Koyomi-sensei\nto keep her romance affairs out of everyone else's\naffairs..."
+    },
+    {
+      "offset": 3037,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ああいう人との結婚なら、私は祝福しちゃい\n　ますね」",
+      "en": "\"I'd gladly give my blessing to that kind of person to marry\nmy sister.\"",
+      "text": "\"I'd gladly give my blessing to that kind of person to marry\nmy sister.\""
+    },
+    {
+      "offset": 3097,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「駄目人間相手なら？」",
+      "en": "\"What about those wholly incapable types?\"",
+      "text": "\"What about those wholly incapable types?\""
+    },
+    {
+      "offset": 3160,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「大事なお姉ちゃんを、そんなとこにはやれま\n　せん。絶対反対ですね」",
+      "en": "\"I won't let my precious sister be married to that kind.\nNever ever.\"",
+      "text": "\"I won't let my precious sister be married to that kind.\nNever ever.\""
+    },
+    {
+      "offset": 3234,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "くすっと笑う。まるで父親のような言い草。",
+      "en": "She giggled a little. She sounded like a father saying that.",
+      "text": "She giggled a little. She sounded like a father saying that."
+    },
+    {
+      "offset": 3281,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「じゃ、俺は絶対反対だな」",
+      "en": "\"Then never ever for me, apparently.\"",
+      "text": "\"Then never ever for me, apparently.\""
+    },
+    {
+      "offset": 3327,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「え、え〜。朝倉君とお姉ちゃんですか？」",
+      "en": "\"E, ehh~? You and my sister?\"",
+      "text": "\"E, ehh~? You and my sister?\""
+    },
+    {
+      "offset": 3374,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "目を丸くしたことりに、冗談だけど、と首を振\nる。",
+      "en": "I rolled my eyes at Kotori, silently telling her that it was\na joke.",
+      "text": "I rolled my eyes at Kotori, silently telling her that it was\na joke."
+    },
+    {
+      "offset": 3441,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 3494,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……もし朝倉君が相手なら、別の意味で、身\n　体を張ってでも反対しますけど」",
+      "en": "\"...If she were to start dating you, I would be opposed to\nit, but not for that reason.\"",
+      "text": "\"...If she were to start dating you, I would be opposed to\nit, but not for that reason.\""
+    },
+    {
+      "offset": 3576,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ん？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 3604,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「うふふ。何でもない♪」",
+      "en": "\"Hehe, nevermind.♪\"",
+      "text": "\"Hehe, nevermind.♪\""
+    },
+    {
+      "offset": 3635,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「んん？」",
+      "en": "\"Eh? Eh?\"",
+      "text": "\"Eh? Eh?\""
+    },
+    {
+      "offset": 3652,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "何故か赤い顔をして唇を尖らせている。熱でも\nあるのか？",
+      "en": "Her face had gotten as red as her lips. Was she feeling hot?",
+      "text": "Her face had gotten as red as her lips. Was she feeling hot?"
+    },
+    {
+      "offset": 3712,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……暑いの？」",
+      "en": "\"...Are you feeling warm?\"",
+      "text": "\"...Are you feeling warm?\""
+    },
+    {
+      "offset": 3769,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「暑くないし、熱もないですよ」",
+      "en": "\"Not warm, nor hot.\"",
+      "text": "\"Not warm, nor hot.\""
+    },
+    {
+      "offset": 3806,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ふむ……そういやさっき、どうして隠れるよ\n　うにしてたんだ？」",
+      "en": "\"Hmm... anyway about earlier, why were you hiding all the\nway here?\"",
+      "text": "\"Hmm... anyway about earlier, why were you hiding all the\nway here?\""
+    },
+    {
+      "offset": 3910,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「だ、だって……」",
+      "en": "\"B, because...\"",
+      "text": "\"B, because...\""
+    },
+    {
+      "offset": 3935,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "再び赤い顔。",
+      "en": "Her face turned red again.",
+      "text": "Her face turned red again."
+    },
+    {
+      "offset": 3967,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「パジャマ姿なんて、恥ずかしいじゃないです\n　か……」",
+      "en": "\"It's embarassing to let you see me in my pajamas...\"",
+      "text": "\"It's embarassing to let you see me in my pajamas...\""
+    },
+    {
+      "offset": 4027,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 4046,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………ほぉ」",
+      "en": "\".....Oh.\"",
+      "text": "\".....Oh.\""
+    },
+    {
+      "offset": 4082,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……何固まってるんです？　わ、やだ、変な\n　想像しないでくださいよ……」",
+      "en": "\"...W, why are you so silent? ...Wah, don't, don't start\nimagining weird things...\"",
+      "text": "\"...W, why are you so silent? ...Wah, don't, don't start\nimagining weird things...\""
+    },
+    {
+      "offset": 4162,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……変、かどうかは分からんけど、健全な男\n　の子には当たり前の想像……だと思うんだが」",
+      "en": "\"...I won't say it's anything weird, it's just things a\nnormal, healthy young man would think of...\"",
+      "text": "\"...I won't say it's anything weird, it's just things a\nnormal, healthy young man would think of...\""
+    },
+    {
+      "offset": 4269,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「う゛〜……」",
+      "en": "\"Uuu~....\"",
+      "text": "\"Uuu~....\""
+    },
+    {
+      "offset": 4290,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ま、ま、減るもんじゃなし」",
+      "en": "\"W, well, it's nothing much anyway.\"",
+      "text": "\"W, well, it's nothing much anyway.\""
+    },
+    {
+      "offset": 4325,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ごほんと咳払いしてから、俺は言った。",
+      "en": "I cleared my throught and continued talking.",
+      "text": "I cleared my throught and continued talking."
+    },
+    {
+      "offset": 4389,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「でも、その様子なら、１５日の卒パには間に\n　合いそうだな」",
+      "en": "\"Anyway, seeing how well you're doing now, you should be\nable to prepare in time for the graduation party.\"",
+      "text": "\"Anyway, seeing how well you're doing now, you should be\nable to prepare in time for the graduation party.\""
+    },
+    {
+      "offset": 4468,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そうですね。今日、明日くらい休めば、完璧\n　さんです。痛い注射の甲斐がありました」",
+      "en": "\"I think so too. If today and tomorrow, I rest fully, it\nshould be completely gone. I took an injection as well.\"",
+      "text": "\"I think so too. If today and tomorrow, I rest fully, it\nshould be completely gone. I took an injection as well.\""
+    },
+    {
+      "offset": 4592,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ただ、練習不足になっちゃったのが、不安で\n　すけどね……」",
+      "en": "\"But I'm still worried we may not have practiced enough...\"",
+      "text": "\"But I'm still worried we may not have practiced enough...\""
+    },
+    {
+      "offset": 4658,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「いやあ、ことりなら、もう今でも充分なくら\n　いだろ」",
+      "en": "\"Nah, as you are now, you're plenty good enough.\"",
+      "text": "\"Nah, as you are now, you're plenty good enough.\""
+    },
+    {
+      "offset": 4731,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そんな事ないですよ」",
+      "en": "\"That's not true...\"",
+      "text": "\"That's not true...\""
+    },
+    {
+      "offset": 4760,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "苦笑気味にてへへと笑った。あるいは、照れ隠\nしかもしれない。",
+      "en": "She laughed a little at my admission. Probably hiding her\nown embarassment.",
+      "text": "She laughed a little at my admission. Probably hiding her\nown embarassment."
+    },
+    {
+      "offset": 4826,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「でも、まあ、マジで良かったよ。ほんとに」",
+      "en": "\"But really, thank goodness you're alright now.\"",
+      "text": "\"But really, thank goodness you're alright now.\""
+    },
+    {
+      "offset": 4875,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "椅子の上でぐっと伸びをする。何だか、肩の荷\nが下りた感じ。",
+      "en": "I stood up from the chair and stretched. It felt like a load\nhad been lifted off my shoulders.",
+      "text": "I stood up from the chair and stretched. It felt like a load\nhad been lifted off my shoulders."
+    },
+    {
+      "offset": 4939,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「一時は、どうなる事かと思ったからな……」",
+      "en": "\"You had me worried for awhile...\"",
+      "text": "\"You had me worried for awhile...\""
+    },
+    {
+      "offset": 5022,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「心配かけて、ごめんね」",
+      "en": "\"Sorry about that.\"",
+      "text": "\"Sorry about that.\""
+    },
+    {
+      "offset": 5053,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「いや……」",
+      "en": "\"It's okay...\"",
+      "text": "\"It's okay...\""
+    },
+    {
+      "offset": 5072,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "心配──それは、ことりの身体の事ばかりじゃ\nなかった。",
+      "en": "I wasn't just worried about Kotori's state though.",
+      "text": "I wasn't just worried about Kotori's state though."
+    },
+    {
+      "offset": 5130,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "卒業パーティーの行く末。あの３人が、悔いの\nない演奏が出来るのかどうかを……。",
+      "en": "I was worried for the graduation party as well. I want the\nthree of them to do their best at their performance, and\nleave with no regrets...",
+      "text": "I was worried for the graduation party as well. I want the\nthree of them to do their best at their performance, and\nleave with no regrets..."
+    },
+    {
+      "offset": 5214,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「良くなったんだから、何も言うことはない」",
+      "en": "\"I'm glad enough that you're okay, no need to say anything.\"",
+      "text": "\"I'm glad enough that you're okay, no need to say anything.\""
+    },
+    {
+      "offset": 5263,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ゆっくりとかぶりを振る。いつの間にか、入れ\n込んでいてしまったらしい。",
+      "en": "I shook my head calmly. She's always been putting all her\neffort into everything she's done, she deserved some rest.",
+      "text": "I shook my head calmly. She's always been putting all her\neffort into everything she's done, she deserved some rest."
+    },
+    {
+      "offset": 5339,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "口から出まかせのマネージャー。けれど、その\n役割も知らないままに、心だけはそうなってい\nた。",
+      "en": "What came out of my mouth were the words of a manager. But\nthe duties that didn't befit one, the ones that I held in my\nheart...",
+      "text": "What came out of my mouth were the words of a manager. But\nthe duties that didn't befit one, the ones that I held in my\nheart..."
+    },
+    {
+      "offset": 5449,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ねえ、朝倉君」",
+      "en": "\"Hey, Asakura-kun.\"",
+      "text": "\"Hey, Asakura-kun.\""
+    },
+    {
+      "offset": 5472,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ん？」",
+      "en": "\"Hm?\"",
+      "text": "\"Hm?\""
+    },
+    {
+      "offset": 5526,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「私のこと、心配してくれました？」",
+      "en": "\"Weren't you worried about me?\"",
+      "text": "\"Weren't you worried about me?\""
+    },
+    {
+      "offset": 5567,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「そりゃ、もちろんだけど？」",
+      "en": "\"Isn't that obvious?\"",
+      "text": "\"Isn't that obvious?\""
+    },
+    {
+      "offset": 5615,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「マネージャーさんだから？　それだけの、理\n　由ですか？」",
+      "en": "\"Because you're my manager? Was that the reason?\"",
+      "text": "\"Because you're my manager? Was that the reason?\""
+    },
+    {
+      "offset": 5679,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 5698,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "潤んだ瞳。それに、赤い顔。やっぱり、熱でも\nあるんだろうか？",
+      "en": "Dim eyes. And a red face. Maybe she really is getting hot?",
+      "text": "Dim eyes. And a red face. Maybe she really is getting hot?"
+    },
+    {
+      "offset": 5777,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……いいですよ」",
+      "en": "\"...It's okay.\"",
+      "text": "\"...It's okay.\""
+    },
+    {
+      "offset": 5802,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「何が？」",
+      "en": "\"What is?\"",
+      "text": "\"What is?\""
+    },
+    {
+      "offset": 5832,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「おでことおでこ、コツンってやりましょう　\n　か？」",
+      "en": "\"To do the forehead-to-forehead test?\"",
+      "text": "\"To do the forehead-to-forehead test?\""
+    },
+    {
+      "offset": 5890,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 5909,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いつ見られたんだろう？　ちらつく疑問符に目\nが回りそうになりながらも、ことりの顔から目\nが離せない。",
+      "en": "When did she see that? I averted my eyes as I tried to think\nof when I let that slip, but her gaze never left.",
+      "text": "When did she see that? I averted my eyes as I tried to think\nof when I let that slip, but her gaze never left."
+    },
+    {
+      "offset": 6012,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "マネージャーだから──だけでは、たぶん、な\nかった。",
+      "en": "As a manager-- I guess that was mostly it...?",
+      "text": "As a manager-- I guess that was mostly it...?"
+    },
+    {
+      "offset": 6070,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……でも、看病はいらないくらいに、体調は\n　快復したんだろ？」",
+      "en": "\"...But you said that even without someone looking after\nyou, you would recover quickly anyway, right?\"",
+      "text": "\"...But you said that even without someone looking after\nyou, you would recover quickly anyway, right?\""
+    },
+    {
+      "offset": 6153,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\".......\"",
+      "text": "\".......\""
+    },
+    {
+      "offset": 6172,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………？　だったら、どうして俺を呼んだ\n　んだ？」",
+      "en": "\"......? So why did you even call me here in the first\nplace?\"",
+      "text": "\"......? So why did you even call me here in the first\nplace?\""
+    },
+    {
+      "offset": 6245,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……決まってるじゃないですか」",
+      "en": "\"...Isn't it obvious...\"",
+      "text": "\"...Isn't it obvious...\""
+    },
+    {
+      "offset": 6297,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「朝倉君と一緒に居たかったからですよ……」",
+      "en": "\"I wanted to be near you...\"",
+      "text": "\"I wanted to be near you...\""
+    },
+    {
+      "offset": 6346,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 6365,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……やっぱ、熱あるみたいだな」",
+      "en": "\"...You really must be feeling hot.\"",
+      "text": "\"...You really must be feeling hot.\""
+    },
+    {
+      "offset": 6417,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「試してみますか？」",
+      "en": "\"Would you like to find out for sure?\"",
+      "text": "\"Would you like to find out for sure?\""
+    },
+    {
+      "offset": 6444,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 6463,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "すっと身体を起こす。",
+      "en": "She raised her body slightly from her bed.",
+      "text": "She raised her body slightly from her bed."
+    },
+    {
+      "offset": 6509,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "熱が、移ったみたいだ。全身に、焼け付くよう\nな｛ほて／火照｝りを感じている。",
+      "en": "The heat definitely got around. It seemed like her entire\nbody was aglow with heat.",
+      "text": "The heat definitely got around. It seemed like her entire\nbody was aglow with heat."
+    },
+    {
+      "offset": 6589,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "両足に力を込め、立ち上がった。",
+      "en": "Putting all my power into my legs, I stood up.",
+      "text": "Putting all my power into my legs, I stood up."
+    },
+    {
+      "offset": 6631,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こんこん。",
+      "en": "--*knock knock*",
+      "text": "--*knock knock*"
+    },
+    {
+      "offset": 6646,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "う！？",
+      "en": "Wha!?",
+      "text": "Wha!?"
+    },
+    {
+      "offset": 6678,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どだだんっ！　まるで磁石のように、尻が椅子\nに引き寄せられた。",
+      "en": "Bang!! Like a magnet, my butt slammed back into the chair.",
+      "text": "Bang!! Like a magnet, my butt slammed back into the chair."
+    },
+    {
+      "offset": 6760,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「やほ〜、ことり。ああ、玄関の靴は、やっぱ\n　り朝倉だったか」",
+      "en": "\"Heya~ Kotori. Ahh, the shoes at the entrance just now must\nbe Asakura's.\"",
+      "text": "\"Heya~ Kotori. Ahh, the shoes at the entrance just now must\nbe Asakura's.\""
+    },
+    {
+      "offset": 6828,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「……どうもです」",
+      "en": "\"...Thank you.\"",
+      "text": "\"...Thank you.\""
+    },
+    {
+      "offset": 6853,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "絡みつきそうな舌で、何とかそれだけ口にする。",
+      "en": "My tongue was so twisted, I didn't even know what I was\nsaying anymore.",
+      "text": "My tongue was so twisted, I didn't even know what I was\nsaying anymore."
+    },
+    {
+      "offset": 6913,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ところで、今さっきの音、何？」",
+      "en": "\"By the way, what was that sound just now?\"",
+      "text": "\"By the way, what was that sound just now?\""
+    },
+    {
+      "offset": 6952,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "（み、見られてないよな……？）",
+      "en": "\"(S, she didn't see anything...?)\"",
+      "text": "\"(S, she didn't see anything...?)\""
+    },
+    {
+      "offset": 6998,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ん？　どしたん、朝倉。青い顔して。もしか\n　して、風邪移った？」",
+      "en": "\"Mm? Oy, Asakura. Your face is turning blue. Don't tell me\nyou're catching Kotori's cold?\"",
+      "text": "\"Mm? Oy, Asakura. Your face is turning blue. Don't tell me\nyou're catching Kotori's cold?\""
+    },
+    {
+      "offset": 7070,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「えっ？　あいやいや、滅相もない」",
+      "en": "\"Eh? Ah no no! that would be absurd!!\"",
+      "text": "\"Eh? Ah no no! that would be absurd!!\""
+    },
+    {
+      "offset": 7120,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「……何なのよ、その答えは」",
+      "en": "\"...What's with that reply?\"",
+      "text": "\"...What's with that reply?\""
+    },
+    {
+      "offset": 7164,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「んもう、仕方ないな。ほら、でこ貸してみ」",
+      "en": "\"Whatever, I better check anyway. Here, lend me your\nforehead.\"",
+      "text": "\"Whatever, I better check anyway. Here, lend me your\nforehead.\""
+    },
+    {
+      "offset": 7213,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「……は？」",
+      "en": "\"...Hah?\"",
+      "text": "\"...Hah?\""
+    },
+    {
+      "offset": 7232,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さくさくと歩み寄ると、ぐっと顔を突き出して\nくる。",
+      "en": "She walked calmly towards me, then suddenly our faces were\ncentimetres apart.",
+      "text": "She walked calmly towards me, then suddenly our faces were\ncentimetres apart."
+    },
+    {
+      "offset": 7300,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「え、あ、あの……」",
+      "en": "\"Eh, ah, um...\"",
+      "text": "\"Eh, ah, um...\""
+    },
+    {
+      "offset": 7340,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ちょっと、お姉ちゃん。朝倉君に、それはな\n　いんじゃない？」",
+      "en": "\"Wait a minute, sis! You can't just do that to him!\"",
+      "text": "\"Wait a minute, sis! You can't just do that to him!\""
+    },
+    {
+      "offset": 7417,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ん？　ああ、それもそうだった。悪い悪い、\n　つい昔の癖で……」",
+      "en": "\"Hm? Ah! Sorry sorry, I forgot... old habits die hard...\"",
+      "text": "\"Hm? Ah! Sorry sorry, I forgot... old habits die hard...\""
+    },
+    {
+      "offset": 7487,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ぽりぽりと頭を｛か／掻｝くと、すまんと呟いた。",
+      "en": "Koyomi nervously scratched her head, and muttered an\napology.",
+      "text": "Koyomi nervously scratched her head, and muttered an\napology."
+    },
+    {
+      "offset": 7561,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「パチキでもかまされるかと思いましたよ」",
+      "en": "\"I almost had a heart attack.\"",
+      "text": "\"I almost had a heart attack.\""
+    },
+    {
+      "offset": 7617,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「何であたしが、んな事しなきゃいけないのよ」",
+      "en": "\"Psh, it's just me.\"",
+      "text": "\"Psh, it's just me.\""
+    },
+    {
+      "offset": 7668,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「でも、昔の癖って何です？」",
+      "en": "\"But what do you mean by old habits?\"",
+      "text": "\"But what do you mean by old habits?\""
+    },
+    {
+      "offset": 7716,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「朝倉君と同じだよ」",
+      "en": "\"It's the same as you, Asakura-kun.\"",
+      "text": "\"It's the same as you, Asakura-kun.\""
+    },
+    {
+      "offset": 7743,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ん？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 7758,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりに目を向けると、彼女は、自分の額をこ\nつこつ叩いた。",
+      "en": "I switched my gaze to Kotori, who was wrinkling her\nforehead.",
+      "text": "I switched my gaze to Kotori, who was wrinkling her\nforehead."
+    },
+    {
+      "offset": 7835,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「私ね、昔はしょっちゅう風邪とか引いてたの。\n　そんな時に……」",
+      "en": "\"When I was young, I was always catching colds and stuff\nlike that. When that happened...\"",
+      "text": "\"When I was young, I was always catching colds and stuff\nlike that. When that happened...\""
+    },
+    {
+      "offset": 7905,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「ああ、おでことおでこを」",
+      "en": "\"Ahh, forehead-to-forehead.\"",
+      "text": "\"Ahh, forehead-to-forehead.\""
+    },
+    {
+      "offset": 7947,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「懐かしいよねえ。あの頃のことりは、ほんっ\n　とに、可愛かったなあ……」",
+      "en": "\"That makes me feel nostalgic. At that time, Kotori was\nreally so cute...\"",
+      "text": "\"That makes me feel nostalgic. At that time, Kotori was\nreally so cute...\""
+    },
+    {
+      "offset": 8038,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「……まるで、今は違うみたいだね」",
+      "en": "\"...And now it's completely different, huh?\"",
+      "text": "\"...And now it's completely different, huh?\""
+    },
+    {
+      "offset": 8088,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「さあ？　一緒にお風呂に入らなくなってから\n　は、ことりのことは良く分かんないなあ」",
+      "en": "\"Really? I haven't bathed with you for so long, I can't\nreally tell accurately anymore.\"",
+      "text": "\"Really? I haven't bathed with you for so long, I can't\nreally tell accurately anymore.\""
+    },
+    {
+      "offset": 8191,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "「もう……」",
+      "en": "\"Geez...\"",
+      "text": "\"Geez...\""
+    },
+    {
+      "offset": 8210,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "（一緒に風呂……ですか）",
+      "en": "\"(Bathed together...huh.)\"",
+      "text": "\"(Bathed together...huh.)\""
+    },
+    {
+      "offset": 8241,
+      "speaker": "Kotori",
+      "speaker_jp": "ことり",
+      "jp": "（…………）",
+      "en": "\"(......)\"",
+      "text": "\"(......)\""
+    },
+    {
+      "offset": 8260,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "………。",
+      "en": ".........",
+      "text": "........."
+    },
+    {
+      "offset": 8273,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……。",
+      "en": "......",
+      "text": "......"
+    },
+    {
+      "offset": 8284,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "…。",
+      "en": "...",
+      "text": "..."
+    },
+    {
+      "offset": 8325,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「わわわっ！　こりゃ大変！　顔が真っ赤だ。\n　熱がぶり返したかな？」",
+      "en": "\"Wawawa! What's happening now? Your face is red as a tomato!\nDid the hotness return?\"",
+      "text": "\"Wawawa! What's happening now? Your face is red as a tomato!\nDid the hotness return?\""
+    },
+    {
+      "offset": 8408,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ほら、朝倉、あんたはもう、帰った帰った！」",
+      "en": "\"Come on Asakura, you better go home quick!\"",
+      "text": "\"Come on Asakura, you better go home quick!\""
+    },
+    {
+      "offset": 8459,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「え？　で、でも……」",
+      "en": "\"Eh? B, but...\"",
+      "text": "\"Eh? B, but...\""
+    },
+    {
+      "offset": 8497,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「ほぅら！　ぐずぐずしないっ！」",
+      "en": "\"Come now! Don't be so slow!\"",
+      "text": "\"Come now! Don't be so slow!\""
+    },
+    {
+      "offset": 8575,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 8594,
+      "speaker": "Koyomi",
+      "speaker_jp": "暦",
+      "jp": "「……俺、何しに来たんだ？」",
+      "en": "\"...Why did I come in the first place?\"",
+      "text": "\"...Why did I come in the first place?\""
+    },
+    {
+      "offset": 8733,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆ことりの看病１◆",
+      "en": "◆Looking After Kotori 1◆",
+      "text": "◆Looking After Kotori 1◆"
+    },
+    {
+      "offset": 8780,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "約束通り、ことりの家へとお見舞いに行った。",
+      "en": "Fufilling my promise, I went to Kotori's house to visit her.",
+      "text": "Fufilling my promise, I went to Kotori's house to visit her."
+    },
+    {
+      "offset": 8853,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ことりは、暦先生の婚約者──お医者さんらし\nい──に診てもらったおかげで、もう良くなっ\nているようだった。",
+      "en": "Kotori was examined by Koyomi's fiance--a doctor-- so she\nwas looking much better than I expected.",
+      "text": "Kotori was examined by Koyomi's fiance--a doctor-- so she\nwas looking much better than I expected."
+    },
+    {
+      "offset": 8962,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ほっとしたような、拍子抜けのような気分。",
+      "en": "I felt a bit relieved and disappointed at the same time.",
+      "text": "I felt a bit relieved and disappointed at the same time."
+    },
+    {
+      "offset": 9028,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、あれこれと喋っている内にいい雰囲気\nになったところで──暦先生が現れたのだった。",
+      "en": "And then the atmosphere got weird after a bit of\ntalking--but Koyomi-sensei's entrance changed everything.",
+      "text": "And then the atmosphere got weird after a bit of\ntalking--but Koyomi-sensei's entrance changed everything."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "228": "Kotori",
+    "281": "Kotori",
+    "399": "Kotori",
+    "486": "Kotori",
+    "768": "Kotori",
+    "848": "Kotori",
+    "1241": "Kotori",
+    "1387": "Kotori",
+    "1517": "Kotori",
+    "1588": "Kotori",
+    "1750": "Kotori",
+    "1798": "Kotori",
+    "1939": "Kotori",
+    "2137": "Kotori",
+    "2255": "Kotori",
+    "2338": "Kotori",
+    "2503": "Kotori",
+    "2642": "Kotori",
+    "2813": "Kotori",
+    "3027": "Kotori",
+    "3150": "Kotori",
+    "3317": "Kotori",
+    "3431": "Kotori",
+    "3484": "Kotori",
+    "3594": "Kotori",
+    "3759": "Kotori",
+    "3900": "Kotori",
+    "3957": "Kotori",
+    "4072": "Kotori",
+    "4259": "Kotori",
+    "4458": "Kotori",
+    "4582": "Kotori",
+    "4721": "Kotori",
+    "5012": "Kotori",
+    "5439": "Kotori",
+    "5516": "Kotori",
+    "5605": "Kotori",
+    "5767": "Kotori",
+    "5822": "Kotori",
+    "6143": "Kotori",
+    "6235": "Kotori",
+    "6287": "Kotori",
+    "6407": "Kotori",
+    "6754": "Koyomi",
+    "6907": "Koyomi",
+    "6992": "Koyomi",
+    "7114": "Koyomi",
+    "7158": "Koyomi",
+    "7330": "Kotori",
+    "7411": "Koyomi",
+    "7611": "Koyomi",
+    "7706": "Kotori",
+    "7825": "Kotori",
+    "7941": "Koyomi",
+    "8028": "Kotori",
+    "8082": "Koyomi",
+    "8181": "Kotori",
+    "8319": "Koyomi",
+    "8402": "Koyomi",
+    "8491": "Koyomi"
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "scene": "script_0724.obj",
+  "dialogues": [
+    {
+      "offset": 189,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「あ〜……かったる」",
+      "en": "\"Huh...... what a pain.\"",
+      "text": "\"Huh...... what a pain.\""
+    },
+    {
+      "offset": 216,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "洗い物や洗濯物もそのままに、帰宅するなりソ\nファーでだれる。",
+      "en": "I sunk into the couch as soon as I got back home from the\nschool, leaving the pile of dishes and laundry aside.",
+      "text": "I sunk into the couch as soon as I got back home from the\nschool, leaving the pile of dishes and laundry aside."
+    },
+    {
+      "offset": 280,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "食器洗い乾燥機でもあれば、するかもしれない。\n洗濯も洗剤入れてスタートボタンを押すだけな\nらするんだけどな……。",
+      "en": "I wish we had a dishwasher. Also, I wish doing laundry was\nas simple as pushing a single button......",
+      "text": "I wish we had a dishwasher. Also, I wish doing laundry was\nas simple as pushing a single button......"
+    },
+    {
+      "offset": 395,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "一つ一つしわを伸ばして干すのは面倒だ。",
+      "en": "I hate hanging all of my clothes neatly to dry.",
+      "text": "I hate hanging all of my clothes neatly to dry."
+    },
+    {
+      "offset": 440,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「うぐぅぅ……」",
+      "en": "\"Ugh......\"",
+      "text": "\"Ugh......\""
+    },
+    {
+      "offset": 463,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "こうなると、炊事はともかく、ずっと文句も言\nわず家事をしていた音夢のありがたみを痛感せ\nずにはいられない。",
+      "en": "Now that I'm alone, I can finally appreciate how Nemu was\ntaking care of all the chores without complaining. Well,\nexcept for her cooking......",
+      "text": "Now that I'm alone, I can finally appreciate how Nemu was\ntaking care of all the chores without complaining. Well,\nexcept for her cooking......"
+    },
+    {
+      "offset": 572,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "電話でもかかってきたら、感謝の言葉を贈って\nおこう……。",
+      "en": "I should thank her when she calls me the next time......",
+      "text": "I should thank her when she calls me the next time......"
+    },
+    {
+      "offset": 637,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "――ピンポーン",
+      "en": "...Ding dong.",
+      "text": "...Ding dong."
+    },
+    {
+      "offset": 658,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ん？」",
+      "en": "\"Huh?\"",
+      "text": "\"Huh?\""
+    },
+    {
+      "offset": 673,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "誰だよ、余計な仕事を増やすヤツは。",
+      "en": "Who's here to cause me trouble?",
+      "text": "Who's here to cause me trouble?"
+    },
+    {
+      "offset": 712,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "かったるいが、家に俺ひとりきりでは無視する\nことは出来ない。",
+      "en": "I don't feel like answering the door, but being the only\nperson at home, I can't just ignore it.",
+      "text": "I don't feel like answering the door, but being the only\nperson at home, I can't just ignore it."
+    },
+    {
+      "offset": 776,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ソファーから立ち上がり、インターホンにでる。",
+      "en": "I pulled up my heavy body from the couch and answered the\nintercom.",
+      "text": "I pulled up my heavy body from the couch and answered the\nintercom."
+    },
+    {
+      "offset": 827,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はい……」",
+      "en": "\"Yes......?\"",
+      "text": "\"Yes......?\""
+    },
+    {
+      "offset": 855,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "『あの、こんにちは朝倉くん』",
+      "en": "\"Umm...... Hello, Asakura-kun.\"",
+      "text": "\"Umm...... Hello, Asakura-kun.\""
+    },
+    {
+      "offset": 890,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "耳に馴染んだ声が聞こえてくる。",
+      "en": "I heard the familiar voice in my ears.",
+      "text": "I heard the familiar voice in my ears."
+    },
+    {
+      "offset": 927,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「え！？　ちょっと待っててください！」",
+      "en": "\"What? I'll be there right away!\"",
+      "text": "\"What? I'll be there right away!\""
+    },
+    {
+      "offset": 972,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "受話器を落としそうになりながら元に戻すと、\nドタドタと廊下を鳴らして玄関に向かう。",
+      "en": "I almost dropped the phone as I hung up, and ran toward the\nfront door.",
+      "text": "I almost dropped the phone as I hung up, and ran toward the\nfront door."
+    },
+    {
+      "offset": 1115,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「こんにちは朝倉くん」",
+      "en": "\"Hello, Asakura-kun.\"",
+      "text": "\"Hello, Asakura-kun.\""
+    },
+    {
+      "offset": 1144,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「こんにちは。どうしたの？」",
+      "en": "\"Hi. What are you doing here?\"",
+      "text": "\"Hi. What are you doing here?\""
+    },
+    {
+      "offset": 1205,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「朝倉くんのお家を、お掃除しにきました」",
+      "en": "\"I came to clean your house.\"",
+      "text": "\"I came to clean your house.\""
+    },
+    {
+      "offset": 1252,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ニッコリ微笑む萌先輩に｛めまい／眩暈｝を覚える。",
+      "en": "I felt dizzy as I looked her smile.",
+      "text": "I felt dizzy as I looked her smile."
+    },
+    {
+      "offset": 1307,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「どうしてそんな？」",
+      "en": "\"But why?\"",
+      "text": "\"But why?\""
+    },
+    {
+      "offset": 1360,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「お掃除は毎日しないといけませんし。それに\n　私は朝倉くんの彼女ですから……」",
+      "en": "\"Houses need to be cleaned every day. Moreover, I'm your\ngirlfriend......\"",
+      "text": "\"Houses need to be cleaned every day. Moreover, I'm your\ngirlfriend......\""
+    },
+    {
+      "offset": 1444,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1489,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「いいですよね……」",
+      "en": "\"Is that okay......?\"",
+      "text": "\"Is that okay......?\""
+    },
+    {
+      "offset": 1516,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「も、もちろん！」",
+      "en": "\"Sure!\"",
+      "text": "\"Sure!\""
+    },
+    {
+      "offset": 1541,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "彼女か――いい響きだ。",
+      "en": "Girlfriend, huh......? That sounds good.",
+      "text": "Girlfriend, huh......? That sounds good."
+    },
+    {
+      "offset": 1634,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「おじゃまします」",
+      "en": "\"Excuse me.\"",
+      "text": "\"Excuse me.\""
+    },
+    {
+      "offset": 1659,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺のあとに続いて萌先輩が居間に入ってくる。",
+      "en": "Moe-sempai followed me and came into the living room.",
+      "text": "Moe-sempai followed me and came into the living room."
+    },
+    {
+      "offset": 1706,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "昨日までは『ただいま』だったのに、不思議な\nものだ。",
+      "en": "It's weird because she was saying \"I'm home\" until\nyesterday.",
+      "text": "It's weird because she was saying \"I'm home\" until\nyesterday."
+    },
+    {
+      "offset": 1790,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「なんだか不思議です。昨日もここに居たのに、\n　懐かしい感じがします」",
+      "en": "\"I feel strange. I was just here yesterday, but I missed\nthis place already.\"",
+      "text": "\"I feel strange. I was just here yesterday, but I missed\nthis place already.\""
+    },
+    {
+      "offset": 1866,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "優しげな瞳を｛ほの／仄｝かに潤ませ、部屋の風景を確か\nめるように言う。",
+      "en": "She looked around the room with soft teary eyes.",
+      "text": "She looked around the room with soft teary eyes."
+    },
+    {
+      "offset": 1942,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はは、ホント不思議ですね」",
+      "en": "\"Yes, it's strange.\"",
+      "text": "\"Yes, it's strange.\""
+    },
+    {
+      "offset": 1977,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ソファーに座り、萌先輩にも隣を勧める。",
+      "en": "I sat on the couch and urged her to sit down too.",
+      "text": "I sat on the couch and urged her to sit down too."
+    },
+    {
+      "offset": 2031,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「いえ、大丈夫です。それより、お掃除を始め\n　ますね」",
+      "en": "\"No, I'm fine. I need to start cleaning now.\"",
+      "text": "\"No, I'm fine. I need to start cleaning now.\""
+    },
+    {
+      "offset": 2091,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "おだやかに微笑むと、先輩はまず、床に転がっ\nている物を整理し始める。",
+      "en": "She smiled calmly and started organizing what was lying on\nthe floor.",
+      "text": "She smiled calmly and started organizing what was lying on\nthe floor."
+    },
+    {
+      "offset": 2163,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はその後姿を眺めながら、さっきまでの憂鬱\nな気分が綺麗に消えていくのを感じていた。",
+      "en": "As I watched her work, I felt my gloomy feeling quietly\ngoing away.",
+      "text": "As I watched her work, I felt my gloomy feeling quietly\ngoing away."
+    },
+    {
+      "offset": 2253,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そうだ萌先輩。今度の日曜日にまたデートし\n　ませんか？」",
+      "en": "\"By the way, Moe-sempai, do you want to go out for a date\nagain on Sunday?\"",
+      "text": "\"By the way, Moe-sempai, do you want to go out for a date\nagain on Sunday?\""
+    },
+    {
+      "offset": 2343,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい。喜んで」",
+      "en": "\"Sure, I'd love to.\"",
+      "text": "\"Sure, I'd love to.\""
+    },
+    {
+      "offset": 2366,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「じゃあ、商店街の喫茶店で待ち合わせしよう」",
+      "en": "\"Then let's meet in the cafe at the shopping arcade.\"",
+      "text": "\"Then let's meet in the cafe at the shopping arcade.\""
+    },
+    {
+      "offset": 2426,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい」",
+      "en": "\"Okay.\"",
+      "text": "\"Okay.\""
+    },
+    {
+      "offset": 2441,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そう言えば、外で待ち合わせしてデートするの\nは初めてだな。",
+      "en": "This is our first time meeting somewhere else to have a\ndate.",
+      "text": "This is our first time meeting somewhere else to have a\ndate."
+    },
+    {
+      "offset": 2503,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "たったそれだけのことなのに、なんかドキドキ\nする。",
+      "en": "It's a simple thing, but my heart was racing.",
+      "text": "It's a simple thing, but my heart was racing."
+    },
+    {
+      "offset": 2559,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（楽しみだな……）",
+      "en": "(I'm excited......)",
+      "text": "(I'm excited......)"
+    },
+    {
+      "offset": 2584,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "柄にもなくそんなことを思う。目の前では、さっ\nきよりも軽やかな萌先輩の掃除が進行していた。",
+      "en": "It's really unlike me to be excited about something like\nthis. Moe-sempai continued to clean up the room with a merry\npace.",
+      "text": "It's really unlike me to be excited about something like\nthis. Moe-sempai continued to clean up the room with a merry\npace."
+    },
+    {
+      "offset": 2782,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆お掃除◆",
+      "en": "◆Cleaning up◆",
+      "text": "◆Cleaning up◆"
+    },
+    {
+      "offset": 2825,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩が来てくれた。何だか良く分からないが、\n掃除をしに来てくれたらしい。とにかく、嬉し\nいぞ。",
+      "en": "Moe-sempai came to visit me. I don't know why but she came\nto clean up my house. Anyway, it made me feel happy.",
+      "text": "Moe-sempai came to visit me. I don't know why but she came\nto clean up my house. Anyway, it made me feel happy."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "849": "Moe",
+    "1109": "Moe",
+    "1199": "Moe",
+    "1354": "Moe",
+    "1483": "Moe",
+    "1628": "Moe",
+    "1784": "Moe",
+    "2025": "Moe",
+    "2337": "Moe",
+    "2420": "Moe"
+  }
+}

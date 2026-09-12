@@ -1,0 +1,586 @@
+{
+  "scene": "script_0505.obj",
+  "dialogues": [
+    {
+      "offset": 124,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 143,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……随分と本格的だな」",
+      "en": "\"......It looks pretty professional.\"",
+      "text": "\"......It looks pretty professional.\""
+    },
+    {
+      "offset": 174,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "音楽室に足を踏み入れると、まず、漆黒の闇が\n出迎えてくれた。",
+      "en": "When I stepped inside the music room, I was welcomed by\ndarkness.",
+      "text": "When I stepped inside the music room, I was welcomed by\ndarkness."
+    },
+    {
+      "offset": 238,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "黒い垂れ幕と壁に挟まれた細い道が、もう一方\nの扉に向かって伸びている。",
+      "en": "A thin pathway between the black sheet and the wall led me\nto another door.",
+      "text": "A thin pathway between the black sheet and the wall led me\nto another door."
+    },
+    {
+      "offset": 312,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "垂れ幕のほうには、ところどころに入口らしい\n切込みが見える。",
+      "en": "There are several openings in the black sheet.",
+      "text": "There are several openings in the black sheet."
+    },
+    {
+      "offset": 376,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうやら、いくつかの個室に分かれてるらしい。",
+      "en": "Apparently, it's divided into several different rooms.",
+      "text": "Apparently, it's divided into several different rooms."
+    },
+    {
+      "offset": 427,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「とりあえず、萌先輩の所に行ってみよう」",
+      "en": "\"I'm going to see Moe-sempai first.\"",
+      "text": "\"I'm going to see Moe-sempai first.\""
+    },
+    {
+      "offset": 474,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "入口で教えてもらった萌先輩の担当する部屋に\n向かう。目が慣れるまでチト歩きにくいか……。",
+      "en": "At the entrance, I asked where Moe's room wls located. I\nwalked toward the room, but it was difficult for me to walk\nin the dark until I got used to it......",
+      "text": "At the entrance, I asked where Moe's room wls located. I\nwalked toward the room, but it was difficult for me to walk\nin the dark until I got used to it......"
+    },
+    {
+      "offset": 566,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "１番奥の部屋の前に立ち、そして――、",
+      "en": "I stood in front of the furthest room.......",
+      "text": "I stood in front of the furthest room......."
+    },
+    {
+      "offset": 644,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「いらっしゃいませ」",
+      "en": "\"Welcome.\"",
+      "text": "\"Welcome.\""
+    },
+    {
+      "offset": 671,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "出迎えたのは、怪しげな占い師だった。",
+      "en": "A suspicious fortune-teller welcomed me.",
+      "text": "A suspicious fortune-teller welcomed me."
+    },
+    {
+      "offset": 712,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 727,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……萌……先輩？」",
+      "en": "\"......Moe...... sempai?\"",
+      "text": "\"......Moe...... sempai?\""
+    },
+    {
+      "offset": 763,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい。いらっしゃいませ、朝倉くん」",
+      "en": "\"Yes. Welcome, Asakura-kun.\"",
+      "text": "\"Yes. Welcome, Asakura-kun.\""
+    },
+    {
+      "offset": 806,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ニッコリと、見慣れた微笑みを浮かべる怪しい\n占い師。",
+      "en": "The suspicious fortune-teller gave me a familiar smile. The\nwitch in front of me was Moe-sempai.",
+      "text": "The suspicious fortune-teller gave me a familiar smile. The\nwitch in front of me was Moe-sempai."
+    },
+    {
+      "offset": 862,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やはり、目の前のやまんばは萌先輩だった。",
+      "en": "\"......What are you doing?\"",
+      "text": "\"......What are you doing?\""
+    },
+    {
+      "offset": 909,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……何してるんです？」",
+      "en": "I asked her, feeling dizzy looking at her strange look.",
+      "text": "I asked her, feeling dizzy looking at her strange look."
+    },
+    {
+      "offset": 1027,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「木琴占いです」",
+      "en": "\"I'm doing xylophone fortune-telling.\"",
+      "text": "\"I'm doing xylophone fortune-telling.\""
+    },
+    {
+      "offset": 1050,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "間髪いれずにこやかに答える萌先輩――。",
+      "en": "She calmly replied without pausing.",
+      "text": "She calmly replied without pausing."
+    },
+    {
+      "offset": 1095,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（やっぱ、天才を超える存在か……？）",
+      "en": "(She's a genius in a way......)",
+      "text": "(She's a genius in a way......)"
+    },
+    {
+      "offset": 1138,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": ". . .",
+      "text": ". . ."
+    },
+    {
+      "offset": 1153,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「木琴……占い？」",
+      "en": "\"Xylophone fortune-telling?\"",
+      "text": "\"Xylophone fortune-telling?\""
+    },
+    {
+      "offset": 1178,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "かろうじて声が出た。",
+      "en": "I could barely speak.",
+      "text": "I could barely speak."
+    },
+    {
+      "offset": 1214,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい」",
+      "en": "\"Yes.\"",
+      "text": "\"Yes.\""
+    },
+    {
+      "offset": 1229,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「木琴占いって｛・・・／あまり｝聞きませんけど、どう\n　やって占うんですか？」",
+      "en": "\"I'm not very familiar with that style, but how exactly are\nyou going to read?\"",
+      "text": "\"I'm not very familiar with that style, but how exactly are\nyou going to read?\""
+    },
+    {
+      "offset": 1322,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「木琴を叩いて、音の違いで占うんです」",
+      "en": "\"I'm going to hit the xylophone, and read according to the\ndifference of the sound.\"",
+      "text": "\"I'm going to hit the xylophone, and read according to the\ndifference of the sound.\""
+    },
+    {
+      "offset": 1367,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1386,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そのまんま。",
+      "en": "That's pretty much what I'd expected.",
+      "text": "That's pretty much what I'd expected."
+    },
+    {
+      "offset": 1405,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そんなに違う音って、でるもんなの？」",
+      "en": "\"What do you mean by the difference of the sound?\"",
+      "text": "\"What do you mean by the difference of the sound?\""
+    },
+    {
+      "offset": 1450,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いくら叩いても“ド”は“ド”、“レ”は“レ”\nだと思うんだけど。",
+      "en": "I think no matter how many times you hit it, 'C' will be 'C'\nand 'D' will be 'D'......",
+      "text": "I think no matter how many times you hit it, 'C' will be 'C'\nand 'D' will be 'D'......"
+    },
+    {
+      "offset": 1518,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "っていうか、そうじゃなきゃ楽器じゃない。",
+      "en": "In fact if not, it can't be an instrument!",
+      "text": "In fact if not, it can't be an instrument!"
+    },
+    {
+      "offset": 1574,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい。私……１度も同じ音を出したことって、\n　ないんですよ……」",
+      "en": "\"Well...... I've never hit the same sound before......\"",
+      "text": "\"Well...... I've never hit the same sound before......\""
+    },
+    {
+      "offset": 1646,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 1674,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「でも、みんなの役に立てるのは嬉しいです」",
+      "en": "\"But I'm glad I can actually do something for others.\"",
+      "text": "\"But I'm glad I can actually do something for others.\""
+    },
+    {
+      "offset": 1723,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どちらかというと、不幸中の幸いといった気が\nするけど、萌先輩は嬉しそうに微笑んでいる。",
+      "en": "It doesn't sound great, but Moe-sempai's smiling joyfully.",
+      "text": "It doesn't sound great, but Moe-sempai's smiling joyfully."
+    },
+    {
+      "offset": 1824,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「それでは、そろそろ占いを始めますね」",
+      "en": "\"Let me start telling your fortune now.\"",
+      "text": "\"Let me start telling your fortune now.\""
+    },
+    {
+      "offset": 1869,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩がマレットを構える。",
+      "en": "Moe-sempai held the mallets in her hands.",
+      "text": "Moe-sempai held the mallets in her hands."
+    },
+    {
+      "offset": 1902,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「そういや、なにを占ってくれるんです？」",
+      "en": "\"What are you going to read for me?\"",
+      "text": "\"What are you going to read for me?\""
+    },
+    {
+      "offset": 1958,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「運勢占いです」",
+      "en": "\"I'll read your fortune.\"",
+      "text": "\"I'll read your fortune.\""
+    },
+    {
+      "offset": 1990,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「今日の運勢と５０年後、１００年後の運勢を\n　占いますね」",
+      "en": "\"I'll read your fortune for 50 years from now, and 100 years\nfrom now.\"",
+      "text": "\"I'll read your fortune for 50 years from now, and 100 years\nfrom now.\""
+    },
+    {
+      "offset": 2059,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "微笑みを浮かべ、木琴を叩き始める。占いの小\n部屋に、個性的な音色が木霊する。",
+      "en": "She smiled and started hitting the xylophone. Her unique\nsound echoed inside of the small room.",
+      "text": "She smiled and started hitting the xylophone. Her unique\nsound echoed inside of the small room."
+    },
+    {
+      "offset": 2141,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（１００年って……間隔長すぎ）",
+      "en": "(100 years from now...... That's too far from now.)",
+      "text": "(100 years from now...... That's too far from now.)"
+    },
+    {
+      "offset": 2178,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "普通、１年後とか１０年後だと思うんだけど。",
+      "en": "A year from now or 10 years from now seems to make more\nsense to me.",
+      "text": "A year from now or 10 years from now seems to make more\nsense to me."
+    },
+    {
+      "offset": 2227,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2246,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "確かに、同じ音を聴かない。まさに神技……。",
+      "en": "Just as she told me, I don't hear any identical sounds......\nWhat a skill.",
+      "text": "Just as she told me, I don't hear any identical sounds......\nWhat a skill."
+    },
+    {
+      "offset": 2293,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "萌先輩が木琴を叩く姿を見つめ、黙って結果の\n出るのを待つ。",
+      "en": "I stared at Moe-sempai playing the xylophone, and waited for\nher answer.",
+      "text": "I stared at Moe-sempai playing the xylophone, and waited for\nher answer."
+    },
+    {
+      "offset": 2357,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "（不思議とドキドキするかな……）",
+      "en": "(I feel nervous for some reason......)",
+      "text": "(I feel nervous for some reason......)"
+    },
+    {
+      "offset": 2405,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「は〜い、でました〜」",
+      "en": "\"Okay, are you ready?\"",
+      "text": "\"Okay, are you ready?\""
+    },
+    {
+      "offset": 2436,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "木琴の音がやみ、先輩が顔をあげる。",
+      "en": "The sound of the xylophone stopped, and Moe-sempai raised\nher head up.",
+      "text": "The sound of the xylophone stopped, and Moe-sempai raised\nher head up."
+    },
+    {
+      "offset": 2486,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「まず、今日の朝倉くんの運勢は……」",
+      "en": "\"Your fortune for today is......\"",
+      "text": "\"Your fortune for today is......\""
+    },
+    {
+      "offset": 2538,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「大凶です。できるだけ周囲に気を配って行動\n　してください」",
+      "en": "\"Very bad. Please be careful with your surroundings.\"",
+      "text": "\"Very bad. Please be careful with your surroundings.\""
+    },
+    {
+      "offset": 2604,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「…………」",
+      "en": "\"............\"",
+      "text": "\"............\""
+    },
+    {
+      "offset": 2623,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "とんでもないことを、にこやかに言わないでほ\nしい。",
+      "en": "How can she say such a terrible thing with a smile on her\nface?",
+      "text": "How can she say such a terrible thing with a smile on her\nface?"
+    },
+    {
+      "offset": 2688,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「５０年後は大吉です。何をしても上手くいき\n　そうな予感です。チャンスを頑張って活かし\n　てください」",
+      "en": "\"You'll be very lucky 50 years from now. Everything will go\nwell for you. Please take advantage of your chances.\"",
+      "text": "\"You'll be very lucky 50 years from now. Everything will go\nwell for you. Please take advantage of your chances.\""
+    },
+    {
+      "offset": 2804,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「それで１００年後の運勢は……」",
+      "en": "\"For 100 years from now......\"",
+      "text": "\"For 100 years from now......\""
+    },
+    {
+      "offset": 2852,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「ないですね」",
+      "en": "\"It doesn't exist.\"",
+      "text": "\"It doesn't exist.\""
+    },
+    {
+      "offset": 2873,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そりゃそうだろう。さすがに１００歳を超えて\n生きてるなんてことは、そうあるもんじゃない。",
+      "en": "That's what I thought. I don't think I'll live for more than\n100 years.",
+      "text": "That's what I thought. I don't think I'll live for more than\n100 years."
+    },
+    {
+      "offset": 2976,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「以上です。参考になりましたでしょうか？」",
+      "en": "\"That's all. Did it help you at all?\"",
+      "text": "\"That's all. Did it help you at all?\""
+    },
+    {
+      "offset": 3025,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "依然、やまんばスマイルを浮かべている萌先輩。",
+      "en": "She remained smiling as she asked me nicely.",
+      "text": "She remained smiling as she asked me nicely."
+    },
+    {
+      "offset": 3076,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ええまあ。とりあえず、今日は気をつけてお\n　きます」",
+      "en": "\"Yes, I guess. I'll try and be careful today.\"",
+      "text": "\"Yes, I guess. I'll try and be careful today.\""
+    },
+    {
+      "offset": 3136,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "他のふたつに関しては、コメントのしようがな\nい。",
+      "en": "I had nothing to say about the other two readings.",
+      "text": "I had nothing to say about the other two readings."
+    },
+    {
+      "offset": 3190,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「じゃあ俺、もう行きますんで。お仕事頑張っ\n　て」",
+      "en": "\"Well, I need to go now. Good luck with your job.\"",
+      "text": "\"Well, I need to go now. Good luck with your job.\""
+    },
+    {
+      "offset": 3255,
+      "speaker": "Moe",
+      "speaker_jp": "萌",
+      "jp": "「はい」",
+      "en": "\"Thank you.\"",
+      "text": "\"Thank you.\""
+    },
+    {
+      "offset": 3270,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "占いもすんだし、萌先輩の変わった格好も見れ\nたので、きりのいいところで退散しよう。",
+      "en": "Now that the reading was over and I was able to see her\nstrange look, I decided to leave.",
+      "text": "Now that the reading was over and I was able to see her\nstrange look, I decided to leave."
+    },
+    {
+      "offset": 3397,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ふぅ……」",
+      "en": "\"Huh......\"",
+      "text": "\"Huh......\""
+    },
+    {
+      "offset": 3416,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "さてと……次はどこをまわろうかな。",
+      "en": "Now...... where to next?",
+      "text": "Now...... where to next?"
+    },
+    {
+      "offset": 3577,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆木琴占い◆",
+      "en": "◆Xylophone fortune-telling◆",
+      "text": "◆Xylophone fortune-telling◆"
+    },
+    {
+      "offset": 3620,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "やまんば？",
+      "en": "A witch?",
+      "text": "A witch?"
+    },
+    {
+      "offset": 3635,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "いや、萌先輩である。木琴占いだそうだ。やっ\nぱ、天才を越えた存在なのか──！",
+      "en": "No, it's Moe-sempai! She's doing xylophone fortune-telling.\nI knew she was a genius in a way...!",
+      "text": "No, it's Moe-sempai! She's doing xylophone fortune-telling.\nI knew she was a genius in a way...!"
+    },
+    {
+      "offset": 3715,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、５０年後と１００年後の運勢を占っても\nらったのだった。",
+      "en": "She told my fortune for 50 years from now and 100 years from\nnow.",
+      "text": "She told my fortune for 50 years from now and 100 years from\nnow."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "638": "Moe",
+    "757": "Moe",
+    "1021": "Moe",
+    "1208": "Moe",
+    "1316": "Moe",
+    "1568": "Moe",
+    "1668": "Moe",
+    "1818": "Moe",
+    "1952": "Moe",
+    "1984": "Moe",
+    "2399": "Moe",
+    "2480": "Moe",
+    "2532": "Moe",
+    "2682": "Moe",
+    "2798": "Moe",
+    "2846": "Moe",
+    "2970": "Moe",
+    "3249": "Moe"
+  }
+}

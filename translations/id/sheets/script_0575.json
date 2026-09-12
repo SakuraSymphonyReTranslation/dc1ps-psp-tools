@@ -1,0 +1,1329 @@
+{
+  "scene": "script_0575.obj",
+  "dialogues": [
+    {
+      "offset": 213,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──プルルル",
+      "en": "--*ring*",
+      "text": "--*ring*"
+    },
+    {
+      "offset": 230,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──プルルルルルル",
+      "en": "--*ring ring*",
+      "text": "--*ring ring*"
+    },
+    {
+      "offset": 255,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「音夢ー、電話だぞー、早く出ろ！」",
+      "en": "\"Nemu, the phone's ringing, hurry up!\"",
+      "text": "\"Nemu, the phone's ringing, hurry up!\""
+    },
+    {
+      "offset": 296,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──プルルル",
+      "en": "--*ring*",
+      "text": "--*ring*"
+    },
+    {
+      "offset": 313,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──プルルルルルル",
+      "en": "--*ring ring*",
+      "text": "--*ring ring*"
+    },
+    {
+      "offset": 338,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「……いないんだった」",
+      "en": "\"...Right, she's not here.\"",
+      "text": "\"...Right, she's not here.\""
+    },
+    {
+      "offset": 367,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、ベッドから跳ね起き、駆け足で玄関に向\nかう。",
+      "en": "I jumped off my bed, and rushed towards the entranceawy.",
+      "text": "I jumped off my bed, and rushed towards the entranceawy."
+    },
+    {
+      "offset": 448,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「はい、朝倉です」",
+      "en": "\"Hello, Asakura residence.\"",
+      "text": "\"Hello, Asakura residence.\""
+    },
+    {
+      "offset": 489,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "『あ、先輩ですか？　美春です』",
+      "en": "\"Ah, is that you, senpai? It's Miharu.\"",
+      "text": "\"Ah, is that you, senpai? It's Miharu.\""
+    },
+    {
+      "offset": 526,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「美春かよ。何の用だ？」",
+      "en": "\"Miharu? What's up?\"",
+      "text": "\"Miharu? What's up?\""
+    },
+    {
+      "offset": 568,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "『先輩は、月城さんが学校休んだ理由、知って\n　ます？』",
+      "en": "\"Do you know why Tsukishiro-san's absent from school?\"",
+      "text": "\"Do you know why Tsukishiro-san's absent from school?\""
+    },
+    {
+      "offset": 628,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「知ってるけど……、そんなの学校に聞けよ」",
+      "en": "\"I do, but... I'm not sure whether the whole school should.\"",
+      "text": "\"I do, but... I'm not sure whether the whole school should.\""
+    },
+    {
+      "offset": 688,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "『いやぁ、風邪としか教えてもらえなくて。お\n　見舞いに行こうかどうしようか迷ってまして』",
+      "en": "\"Nooo, I don't mean about how she's caught a cold. I mean\nwhether it'd be alright to visit her.\"",
+      "text": "\"Nooo, I don't mean about how she's caught a cold. I mean\nwhether it'd be alright to visit her.\""
+    },
+    {
+      "offset": 782,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ほら、一昨日の雨でやられてさ。昨日、落ち\n　着いたみたいだから、見舞いに行っても大丈\n　夫だと思うぞ」",
+      "en": "\"Well, she got caught in the rain a two days ago...\nyesterday, she seemed to have calmed down, so it'd probably\nbe alright.\"",
+      "text": "\"Well, she got caught in the rain a two days ago...\nyesterday, she seemed to have calmed down, so it'd probably\nbe alright.\""
+    },
+    {
+      "offset": 902,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "『なんだか、見てきたような台詞ですね』",
+      "en": "\"Wow, you sound like you've seen her already!\"",
+      "text": "\"Wow, you sound like you've seen her already!\""
+    },
+    {
+      "offset": 947,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「……いろいろあってな」",
+      "en": "\"...Stuff happened.\"",
+      "text": "\"...Stuff happened.\""
+    },
+    {
+      "offset": 989,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "『先輩、一緒にお見舞い行きましょう。美春の\n　学校が終わるまで待っててください』",
+      "en": "\"Senpai, let's go visit her today. Please wait till after I\nfinish school!\"",
+      "text": "\"Senpai, let's go visit her today. Please wait till after I\nfinish school!\""
+    },
+    {
+      "offset": 1075,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「なに、おい、勝手に決めるなよ」",
+      "en": "\"Hey, wait a second, don't just decide by yourself!\"",
+      "text": "\"Hey, wait a second, don't just decide by yourself!\""
+    },
+    {
+      "offset": 1125,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "『じゃ、お願いしますね。お見舞いに果物かご\n　買って、迎えに行きますから。──では』",
+      "en": "\"So, let's meet up after school, and buy some fruits before\ngoing to her house! I'd see you then!\"",
+      "text": "\"So, let's meet up after school, and buy some fruits before\ngoing to her house! I'd see you then!\""
+    },
+    {
+      "offset": 1217,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "──プツッ",
+      "en": "--*click*",
+      "text": "--*click*"
+    },
+    {
+      "offset": 1234,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「おい、美春！　美春！」",
+      "en": "\"Oy, Miharu! Miharu!!\"",
+      "text": "\"Oy, Miharu! Miharu!!\""
+    },
+    {
+      "offset": 1265,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "たく、あいつめ。勝手に決めやがって……。",
+      "en": "Gah, that girl, just deciding things like that...",
+      "text": "Gah, that girl, just deciding things like that..."
+    },
+    {
+      "offset": 1312,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ま、俺も行く予定だったから、いいか」",
+      "en": "\"Well, I was planning to see her anyway, so I guess it'd be\nfine.\"",
+      "text": "\"Well, I was planning to see her anyway, so I guess it'd be\nfine.\""
+    },
+    {
+      "offset": 1357,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、受話器を置いて、部屋に戻った。",
+      "en": "Putting the receiver back onto the phone, I returned to my\nroom.",
+      "text": "Putting the receiver back onto the phone, I returned to my\nroom."
+    },
+    {
+      "offset": 1429,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、３時頃になると、美春が迎えに来た。",
+      "en": "Then, at 3 PM, I met up with Miharu.",
+      "text": "Then, at 3 PM, I met up with Miharu."
+    },
+    {
+      "offset": 1542,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「へえ、じゃあ月城さんが育ててた花はダメに\n　なっちゃったんですか……」",
+      "en": "\"Ehhh, so the plant Tsukishiro-san was growing can't be\nsaved...\"",
+      "text": "\"Ehhh, so the plant Tsukishiro-san was growing can't be\nsaved...\""
+    },
+    {
+      "offset": 1620,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「ああ。おまけに人形もダメになってな」",
+      "en": "\"Yeah. The same goes for her doll.\"",
+      "text": "\"Yeah. The same goes for her doll.\""
+    },
+    {
+      "offset": 1693,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「そうですか……。そんなことが」",
+      "en": "\"I see... so that's what happened.\"",
+      "text": "\"I see... so that's what happened.\""
+    },
+    {
+      "offset": 1732,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「だから、月城は随分落ち込んでいるみたいで\n　さ……」",
+      "en": "\"That's why she really seems depressed...\"",
+      "text": "\"That's why she really seems depressed...\""
+    },
+    {
+      "offset": 1792,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "本当は、午前中に見舞いに行こうと思っていた\nのだけれど、昨日の月城の落ち込み様に、足を\n運びそびれていた。",
+      "en": "I kind of wanted to see her before this afternoon, but\nremembering her crestfallen face, I couldn't get my legs to\nmove.",
+      "text": "I kind of wanted to see her before this afternoon, but\nremembering her crestfallen face, I couldn't get my legs to\nmove."
+    },
+    {
+      "offset": 1903,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「ところで、美春。ひとつ聞いていいか？」",
+      "en": "\"By the way, Miharu, can I ask you something?\"",
+      "text": "\"By the way, Miharu, can I ask you something?\""
+    },
+    {
+      "offset": 1978,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「なんでしょう？」",
+      "en": "\"Yes?\"",
+      "text": "\"Yes?\""
+    },
+    {
+      "offset": 2003,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「後ろのソレ、何？」",
+      "en": "\"What's that thing following us?\"",
+      "text": "\"What's that thing following us?\""
+    },
+    {
+      "offset": 2058,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「何って……、見ての通りじゃないですか」",
+      "en": "\"What's... it's exactly what you think it is?\"",
+      "text": "\"What's... it's exactly what you think it is?\""
+    },
+    {
+      "offset": 2146,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「そろそろ無視を続けるのも限界ということだ\n　な……」",
+      "en": "\"It seems you couldn't ignore me any longer, eh...\"",
+      "text": "\"It seems you couldn't ignore me any longer, eh...\""
+    },
+    {
+      "offset": 2206,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "後ろで、くくくと笑う杉並がいるが、振り返り\nたくはない。",
+      "en": "I didn't bother to even acknowledging the snickering\nSuginami behind me, by turning my head.",
+      "text": "I didn't bother to even acknowledging the snickering\nSuginami behind me, by turning my head."
+    },
+    {
+      "offset": 2312,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「途中で、偶然会っちゃいまして。どこへ行く\n　かと聞かれましたので、月城さんのお見舞い\n　に行くと答えたら……」",
+      "en": "\"I met him on the way here. When I told him where I was\ngoing, he said he wanted to visit Tsukishiro-san as well...\"",
+      "text": "\"I met him on the way here. When I told him where I was\ngoing, he said he wanted to visit Tsukishiro-san as well...\""
+    },
+    {
+      "offset": 2440,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「知ってる人間が、病気で学校を休んでいるん\n　だ。見舞いに行くのは当然だろう」",
+      "en": "\"It's a person I know, who's too sick to go to school. Of\ncourse I'd go visit her.\"",
+      "text": "\"It's a person I know, who's too sick to go to school. Of\ncourse I'd go visit her.\""
+    },
+    {
+      "offset": 2524,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並が、偉そうな声でそう言った。",
+      "en": "Suginami beat his chest proudly.",
+      "text": "Suginami beat his chest proudly."
+    },
+    {
+      "offset": 2580,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "「確かに、去年俺が３日寝込んだ時も来てくれ\n　たよな」",
+      "en": "\"Just like last year, when I was bedridden for three days,\nhuh.\"",
+      "text": "\"Just like last year, when I was bedridden for three days,\nhuh.\""
+    },
+    {
+      "offset": 2668,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「当然だ。親友だからな」",
+      "en": "\"Naturally. We are the closest of frends, after all.\"",
+      "text": "\"Naturally. We are the closest of frends, after all.\""
+    },
+    {
+      "offset": 2699,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……俺の横で、人が買ったばかりのＲＰＧを\n　勝手に解いてたよな。３日通い詰めで」",
+      "en": "\"...You parked yourself in front of my TV and blasted\nthrough all my RPGs for each and every one of those three\ndays.\"",
+      "text": "\"...You parked yourself in front of my TV and blasted\nthrough all my RPGs for each and every one of those three\ndays.\""
+    },
+    {
+      "offset": 2798,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「あの時は、金が無くて買えなかったんだ。大\n　変ありがたかったぞ」",
+      "en": "\"Of course, I was low on money during that period.\"",
+      "text": "\"Of course, I was low on money during that period.\""
+    },
+    {
+      "offset": 2870,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2900,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「…………」",
+      "en": "\"......\"",
+      "text": "\"......\""
+    },
+    {
+      "offset": 2947,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「まあ、まあ。お二人とも。今日は月城さんの\n　お見舞いに行くんですから……」",
+      "en": "\"N, now now, you two. We're going to see Tsukishiro-san,\nso...\"",
+      "text": "\"N, now now, you two. We're going to see Tsukishiro-san,\nso...\""
+    },
+    {
+      "offset": 3029,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まあ、今さら取り立てて杉並に何かを言ったと\nころで何も変わりはしないだろう。",
+      "en": "Oh well, no matter what Suginami does now anyway, it won't\nbe able to change the past.",
+      "text": "Oh well, no matter what Suginami does now anyway, it won't\nbe able to change the past."
+    },
+    {
+      "offset": 3121,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そうこうしているうちに、俺達は月城邸の前ま\nでやってきた。",
+      "en": "We quickly found ourselves in front of Tsukishiro Mansion.",
+      "text": "We quickly found ourselves in front of Tsukishiro Mansion."
+    },
+    {
+      "offset": 3211,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺達は、いつものように瀬場さんに迎えられ、\nリビングに通してもらった。",
+      "en": "As always, we were greeted by Seiba-san, and whisked into\nthe living room.",
+      "text": "As always, we were greeted by Seiba-san, and whisked into\nthe living room."
+    },
+    {
+      "offset": 3325,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だが月城は休んでいるとのことで、会うことは\nできなかった。",
+      "en": "And while she's doing that, it's pretty unreasonable for us\nto go see her....",
+      "text": "And while she's doing that, it's pretty unreasonable for us\nto go see her...."
+    },
+    {
+      "offset": 3436,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「タイミングの悪い時に来ちゃいましたね」",
+      "en": "\"Our timing was pretty bad, it seems.\"",
+      "text": "\"Our timing was pretty bad, it seems.\""
+    },
+    {
+      "offset": 3483,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「仕方ないさ」",
+      "en": "\"Oh well, it can't be helped.\"",
+      "text": "\"Oh well, it can't be helped.\""
+    },
+    {
+      "offset": 3529,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな俺たちに気をつかってくれたのか、瀬場\nさんが、せっかくなのでお茶でもいかがですか、\nと誘ってくれた。",
+      "en": "Before we even noticed, Seiba-san had already prepared tea\nfor us.",
+      "text": "Before we even noticed, Seiba-san had already prepared tea\nfor us."
+    },
+    {
+      "offset": 3638,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その間に月城が目を覚ますかも知れないし……。",
+      "en": "Who knows where Tsukishiro's woken up since between\nyesterday and now...",
+      "text": "Who knows where Tsukishiro's woken up since between\nyesterday and now..."
+    },
+    {
+      "offset": 3687,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺は、その好意に甘えることにした。",
+      "en": "I sipped the sweet-smelling drink, while thinking to myself.",
+      "text": "I sipped the sweet-smelling drink, while thinking to myself."
+    },
+    {
+      "offset": 3775,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「そうだな。俺は是非、セバスチャンの昔話を\n　聞きたいな」",
+      "en": "\"Oh yes! I'd like to hear more about the legend of\nSebastian.\"",
+      "text": "\"Oh yes! I'd like to hear more about the legend of\nSebastian.\""
+    },
+    {
+      "offset": 3867,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「昔話？　桃太郎とか、イソップとかですか？」",
+      "en": "\"Legend? Like Momotaro, and Isopp?\"",
+      "text": "\"Legend? Like Momotaro, and Isopp?\""
+    },
+    {
+      "offset": 3946,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「いや、セバスチャンは昔な──」",
+      "en": "\"Not quite! Sebastian was formerly...\"",
+      "text": "\"Not quite! Sebastian was formerly...\""
+    },
+    {
+      "offset": 3985,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並の言葉を｛さえぎ／遮｝るような、軽い咳払い。",
+      "en": "Interrupting Suginami's sentence with a small cough,",
+      "text": "Interrupting Suginami's sentence with a small cough,"
+    },
+    {
+      "offset": 4063,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "瀬場さんは、人差し指を口元に立て、ウィンク\nした。",
+      "en": "\"Ahem, Suginami-sama, perhaps I should save that for the\nnext time we are alone...\"",
+      "text": "\"Ahem, Suginami-sama, perhaps I should save that for the\nnext time we are alone...\""
+    },
+    {
+      "offset": 4117,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、その口元に当てた指が２本になる。",
+      "en": "Seiba-san put a finger to his lips, and winked.",
+      "text": "Seiba-san put a finger to his lips, and winked."
+    },
+    {
+      "offset": 4197,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ふ、二人きりで……。光栄です」",
+      "en": "\"W, when we're alone... with pleasure.\"",
+      "text": "\"W, when we're alone... with pleasure.\""
+    },
+    {
+      "offset": 4236,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並は、なぜか頬を赤らめながら、嬉しそうに\nそう言った。",
+      "en": "For some reason, his cheeks flushed red as he replied.",
+      "text": "For some reason, his cheeks flushed red as he replied."
+    },
+    {
+      "offset": 4296,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……どうもこの二人の会話はわからない。\n…………まぁ、気にしないことにしよう。",
+      "en": "...How much have these two been... talking... without my\nknowledge? ......Well, whatever. Nothing to do with me.",
+      "text": "...How much have these two been... talking... without my\nknowledge? ......Well, whatever. Nothing to do with me."
+    },
+    {
+      "offset": 4387,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺達の前に、綺麗な紅い色をした紅茶と、バター\nのいい匂いがするホットビスケットが置かれた。",
+      "en": "Seiba-san placed a set of aromatic hot biscuits with butter,\nto go with the tea.",
+      "text": "Seiba-san placed a set of aromatic hot biscuits with butter,\nto go with the tea."
+    },
+    {
+      "offset": 4503,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "瀬場さんは、遠い目をしながら、月城の家族の\n話をしてくれた。",
+      "en": "His eyes stared into the distance, perhaps to the past, as\nhe started to speak.",
+      "text": "His eyes stared into the distance, perhaps to the past, as\nhe started to speak."
+    },
+    {
+      "offset": 4567,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城の親父さんは、｛きょうじ／享司｝という名前で、月城家\nの次男坊だったらしい。",
+      "en": "Quite a story... a man who rejected wealth and safety for\nfreedom.",
+      "text": "Quite a story... a man who rejected wealth and safety for\nfreedom."
+    },
+    {
+      "offset": 4651,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "亨司さんは、親に決められた人生が嫌だと言っ\nて勘当の身となり、この屋敷を出た、というこ\nとだ。",
+      "en": "If I had to make the same choice, I don't know which I would\nchoose.",
+      "text": "If I had to make the same choice, I don't know which I would\nchoose."
+    },
+    {
+      "offset": 4748,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "よくある話だ。どうして、金持ちの連中は、敷\nかれたレールが嫌だというのだろうか。",
+      "en": "Even if it was a straight an unwavering path, many different\ntrains would travel it, housing many different people, after\nall...",
+      "text": "Even if it was a straight an unwavering path, many different\ntrains would travel it, housing many different people, after\nall..."
+    },
+    {
+      "offset": 4832,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺なら、せっかく敷いてあるレールに載せても\nらうんだけどな。",
+      "en": "\"Indeed. Kyouji-sama married the circus's star act,\nSophie-sama, and gave life to the mistress soon after.\"",
+      "text": "\"Indeed. Kyouji-sama married the circus's star act,\nSophie-sama, and gave life to the mistress soon after.\""
+    },
+    {
+      "offset": 4896,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "敷かれたレールの上でも、いろんな列車を走ら\nせられると思うんだが、そんなのは庶民の考え\nということだろうか。",
+      "en": "\"So a normal mixed Japanese, then.\"",
+      "text": "\"So a normal mixed Japanese, then.\""
+    },
+    {
+      "offset": 5007,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "……まぁ、そんなことはいいか。",
+      "en": "\"Although I did not see it myself, I heard that the mistress\nwas an energetic and cheerful young lady in her childhood\ndays.\"",
+      "text": "\"Although I did not see it myself, I heard that the mistress\nwas an energetic and cheerful young lady in her childhood\ndays.\""
+    },
+    {
+      "offset": 5042,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "で、家を出た亨司さんは、ヨーロッパに行き、\nそこで興行していたサーカスの一員になったら\nしい。",
+      "en": "\"Since the tender age of 5, she was recruited as a dancer by\nthe circus, and gained mass popularity among the viewers.\"",
+      "text": "\"Since the tender age of 5, she was recruited as a dancer by\nthe circus, and gained mass popularity among the viewers.\""
+    },
+    {
+      "offset": 5139,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そのサーカスで花形だった月城の母さん、ソフィ\nさんと出会い、結婚し、月城が産まれた……と\nいうことだ。",
+      "en": "\"But, as it was a circus, it toured around the conuntry. The\nmistress was never able to make friends, and always cried\nabout it.\"",
+      "text": "\"But, as it was a circus, it toured around the conuntry. The\nmistress was never able to make friends, and always cried\nabout it.\""
+    },
+    {
+      "offset": 5244,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "幼い頃の月城は、今とは比べられないほどに快\n活で、サーカスの踊り子として人気を博してい\nたらしい。",
+      "en": "Seiba-san's eyes took on a look of loneliness, staring at\nthe ripples in his red tea.",
+      "text": "Seiba-san's eyes took on a look of loneliness, staring at\nthe ripples in his red tea."
+    },
+    {
+      "offset": 5345,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ただ、サーカスというのは、全国を巡業するも\nのなので、友達ができずに、いつも泣いていた。",
+      "en": "\"Having seen the mistress behave that way, Kyouji-sama and\nSophie-sama gave her a certain doll.\"",
+      "text": "\"Having seen the mistress behave that way, Kyouji-sama and\nSophie-sama gave her a certain doll.\""
+    },
+    {
+      "offset": 5437,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そんな月城に両親が与えたが、あの人形……ピ\nロスだった。",
+      "en": "\"Which would be Piros?\"",
+      "text": "\"Which would be Piros?\""
+    },
+    {
+      "offset": 5497,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ピロスとは、ギリシャ語で『友達』という意味\nを持っているんだそうだ。",
+      "en": "\"In actual fact, Piros is a greek word, meaning \"friend\" in\nit's native language.\"",
+      "text": "\"In actual fact, Piros is a greek word, meaning \"friend\" in\nit's native language.\""
+    },
+    {
+      "offset": 5569,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その日から、ピロスは月城の唯一の友達になっ\nた。",
+      "en": "\"From that day onwards, Piros became the mistress's one and\nonly friend.\"",
+      "text": "\"From that day onwards, Piros became the mistress's one and\nonly friend.\""
+    },
+    {
+      "offset": 5670,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「そうだったんですか……」",
+      "en": "\"That's how it happened...\"",
+      "text": "\"That's how it happened...\""
+    },
+    {
+      "offset": 5714,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「だが、しかし、所詮人形では、本当の友達に\n　はならなかっただろうな」",
+      "en": "\"But, in the end, a mere doll cannot take the place of true\nfriends.\"",
+      "text": "\"But, in the end, a mere doll cannot take the place of true\nfriends.\""
+    },
+    {
+      "offset": 5899,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「物言わぬ人形ではお嬢様の心を癒すことがで\n　きなかったようです」",
+      "en": "\"The truth of that statement is unparalleled. A doll, which\ncould not even speak, could not heal the mistress's heart.\"",
+      "text": "\"The truth of that statement is unparalleled. A doll, which\ncould not even speak, could not heal the mistress's heart.\""
+    },
+    {
+      "offset": 5982,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「お嬢様は、ついにご両親にご不満をぶつけら\n　れたそうです」",
+      "en": "\"The mistress, in the end, became filled with anger at her\nparents, and threw a temper tantrum at them.\"",
+      "text": "\"The mistress, in the end, became filled with anger at her\nparents, and threw a temper tantrum at them.\""
+    },
+    {
+      "offset": 6081,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「サーカスなどやっていなければ……か」",
+      "en": "\"In the end, the circus was never meant for\nher...apparently.\"",
+      "text": "\"In the end, the circus was never meant for\nher...apparently.\""
+    },
+    {
+      "offset": 6164,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『実際のところはわかりかねますが』と前置き\nしてから、瀬場さんは続ける。",
+      "en": "Seiba-san nodded his head gravely.",
+      "text": "Seiba-san nodded his head gravely."
+    },
+    {
+      "offset": 6275,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「後日享司様とソフィ様は、公演中事故に遭わ\n　れ、お亡くなりになられたのです」",
+      "en": "\"Kyouji-sama and Sophie-sama were distracted by the\nmistress's harshness, and during a performance, met with a\nfatal accident.\"",
+      "text": "\"Kyouji-sama and Sophie-sama were distracted by the\nmistress's harshness, and during a performance, met with a\nfatal accident.\""
+    },
+    {
+      "offset": 6392,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「もしかして、月城さん、それを自分のせいだっ\n　て思いこんでるんじゃ……」",
+      "en": "\"You mean, Tsukishiro-san, then thought it was her fault...\"",
+      "text": "\"You mean, Tsukishiro-san, then thought it was her fault...\""
+    },
+    {
+      "offset": 6594,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「それから、お嬢様はご自分の気持ちや、お考\n　えでいらっしゃることを口にすることができ\n　なくなったようです」",
+      "en": "\"Correct. Since then, the mistress would no longer let her\ntrue feelings be known to others.\"",
+      "text": "\"Correct. Since then, the mistress would no longer let her\ntrue feelings be known to others.\""
+    },
+    {
+      "offset": 6742,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「自分の言葉が、両親を殺した……と」",
+      "en": "\"Killing her parents, with her own words... eh.\"",
+      "text": "\"Killing her parents, with her own words... eh.\""
+    },
+    {
+      "offset": 6818,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「おそらく、口を開くとその時の恐怖を思い出\n　されてしまうのでしょう」",
+      "en": "\"However, please note that is my mere conjecture.\"",
+      "text": "\"However, please note that is my mere conjecture.\""
+    },
+    {
+      "offset": 6905,
+      "speaker": "Seiba",
+      "speaker_jp": "瀬場",
+      "jp": "「自分の言葉が誰かを傷つけてしまうのではな\n　いか、お嬢様はそれを怖がっていらっしゃる\n　のではないでしょうか」",
+      "en": "\"Yes. The first time I greeted the mistress, she was already\nas reticient as she is now.\"",
+      "text": "\"Yes. The first time I greeted the mistress, she was already\nas reticient as she is now.\""
+    },
+    {
+      "offset": 7022,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "・\n・\n・",
+      "en": "\"The first time?\"",
+      "text": "\"The first time?\""
+    },
+    {
+      "offset": 7073,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「そんな過去があったとは……」",
+      "en": "\"Then, when Tsukishiro Kyouji died, you found out that he\nhad a daughter.\"",
+      "text": "\"Then, when Tsukishiro Kyouji died, you found out that he\nhad a daughter.\""
+    },
+    {
+      "offset": 7110,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「自分が親を殺したと思ってるなんて……」",
+      "en": "\"Hah, see? Sebastian agrees with me.\"",
+      "text": "\"Hah, see? Sebastian agrees with me.\""
+    },
+    {
+      "offset": 7157,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「杉並！　この間、お前が月城にしたこと、ちゃ\n　んと謝れよ」",
+      "en": "\"So she had that kind of past...\"",
+      "text": "\"So she had that kind of past...\""
+    },
+    {
+      "offset": 7234,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……なぜ、謝る必要がある？　俺は間違った\n　ことは言ってないつもりだが？」",
+      "en": "\"...Why are apologies needed? Have I said anything that has\nbeen proven wrong, to her?\"",
+      "text": "\"...Why are apologies needed? Have I said anything that has\nbeen proven wrong, to her?\""
+    },
+    {
+      "offset": 7316,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「お前……」",
+      "en": "\"You...\"",
+      "text": "\"You...\""
+    },
+    {
+      "offset": 7346,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ただ、事情も知らずに、取った行動だったと\n　いうのは、俺にしてはつまらんミスだ」",
+      "en": "\"The only slight mistake I made, was in the handling of the\nsituation, without knowing the cirumstances.\"",
+      "text": "\"The only slight mistake I made, was in the handling of the\nsituation, without knowing the cirumstances.\""
+    },
+    {
+      "offset": 7434,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "柄になく、真面目な顔をする杉並。ヤツなりの\n反省というところなのだろうか。",
+      "en": "Although he remained firm, his face was serious. At least he\nseemed to be reflecting on what he had done...",
+      "text": "Although he remained firm, his face was serious. At least he\nseemed to be reflecting on what he had done..."
+    },
+    {
+      "offset": 7547,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「月城さんって、そのころから腹話術が得意だっ\n　たんですか？　サーカスで覚えた芸とかで」",
+      "en": "\"Is that how Tsukishiro-san became so good at ventriloquism?\nI've heard it used in some circus acts...\"",
+      "text": "\"Is that how Tsukishiro-san became so good at ventriloquism?\nI've heard it used in some circus acts...\""
+    },
+    {
+      "offset": 7663,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『いえ』と瀬場さんが首を横に振る。",
+      "en": "All of us leaned forward instinctively. We all seemed to be\nextremely interested in the connection between Tsukishiro\nand the doll.",
+      "text": "All of us leaned forward instinctively. We all seemed to be\nextremely interested in the connection between Tsukishiro\nand the doll."
+    },
+    {
+      "offset": 7702,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城が初音島に来てから１年くらい過ぎた頃\n……今から４年くらい前から、月城が人形を\n持つと人形が気持ちを喋るようになった、と。",
+      "en": "\"The mistress would carry the doll, and the doll would speak\nof Tsukishiro's feelings for her.\"",
+      "text": "\"The mistress would carry the doll, and the doll would speak\nof Tsukishiro's feelings for her.\""
+    },
+    {
+      "offset": 7831,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、それは月城が素手で人形を触っている\nときにだけ起こることらしい。",
+      "en": "\"What about the gloves?\"",
+      "text": "\"What about the gloves?\""
+    },
+    {
+      "offset": 7907,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "手袋をしていれば、人形は喋らない、というこ\nとだ。",
+      "en": "\"It appears that the doll speaks whenever the mistress holds\nit with her bare hands, whether she wishes it to, or not.\"",
+      "text": "\"It appears that the doll speaks whenever the mistress holds\nit with her bare hands, whether she wishes it to, or not.\""
+    },
+    {
+      "offset": 7961,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そういえば、人形が喋る時だけ、手袋を外し、\n喋り終わると、またはめてたな。",
+      "en": "Now that he said it, whenever the gloves came off, the doll\nstarted talking, and whenever they were put back on, it\nstopped.",
+      "text": "Now that he said it, whenever the gloves came off, the doll\nstarted talking, and whenever they were put back on, it\nstopped."
+    },
+    {
+      "offset": 8074,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「でも、そんな魔法みたいな事って、あり得ま\n　すかね……」",
+      "en": "\"But that sounds so much like magic... I wonder whether it's\ntrue...\"",
+      "text": "\"But that sounds so much like magic... I wonder whether it's\ntrue...\""
+    },
+    {
+      "offset": 8171,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「自己暗示の一種だろう」",
+      "en": "\"It could be a form of self-suggestion.\"",
+      "text": "\"It could be a form of self-suggestion.\""
+    },
+    {
+      "offset": 8202,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「自己暗示？」",
+      "en": "\"Self-suggestion?\"",
+      "text": "\"Self-suggestion?\""
+    },
+    {
+      "offset": 8234,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「そうだ。手袋を外している時に人形に触れば\n　｛・・・／勝手に｝人形が自分の心を伝えてくれる、そう\n　いう暗示だ」",
+      "en": "\"Indeed. In other words, when she holds the doll with her\nbare hands, the doll instantly pipes out with what she\nfelt.\"",
+      "text": "\"Indeed. In other words, when she holds the doll with her\nbare hands, the doll instantly pipes out with what she\nfelt.\""
+    },
+    {
+      "offset": 8397,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「自分でそれをしたっていうんですか？」",
+      "en": "\"She's not actually doing it by herself?\"",
+      "text": "\"She's not actually doing it by herself?\""
+    },
+    {
+      "offset": 8453,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「いや、自己暗示というのは、自分で気が付か\n　ないうちにかかっているものもある。強く思\n　い込むことでな」",
+      "en": "\"It is very possible to do self-suggestion without even\nrealizing it. You just have to want it to happen enough.\"",
+      "text": "\"It is very possible to do self-suggestion without even\nrealizing it. You just have to want it to happen enough.\""
+    },
+    {
+      "offset": 8592,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「まあ、ただ……人形を使って喋るようになっ\n　たのが、初音島へ来てしばらくしてからとい\n　うのが気になるがな」",
+      "en": "\"Although, most interestingly... apparently the doll would\nonly talk, after she started living in Hatsunejima.",
+      "text": "\"Although, most interestingly... apparently the doll would\nonly talk, after she started living in Hatsunejima."
+    },
+    {
+      "offset": 8707,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "杉並が紅茶をすすりながら、そう言った。",
+      "en": "Suginami sipped his tea quietly, as he spoke.",
+      "text": "Suginami sipped his tea quietly, as he spoke."
+    },
+    {
+      "offset": 8791,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「でも、問題はそんなことじゃあないですよね」",
+      "en": "\"But the problem isn't that, anyway.\"",
+      "text": "\"But the problem isn't that, anyway.\""
+    },
+    {
+      "offset": 8870,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「そうだな。いつまでも自分の言葉で喋れない\n　という訳にもいかないだろう」",
+      "en": "\"Yeah. The bigger problem is that she doesn't talk,\nherself.\"",
+      "text": "\"Yeah. The bigger problem is that she doesn't talk,\nherself.\""
+    },
+    {
+      "offset": 8962,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それに、人形はもう壊れてしまった。",
+      "en": "And the doll has been more or less destroyed, too.",
+      "text": "And the doll has been more or less destroyed, too."
+    },
+    {
+      "offset": 9001,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城と知り合ってから、彼女はだんだんと喋っ\nてくれるようにはなっていた。",
+      "en": "Since the first time I met her, she'd been slowly starting\nto talk more.",
+      "text": "Since the first time I met her, she'd been slowly starting\nto talk more."
+    },
+    {
+      "offset": 9077,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "俺はもっと月城と話がしたい。人形とではなく、\n彼女と話がしたい。",
+      "en": "I want to talk more with her. Not with a doll, but with her.",
+      "text": "I want to talk more with her. Not with a doll, but with her."
+    },
+    {
+      "offset": 9145,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "彼女の楽しいと思っていること、面白いと思っ\nていること、嫌だったこと、悲しかったこと、",
+      "en": "The things she finds fun, the things she finds interesting.\nThe things she dislikes, the things she finds sad.",
+      "text": "The things she finds fun, the things she finds interesting.\nThe things she dislikes, the things she finds sad."
+    },
+    {
+      "offset": 9235,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "それを彼女の口から聞きたい。",
+      "en": "I wanted to hear them from her mouth.",
+      "text": "I wanted to hear them from her mouth."
+    },
+    {
+      "offset": 9290,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "妙にしんみりとしてしまった場の空気を取り繕\nうようなタイミングで、瀬場さんは、月城の様\n子を見てくると言って、部屋を出て行った。",
+      "en": "Seiba-san departed the room, trying to ease the solemn mood,\nwhile checking up on Tsukishiro.",
+      "text": "Seiba-san departed the room, trying to ease the solemn mood,\nwhile checking up on Tsukishiro."
+    },
+    {
+      "offset": 9470,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「人形、壊れちゃったんなら、あまり月城さん\n　とお話することができませんね……」",
+      "en": "\"Now that the doll isn't around anymore, Tsukishiro-san\nwould be talking even less now...\"",
+      "text": "\"Now that the doll isn't around anymore, Tsukishiro-san\nwould be talking even less now...\""
+    },
+    {
+      "offset": 9567,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「そもそも人形で喋るというのがおかしいんだ」",
+      "en": "\"The doll talking, in the first place, is already strange to\nbegin with.\"",
+      "text": "\"The doll talking, in the first place, is already strange to\nbegin with.\""
+    },
+    {
+      "offset": 9618,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「俺は、月城と話がしたいんだ」",
+      "en": "\"I want to talk with Tsukishiro.\"",
+      "text": "\"I want to talk with Tsukishiro.\""
+    },
+    {
+      "offset": 9694,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「……朝倉先輩」",
+      "en": "\"...Asakura-senpai.\"",
+      "text": "\"...Asakura-senpai.\""
+    },
+    {
+      "offset": 9728,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「本音が出たな……」",
+      "en": "\"Here comes the real motive...\"",
+      "text": "\"Here comes the real motive...\""
+    },
+    {
+      "offset": 9755,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「な、何を言ってるんだ」",
+      "en": "\"W, what are you saying...\"",
+      "text": "\"W, what are you saying...\""
+    },
+    {
+      "offset": 9814,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「まあ、そうだとは思いましたけどね……」",
+      "en": "\"Well, I thought this would happen...\"",
+      "text": "\"Well, I thought this would happen...\""
+    },
+    {
+      "offset": 9872,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「わかりやすいヤツだからな」",
+      "en": "\"You're so simple, my friend.\"",
+      "text": "\"You're so simple, my friend.\""
+    },
+    {
+      "offset": 9907,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「ちょっと待て、お前ら！　別に深い意味なん\n　てないぞ！　勝手に勘違いするな」",
+      "en": "\"Wait a minute, you two! Don't start reading between the\nlines! You're obviously mistaken!\"",
+      "text": "\"Wait a minute, you two! Don't start reading between the\nlines! You're obviously mistaken!\""
+    },
+    {
+      "offset": 10019,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「本当〜にわかりやすいな、わんこ嬢」",
+      "en": "\"He's reaaaally~ easy to understand, dear puppy.\"",
+      "text": "\"He's reaaaally~ easy to understand, dear puppy.\""
+    },
+    {
+      "offset": 10090,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「はい、わかりやすいです」",
+      "en": "\"Eheheh. I agree!\"",
+      "text": "\"Eheheh. I agree!\""
+    },
+    {
+      "offset": 10123,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春が、たははと苦笑する。",
+      "en": "Miharu giggled lightly.",
+      "text": "Miharu giggled lightly."
+    },
+    {
+      "offset": 10154,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "なんなんだ、こいつらは……。",
+      "en": "What the hell, you two...",
+      "text": "What the hell, you two..."
+    },
+    {
+      "offset": 10215,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "リビングの扉が、軽くノックされる。",
+      "en": "A knock on the door of the living room then resounded\nthrough the room.",
+      "text": "A knock on the door of the living room then resounded\nthrough the room."
+    },
+    {
+      "offset": 10279,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "戻ってきた瀬場さんからは、月城の色好い返答\nを聞くことは出来なかった。",
+      "en": "\"We can't see her?\"",
+      "text": "\"We can't see her?\""
+    },
+    {
+      "offset": 10353,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "まぁ、仕方ない……か。",
+      "en": "\"Yes. She does not seem to be possess the mood for it.\"",
+      "text": "\"Yes. She does not seem to be possess the mood for it.\""
+    },
+    {
+      "offset": 10393,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「まあ、人形がないのでは、あまり喋ることも\n　できんだろうからな」",
+      "en": "\"Well, without her doll, it's not like she's going to talk\nanyway.\"",
+      "text": "\"Well, without her doll, it's not like she's going to talk\nanyway.\""
+    },
+    {
+      "offset": 10465,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「……杉並！」",
+      "en": "\"...Suginami!!\"",
+      "text": "\"...Suginami!!\""
+    },
+    {
+      "offset": 10486,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "ったく、よけいなことばかり言うヤツだ。",
+      "en": "For God's sake, this guy does NOT know the meaning of \"going\ntoo far.\"",
+      "text": "For God's sake, this guy does NOT know the meaning of \"going\ntoo far.\""
+    },
+    {
+      "offset": 10564,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「果物かご、直接渡したかったんですけどね\n　……」",
+      "en": "\"I was hoping we could give her these fruits personally...\"",
+      "text": "\"I was hoping we could give her these fruits personally...\""
+    },
+    {
+      "offset": 10620,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "美春がそう言って、持ってきていた果物かごを\nテーブルの上に置く。",
+      "en": "Miharu looked at the fruits basket we had placed on the\ntable.",
+      "text": "Miharu looked at the fruits basket we had placed on the\ntable."
+    },
+    {
+      "offset": 10688,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "『私が責任を持ってお届けします』と言ってか\nごを受け取ろうとした瀬場さんの表情が、途中\nから｛けげん／怪訝｝な顔つきになる。",
+      "en": "As he took the basket and looked inside, his face turned to\none of disbelief.",
+      "text": "As he took the basket and looked inside, his face turned to\none of disbelief."
+    },
+    {
+      "offset": 10828,
+      "speaker": "Suginami",
+      "speaker_jp": "杉並",
+      "jp": "「セバスチャンを｛うな／唸｝らすとは……」",
+      "en": "\"Even Sebastian reacted like that...\"",
+      "text": "\"Even Sebastian reacted like that...\""
+    },
+    {
+      "offset": 10905,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「え？　おかしいですか？」",
+      "en": "\"Eh? It's weird?\"",
+      "text": "\"Eh? It's weird?\""
+    },
+    {
+      "offset": 10938,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「……全部バナナってのはナシだろう」",
+      "en": "\"...It's all bananas.\"",
+      "text": "\"...It's all bananas.\""
+    },
+    {
+      "offset": 11009,
+      "speaker": "Miharu",
+      "speaker_jp": "美春",
+      "jp": "「そういえば、そうですね。気を利かせてモン\n　キーバナナやモラードバナナも混ぜておくべ\n　きでしたね」",
+      "en": "\"I guess that's true. I should've mixed in some monkey\nbananas and molard bananas.\"",
+      "text": "\"I guess that's true. I should've mixed in some monkey\nbananas and molard bananas.\""
+    },
+    {
+      "offset": 11116,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "結局、全部バナナかよッ！",
+      "en": "That's still all bananas, sheesh!\"",
+      "text": "That's still all bananas, sheesh!\""
+    },
+    {
+      "offset": 11156,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その日、俺達は、その後もしばらく瀬場さんと\n一緒にお茶を楽しんだ。",
+      "en": "We continued our enoyable conversation with Seiba-san for\nthe rest of the day.",
+      "text": "We continued our enoyable conversation with Seiba-san for\nthe rest of the day."
+    },
+    {
+      "offset": 11226,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "月城に会えなかったのは残念だったけど……彼\n女にあんな過去があったなんて。",
+      "en": "It's too bad that we couldn't see Tsukishiro... but we\nmanaged to find out a lot about her past.",
+      "text": "It's too bad that we couldn't see Tsukishiro... but we\nmanaged to find out a lot about her past."
+    },
+    {
+      "offset": 11304,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうにか、できないものだろうか。",
+      "en": "Nothing we can do about it, though...",
+      "text": "Nothing we can do about it, though..."
+    },
+    {
+      "offset": 11445,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "◆月城の過去◆",
+      "en": "◆Tsukishiro's Past◆",
+      "text": "◆Tsukishiro's Past◆"
+    },
+    {
+      "offset": 11490,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "午後に、美春と……不本意だが杉並との３人で\n月城の見舞いに行くことになった。",
+      "en": "In the afternoon, I went with Miharu and... reluctantly,\nSuginami, to visit Tsukishiro.",
+      "text": "In the afternoon, I went with Miharu and... reluctantly,\nSuginami, to visit Tsukishiro."
+    },
+    {
+      "offset": 11570,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "だが、月城は休んでおり、俺達は会うことがで\nきなかった。",
+      "en": "But Tsukishiro was resting, so we couldn't see her, anyway.",
+      "text": "But Tsukishiro was resting, so we couldn't see her, anyway."
+    },
+    {
+      "offset": 11630,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "代わりに、俺達は、瀬場さんの口から月城の生\nい立ちを聞かせてもらったのだった。",
+      "en": "Instead, we got to hear about her past through Seiba-san.",
+      "text": "Instead, we got to hear about her past through Seiba-san."
+    },
+    {
+      "offset": 11712,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "そして、どうやら、子どもの頃に、自分の言葉\nが両親を殺してしまったのだと思いこみ、自分\nの言葉を使えなくなったのだという。",
+      "en": "Apparently, she felt that she killed her parents with her\nown words as a kid, so she refused to ever used her own\nwords again.",
+      "text": "Apparently, she felt that she killed her parents with her\nown words as a kid, so she refused to ever used her own\nwords again."
+    },
+    {
+      "offset": 11837,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "その日、月城とは会うことができなかったが、\nいろいろ知ることができた。",
+      "en": "That day, we never saw Tsukishiro's face, but found out a\nlot more about her.",
+      "text": "That day, we never saw Tsukishiro's face, but found out a\nlot more about her."
+    },
+    {
+      "offset": 11911,
+      "speaker": "",
+      "speaker_jp": "",
+      "jp": "どうにか、してあげられないものだろうか。",
+      "en": "Nothing we can do about it, though...",
+      "text": "Nothing we can do about it, though..."
+    }
+  ],
+  "choices": [],
+  "names": {
+    "481": "Miharu",
+    "560": "Miharu",
+    "680": "Miharu",
+    "894": "Miharu",
+    "981": "Miharu",
+    "1117": "Miharu",
+    "1534": "Miharu",
+    "1685": "Miharu",
+    "1970": "Miharu",
+    "2050": "Miharu",
+    "2138": "Suginami",
+    "2304": "Miharu",
+    "2432": "Suginami",
+    "2660": "Suginami",
+    "2790": "Suginami",
+    "2892": "Suginami",
+    "2939": "Miharu",
+    "3428": "Miharu",
+    "3767": "Suginami",
+    "3859": "Miharu",
+    "3938": "Suginami",
+    "4189": "Suginami",
+    "5662": "Miharu",
+    "5706": "Suginami",
+    "5891": "Seiba",
+    "5974": "Seiba",
+    "6073": "Suginami",
+    "6267": "Seiba",
+    "6384": "Miharu",
+    "6586": "Seiba",
+    "6734": "Suginami",
+    "6810": "Seiba",
+    "6897": "Seiba",
+    "7065": "Suginami",
+    "7226": "Suginami",
+    "7338": "Suginami",
+    "7539": "Miharu",
+    "8066": "Miharu",
+    "8163": "Suginami",
+    "8226": "Suginami",
+    "8389": "Miharu",
+    "8445": "Suginami",
+    "8584": "Suginami",
+    "8783": "Miharu",
+    "9462": "Miharu",
+    "9559": "Suginami",
+    "9686": "Miharu",
+    "9720": "Suginami",
+    "9806": "Miharu",
+    "9864": "Suginami",
+    "10011": "Suginami",
+    "10082": "Miharu",
+    "10385": "Suginami",
+    "10556": "Miharu",
+    "10820": "Suginami",
+    "10897": "Miharu",
+    "11001": "Miharu"
+  }
+}
