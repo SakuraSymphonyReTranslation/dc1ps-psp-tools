@@ -65,24 +65,23 @@ for sc_id, (title, lines) in psp_all.items():
         heroines[h_name]['en_scenes'].append(sc_id)
         heroines[h_name]['mg'] += 1
 
-print('=' * 88)
-print('ANALISIS KELENGKAPAN RUTE HEROINE DI D.C.P.S. (PSP ULJM05719 / NPJH50731)')
-print('=' * 88)
-print(f'{"Heroine (Tab Screenshot)":25} | {"Total Scene PSP":15} | {"Terjemah EN":14} | {"Sumber (FanTL / MangaGamer)":30}')
-print('-' * 88)
+print('=' * 95)
+print('ANALISIS KELENGKAPAN RUTE HEROINE D.C.P.S. (PLUS SITUATION PORTABLE - NPJH50731)')
+print('=' * 95)
+print(f'{"Tab Heroine D.C.P.S.":25} | {"Total Scene All-Age":20} | {"Status Terjemah":16} | {"Status Rute"}')
+print('-' * 95)
 
 for h_name, d in heroines.items():
     total_psp = len(d['psp_scenes'])
     total_en = len(d['en_scenes'])
     pct = (total_en / total_psp * 100) if total_psp > 0 else 0
-    src_str = f"FanTL: {d['ark']:2d} | MG: {d['mg']:2d}"
-    status = ' [LENGKAP]' if total_en == total_psp else f' [KURANG {total_psp - total_en:2d}]'
-    print(f'{h_name:25} | {total_psp:4d} scene       | {total_en:3d} ({pct:5.1f}%){status:13} | {src_str}')
+    status = ' [100% LENGKAP]' if total_en == total_psp else f' [Sisa {total_psp - total_en:2d} scene]'
+    print(f'{h_name:25} | {total_psp:4d} scene            | {total_en:3d} ({pct:5.1f}%)     | {status}')
 
-print('=' * 88)
+print('=' * 95)
 total_all_psp = sum(len(d['psp_scenes']) for d in heroines.values())
 total_all_en = sum(len(d['en_scenes']) for d in heroines.values())
-print(f'TOTAL SELURUH SCENE       : {total_all_psp} scene')
-print(f'TOTAL TERJEMAHAN EN SAAT INI: {total_all_en} scene ({total_all_en/total_all_psp*100:.1f}%)')
-print(f'SCENE YANG BELUM TERJEMAH : {total_all_psp - total_all_en} scene (sebagian besar karakter baru PS2/PSP!)')
-print('=' * 88)
+print(f'TOTAL SELURUH SCENE ALL-AGE D.C.P.S. : {total_all_psp} scene')
+print(f'TOTAL SCENE SIAP MAINKAN SAAT INI    : {total_all_en} scene ({total_all_en/total_all_psp*100:.1f}%)')
+print(f'SCENE EKSKLUSIF KONSOL BELUM TERJEMAH: {total_all_psp - total_all_en} scene')
+print('=' * 95)
