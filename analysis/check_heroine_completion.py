@@ -65,23 +65,30 @@ for sc_id, (title, lines) in psp_all.items():
         heroines[h_name]['en_scenes'].append(sc_id)
         heroines[h_name]['mg'] += 1
 
-print('=' * 95)
-print('ANALISIS KELENGKAPAN RUTE HEROINE D.C.P.S. (PLUS SITUATION PORTABLE - NPJH50731)')
-print('=' * 95)
-print(f'{"Tab Heroine D.C.P.S.":25} | {"Total Scene All-Age":20} | {"Status Terjemah":16} | {"Status Rute"}')
-print('-' * 95)
+print('=' * 105)
+print('ANALISIS PEMETAAN NASKAH REFERENSI HEROINE D.C.P.S. (NPJH50731)')
+print('Catatan: Toolkit ini adalah Patch Builder. Naskah Inggris diambil dari FanTL PC & MangaGamer PC.')
+print('Di FanTL, skenario rute PLUS (Kanae, Nanako, Izumiko, Kasumi, Tamaki, Alice) TIDAK diterjemahkan penuh.')
+print('=' * 105)
+print(f'{"Heroine D.C.P.S.":25} | {"Total Scene PSP":17} | {"Ada Ref PC":14} | {"Status Referensi PC"}')
+print('-' * 105)
 
 for h_name, d in heroines.items():
     total_psp = len(d['psp_scenes'])
     total_en = len(d['en_scenes'])
     pct = (total_en / total_psp * 100) if total_psp > 0 else 0
-    status = ' [100% LENGKAP]' if total_en == total_psp else f' [Sisa {total_psp - total_en:2d} scene]'
-    print(f'{h_name:25} | {total_psp:4d} scene            | {total_en:3d} ({pct:5.1f}%)     | {status}')
+    if total_en == 0:
+        status = 'Belum Ada Referensi PC'
+    elif total_en == total_psp:
+        status = 'Referensi Terpetakan (Naskah FanTL/MG parsial)'
+    else:
+        status = f'Sebagian Terpetakan (Sisa {total_psp - total_en:2d} tanpa ref)'
+    print(f'{h_name:25} | {total_psp:4d} scene         | {total_en:3d} ({pct:5.1f}%)    | {status}')
 
-print('=' * 95)
+print('=' * 105)
 total_all_psp = sum(len(d['psp_scenes']) for d in heroines.values())
 total_all_en = sum(len(d['en_scenes']) for d in heroines.values())
-print(f'TOTAL SELURUH SCENE ALL-AGE D.C.P.S. : {total_all_psp} scene')
-print(f'TOTAL SCENE SIAP MAINKAN SAAT INI    : {total_all_en} scene ({total_all_en/total_all_psp*100:.1f}%)')
-print(f'SCENE EKSKLUSIF KONSOL BELUM TERJEMAH: {total_all_psp - total_all_en} scene')
-print('=' * 95)
+print(f'TOTAL SELURUH SCENE ALL-AGE PSP  : {total_all_psp} scene')
+print(f'TOTAL SCENE MEMILIKI REF NASKAH PC: {total_all_en} scene ({total_all_en/total_all_psp*100:.1f}%)')
+print(f'SCENE KONSOL TANPA REFERENSI PC   : {total_all_psp - total_all_en} scene')
+print('=' * 105)
