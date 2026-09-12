@@ -108,25 +108,27 @@ graph TD
 
 ---
 
-## 🌸 Daftar Heroine & Cakupan Cerita (11 Route Lengkap)
+## 🌸 Daftar Heroine & Cakupan Skenario All-Age D.C.P.S. (13 Heroine Lengkap)
 
-| No | Heroine / Route | Sumber Naskah | Jumlah Scene | Keterangan Cerita |
-| :---: | :--- | :---: | :---: | :--- |
-| **-** | **Common Route & Shared Events** | FanTL ENG ([Arkanos](https://vndb.org/p184)) | **141 scene** | Prologue, kehidupan sekolah, sarapan, makan siang, jalan pulang bersama. |
-| **1** | **Kotori Shirakawa** (白河 ことり) | FanTL ENG ([Arkanos](https://vndb.org/p184)) | **89 scene** | Idola sekolah & penyanyi paduan suara. |
-| **2** | **Tamaki Tsurumaki** (環) | FanTL ENG ([Arkanos](https://vndb.org/p184)) | **46 scene** | Gadis kuil / miko (*Heroine Plus Communication*). |
-| **3** | **Alice Tsukishiro** (アリス) | FanTL ENG ([Arkanos](https://vndb.org/p184)) | **43 scene** | Gadis sirkus asal Eropa (*Heroine Plus Communication*). |
-| **4** | **Kanae Kudou** (佳苗 / 工藤) | FanTL ENG ([Arkanos](https://vndb.org/p184)) | **20 scene** | Teman sekelas yang menyamar (*Heroine Plus Communication*). |
-| **5** | **Nemu Asakura** (朝倉 音夢) | MangaGamer Official | **89 scene** | Adik tiri Junichi, event sakit demam, cek suhu dahi, kencan malam. |
-| **6** | **Sakura Yoshino** (芳乃 さくら) | MangaGamer Official | **86 scene** | Teman masa kecil dari Amerika, pohon sakura abadi, bekal makan siang. |
-| **7** | **Yoriko Sagisawa** (鷺澤 頼子) | MangaGamer Official | **53 scene** | Gadis bertopi kucing / pelayan rumah tangga & perpustakaan. |
-| **8** | **Miharu Amakase** (天枷 美春) | MangaGamer Official | **27 scene** | Adik kelas pencinta pisang & robot android. |
-| **9** | **Misaki Sawai** (沢井 美咲) | MangaGamer Official | *(gabung `_m`)* | Siswi teladan berkacamata / anggota klub sains. |
-| **10**| **Mako Mizukoshi** (水越 眞子) | MangaGamer Official | **23 scene** | Pemain seruling / putri keluarga dokter rumah sakit. |
-| **11**| **Moe Mizukoshi** (水越 萌) | MangaGamer Official | *(gabung `_w`)* | Kakak Mako yang suka tidur siang dan makan panci nabemono di atap. |
-| **-** | **Heroine Endings & Epilogues** | Gabungan | **90 scene** | Konklusi akhir cerita, epilog kelulusan, dan adegan penutup masing-masing heroine. |
-| **-** | **Scene Transisi / Lainnya** | Gabungan | **32 scene** | Percabangan perantara dan event selingan. |
-| | **TOTAL** | | **721 SCENE** | **66.868 baris dialog, pilihan, dan nama karakter aktif.** |
+Game **D.C.P.S. ～ダ・カーポ～ プラスシチュエーション ポータブル** (`NPJH50731` / `ULJM05718`) memiliki **13 Heroine Resmi** (7 Heroine Orisinal + 6 Heroine Baru Konsol) serta 1 Kategori `etc` untuk rute umum sekolah. Seluruhnya terdiri dari **892 scene skrip All-Age (non-18+)**:
+
+| No | Heroine / Rute | Kategori Karakter | Total Scene PSP | Terjemah Saat Ini | Status Kelengkapan | Keterangan Skenario All-Age D.C.P.S. |
+|:---:|---|---|:---:|:---:|:---:|---|
+| **1** | **Asakura Nemu** (朝倉 音夢) | Heroine Utama | 114 scene | 109 (95.6%) | ⚠️ Sisa 5 scene | Adik tiri Junichi, event sakit demam, kalung lonceng. |
+| **2** | **Yoshino Sakura** (芳乃 さくら) | Heroine Utama | 94 scene | 91 (96.8%) | ⚠️ Sisa 3 scene | Sepupu dari Amerika, pohon sakura abadi, bekal makan siang. |
+| **3** | **Shirakawa Kotori** (白河 ことり) | Heroine Utama | 91 scene | 89 (97.8%) | ⚠️ Sisa 2 scene | Idola sekolah, telepatis pembaca pikiran, penyanyi paduan suara. |
+| **4** | **Amakase Miharu** (天枷 美春) | Heroine Utama | 57 scene | 50 (87.7%) | ⚠️ Sisa 7 scene | Adik kelas pencinta pisang & rahasia robot android. |
+| **5** | **Mizukoshi Moe** (水越 萌) | Heroine Utama | 41 scene | 39 (95.1%) | ⚠️ Sisa 2 scene | Kakak santai pencinta tidur siang & pemain xilofon. |
+| **6** | **Mizukoshi Mako** (水越 眞子) | Heroine Utama | 21 scene | 17 (81.0%) | ⚠️ Sisa 4 scene | Teman masa kecil tomboy, pemain seruling, putri dokter. |
+| **7** | **Sagisawa Yoriko** (鷺澤 頼子) | Heroine Pendukung | 51 scene | **51 (100%)** | ✅ **LENGKAP** | Pelayan bertelinga kucing & penjaga perpustakaan. |
+| **8** | **Tsukishiro Alice** (月城 アリス) | Heroine Baru Konsol | 40 scene | **40 (100%)** | ✅ **LENGKAP** | Gadis pesulap sirkus asal Eropa & boneka filosofis. |
+| **9** | **Konomiya Tamaki** (胡ノ宮 環) | Heroine Baru Konsol | 44 scene | **44 (100%)** | ✅ **LENGKAP** | Gadis kuil miko, tunangan masa kecil Junichi. |
+| **10**| **Kudou Kanae** (工藤 叶) | Heroine Baru Konsol | 17 scene | **17 (100%)** | ✅ **LENGKAP** | Teman sekelas Junichi, rahasia saudara kembar. |
+| **11**| **Saitama Nanako** (彩珠 ななこ) | Heroine Baru Konsol | 29 scene | **4 (13.8%)** | ❌ **Sisa 25 scene** | Gadis berkacamata ceria, pencinta hewan (kambing sekolah). |
+| **12**| **Murasaki Izumiko** (紫 和泉子) | Heroine Baru Konsol | 9 scene | **0 (0.0%)** | ❌ **Sisa 9 scene** | Alien misterius yang menyamar dengan kostum boneka beruang. |
+| **13**| **Kiryuu Kasumi** (霧羽 香澄) | Heroine Baru Konsol | 5 scene | **3 (60.0%)** | ⚠️ **Sisa 2 scene** | Arwah penasaran gadis SMA & mantan reporter sekolah. |
+| **-** | **Common Route & Event Sekolah** | Rute Umum & Sub-Event | 279 scene | 167 (59.9%) | ⚠️ Sisa 112 scene | Prolog, kehidupan sekolah, interaksi komedi Suginami. |
+| | **TOTAL SELURUH SKENARIO** | | **892 SCENE** | **721 (80.8%)** | ⚠️ **Sisa 171 scene** | **66.868 baris teks All-Age konsol siap dimainkan!** |
 
 ---
 
@@ -200,39 +202,20 @@ Cukup klik dua kali file **`run_menu.bat`** di folder utama:
 
 ---
 
-## 🌸 Status Kelengkapan Rute Heroine (D.C.P.S. Plus Situation)
+## 💡 Perbedaan Skenario All-Age D.C.P.S. vs Versi PC (18+)
 
-**D.C.P.S. ～ダ・カーポ～ プラスシチュエーション ポータブル** (`NPJH50731` / `ULJM05718`) adalah visual novel versi konsol **All-Age (Semua Umur / CERO C)** untuk Sony PlayStation Portable (PSP).
+Skenario di dalam **D.C.P.S. (*Plus Situation*)** tidak identik dengan versi PC (*Plus Communication*):
+1. **Rating All-Age (Semua Umur / CERO C)**:
+   Seluruh adegan 18+ pada versi PC dihilangkan total pada versi konsol dan digantikan dengan adegan romantis manis ramah semua umur (*SFW replacement*) seperti kencan di bawah pohon sakura abadi, percakapan intim emosional, dan event interaksi kehidupan sekolah.
+2. **Heroine Orisinal Konsol (Izumiko, Nanako, Kasumi)**:
+   Rute **Murasaki Izumiko**, **Saitama Nanako**, dan **Kiryuu Kasumi** aslinya memang diciptakan pertama kali oleh CIRCUS khusus untuk rilis konsol PS2/PSP sebagai rute All-Age.
+3. **Peluang Terjemahan Bahasa Indonesia**:
+   Sebanyak 171 scene All-Age konsol yang belum diterjemahkan (karena penerjemah barat zaman dulu hanya fokus pada versi PC) teks Jepang aslinya sudah tersimpan lengkap di `analysis/dc1_script.json`. Komunitas dapat langsung menerjemahkannya ke **Bahasa Indonesia** melalui folder `translations/id/sheets/`!
 
-Berbeda dengan versi PC yang memiliki konten dewasa (18+), di dalam **Plus Situation** seluruh skenario disajikan khusus dalam format **All-Age**: adegan intim diganti total dengan adegan romantis ramah semua umur (*SFW wholesome romance*), ditambah event kehidupan sekolah baru, serta 6 heroine baru yang diperkenalkan pada versi konsol.
-
-Menu *Scene Replay* pada **D.C.P.S. Plus Situation** terbagi menjadi **14 Tab Rute** (13 Heroine + 1 Tab `etc`). Dari total **892 scene skrip All-Age** di dalam game, sebanyak **721 scene (80.8%)** saat ini telah siap dimainkan:
-
-| No | Tab Heroine (di Menu Replay D.C.P.S.) | Kategori Karakter | Total Scene All-Age | Terjemah Saat Ini | Status Kelengkapan | Keterangan Skenario Plus Situation |
-|:---:|---|---|:---:|:---:|:---:|---|
-| 1 | **Asakura Nemu** (朝倉 音夢) | Heroine Utama | 114 scene | 109 (95.6%) | ⚠️ Sisa 5 scene | Skenario romansa sekolah & keluarga (SFW) |
-| 2 | **Yoshino Sakura** (芳乃 さくら) | Heroine Utama | 94 scene | 91 (96.8%) | ⚠️ Sisa 3 scene | Skenario pohon sakura abadi (SFW) |
-| 3 | **Shirakawa Kotori** (白河 ことり) | Heroine Utama | 91 scene | 89 (97.8%) | ⚠️ Sisa 2 scene | Skenario idola sekolah & musik (SFW) |
-| 4 | **Amakase Miharu** (天枷 美春) | Heroine Utama | 57 scene | 50 (87.7%) | ⚠️ Sisa 7 scene | Skenario adik kelas & robot Android (SFW) |
-| 5 | **Mizukoshi Moe** (水越 萌) | Heroine Utama | 41 scene | 39 (95.1%) | ⚠️ Sisa 2 scene | Skenario kakak Mizukoshi & xilofon (SFW) |
-| 6 | **Mizukoshi Mako** (水越 眞子) | Heroine Utama | 21 scene | 17 (81.0%) | ⚠️ Sisa 4 scene | Skenario teman masa kecil tomboy (SFW) |
-| 7 | **Sagisawa Yoriko** (鷺澤 頼子) | Heroine Pendukung | 51 scene | **51 (100%)** | ✅ **LENGKAP** | Skenario gadis kucing & pelayan (SFW) |
-| 8 | **Tsukishiro Alice** (月城 アリス) | Heroine Baru Konsol | 40 scene | **40 (100%)** | ✅ **LENGKAP** | Skenario pesulap sirkus & boneka (All-Age) |
-| 9 | **Konomiya Tamaki** (胡ノ宮 環) | Heroine Baru Konsol | 44 scene | **44 (100%)** | ✅ **LENGKAP** | Skenario gadis kuil miko & tunangan (All-Age) |
-| 10 | **Kudou Kanae** (工藤 叶) | Heroine Baru Konsol | 17 scene | **17 (100%)** | ✅ **LENGKAP** | Skenario teman sekelas & rahasia kembar (All-Age) |
-| 11 | **Saitama Nanako** (彩珠 ななこ) | Heroine Baru Konsol | 29 scene | **4 (13.8%)** | ❌ **Sisa 25 scene** | Skenario gadis ceria berkacamata (All-Age) |
-| 12 | **Murasaki Izumiko** (紫 和泉子) | Heroine Baru Konsol | 9 scene | **0 (0.0%)** | ❌ **Sisa 9 scene** | Skenario alien berkostum beruang (All-Age) |
-| 13 | **Kiryuu Kasumi** (霧羽 香澄) | Heroine Baru Konsol | 5 scene | **3 (60.0%)** | ⚠️ **Sisa 2 scene** | Skenario gadis arwah penasaran (All-Age) |
-| 14 | **etc** (Common & Event Sekolah) | Rute Umum & Sub-Event | 279 scene | 167 (59.9%) | ⚠️ Sisa 112 scene | Prolog, interaksi sekolah, komedi Suginami |
-| | **TOTAL KESELURUHAN D.C.P.S.** | | **892 scene** | **721 scene (80.8%)** | ⚠️ **Sisa 171 scene** | Seluruhnya skenario All-Age konsol PSP |
-
-> **Catatan Alur Terjemahan Skenario Plus Situation**:
-> 171 scene All-Age konsol yang belum diterjemahkan (termasuk rute **Nanako**, **Izumiko**, dan ending **Kasumi**) adalah naskah murni buatan Circus khusus untuk rilis konsol *Plus Situation*. Teks Jepang aslinya telah diekstrak lengkap di `analysis/dc1_script.json` dan siap diterjemahkan langsung ke **Bahasa Indonesia** melalui folder `translations/id/sheets/`.
-> 
-> Untuk memverifikasi kembali status kelengkapan scene kapan saja:
-> ```bash
-> python analysis/check_heroine_completion.py
-> ```
+Untuk memeriksa kembali status kelengkapan 892 scene per-heroine kapan saja:
+```bash
+python analysis/check_heroine_completion.py
+```
 
 ---
 
