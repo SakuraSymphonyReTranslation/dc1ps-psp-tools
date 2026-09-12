@@ -13,7 +13,7 @@ Repositori ini menyediakan pipeline terintegrasi dan otomatis untuk menerjemahka
 
 ### ✨ Fitur Utama:
 1. **Arsitektur Hybrid Lengkap (721 Scene / 66.868 Baris Teks)**:
-   - **FanTL English**: Mengunci terjemahan PC FanTL untuk Common route, Kotori Shirakawa, Tamaki Tsurumaki, Alice Tsukishiro, dan Kanae Kudou.
+   - **FanTL English**: Mengunci terjemahan PC FanTL oleh tim **[Arkanos](https://vndb.org/p184)** untuk Common route, Kotori Shirakawa, Tamaki Tsurumaki, Alice Tsukishiro, dan Kanae Kudou.
    - **MangaGamer Official English**: Melengkapi seluruh route heroine klasik yang sebelumnya tidak diterjemahkan di FanTL (Nemu Asakura, Sakura Yoshino, Miharu Amakase, Mako Mizukoshi, Moe Mizukoshi, Misaki Sawai, Yoriko Sagisawa, dan seluruh endingnya).
 2. **Dukungan Penuh Bahasa Indonesia**:
    - Sistem lembar terjemahan (*sheets*) per-scene yang mudah diedit.
@@ -112,11 +112,11 @@ graph TD
 
 | No | Heroine / Route | Sumber Naskah | Jumlah Scene | Keterangan Cerita |
 | :---: | :--- | :---: | :---: | :--- |
-| **-** | **Common Route & Shared Events** | FanTL ENG | **141 scene** | Prologue, kehidupan sekolah, sarapan, makan siang, jalan pulang bersama. |
-| **1** | **Kotori Shirakawa** (白河 ことり) | FanTL ENG | **89 scene** | Idola sekolah & penyanyi paduan suara. |
-| **2** | **Tamaki Tsurumaki** (環) | FanTL ENG | **46 scene** | Gadis kuil / miko (*Heroine Plus Communication*). |
-| **3** | **Alice Tsukishiro** (アリス) | FanTL ENG | **43 scene** | Gadis sirkus asal Eropa (*Heroine Plus Communication*). |
-| **4** | **Kanae Kudou** (佳苗 / 工藤) | FanTL ENG | **20 scene** | Teman sekelas yang menyamar (*Heroine Plus Communication*). |
+| **-** | **Common Route & Shared Events** | FanTL ENG ([Arkanos](https://vndb.org/p184)) | **141 scene** | Prologue, kehidupan sekolah, sarapan, makan siang, jalan pulang bersama. |
+| **1** | **Kotori Shirakawa** (白河 ことり) | FanTL ENG ([Arkanos](https://vndb.org/p184)) | **89 scene** | Idola sekolah & penyanyi paduan suara. |
+| **2** | **Tamaki Tsurumaki** (環) | FanTL ENG ([Arkanos](https://vndb.org/p184)) | **46 scene** | Gadis kuil / miko (*Heroine Plus Communication*). |
+| **3** | **Alice Tsukishiro** (アリス) | FanTL ENG ([Arkanos](https://vndb.org/p184)) | **43 scene** | Gadis sirkus asal Eropa (*Heroine Plus Communication*). |
+| **4** | **Kanae Kudou** (佳苗 / 工藤) | FanTL ENG ([Arkanos](https://vndb.org/p184)) | **20 scene** | Teman sekelas yang menyamar (*Heroine Plus Communication*). |
 | **5** | **Nemu Asakura** (朝倉 音夢) | MangaGamer Official | **89 scene** | Adik tiri Junichi, event sakit demam, cek suhu dahi, kencan malam. |
 | **6** | **Sakura Yoshino** (芳乃 さくら) | MangaGamer Official | **86 scene** | Teman masa kecil dari Amerika, pohon sakura abadi, bekal makan siang. |
 | **7** | **Yoriko Sagisawa** (鷺澤 頼子) | MangaGamer Official | **53 scene** | Gadis bertopi kucing / pelayan rumah tangga & perpustakaan. |
@@ -202,6 +202,6 @@ Cukup klik dua kali file **`run_menu.bat`** di folder utama:
 
 ## ⚖️ Lisensi & Hak Cipta
 * D.C.P.S. (Da Capo Plus Situation) adalah hak cipta © CIRCUS / Kadokawa Shoten.
-* Naskah FanTL adalah karya tim FanTL Circus Visual Novel.
+* Naskah FanTL bahasa Inggris adalah karya tim **[Arkanos](https://vndb.org/p184)**.
 * Naskah resmi bahasa Inggris adalah hak cipta © MangaGamer / CIRCUS.
 * Toolkit ini dikembangkan semata-mata untuk tujuan pelestarian, riset reverse engineering, dan lokalisasi non-komersial.
